@@ -12,8 +12,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Byron</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. (ret., T.A.) (Hon. Capt. in Army) W., T.D. (Col., ret.)</Text>
+      <Title>Lt.-Col. (ret., T.A.) (Hon. Capt. in Army)</Title>
+      <Forenames>W.</Forenames>
+      <Text>, T.D. (Col., ret.)</Text>
       <PageNumber>911</PageNumber>
     </MainItem>
     <SubItem>
@@ -28,22 +29,27 @@
   <ItemGroup>
     <MainItem>
       <Key>Cadic</Key>
-      <Text>, 2nd Lt. E. S. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>E. S.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>2239</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Caird</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. F. M., M.B., F. R.C.S. (is retired, having attained age limit, and retains rank of Lt.-Col.)</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>F. M.</Forenames>
+      <Text>, M.B., F. R.C.S. (is retired, having attained age limit, and retains rank of Lt.-Col.)</Text>
       <PageNumber>2169</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Cairns</Key>
-      <Text>, Capt. (prov.) T. E., M.C. (confd.)</Text>
+      <Title>Capt. (prov.)</Title>
+      <Forenames>T. E.</Forenames>
+      <Text>, M.C. (confd.)</Text>
       <PageNumber>1232</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -67,7 +73,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Cambridge</Key>
-      <Text>, Hon. Col. (Lt.-Col., ret. pay) (Personal A.D.C. to the King) The Marquis of, G. C.B., G.C.V.O., C.M.G. (resigns appt. of Hon. Col., 8th Bh., Lond. R., and retains rank of Hon. Col., with permission to wear prescribed</Text>
+      <Title>Hon. Col. (Lt.-Col., ret. pay) (Personal A.D.C. to the King)</Title>
+      <Forenames>The</Forenames>
+      <Text>Marquis of, G. C.B., G.C.V.O., C.M.G. (resigns appt. of Hon. Col., 8th Bh., Lond. R., and retains rank of Hon. Col., with permission to wear prescribed</Text>
       <PageNumber>2168</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -184,7 +192,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Carter</Key>
-      <Text>, .Capt. F. B., M.D, F.R.C.S. (is retired, having attained age limit and retains rank of Capt.)</Text>
+      <Text>.Capt. F. B., M.D, F.R.C.S. (is retired, having attained age limit and retains rank of Capt.)</Text>
       <PageNumber>1074</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -210,7 +218,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Cash</Key>
-      <Text>, Capt. (Bt, Maj.) J. N., M.C. (Adjt., 43rd (Wessex) Div. Engrs.)</Text>
+      <Title>Capt. (Bt, Maj.)</Title>
+      <Forenames>J. N.</Forenames>
+      <Text>, M.C. (Adjt., 43rd (Wessex) Div. Engrs.)</Text>
       <PageNumber>1073</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -235,8 +245,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Cathcart</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. C. W., C.B.E., M.B., F.R.C.S. (is retired, having attained age limit, and retains rank of Lt.-Col.) -</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>C. W.</Forenames>
+      <Text>, C.B.E., M.B., F.R.C.S. (is retired, having attained age limit, and retains rank of Lt.-Col.) -</Text>
       <PageNumber>2169</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -252,7 +263,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Cavanagh</Key>
-      <Text>, Capt. (Bt. Maj.) T. F., M.C. (Adjt., 107th (S. Notts. H. Yeo.) Bde (A.T.), R.F.A.)</Text>
+      <Title>Capt. (Bt. Maj.)</Title>
+      <Forenames>T. F.</Forenames>
+      <Text>, M.C. (Adjt., 107th (S. Notts. H. Yeo.) Bde (A.T.), R.F.A.)</Text>
       <PageNumber>998</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -277,7 +290,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Chamberlain</Key>
-      <Text>, Capt. (T.A. Res.) W. B., M.C. (Capt., T.A. Res., Gen. List, Yeo.)</Text>
+      <Title>Capt. (T.A. Res.)</Title>
+      <Forenames>W. B.</Forenames>
+      <Text>, M.C. (Capt., T.A. Res., Gen. List, Yeo.)</Text>
       <PageNumber>1914</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -359,9 +374,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Charteris</Key>
-      <Title>Hon.</Title>
-      <Forenames>Chapln</Forenames>
-      <Text>. to the Forces. 2nd CI., the Rev. W. C, O.B.E., M.C. (Chapln., 2nd CI., T.A. Res., R.A. Chaplns' Dept.)</Text>
+      <Title>Hon. Chapln.</Title>
+      <Text>to the Forces. 2nd CI., the Rev. W. C, O.B.E., M.C. (Chapln., 2nd CI., T.A. Res., R.A. Chaplns' Dept.)</Text>
       <PageNumber>999</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -414,8 +428,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Chichester</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. W. R., O.B.E. (is retired, on completion of tenure of command, 8th Bn., Wore. R., and retains rank of Lt.-Col., with permission to wear prescribed uniform)</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>W. R.</Forenames>
+      <Text>, O.B.E. (is retired, on completion of tenure of command, 8th Bn., Wore. R., and retains rank of Lt.-Col., with permission to wear prescribed uniform)</Text>
       <PageNumber>911</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -459,7 +474,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Christopherson</Key>
-      <Text>, 2nd Lt. I. .(2nd Lt., Gen. List, for service with Sedbergh Sch. Cont., Jun. Div., O.T.C., late R.G.A.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>I.</Forenames>
+      <Text>.(2nd Lt., Gen. List, for service with Sedbergh Sch. Cont., Jun. Div., O.T.C., late R.G.A.)</Text>
       <PageNumber>098</PageNumber>
     </MainItem>
     <SubItem>
@@ -479,7 +496,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Churchouse</Key>
-      <Text>, Capt. (late R.A.M.C., T.F.) Wm. King, M.C. (Capt., R.A.M.C., Gen. List)</Text>
+      <Title>Capt. (late R.A.M.C., T.F.) Wm. King</Title>
+      <Text>, M.C. (Capt., R.A.M.C., Gen. List)</Text>
       <PageNumber>1412</PageNumber>
     </MainItem>
     <SubItem>
@@ -579,8 +597,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Clayton</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. W. K., C.M.G., T.D. (is retired, having attained age limit, and retains rank of Lt.-Col., with permission to wear prescribed uniform)</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>W. K.</Forenames>
+      <Text>, C.M.G., T.D. (is retired, having attained age limit, and retains rank of Lt.-Col., with permission to wear prescribed uniform)</Text>
       <PageNumber>2169</PageNumber>
     </MainItem>
   </ItemGroup>

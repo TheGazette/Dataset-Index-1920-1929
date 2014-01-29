@@ -268,8 +268,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pulteney</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Gen. Sir William Pulteney, K.C.B., K.C.M.G.. D.S.O., Gentleman Usher of the Black Rod</Text>
+      <Title>Lt.</Title>
+      <Text>-Gen. Sir William Pulteney, K.C.B., K.C.M.G.. D.S.O., Gentleman Usher of the Black Rod</Text>
       <PageNumber>711</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -534,7 +534,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Rahilly</Key>
-      <Text>, Maj. (A./Lt.-Col.) John Maurice Bisdee, M.B., Officer, Order of the British Empire</Text>
+      <Title>Maj. (A./Lt.-Col.)</Title>
+      <Forenames>John Maurice Bisdee</Forenames>
+      <Text>, M.B., Officer, Order of the British Empire</Text>
       <PageNumber>1374</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -158,7 +158,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Derby</Key>
-      <Text>, Earl of ... ,</Text>
+      <Title>Earl</Title>
+      <Text>of ... ,</Text>
       <PageNumber>7649</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -409,7 +410,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ebbisham</Key>
-      <Text>, Lord</Text>
+      <Title>Lord .</Title>
       <PageNumber>6853</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -458,7 +459,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Elkington</Key>
-      <Text>,' C. G.'</Text>
+      <Text>' C. G.'</Text>
       <PageNumber>7304</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -636,7 +637,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gregory</Key>
-      <Text>, H 7983, 8254 ___ ___ ___ J. N</Text>
+      <Forenames>H</Forenames>
+      <Text>7983, 8254 ___ ___ ___ J. N</Text>
       <PageNumber>8541</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -652,7 +654,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hansford</Key>
-      <Text>, B Lauderdale, Earl of</Text>
+      <Forenames>B</Forenames>
+      <Text>Lauderdale, Earl of</Text>
       <PageNumber>6496</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -683,7 +686,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Harington</Key>
-      <Text>, H ___ ___ ___ R. L</Text>
+      <Forenames>H</Forenames>
+      <Text>___ ___ ___ R. L</Text>
       <PageNumber>7898</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -698,7 +702,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Harrison</Key>
-      <Text>. C. T. ... Levet, N. E. G</Text>
+      <Text>C. T. ... Levet, N. E. G</Text>
       <PageNumber>7542</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -759,7 +763,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>S McDonald, J. R</Text>
+      <Forenames>S</Forenames>
+      <Text>McDonald, J. R</Text>
       <PageNumber>8403</PageNumber>
     </MainItem>
   </ItemGroup>

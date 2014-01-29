@@ -28,8 +28,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Parish</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Woodbine, C.B.E., Companion, Order of Saint Michael and Saint George</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Woodbine</Forenames>
+      <Text>, C.B.E., Companion, Order of Saint Michael and Saint George</Text>
       <PageNumber>6</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -174,14 +175,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Powis</Key>
-      <Text>, Col. the Earl of, Knight of Justice, Order of St. John of Jerusalem</Text>
+      <Title>Col.</Title>
+      <Text>the Earl of, Knight of Justice, Order of St. John of Jerusalem</Text>
       <PageNumber>40</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Pring</Key>
-      <Text>, T/Lt. (A/Capt.) John Norman, Order of the British Empire, correction</Text>
+      <Forenames>T</Forenames>
+      <Text>/Lt. (A/Capt.) John Norman, Order of the British Empire, correction</Text>
       <PageNumber>41</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -204,7 +207,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pyke</Key>
-      <Text>, -Cyril John, Official Receiver in Bankruptcy</Text>
+      <Text>-Cyril John, Official Receiver in Bankruptcy</Text>
       <PageNumber>2108</PageNumber>
     </MainItem>
   </ItemGroup>

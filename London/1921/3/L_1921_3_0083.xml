@@ -3,7 +3,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Harrison</Key>
-      <Text>, ' Gentleman Cadet Leonard Audley (2nd Lt.)</Text>
+      <Text>' Gentleman Cadet Leonard Audley (2nd Lt.)</Text>
       <PageNumber>5452</PageNumber>
     </MainItem>
     <SubItem>
@@ -70,7 +70,9 @@
       <Key>
         <KeyDitto>___ .—-. ___ ___</KeyDitto>
       </Key>
-      <Text>2nd Lt. E. W. B. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>E. W. B.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>5708</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -122,9 +124,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Title>temp.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>. T: B. (rel. commn. \ on completion of service, and retains rank of Lt.)</Text>
+      <Title>temp. Lt.</Title>
+      <Forenames>T</Forenames>
+      <Text>: B. (rel. commn. \ on completion of service, and retains rank of Lt.)</Text>
       <PageNumber>7437</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -164,7 +166,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>temp. 2nd Lt. H. A. (temp. Lt. for service with Forces in E. Africa)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>H. A.</Forenames>
+      <Text>(temp. Lt. for service with Forces in E. Africa)</Text>
       <PageNumber>6458</PageNumber>
     </MainItem>
     <SubItem>
@@ -262,7 +266,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>2nd Lt. (now Lt.) H. B. (date of commn. for purposes of seniority)</Text>
+      <Title>2nd Lt. (now Lt.)</Title>
+      <Forenames>H. B.</Forenames>
+      <Text>(date of commn. for purposes of seniority)</Text>
       <PageNumber>5902</PageNumber>
     </MainItem>
     <SubItem>
@@ -417,8 +423,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (now Capt.) L. L., D.S.O., M.C. (seed, for service under the Colonial Office)</Text>
+      <Title>Lt. (now Capt.)</Title>
+      <Forenames>L. L.</Forenames>
+      <Text>, D.S.O., M.C. (seed, for service under the Colonial Office)</Text>
       <PageNumber>6258</PageNumber>
     </MainItem>
     <SubItem>
@@ -429,7 +436,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hastings</Key>
-      <Text>, temp. . Lt. A. R. (rel. commn. on completion of service and retains rank of Lt.)</Text>
+      <Title>temp.</Title>
+      <Text>. Lt. A. R. (rel. commn. on completion of service and retains rank of Lt.)</Text>
       <PageNumber>7646</PageNumber>
     </MainItem>
   </ItemGroup>

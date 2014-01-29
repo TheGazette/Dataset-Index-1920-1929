@@ -3,63 +3,76 @@
   <ItemGroup>
     <MainItem>
       <Key>Forrest</Key>
-      <Text>(Surg. Cdr.). James A., M.B</Text>
+      <Title>(Surg. Cdr.)</Title>
+      <Text>. James A., M.B</Text>
       <PageNumber>141</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Garde</Key>
-      <Text>(Surg. Cdr.) Walter H. O</Text>
+      <Title>(Surg. Cdr.)</Title>
+      <Forenames>Walter H. O.</Forenames>
       <PageNumber>141</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Lavertine</Key>
-      <Text>(Surg. Cdr.) Albert X</Text>
+      <Title>(Surg. Cdr.)</Title>
+      <Forenames>Albert X.</Forenames>
       <PageNumber>141</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Mathew</Key>
-      <Text>(Surg. Cdr.) William E</Text>
+      <Title>(Surg. Cdr.)</Title>
+      <Forenames>William E.</Forenames>
       <PageNumber>141</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Pope</Key>
-      <Text>(Surg. Cdr.) Wm. H., O.B.E</Text>
+      <Title>(Surg. Cdr.) Wm.</Title>
+      <Forenames>H.</Forenames>
+      <Text>, O.B.E</Text>
       <PageNumber>801</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Shewell</Key>
-      <Text>, (Surg. Cdr.) Herbert W. B. , O.B.E., M.A., M.B</Text>
+      <Title>(Surg. Cdr.)</Title>
+      <Forenames>Herbert W. B.</Forenames>
+      <Text>, O.B.E., M.A., M.B</Text>
       <PageNumber>1408</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Tuck</Key>
-      <Text>(Surg. Cdr ) Ernest S</Text>
+      <Title>(Surg. Cdr )</Title>
+      <Forenames>Ernest S.</Forenames>
       <PageNumber>141</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Vizard</Key>
-      <Text>(Surg. Cdr.) Arthur H. II., M.D</Text>
+      <Title>(Surg. Cdr.)</Title>
+      <Forenames>Arthur H.</Forenames>
+      <Text>II., M.D</Text>
       <PageNumber>141</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Woods</Key>
-      <Text>(Surg. Cdr.) Samuel B., O.B.E., B.A., M.D</Text>
+      <Title>(Surg. Cdr.)</Title>
+      <Forenames>Samuel B.</Forenames>
+      <Text>, O.B.E., B.A., M.D</Text>
       <PageNumber>1227</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -77,8 +90,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Aubrey</Key>
-      <Forenames>George</Forenames>
-      <Text>.„</Text>
+      <Title>George .</Title>
+      <Text>„</Text>
       <PageNumber>606</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -98,36 +111,32 @@
   <ItemGroup>
     <MainItem>
       <Key>Brown</Key>
-      <Title>Actg. Surg.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>. (D.) Stephen E</Text>
+      <Title>Actg. Surg. Lt. (D.)</Title>
+      <Forenames>Stephen E</Forenames>
       <PageNumber>525</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Douglas</Key>
-      <Title>Actg. Surg.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>. (D.) . William T. L</Text>
+      <Title>Actg. Surg. Lt. (D.)</Title>
+      <Text>. William T. L</Text>
       <PageNumber>525</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Edwards</Key>
-      <Title>Actg. Surg.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>. (D.) John L</Text>
+      <Title>Actg. Surg. Lt. (D.)</Title>
+      <Forenames>John L .</Forenames>
       <PageNumber>525</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Park</Key>
-      <Title>Actg. Surg.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>. (D.) John M</Text>
+      <Title>Actg. Surg. Lt. (D.)</Title>
+      <Forenames>John M</Forenames>
       <PageNumber>525</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -163,16 +172,18 @@
   <ItemGroup>
     <MainItem>
       <Key>Bramble</Key>
-      <Forenames>Payr</Forenames>
-      <Text>. Capt. (retd.) James, C. B</Text>
+      <Title>Payr. Capt. (retd.)</Title>
+      <Forenames>James</Forenames>
+      <Text>, C. B</Text>
       <PageNumber>1151</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Clow</Key>
-      <Forenames>Payr</Forenames>
-      <Text>. Capt. (retd.) George J., C.B</Text>
+      <Title>Payr. Capt. (retd.)</Title>
+      <Forenames>George J.</Forenames>
+      <Text>, C.B</Text>
       <PageNumber>1151</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -188,16 +199,18 @@
   <ItemGroup>
     <MainItem>
       <Key>Dawson</Key>
-      <Forenames>Payr</Forenames>
-      <Text>. Capt. (retd.) Henry, C.B.E „</Text>
+      <Title>Payr. Capt. (retd.)</Title>
+      <Forenames>Henry</Forenames>
+      <Text>, C.B.E „</Text>
       <PageNumber>1151</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Dunbar</Key>
-      <Forenames>Pajr</Forenames>
-      <Text>. Capt. (retd.) Charles A. R. F., C.B.E</Text>
+      <Title>Pajr. Capt. (retd.)</Title>
+      <Forenames>Charles A. R. F.</Forenames>
+      <Text>, C.B.E</Text>
       <PageNumber>1151</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -212,8 +225,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Macdonald</Key>
-      <Forenames>Payr</Forenames>
-      <Text>. Capt. (retd.) David J., C.B.E</Text>
+      <Title>Payr. Capt. (retd.)</Title>
+      <Forenames>David J.</Forenames>
+      <Text>, C.B.E</Text>
       <PageNumber>1151</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -237,8 +251,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Winterbottom</Key>
-      <Forenames>Payr</Forenames>
-      <Text>. Capt. (retd.) Thomas, C.B.E</Text>
+      <Title>Payr. Capt. (retd.)</Title>
+      <Forenames>Thomas</Forenames>
+      <Text>, C.B.E</Text>
       <PageNumber>1151</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -277,9 +292,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Foden</Key>
-      <Title>Pay. Cdr.</Title>
-      <Forenames>Harry</Forenames>
-      <Text>... _</Text>
+      <Title>Pay. Cdr. Harry .</Title>
+      <Text>.. _</Text>
       <PageNumber>141</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -396,9 +410,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Heaton</Key>
-      <Title>Pay.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>.-Cdr. (retd.) Charles H., O.B.E</Text>
+      <Title>Pay. Lt.</Title>
+      <Text>-Cdr. (retd.) Charles H., O.B.E</Text>
       <PageNumber>2165</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -412,18 +425,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Stuart</Key>
-      <Title>Pay.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>.-Cdr. (retd.) Shelley B. A</Text>
+      <Title>Pay. Lt.</Title>
+      <Text>-Cdr. (retd.) Shelley B. A</Text>
       <PageNumber>2165</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Thompson</Key>
-      <Title>Pay. Lt.</Title>
-      <Forenames>Cdr</Forenames>
-      <Text>. (retd.) Norman DA</Text>
+      <Title>Pay. Lt. Cdr. (retd.)</Title>
+      <Forenames>Norman</Forenames>
+      <Text>DA</Text>
       <PageNumber>2165</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -432,9 +444,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Title>Pay.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>. Cdr. (retd.) Edwin P</Text>
+      <Title>Pay. Lt.</Title>
+      <Text>Cdr. (retd.) Edwin P</Text>
       <PageNumber>2165</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -457,9 +468,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Carter</Key>
-      <Title>Pay.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>. (retd.) Robert H</Text>
+      <Title>Pay. Lt. (retd.)</Title>
+      <Forenames>Robert H.</Forenames>
       <PageNumber>2165</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -574,8 +584,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rook</Key>
-      <Forenames>Thomas</Forenames>
-      <Text>... ... .„</Text>
+      <Title>Thomas .</Title>
+      <Text>.. ... .„</Text>
       <PageNumber>302</PageNumber>
     </MainItem>
     <SubItem>
@@ -681,26 +691,24 @@
   <ItemGroup>
     <MainItem>
       <Key>Aldridge</Key>
-      <Title>Pay.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>.-Cdr. FarrautF., R.D. (Pay. Cdr.)</Text>
+      <Title>Pay. Lt.</Title>
+      <Text>-Cdr. FarrautF., R.D. (Pay. Cdr.)</Text>
       <PageNumber>14</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Alexander</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Cdr. Robert L., D.S.O., R.D. (Cdr.)</Text>
+      <Title>Lt.</Title>
+      <Text>-Cdr. Robert L., D.S.O., R.D. (Cdr.)</Text>
       <PageNumber>14</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Barnby</Key>
-      <Title>Pay.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>.-Cdr. Laurence Y., R.D. (Pay. Odr.)</Text>
+      <Title>Pay. Lt.</Title>
+      <Text>-Cdr. Laurence Y., R.D. (Pay. Odr.)</Text>
       <PageNumber>14</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -716,16 +724,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Boggs</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Cdr. Lawrence S., R.D. (placed on Retd. List)</Text>
+      <Title>Lt.</Title>
+      <Text>-Cdr. Lawrence S., R.D. (placed on Retd. List)</Text>
       <PageNumber>141</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Brown</Key>
-      <Forenames>Pay</Forenames>
-      <Text>. Sub-Lt. Arthur S., B.A. (Fay. Lt.)</Text>
+      <Title>Pay. Sub-Lt</Title>
+      <Text>. Arthur S., B.A. (Fay. Lt.)</Text>
       <PageNumber>525</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -739,17 +747,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Calder</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Cdr. (retd.) William R., R.D. (Cdr., retd.)</Text>
+      <Title>Lt.</Title>
+      <Text>-Cdr. (retd.) William R., R.D. (Cdr., retd.)</Text>
       <PageNumber>2317</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Camnbell</Key>
-      <Title>Pay.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>.-Cdr. Archil aid B., R.D. (Pay. Cdr.) ,</Text>
+      <Title>Pay. Lt.</Title>
+      <Text>-Cdr. Archil aid B., R.D. (Pay. Cdr.) ,</Text>
       <PageNumber>14</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -765,8 +772,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Casson</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Cdr. Dunsley H., R.D. (Cdr.)</Text>
+      <Title>Lt.</Title>
+      <Text>-Cdr. Dunsley H., R.D. (Cdr.)</Text>
       <PageNumber>14</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -791,33 +798,33 @@
   <ItemGroup>
     <MainItem>
       <Key>Clifton-Mogg</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (retd.) William P. (Lt.-Cdr., retd.)</Text>
+      <Title>Lt. (retd.)</Title>
+      <Forenames>William P.</Forenames>
+      <Text>(Lt.-Cdr., retd.)</Text>
       <PageNumber>994</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Cooper</Key>
-      <Title>Pay.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>.-Cdr. Bernard H., R.D. (Pay. Cdr.)</Text>
+      <Title>Pay. Lt.</Title>
+      <Text>-Cdr. Bernard H., R.D. (Pay. Cdr.)</Text>
       <PageNumber>14</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Cottrell</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Cdr. Vincent S., R.D. (Cdr.)</Text>
+      <Title>Lt.</Title>
+      <Text>-Cdr. Vincent S., R.D. (Cdr.)</Text>
       <PageNumber>14</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Davey</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Cdr. George, R.D. (placed on Retd. List)</Text>
+      <Title>Lt.</Title>
+      <Text>-Cdr. George, R.D. (placed on Retd. List)</Text>
       <PageNumber>605</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -833,9 +840,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dettmar</Key>
-      <Title>Actg.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>.-Cdr. Charles L., D.S.C. (Lt.-Cdr.)</Text>
+      <Title>Actg. Lt.</Title>
+      <Text>-Cdr. Charles L., D.S.C. (Lt.-Cdr.)</Text>
       <PageNumber>1910</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -851,9 +857,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Drake</Key>
-      <Title>Pay.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>.-Cdr. Charles C. H., R.D. (Pay. Cdr.)</Text>
+      <Title>Pay. Lt.</Title>
+      <Text>-Cdr. Charles C. H., R.D. (Pay. Cdr.)</Text>
       <PageNumber>14</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -869,17 +874,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Dunn</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Cdr. Harold T., R.D. (Cdr.)</Text>
+      <Title>Lt.</Title>
+      <Text>-Cdr. Harold T., R.D. (Cdr.)</Text>
       <PageNumber>14</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Egleton</Key>
-      <Title>Pay.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>.-Cdr. Harold E., R.D. (Pay. Cdr.)</Text>
+      <Title>Pay. Lt.</Title>
+      <Text>-Cdr. Harold E., R.D. (Pay. Cdr.)</Text>
       <PageNumber>14</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -895,9 +899,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Everett</Key>
-      <Title>Pay.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>.-Cdr. William B. , R.D. (Pay. Cdr.)</Text>
+      <Title>Pay. Lt.</Title>
+      <Text>-Cdr. William B. , R.D. (Pay. Cdr.)</Text>
       <PageNumber>14</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -913,8 +916,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Foden</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Cdr. David F. W., R.D. (placed on Retd. List)</Text>
+      <Title>Lt.</Title>
+      <Text>-Cdr. David F. W., R.D. (placed on Retd. List)</Text>
       <PageNumber>2072</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -949,9 +952,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fry</Key>
-      <Title>Pay.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>.-Cdr. Arthur W., R.D. (Pay. Cdr.)</Text>
+      <Title>Pay. Lt.</Title>
+      <Text>-Cdr. Arthur W., R.D. (Pay. Cdr.)</Text>
       <PageNumber>14</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -967,40 +969,39 @@
   <ItemGroup>
     <MainItem>
       <Key>Gill</Key>
-      <Title>Actg.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>.-Cdr. Roy, R.D. (Lt.-Cdr.)</Text>
+      <Title>Actg. Lt.</Title>
+      <Text>-Cdr. Roy, R.D. (Lt.-Cdr.)</Text>
       <PageNumber>1301</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Gillespie</Key>
-      <Text>, ex-temp. Payr. Lt. Alexander P. (trd. to perm. list as Payr. Lt.)</Text>
+      <Text>ex-temp. Payr. Lt. Alexander P. (trd. to perm. list as Payr. Lt.)</Text>
       <PageNumber>1070</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Groome</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Cdr. (retd.) Frederick T., O.B.E., R.D. (Cdr., retd.)</Text>
+      <Title>Lt.</Title>
+      <Text>-Cdr. (retd.) Frederick T., O.B.E., R.D. (Cdr., retd.)</Text>
       <PageNumber>376</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Harding</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Cdr. (retd.) Horace R. (Cdr., retd.)</Text>
+      <Title>Lt.</Title>
+      <Text>-Cdr. (retd.) Horace R. (Cdr., retd.)</Text>
       <PageNumber>376</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Harford-Lloyd</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Cdr. George ff.,R.D. (Comdr.)</Text>
+      <Title>Lt.</Title>
+      <Text>-Cdr. George ff.,R.D. (Comdr.)</Text>
       <PageNumber>14</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1024,8 +1025,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hawkins</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Cdr. Ernest M., D. S.O., R.D. (placed on Retired List with rank of Cdr.)</Text>
+      <Title>Lt.</Title>
+      <Text>-Cdr. Ernest M., D. S.O., R.D. (placed on Retired List with rank of Cdr.)</Text>
       <PageNumber>451</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1058,9 +1059,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Landon</Key>
-      <Title>Payr.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>.-Cdr. Edward</Text>
+      <Title>Payr. Lt.</Title>
+      <Text>-Cdr. Edward</Text>
       <PageNumber>1818</PageNumber>
     </MainItem>
     <SubItem>
@@ -1079,17 +1079,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Lyon</Key>
-      <Title>Actg.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>.-Cdr. Victor F., R.D. (Lt.-Cdr.)</Text>
+      <Title>Actg. Lt.</Title>
+      <Text>-Cdr. Victor F., R.D. (Lt.-Cdr.)</Text>
       <PageNumber>606</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Malzard</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (retd.) Gordon, R.D</Text>
+      <Title>Lt. (retd.)</Title>
+      <Forenames>Gordon</Forenames>
+      <Text>, R.D</Text>
       <PageNumber>994</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1104,8 +1104,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mason</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Cdr. William I , R.D.,</Text>
+      <Title>Lt.</Title>
+      <Text>-Cdr. William I , R.D.,</Text>
       <PageNumber>14</PageNumber>
     </MainItem>
     <SubItem>
@@ -1142,17 +1142,18 @@
   <ItemGroup>
     <MainItem>
       <Key>Mogg</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (retd.) William P. Clifton-, see Clifton-Mogg, Lt. (retd.) William P. Moore, Lt. Harry A. (Lt.. Cdr.)</Text>
+      <Title>Lt. (retd.)</Title>
+      <Forenames>William P. Clifton-</Forenames>
+      <Text>, see Clifton-Mogg, Lt. (retd.) William P. Moore, Lt. Harry A. (Lt.. Cdr.)</Text>
       <PageNumber>606</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Munro</Key>
-      <Title>Eng.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>. (retd.) Charlesr* ___ ___ (Eng.-Cdr., retd.) ... fr:</Text>
+      <Title>Eng. Lt. (retd.)</Title>
+      <Forenames>Charlesr</Forenames>
+      <Text>* ___ ___ (Eng.-Cdr., retd.) ... fr:</Text>
       <PageNumber>302</PageNumber>
     </MainItem>
   </ItemGroup>

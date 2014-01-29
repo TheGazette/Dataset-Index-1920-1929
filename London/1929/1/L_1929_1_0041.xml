@@ -47,7 +47,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Thomas</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>1349</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -90,7 +90,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Thorpe</Key>
-      <Text>, R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>1578</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -184,14 +184,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Wallett</Key>
-      <Text>, N</Text>
+      <Forenames>N</Forenames>
       <PageNumber>72</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Wallingford</Key>
-      <Text>, S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>1349</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -247,7 +247,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wells</Key>
-      <Text>, F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>466</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -439,7 +439,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hertford</Key>
-      <Text>(Acting): Barnard, Sir Edmund Broughton, O.B.E</Text>
+      <Title>(Acting)</Title>
+      <Text>: Barnard, Sir Edmund Broughton, O.B.E</Text>
       <PageNumber>317</PageNumber>
       <PageNumber>318</PageNumber>
     </MainItem>
@@ -583,7 +584,6 @@
       <PageNumber>216</PageNumber>
     </MainItem>
   </ItemGroup>
-  <CategoryTitle>ADVERTISEMENTS</CategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>Abbey</Key>

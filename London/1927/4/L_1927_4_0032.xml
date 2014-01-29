@@ -25,7 +25,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Chaney</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>7529</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -53,7 +53,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Chester</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>6811</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -90,14 +90,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Clancy</Key>
-      <Text>T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>8246</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Clark</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>6401</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -177,7 +177,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Collins</Key>
-      <Text>N</Text>
+      <Forenames>N</Forenames>
       <PageNumber>7269</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -356,7 +356,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cox-Cox</Key>
-      <Text>G7G</Text>
+      <Forenames>G</Forenames>
+      <Text>7G</Text>
       <PageNumber>6896</PageNumber>
       <PageNumber>8141</PageNumber>
     </MainItem>
@@ -447,7 +448,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cuff</Key>
-      <Text>B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>6553</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -497,7 +498,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Daly</Key>
-      <Text>B, J</Text>
+      <Forenames>B</Forenames>
+      <Text>, J</Text>
       <PageNumber>7185</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -581,7 +583,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>6401</PageNumber>
       <PageNumber>8142</PageNumber>
     </MainItem>
@@ -717,7 +719,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dickie</Key>
-      <Text>B). S</Text>
+      <Forenames>B</Forenames>
+      <Text>). S</Text>
       <PageNumber>7002</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -991,7 +994,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Elliot</Key>
-      <Text>B,. H</Text>
+      <Forenames>B</Forenames>
+      <Text>,. H</Text>
       <PageNumber>8371</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1134,7 +1138,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ferrv</Key>
-      <Text>J. G</Text>
+      <Text>. J. G</Text>
       <PageNumber>6810</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1163,8 +1167,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fisher</Key>
-      <Forenames>Bf</Forenames>
-      <Text>. AV</Text>
+      <Title>Bf.</Title>
+      <Text>AV</Text>
       <PageNumber>8371</PageNumber>
       <PageNumber>8371</PageNumber>
     </MainItem>
@@ -1739,7 +1743,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Grenfell</Key>
-      <Text>Lord</Text>
+      <Title>Lord</Title>
       <PageNumber>6553</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1829,7 +1833,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hacker</Key>
-      <Text>F, A. R</Text>
+      <Forenames>F</Forenames>
+      <Text>, A. R</Text>
       <PageNumber>7422</PageNumber>
     </MainItem>
   </ItemGroup>

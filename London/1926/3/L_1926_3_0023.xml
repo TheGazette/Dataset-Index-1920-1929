@@ -153,7 +153,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Anderson</Key>
-      <Text>, J anies. Member, Order of the British Empire</Text>
+      <Forenames>J</Forenames>
+      <Text>anies. Member, Order of the British Empire</Text>
       <PageNumber>4411</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -462,7 +463,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Beal</Key>
-      <Text>, Capt. (Commodore, 2nd Class) Alister Francis, C.M.G., A.D.C., Companion, Order of the Bath</Text>
+      <Title>Capt. (Commodore, 2nd Class)</Title>
+      <Forenames>Alister Francis</Forenames>
+      <Text>, C.M.G., A.D.C., Companion, Order of the Bath</Text>
       <PageNumber>4403</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -531,9 +534,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Title>Cadet</Title>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Lancelot William, V.D., Officer, Order of the British Empire</Text>
+      <Title>Cadet Lt.-Col.</Title>
+      <Forenames>Lancelot William</Forenames>
+      <Text>, V.D., Officer, Order of the British Empire</Text>
       <PageNumber>4410</PageNumber>
     </MainItem>
   </ItemGroup>

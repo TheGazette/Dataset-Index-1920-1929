@@ -470,7 +470,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Jee</Key>
-      <Text>N</Text>
+      <Forenames>N</Forenames>
       <PageNumber>7892</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -492,7 +492,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rikh</Key>
-      <Forenames>Albert</Forenames>
+      <Title>Albert .</Title>
       <PageNumber>10027</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -515,7 +515,7 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>Aubyn. John Henry Arundel Godolphin -</Text>
+      <Text>. Aubyn. John Henry Arundel Godolphin -</Text>
       <PageNumber>8725</PageNumber>
     </MainItem>
     <SubItem>
@@ -542,7 +542,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Adamson</Key>
-      <Text>J. S. (Capt.)</Text>
+      <Text>. J. S. (Capt.)</Text>
       <PageNumber>10499</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -576,7 +576,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Anderson</Key>
-      <Text>A. P. (temp. Capt.)</Text>
+      <Text>. A. P. (temp. Capt.)</Text>
       <PageNumber>8724</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -675,7 +675,7 @@
       <PageNumber>7767</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Temp. Capt.</Text>
+      <Text>Temp. Capt</Text>
       <PageNumber>7892</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -882,7 +882,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Chase</Key>
-      <Text>2nd Lt. B. C. (rel. temp, commn. on completion of service and granted £ank of Capt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>B. C.</Forenames>
+      <Text>(rel. temp, commn. on completion of service and granted £ank of Capt.)</Text>
       <PageNumber>9786</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -906,7 +908,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Coates</Key>
-      <Text>2nd Lt. L. A. (pel. temp, commn. on completion of service and granted rank of Lt.Col.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>L. A.</Forenames>
+      <Text>(pel. temp, commn. on completion of service and granted rank of Lt.Col.)</Text>
       <PageNumber>9786</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -929,7 +933,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Collison</Key>
-      <Text>S. S. (Capt,)</Text>
+      <Text>. S. S. (Capt,)</Text>
       <PageNumber>9059</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -16,7 +16,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Delme-Radcliffe</Key>
-      <Text>, Col. Sir &lt;?.. K.C.M.G., C.B., C.V.O. &lt;rel. appt. as Brig.-Gen., General Staff and temp, rank of Brig.Gen.)</Text>
+      <Title>Col. Sir</Title>
+      <Text>&lt;?.. K.C.M.G., C.B., C.V.O. &lt;rel. appt. as Brig.-Gen., General Staff and temp, rank of Brig.Gen.)</Text>
       <PageNumber>4411</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -41,8 +42,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Denny</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (actg. Capt.) M. P. JR. (Staff .©apt., attd. to Hd.-Qr. Unit, and temp. Capt.)</Text>
+      <Title>Lt. (actg. Capt.)</Title>
+      <Forenames>M. P.</Forenames>
+      <Text>JR. (Staff .©apt., attd. to Hd.-Qr. Unit, and temp. Capt.)</Text>
       <PageNumber>6550</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -142,9 +144,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dobbie</Key>
-      <Title>Bt.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. {G.S.O. 2nd Gr., War Office) W. G. S., C.M.G., D.S.O. (G.S.O., 1st Gr.)</Text>
+      <Title>Bt. Lt.-Col.</Title>
+      <Text>{G.S.O. 2nd Gr., War Office) W. G. S., C.M.G., D.S.O. (G.S.O., 1st Gr.)</Text>
       <PageNumber>5466</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -160,16 +161,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Dobson</Key>
-      <Title>Bt.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. A. O, D.S.O. (temp. Dep. Asst. Dir. of Fortifications and Works at Wax Office)</Text>
+      <Title>Bt. Lt.-Col.</Title>
+      <Forenames>A. O</Forenames>
+      <Text>, D.S.O. (temp. Dep. Asst. Dir. of Fortifications and Works at Wax Office)</Text>
       <PageNumber>4946</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Docker</Key>
-      <Text>, 2nd Lt, N. H. (rel. appt. as A.D.C., Personal Staff)</Text>
+      <Text>2nd Lt, N. H. (rel. appt. as A.D.C., Personal Staff)</Text>
       <PageNumber>5895</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -185,7 +186,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Doran</Key>
-      <Text>, Capt. (actg. Maj.) C. C. H. (Dep. Asst. Dir. of Engineering Stores, CI. BB, and temp. Maj.), Sub. -Not</Text>
+      <Title>Capt. (actg. Maj.)</Title>
+      <Forenames>C. C. H.</Forenames>
+      <Text>(Dep. Asst. Dir. of Engineering Stores, CI. BB, and temp. Maj.), Sub. -Not</Text>
       <PageNumber>5570</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -257,7 +260,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Duckworth</Key>
-      <Text>, temp. 2nd Lt. B. T. (rel. temp. spec, appt,, CI. HH)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>B. T.</Forenames>
+      <Text>(rel. temp. spec, appt,, CI. HH)</Text>
       <PageNumber>5710</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -383,8 +388,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Dumpily</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (temp. Oa.pt.) M. (corr. of date of appt. as Dep. Asst. Pro v.-Marshal, attd. to Hd.Qr. Unit)</Text>
+      <Title>Lt. (temp. Oa.pt.)</Title>
+      <Forenames>M.</Forenames>
+      <Text>(corr. of date of appt. as Dep. Asst. Pro v.-Marshal, attd. to Hd.Qr. Unit)</Text>
       <PageNumber>6426</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -399,9 +405,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dunton</Key>
-      <Title>temp.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>. (temp. Copt.) 19. H. (Asst. Emb. Staff Offr., Ol. FF, and retains temp, rank of Capt.)</Text>
+      <Title>temp. Lt. (temp. Copt.)</Title>
+      <Text>19. H. (Asst. Emb. Staff Offr., Ol. FF, and retains temp, rank of Capt.)</Text>
       <PageNumber>5216</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -428,21 +433,25 @@
   <ItemGroup>
     <MainItem>
       <Key>Eadie</Key>
-      <Text>. Lt. J. I. (spec, appt., CI. HlH)</Text>
+      <Text>Lt. J. I. (spec, appt., CI. HlH)</Text>
       <PageNumber>6426</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Eales</Key>
-      <Text>, 2nd Lt. C. (nrel. spec. appt.. Ol. iSl)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>C.</Forenames>
+      <Text>(nrel. spec. appt.. Ol. iSl)</Text>
       <PageNumber>6145</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Earle</Key>
-      <Text>, temp. 2nd Lt. E. L. (rei. appt. as Rlv. Traffic Offr., CI. H)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>E. L.</Forenames>
+      <Text>(rei. appt. as Rlv. Traffic Offr., CI. H)</Text>
       <PageNumber>7068</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -458,16 +467,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Eccleahalll</Key>
-      <Text>, temp. 2nd Lt. (n«.w tewip. Lt.) G. B. (empld. under (Dixiedte. of Graves: Registration and 'Inquiries, CI. FF1</Text>
+      <Title>temp. 2nd Lt. (n«.w tewip. Lt.)</Title>
+      <Forenames>G. B.</Forenames>
+      <Text>(empld. under (Dixiedte. of Graves: Registration and 'Inquiries, CI. FF1</Text>
       <PageNumber>6322</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Eden</Key>
-      <Title>Bit.</Title>
-      <Forenames>Lit</Forenames>
-      <Text>.-CM. S. H.. C.M.G., D.IS.O. (A.A. and Q.M.G., and temp. Lt.-Col.)</Text>
+      <Title>Bit. Lit.</Title>
+      <Text>-CM. S. H.. C.M.G., D.IS.O. (A.A. and Q.M.G., and temp. Lt.-Col.)</Text>
       <PageNumber>5206</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -499,7 +509,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Edwardes</Key>
-      <Text>. Cbl. S. M., C.B., C.M.G., DjS.O. (rek appt. as 'Brig. Comdr:, attd. to Hd.Qr. Unit, amid (temp, rank of .Brig.-Gen.)</Text>
+      <Text>Cbl. S. M., C.B., C.M.G., DjS.O. (rek appt. as 'Brig. Comdr:, attd. to Hd.Qr. Unit, amid (temp, rank of .Brig.-Gen.)</Text>
       <PageNumber>6321</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -526,9 +536,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Eliot</Key>
-      <Title>Bt.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. N., C.B.E. {teimp. Dep. Asst. Dir. of Arty, at War Office, and rel. temp, rank of Lt.-Col.)</Text>
+      <Title>Bt. Lt.-Col.</Title>
+      <Forenames>N.</Forenames>
+      <Text>, C.B.E. {teimp. Dep. Asst. Dir. of Arty, at War Office, and rel. temp, rank of Lt.-Col.)</Text>
       <PageNumber>6964</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -564,7 +574,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ellis</Key>
-      <Text>, MJaj. R. IS., O.B.E., M.C. ((rel Samp. oppt. as A.A.G., CI. X, at War Office, and temp. rank of . Lt.-Col.)</Text>
+      <Text>MJaj. R. IS., O.B.E., M.C. ((rel Samp. oppt. as A.A.G., CI. X, at War Office, and temp. rank of . Lt.-Col.)</Text>
       <PageNumber>4412</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -589,7 +599,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Evans</Key>
-      <Text>, !Lt. D. J. (rel. spec appt., 01. HH) ... ,</Text>
+      <Text>!Lt. D. J. (rel. spec appt., 01. HH) ... ,</Text>
       <PageNumber>6425</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -681,7 +691,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Ewer</Key>
-      <Text>, Maj. (temp. Lt.-Col.) G. G.. D.IS.O. (spec, appt,, Ol. X. and retains temp, rank of Lt.-Col.)</Text>
+      <Title>Maj. (temp. Lt.-Col.)</Title>
+      <Forenames>G. G.</Forenames>
+      <Text>. D.IS.O. (spec, appt,, Ol. X. and retains temp, rank of Lt.-Col.)</Text>
       <PageNumber>5694</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -705,7 +717,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fairgrdeve</Key>
-      <Text>. Lt-. W. P. (spec, appt., CI. HlH)</Text>
+      <Text>Lt-. W. P. (spec, appt., CI. HlH)</Text>
       <PageNumber>6426</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -725,16 +737,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Fainweabher</Key>
-      <Title>temp.</Title>
-      <Forenames>Ma</Forenames>
-      <Text>.j. H., D.S.O. !Tre3. ap.pt. as Asst. Dir. of Inland Water Trans., Ol. X, and temp, rank of Lt.-Col.)</Text>
+      <Title>temp. Ma.</Title>
+      <Text>j. H., D.S.O. !Tre3. ap.pt. as Asst. Dir. of Inland Water Trans., Ol. X, and temp, rank of Lt.-Col.)</Text>
       <PageNumber>7078</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Fallen</Key>
-      <Text>, temp. 2nd Lt, F. J. (rel. emvprit. under Directe. of Req.uiBiltiions and Hirings, Ol. GG, and temp, rank of Lt.)</Text>
+      <Title>temp.</Title>
+      <Text>2nd Lt, F. J. (rel. emvprit. under Directe. of Req.uiBiltiions and Hirings, Ol. GG, and temp, rank of Lt.)</Text>
       <PageNumber>4957</PageNumber>
     </MainItem>
   </ItemGroup>

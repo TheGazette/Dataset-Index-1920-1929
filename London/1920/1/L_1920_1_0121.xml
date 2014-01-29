@@ -21,8 +21,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bridewell</Key>
-      <Forenames>Alfred</Forenames>
-      <Text>.lames, Commander, Order of the British Empire '</Text>
+      <Title>Alfred .</Title>
+      <Text>lames, Commander, Order of the British Empire '</Text>
       <PageNumber>3762</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -84,8 +84,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Engr</Forenames>
-      <Text>.-Cdr. Henry Smalley, Officer, Order of the British 'Empire ,</Text>
+      <Title>Engr.</Title>
+      <Text>-Cdr. Henry Smalley, Officer, Order of the British 'Empire ,</Text>
       <PageNumber>2860</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -259,7 +259,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Broadwood</Key>
-      <Text>, .Miss Anna Maria Hennen. Member. Order of the British Empire</Text>
+      <Text>.Miss Anna Maria Hennen. Member. Order of the British Empire</Text>
       <PageNumber>3818</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -299,7 +299,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brodie</Key>
-      <Text>, ICVroline Violet Mary, Mrs. Brodit, of, Officer, Order of the British Empire</Text>
+      <Text>ICVroline Violet Mary, Mrs. Brodit, of, Officer, Order of the British Empire</Text>
       <PageNumber>3778</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -347,8 +347,8 @@
       <Key>
         <KeyDitto>—___</KeyDitto>
       </Key>
-      <Forenames>Ma</Forenames>
-      <Text>.be. Frances. Mrs., Member. Order of the British Empire</Text>
+      <Title>Ma.</Title>
+      <Text>be. Frances. Mrs., Member. Order of the British Empire</Text>
       <PageNumber>3818</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -415,7 +415,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Brooks</Key>
-      <Text>, M ss Agnes. Royal K;cl Cross, 1st CI. ... '</Text>
+      <Forenames>M</Forenames>
+      <Text>ss Agnes. Royal K;cl Cross, 1st CI. ... '</Text>
       <PageNumber>1917</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -438,7 +439,9 @@
       <Key>
         <KeyDitto>___ —</KeyDitto>
       </Key>
-      <Text>2nd Lt. Ernest. Officer, Order of the British (Empire</Text>
+      <Title>2nd Lt. Ernest.</Title>
+      <Forenames>Officer</Forenames>
+      <Text>, Order of the British (Empire</Text>
       <PageNumber>3778</PageNumber>
     </MainItem>
     <SubItem>
@@ -451,7 +454,8 @@
       <Key>
         <KeyDitto>-</KeyDitto>
       </Key>
-      <Text>Miss jladys Muriel, Member. Order of the British Empire</Text>
+      <Title>Miss</Title>
+      <Text>jladys Muriel, Member. Order of the British Empire</Text>
       <PageNumber>3818</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -495,8 +499,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (A./Capt.) Alfred Claude. Men her, Order of the British Empire</Text>
+      <Title>Lt. (A./Capt.)</Title>
+      <Forenames>Alfred Claude</Forenames>
+      <Text>. Men her, Order of the British Empire</Text>
       <PageNumber>1801</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -515,7 +520,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>Miss lAnne Isobel, Royal Red Oos-i, 2nd r.lass</Text>
+      <Title>Miss</Title>
+      <Text>lAnne Isobel, Royal Red Oos-i, 2nd r.lass</Text>
       <PageNumber>1918</PageNumber>
     </MainItem>
   </ItemGroup>

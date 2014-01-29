@@ -102,7 +102,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Holdsworth</Key>
-      <Text>, &gt;W</Text>
+      <Text>&gt;W</Text>
       <PageNumber>4362</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -520,7 +520,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>4767</PageNumber>
       <PageNumber>5566</PageNumber>
     </MainItem>
@@ -1331,7 +1331,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Legh</Key>
-      <Text>, Hon. P, W</Text>
+      <Title>Hon.</Title>
+      <Forenames>P</Forenames>
+      <Text>, W</Text>
       <PageNumber>4996</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1510,7 +1512,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Macartney-Filgate</Key>
-      <Text>, T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>5854</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1547,7 +1549,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>4363</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1754,14 +1756,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Mair</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>4766</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Makhan</Key>
-      <Forenames>Singh</Forenames>
+      <Title>Singh .</Title>
       <PageNumber>5645</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1796,7 +1798,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mallinson</Key>
-      <Text>,' B. C</Text>
+      <Text>' B. C</Text>
       <PageNumber>5645</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1810,7 +1812,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mander</Key>
-      <Text>, DA. J. D</Text>
+      <Text>DA. J. D</Text>
       <PageNumber>5147</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1889,7 +1891,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>5645</PageNumber>
     </MainItem>
   </ItemGroup>

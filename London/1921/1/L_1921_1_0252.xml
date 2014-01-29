@@ -47,7 +47,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fugh</Key>
-      <Text>,.J. C ;</Text>
+      <Text>.J. C ;</Text>
       <PageNumber>592</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -61,7 +61,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Treleaven</Key>
-      <Text>, 0. V</Text>
+      <Text>0. V</Text>
       <PageNumber>1066</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -230,7 +230,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rajwali</Key>
-      <Forenames>Khan</Forenames>
+      <Title>Khan .</Title>
       <PageNumber>2306</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -506,7 +506,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Moffat</Key>
-      <Forenames>James</Forenames>
+      <Title>James .</Title>
       <PageNumber>187</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -553,7 +553,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Skead</Key>
-      <Forenames>Bernard</Forenames>
+      <Title>Bernard .</Title>
       <PageNumber>1702</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -625,7 +625,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Maopherson</Key>
-      <Forenames>George</Forenames>
+      <Title>George .</Title>
       <PageNumber>1703</PageNumber>
       <PageNumber>2098</PageNumber>
     </MainItem>
@@ -713,7 +713,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Almond</Key>
-      <Text>, 2nd Lt. H. R. (resigns)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>H. R.</Forenames>
+      <Text>(resigns)</Text>
       <PageNumber>283</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -853,8 +855,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Booth</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (actg. Capt.) J. J. (retains actg. rank of Capt. on appt. as Adjt. of Labour Corps Depot)</Text>
+      <Title>Lt. (actg. Capt.)</Title>
+      <Forenames>J. J.</Forenames>
+      <Text>(retains actg. rank of Capt. on appt. as Adjt. of Labour Corps Depot)</Text>
       <PageNumber>282</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -935,7 +938,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Cargill</Key>
-      <Text>, 2nd Lt. J. R. (resigns)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>J. R.</Forenames>
+      <Text>(resigns)</Text>
       <PageNumber>1066</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1071,7 +1076,9 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>2nd Lt. R. S. (rel. commn.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>R. S.</Forenames>
+      <Text>(rel. commn.)</Text>
       <PageNumber>283</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1279,8 +1286,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hebson</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (actg. Capt.) T. E. (actg. Maj. while Comdt. of Armoured Motor Brigade)</Text>
+      <Title>Lt. (actg. Capt.)</Title>
+      <Forenames>T. E.</Forenames>
+      <Text>(actg. Maj. while Comdt. of Armoured Motor Brigade)</Text>
       <PageNumber>187</PageNumber>
     </MainItem>
     <SubItem>
@@ -1392,7 +1400,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Kalkhoven</Key>
-      <Text>, 2nd Lt. F. G. (resigns)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>F. G.</Forenames>
+      <Text>(resigns)</Text>
       <PageNumber>2307</PageNumber>
     </MainItem>
   </ItemGroup>

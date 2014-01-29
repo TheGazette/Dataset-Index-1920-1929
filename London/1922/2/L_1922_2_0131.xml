@@ -13,24 +13,24 @@
   <ItemGroup>
     <MainItem>
       <Key>Ginman</Key>
-      <Title>Actg. Cdr.</Title>
-      <Forenames>William</Forenames>
+      <Title>Actg. Cdr. William .</Title>
       <PageNumber>1244</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Morris</Key>
-      <Forenames>Snrg</Forenames>
-      <Text>.-Cdr. Bedlington H</Text>
+      <Title>Snrg.</Title>
+      <Text>-Cdr. Bedlington H</Text>
       <PageNumber>3712</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Willis</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Richard ff., C.B. (placed on half pay)</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Richard</Forenames>
+      <Text>ff., C.B. (placed on half pay)</Text>
       <PageNumber>4921</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -65,8 +65,8 @@
   <ItemGroup>
     <MainItem>
       <Key>McCauriand</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Gen. Edwin L. (placed on retd. pay, having attained age ii.xed for compulsory retirement)</Text>
+      <Title>Lt.</Title>
+      <Text>-Gen. Edwin L. (placed on retd. pay, having attained age ii.xed for compulsory retirement)</Text>
       <PageNumber>2813</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -82,8 +82,8 @@
   <ItemGroup>
     <MainItem>
       <Key>iWylde</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Gen. Edward A. (Gen.)</Text>
+      <Title>Lt.</Title>
+      <Text>-Gen. Edward A. (Gen.)</Text>
       <PageNumber>2818</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -119,7 +119,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Evans</Key>
-      <Text>Maj. (supv.) Arthur K., O.B.E., M.C. (absorbed in estabt.)</Text>
+      <Title>Maj. (supv.)</Title>
+      <Forenames>Arthur K.</Forenames>
+      <Text>, O.B.E., M.C. (absorbed in estabt.)</Text>
       <PageNumber>3522</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -146,15 +148,18 @@
   <ItemGroup>
     <MainItem>
       <Key>Little</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. (supy.) Arthur G., C.M.G. (absorbed in estabt.)</Text>
+      <Title>Lt.-Col. (supy.)</Title>
+      <Forenames>Arthur G.</Forenames>
+      <Text>, C.M.G. (absorbed in estabt.)</Text>
       <PageNumber>3522</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Malcolm</Key>
-      <Text>Maj. (supy.) Pulteney W., O.B.E. (absorbed in estabt,)</Text>
+      <Title>Maj. (supy.)</Title>
+      <Forenames>Pulteney W.</Forenames>
+      <Text>, O.B.E. (absorbed in estabt,)</Text>
       <PageNumber>3522</PageNumber>
     </MainItem>
     <SubItem>
@@ -174,7 +179,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Neville</Key>
-      <Text>Capt. (seed.) Robt. A. R. (placed on half pay whilst holding spec, appt.)</Text>
+      <Title>Capt. (seed.) Robt.</Title>
+      <Forenames>A. R.</Forenames>
+      <Text>(placed on half pay whilst holding spec, appt.)</Text>
       <PageNumber>3625</PageNumber>
     </MainItem>
     <SubItem>
@@ -192,9 +199,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rutherford</Key>
-      <Title>Capt.</Title>
-      <Forenames>Geo</Forenames>
-      <Text>. (placed on retd. list at own request and apptd. to Reserve of Offrs., R.M.)</Text>
+      <Title>Capt. Geo.</Title>
+      <Text>(placed on retd. list at own request and apptd. to Reserve of Offrs., R.M.)</Text>
       <PageNumber>4329</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -257,8 +263,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Wray</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Edmund (placed on R.M.L.I. half pay)</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Edmund</Forenames>
+      <Text>(placed on R.M.L.I. half pay)</Text>
       <PageNumber>3522</PageNumber>
     </MainItem>
     <SubItem>
@@ -317,8 +324,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Arnold</Key>
-      <Forenames>Flight Lt</Forenames>
-      <Text>. Anthonv Rex, D.S.C., D.F.C. (Sqdn. Leader)</Text>
+      <Title>Flight Lt.</Title>
+      <Forenames>Anthonv Rex</Forenames>
+      <Text>, D.S.C., D.F.C. (Sqdn. Leader)</Text>
       <PageNumber>4942</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -349,7 +357,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Aspinall</Key>
-      <Text>2nd Lt. Leonard George Horatio (Lt., Ad.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>Leonard George Horatio</Forenames>
+      <Text>(Lt., Ad.)</Text>
       <PageNumber>4335</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -394,8 +404,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Barnaby</Key>
-      <Forenames>Flight Lt</Forenames>
-      <Text>. Hazen Ottis, M.B.E. (trd. to Reserve, Cl. B)</Text>
+      <Title>Flight Lt.</Title>
+      <Forenames>Hazen Ottis</Forenames>
+      <Text>, M.B.E. (trd. to Reserve, Cl. B)</Text>
       <PageNumber>4478</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -410,16 +421,18 @@
   <ItemGroup>
     <MainItem>
       <Key>Barrington</Key>
-      <Forenames>Flight Lt</Forenames>
-      <Text>. Francis Edward Philip (Sqdn. Leader)</Text>
+      <Title>Flight Lt.</Title>
+      <Forenames>Francis Edward Philip</Forenames>
+      <Text>(Sqdn. Leader)</Text>
       <PageNumber>4942</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Barron</Key>
-      <Forenames>Flight Lt</Forenames>
-      <Text>. John Augustus (ceases to be seed, for duty with Canadian Air Board)</Text>
+      <Title>Flight Lt.</Title>
+      <Forenames>John Augustus</Forenames>
+      <Text>(ceases to be seed, for duty with Canadian Air Board)</Text>
       <PageNumber>4478</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -458,8 +471,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Beauman</Key>
-      <Forenames>Flight Lt</Forenames>
-      <Text>. Eric Bentley (Sqdn. Leader)</Text>
+      <Title>Flight Lt.</Title>
+      <Forenames>Eric Bentley</Forenames>
+      <Text>(Sqdn. Leader)</Text>
       <PageNumber>4942</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -474,8 +488,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Bedford</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (Black Watch) Frederick William Gordon (granted temp, oommn. as Flying Qfir. on seconding for four years' duty with R.A.F.)</Text>
+      <Title>Lt. (Black Watch)</Title>
+      <Forenames>Fred-</Forenames>
+      <Text>erick William Gordon (granted temp, oommn. as Flying Qfir. on seconding for four years' duty with R.A.F.)</Text>
       <PageNumber>4335</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -490,8 +505,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Berrill</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (R.F.A.) R. F. (rel. temp, commn. on return to Army duty), Sub. Not</Text>
+      <Title>Lt. (R.F.A.)</Title>
+      <Forenames>R. F.</Forenames>
+      <Text>(rel. temp, commn. on return to Army duty), Sub. Not</Text>
       <PageNumber>4834</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -562,8 +578,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Bottomley</Key>
-      <Forenames>Flight Lt</Forenames>
-      <Text>. Norman Howard, A.F.C. (Sqdn. Leader)</Text>
+      <Title>Flight Lt.</Title>
+      <Forenames>Norman Howard</Forenames>
+      <Text>, A.F.C. (Sqdn. Leader)</Text>
       <PageNumber>4942</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -642,8 +659,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Brown</Key>
-      <Forenames>Flight Lt</Forenames>
-      <Text>. Arthur James, D.S.O. (granted short serv. commn.)</Text>
+      <Title>Flight Lt.</Title>
+      <Forenames>Arthur James</Forenames>
+      <Text>, D.S.O. (granted short serv. commn.)</Text>
       <PageNumber>4649</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -652,8 +670,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Flight Lt</Forenames>
-      <Text>. Elijah (Hon. Sqdn. Leader)</Text>
+      <Title>Flight Lt.</Title>
+      <Forenames>Elijah</Forenames>
+      <Text>(Hon. Sqdn. Leader)</Text>
       <PageNumber>4941</PageNumber>
     </MainItem>
   </ItemGroup>

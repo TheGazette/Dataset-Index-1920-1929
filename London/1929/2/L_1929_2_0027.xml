@@ -230,8 +230,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Barrow</Key>
-      <Title>Major</Title>
-      <Forenames>General Harold Percy Waller</Forenames>
+      <Forenames>Major-General Harold Percy Waller</Forenames>
       <Text>, C.M.G., D. S.O., O.B.E., K.H.S., Companion, Order of the Bath</Text>
       <PageNumber>3668</PageNumber>
     </MainItem>
@@ -304,8 +303,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Beamish</Key>
-      <Forenames>Rea</Forenames>
-      <Text>.r-Admiral Tufton Percy Hamilton, C.B., M-R. for Lewes ,,. ,.,,</Text>
+      <Title>Rea.</Title>
+      <Text>r-Admiral Tufton Percy Hamilton, C.B., M-R. for Lewes ,,. ,.,,</Text>
       <PageNumber>4115</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -368,7 +367,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Beeton</Key>
-      <Text>Capt. (Quaxtermr.) Ernest Herbert, Order of the British Empire</Text>
+      <Title>Capt. (Quaxtermr.)</Title>
+      <Forenames>Ernest Herbert</Forenames>
+      <Text>, Order of the British Empire</Text>
       <PageNumber>3672</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -572,7 +573,7 @@
       <PageNumber>4354</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>M.P. for Rushcliffe .,.</Text>
+      <Text>M.P. for Rushcliffe .,</Text>
       <PageNumber>4113</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -782,8 +783,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Booth</Key>
-      <Forenames>Doris</Forenames>
-      <Text>. Mrs., Officer, Order of the British Empire</Text>
+      <Title>Doris. Mrs.</Title>
+      <Text>, Officer, Order of the British Empire</Text>
       <PageNumber>367</PageNumber>
     </MainItem>
   </ItemGroup>

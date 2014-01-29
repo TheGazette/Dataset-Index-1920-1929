@@ -112,14 +112,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Buthven</Key>
-      <Text>Lord</Text>
+      <Title>Lord .</Title>
       <PageNumber>3859</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Saekville</Key>
-      <Text>Lord</Text>
+      <Title>Lord .</Title>
       <PageNumber>3757</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -325,7 +325,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Everett</Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>2281</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -436,7 +436,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Edmonds</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>2513</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -506,7 +506,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Temple</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>2596</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -811,7 +811,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Aylesford</Key>
-      <Text>Earl of</Text>
+      <Title>Earl</Title>
+      <Text>of</Text>
       <PageNumber>3127</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1076,7 +1077,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Barry</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>3943</PageNumber>
       <PageNumber>4030</PageNumber>
     </MainItem>
@@ -1263,7 +1264,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Bingham</Key>
-      <Text>Hon. Sir J&lt;. K-</Text>
+      <Title>Hon. Sir</Title>
+      <Forenames>J</Forenames>
+      <Text>&lt;. K-</Text>
       <PageNumber>2435</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1369,7 +1372,8 @@
       <Key>
         <KeyDitto>— ___ ___ ___</KeyDitto>
       </Key>
-      <Text>L K Blundeil Hollinshead-Blundell,</Text>
+      <Forenames>L</Forenames>
+      <Text>K Blundeil Hollinshead-Blundell,</Text>
       <PageNumber>3128</PageNumber>
     </MainItem>
     <SubItem>

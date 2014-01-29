@@ -20,7 +20,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bestwick</Key>
-      <Text>, WHliuim, Mamber, Order of the British Empire</Text>
+      <Text>WHliuim, Mamber, Order of the British Empire</Text>
       <PageNumber>3816</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -121,8 +121,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bibby</Key>
-      <Forenames>Frank</Forenames>
-      <Text>. Commander, Order of the British Empire</Text>
+      <Title>Frank. Commander</Title>
+      <Text>, Order of the British Empire</Text>
       <PageNumber>3761</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -145,8 +145,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Biddulph</Key>
-      <Forenames>Eleanor</Forenames>
-      <Text>. Lady. M.B.E.. Officer, Order of the British Empire</Text>
+      <Title>Eleanor. Lady.</Title>
+      <Text>M.B.E.. Officer, Order of the British Empire</Text>
       <PageNumber>3777</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -209,7 +209,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bingham</Key>
-      <Text>, Miss ConsLnwe Gwendoline, M.B.E., Officer, Order of the British Empire</Text>
+      <Title>Miss</Title>
+      <Text>ConsLnwe Gwendoline, M.B.E., Officer, Order of the British Empire</Text>
       <PageNumber>3777</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -376,7 +377,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bisset</Key>
-      <Text>, dpt. Ormondl Douglas. Membtr, Order of the British Empire</Text>
+      <Text>dpt. Ormondl Douglas. Membtr, Order of the British Empire</Text>
       <PageNumber>3816</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -401,7 +402,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Black-bum</Key>
-      <Text>, Capt. (A./Maj.) John Cecil, M.C., Companion, D.S.O</Text>
+      <Title>Capt. (A./Maj.)</Title>
+      <Forenames>John Cecil</Forenames>
+      <Text>, M.C., Companion, D.S.O</Text>
       <PageNumber>1375</PageNumber>
     </MainItem>
     <SubItem>
@@ -539,7 +542,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Bland</Key>
-      <Text>, 2nd Lt. Albert, Member, Order of the British Empire</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>Albert</Forenames>
+      <Text>, Member, Order of the British Empire</Text>
       <PageNumber>1374</PageNumber>
     </MainItem>
   </ItemGroup>

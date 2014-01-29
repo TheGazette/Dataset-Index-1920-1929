@@ -60,7 +60,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Shah</Key>
-      <Forenames>Muhd</Forenames>
+      <Title>Muhd .</Title>
       <PageNumber>1919</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -293,7 +293,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Smith</Key>
-      <Text>, 0. G</Text>
+      <Text>0. G</Text>
       <PageNumber>885</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -669,14 +669,16 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>Sir R, B</Text>
+      <Title>Sir</Title>
+      <Forenames>R</Forenames>
+      <Text>, B</Text>
       <PageNumber>1652</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Stephenson</Key>
-      <Text>, „W</Text>
+      <Text>„W</Text>
       <PageNumber>888</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -946,7 +948,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>215</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1280,7 +1282,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Torrance</Key>
-      <Text>. K. S</Text>
+      <Text>K. S</Text>
       <PageNumber>2275</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1484,7 +1486,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>R, G</Text>
+      <Forenames>R</Forenames>
+      <Text>, G</Text>
       <PageNumber>790</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1584,7 +1587,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>R, D. W</Text>
+      <Forenames>R</Forenames>
+      <Text>, D. W</Text>
       <PageNumber>792</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1606,7 +1610,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Urquhart</Key>
-      <Text>, R: W</Text>
+      <Forenames>R</Forenames>
+      <Text>: W</Text>
       <PageNumber>792</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1736,7 +1741,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Vivian</Key>
-      <Text>, R, C. G</Text>
+      <Forenames>R</Forenames>
+      <Text>, C. G</Text>
       <PageNumber>2275</PageNumber>
     </MainItem>
   </ItemGroup>

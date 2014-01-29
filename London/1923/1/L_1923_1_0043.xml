@@ -3,7 +3,6 @@
   <ItemGroup>
     <MainItem>
       <Key>Gibbs</Key>
-      <Text>,</Text>
       <PageNumber>___ ___ ___ ___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -11,7 +10,6 @@
   <ItemGroup>
     <MainItem>
       <Key>Giles</Key>
-      <Text>,</Text>
       <PageNumber>___ ___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -19,7 +17,6 @@
   <ItemGroup>
     <MainItem>
       <Key>Gill</Key>
-      <Text>,</Text>
       <PageNumber>___ ___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -34,9 +31,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gibson</Key>
-      <Title>Ord.</Title>
-      <Forenames>Off</Forenames>
-      <Text>., 4th CI., and Maj. (actg. Ord. Off., 3rd CI.) A. C. V., O.B.E. (Ord. Off., 3rd CI.)</Text>
+      <Title>Ord. Off., 4th CI.</Title>
+      <Text>, and Maj. (actg. Ord. Off., 3rd CI.) A. C. V., O.B.E. (Ord. Off., 3rd CI.)</Text>
       <PageNumber>1993</PageNumber>
     </MainItem>
     <SubItem>
@@ -47,8 +43,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Gidley</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. (ret. pay) C. de B. , D.S.O. (Lt.-Col., Beg. Army Res. of Off., Regtl. List, R.H. and R.F.A.)</Text>
+      <Title>Lt.-Col. (ret. pay)</Title>
+      <Forenames>C.</Forenames>
+      <Text>de B. , D.S.O. (Lt.-Col., Beg. Army Res. of Off., Regtl. List, R.H. and R.F.A.)</Text>
       <PageNumber>455</PageNumber>
     </MainItem>
     <SubItem>
@@ -59,8 +56,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Giffard</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. (ret. pay) J., O.B.E. (Lt.-Col., Reg. Army Res. of Off., Regtl. List, R.H. and R.F.A.)</Text>
+      <Title>Lt.-Col. (ret. pay)</Title>
+      <Forenames>J.</Forenames>
+      <Text>, O.B.E. (Lt.-Col., Reg. Army Res. of Off., Regtl. List, R.H. and R.F.A.)</Text>
       <PageNumber>530</PageNumber>
     </MainItem>
     <SubItem>
@@ -101,8 +99,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Gilkes</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (T.A. Res. of Off.) Humphrey Arthur, M.C., M.B. (Lt., on proto., R.A.M.C.)</Text>
+      <Title>Lt. (T.A. Res. of Off.)</Title>
+      <Forenames>Humphrey Arthur</Forenames>
+      <Text>, M.C., M.B. (Lt., on proto., R.A.M.C.)</Text>
       <PageNumber>1230</PageNumber>
     </MainItem>
     <SubItem>
@@ -117,8 +116,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Gillam</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. and Bt. Lt.-Col. (h.p. list, late R.E.) R. A., C. M.G., D.S.O. (Col.)</Text>
+      <Title>Lt.-Col. and Bt. Lt.-Col. (h.p. list, late R.E.)</Title>
+      <Forenames>R. A.</Forenames>
+      <Text>, C. M.G., D.S.O. (Col.)</Text>
       <PageNumber>304</PageNumber>
     </MainItem>
     <SubItem>
@@ -142,7 +142,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Gillson</Key>
-      <Text>, Col. (Hon. Brig.-Gen.) G., C.M.G., D.S.O. (ceases to belong to Reg. Army Res. of Off., having attained age limit of liability to recall)</Text>
+      <Title>Col. (Hon. Brig.-Gen.)</Title>
+      <Forenames>G.</Forenames>
+      <Text>, C.M.G., D.S.O. (ceases to belong to Reg. Army Res. of Off., having attained age limit of liability to recall)</Text>
       <PageNumber>219</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -194,8 +196,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Glubb</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (now Capt.) J. B., M.C. (temp. Capt. whilst empld. with R.A.T.)</Text>
+      <Title>Lt. (now Capt.)</Title>
+      <Forenames>J. B.</Forenames>
+      <Text>, M.C. (temp. Capt. whilst empld. with R.A.T.)</Text>
       <PageNumber>1819</PageNumber>
     </MainItem>
     <SubItem>
@@ -239,15 +242,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Godley</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Gen. Sir A. J., K.C.B., K.O.M.G. (Gen.)</Text>
+      <Title>Lt.</Title>
+      <Text>-Gen. Sir A. J., K.C.B., K.O.M.G. (Gen.)</Text>
       <PageNumber>1231</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Goldie</Key>
-      <Text>, 2nd Lt. A. J. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>A. J.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>610</PageNumber>
     </MainItem>
     <SubItem>
@@ -298,7 +303,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>2nd Lt. B. J. (Lt., Reg. Army Res. of Off., Regtl. List, Inf., Dorset R.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>B. J.</Forenames>
+      <Text>(Lt., Reg. Army Res. of Off., Regtl. List, Inf., Dorset R.)</Text>
       <PageNumber>64</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -307,7 +314,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>temp. 2nd Lt. R, P. (rel. commn. on completion of service, and retains rank of 2nd Lt.)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>R</Forenames>
+      <Text>, P. (rel. commn. on completion of service, and retains rank of 2nd Lt.)</Text>
       <PageNumber>804</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -366,8 +375,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. (h.p. list, late Norf. R.) W. F. L., C.M.G., D.S.O. (Col.)</Text>
+      <Title>Lt.-Col. (h.p. list, late Norf. R.)</Title>
+      <Forenames>W. F. L.</Forenames>
+      <Text>, C.M.G., D.S.O. (Col.)</Text>
       <PageNumber>529</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -399,36 +409,44 @@
   <ItemGroup>
     <MainItem>
       <Key>Goring</Key>
-      <Text>, Maj. (ret, pay) A. (ceases to belong to Reg. Army Res. of Off., having attained age limit of liability to recall)</Text>
+      <Title>Maj. (ret, pay)</Title>
+      <Forenames>A.</Forenames>
+      <Text>(ceases to belong to Reg. Army Res. of Off., having attained age limit of liability to recall)</Text>
       <PageNumber>2319</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Gorringe</Key>
-      <Text>, 2nd Lt. G. T. J. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>G. T. J.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>453</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Goss</Key>
-      <Text>, 2nd Lt. H. H. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>H. H.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>62</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Gosset</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. (ret. pay) A. B., C.M.G. (ceases to belong to Reg. Army Res. of Off., having attained age limit of liability to recall)</Text>
+      <Title>Lt.-Col. (ret. pay)</Title>
+      <Forenames>A. B.</Forenames>
+      <Text>, C.M.G. (ceases to belong to Reg. Army Res. of Off., having attained age limit of liability to recall)</Text>
       <PageNumber>2238</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Gough</Key>
-      <Text>, Capt. and Bt. Maj. the Visct., M.C. (rel. local rank of Lt.-Cbl. on ceasing to comd. a Regt. of the Iraq Levies)</Text>
+      <Title>Capt. and Bt. Maj.</Title>
+      <Text>the Visct., M.C. (rel. local rank of Lt.-Cbl. on ceasing to comd. a Regt. of the Iraq Levies)</Text>
       <PageNumber>996</PageNumber>
     </MainItem>
     <SubItem>
@@ -472,7 +490,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Gower</Key>
-      <Text>, Capt. (h.p. list, late R. Mun. Fus.) E. W. (retires on ret. pay on acc. of ill-health)</Text>
+      <Title>Capt. (h.p. list, late R. Mun. Fus.)</Title>
+      <Forenames>E. W.</Forenames>
+      <Text>(retires on ret. pay on acc. of ill-health)</Text>
       <PageNumber>1303</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -488,7 +508,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Gowlland</Key>
-      <Text>, Capt. (now Maj.) G. C. (rel. temp, rank of Maj. on ceasing to be empld. with Tank</Text>
+      <Title>Capt. (now Maj.)</Title>
+      <Forenames>G. C.</Forenames>
+      <Text>(rel. temp, rank of Maj. on ceasing to be empld. with Tank</Text>
       <PageNumber>1820</PageNumber>
     </MainItem>
     <SubItem>
@@ -499,7 +521,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Gradwell</Key>
-      <Text>, 2nd Lt. C. E. (Lt., Reg. Army Res. of Off., Regtl. List, R.G.A.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>C. E.</Forenames>
+      <Text>(Lt., Reg. Army Res. of Off., Regtl. List, R.G.A.)</Text>
       <PageNumber>455</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -517,7 +541,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>Maj. C, D.S.O. (retires on ret. pay)</Text>
+      <Title>Maj.</Title>
+      <Forenames>C</Forenames>
+      <Text>, D.S.O. (retires on ret. pay)</Text>
       <PageNumber>62</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -537,7 +563,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>2nd Lt. J. P. A. G. (2nd Lt., Oxf. and Bucks. L.I., from Rifle Bde.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>J. P. A. G.</Forenames>
+      <Text>(2nd Lt., Oxf. and Bucks. L.I., from Rifle Bde.)</Text>
       <PageNumber>1071</PageNumber>
     </MainItem>
     <SubItem>
@@ -617,7 +645,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>2nd Lt. E. H. G. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>E. H. G.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>454</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -637,9 +667,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Title>Capt. and Acctnt.</Title>
-      <Forenames>Off</Forenames>
-      <Text>., 4th CI. (temp. Maj. and Acctnt. Off., 3rd CI.) T. H. (rel. temp, grading and temp. rank of Maj.)</Text>
+      <Title>Capt. and Acctnt. Off., 4th CI. (temp. Maj. and Acctnt. Off., 3rd CI.)</Title>
+      <Forenames>T. H.</Forenames>
+      <Text>(rel. temp, grading and temp. rank of Maj.)</Text>
       <PageNumber>221</PageNumber>
     </MainItem>
   </ItemGroup>

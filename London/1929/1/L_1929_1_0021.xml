@@ -60,7 +60,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Shepherd</Key>
-      <Text>, , Arthur, Officer, Order ..of the British Empire</Text>
+      <Text>, Arthur, Officer, Order ..of the British Empire</Text>
       <PageNumber>1441</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -145,7 +145,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>Lieut. Colonel James Lewis C.M.G., C.B.E., M.V.O., Commander, Order of St. John ofJerusalem</Text>
+      <Title>Lieut.</Title>
+      <Text>Colonel James Lewis C.M.G., C.B.E., M.V.O., Commander, Order of St. John ofJerusalem</Text>
       <PageNumber>49</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -340,7 +341,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stibbard</Key>
-      <Text>, Lieut.-Colpnel Harry James, Officer, Order of the British Empire</Text>
+      <Title>Lieut.</Title>
+      <Text>-Colpnel Harry James, Officer, Order of the British Empire</Text>
       <PageNumber>1441</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -355,7 +357,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stilling</Key>
-      <Text>, ' James, Serving Brother, Order of St. John of Jerusalem</Text>
+      <Text>' James, Serving Brother, Order of St. John of Jerusalem</Text>
       <PageNumber>50</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -504,15 +506,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Templemore</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Arthur Claud Spencer, Baron, D.S.O., O.B.E, H.M. Lord in Waiting in Ordinary</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Arthur Claud Spencer</Forenames>
+      <Text>, Baron, D.S.O., O.B.E, H.M. Lord in Waiting in Ordinary</Text>
       <PageNumber>1263</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Terrell</Key>
-      <Text>, Mr. justice Courtney, Knight</Text>
+      <Title>Mr.</Title>
+      <Text>justice Courtney, Knight</Text>
       <PageNumber>1436</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -654,7 +658,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tomlin</Key>
-      <Text>, -Major Maurice Hilliard, Officer, Order of St. John of Jerusalem</Text>
+      <Text>-Major Maurice Hilliard, Officer, Order of St. John of Jerusalem</Text>
       <PageNumber>49</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -718,7 +722,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Turnbull</Key>
-      <Text>, Lieut.-Colonel Hugh Stephenson, J.P., Knight Commander, Order of the British Empire</Text>
+      <Title>Lieut.</Title>
+      <Text>-Colonel Hugh Stephenson, J.P., Knight Commander, Order of the British Empire</Text>
       <PageNumber>1440</PageNumber>
     </MainItem>
   </ItemGroup>

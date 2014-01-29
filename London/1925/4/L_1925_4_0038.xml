@@ -31,7 +31,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Middleton</Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>0507</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -104,14 +104,14 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>6508</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Moss</Key>
-      <Text>T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>7257</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -335,7 +335,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Potter</Key>
-      <Text>L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>6845</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -357,7 +357,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Prince</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>6349</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -371,7 +371,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rahman</Key>
-      <Forenames>Khan</Forenames>
+      <Title>Khan .</Title>
       <PageNumber>8393</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -407,7 +407,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rayner</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>6349</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -445,7 +445,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>6507</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -484,7 +484,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rogers</Key>
-      <Text>R, H</Text>
+      <Forenames>R</Forenames>
+      <Text>, H</Text>
       <PageNumber>6845</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -770,7 +771,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Warren</Key>
-      <Text>P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>6349</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -828,7 +829,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Whiteside</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>8393</PageNumber>
       <PageNumber>6350</PageNumber>
     </MainItem>
@@ -936,7 +937,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>7428</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1040,7 +1041,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Harbans</Key>
-      <Forenames>Singh</Forenames>
+      <Title>Singh .</Title>
       <PageNumber>7428</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1204,7 +1205,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ramchander</Key>
-      <Forenames>Kaushash</Forenames>
+      <Title>Kaushash .</Title>
       <PageNumber>8037</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1218,7 +1219,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Risaldar</Key>
-      <Text>Major</Text>
+      <Title>Major</Title>
       <PageNumber>7428</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1352,7 +1353,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Walker</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>7429</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1448,7 +1449,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Henderson</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>7950</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1471,7 +1472,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Meade</Key>
-      <Text>Hon. H</Text>
+      <Title>Hon.</Title>
+      <Forenames>H</Forenames>
       <PageNumber>7950</PageNumber>
     </MainItem>
   </ItemGroup>

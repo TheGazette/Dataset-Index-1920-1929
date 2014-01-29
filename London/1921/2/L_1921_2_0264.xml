@@ -167,7 +167,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fielding</Key>
-      <Text>(Newcastle)</Text>
+      <Title>(Newcastle)</Title>
       <PageNumber>3128</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -218,7 +218,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Samuel</Forenames>
+      <Title>Samuel .</Title>
       <PageNumber>3216</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -361,7 +361,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Franklin</Key>
-      <Text>King and Co</Text>
+      <Title>King and Co.</Title>
       <PageNumber>4131</PageNumber>
       <PageNumber>4222</PageNumber>
       <PageNumber>4487</PageNumber>
@@ -638,7 +638,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gibson</Key>
-      <Text>R„ and Co</Text>
+      <Forenames>R</Forenames>
+      <Text>„ and Co</Text>
       <PageNumber>4338</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -676,14 +677,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Glenmore</Key>
-      <Text>(Nilgiris) Tea Co</Text>
+      <Title>(Nilgiris)</Title>
+      <Forenames>Tea</Forenames>
+      <Text>Co</Text>
       <PageNumber>4225</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Glenville</Key>
-      <Forenames>Glassworks</Forenames>
+      <Title>Glassworks .</Title>
       <PageNumber>4335</PageNumber>
       <PageNumber>4337</PageNumber>
     </MainItem>
@@ -725,7 +728,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Go-Go-</Key>
-      <Forenames>Ene</Forenames>
+      <Title>Ene .</Title>
       <PageNumber>3876</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -803,7 +806,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Goslings</Key>
-      <Text>(Oxford)</Text>
+      <Title>(Oxford)</Title>
       <PageNumber>3694</PageNumber>
       <PageNumber>3780</PageNumber>
       <PageNumber>4224</PageNumber>
@@ -1000,7 +1003,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gueret</Key>
-      <Text>L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>3783</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1098,7 +1101,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hapes</Key>
-      <Text>(Universal) Printing</Text>
+      <Title>(Universal) Printing .</Title>
       <PageNumber>3694</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1193,7 +1196,8 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>(Universal) Printing Machinery</Text>
+      <Title>(Universal)</Title>
+      <Forenames>Printing Machinery</Forenames>
       <PageNumber>3873</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1232,7 +1236,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Heath</Key>
-      <Forenames>George</Forenames>
+      <Title>George .</Title>
       <PageNumber>3597</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1255,7 +1259,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hendens</Key>
-      <Forenames>Trust</Forenames>
+      <Title>Trust .</Title>
       <PageNumber>2937</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1363,7 +1367,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hinge</Key>
-      <Forenames>William</Forenames>
+      <Title>William .</Title>
       <PageNumber>4129</PageNumber>
       <PageNumber>4132</PageNumber>
       <PageNumber>5177</PageNumber>
@@ -1388,7 +1392,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hitchen</Key>
-      <Forenames>Joseph</Forenames>
+      <Title>Joseph .</Title>
       <PageNumber>4134</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1668,7 +1672,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Indian</Key>
-      <Forenames>Concessions</Forenames>
+      <Title>Concessions .</Title>
       <PageNumber>3030</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1758,7 +1762,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Jacobs</Key>
-      <Text>C, and Co</Text>
+      <Forenames>C</Forenames>
+      <Text>, and Co</Text>
       <PageNumber>3696</PageNumber>
     </MainItem>
   </ItemGroup>

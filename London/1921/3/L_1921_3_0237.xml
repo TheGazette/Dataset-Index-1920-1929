@@ -32,8 +32,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Loch</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. E. C, O.B.E. (Dep. Dir. of Remts.)</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>E. C</Forenames>
+      <Text>, O.B.E. (Dep. Dir. of Remts.)</Text>
       <PageNumber>5840</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -42,8 +43,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. and Bt. Col. (temp. Brig.-Gen.) S. G., C.S.L, D.S.O. (Brig.-Gen., Gen. Staff) '</Text>
+      <Title>Lt.-Col. and Bt. Col. (temp. Brig.-Gen.)</Title>
+      <Forenames>S. G.</Forenames>
+      <Text>, C.S.L, D.S.O. (Brig.-Gen., Gen. Staff) '</Text>
       <PageNumber>5834</PageNumber>
     </MainItem>
     <SubItem>
@@ -62,7 +64,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lucas</Key>
-      <Text>, Col. (temp. Brig.-Gen.J P. G., C.B., C,S.I., D.S.O. (Brig. Comdr.)</Text>
+      <Title>Col.</Title>
+      <Text>(temp. Brig.-Gen.J P. G., C.B., C,S.I., D.S.O. (Brig. Comdr.)</Text>
       <PageNumber>5833</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -116,15 +119,18 @@
   <ItemGroup>
     <MainItem>
       <Key>IcCrea</Key>
-      <Text>, Col. (temp. Brig.-Gen.) A. C, C.M.G. (Brig. Comdr.)</Text>
+      <Title>Col. (temp. Brig.-Gen.)</Title>
+      <Forenames>A. C</Forenames>
+      <Text>, C.M.G. (Brig. Comdr.)</Text>
       <PageNumber>5833</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>IcGinty</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (temp. Capt.) E. R. (Staff Capt.)</Text>
+      <Title>Lt. (temp. Capt.)</Title>
+      <Forenames>E. R.</Forenames>
+      <Text>(Staff Capt.)</Text>
       <PageNumber>5836</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -140,8 +146,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Daclachlan</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (temp. Capt.) A. B. , M.C. (R.T.O., graded as Staff Capt.)</Text>
+      <Title>Lt. (temp. Capt.)</Title>
+      <Forenames>A. B.</Forenames>
+      <Text>, M.C. (R.T.O., graded as Staff Capt.)</Text>
       <PageNumber>5839</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -166,7 +173,9 @@
   <ItemGroup>
     <MainItem>
       <Key>feQuire</Key>
-      <Text>, temp. 2nd Lt. J. (Cipher Offr., graded as Staff Lt.)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>J.</Forenames>
+      <Text>(Cipher Offr., graded as Staff Lt.)</Text>
       <PageNumber>5840</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -197,8 +206,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Manning</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (temp. Capt,) J. (Staff Capi,) ,</Text>
+      <Title>Lt. (temp. Capt,)</Title>
+      <Forenames>J.</Forenames>
+      <Text>(Staff Capi,) ,</Text>
       <PageNumber>5835</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -243,7 +253,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Martin</Key>
-      <Text>, Capt. iind Bt. Maj. K. T., D. S.O. (Bde. Maj.)</Text>
+      <Title>Capt.</Title>
+      <Text>iind Bt. Maj. K. T., D. S.O. (Bde. Maj.)</Text>
       <PageNumber>6774</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -261,7 +272,9 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>temp. 2nd Lt. (aotg. Capt,) T. K. (Adjt., R.E.)</Text>
+      <Title>temp. 2nd Lt. (aotg. Capt,)</Title>
+      <Forenames>T. K.</Forenames>
+      <Text>(Adjt., R.E.)</Text>
       <PageNumber>5836</PageNumber>
     </MainItem>
     <SubItem>
@@ -272,7 +285,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Mason-Maofarlane</Key>
-      <Text>, Capt. (temp. Maj.) F. N., M.C. (G.S.O., 2nd Gr., R.A.)</Text>
+      <Title>Capt. (temp. Maj.)</Title>
+      <Forenames>F. N.</Forenames>
+      <Text>, M.C. (G.S.O., 2nd Gr., R.A.)</Text>
       <PageNumber>5836</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -297,7 +312,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Medlicott</Key>
-      <Text>, Maj. (temp. Lt.-Col.) H. E. , D.S.O. (A.A. and Q.M.G.)</Text>
+      <Title>Maj. (temp. Lt.-Col.)</Title>
+      <Forenames>H. E.</Forenames>
+      <Text>, D.S.O. (A.A. and Q.M.G.)</Text>
       <PageNumber>5834</PageNumber>
     </MainItem>
     <SubItem>
@@ -308,21 +325,27 @@
   <ItemGroup>
     <MainItem>
       <Key>Menzies</Key>
-      <Text>, Capt. (temp. Maj.) F. A. (D.A.A. and Q.M.G.)</Text>
+      <Title>Capt. (temp. Maj.)</Title>
+      <Forenames>F. A.</Forenames>
+      <Text>(D.A.A. and Q.M.G.)</Text>
       <PageNumber>5834</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Meredith</Key>
-      <Text>, Capt. (temp. Maj.) A. E., M.C. (Asst. Dir. of Army Signals)</Text>
+      <Title>Capt. (temp. Maj.)</Title>
+      <Forenames>A. E.</Forenames>
+      <Text>, M.C. (Asst. Dir. of Army Signals)</Text>
       <PageNumber>5837</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Messenger</Key>
-      <Text>, Maj. H T. K. (Dep. Asst. Dir. of Supplies and Transport)</Text>
+      <Title>Maj.</Title>
+      <Forenames>H</Forenames>
+      <Text>T. K. (Dep. Asst. Dir. of Supplies and Transport)</Text>
       <PageNumber>5838</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -338,15 +361,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Meyer</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (temp. Capt.) B. (Staff Capt,)</Text>
+      <Title>Lt. (temp. Capt.)</Title>
+      <Forenames>B.</Forenames>
+      <Text>(Staff Capt,)</Text>
       <PageNumber>5835</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Middleton-Stewart</Key>
-      <Text>, 2nid Lt, (temp. Capt.) C. E. (Asst. Prov. Marshall)</Text>
+      <Text>2nid Lt, (temp. Capt.) C. E. (Asst. Prov. Marshall)</Text>
       <PageNumber>5841</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -364,23 +388,27 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (temp. Capt.) L. H. (R.T.O., graded as Staff Capt.)</Text>
+      <Title>Lt. (temp. Capt.)</Title>
+      <Forenames>L. H.</Forenames>
+      <Text>(R.T.O., graded as Staff Capt.)</Text>
       <PageNumber>5840</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Mills</Key>
-      <Text>, Capt. (temp. Maj.) H. A. (Dep. Asst. Dir. of Ordnance Servs.)</Text>
+      <Title>Capt. (temp. Maj.)</Title>
+      <Forenames>H. A.</Forenames>
+      <Text>(Dep. Asst. Dir. of Ordnance Servs.)</Text>
       <PageNumber>5838</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Minns</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (temp. Capt.) A., M.B.E. (Staff Capt.)</Text>
+      <Title>Lt. (temp. Capt.)</Title>
+      <Forenames>A.</Forenames>
+      <Text>, M.B.E. (Staff Capt.)</Text>
       <PageNumber>5835</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -406,7 +434,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>Capt. (temp. Maj.) R. P. J. (Dep. Asst. Dir of Remts.)</Text>
+      <Title>Capt. (temp. Maj.)</Title>
+      <Forenames>R. P. J.</Forenames>
+      <Text>(Dep. Asst. Dir of Remts.)</Text>
       <PageNumber>5840</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -422,8 +452,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Monins</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (temp. Maj.) J. E. (D.A.A. and Q.M.G.)</Text>
+      <Title>Lt. (temp. Maj.)</Title>
+      <Forenames>J. E.</Forenames>
+      <Text>(D.A.A. and Q.M.G.)</Text>
       <PageNumber>5834</PageNumber>
     </MainItem>
     <SubItem>
@@ -434,9 +465,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Morgan-Owen</Key>
-      <Title>Bt.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. L. I. G. . C.M.G., D.S.O. (A.Q.M.G., S. Comd.)</Text>
+      <Title>Bt. Lt.-Col.</Title>
+      <Forenames>L. I. G.</Forenames>
+      <Text>. C.M.G., D.S.O. (A.Q.M.G., S. Comd.)</Text>
       <PageNumber>6774</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -491,8 +522,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Munckton</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (temp. Capt.) V. C. ' A. (Staff Capt.)</Text>
+      <Title>Lt. (temp. Capt.)</Title>
+      <Forenames>V. C.</Forenames>
+      <Text>' A. (Staff Capt.)</Text>
       <PageNumber>5835</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -534,7 +566,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>Maj. (temp. Lt.-Col.) F. S. J. (graded as Asst. Dir. of Supplies and Transport)</Text>
+      <Title>Maj. (temp. Lt.-Col.)</Title>
+      <Forenames>F. S. J.</Forenames>
+      <Text>(graded as Asst. Dir. of Supplies and Transport)</Text>
       <PageNumber>5838</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -569,7 +603,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Neale</Key>
-      <Text>, temp. Capt. (temp. Maj.) M. R., M.C. (Dep. Asst. Dir. of Ordnance Services)</Text>
+      <Title>temp. Capt. (temp. Maj.)</Title>
+      <Forenames>M. R.</Forenames>
+      <Text>, M.C. (Dep. Asst. Dir. of Ordnance Services)</Text>
       <PageNumber>5838</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -591,9 +627,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Nichol</Key>
-      <Title>Maj. and Bt.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. W. H. (Asst. Dir. of Vety. Servs.)</Text>
+      <Title>Maj. and Bt. Lt.-Col.</Title>
+      <Forenames>W. H.</Forenames>
+      <Text>(Asst. Dir. of Vety. Servs.)</Text>
       <PageNumber>5839</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -609,23 +645,27 @@
   <ItemGroup>
     <MainItem>
       <Key>Nicholls</Key>
-      <Text>, Capt. (temp. Maj.) B. E. (D.A.Q.M.G.)</Text>
+      <Title>Capt. (temp. Maj.)</Title>
+      <Forenames>B. E.</Forenames>
+      <Text>(D.A.Q.M.G.)</Text>
       <PageNumber>5835</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Nightingale</Key>
-      <Title>temp.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>. (temp. Capt.) V. J. R. (R.T.O., graded as Staff Capt.)</Text>
+      <Title>temp. Lt. (temp. Capt.)</Title>
+      <Forenames>V. J. R.</Forenames>
+      <Text>(R.T.O., graded as Staff Capt.)</Text>
       <PageNumber>5840</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Noake</Key>
-      <Text>, Maj. (temp. Lt.-Col.) A. S. (graded as Asst. Dir. of Supplies and Transport)</Text>
+      <Title>Maj. (temp. Lt.-Col.)</Title>
+      <Forenames>A. S.</Forenames>
+      <Text>(graded as Asst. Dir. of Supplies and Transport)</Text>
       <PageNumber>5838</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -670,16 +710,18 @@
   <ItemGroup>
     <MainItem>
       <Key>Ogilvie</Key>
-      <Text>, Maj. (temp. Lt.-Col.) D. (Dep. Chief Engr.)</Text>
+      <Title>Maj. (temp. Lt.-Col.)</Title>
+      <Forenames>D.</Forenames>
+      <Text>(Dep. Chief Engr.)</Text>
       <PageNumber>5836</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Orr</Key>
-      <Title>Maj. and Bt.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. G. M. (G.S.O., 1st Or.)</Text>
+      <Title>Maj. and Bt. Lt.-Col.</Title>
+      <Forenames>G. M.</Forenames>
+      <Text>(G.S.O., 1st Or.)</Text>
       <PageNumber>5833</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -688,9 +730,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Title>temp.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>. (temp. Capt.) L. W. G., M.C. (Staff Capt.)</Text>
+      <Title>temp. Lt. (temp. Capt.)</Title>
+      <Forenames>L. W. G.</Forenames>
+      <Text>, M.C. (Staff Capt.)</Text>
       <PageNumber>5835</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -706,14 +748,18 @@
   <ItemGroup>
     <MainItem>
       <Key>Parker</Key>
-      <Text>, 2nd Lt. (temp. Maj.) H. N. (Dep. Asst. Dir. of Railway Transport)</Text>
+      <Title>2nd Lt. (temp. Maj.)</Title>
+      <Forenames>H. N.</Forenames>
+      <Text>(Dep. Asst. Dir. of Railway Transport)</Text>
       <PageNumber>5838</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Parkhouse</Key>
-      <Text>, 2nd Lt. (temp. Capt.) H. (Staff Capt.)</Text>
+      <Title>2nd Lt. (temp. Capt.)</Title>
+      <Forenames>H.</Forenames>
+      <Text>(Staff Capt.)</Text>
       <PageNumber>5835</PageNumber>
     </MainItem>
     <SubItem>
@@ -742,17 +788,18 @@
   <ItemGroup>
     <MainItem>
       <Key>Paton</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (temp. Capt.) A., M.C. (Staff Capt., R.A.)</Text>
+      <Title>Lt. (temp. Capt.)</Title>
+      <Forenames>A.</Forenames>
+      <Text>, M.C. (Staff Capt., R.A.)</Text>
       <PageNumber>5836</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Patterson</Key>
-      <Title>Maj. and Bt.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. E. C. Tylden, D.S.O., see Tylden-Patterson, Maj. ar.d Bt. Lt.-Col. E. C, D.S.O. Pawson, Lt. (temp. Capt.) G. (R.T.O., graded as Staff Capt.)</Text>
+      <Title>Maj. and Bt. Lt.-Col.</Title>
+      <Forenames>E. C. Tylden</Forenames>
+      <Text>, D.S.O., see Tylden-Patterson, Maj. ar.d Bt. Lt.-Col. E. C, D.S.O. Pawson, Lt. (temp. Capt.) G. (R.T.O., graded as Staff Capt.)</Text>
       <PageNumber>5840</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -779,7 +826,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Pearce</Key>
-      <Text>, 2nd Lt. (temp. Capt.) G. A. (R.T.O., graded as Staff Capt.)</Text>
+      <Title>2nd Lt. (temp. Capt.)</Title>
+      <Forenames>G. A.</Forenames>
+      <Text>(R.T.O., graded as Staff Capt.)</Text>
       <PageNumber>5839</PageNumber>
     </MainItem>
   </ItemGroup>

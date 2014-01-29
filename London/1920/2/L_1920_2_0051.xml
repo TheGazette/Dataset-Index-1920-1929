@@ -12,7 +12,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mellias</Key>
-      <Text>, Maj.nGen. Sir O. J., V.C., K.O.B., K.C.M.G. (rel. appt. as Brig. Comdr., attd. to Hd. Qr. Unit) Melville, Capt. G. D., O.B.E., M.C. (rel. appt. as D.A.A. and QJM.G. and temp, rank of Maj.)</Text>
+      <Title>Maj.</Title>
+      <Text>nGen. Sir O. J., V.C., K.O.B., K.C.M.G. (rel. appt. as Brig. Comdr., attd. to Hd. Qr. Unit) Melville, Capt. G. D., O.B.E., M.C. (rel. appt. as D.A.A. and QJM.G. and temp, rank of Maj.)</Text>
       <PageNumber>5335</PageNumber>
     </MainItem>
     <SubItem>
@@ -20,7 +21,15 @@
       <PageNumber>6442</PageNumber>
     </SubItem>
   </ItemGroup>
-  <SubCategoryTitle>J. M. (rel. appt. as Dep. Asst</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Menzies</Key>
+      <Title>temp. Lit. (acfcg. Copt.)</Title>
+      <Forenames>J. M.</Forenames>
+      <Text>(rel. appt. as Dep. Asst. Prov. Marshal, 01. FF, attd. to Hd. Qr. Unit, and temp. rank of Capt.)</Text>
+      <PageNumber>6146</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Meysey-Thompson</Key>
@@ -33,9 +42,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Michel</Key>
-      <Title>temp.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>. (actg. Capt.) G. E. (rel. appt. as (Dep. Asst. Dir. of Light Rlys., Cl. BB, and temp, rank of Maj.)</Text>
+      <Title>temp. Lt. (actg. Capt.)</Title>
+      <Forenames>G. E.</Forenames>
+      <Text>(rel. appt. as (Dep. Asst. Dir. of Light Rlys., Cl. BB, and temp, rank of Maj.)</Text>
       <PageNumber>5923</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -73,7 +82,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Miller</Key>
-      <Text>, temp. 2nd Lt. F. (rel. spec, appt. Cl. GGand temp, rank of Lt)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>F.</Forenames>
+      <Text>(rel. spec, appt. Cl. GGand temp, rank of Lt)</Text>
       <PageNumber>6753</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -104,7 +115,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>Bt. .Lt.-Col. (temp. Lt.-Col.) H. G.. B., D.S.O., MX. (temp. A.A.G. at War Office and retains temp, rank of Lt.-Col.)</Text>
+      <Title>Bt.</Title>
+      <Text>.Lt.-Col. (temp. Lt.-Col.) H. G.. B., D.S.O., MX. (temp. A.A.G. at War Office and retains temp, rank of Lt.-Col.)</Text>
       <PageNumber>4953</PageNumber>
     </MainItem>
     <SubItem>
@@ -144,8 +156,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mllward</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. RJ S., O.B.E. (rel. appt. as Asst. Dir. of Light Rlys., Cl. X, and temp, rank of Lt.-Col.)</Text>
+      <Title>Lt.</Title>
+      <Text>RJ S., O.B.E. (rel. appt. as Asst. Dir. of Light Rlys., Cl. X, and temp, rank of Lt.-Col.)</Text>
       <PageNumber>5206</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -172,14 +184,16 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>temp. 2nd Lt. H. C. (rel. appt. as Dep. Asst. .Prov. Marshal, Cl. FF)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>H. C.</Forenames>
+      <Text>(rel. appt. as Dep. Asst. .Prov. Marshal, Cl. FF)</Text>
       <PageNumber>4957</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Moens</Key>
-      <Text>, Bt, Lt.-Col. (temp. Lt.-Col.) A. W. H. M„ C.M.G., D.S.O. (rel. temp, rank of Col.)</Text>
+      <Text>Bt, Lt.-Col. (temp. Lt.-Col.) A. W. H. M„ C.M.G., D.S.O. (rel. temp, rank of Col.)</Text>
       <PageNumber>5346</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -287,9 +301,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Morgan</Key>
-      <Title>temp.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>. (temp. Capt.) A. ,C. (D.A.D.-Gen. of Transptn., Cl. BB, and temp. Maj.)</Text>
+      <Title>temp. Lt. (temp. Capt.)</Title>
+      <Forenames>A.</Forenames>
+      <Text>,C. (D.A.D.-Gen. of Transptn., Cl. BB, and temp. Maj.)</Text>
       <PageNumber>6754</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -307,16 +321,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Morley</Key>
-      <Title>Bt.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>.-CoL L. C, C.B.E. (rel. appt. as G.S.O., 1st Gr., General .Staff, and temp, rank of Lt.-Col.)</Text>
+      <Title>Bt. Lt.</Title>
+      <Text>-CoL L. C, C.B.E. (rel. appt. as G.S.O., 1st Gr., General .Staff, and temp, rank of Lt.-Col.)</Text>
       <PageNumber>6163</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Morris</Key>
-      <Text>, temp. .Lt.. F. Gurney (rel. Eiuplt. on Estabt. of Dep. Asst. Dir. of Graves Regstn. and Enquiries, CI. FF, and temp, rank of Capt.)</Text>
+      <Title>temp.</Title>
+      <Text>.Lt.. F. Gurney (rel. Eiuplt. on Estabt. of Dep. Asst. Dir. of Graves Regstn. and Enquiries, CI. FF, and temp, rank of Capt.)</Text>
       <PageNumber>4657</PageNumber>
     </MainItem>
     <SubItem>
@@ -418,7 +432,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Mosse</Key>
-      <Text>, Capt. C B. (Staff 'Capt., attd. to Hd.-Qr. Unit)</Text>
+      <Title>Capt.</Title>
+      <Forenames>C</Forenames>
+      <Text>B. (Staff 'Capt., attd. to Hd.-Qr. Unit)</Text>
       <PageNumber>5450</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -445,7 +461,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Moulton</Key>
-      <Text>, 'Lt. W. iR. (rel. appt. as Dep. Asst. Dir. of Graves Registration and Enquiries, Cl. BB, and temp, rank of Maj.)</Text>
+      <Text>'Lt. W. iR. (rel. appt. as Dep. Asst. Dir. of Graves Registration and Enquiries, Cl. BB, and temp, rank of Maj.)</Text>
       <PageNumber>4331</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -532,7 +548,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Murray</Key>
-      <Text>, Maj.. the Hon. A. C, C. M.G., D.S.O. {rel. temp, appt. as Asst. Mil. Attache,. G. S.O., and temp, rank or Lt.Col.)</Text>
+      <Title>Maj.</Title>
+      <Text>. the Hon. A. C, C. M.G., D.S.O. {rel. temp, appt. as Asst. Mil. Attache,. G. S.O., and temp, rank or Lt.Col.)</Text>
       <PageNumber>6662</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -541,8 +558,9 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ——</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (actg. Capt.) A. C. (rel. appt. as Rly. Traffic Offr., Cl. FF)</Text>
+      <Title>Lt. (actg. Capt.)</Title>
+      <Forenames>A. C.</Forenames>
+      <Text>(rel. appt. as Rly. Traffic Offr., Cl. FF)</Text>
       <PageNumber>6163</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -562,14 +580,18 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>temp. Maj. (actg. Lt.-Col.) W., O.B.E., M.C. (Empld. on Disposal of Surplus Stores, Cl. X, and .temp. Lt.Col.)</Text>
+      <Title>temp. Maj. (actg. Lt.-Col.)</Title>
+      <Forenames>W.</Forenames>
+      <Text>, O.B.E., M.C. (Empld. on Disposal of Surplus Stores, Cl. X, and .temp. Lt.Col.)</Text>
       <PageNumber>5451</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Mutton</Key>
-      <Text>, 2nd Lt. F. G. (rel. appt. as Rly. Trffio Qffr., Cl. HflH, and temp, rank of Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>F. G.</Forenames>
+      <Text>(rel. appt. as Rly. Trffio Qffr., Cl. HflH, and temp, rank of Lt.)</Text>
       <PageNumber>6549</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -596,9 +618,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Nancarrow</Key>
-      <Title>temp.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>. (temp. Maj.) H. J. (spec, appt., Cl. X, and temp. Lt.-Col.)</Text>
+      <Title>temp. Lt. (temp. Maj.)</Title>
+      <Forenames>H. J.</Forenames>
+      <Text>(spec, appt., Cl. X, and temp. Lt.-Col.)</Text>
       <PageNumber>569</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -665,7 +687,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Neill</Key>
-      <Text>, temp. 2nd Lt. G. J. (rel. appt. as Staff Capt., attd. to Hd.-Qr. Unit, and temp, rank of Capt.)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>G. J.</Forenames>
+      <Text>(rel. appt. as Staff Capt., attd. to Hd.-Qr. Unit, and temp, rank of Capt.)</Text>
       <PageNumber>4559</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -698,9 +722,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Title>Bt.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. J. O., O.B.E. (rel. appt. asCbmdr., Cl. X, attd. to Hd.-Qr. Unit, and temp. rank of Col.)</Text>
+      <Title>Bt. Lt.-Col.</Title>
+      <Forenames>J. O.</Forenames>
+      <Text>, O.B.E. (rel. appt. asCbmdr., Cl. X, attd. to Hd.-Qr. Unit, and temp. rank of Col.)</Text>
       <PageNumber>5339</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -54,8 +54,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Little</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. W. C. (Col.)</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>W. C.</Forenames>
+      <Text>(Col.)</Text>
       <PageNumber>2167</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -408,8 +409,9 @@
   <ItemGroup>
     <MainItem>
       <Key>McMahon</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. H A. (retirement)</Text>
+      <Title>Lt.</Title>
+      <Forenames>H</Forenames>
+      <Text>A. (retirement)</Text>
       <PageNumber>143</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -459,8 +461,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Mactavish</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. A. (retirement)</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>A.</Forenames>
+      <Text>(retirement)</Text>
       <PageNumber>2242</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -485,7 +488,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mandeville</Key>
-      <Text>, Capt. VV. (retirement)</Text>
+      <Title>Capt.</Title>
+      <Text>VV. (retirement)</Text>
       <PageNumber>1307</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -513,7 +517,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Markwick</Key>
-      <Text>, Capt. (now Maj.) H. W. (temp. Maj. while holding appt. as Dep. Asst. Dir. of S. &amp; T.)</Text>
+      <Title>Capt. (now Maj.)</Title>
+      <Forenames>H. W.</Forenames>
+      <Text>(temp. Maj. while holding appt. as Dep. Asst. Dir. of S. &amp; T.)</Text>
       <PageNumber>2241</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -549,16 +555,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Marston</Key>
-      <Text>, Capt.E. N. (retirement)</Text>
+      <Title>Capt.</Title>
+      <Text>E. N. (retirement)</Text>
       <PageNumber>143</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Martin</Key>
-      <Title>Dep.</Title>
-      <Forenames>Commy</Forenames>
-      <Text>. and Capt. (since retired) E. H. (Commy. and Maj.)</Text>
+      <Title>Dep. Commy. and Capt. (since retired)</Title>
+      <Forenames>E. H.</Forenames>
+      <Text>(Commy. and Maj.)</Text>
       <PageNumber>2077</PageNumber>
     </MainItem>
     <SubItem>
@@ -745,8 +752,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Milward</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. C. A., CLE., D.S.O. (Col.), Sub. Not</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>C. A.</Forenames>
+      <Text>, CLE., D.S.O. (Col.), Sub. Not</Text>
       <PageNumber>2166</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -776,7 +784,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>Col. W: J., C.M.G., D.S.O. (retirement)</Text>
+      <Title>Col.</Title>
+      <Forenames>W</Forenames>
+      <Text>: J., C.M.G., D.S.O. (retirement)</Text>
       <PageNumber>811</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -799,7 +809,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Moinet</Key>
-      <Text>, 2nd Lt. L. V. (rel. temp. commn.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>L. V.</Forenames>
+      <Text>(rel. temp. commn.)</Text>
       <PageNumber>459</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1085,9 +1097,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Nisbet</Key>
-      <Title>Bt.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. T., C.M.G., D.S.O. (Col.)</Text>
+      <Title>Bt. Lt.-Col.</Title>
+      <Forenames>T.</Forenames>
+      <Text>, C.M.G., D.S.O. (Col.)</Text>
       <PageNumber>2167</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1189,9 +1201,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Ogle</Key>
-      <Title>Bt.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. N., D.S.O. (Col.)</Text>
+      <Title>Bt. Lt.-Col.</Title>
+      <Forenames>N.</Forenames>
+      <Text>, D.S.O. (Col.)</Text>
       <PageNumber>2167</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1339,8 +1351,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Payne</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. (now Col.) E. H., CLE. (temp. Col. without pay, allces. or gratuity of that rank, whilst Dep. Field Acctnt. Gen)</Text>
+      <Title>Lt.-Col. (now Col.)</Title>
+      <Forenames>E. H.</Forenames>
+      <Text>, CLE. (temp. Col. without pay, allces. or gratuity of that rank, whilst Dep. Field Acctnt. Gen)</Text>
       <PageNumber>304</PageNumber>
     </MainItem>
   </ItemGroup>

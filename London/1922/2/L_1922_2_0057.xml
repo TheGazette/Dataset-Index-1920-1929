@@ -3,7 +3,6 @@
   <ItemGroup>
     <MainItem>
       <Key>Jones</Key>
-      <Text>,</Text>
       <PageNumber>___ ___ ___ ___ ___ . ___ ___ ___ ___ ___ ___ ___ -— ___ ___ ___ — ___ ___ ___ —— ___ ___ ___ ___ ___ ___ ___ — ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -11,7 +10,6 @@
   <ItemGroup>
     <MainItem>
       <Key>Jordan</Key>
-      <Text>,</Text>
       <PageNumber>___ ___ ___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -114,7 +112,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Joyce</Key>
-      <Text>temp. 2nd Lt. F. E. T., M.M. (rel. commn. on completion of service and retains rank of 2nd Lt.)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>F. E. T.</Forenames>
+      <Text>, M.M. (rel. commn. on completion of service and retains rank of 2nd Lt.)</Text>
       <PageNumber>3123</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -159,16 +159,18 @@
   <ItemGroup>
     <MainItem>
       <Key>Kaye</Key>
-      <Text>temp. 2nd Lt. W. C. (rel. commn. on completion of service and retains rank of 2nd Lt.)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>W. C.</Forenames>
+      <Text>(rel. commn. on completion of service and retains rank of 2nd Lt.)</Text>
       <PageNumber>2802</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Kean</Key>
-      <Title>temp.</Title>
-      <Forenames>Chapln</Forenames>
-      <Text>., 4th CI., Rev. G. (rel. commn. and to be Hon. Chapln., 4th 01.)</Text>
+      <Title>temp. Chapln., 4th CI., Rev.</Title>
+      <Forenames>G.</Forenames>
+      <Text>(rel. commn. and to be Hon. Chapln., 4th 01.)</Text>
       <PageNumber>3788</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -201,8 +203,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Sir John, Bt., D. S.O. (Lt.-Col., Reg. Army Res. of Offrs., Regtl. List, R.H. and R.F.A.)</Text>
+      <Title>Lt.-Col. Sir</Title>
+      <Forenames>John</Forenames>
+      <Text>, Bt., D. S.O. (Lt.-Col., Reg. Army Res. of Offrs., Regtl. List, R.H. and R.F.A.)</Text>
       <PageNumber>4830</PageNumber>
     </MainItem>
     <SubItem>
@@ -294,7 +297,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Keene</Key>
-      <Text>temp. 2nd Lt, W. D. (rel. commn. on completion of service and retains rank of 2nd Lt.)</Text>
+      <Title>temp.</Title>
+      <Text>2nd Lt, W. D. (rel. commn. on completion of service and retains rank of 2nd Lt.)</Text>
       <PageNumber>3214</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -370,22 +374,27 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>temp. 2nd Lt. J. D. (Highl. L.I.) (rel. commn. on completion of service and retains rank of 2nd Lt.)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>J. D.</Forenames>
+      <Text>(Highl. L.I.) (rel. commn. on completion of service and retains rank of 2nd Lt.)</Text>
       <PageNumber>3124</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Keleall</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. H. J. (ceases to belong to Res. of Off., having attained the age limit of liability to recall)</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>H. J.</Forenames>
+      <Text>(ceases to belong to Res. of Off., having attained the age limit of liability to recall)</Text>
       <PageNumber>4403</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Kemp</Key>
-      <Text>temp. 2nd Lt. A. G. (rel. commn. on completion of service and retains rank of 2nd Lt.)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>A. G.</Forenames>
+      <Text>(rel. commn. on completion of service and retains rank of 2nd Lt.)</Text>
       <PageNumber>3124</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -413,21 +422,27 @@
   <ItemGroup>
     <MainItem>
       <Key>Kendrew</Key>
-      <Text>temp. 2nd Lt. L. D. (rel. commn. on completion of service and retains rank of 2nd Lt.)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>L. D.</Forenames>
+      <Text>(rel. commn. on completion of service and retains rank of 2nd Lt.)</Text>
       <PageNumber>312</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Kendrick</Key>
-      <Text>Capt. (Bt. Maj. , R.D. Fus.) E. H., D.S.O. (temp. Maj. whilst comdg. Co , Tank Corps)</Text>
+      <Title>Capt. (Bt. Maj. , R.D. Fus.)</Title>
+      <Forenames>E. H.</Forenames>
+      <Text>, D.S.O. (temp. Maj. whilst comdg. Co , Tank Corps)</Text>
       <PageNumber>4148</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Kennedy</Key>
-      <Text>2nd Lt. Alfred Armistead (2nd Lt., Reg. Army Res. of Offrs., Regtl. List, E. York. R., late Serv. Bn.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>Alfred Armi-</Forenames>
+      <Text>stead (2nd Lt., Reg. Army Res. of Offrs., Regtl. List, E. York. R., late Serv. Bn.)</Text>
       <PageNumber>3787</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -458,9 +473,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Title>temp.</Title>
-      <Forenames>Chapln</Forenames>
-      <Text>., 4th CI., Rev. E. S. (rel. commn. and to be Hon. Chapln., 4th CI.)</Text>
+      <Title>temp. Chapln., 4th CI., Rev.</Title>
+      <Forenames>E. S.</Forenames>
+      <Text>(rel. commn. and to be Hon. Chapln., 4th CI.)</Text>
       <PageNumber>3788</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -469,7 +484,9 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>temp. Maj. (Qrmr. and Maj.) H: J. (rel. temp, commn.)</Text>
+      <Title>temp. Maj. (Qrmr. and Maj.)</Title>
+      <Forenames>H</Forenames>
+      <Text>: J. (rel. temp, commn.)</Text>
       <PageNumber>4923</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -524,7 +541,9 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>2nd Lt. D. G. (2nd Lt., Reg. Army Res. of Off., Gen. List, Cav., late Res. Regts. of Cav.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>D. G.</Forenames>
+      <Text>(2nd Lt., Reg. Army Res. of Off., Gen. List, Cav., late Res. Regts. of Cav.)</Text>
       <PageNumber>3220</PageNumber>
     </MainItem>
     <SubItem>
@@ -562,7 +581,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Kent</Key>
-      <Text>temp. 2nd Lt. A., M.C. (rel. commn. on completion of service and retains rank of 2nd Lt.)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>A.</Forenames>
+      <Text>, M.C. (rel. commn. on completion of service and retains rank of 2nd Lt.)</Text>
       <PageNumber>3124</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -578,7 +599,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Keown</Key>
-      <Text>temp. 2nd Lt, W. S. (rel. commn. on completion of service and retains rank of 2nd Lt.)</Text>
+      <Title>temp.</Title>
+      <Text>2nd Lt, W. S. (rel. commn. on completion of service and retains rank of 2nd Lt.)</Text>
       <PageNumber>2802</PageNumber>
     </MainItem>
     <SubItem>

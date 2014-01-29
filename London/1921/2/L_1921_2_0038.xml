@@ -71,8 +71,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hayfield</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (now Capt.) B. (rel. appt. as Staff Capt. attd. to Hd.-Qr. Unit, and temp, rank of Capt.)</Text>
+      <Title>Lt. (now Capt.)</Title>
+      <Forenames>B.</Forenames>
+      <Text>(rel. appt. as Staff Capt. attd. to Hd.-Qr. Unit, and temp, rank of Capt.)</Text>
       <PageNumber>3835</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -228,7 +229,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hicks</Key>
-      <Text>Bt. Col. (Hon. Brig.-Gen.) H. T., C.B. (ret. pay, rel. appt. as President, Area Qrtering. Committee, CI. GG)</Text>
+      <Title>Bt. Col. (Hon. Brig.-Gen.)</Title>
+      <Forenames>H. T.</Forenames>
+      <Text>, C.B. (ret. pay, rel. appt. as President, Area Qrtering. Committee, CI. GG)</Text>
       <PageNumber>4379</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -259,8 +262,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hinds</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. . H. (temp. spec, appt., CI. FF, from Ci. GG, and temp. Capt.)</Text>
+      <Title>Lt.</Title>
+      <Text>. H. (temp. spec, appt., CI. FF, from Ci. GG, and temp. Capt.)</Text>
       <PageNumber>5217</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -394,8 +397,17 @@
       <PageNumber>2875</PageNumber>
     </MainItem>
   </ItemGroup>
-  <KeyDitto>___ ___ ___ ___</KeyDitto>
-  <CategoryTitle>Claims and Customs, CI</CategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___ ___</KeyDitto>
+      </Key>
+      <Title>Maj.</Title>
+      <Forenames>H. G.</Forenames>
+      <Text>, D.S.O., O.B.E. (temp. Dep. Asst. Dir. of Requisitions and Hdrings, CI. BB, from Asst. Dir. of Claims and Customs, CI. BB), Hd.-Qrs. of Admin. Servs. and Depts.)</Text>
+      <PageNumber>2772</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Howes</Key>
@@ -408,8 +420,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Howorth</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. (now Col.) H. G., C.M.G. (rel. spec. appt. as Dir., CI. V, Min. of Munitions)</Text>
+      <Title>Lt.-Col. (now Col.)</Title>
+      <Forenames>H. G.</Forenames>
+      <Text>, C.M.G. (rel. spec. appt. as Dir., CI. V, Min. of Munitions)</Text>
       <PageNumber>3369</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -425,9 +438,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Huddleston</Key>
-      <Title>Bt.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. H. J. C.M.G., D.S.O., M.C. (rel. appt. as G.S.O., 1st Gr., General Staff, and temp, rank of Lt.-Col.) -</Text>
+      <Title>Bt. Lt.-Col.</Title>
+      <Forenames>H. J.</Forenames>
+      <Text>C.M.G., D.S.O., M.C. (rel. appt. as G.S.O., 1st Gr., General Staff, and temp, rank of Lt.-Col.) -</Text>
       <PageNumber>3359</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -586,9 +599,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Jeffcoat</Key>
-      <Title>Bt.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. A. C, C.B., C.M.G., D.S.O. (rel. appt. as A.Q.M.G. and temp, rank of Lt.-Col.) v</Text>
+      <Title>Bt. Lt.-Col.</Title>
+      <Forenames>A. C</Forenames>
+      <Text>, C.B., C.M.G., D.S.O. (rel. appt. as A.Q.M.G. and temp, rank of Lt.-Col.) v</Text>
       <PageNumber>4385</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -604,9 +617,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Jeffreys</Key>
-      <Title>Bt.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. J. W., D.S.O. (temp. G.S.O., 3rd Gr., General Staff)</Text>
+      <Title>Bt. Lt.-Col.</Title>
+      <Forenames>J. W.</Forenames>
+      <Text>, D.S.O. (temp. G.S.O., 3rd Gr., General Staff)</Text>
       <PageNumber>4624</PageNumber>
     </MainItem>
   </ItemGroup>

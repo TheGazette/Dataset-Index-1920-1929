@@ -3,7 +3,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Worgan</Key>
-      <Text>, Maj. and T,t. Lt.-Col. (temp. Brig.-Gen.) (now Col) B. B., C.S.L, C.V.O., D.S.O. (Bde. Comdr. Waziristan Field Force)</Text>
+      <Title>Maj.</Title>
+      <Text>and T,t. Lt.-Col. (temp. Brig.-Gen.) (now Col) B. B., C.S.L, C.V.O., D.S.O. (Bde. Comdr. Waziristan Field Force)</Text>
       <PageNumber>811</PageNumber>
     </MainItem>
     <SubItem>
@@ -14,14 +15,18 @@
   <ItemGroup>
     <MainItem>
       <Key>Wynne</Key>
-      <Text>, Capt. (temp. Maj.) O.W. J. (dep. Asst. Dir. of Med. Services, Waziristan Field Force)</Text>
+      <Title>Capt. (temp. Maj.)</Title>
+      <Forenames>O.W. J.</Forenames>
+      <Text>(dep. Asst. Dir. of Med. Services, Waziristan Field Force)</Text>
       <PageNumber>816</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Yeomans</Key>
-      <Text>, 2nd Lt. (temp. Capt.) B. A. (Asst. Provost Marshall, Waziristan Field Force)</Text>
+      <Title>2nd Lt. (temp. Capt.)</Title>
+      <Forenames>B. A.</Forenames>
+      <Text>(Asst. Provost Marshall, Waziristan Field Force)</Text>
       <PageNumber>818</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -109,8 +114,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Allanson</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. C. J. L, C.M.G., C.I.E., D.S.O. (since ret.) (Col.)</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>C. J. L</Forenames>
+      <Text>, C.M.G., C.I.E., D.S.O. (since ret.) (Col.)</Text>
       <PageNumber>2166</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -212,8 +218,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Not</Forenames>
-      <Text>. in Gaz. 6th Feb., 1923, cancelled</Text>
+      <Title>Not.</Title>
+      <Text>in Gaz. 6th Feb., 1923, cancelled</Text>
       <PageNumber>2877</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -292,7 +298,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hacon</Key>
-      <Text>, 2nd Lt. W. D. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>W. D.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>999</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -360,7 +368,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Ball</Key>
-      <Text>, Capt. (now Maj.) T. L. (Lt.Col. while holding appt. of Asst. Dir. of Transport)</Text>
+      <Title>Capt. (now Maj.)</Title>
+      <Forenames>T. L.</Forenames>
+      <Text>(Lt.Col. while holding appt. of Asst. Dir. of Transport)</Text>
       <PageNumber>2241</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -385,8 +395,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Bannon</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (since retired) J. D. (Capt.)</Text>
+      <Title>Lt. (since retired)</Title>
+      <Forenames>J. D.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>2241</PageNumber>
     </MainItem>
     <SubItem>
@@ -830,7 +841,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bourne</Key>
-      <Text>, tapt. W. H. (retirement)</Text>
+      <Text>tapt. W. H. (retirement)</Text>
       <PageNumber>1307</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -846,8 +857,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. W. H. (retirement)</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>W. H.</Forenames>
+      <Text>(retirement)</Text>
       <PageNumber>2421</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -916,8 +928,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>. G; T. (retirement)</Text>
+      <Title>Lt.</Title>
+      <Forenames>G</Forenames>
+      <Text>; T. (retirement)</Text>
       <PageNumber>1308</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -968,7 +981,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Brisley</Key>
-      <Text>, Capt. F, de B. (retirement)</Text>
+      <Title>Capt.</Title>
+      <Forenames>F</Forenames>
+      <Text>, de B. (retirement)</Text>
       <PageNumber>2242</PageNumber>
     </MainItem>
   </ItemGroup>

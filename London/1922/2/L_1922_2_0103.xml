@@ -12,15 +12,16 @@
   <ItemGroup>
     <MainItem>
       <Key>McNulty</Key>
-      <Forenames>Chapln</Forenames>
-      <Text>., 3rd Cl., the Rev. C. T. B., M.A. (resigns commn. and to be Hon. Chapln., 3rd Cl.)</Text>
+      <Title>Chapln.</Title>
+      <Text>, 3rd Cl., the Rev. C. T. B., M.A. (resigns commn. and to be Hon. Chapln., 3rd Cl.)</Text>
       <PageNumber>3613</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Macrae</Key>
-      <Text>Capt.. D. F., M.B. (rel. commn. and retains rank of Capt.)</Text>
+      <Title>Capt.</Title>
+      <Text>. D. F., M.B. (rel. commn. and retains rank of Capt.)</Text>
       <PageNumber>2799</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -49,9 +50,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Title>Hon.</Title>
-      <Forenames>Chapln</Forenames>
-      <Text>., 4th Cl., Rev. John Morell (Chapln., 4th Cl.) ,</Text>
+      <Title>Hon. Chapln.</Title>
+      <Text>, 4th Cl., Rev. John Morell (Chapln., 4th Cl.) ,</Text>
       <PageNumber>4928</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -67,8 +67,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Maitland</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. G. R.» D.S.O. (Lt.-Col., 9th Bn., A. and S.H., late Indian Army)</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>G. R.</Forenames>
+      <Text>» D.S.O. (Lt.-Col., 9th Bn., A. and S.H., late Indian Army)</Text>
       <PageNumber>4927</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -116,7 +117,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Mannings</Key>
-      <Text>2nd Lt. N. V.. (trd. to T.A. Res., Gen. List, R.A.S.C., from 48th (S. Mid.) Divl. Train)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>N. V.</Forenames>
+      <Text>. (trd. to T.A. Res., Gen. List, R.A.S.C., from 48th (S. Mid.) Divl. Train)</Text>
       <PageNumber>4833</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -143,8 +146,8 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>. iW. E. (announcement in Gaz. of 5th Dec., 1921, cancelled)</Text>
+      <Title>Lt.</Title>
+      <Text>iW. E. (announcement in Gaz. of 5th Dec., 1921, cancelled)</Text>
       <PageNumber>3500</PageNumber>
     </MainItem>
     <SubItem>
@@ -197,7 +200,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>Capt. (late R.E., T.A.) James Herbert, A.M.I.C.E. (Lt., Gen. List, for service .with Cambridge Univ. Cont. (Engineer Unit), Sen. Div., O.T.C., and rel. rank of Capt.)</Text>
+      <Title>Capt. (late R.E., T.A.)</Title>
+      <Forenames>James Herbert</Forenames>
+      <Text>, A.M.I.C.E. (Lt., Gen. List, for service .with Cambridge Univ. Cont. (Engineer Unit), Sen. Div., O.T.C., and rel. rank of Capt.)</Text>
       <PageNumber>4152</PageNumber>
     </MainItem>
     <SubItem>
@@ -274,8 +279,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Matthews</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. W. R., D.S.O., M.B., T.D. (rel. commn. and granted rank of Col. with permission to wear prescribed uniform)</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>W. R.</Forenames>
+      <Text>, D.S.O., M.B., T.D. (rel. commn. and granted rank of Col. with permission to wear prescribed uniform)</Text>
       <PageNumber>3500</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -365,8 +371,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Meadows</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. G. S., O.B.E., T.D. (retires, having attained age limit, and retains rank of Lt.-Col. with permission to wear prescribed uniform)</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>G. S.</Forenames>
+      <Text>, O.B.E., T.D. (retires, having attained age limit, and retains rank of Lt.-Col. with permission to wear prescribed uniform)</Text>
       <PageNumber>4154</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -529,7 +536,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>2nd Lt. (temp. Lt.) W. de C. resigns commn. and granted rank of Lt.)</Text>
+      <Title>2nd Lt. (temp. Lt.)</Title>
+      <Forenames>W.</Forenames>
+      <Text>de C. resigns commn. and granted rank of Lt.)</Text>
       <PageNumber>4334</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -640,14 +649,18 @@
   <ItemGroup>
     <MainItem>
       <Key>Mittell</Key>
-      <Text>2nd Lt. H. H. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>H. H.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>3955</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Moffat</Key>
-      <Text>2nd Lt. W. C. (resigns commn. and retains rank of 2nd Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>W. C.</Forenames>
+      <Text>(resigns commn. and retains rank of 2nd Lt.)</Text>
       <PageNumber>4927</PageNumber>
     </MainItem>
     <SubItem>
@@ -678,7 +691,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Molony</Key>
-      <Text>Capt. (T.A. Res. Inf.), B. . C, O.B.E. (attd. for service with Ruebv Schl. Cont., Jun. Div., O.T.C.)</Text>
+      <Title>Capt. (T.A. Res. Inf.)</Title>
+      <Text>, B. . C, O.B.E. (attd. for service with Ruebv Schl. Cont., Jun. Div., O.T.C.)</Text>
       <PageNumber>4252</PageNumber>
     </MainItem>
     <SubItem>

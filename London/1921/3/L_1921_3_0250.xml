@@ -31,7 +31,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Westmaoott</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>5245</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -189,7 +189,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hodson</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>5245</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -224,7 +224,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Williamson</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>5245</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -405,7 +405,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Morison</Key>
-      <Forenames>Alexander</Forenames>
+      <Title>Alexander .</Title>
       <PageNumber>7055</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -470,7 +470,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Congleton</Key>
-      <Text>, Lord</Text>
+      <Title>Lord</Title>
       <PageNumber>6601</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -491,8 +491,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Milward</Key>
-      <Forenames>Chas</Forenames>
-      <Text>. D</Text>
+      <Title>Chas.</Title>
+      <Forenames>D</Forenames>
       <PageNumber>6842</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -871,7 +871,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Chapman</Key>
-      <Text>, S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>5244</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1482,9 +1482,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mountbatten</Key>
-      <Title>Lord</Title>
-      <Forenames>Louis</Forenames>
-      <Text>. M.V.O</Text>
+      <Title>Lord Louis.</Title>
+      <Text>M.V.O</Text>
       <PageNumber>7384</PageNumber>
     </MainItem>
   </ItemGroup>

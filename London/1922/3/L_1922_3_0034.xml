@@ -81,15 +81,18 @@
   <ItemGroup>
     <MainItem>
       <Key>Edney</Key>
-      <Text>, 2nd Lt. A. J. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>A. J.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>5359</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Edwardes</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. J. G., D.S.O. (Col.)</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>J. G.</Forenames>
+      <Text>, D.S.O. (Col.)</Text>
       <PageNumber>6579</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -107,7 +110,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>2nd Lt. A. W. (2nd Lt., Reg. Army Res. of Off., Gen. List, late R.E.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>A. W.</Forenames>
+      <Text>(2nd Lt., Reg. Army Res. of Off., Gen. List, late R.E.)</Text>
       <PageNumber>6712</PageNumber>
     </MainItem>
     <SubItem>
@@ -146,7 +151,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>2nd Lt. John William (2nd Lt., Reg. Army Res. of Off., Regtl. List, The Buffs)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>John William</Forenames>
+      <Text>(2nd Lt., Reg. Army Res. of Off., Regtl. List, The Buffs)</Text>
       <PageNumber>5035</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -155,7 +162,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>Maj. (h.p. list, late R.G.A.) L. C, O.B.E (restd. to full pay)</Text>
+      <Title>Maj. (h.p. list, late R.G.A.)</Title>
+      <Forenames>L. C</Forenames>
+      <Text>, O.B.E (restd. to full pay)</Text>
       <PageNumber>6841</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -174,8 +183,8 @@
         <KeyDitto>___ ___ ___ .</KeyDitto>
       </Key>
       <Title>Univ.</Title>
-      <Forenames>Candidate Lt</Forenames>
-      <Text>. Walter Lennox (2nd Lt., Lan. Fus., from R.A.R.O.)</Text>
+      <Forenames>Candidate</Forenames>
+      <Text>Lt. Walter Lennox (2nd Lt., Lan. Fus., from R.A.R.O.)</Text>
       <PageNumber>6713</PageNumber>
     </MainItem>
     <SubItem>
@@ -186,30 +195,35 @@
   <ItemGroup>
     <MainItem>
       <Key>Egdell</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (seed. Tank Corps) R. H., M.C. (retires, receiving a gratuity)</Text>
+      <Title>Lt. (seed. Tank Corps)</Title>
+      <Forenames>R. H.</Forenames>
+      <Text>, M.C. (retires, receiving a gratuity)</Text>
       <PageNumber>5706</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Eley</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. (ret. pay) W. G., D. S.O. (ceases to belong to Res. of Off., having attained the age limit of liability to recall)</Text>
+      <Title>Lt.-Col. (ret. pay)</Title>
+      <Forenames>W. G.</Forenames>
+      <Text>, D. S.O. (ceases to belong to Res. of Off., having attained the age limit of liability to recall)</Text>
       <PageNumber>6378</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Eliot</Key>
-      <Text>, 2nd Lt. W. E. C. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>W. E. C.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>5359</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Elkington</Key>
-      <Text>, Col. (Hon. Brig.-Gen.) , R. J. G., C.B., C.M.G., D.S.O. (ceases to belong to Res. of Off., having attained the age limit of liability to recall)</Text>
+      <Title>Col. (Hon. Brig.-Gen.)</Title>
+      <Text>, R. J. G., C.B., C.M.G., D.S.O. (ceases to belong to Res. of Off., having attained the age limit of liability to recall)</Text>
       <PageNumber>6640</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -225,7 +239,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Elliott</Key>
-      <Text>, 2nd Lt. A. de G. (2nd Lt., Reg. Army Res. of Off., Regtl. List, A. and S.H., late A. and S.H.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>A.</Forenames>
+      <Text>de G. (2nd Lt., Reg. Army Res. of Off., Regtl. List, A. and S.H., late A. and S.H.)</Text>
       <PageNumber>6580</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -238,7 +254,7 @@
       <PageNumber>5105</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Rel. commn. on completion of service and granted rank of Capt.</Text>
+      <Text>Rel. commn. on completion of service and granted rank of Capt</Text>
       <PageNumber>5105</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -267,8 +283,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Elsley</Key>
-      <Forenames>Qr</Forenames>
-      <Text>.-Mr. and Capt. H. (retires on ret. pay)</Text>
+      <Title>Qr.</Title>
+      <Text>-Mr. and Capt. H. (retires on ret. pay)</Text>
       <PageNumber>6713</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -288,8 +304,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Elwes</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. (ret. pay) W. V. J. C. (Lt.-Col., Reg. Army Res. of Off., Regtl. List, R.H. and R.F.A:) .... '</Text>
+      <Title>Lt.-Col. (ret. pay)</Title>
+      <Forenames>W. V. J. C.</Forenames>
+      <Text>(Lt.-Col., Reg. Army Res. of Off., Regtl. List, R.H. and R.F.A:) .... '</Text>
       <PageNumber>5280</PageNumber>
     </MainItem>
     <SubItem>
@@ -333,22 +350,27 @@
   <ItemGroup>
     <MainItem>
       <Key>Emmitt</Key>
-      <Text>, 2nd Lt. Harold (2nd Lt., Reg. Army Res. of Off., Regtl. List, E. York. R.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>Harold</Forenames>
+      <Text>(2nd Lt., Reg. Army Res. of Off., Regtl. List, E. York. R.)</Text>
       <PageNumber>5035</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Emslie</Key>
-      <Text>, 2nd Lt. Francis, M.M. (2nd Lt., Reg. Army lies, of Off., Regtl. List, Gordons, late Serv. Bn.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>Francis</Forenames>
+      <Text>, M.M. (2nd Lt., Reg. Army lies, of Off., Regtl. List, Gordons, late Serv. Bn.)</Text>
       <PageNumber>5362</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>England</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. (ret. pay) A. (Lt.-Col., Reg. Army Res. of Offs., Regtl. List, R.A.V.C.)</Text>
+      <Title>Lt.-Col. (ret. pay)</Title>
+      <Forenames>A.</Forenames>
+      <Text>(Lt.-Col., Reg. Army Res. of Offs., Regtl. List, R.A.V.C.)</Text>
       <PageNumber>5106</PageNumber>
     </MainItem>
     <SubItem>
@@ -368,7 +390,9 @@
   <ItemGroup>
     <MainItem>
       <Key>English</Key>
-      <Text>, Maj. (ret.) M. W. (Maj., Reg. Army Res. of Off., Regtl. List, R.H. and R.F.A.) ... C</Text>
+      <Title>Maj. (ret.)</Title>
+      <Forenames>M. W.</Forenames>
+      <Text>(Maj., Reg. Army Res. of Off., Regtl. List, R.H. and R.F.A.) ... C</Text>
       <PageNumber>378</PageNumber>
     </MainItem>
     <SubItem>
@@ -397,7 +421,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Ettlinger</Key>
-      <Text>, Capt. (ret.) E. S., M.C. (Capt. Reg. Army Res. of Off., R.H. and R.F.A., Regtl. List)</Text>
+      <Title>Capt. (ret.)</Title>
+      <Forenames>E. S.</Forenames>
+      <Text>, M.C. (Capt. Reg. Army Res. of Off., R.H. and R.F.A., Regtl. List)</Text>
       <PageNumber>5035</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -434,9 +460,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Title>Maj. and Bt.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. B. (ceases to be empld. with Tank Corps)</Text>
+      <Title>Maj. and Bt. Lt.-Col.</Title>
+      <Forenames>B.</Forenames>
+      <Text>(ceases to be empld. with Tank Corps)</Text>
       <PageNumber>5279</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -471,7 +497,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>2nd Lt. Joseph Thomas (2nd Lt., Reg. Army Res. of Off., Regtl. List. S. Wales Bord., late Serv. Bn.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>Joseph Thomas</Forenames>
+      <Text>(2nd Lt., Reg. Army Res. of Off., Regtl. List. S. Wales Bord., late Serv. Bn.)</Text>
       <PageNumber>5205</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -514,15 +542,16 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (h.p. list, late R.G.A.) W. O'C. (resigns commn.)</Text>
+      <Title>Lt. (h.p. list, late R.G.A.)</Title>
+      <Forenames>W. O</Forenames>
+      <Text>'C. (resigns commn.)</Text>
       <PageNumber>6097</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Evans-Lombe</Key>
-      <Text>. Capt. J. M., M.C. (seed, for service under the Colonial Office)</Text>
+      <Text>Capt. J. M., M.C. (seed, for service under the Colonial Office)</Text>
       <PageNumber>6711</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -547,8 +576,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ewart</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. (ret. pay), C. N., D.S.O. (Lt.-Col., Reg. Army Res of Off. Regtl. List, R.G.A.)</Text>
+      <Title>Lt.-Col. (ret. pay)</Title>
+      <Text>, C. N., D.S.O. (Lt.-Col., Reg. Army Res of Off. Regtl. List, R.G.A.)</Text>
       <PageNumber>5526</PageNumber>
     </MainItem>
     <SubItem>
@@ -559,9 +588,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Exham</Key>
-      <Title>Ord.</Title>
-      <Forenames>Off</Forenames>
-      <Text>., 3rd CI., and Maj. (Bt. Lt.-Col.) F. S., D.S.O. (Ord. Off., 2nd CI., with rank of Lt.-Col. and retains Staff Appmt.)</Text>
+      <Title>Ord. Off., 3rd CI.</Title>
+      <Text>, and Maj. (Bt. Lt.-Col.) F. S., D.S.O. (Ord. Off., 2nd CI., with rank of Lt.-Col. and retains Staff Appmt.)</Text>
       <PageNumber>5610</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -599,7 +627,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Fagan</Key>
-      <Text>, 2nd Lt. H. P. F. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>H. P. F.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>5360</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -623,8 +653,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Fail</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. F., O.B.E. (Lt.-Col Reg. Army Res. of Off., Regtl. List, R.A.V.C.)</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>F.</Forenames>
+      <Text>, O.B.E. (Lt.-Col Reg. Army Res. of Off., Regtl. List, R.A.V.C.)</Text>
       <PageNumber>5362</PageNumber>
     </MainItem>
     <SubItem>
@@ -733,8 +764,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Farmar</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. (ret. pay) W. C. R. (Lt.-Col., Reg. Army Res. of Off., Regtl. List, R.G.A.)</Text>
+      <Title>Lt.-Col. (ret. pay)</Title>
+      <Forenames>W. C. R.</Forenames>
+      <Text>(Lt.-Col., Reg. Army Res. of Off., Regtl. List, R.G.A.)</Text>
       <PageNumber>5526</PageNumber>
     </MainItem>
     <SubItem>
@@ -767,8 +799,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Farquhar</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. J., D.S.O. (placed on h.p. list on ceasing to be empld. in India, late R.F.A</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>J.</Forenames>
+      <Text>, D.S.O. (placed on h.p. list on ceasing to be empld. in India, late R.F.A</Text>
       <PageNumber>5964</PageNumber>
     </MainItem>
   </ItemGroup>

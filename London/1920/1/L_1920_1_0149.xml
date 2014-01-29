@@ -282,8 +282,8 @@
   <ItemGroup>
     <MainItem>
       <Key>McEwan</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Comdr. John Robert, Officer, Order of the British Empire</Text>
+      <Title>Lt.</Title>
+      <Text>-Comdr. John Robert, Officer, Order of the British Empire</Text>
       <PageNumber>3795</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -386,8 +386,8 @@
   <ItemGroup>
     <MainItem>
       <Key>McGhie</Key>
-      <Forenames>Engr</Forenames>
-      <Text>.-Cdr. Henry Bumsted, Companion, D.S.O</Text>
+      <Title>Engr.</Title>
+      <Text>-Cdr. Henry Bumsted, Companion, D.S.O</Text>
       <PageNumber>2861</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -574,8 +574,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Mackay</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. (Hon. Col.) James Francis, V.D., Commander, Order of the British Empire</Text>
+      <Title>Lt.-Col. (Hon. Col.)</Title>
+      <Forenames>James Francis</Forenames>
+      <Text>, V.D., Commander, Order of the British Empire</Text>
       <PageNumber>3768</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -655,7 +656,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>Maj. (T./Lt.-Col.) Kenneth Davidson, Officer, Order of the British Empire</Text>
+      <Title>Maj. (T./Lt.-Col.)</Title>
+      <Forenames>Kenneth Davidson</Forenames>
+      <Text>, Officer, Order of the British Empire</Text>
       <PageNumber>1374</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -932,7 +935,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mackintosh-Walker</Key>
-      <Text>, ThomaB Charles Bruce, Officer, Order of the British Empire</Text>
+      <Text>ThomaB Charles Bruce, Officer, Order of the British Empire</Text>
       <PageNumber>3809</PageNumber>
     </MainItem>
   </ItemGroup>

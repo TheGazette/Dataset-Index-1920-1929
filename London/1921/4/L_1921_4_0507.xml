@@ -162,8 +162,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Walmesley</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Charles Talbot Joseph Gerard, D.S.O., M.C. (trd. to 99th (Bucks and Berks) Bde., (A.T.), R.F.A., from Berks Yeo.)</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Charles Talbot Joseph Gerard</Forenames>
+      <Text>, D.S.O., M.C. (trd. to 99th (Bucks and Berks) Bde., (A.T.), R.F.A., from Berks Yeo.)</Text>
       <PageNumber>9991</PageNumber>
     </MainItem>
     <SubItem>
@@ -322,7 +323,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Walsh-Waring</Key>
-      <Text>2nd Lt. D. A. (rel. commn., and retains rank of 2nd Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>D. A.</Forenames>
+      <Text>(rel. commn., and retains rank of 2nd Lt.)</Text>
       <PageNumber>8912</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -349,7 +352,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Walter</Key>
-      <Text>2nd Lt. A. F. G. (trd. to T.A. Res., Regtl. List, R.A., from 17th (Essex and Suffolk) Med. Bde.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>A. F. G.</Forenames>
+      <Text>(trd. to T.A. Res., Regtl. List, R.A., from 17th (Essex and Suffolk) Med. Bde.)</Text>
       <PageNumber>10003</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -546,7 +551,9 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>2nd Lt. T. E. L. (rel. commn., and retains rank of 2nd Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>T. E. L.</Forenames>
+      <Text>(rel. commn., and retains rank of 2nd Lt.)</Text>
       <PageNumber>9883</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -564,8 +571,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Walwyn</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. (ret. pay) F. J., D.S.O. (Lt.-Col., 6th Bn., R.W. Fus.)</Text>
+      <Title>Lt.-Col. (ret. pay)</Title>
+      <Forenames>F. J.</Forenames>
+      <Text>, D.S.O. (Lt.-Col., 6th Bn., R.W. Fus.)</Text>
       <PageNumber>8622</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -833,7 +841,9 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>2nd Lt. H. M. (rel. commn., and retains rank of 2nd Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>H. M.</Forenames>
+      <Text>(rel. commn., and retains rank of 2nd Lt.)</Text>
       <PageNumber>9762</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -881,9 +891,17 @@
       <PageNumber>10482</PageNumber>
     </MainItem>
   </ItemGroup>
-  <CategoryTitle>
-    <KeyDitto>___ ___ ___ ___ ___ ___ .</KeyDitto>
-  </CategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___ ___ ___ ___ .</KeyDitto>
+      </Key>
+      <Title>Capt.</Title>
+      <Forenames>J. H.</Forenames>
+      <Text>(1st H. Counties Bde., R.H. and R.F.A.) (rel. commn., and retains rank of Capt.)</Text>
+      <PageNumber>10702</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>
@@ -900,8 +918,9 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. J. P. S., T.D. (rel. commn., and retains rank of Lt.-Col., with permission to wear prescribed uniform)</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>J. P. S.</Forenames>
+      <Text>, T.D. (rel. commn., and retains rank of Lt.-Col., with permission to wear prescribed uniform)</Text>
       <PageNumber>9440</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -998,7 +1017,9 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>2nd Lt. W. (rel. commn., and retains rank of 2nd Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>W.</Forenames>
+      <Text>(rel. commn., and retains rank of 2nd Lt.)</Text>
       <PageNumber>10441</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1150,8 +1171,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wareham</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-R. C. (rel.commn., and retains rank of Lt.)</Text>
+      <Title>Lt.</Title>
+      <Text>-R. C. (rel.commn., and retains rank of Lt.)</Text>
       <PageNumber>10117</PageNumber>
     </MainItem>
   </ItemGroup>

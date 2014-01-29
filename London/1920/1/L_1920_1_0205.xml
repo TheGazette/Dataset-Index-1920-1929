@@ -40,8 +40,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Smith</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (temp. Capt.) F. (Asst. Supt and retains temp, rank of Capt.)</Text>
+      <Title>Lt. (temp. Capt.)</Title>
+      <Forenames>F.</Forenames>
+      <Text>(Asst. Supt and retains temp, rank of Capt.)</Text>
       <PageNumber>490</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -67,14 +68,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Crawford</Key>
-      <Text>,jCapt. (temp. Maj.) H. A. B. (Instr.)</Text>
+      <Text>jCapt. (temp. Maj.) H. A. B. (Instr.)</Text>
       <PageNumber>1181</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Custamce</Key>
-      <Text>, Capt. (temp. Maj.) H. A. (temp. Adjt.)</Text>
+      <Title>Capt. (temp. Maj.)</Title>
+      <Forenames>H. A.</Forenames>
+      <Text>(temp. Adjt.)</Text>
       <PageNumber>1181</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -97,7 +100,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Pereira</Key>
-      <Text>, Bt. Maj. (temp. Maj.) A. B. P., D.S.O. (Adjt.)</Text>
+      <Title>Bt. Maj. (temp. Maj.)</Title>
+      <Forenames>A. B. P.</Forenames>
+      <Text>, D.S.O. (Adjt.)</Text>
       <PageNumber>1181</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -143,7 +148,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bastard</Key>
-      <Text>, .Maj. R., D.S.O. (rel. temp, rank of Lt.-Col.)</Text>
+      <Text>.Maj. R., D.S.O. (rel. temp, rank of Lt.-Col.)</Text>
       <PageNumber>1548</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -159,27 +164,27 @@
   <ItemGroup>
     <MainItem>
       <Key>Finlayson</Key>
-      <Title>Bt.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. R. G., C.M.G. D.S.O. (rel. temp, rank of Lt.Col.)</Text>
+      <Title>Bt. Lt.-Col.</Title>
+      <Forenames>R. G.</Forenames>
+      <Text>, C.M.G. D.S.O. (rel. temp, rank of Lt.Col.)</Text>
       <PageNumber>1548</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Gosohen</Key>
-      <Title>Bt.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. A. A., D.S.O. (Instr., d. Z. and temp. Lt. Col.)</Text>
+      <Title>Bt. Lt.-Col.</Title>
+      <Forenames>A. A.</Forenames>
+      <Text>, D.S.O. (Instr., d. Z. and temp. Lt. Col.)</Text>
       <PageNumber>1546</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hoysted</Key>
-      <Title>Bt.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. D. M. Fitzg., D.S.O. (rel. temp, rank of Lt. Col.)</Text>
+      <Title>Bt. Lt.-Col.</Title>
+      <Forenames>D. M. Fitzg</Forenames>
+      <Text>., D.S.O. (rel. temp, rank of Lt. Col.)</Text>
       <PageNumber>2890</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -268,9 +273,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Forbes</Key>
-      <Title>Bt.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>.^Col. R. R., D.S.O. (Comdt., 2nd CL)</Text>
+      <Title>Bt. Lt.</Title>
+      <Text>^Col. R. R., D.S.O. (Comdt., 2nd CL)</Text>
       <PageNumber>1009</PageNumber>
     </MainItem>
     <SubItem>
@@ -317,9 +321,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Smith</Key>
-      <Title>Bt.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. H. W., D.S.O. (temp. Comdt., 2nd Cl.)</Text>
+      <Title>Bt. Lt.-Col.</Title>
+      <Forenames>H. W.</Forenames>
+      <Text>, D.S.O. (temp. Comdt., 2nd Cl.)</Text>
       <PageNumber>1791</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -336,9 +340,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Brydon</Key>
-      <Title>temp.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>. (actg. Capt.) S. (temp. Asst. Experimental. Offr., CI. OC., and temp. Capt.) ,</Text>
+      <Title>temp. Lt. (actg. Capt.)</Title>
+      <Forenames>S.</Forenames>
+      <Text>(temp. Asst. Experimental. Offr., CI. OC., and temp. Capt.) ,</Text>
       <PageNumber>3519</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -424,7 +428,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Abercrombie</Key>
-      <Text>, temp. 2nd Lt. D. M. (rel. commn. on completion of service, and retains rank of 2nd Lt.)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>D. M.</Forenames>
+      <Text>(rel. commn. on completion of service, and retains rank of 2nd Lt.)</Text>
       <PageNumber>2267</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -457,7 +463,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Abraham</Key>
-      <Text>, lit. P. S. (resigns comimii. and retains rank of Lt.)</Text>
+      <Text>lit. P. S. (resigns comimii. and retains rank of Lt.)</Text>
       <PageNumber>3623</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -504,7 +510,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Ackennan</Key>
-      <Text>, 2nd Lt. A. A. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>A. A.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>1348</PageNumber>
     </MainItem>
     <SubItem>
@@ -552,7 +560,7 @@
       <PageNumber>410</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Trd. to Gen. Res. of Offrs.</Text>
+      <Text>Trd. to Gen. Res. of Offrs</Text>
       <PageNumber>412</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -581,23 +589,27 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>Maj. (temp. Lt.-Col.) W. M., D.S.O. (rel. temp, rank of Lt.^Col.)</Text>
+      <Title>Maj. (temp. Lt.-Col.)</Title>
+      <Forenames>W. M.</Forenames>
+      <Text>, D.S.O. (rel. temp, rank of Lt.^Col.)</Text>
       <PageNumber>2571</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Acutt</Key>
-      <Title>temp.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>. (2nd Lt., S. Afr. Forces) C. C. (rel. temp, comnwi. oni ceasing to be empld., and retains ramk of Lt.)</Text>
+      <Title>temp. Lt. (2nd Lt., S. Afr. Forces)</Title>
+      <Forenames>C. C.</Forenames>
+      <Text>(rel. temp, comnwi. oni ceasing to be empld., and retains ramk of Lt.)</Text>
       <PageNumber>2984</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Adair</Key>
-      <Text>, 2nd Lt. R. A. S. (resigns commn.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>R. A. S.</Forenames>
+      <Text>(resigns commn.)</Text>
       <PageNumber>1202</PageNumber>
     </MainItem>
     <SubItem>
@@ -610,8 +622,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Adam</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (temp. Capt.) (temp. Acctt. Offr., 6tih Cl.) G., M.C. (temp. Acctt. Offr., 5th Ol.)</Text>
+      <Title>Lt. (temp. Capt.) (temp. Acctt. Offr., 6tih Cl.)</Title>
+      <Forenames>G.</Forenames>
+      <Text>, M.C. (temp. Acctt. Offr., 5th Ol.)</Text>
       <PageNumber>1061</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -642,7 +655,9 @@
       <Key>
         <KeyDitto>___ ___ .</KeyDitto>
       </Key>
-      <Text>2nd Lt. W. (ceases to be empld. with 16tih Transport Workers' Bn., Soo. Rif.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>W.</Forenames>
+      <Text>(ceases to be empld. with 16tih Transport Workers' Bn., Soo. Rif.)</Text>
       <PageNumber>796</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -722,9 +737,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Title>temp.</Title>
-      <Forenames>Ca</Forenames>
-      <Text>.pt. D. R., M.D. (rel. commn. on acc. of ill-health contracted on active service, and granted mank of Maj.)</Text>
+      <Title>temp. Ca.</Title>
+      <Text>pt. D. R., M.D. (rel. commn. on acc. of ill-health contracted on active service, and granted mank of Maj.)</Text>
       <PageNumber>294</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -744,7 +758,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>temp. 2nd Lt. E. T. T. (temp. Lt.)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>E. T. T.</Forenames>
+      <Text>(temp. Lt.)</Text>
       <PageNumber>1532</PageNumber>
     </MainItem>
   </ItemGroup>

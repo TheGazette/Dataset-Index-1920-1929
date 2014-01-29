@@ -72,7 +72,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Voss</Key>
-      <Text>2nd Lt. A. J. (rel. commn., and retains rank of 2nd Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>A. J.</Forenames>
+      <Text>(rel. commn., and retains rank of 2nd Lt.)</Text>
       <PageNumber>10111</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -332,7 +334,9 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>2nd Lt. S. G. (rel. commn., and retains rank of 2nd Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>S. G.</Forenames>
+      <Text>(rel. commn., and retains rank of 2nd Lt.)</Text>
       <PageNumber>10210</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -438,7 +442,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Waechter</Key>
-      <Text>2nd Lt. (Hon. Col., 5th Lond. Bde., R.F.A.) Lt. Sir H., Bt., C.M.G. (rel. commn., and retains rank of 2nd Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Text>(Hon. Col., 5th Lond. Bde., R.F.A.) Lt. Sir H., Bt., C.M.G. (rel. commn., and retains rank of 2nd Lt.)</Text>
       <PageNumber>10704</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -483,7 +488,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Waine</Key>
-      <Text>2nd Lt. H. L. (rel. commn., and retains rank of 2nd Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>H. L.</Forenames>
+      <Text>(rel. commn., and retains rank of 2nd Lt.)</Text>
       <PageNumber>10459</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -574,7 +581,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Wakefield</Key>
-      <Text>2nd Lt. G. H. (rel. commn., and retains rank of 2nd Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>G. H.</Forenames>
+      <Text>(rel. commn., and retains rank of 2nd Lt.)</Text>
       <PageNumber>9014</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -689,8 +698,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wales</Key>
-      <Forenames>Chapln</Forenames>
-      <Text>., 1st CI., The Most Revd. Archbishop of, D.D. (retired, having attained the age limit, and to be Hon. Chapln., lat CI., with permission to wear prescribed uniform)</Text>
+      <Title>Chapln., 1st CI.</Title>
+      <Text>, The Most Revd. Archbishop of, D.D. (retired, having attained the age limit, and to be Hon. Chapln., lat CI., with permission to wear prescribed uniform)</Text>
       <PageNumber>8696</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -816,9 +825,17 @@
       <PageNumber>9134</PageNumber>
     </MainItem>
   </ItemGroup>
-  <CategoryTitle>
-    <KeyDitto>— ___ ___</KeyDitto>
-  </CategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>— ___ ___</KeyDitto>
+      </Key>
+      <Title>Capt.</Title>
+      <Forenames>C. E.</Forenames>
+      <Text>, M.C. (H. Counties (Kent) R.G.A.) (rel. commn., and granted rank of Maj.)</Text>
+      <PageNumber>8698</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>
@@ -890,7 +907,9 @@
       <Key>
         <KeyDitto>___ ___ —— ___ ___</KeyDitto>
       </Key>
-      <Text>2nd Lt. D. R. (rel. commn. and retains rank of 2nd Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>D. R.</Forenames>
+      <Text>(rel. commn. and retains rank of 2nd Lt.)</Text>
       <PageNumber>9750</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1041,8 +1060,9 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. (Hon. Col., ret., T.F.) (Hon. Col., 5th Bn. Lincoln R.) G. B., V.D. (having attained age limit, reverts to ret. list, and retains rank, with permission to wear prescribed uniform)</Text>
+      <Title>Lt.-Col. (Hon. Col., ret., T.F.) (Hon. Col., 5th Bn. Lincoln R.)</Title>
+      <Forenames>G. B.</Forenames>
+      <Text>, V.D. (having attained age limit, reverts to ret. list, and retains rank, with permission to wear prescribed uniform)</Text>
       <PageNumber>8615</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1073,8 +1093,9 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. G. IJ., T.D. (rel. commn., and retains rank of Lt.-Col., with permission to wear prescribed uniform)</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>G.</Forenames>
+      <Text>IJ., T.D. (rel. commn., and retains rank of Lt.-Col., with permission to wear prescribed uniform)</Text>
       <PageNumber>10090</PageNumber>
     </MainItem>
   </ItemGroup>

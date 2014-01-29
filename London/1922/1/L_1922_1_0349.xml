@@ -11,9 +11,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Carroll</Key>
-      <Title>Bt.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. B. M: (while in</Text>
+      <Title>Bt. Lt.-Col.</Title>
+      <Forenames>B. M</Forenames>
+      <Text>: (while in</Text>
       <PageNumber>2434</PageNumber>
     </MainItem>
     <SubItem>
@@ -33,7 +33,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Finlay</Key>
-      <Text>, Maj: R. F. (while in comd. ofBn.)</Text>
+      <Title>Maj</Title>
+      <Text>: R. F. (while in comd. ofBn.)</Text>
       <PageNumber>1611</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -166,7 +167,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Clutterbuck</Key>
-      <Text>,. Capt. (now Bt. Lt.Col.) C. H. (temp, while D.AA.G.)</Text>
+      <Text>. Capt. (now Bt. Lt.Col.) C. H. (temp, while D.AA.G.)</Text>
       <PageNumber>2621</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -181,7 +182,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Drayson</Key>
-      <Text>, FitzA., M.C. (temp., while D.A.D. of Sigs.)</Text>
+      <Text>FitzA., M.C. (temp., while D.A.D. of Sigs.)</Text>
       <PageNumber>1832</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -211,7 +212,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ford</Key>
-      <Text>, J, M.R., M.C</Text>
+      <Forenames>J</Forenames>
+      <Text>, M.R., M.C</Text>
       <PageNumber>1415</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -250,7 +252,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hanna</Key>
-      <Text>, .Capt. H. (temp, whilst Admin. Comdt.) (graded as D.A.Q.M.G.)</Text>
+      <Text>.Capt. H. (temp, whilst Admin. Comdt.) (graded as D.A.Q.M.G.)</Text>
       <PageNumber>2434</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -317,7 +319,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Macrae</Key>
-      <Text>, Capt. (now Maj.) J. C, D.S.O. (temp, while D.A.D. of R.T.)</Text>
+      <Title>Capt. (now Maj.)</Title>
+      <Forenames>J. C</Forenames>
+      <Text>, D.S.O. (temp, while D.A.D. of R.T.)</Text>
       <PageNumber>2621</PageNumber>
     </MainItem>
     <SubItem>
@@ -401,7 +405,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Seymour</Key>
-      <Text>, Capt. (now Maj.) C. R. F. (temp., while D.A.A.G.)</Text>
+      <Title>Capt. (now Maj.)</Title>
+      <Forenames>C. R. F.</Forenames>
+      <Text>(temp., while D.A.A.G.)</Text>
       <PageNumber>2621</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -446,7 +452,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Turner</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>964</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -469,7 +475,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Airy</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>2435</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -677,7 +683,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Chaundler</Key>
-      <Text>, .Capt. O. S. (reL actg. rank on, ceasing co be 2nd in comd. of Bn.)</Text>
+      <Text>.Capt. O. S. (reL actg. rank on, ceasing co be 2nd in comd. of Bn.)</Text>
       <PageNumber>554</PageNumber>
     </MainItem>
     <SubItem>
@@ -815,14 +821,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Baker</Key>
-      <Text>, R; A. C</Text>
+      <Forenames>R</Forenames>
+      <Text>; A. C</Text>
       <PageNumber>173</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Bampfield</Key>
-      <Text>, R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>553</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1108,7 +1115,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Recton</Key>
-      <Text>, T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>553</PageNumber>
     </MainItem>
   </ItemGroup>

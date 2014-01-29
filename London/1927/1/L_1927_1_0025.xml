@@ -293,7 +293,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Noble</Key>
-      <Text>, N</Text>
+      <Forenames>N</Forenames>
       <PageNumber>1697</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -323,7 +323,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Norwood</Key>
-      <Text>, 0. D</Text>
+      <Text>0. D</Text>
       <PageNumber>119</PageNumber>
       <PageNumber>119</PageNumber>
     </MainItem>
@@ -331,7 +331,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Nuttall</Key>
-      <Text>, CM</Text>
+      <Text>CM</Text>
       <PageNumber>365</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -821,7 +821,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Perry</Key>
-      <Text>, S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>865</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1053,7 +1053,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Queensbury</Key>
-      <Text>, the Marquis of</Text>
+      <Text>the Marquis of</Text>
       <PageNumber>651</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1144,7 +1144,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ranee</Key>
-      <Text>,' J. E. W ,</Text>
+      <Text>' J. E. W ,</Text>
       <PageNumber>1610</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1189,7 +1189,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Reagh</Key>
-      <Text>, J Reynell, G. M</Text>
+      <Forenames>J</Forenames>
+      <Text>Reynell, G. M</Text>
       <PageNumber>512</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1243,7 +1244,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>652</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1709,7 +1710,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Scarth</Key>
-      <Text>, C S</Text>
+      <Forenames>C</Forenames>
+      <Text>S</Text>
       <PageNumber>512</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1782,7 +1784,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>1697</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1852,7 +1854,7 @@
     </MainItem>
     <KeyDitto>___ ___</KeyDitto>
     <SubItem>
-      <Text>W.W</Text>
+      <Text>W.W.</Text>
       <PageNumber>1255</PageNumber>
     </SubItem>
   </ItemGroup>

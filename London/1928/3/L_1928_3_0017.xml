@@ -245,7 +245,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gunn</Key>
-      <Text>, F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>5047</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -348,7 +348,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hard</Key>
-      <Text>, T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>5441</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -362,7 +362,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hardinge</Key>
-      <Forenames>Visct</Forenames>
+      <Title>Visct.</Title>
       <PageNumber>5704</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -422,7 +422,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Harris-St</Key>
-      <Text>. John, W</Text>
+      <Text>John, W</Text>
       <PageNumber>5771</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -488,7 +488,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hartigan</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>5771</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -580,7 +580,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Headland</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>5312</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -693,7 +693,7 @@
   <ItemGroup>
     <MainItem>
       <Key>HiddinghA</Key>
-      <Text>. G</Text>
+      <Text>G</Text>
       <PageNumber>6095</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -803,7 +803,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>James</Forenames>
+      <Title>James .</Title>
       <PageNumber>4821</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -979,7 +979,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>4660</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1089,7 +1089,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hutchison</Key>
-      <Text>, Sir R</Text>
+      <Title>Sir</Title>
+      <Forenames>R</Forenames>
       <PageNumber>5838</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1142,14 +1143,15 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ .</KeyDitto>
       </Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>6032</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Ingram</Key>
-      <Text>, T&gt;. N</Text>
+      <Forenames>T</Forenames>
+      <Text>&gt;. N</Text>
       <PageNumber>5136</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1216,7 +1218,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Jamaldar</Key>
-      <Forenames>Orakzai</Forenames>
+      <Title>Orakzai .</Title>
       <PageNumber>5773</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1322,7 +1324,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Jolliffe</Key>
-      <Text>,' Hon. W.G. H!'</Text>
+      <Text>' Hon. W.G. H!'</Text>
       <PageNumber>5047</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1545,7 +1547,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Khalid</Key>
-      <Forenames>Jan</Forenames>
+      <Title>Jan .</Title>
       <PageNumber>6217</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1573,7 +1575,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kilmorey</Key>
-      <Text>, Earl of</Text>
+      <Title>Earl</Title>
+      <Text>of</Text>
       <PageNumber>4734</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1633,7 +1636,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lakhinder</Key>
-      <Forenames>Singh</Forenames>
+      <Title>Singh .</Title>
       <PageNumber>5975</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1849,7 +1852,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Leonard</Key>
-      <Text>. W. H</Text>
+      <Text>W. H</Text>
       <PageNumber>5769</PageNumber>
     </MainItem>
   </ItemGroup>

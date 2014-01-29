@@ -221,7 +221,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bowker</Key>
-      <Text>, 0. H</Text>
+      <Text>0. H</Text>
       <PageNumber>887</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -384,7 +384,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brickman</Key>
-      <Text>, LP</Text>
+      <Text>LP</Text>
       <PageNumber>1742</PageNumber>
       <PageNumber>2275</PageNumber>
     </MainItem>
@@ -517,7 +517,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>2016</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -553,7 +553,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>1341</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -619,7 +619,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Buehanan-Dunlop</Key>
-      <Text>, R, A</Text>
+      <Forenames>R</Forenames>
+      <Text>, A</Text>
       <PageNumber>790</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -678,7 +679,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Charlton</Key>
-      <Text>. C. E. C. G</Text>
+      <Text>C. E. C. G</Text>
       <PageNumber>1920</PageNumber>
       <PageNumber>1921</PageNumber>
     </MainItem>
@@ -704,7 +705,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Chatterton</Key>
-      <Text>. G. A. Cree, A</Text>
+      <Text>G. A. Cree, A</Text>
       <PageNumber>1430</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -735,8 +736,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Christie</Key>
-      <Forenames>James</Forenames>
-      <Text>... Crockatt, N. R 1065</Text>
+      <Title>James .</Title>
+      <Text>.. Crockatt, N. R 1065</Text>
       <PageNumber>888</PageNumber>
     </MainItem>
   </ItemGroup>

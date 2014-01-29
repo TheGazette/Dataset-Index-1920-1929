@@ -3,7 +3,6 @@
   <ItemGroup>
     <MainItem>
       <Key>Pike</Key>
-      <Text>,</Text>
       <PageNumber>___ ___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -11,7 +10,6 @@
   <ItemGroup>
     <MainItem>
       <Key>Pirie</Key>
-      <Text>,</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -19,7 +17,6 @@
   <ItemGroup>
     <MainItem>
       <Key>Pitt</Key>
-      <Text>,</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -56,7 +53,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pilling</Key>
-      <Text>, 2nd Lt. (late temp. 2nd Lt., Serv. Bns., The King's R.) A. (rel. ra»k of 2nd Lt. on re-enlistment)</Text>
+      <Title>2nd Lt.</Title>
+      <Text>(late temp. 2nd Lt., Serv. Bns., The King's R.) A. (rel. ra»k of 2nd Lt. on re-enlistment)</Text>
       <PageNumber>5779</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -76,7 +74,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Pinner</Key>
-      <Text>, temp. 2nd Lt. W. W. (rel. commn. on completion of service and retains rank of 2nd Lt.), Sub. Not</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>W. W.</Forenames>
+      <Text>(rel. commn. on completion of service and retains rank of 2nd Lt.), Sub. Not</Text>
       <PageNumber>5612</PageNumber>
     </MainItem>
     <SubItem>
@@ -95,7 +95,7 @@
       <PageNumber>6578</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Capt. P. T., M.C. (seed, for service on the Staff), Sub. Not.</Text>
+      <Text>Capt. P. T., M.C. (seed, for service on the Staff), Sub. Not</Text>
       <PageNumber>5963</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -111,7 +111,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pitcairn</Key>
-      <Text>,. 2nd Lt. A. A. (Lt.)</Text>
+      <Text>. 2nd Lt. A. A. (Lt.)</Text>
       <PageNumber>5360</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -144,7 +144,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Pittman</Key>
-      <Text>, 2nd Lt. C. E. G. (2nd Lt., Reg. Army Res. of Off., Regtl. List, R. Sussex R., late R. Sussex R.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>C. E. G.</Forenames>
+      <Text>(2nd Lt., Reg. Army Res. of Off., Regtl. List, R. Sussex R., late R. Sussex R.)</Text>
       <PageNumber>6579</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -160,21 +162,27 @@
   <ItemGroup>
     <MainItem>
       <Key>Plevins</Key>
-      <Text>, 2nd Lt. (on prob.) St. John T. (confd. in appt.)</Text>
+      <Title>2nd Lt. (on prob.) St.</Title>
+      <Forenames>John T.</Forenames>
+      <Text>(confd. in appt.)</Text>
       <PageNumber>5527</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Plouviez</Key>
-      <Text>, 2nd Lt. Charles Alexander William (2nd Lt., Reg. Army Res. of Off., Regtl. List, R. Fus.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>Charles Alexan-</Forenames>
+      <Text>der William (2nd Lt., Reg. Army Res. of Off., Regtl. List, R. Fus.)</Text>
       <PageNumber>5035</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Plowden</Key>
-      <Text>, 2nd Lt. (now Capt.) Bryan Edward Chicheley (corr. of name)</Text>
+      <Title>2nd Lt. (now Capt.)</Title>
+      <Forenames>Bryan Edward Chicheley</Forenames>
+      <Text>(corr. of name)</Text>
       <PageNumber>5205</PageNumber>
     </MainItem>
     <SubItem>
@@ -209,7 +217,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Poingdestre</Key>
-      <Text>, Capt. X H. (retires, receiving a gratuity and granted rank of Maj.)</Text>
+      <Title>Capt.</Title>
+      <Forenames>X</Forenames>
+      <Text>H. (retires, receiving a gratuity and granted rank of Maj.)</Text>
       <PageNumber>6096</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -229,7 +239,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Pollitt</Key>
-      <Text>, 2nd Lt. H. (2nd Lt., Reg. Army Res. of Off.. Regtl. List, Manch. R,, late Serv. Bns.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>H.</Forenames>
+      <Text>(2nd Lt., Reg. Army Res. of Off.. Regtl. List, Manch. R,, late Serv. Bns.)</Text>
       <PageNumber>6907</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -337,7 +349,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Porter</Key>
-      <Text>, 2nd Lt. A. (2nd Lt., Reg. Armv Res. of Off., Regtl. List, R.W.K., late R.W.K.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>A.</Forenames>
+      <Text>(2nd Lt., Reg. Armv Res. of Off., Regtl. List, R.W.K., late R.W.K.)</Text>
       <PageNumber>6776</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -347,8 +361,8 @@
         <KeyDitto>___ ___ .</KeyDitto>
       </Key>
       <Title>Univ.</Title>
-      <Forenames>Candidate Lt</Forenames>
-      <Text>. Bruce Dennistoun Sykes (2nd Lt. K. D. G., late S. Gds., S.R.)</Text>
+      <Forenames>Candidate</Forenames>
+      <Text>Lt. Bruce Dennistoun Sykes (2nd Lt. K. D. G., late S. Gds., S.R.)</Text>
       <PageNumber>6713</PageNumber>
     </MainItem>
     <SubItem>
@@ -371,15 +385,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Portman</Key>
-      <Text>. Capt. the Hon. G B. (resigns commn. and retains rank of Capt.)</Text>
+      <Text>Capt. the Hon. G B. (resigns commn. and retains rank of Capt.)</Text>
       <PageNumber>5708</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Potter</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (seed. Staff) G. E., M.C. (placed on ret. pay, having attained the age fixed for compulsory retirement, and granted rank of Maj.)</Text>
+      <Title>Lt. (seed. Staff)</Title>
+      <Forenames>G. E.</Forenames>
+      <Text>, M.C. (placed on ret. pay, having attained the age fixed for compulsory retirement, and granted rank of Maj.)</Text>
       <PageNumber>6510</PageNumber>
     </MainItem>
     <SubItem>
@@ -436,9 +451,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Title>temp.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>. (Lt., ret.) W. M., M.B.E. (rel. commn. on completion of service and retains rank of Lt.)</Text>
+      <Title>temp. Lt. (Lt., ret.)</Title>
+      <Forenames>W. M.</Forenames>
+      <Text>, M.B.E. (rel. commn. on completion of service and retains rank of Lt.)</Text>
       <PageNumber>6905</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -454,8 +469,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Powlett</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (ret. pay) C. H. A. (ceases to belong to Res. of Off. on acc. of ill-health)</Text>
+      <Title>Lt. (ret. pay)</Title>
+      <Forenames>C. H. A.</Forenames>
+      <Text>(ceases to belong to Res. of Off. on acc. of ill-health)</Text>
       <PageNumber>5432</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -524,7 +540,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Preston</Key>
-      <Text>, 2nd Lt. Rupert Lionel (2nd Lt. on prob., Reg. Army Res. of Off. Supplementary List Coldstream Gds., from 6th Hants. R., T.A.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>Rupert Lionel</Forenames>
+      <Text>(2nd Lt. on prob., Reg. Army Res. of Off. Supplementary List Coldstream Gds., from 6th Hants. R., T.A.)</Text>
       <PageNumber>5205</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -542,7 +560,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>2nd Lt. O. D. (2nd Lt., Reg. Army Res. of Off. Regtl. List, R.G.A., late R.G.A.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>O. D.</Forenames>
+      <Text>(2nd Lt., Reg. Army Res. of Off. Regtl. List, R.G.A., late R.G.A.)</Text>
       <PageNumber>5362</PageNumber>
     </MainItem>
     <SubItem>
@@ -555,7 +575,9 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>2nd Lt. T. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>T.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>5358</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -564,8 +586,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. (Hon. Brig.-Gen.) ret. pay) T. H.-F., C.M.G., D.S.O. (Col., Reg. Army Res. of Off., Gen. List, from D. C.L.I., and retains bon. rank of Brig.-Gen.)</Text>
+      <Title>Lt.-Col. (Hon. Brig.-Gen.)</Title>
+      <Text>ret. pay) T. H.-F., C.M.G., D.S.O. (Col., Reg. Army Res. of Off., Gen. List, from D. C.L.I., and retains bon. rank of Brig.-Gen.)</Text>
       <PageNumber>6906</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -650,15 +672,18 @@
   <ItemGroup>
     <MainItem>
       <Key>Piowse</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. G. W. T. (rel. commn. and retains rank of ___ ~Lt.-Col., with permission to wear prescribed uniform)</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>G. W. T.</Forenames>
+      <Text>(rel. commn. and retains rank of ___ ~Lt.-Col., with permission to wear prescribed uniform)</Text>
       <PageNumber>5780</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Purdon</Key>
-      <Text>, 2nd Lt. D. J. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>D. J.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>5361</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -687,7 +712,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Quilter</Key>
-      <Text>, 2nd Lt. J. R. C. (confirmed in his appt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>J. R. C.</Forenames>
+      <Text>(confirmed in his appt.)</Text>
       <PageNumber>6843</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -741,7 +768,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Raine</Key>
-      <Text>, 2nd Lt. A. (2nd Lt., Reg. Army Res. of Off., Regtl. List, Foresters, late Foresters)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>A.</Forenames>
+      <Text>(2nd Lt., Reg. Army Res. of Off., Regtl. List, Foresters, late Foresters)</Text>
       <PageNumber>6776</PageNumber>
     </MainItem>
     <SubItem>
@@ -761,7 +790,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Ramsay</Key>
-      <Text>, 2nd Lt. F. S. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>F. S.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>5360</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -41,14 +41,7 @@
       <PageNumber>3615</PageNumber>
     </MainItem>
   </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Parry</Key>
-      <Forenames>Charles</Forenames>
-      <Text>de Courcy, C.B.E., Inspector under Police (Counties and Boroughs) Act, 1856</Text>
-      <PageNumber>2123</PageNumber>
-    </MainItem>
-  </ItemGroup>
+  <CategoryTitle>Police (Counties and</CategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>
@@ -82,7 +75,8 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>The Hon. .Sir Charles Algernon, K.C.B., M.A.. LL.D., D.Sc, F.R.S., Order of Merit</Text>
+      <Title>The Hon.</Title>
+      <Text>.Sir Charles Algernon, K.C.B., M.A.. LL.D., D.Sc, F.R.S., Order of Merit</Text>
       <PageNumber>3606</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -240,7 +234,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ponsonby</Key>
-      <Forenames>Major-General John</Forenames>
+      <Title>Major</Title>
+      <Forenames>General John</Forenames>
       <Text>, C.B., C.M.G., D.S.O., Knight Commander, Order of the Bath</Text>
       <PageNumber>3605</PageNumber>
     </MainItem>
@@ -265,7 +260,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Potter</Key>
-      <Text>, Colonel (temporary Colonel Commandant) Herbert Cecil, C.M.G., D.S.O., Companion, Order of the Bath</Text>
+      <Title>Colonel (temporary Colonel Commandant)</Title>
+      <Forenames>Her-</Forenames>
+      <Text>bert Cecil, C.M.G., D.S.O., Companion, Order of the Bath</Text>
       <PageNumber>3605</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -418,7 +415,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Rayleigh</Key>
-      <Text>, Lord, Sc.D., F.R.S., Member of Governing Body of Imperial College of Science and Technology</Text>
+      <Title>Lord, Sc.</Title>
+      <Forenames>D.</Forenames>
+      <Text>, F.R.S., Member of Governing Body of Imperial College of Science and Technology</Text>
       <PageNumber>3531</PageNumber>
       <PageNumber>3759</PageNumber>
     </MainItem>
@@ -522,7 +521,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ritchie</Key>
-      <Forenames>Major-General Archi-</Forenames>
+      <Title>Major</Title>
+      <Forenames>General Archi-</Forenames>
       <Text>bald Buchanan, C.B., C. M!.G., Knight Commander, Order of the British Empire</Text>
       <PageNumber>3609</PageNumber>
     </MainItem>

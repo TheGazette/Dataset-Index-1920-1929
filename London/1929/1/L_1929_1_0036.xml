@@ -10,7 +10,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Walsh</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>1823</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -125,7 +125,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wiles</Key>
-      <Text>, B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>2164</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -165,7 +165,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilson</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>1823</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -187,7 +187,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wyatt</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>1823</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -209,7 +209,7 @@
   <ItemGroup>
     <MainItem>
       <Key>AchesOn</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>1824</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -258,7 +258,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bell</Key>
-      <Text>, P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>321</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -286,7 +286,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bozman</Key>
-      <Text>, C A</Text>
+      <Forenames>C</Forenames>
+      <Text>A</Text>
       <PageNumber>1469</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -575,7 +576,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Milne</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>2164</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -767,7 +768,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hull</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>1117</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -788,7 +789,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Morland</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>957</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -809,6 +810,7 @@
       <PageNumber>621</PageNumber>
     </MainItem>
   </ItemGroup>
+  <CategoryTitle>NAVAL PROMOTIONS,</CategoryTitle>
   <SubSectionTitle>Aides-de-Camp to E.M. the King</SubSectionTitle>
   <ItemGroup>
     <MainItem>
@@ -841,7 +843,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stopford</Key>
-      <Text>, Hon. A</Text>
+      <Title>Hon.</Title>
+      <Forenames>A</Forenames>
       <PageNumber>1748</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -973,10 +976,9 @@
       <Forenames>A. C</Forenames>
       <PageNumber>1575</PageNumber>
     </MainItem>
-    <SubSubSectionTitle>
-      <Text>Retired List</Text>
-    </SubSubSectionTitle>
+    <SubSubSectionTitle>Retired List</SubSubSectionTitle>
     <SubItem>
+      <Text>Retired List.</Text>
       <PageNumber>1575</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1013,7 +1015,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Shrubsole</Key>
-      <Text>, .P.J</Text>
+      <Text>.P.J</Text>
       <PageNumber>___ ___ ___ ___ ___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1531,7 +1533,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McDonald</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>1115</PageNumber>
     </MainItem>
   </ItemGroup>

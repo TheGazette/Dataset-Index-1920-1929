@@ -3,7 +3,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Spaight</Key>
-      <Text>,. Capt. H. W. (is retired, having attained the age limit, and retains rank of Capt.)</Text>
+      <Text>. Capt. H. W. (is retired, having attained the age limit, and retains rank of Capt.)</Text>
       <PageNumber>7949</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -19,7 +19,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Spencer</Key>
-      <Text>, 2nd Lt. E. C. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>E. C.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>8037</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -82,7 +84,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Stainton</Key>
-      <Text>, 2nd Lt. E. L. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>E. L.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>7377</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -107,7 +111,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Staveley-Hill</Key>
-      <Text>, 2nd Lt. A. de G. S. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>A.</Forenames>
+      <Text>de G. S. (Lt.)</Text>
       <PageNumber>7376</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -152,28 +158,32 @@
       <Key>
         <KeyDitto>-—___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (Res. of Off.) (Capt., ret.) W. C, M.C. (apptd. to 16th Bn., Lond. R. retaining rank and precedence)</Text>
+      <Title>Lt. (Res. of Off.) (Capt., ret.)</Title>
+      <Forenames>W. C</Forenames>
+      <Text>, M.C. (apptd. to 16th Bn., Lond. R. retaining rank and precedence)</Text>
       <PageNumber>8525</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Stevenson</Key>
-      <Text>, Hon. Col. (Col., ret., Vols.) J., C.B., V.D. (vacates Hon. Colcy., 8th Bn., H.L.I., on disbandment of the unit, and' retains rank, with permission to wear prescribed uniform), Sub. Not</Text>
+      <Title>Hon. Col. (Col., ret., Vols.)</Title>
+      <Forenames>J.</Forenames>
+      <Text>, C.B., V.D. (vacates Hon. Colcy., 8th Bn., H.L.I., on disbandment of the unit, and' retains rank, with permission to wear prescribed uniform), Sub. Not</Text>
       <PageNumber>7049</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Stewart</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. A. B. S., O.B.E., T.D. (is retired, having attained the age limit, and retains rank of Lt.-Col., with permission to wear prescribed uniform)</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>A. B. S.</Forenames>
+      <Text>, O.B.E., T.D. (is retired, having attained the age limit, and retains rank of Lt.-Col., with permission to wear prescribed uniform)</Text>
       <PageNumber>8301</PageNumber>
     </MainItem>
     <KeyDitto>___ ___</KeyDitto>
     <SubItem>
-      <Text>Capt., T.A. Res., Gen. List, Yeo., from Glasgow Yeo.</Text>
+      <Text>Capt., T.A. Res., Gen. List, Yeo., from Glasgow Yeo</Text>
       <PageNumber>7133</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -182,8 +192,9 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. (Lt.-Col., Res. of Off.) J., D.S.O. (apptd. to 7th Bn., Lond. R., retaining rank of Lt.-Col. and precedence)</Text>
+      <Title>Lt.-Col. (Lt.-Col., Res. of Off.)</Title>
+      <Forenames>J.</Forenames>
+      <Text>, D.S.O. (apptd. to 7th Bn., Lond. R., retaining rank of Lt.-Col. and precedence)</Text>
       <PageNumber>8721</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -269,7 +280,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Stocks</Key>
-      <Text>, 2nd Lt. F. W. (resigns commii. and retains rank of 2nd Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>F. W.</Forenames>
+      <Text>(resigns commii. and retains rank of 2nd Lt.)</Text>
       <PageNumber>8217</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -354,7 +367,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Story</Key>
-      <Text>, 2nd Lt. G. F. E. (2nd Lt., 100th (Worcs. and Oxford Yeo ) Bde. (A.T.), R.F.A., late W. Gds., Spec. Res.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>G. F. E.</Forenames>
+      <Text>(2nd Lt., 100th (Worcs. and Oxford Yeo ) Bde. (A.T.), R.F.A., late W. Gds., Spec. Res.)</Text>
       <PageNumber>8721</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -468,7 +483,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Swayne</Key>
-      <Text>, Capt. (Prov.) R., M.C. (resigns conrmn. and granted rank of Lt.)</Text>
+      <Title>Capt. (Prov.)</Title>
+      <Forenames>R.</Forenames>
+      <Text>, M.C. (resigns conrmn. and granted rank of Lt.)</Text>
       <PageNumber>7947</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -477,7 +494,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>Capt. (actg. Maj.) R. W., O.B.E., M.B. (rel. actg. rank of Maj.)</Text>
+      <Title>Capt. (actg. Maj.)</Title>
+      <Forenames>R. W.</Forenames>
+      <Text>, O.B.E., M.B. (rel. actg. rank of Maj.)</Text>
       <PageNumber>8301</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -493,7 +512,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Sydenham</Key>
-      <Text>(formerly 2nd Lt., 6th Bn., R.W. Fus.) F. J. (regranted rank of 2nd Lt., which he resigned on enlistment in the ranks)</Text>
+      <Title>(formerly 2nd Lt., 6th Bn., R.W. Fus.)</Title>
+      <Forenames>F. J.</Forenames>
+      <Text>(regranted rank of 2nd Lt., which he resigned on enlistment in the ranks)</Text>
       <PageNumber>8525</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -550,7 +571,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Tate</Key>
-      <Text>, 2nd Lt. (temp. Lt.) E. W. (Lt.)</Text>
+      <Title>2nd Lt. (temp. Lt.)</Title>
+      <Forenames>E. W.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>9043</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -579,8 +602,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (R.A.R.O.) W. G. (Lt., Gen. List for service with Eton Coll. Cont., Jun. Div., O.T.C.)</Text>
+      <Title>Lt. (R.A.R.O.)</Title>
+      <Forenames>W. G.</Forenames>
+      <Text>(Lt., Gen. List for service with Eton Coll. Cont., Jun. Div., O.T.C.)</Text>
       <PageNumber>8799</PageNumber>
     </MainItem>
     <SubItem>
@@ -602,8 +626,9 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. G. C, O.B.E., M.D. (rel. commn. and retains rank of Lt.-Col.)</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>G. C</Forenames>
+      <Text>, O.B.E., M.D. (rel. commn. and retains rank of Lt.-Col.)</Text>
       <PageNumber>8880</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -634,7 +659,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>2nd Lt. H. R. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>H. R.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>8217</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -704,7 +731,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Teare</Key>
-      <Text>, Maj., M.B. (is retired, having attained the age limit and retains rank of Maj.)</Text>
+      <Title>Maj.</Title>
+      <Text>, M.B. (is retired, having attained the age limit and retains rank of Maj.)</Text>
       <PageNumber>9043</PageNumber>
     </MainItem>
   </ItemGroup>

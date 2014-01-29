@@ -122,7 +122,7 @@
       <PageNumber>3319</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Granted rank of 2nd Lt. on retirement, corr.</Text>
+      <Text>Granted rank of 2nd Lt. on retirement, corr</Text>
       <PageNumber>3544</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -153,7 +153,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stevens</Key>
-      <Text>, D: T. (rel. commn. in consequence of ill-health, and granted rank of Lt.)</Text>
+      <Forenames>D</Forenames>
+      <Text>: T. (rel. commn. in consequence of ill-health, and granted rank of Lt.)</Text>
       <PageNumber>1269</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -201,7 +202,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Anderson</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>2475</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -398,7 +399,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Creffield</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>1836</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -769,7 +770,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Johnson</Key>
-      <Text>, :H. H</Text>
+      <Text>:H. H</Text>
       <PageNumber>3318</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -985,7 +986,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Parker</Key>
-      <Forenames>Fi</Forenames>
+      <Title>Fi.</Title>
       <PageNumber>2475</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1153,7 +1154,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Southgate</Key>
-      <Text>, C, M.C</Text>
+      <Forenames>C</Forenames>
+      <Text>, M.C</Text>
       <PageNumber>3679</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1287,21 +1289,22 @@
   <ItemGroup>
     <MainItem>
       <Key>Abbott-Young</Key>
-      <Text>, E, C. (Capt.)</Text>
+      <Forenames>E</Forenames>
+      <Text>, C. (Capt.)</Text>
       <PageNumber>1694</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Acaster</Key>
-      <Text>, C.B. (Lt.)</Text>
+      <Text>C.B. (Lt.)</Text>
       <PageNumber>1104</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Adams</Key>
-      <Text>, temp, Lt. A. G. (rel. commn.)</Text>
+      <Text>temp, Lt. A. G. (rel. commn.)</Text>
       <PageNumber>2914</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1344,7 +1347,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Anderson</Key>
-      <Text>, 2nd Lt. R. K. (rel. temp, rank)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>R. K.</Forenames>
+      <Text>(rel. temp, rank)</Text>
       <PageNumber>1107</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1415,16 +1420,18 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (temp. Capt.) J. R. (retains temp, rank of Capt. whilst holding spec, appt., and graded as Staff Capt.)</Text>
+      <Title>Lt. (temp. Capt.)</Title>
+      <Forenames>J. R.</Forenames>
+      <Text>(retains temp, rank of Capt. whilst holding spec, appt., and graded as Staff Capt.)</Text>
       <PageNumber>987</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Atkins</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (actg. Capt.) E. R. H. (rel. aotg. rank)</Text>
+      <Title>Lt. (actg. Capt.)</Title>
+      <Forenames>E. R. H.</Forenames>
+      <Text>(rel. aotg. rank)</Text>
       <PageNumber>1105</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1467,8 +1474,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Banister</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (actg. 'Capt.) F. (re!. aotg. rank on ceasing to be Adjt.) ,</Text>
+      <Title>Lt. (actg. 'Capt.)</Title>
+      <Forenames>F.</Forenames>
+      <Text>(re!. aotg. rank on ceasing to be Adjt.) ,</Text>
       <PageNumber>568</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1548,8 +1556,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Beaver</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (temp. Capt.) J. D. C. (retains temp, rank of Capt. whilst Staff Capt.)</Text>
+      <Title>Lt. (temp. Capt.)</Title>
+      <Forenames>J. D. C.</Forenames>
+      <Text>(retains temp, rank of Capt. whilst Staff Capt.)</Text>
       <PageNumber>987</PageNumber>
     </MainItem>
   </ItemGroup>

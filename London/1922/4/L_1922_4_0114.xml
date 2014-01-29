@@ -21,7 +21,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hsrrick</Key>
-      <Text>, Capt. ~R. de S. B., D.S.O. (Maj.)</Text>
+      <Title>Capt.</Title>
+      <Text>~R. de S. B., D.S.O. (Maj.)</Text>
       <PageNumber>7050</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -39,7 +40,7 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>(Lt.-Col.)</Text>
+      <Title>(Lt.-Col.)</Title>
       <PageNumber>7794</PageNumber>
     </MainItem>
     <SubItem>
@@ -58,7 +59,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Holehouse</Key>
-      <Text>, 1st Class Asst. Surg. Alfred (Sen. Asst. Surg, and Lt., and remains seconded)</Text>
+      <Text>1st Class Asst. Surg. Alfred (Sen. Asst. Surg, and Lt., and remains seconded)</Text>
       <PageNumber>7050</PageNumber>
     </MainItem>
     <SubItem>
@@ -163,7 +164,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Kennedy</Key>
-      <Text>, Capt. (Bt. Lt.-Col.) R. S., D.S.O., M.C, M.B. (Maj., promotion antedated)</Text>
+      <Title>Capt. (Bt. Lt.-Col.)</Title>
+      <Forenames>R. S.</Forenames>
+      <Text>, D.S.O., M.C, M.B. (Maj., promotion antedated)</Text>
       <PageNumber>7378</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -186,8 +189,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Kinealv</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. F. O., CLE., C.T.O. (retirement) ... .„</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>F. O.</Forenames>
+      <Text>, CLE., C.T.O. (retirement) ... .„</Text>
       <PageNumber>7795</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -292,9 +296,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Martin</Key>
-      <Title>Sen. Asst.</Title>
-      <Forenames>Surg</Forenames>
-      <Text>., and Lt. W. J. P. (Sen. Asst. Surg, and Capt., and remains seconded)</Text>
+      <Title>Sen. Asst. Surg.</Title>
+      <Text>, and Lt. W. J. P. (Sen. Asst. Surg, and Capt., and remains seconded)</Text>
       <PageNumber>7050</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -466,7 +469,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Purvis</Key>
-      <Text>, Capt. (Bt. Maj.) M., M.B. (Maj.)</Text>
+      <Title>Capt. (Bt. Maj.)</Title>
+      <Forenames>M.</Forenames>
+      <Text>, M.B. (Maj.)</Text>
       <PageNumber>7050</PageNumber>
     </MainItem>
     <SubItem>
@@ -502,15 +507,18 @@
   <ItemGroup>
     <MainItem>
       <Key>Rice</Key>
-      <Text>, Capt. (late R.A.M.C., S.R.) Henry James, M.C, M.B. (Lt.)</Text>
+      <Title>Capt. (late R.A.M.C., S.R.)</Title>
+      <Forenames>Henry James</Forenames>
+      <Text>, M.C, M.B. (Lt.)</Text>
       <PageNumber>8116</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Rost</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. E. R., O.B.E. (retirement on account of illhealth)</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>E. R.</Forenames>
+      <Text>, O.B.E. (retirement on account of illhealth)</Text>
       <PageNumber>7209</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -558,7 +566,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Scott</Key>
-      <Text>, Capt. (Bt. Maj.) J., D.S.O., M.B. (Maj.)</Text>
+      <Title>Capt. (Bt. Maj.)</Title>
+      <Forenames>J.</Forenames>
+      <Text>, D.S.O., M.B. (Maj.)</Text>
       <PageNumber>7378</PageNumber>
     </MainItem>
     <SubItem>
@@ -674,23 +684,27 @@
   <ItemGroup>
     <MainItem>
       <Key>Thomeley</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. M. H. (Not. in Gaz , 21July,1922,cancelled)</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>M. H.</Forenames>
+      <Text>(Not. in Gaz , 21July,1922,cancelled)</Text>
       <PageNumber>7542</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Thornely</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. M. H., F.RC.S.E. (retirement)</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>M. H.</Forenames>
+      <Text>, F.RC.S.E. (retirement)</Text>
       <PageNumber>7209</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Thornton</Key>
-      <Text>, Capt. (actg. Maj.)F.R., M.C, M.B. (rel. actg. rank on ceasing to be Registrar of and Ind. Gen. Hospital)</Text>
+      <Title>Capt. (actg. Maj.)</Title>
+      <Forenames>F.R.</Forenames>
+      <Text>, M.C, M.B. (rel. actg. rank on ceasing to be Registrar of and Ind. Gen. Hospital)</Text>
       <PageNumber>7050</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -729,8 +743,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Wood</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. H. S. (retirement)</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>H. S.</Forenames>
+      <Text>(retirement)</Text>
       <PageNumber>7795</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -748,7 +763,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>Maj. (actg. Lt.-Col.) W. D., M.B. (rel. actg. rank on ceasing to comd. and Ind. Gen. Hospital)</Text>
+      <Title>Maj. (actg. Lt.-Col.)</Title>
+      <Forenames>W. D.</Forenames>
+      <Text>, M.B. (rel. actg. rank on ceasing to comd. and Ind. Gen. Hospital)</Text>
       <PageNumber>7050</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -774,17 +791,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Cooper</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Cdr. M. P. (temp. Cdr. while comdg. R.I. M.S. Lawrence but without pay of that rank)</Text>
+      <Title>Lt.</Title>
+      <Text>-Cdr. M. P. (temp. Cdr. while comdg. R.I. M.S. Lawrence but without pay of that rank)</Text>
       <PageNumber>7796</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Edenborough</Key>
-      <Title>Eng.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>.-Cdr. S. C. (temp. Cdr. but without pay of that rank while in charge of engines of R.I.M.S. Hardinge)</Text>
+      <Title>Eng. Lt.</Title>
+      <Text>-Cdr. S. C. (temp. Cdr. but without pay of that rank while in charge of engines of R.I.M.S. Hardinge)</Text>
       <PageNumber>8304</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -800,8 +816,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gordon</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Cdr. B. (temp. Cdr., with pay of rank)</Text>
+      <Title>Lt.</Title>
+      <Text>-Cdr. B. (temp. Cdr., with pay of rank)</Text>
       <PageNumber>7380</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -817,23 +833,24 @@
   <ItemGroup>
     <MainItem>
       <Key>Hallett</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Cdr. C. G., D.S.C. (resigns commn.)</Text>
+      <Title>Lt.</Title>
+      <Text>-Cdr. C. G., D.S.C. (resigns commn.)</Text>
       <PageNumber>7051</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Inigo-Jones</Key>
-      <Text>, Sub-Lt. H. R. (Lt.)</Text>
+      <Title>Sub-Lt</Title>
+      <Text>. H. R. (Lt.)</Text>
       <PageNumber>7796</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Kinch</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Cdr. A. D., D.S.O. (temp. Cd-.)</Text>
+      <Title>Lt.</Title>
+      <Text>-Cdr. A. D., D.S.O. (temp. Cd-.)</Text>
       <PageNumber>8304</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -858,24 +875,24 @@
   <ItemGroup>
     <MainItem>
       <Key>Marchant</Key>
-      <Forenames>Eng</Forenames>
-      <Text>. Sub-Lt. on prob. Thomas Barris (confd.) .„</Text>
+      <Title>Eng. Sub-Lt</Title>
+      <Text>. on prob. Thomas Barris (confd.) .„</Text>
       <PageNumber>7796</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Maundrell</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Cdr. (temp. Cdr.) A. G. (Cdr., and remains seconded) _</Text>
+      <Title>Lt.</Title>
+      <Text>-Cdr. (temp. Cdr.) A. G. (Cdr., and remains seconded) _</Text>
       <PageNumber>7380</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Melhuish</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Cdr. (temp. Cdr.) R. A. (Cdr., and. remains seconded)</Text>
+      <Title>Lt.</Title>
+      <Text>-Cdr. (temp. Cdr.) R. A. (Cdr., and. remains seconded)</Text>
       <PageNumber>8304</PageNumber>
     </MainItem>
   </ItemGroup>

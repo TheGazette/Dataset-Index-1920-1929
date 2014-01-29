@@ -694,7 +694,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Beale</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>4302</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -877,7 +877,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Norbury</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>4738</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -898,7 +898,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Smith</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>4738</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -966,7 +966,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Jones</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>3095</PageNumber>
       <PageNumber>3754</PageNumber>
     </MainItem>
@@ -1005,7 +1005,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sayers</Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>3294</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1019,7 +1019,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tibbs</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>4102</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1034,7 +1034,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bennett</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>4738</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1048,14 +1048,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Courtney</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>4918</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Edgerley</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>4100</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1069,14 +1069,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Flight</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>4738</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Gardner</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>4100</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1104,14 +1104,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Mclnnes</Key>
-      <Text>P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>4303</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Misson</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>4100</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1183,7 +1183,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hopper</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>3293</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1211,21 +1211,22 @@
   <ItemGroup>
     <MainItem>
       <Key>Posth</Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>2800</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Rose</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>4738</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Ryan</Key>
-      <Text>P&gt;</Text>
+      <Forenames>P</Forenames>
+      <Text>&gt;</Text>
       <PageNumber>4100</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1247,7 +1248,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Graham</Key>
-      <Text>B* (corr. of date)</Text>
+      <Forenames>B</Forenames>
+      <Text>* (corr. of date)</Text>
       <PageNumber>3095</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1295,7 +1297,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Coates</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>4304</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1343,7 +1345,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Foley</Key>
-      <Text>B '</Text>
+      <Forenames>B</Forenames>
+      <Text>'</Text>
       <PageNumber>2801</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1362,7 +1365,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Godfrey</Key>
-      <Text>(Hon. Col.) Sir G. C, Kt., V.D. (and retains rank)</Text>
+      <Title>(Hon. Col.) Sir</Title>
+      <Forenames>G. C</Forenames>
+      <Text>, Kt., V.D. (and retains rank)</Text>
       <PageNumber>4102</PageNumber>
     </MainItem>
   </ItemGroup>

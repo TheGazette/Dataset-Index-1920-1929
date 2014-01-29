@@ -5,7 +5,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Squirrel</Key>
-      <Text>, F Neville, G. A</Text>
+      <Forenames>F</Forenames>
+      <Text>Neville, G. A</Text>
       <PageNumber>6086</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -43,14 +44,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Wailes</Key>
-      <Text>, J; B. Peters, G. G</Text>
+      <Forenames>J</Forenames>
+      <Text>; B. Peters, G. G</Text>
       <PageNumber>6086</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Walliker</Key>
-      <Text>, A Pocock, J. R. (confd.)</Text>
+      <Forenames>A</Forenames>
+      <Text>Pocock, J. R. (confd.)</Text>
       <PageNumber>4574</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -257,7 +260,7 @@
   <ItemGroup>
     <MainItem>
       <Key>King</Key>
-      <Text>,-F. (Commd.)</Text>
+      <Text>-F. (Commd.)</Text>
       <PageNumber>5486</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -272,9 +275,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sheldrick</Key>
-      <Title>Ch.</Title>
-      <Forenames>Gnr</Forenames>
-      <Text>., G. E. (placed on retd. list)</Text>
+      <Title>Ch. Gnr.</Title>
+      <Text>, G. E. (placed on retd. list)</Text>
       <PageNumber>5847</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -298,9 +300,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lawrence</Key>
-      <Title>Commd.</Title>
-      <Forenames>Mechn</Forenames>
-      <Text>., (placed on retd. list)</Text>
+      <Title>Commd. Mechn., (placed on retd. list)</Title>
       <PageNumber>5847</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -406,8 +406,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Harris</Key>
-      <Forenames>Shpwt Lt</Forenames>
-      <Text>. W. J. (date of retirement) '</Text>
+      <Forenames>Shpwt</Forenames>
+      <Text>Lt. W. J. (date of retirement) '</Text>
       <PageNumber>6086</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -528,7 +528,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hastie</Key>
-      <Text>.W. A. (trd. to Spec. Res.)</Text>
+      <Text>W. A. (trd. to Spec. Res.)</Text>
       <PageNumber>5103</PageNumber>
     </MainItem>
   </ItemGroup>

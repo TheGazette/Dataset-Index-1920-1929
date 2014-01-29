@@ -59,14 +59,18 @@
   <ItemGroup>
     <MainItem>
       <Key>Murthwaite</Key>
-      <Text>, temp. 2nd Lt. W. H. B. (temp. Lt.)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>W. H. B.</Forenames>
+      <Text>(temp. Lt.)</Text>
       <PageNumber>6150</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Musgrave</Key>
-      <Text>, 2nd Lt. (Unattd. List, T.F.) C. N. (temp. 2nd Lt., R.E.), Sub. Not</Text>
+      <Title>2nd Lt. (Unattd. List, T.F.)</Title>
+      <Forenames>C. N.</Forenames>
+      <Text>(temp. 2nd Lt., R.E.), Sub. Not</Text>
       <PageNumber>6304</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -86,7 +90,9 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>2nd Lt. (Unattd. List, T.F.) Francis Edward (temp. 2nd Lt., R.E.), Sub. Not</Text>
+      <Title>2nd Lt. (Unattd. List, T.F.)</Title>
+      <Forenames>Francis Edward</Forenames>
+      <Text>(temp. 2nd Lt., R.E.), Sub. Not</Text>
       <PageNumber>6147</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -111,7 +117,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Musson</Key>
-      <Text>, Maj. and Paymr. (temp. Staff Paymr.) A. I. (Staff Paymr.)</Text>
+      <Title>Maj. and Paymr. (temp. Staff Paymr.)</Title>
+      <Forenames>A. I.</Forenames>
+      <Text>(Staff Paymr.)</Text>
       <PageNumber>4026</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -120,7 +128,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>2nd Lt. R. T. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>R. T.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>4211</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -145,9 +155,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Myerscough</Key>
-      <Title>temp.</Title>
-      <Forenames>Chapln</Forenames>
-      <Text>., 4th CI., Rev. J. (rel. oommn. and to be Hon. Chapln., 4th CI.)</Text>
+      <Title>temp. Chapln., 4th CI., Rev.</Title>
+      <Forenames>J.</Forenames>
+      <Text>(rel. oommn. and to be Hon. Chapln., 4th CI.)</Text>
       <PageNumber>6326</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -207,7 +217,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Nail</Key>
-      <Text>, 2nd Lt. E. H. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>E. H.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>5075</PageNumber>
     </MainItem>
     <SubItem>
@@ -349,7 +361,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>temp. 2nd Lt. G. H. (rel. temp, rank of Capt. on ceasing to be Instr. at an Army Gen. and Commercial College)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>G. H.</Forenames>
+      <Text>(rel. temp, rank of Capt. on ceasing to be Instr. at an Army Gen. and Commercial College)</Text>
       <PageNumber>6683</PageNumber>
     </MainItem>
     <SubItem>
@@ -395,7 +409,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Nasmith</Key>
-      <Text>, Capt. (now Bt. Maj.) R., D.S.O., M.C. (seed, for service with M.G. Corps)</Text>
+      <Title>Capt. (now Bt. Maj.)</Title>
+      <Forenames>R.</Forenames>
+      <Text>, D.S.O., M.C. (seed, for service with M.G. Corps)</Text>
       <PageNumber>4314</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -459,7 +475,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>Maj. (late Lt.) F. C. G., M.C. (trd. to Gen. Res. of Offrs.)</Text>
+      <Title>Maj. (late Lt.)</Title>
+      <Forenames>F. C. G.</Forenames>
+      <Text>, M.C. (trd. to Gen. Res. of Offrs.)</Text>
       <PageNumber>4416</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -584,8 +602,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>. WE. (rel. commn. and retains rank of Lt.)</Text>
+      <Title>Lt.</Title>
+      <Text>WE. (rel. commn. and retains rank of Lt.)</Text>
       <PageNumber>6674</PageNumber>
     </MainItem>
   </ItemGroup>

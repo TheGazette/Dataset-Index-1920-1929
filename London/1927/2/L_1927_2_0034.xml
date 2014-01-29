@@ -331,7 +331,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Henry</Key>
-      <Text>, H.R.H. Prince</Text>
+      <Title>H.R.H. Prince .</Title>
       <PageNumber>3055</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -713,7 +713,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hughes</Key>
-      <Forenames>Alec</Forenames>
+      <Title>Alec .</Title>
       <PageNumber>2126</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -882,7 +882,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>2408</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -906,7 +906,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>3055</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -979,7 +979,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>3125</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1118,7 +1118,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lacham-Penn</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>2570</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1295,7 +1295,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lisburne</Key>
-      <Text>, Earl of</Text>
+      <Title>Earl</Title>
+      <Text>of</Text>
       <PageNumber>2961</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1340,7 +1341,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>3449</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1461,7 +1462,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>2606</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1623,7 +1624,7 @@
   <ItemGroup>
     <MainItem>
       <Key>MacLeod</Key>
-      <Text>, N</Text>
+      <Forenames>N</Forenames>
       <PageNumber>3449</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1689,7 +1690,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McVicker</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>3056</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1741,7 +1742,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Manley</Key>
-      <Text>H* C</Text>
+      <Forenames>H</Forenames>
+      <Text>* C</Text>
       <PageNumber>3977</PageNumber>
     </MainItem>
   </ItemGroup>

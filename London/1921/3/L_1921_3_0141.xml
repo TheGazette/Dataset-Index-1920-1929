@@ -16,7 +16,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tribe</Key>
-      <Text>, i</Text>
+      <Text>i</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -51,7 +51,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Trevelyan</Key>
-      <Text>, temp. 2nd Lt. D. (rel. commn. on completion of service and retains rank of 2nd</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>D.</Forenames>
+      <Text>(rel. commn. on completion of service and retains rank of 2nd</Text>
       <PageNumber>7646</PageNumber>
     </MainItem>
     <SubItem>
@@ -171,9 +173,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Troyte</Key>
-      <Title>Maj. and Bt.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. G. J. Acland, C.M.G., D.S.O., see Acland-Troyte, Maj. and Bt.Lt.-Col. G. J., C.M.G., D.S.O. Troyte-Bullock, 2nd Lt. G. V. (Lt.)</Text>
+      <Title>Maj. and Bt. Lt.-Col.</Title>
+      <Forenames>G. J. Acland</Forenames>
+      <Text>, C.M.G., D.S.O., see Acland-Troyte, Maj. and Bt.Lt.-Col. G. J., C.M.G., D.S.O. Troyte-Bullock, 2nd Lt. G. V. (Lt.)</Text>
       <PageNumber>7035</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -198,16 +200,18 @@
   <ItemGroup>
     <MainItem>
       <Key>Truman</Key>
-      <Title>Maj. and Bt.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. C M., D.S.O. (Lt.-Col.)</Text>
+      <Title>Maj. and Bt. Lt.-Col.</Title>
+      <Forenames>C</Forenames>
+      <Text>M., D.S.O. (Lt.-Col.)</Text>
       <PageNumber>7108</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Truscott</Key>
-      <Text>, 2nd Lt. H. B. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>H. B.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>5708</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -336,7 +340,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>temp. 2nd Lt. W. H. (rel. commn. on completion of service and retains rank of 2nd Lt.)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>W. H.</Forenames>
+      <Text>(rel. commn. on completion of service and retains rank of 2nd Lt.)</Text>
       <PageNumber>5455</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -361,7 +367,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Tuke</Key>
-      <Text>, 2nd Lt. A. J. S. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>A. J. S.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>5898</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -486,7 +494,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>2nd Lt. William Vernon (2nd Lt., Reg. Army Res. of Offrs., late temp. 2nd Lt., Bd. W.I.R.) Turnnidge, temp. Lt. A. (rel. commn. on completion of service, and retains rank of Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>William Vernon</Forenames>
+      <Text>(2nd Lt., Reg. Army Res. of Offrs., late temp. 2nd Lt., Bd. W.I.R.) Turnnidge, temp. Lt. A. (rel. commn. on completion of service, and retains rank of Lt.)</Text>
       <PageNumber>6750</PageNumber>
     </MainItem>
   </ItemGroup>

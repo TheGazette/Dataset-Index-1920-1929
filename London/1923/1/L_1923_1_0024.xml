@@ -44,7 +44,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Mellor</Key>
-      <Text>, Col. (Hon. Brig.-Gen.) James Gilbert Shaw, C.B., C. M.G., K.C., Knight Commander, Order of the British Empire</Text>
+      <Title>Col. (Hon. Brig.-Gen.)</Title>
+      <Forenames>James Gilbert Shaw</Forenames>
+      <Text>, C.B., C. M.G., K.C., Knight Commander, Order of the British Empire</Text>
       <PageNumber>6</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -77,9 +79,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Milton</Key>
-      <Title>temp.</Title>
-      <Forenames>Lit</Forenames>
-      <Text>.-Col. James Clymo, M.B.E., Officer, Order of the British Empire</Text>
+      <Title>temp. Lit.</Title>
+      <Text>-Col. James Clymo, M.B.E., Officer, Order of the British Empire</Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -157,7 +158,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>Col. 2nd Comdt, Reginald Hallward, R.M.L.I.,, Commander, Order of the British Empire</Text>
+      <Title>Col.</Title>
+      <Text>2nd Comdt, Reginald Hallward, R.M.L.I.,, Commander, Order of the British Empire</Text>
       <PageNumber>6</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -304,8 +306,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Oldman</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. and Brevet Col. Richard Deare Furley, C.M.G., D.S.O., Companion, Order of the Bath</Text>
+      <Title>Lt.-Col. and Brevet Col.</Title>
+      <Forenames>Richard Deare Furley</Forenames>
+      <Text>, C.M.G., D.S.O., Companion, Order of the Bath</Text>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>

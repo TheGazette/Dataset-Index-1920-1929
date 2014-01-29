@@ -120,7 +120,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Banyard</Key>
-      <Text>, 0</Text>
+      <Text>0</Text>
       <PageNumber>3843</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -184,7 +184,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cooper</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>3843</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -212,7 +212,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cuthbert</Key>
-      <Text>, C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>3843</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -240,7 +240,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dunster</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>3843</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -261,7 +261,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Faulkner</Key>
-      <Text>, F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>2920</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -310,7 +310,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Harness</Key>
-      <Text>, R, J</Text>
+      <Forenames>R</Forenames>
+      <Text>, J</Text>
       <PageNumber>3843</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -352,7 +353,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Horrigan</Key>
-      <Text>, M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>3843</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -366,7 +367,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Jennings</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>3843</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -471,7 +472,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Reep</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>3843</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -537,7 +538,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Vaughan</Key>
-      <Text>. W</Text>
+      <Text>W</Text>
       <PageNumber>3843</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -551,7 +552,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Westmorland</Key>
-      <Text>, Earl of</Text>
+      <Title>Earl</Title>
+      <Text>of</Text>
       <PageNumber>4034</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -618,7 +620,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Driscoll</Key>
-      <Text>, R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>3632</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -765,7 +767,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Haskett-Smith</Key>
-      <Text>, R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>4807</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -793,7 +795,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mackintosh</Key>
-      <Text>, K</Text>
+      <Forenames>K</Forenames>
       <PageNumber>4807</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -910,7 +912,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bradburne</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>3933</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1021,7 +1023,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilkinson</Key>
-      <Text>, F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>4807</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1066,7 +1068,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Addy</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>3933</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1082,7 +1084,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cross</Key>
-      <Text>, 0. B</Text>
+      <Text>0. B</Text>
       <PageNumber>3843</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1255,7 +1257,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Thornhill</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>

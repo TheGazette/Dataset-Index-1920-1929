@@ -235,7 +235,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Willis</Key>
-      <Text>, Lieut.-Colonel George Henry, C.I.E., M.V.O., knighted</Text>
+      <Title>Lieut.</Title>
+      <Text>-Colonel George Henry, C.I.E., M.V.O., knighted</Text>
       <PageNumber>2160</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -252,14 +253,16 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>Lieut.-Colonel the Right Hon. Sir Leslie Orme, G.C.I.E., C.M.G.; D.S.O., Knight Grand Commander, Order of the Star of India</Text>
+      <Title>Lieut.</Title>
+      <Text>-Colonel the Right Hon. Sir Leslie Orme, G.C.I.E., C.M.G.; D.S.O., Knight Grand Commander, Order of the Star of India</Text>
       <PageNumber>1438</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Wilson</Key>
-      <Forenames>Brigadier-General</Forenames>
+      <Title>Brigadier</Title>
+      <Forenames>General</Forenames>
       <Text>Sir Samuel Herbert, K.C.B., K.C.M.G., K.B.E., Knight Grand Cross, Order of Saint Michael and Saint George</Text>
       <PageNumber>1439</PageNumber>
     </MainItem>
@@ -365,7 +368,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Armitage</Key>
-      <Text>, C C</Text>
+      <Forenames>C</Forenames>
+      <Text>C</Text>
       <PageNumber>954</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -428,7 +432,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Blount-Dinwiddie</Key>
-      <Text>, Maj</Text>
+      <Title>Maj.</Title>
       <PageNumber>1266</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -823,7 +827,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Moore</Key>
-      <Text>, H, T. G</Text>
+      <Forenames>H</Forenames>
+      <Text>, T. G</Text>
       <PageNumber>399</PageNumber>
     </MainItem>
   </ItemGroup>

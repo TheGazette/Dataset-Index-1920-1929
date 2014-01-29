@@ -47,24 +47,24 @@
   <ItemGroup>
     <MainItem>
       <Key>Lyall</Key>
-      <Text>, 'Capt. W., M.C. {rel. spec, appt., CI. W, as Co. Comdr., Offr., Cadet Bn.)</Text>
+      <Text>'Capt. W., M.C. {rel. spec, appt., CI. W, as Co. Comdr., Offr., Cadet Bn.)</Text>
       <PageNumber>6163</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Lyddon</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.,-Col. W. G., C.M.G. . {rel. temp. spec, appt., Min. of Munitions)</Text>
+      <Title>Lt.</Title>
+      <Text>,-Col. W. G., C.M.G. . {rel. temp. spec, appt., Min. of Munitions)</Text>
       <PageNumber>6442</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Macalpine-Leney</Key>
-      <Title>Bt.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. R. L., D.S.O. (rel. appt. as A.A. and Q.M.G., and temp, rank of lAGol.)</Text>
+      <Title>Bt. Lt.-Col.</Title>
+      <Forenames>R. L.</Forenames>
+      <Text>, D.S.O. (rel. appt. as A.A. and Q.M.G., and temp, rank of lAGol.)</Text>
       <PageNumber>6867</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -98,15 +98,15 @@
   <ItemGroup>
     <MainItem>
       <Key>McCaihim</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. ij&gt;. (spec, appt., CI. FF) ... :</Text>
+      <Title>Lt.</Title>
+      <Text>ij&gt;. (spec, appt., CI. FF) ... :</Text>
       <PageNumber>5694</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>McClay</Key>
-      <Text>, temp,. Capt. J. {Dep. Asst. Dir. of Inland Water Trans;, CI. iBB, and temp. Maj.)</Text>
+      <Text>temp,. Capt. J. {Dep. Asst. Dir. of Inland Water Trans;, CI. iBB, and temp. Maj.)</Text>
       <PageNumber>4958</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -178,14 +178,17 @@
   <ItemGroup>
     <MainItem>
       <Key>MacFeat</Key>
-      <Text>, Capt. {actg. Lt.-Col.) P. D., MJC {rel. appt. as Asst. Dir. of Rlys., CI. X, and.temp, rank of Lt.-Col.)</Text>
+      <Title>Capt.</Title>
+      <Text>{actg. Lt.-Col.) P. D., MJC {rel. appt. as Asst. Dir. of Rlys., CI. X, and.temp, rank of Lt.-Col.)</Text>
       <PageNumber>5435</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Macfie</Key>
-      <Text>, Maj. C, D.S.O. (rel. appt. as D.A.A.G.)</Text>
+      <Title>Maj.</Title>
+      <Forenames>C</Forenames>
+      <Text>, D.S.O. (rel. appt. as D.A.A.G.)</Text>
       <PageNumber>6017</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -201,8 +204,9 @@
   <ItemGroup>
     <MainItem>
       <Key>MaoKav</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. J. J&gt;:, D.S.O. {rel. temp. appt. as Inspr. of Q.M.G.'s Serv:, 01. BB)</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>J. J</Forenames>
+      <Text>&gt;:, D.S.O. {rel. temp. appt. as Inspr. of Q.M.G.'s Serv:, 01. BB)</Text>
       <PageNumber>5082</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -220,7 +224,8 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>Maj. ID. A., T.D. {rel. appt. as D.A.Q.M.G.)</Text>
+      <Title>Maj.</Title>
+      <Text>ID. A., T.D. {rel. appt. as D.A.Q.M.G.)</Text>
       <PageNumber>4969</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -238,7 +243,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mackenzie</Key>
-      <Text>, Capt. VH. D., M.C rel. appt. as G.IS.O., 3rd General Staff)</Text>
+      <Title>Capt.</Title>
+      <Text>VH. D., M.C rel. appt. as G.IS.O., 3rd General Staff)</Text>
       <PageNumber>4675</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -334,16 +340,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Macnair</Key>
-      <Text>, lCapt. J. L. P. (rel. temp, appt. as Staff Capt. at War Office)</Text>
+      <Text>lCapt. J. L. P. (rel. temp, appt. as Staff Capt. at War Office)</Text>
       <PageNumber>6442</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>McNaught</Key>
-      <Title>temp.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>. (actg. Capt.) J. (empld. on Disposal of Surplus Stores CI. FF, and temp. Capt.)</Text>
+      <Title>temp. Lt. (actg. Capt.)</Title>
+      <Forenames>J.</Forenames>
+      <Text>(empld. on Disposal of Surplus Stores CI. FF, and temp. Capt.)</Text>
       <PageNumber>5451</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -368,14 +374,18 @@
   <ItemGroup>
     <MainItem>
       <Key>MacRury</Key>
-      <Text>, temp. 2nd Lt. E. (rel. appt. as G.S.O., 3rd Gr., General Staff, and temp, rank of Capt.), Sub. Not</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>E.</Forenames>
+      <Text>(rel. appt. as G.S.O., 3rd Gr., General Staff, and temp, rank of Capt.), Sub. Not</Text>
       <PageNumber>6661</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>MoSheehy</Key>
-      <Text>, temp. 2nd Lt. B. L. S. i (rel. spec, appt., CJ. HH)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>B. L. S.</Forenames>
+      <Text>i (rel. spec, appt., CJ. HH)</Text>
       <PageNumber>5339</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -420,8 +430,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Mair</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. G. T., C.M.G.,, D. S.O. (reJ. appt. as Brig.Gen. attd. to Hd.-Qr. Unit, ' and temp, rank of Brig.-Gen.)</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>G. T.</Forenames>
+      <Text>, C.M.G.,, D. S.O. (reJ. appt. as Brig.Gen. attd. to Hd.-Qr. Unit, ' and temp, rank of Brig.-Gen.)</Text>
       <PageNumber>4805</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -455,23 +466,24 @@
   <ItemGroup>
     <MainItem>
       <Key>Ma</Key>
-      <Text>.nsel-Jones. Bt. Lt.-Col. C, C. M.G., D;S.O. (relll. appt, as A.A.G. and temp, rank of Col., and granted rank of Col.)</Text>
+      <Text>nsel-Jones. Bt. Lt.-Col. C, C. M.G., D;S.O. (relll. appt, as A.A.G. and temp, rank of Col., and granted rank of Col.)</Text>
       <PageNumber>4443</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Maplesdem</Key>
-      <Text>, temp. 2nd Lt, E. (rel. emplt. on Forestry Directe., 01. GG, and temp, rank of Lt.)</Text>
+      <Title>temp.</Title>
+      <Text>2nd Lt, E. (rel. emplt. on Forestry Directe., 01. GG, and temp, rank of Lt.)</Text>
       <PageNumber>5340</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Marchont</Key>
-      <Title>Bt.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. T. H. S., D. S.O. (corr. of date of relig. appt. as Brig. Comdr. atltd. to Hd.-Qr. Unit, and temp, rank of Brig.-Gen.)</Text>
+      <Title>Bt. Lt.-Col.</Title>
+      <Forenames>T. H. S.</Forenames>
+      <Text>, D. S.O. (corr. of date of relig. appt. as Brig. Comdr. atltd. to Hd.-Qr. Unit, and temp, rank of Brig.-Gen.)</Text>
       <PageNumber>5673</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -621,7 +633,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Mathews</Key>
-      <Text>, temp. 2nd Lt. P. B. (rel. appt. as Dep. Asst. Prov.-Marshall, CI. GG, atitd. to Hd-Qr. Unit)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>P. B.</Forenames>
+      <Text>(rel. appt. as Dep. Asst. Prov.-Marshall, CI. GG, atitd. to Hd-Qr. Unit)</Text>
       <PageNumber>4206</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -650,7 +664,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Maude</Key>
-      <Text>, temp. 2nd Lt. ' C. (temp. spec, appt., CI. HH)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Text>' C. (temp. spec, appt., CI. HH)</Text>
       <PageNumber>5816</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -669,16 +684,18 @@
   <ItemGroup>
     <MainItem>
       <Key>Mkiuldin</Key>
-      <Title>temp.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>. (temp. Maj.) H. H. (Asst. Dir. of Engineering Stones, CD. X, and .temp. Lt.CbJ.) ... ,</Text>
+      <Title>temp. Lt. (temp. Maj.)</Title>
+      <Forenames>H. H.</Forenames>
+      <Text>(Asst. Dir. of Engineering Stones, CD. X, and .temp. Lt.CbJ.) ... ,</Text>
       <PageNumber>5450</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>May</Key>
-      <Text>, Col. (temp. Malj.-Gen.) R. S., C.B., C.M.G., D.S.O. (Dir. of Mkwements and Quartering at War Office, and retains temp, mank of M&amp;j.-GenJ</Text>
+      <Title>Col. (temp. Malj.-Gen.)</Title>
+      <Forenames>R. S.</Forenames>
+      <Text>, C.B., C.M.G., D.S.O. (Dir. of Mkwements and Quartering at War Office, and retains temp, mank of M&amp;j.-GenJ</Text>
       <PageNumber>5346</PageNumber>
     </MainItem>
   </ItemGroup>

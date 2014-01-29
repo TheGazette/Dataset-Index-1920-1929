@@ -59,9 +59,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Telford</Key>
-      <Title>temp. Acct.</Title>
-      <Forenames>Off</Forenames>
-      <Text>., 5th CI., Edwin Arthur, M.C. (granted perm, commn. as Capt. and Acct. Offr., 5th CI., from temp. Capt., Conn. Rang.)</Text>
+      <Title>temp. Acct. Off.</Title>
+      <Text>, 5th CI., Edwin Arthur, M.C. (granted perm, commn. as Capt. and Acct. Offr., 5th CI., from temp. Capt., Conn. Rang.)</Text>
       <PageNumber>11563</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -97,7 +96,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Templer</Key>
-      <Text>, Col. (temp. Brig.-Gen.) C. F., C.M.G., CLE. (date of promn. to rank of Col.)</Text>
+      <Title>Col. (temp. Brig.-Gen.)</Title>
+      <Forenames>C. F.</Forenames>
+      <Text>, C.M.G., CLE. (date of promn. to rank of Col.)</Text>
       <PageNumber>9877</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -162,7 +163,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Tennent</Key>
-      <Text>, 2nd Lt. G. M. C. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>G. M. C.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>11200</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -248,16 +251,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Tetther</Key>
-      <Text>, temp. 2nd Lt. A. (rel. commn. on completion of service, and retains rank of 2nd Lt.)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>A.</Forenames>
+      <Text>(rel. commn. on completion of service, and retains rank of 2nd Lt.)</Text>
       <PageNumber>12467</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Teverson</Key>
-      <Title>temp.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>.-H._G. W. (rel. commn. on ceasing to be empld., and retains rank of .Lt.)</Text>
+      <Title>temp. Lt.</Title>
+      <Text>-H._G. W. (rel. commn. on ceasing to be empld., and retains rank of .Lt.)</Text>
       <PageNumber>9877</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -450,7 +454,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Thevenard</Key>
-      <Text>,' temp. Capt. C. W. (rel. commn. on completion of service and granted rank of Capt.)</Text>
+      <Text>' temp. Capt. C. W. (rel. commn. on completion of service and granted rank of Capt.)</Text>
       <PageNumber>10586</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -466,18 +470,22 @@
   <ItemGroup>
     <MainItem>
       <Key>Thirlby</Key>
-      <Text>, 2nd Lt. A. E. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>A. E.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>11190</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Rel. cominn. and retains rank of Lt.</Text>
+      <Text>Rel. cominn. and retains rank of Lt</Text>
       <PageNumber>11905</PageNumber>
     </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Thirlwell</Key>
-      <Text>, temp. 2nd Lt. J. C. (rel. commn. on completion of service and retains rank of 2nd Lt.)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>J. C.</Forenames>
+      <Text>(rel. commn. on completion of service and retains rank of 2nd Lt.)</Text>
       <PageNumber>12468</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -517,7 +525,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>2nd Lt. W. C. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>W. C.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>12373</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -570,7 +580,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>2nd Lt. B. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>B.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>9955</PageNumber>
     </MainItem>
     <SubItem>
@@ -797,7 +809,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>temp. 2nd Lt. H. (R.A.O.C.) (rel. commn. on completion of service and retains rank of Lt.)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>H.</Forenames>
+      <Text>(R.A.O.C.) (rel. commn. on completion of service and retains rank of Lt.)</Text>
       <PageNumber>12150</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -807,7 +821,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>temp. ~L% H. G. R. (rel. commn. . on completion of service and granted rank of Capt.)</Text>
+      <Title>temp.</Title>
+      <Text>~L% H. G. R. (rel. commn. . on completion of service and granted rank of Capt.)</Text>
       <PageNumber>12556</PageNumber>
     </MainItem>
   </ItemGroup>

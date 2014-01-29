@@ -55,14 +55,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Capell</Key>
-      <Text>. R. H. A</Text>
+      <Text>R. H. A</Text>
       <PageNumber>10107</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Court</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>10107</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -76,7 +76,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Easterbrook</Key>
-      <Text>. A. R</Text>
+      <Text>A. R</Text>
       <PageNumber>9815</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -182,7 +182,7 @@
       <PageNumber>9891</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Sub. Not.</Text>
+      <Text>Sub. Not</Text>
       <PageNumber>11793</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -197,7 +197,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tugman</Key>
-      <Text>, R, E</Text>
+      <Forenames>R</Forenames>
+      <Text>, E</Text>
       <PageNumber>11347</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -290,7 +291,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kilburn</Key>
-      <Text>. Rev R. de Lingen M.A., B.D</Text>
+      <Text>Rev R. de Lingen M.A., B.D</Text>
       <PageNumber>10107</PageNumber>
     </MainItem>
     <SubItem>
@@ -389,16 +390,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Ash</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Cdr. H. A. H. (placed on Retd. List with rank of Comdr.)</Text>
+      <Title>Lt.</Title>
+      <Text>-Cdr. H. A. H. (placed on Retd. List with rank of Comdr.)</Text>
       <PageNumber>12400</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Baldwin</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Cdr. C. W. A. (placed on Retd. List)</Text>
+      <Title>Lt.</Title>
+      <Text>-Cdr. C. W. A. (placed on Retd. List)</Text>
       <PageNumber>9694</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -456,8 +457,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Calder</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Cdr. W. R. (placed on T Retd. List)</Text>
+      <Title>Lt.</Title>
+      <Text>-Cdr. W. R. (placed on T Retd. List)</Text>
       <PageNumber>11608</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -519,8 +520,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ferries</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Cdr. R. P. G. (placed on Retd. List)</Text>
+      <Title>Lt.</Title>
+      <Text>-Cdr. R. P. G. (placed on Retd. List)</Text>
       <PageNumber>11608</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -535,8 +536,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Francis</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Cdr. E. H. (placed on Retd. List with rank of Cdr.)</Text>
+      <Title>Lt.</Title>
+      <Text>-Cdr. E. H. (placed on Retd. List with rank of Cdr.)</Text>
       <PageNumber>12300</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -561,8 +562,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Cdr. R. R. (placed on Retd. List with rank of Comdr.)</Text>
+      <Title>Lt.</Title>
+      <Text>-Cdr. R. R. (placed on Retd. List with rank of Comdr.)</Text>
       <PageNumber>10209</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -635,9 +636,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Mason</Key>
-      <Title>Actg. Sub.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>. (actg.) G. T. W. (Sub. Lt.)</Text>
+      <Title>Actg. Sub. Lt. (actg.)</Title>
+      <Forenames>G. T. W.</Forenames>
+      <Text>(Sub. Lt.)</Text>
       <PageNumber>10107</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -737,7 +738,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sulivan</Key>
-      <Text>, L1, G. H. S. (placed on Ret. List)</Text>
+      <Forenames>L</Forenames>
+      <Text>1, G. H. S. (placed on Ret. List)</Text>
       <PageNumber>9634</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -778,9 +780,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Whadcoat</Key>
-      <Title>Payr. Lt.</Title>
-      <Forenames>Cdr</Forenames>
-      <Text>. (placed on Ret. List)</Text>
+      <Title>Payr. Lt. Cdr. (placed on Ret. List)</Title>
       <PageNumber>10209</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -857,9 +857,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gregory</Key>
-      <Title>Lt.</Title>
-      <Forenames>Cdr</Forenames>
-      <Text>. W</Text>
+      <Title>Lt. Cdr.</Title>
+      <Forenames>W</Forenames>
       <PageNumber>10208</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -898,9 +897,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Prentice</Key>
-      <Title>Lt.</Title>
-      <Forenames>Cdr</Forenames>
-      <Text>. W</Text>
+      <Title>Lt. Cdr.</Title>
+      <Forenames>W</Forenames>
       <PageNumber>10208</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -951,9 +949,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Maples</Key>
-      <Title>Actg.</Title>
-      <Forenames>Cdr</Forenames>
-      <Text>. W</Text>
+      <Title>Actg. Cdr.</Title>
+      <Forenames>W</Forenames>
       <PageNumber>12300</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1051,7 +1048,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dykes</Key>
-      <Text>, 0. C. T. (Pro. 2nd Lt.)</Text>
+      <Text>0. C. T. (Pro. 2nd Lt.)</Text>
       <PageNumber>9814</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1147,8 +1144,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Nicholson</Key>
-      <Forenames>Pro</Forenames>
-      <Text>. 2nd Lt, .M. J. W. (resigns commn. at own re. quest) '</Text>
+      <Title>Pro.</Title>
+      <Text>2nd Lt, .M. J. W. (resigns commn. at own re. quest) '</Text>
       <PageNumber>12194</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1164,7 +1161,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Phillips</Key>
-      <Text>. Col. 2nd Comdt. F. T. (placed on Ret. List)</Text>
+      <Text>Col. 2nd Comdt. F. T. (placed on Ret. List)</Text>
       <PageNumber>12194</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -19,7 +19,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tudors</Key>
-      <Text>(Northern)</Text>
+      <Title>(Northern)</Title>
       <PageNumber>5045</PageNumber>
       <PageNumber>5045</PageNumber>
     </MainItem>
@@ -37,8 +37,7 @@
       <Key>
         <KeyDitto>___ ___ &amp;</KeyDitto>
       </Key>
-      <Forenames>Coy</Forenames>
-      <Text>. (Garage Works)</Text>
+      <Title>Coy. (Garage Works)</Title>
       <PageNumber>3217</PageNumber>
       <PageNumber>3320</PageNumber>
     </MainItem>
@@ -70,7 +69,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Underwriters</Key>
-      <Forenames>Association</Forenames>
+      <Title>Association .</Title>
       <PageNumber>4224</PageNumber>
       <PageNumber>5179</PageNumber>
     </MainItem>
@@ -414,8 +413,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Thos</Forenames>
-      <Text>., &amp; Co. (Hull)</Text>
+      <Title>Thos.</Title>
+      <Text>, &amp; Co. (Hull)</Text>
       <PageNumber>3131</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -431,7 +430,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Pictures</Forenames>
+      <Title>Pictures .</Title>
       <PageNumber>4364</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -459,8 +458,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wallis</Key>
-      <Forenames>Bros</Forenames>
-      <Text>. (London)</Text>
+      <Title>Bros. (London)</Title>
       <PageNumber>5171</PageNumber>
       <PageNumber>5174</PageNumber>
     </MainItem>
@@ -534,7 +532,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Wassau</Key>
-      <Text>(Gold Coast) Mining Co</Text>
+      <Title>(Gold Coast)</Title>
+      <Forenames>Mining</Forenames>
+      <Text>Co</Text>
       <PageNumber>4884</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -566,7 +566,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Weaving</Key>
-      <Forenames>Appliances</Forenames>
+      <Title>Appliances .</Title>
       <PageNumber>2820</PageNumber>
       <PageNumber>3824</PageNumber>
       <PageNumber>4227</PageNumber>
@@ -1169,7 +1169,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Yorkshire</Key>
-      <Forenames>Laundries</Forenames>
+      <Title>Laundries .</Title>
       <PageNumber>3873</PageNumber>
       <PageNumber>3877</PageNumber>
     </MainItem>
@@ -1205,7 +1205,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Zeehan</Key>
-      <Text>Queen</Text>
+      <Title>Queen .</Title>
       <PageNumber>4762</PageNumber>
       <PageNumber>4764</PageNumber>
       <PageNumber>4765</PageNumber>
@@ -1283,7 +1283,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Amebell</Key>
-      <Text>Co</Text>
+      <Title>Co.</Title>
       <PageNumber>4856</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1334,7 +1334,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Armstrong</Key>
-      <Text>Lord, and Company</Text>
+      <Title>Lord</Title>
+      <Text>, and Company</Text>
       <PageNumber>2828</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1578,7 +1579,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bernard</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>4585</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1643,7 +1644,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Boden</Key>
-      <Forenames>Bros</Forenames>
+      <Title>Bros .</Title>
       <PageNumber>3480</PageNumber>
     </MainItem>
   </ItemGroup>

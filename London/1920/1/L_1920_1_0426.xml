@@ -30,7 +30,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hewlett</Key>
-      <Text>, 2nd Lt. . C. G. (resigns fcommn., and retains rank of' 2nd Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Text>. C. G. (resigns fcommn., and retains rank of' 2nd Lt.)</Text>
       <PageNumber>2055</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -64,7 +65,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hudson</Key>
-      <Text>, 2nd Lt. C. N. (Lt.), Sub. ' Not</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>C. N.</Forenames>
+      <Text>(Lt.), Sub. ' Not</Text>
       <PageNumber>659</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -73,7 +76,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>2nd Lt. H. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>H.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>3753</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -93,7 +98,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>2nd Lt. R. A. (Lt., and rem. seed., M.G.C.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>R. A.</Forenames>
+      <Text>(Lt., and rem. seed., M.G.C.)</Text>
       <PageNumber>3740</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -109,8 +116,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hughes</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (actg. Capt.) H. D. (rel. actg. rank of Capt. on ceasing to be empld.)</Text>
+      <Title>Lt. (actg. Capt.)</Title>
+      <Forenames>H. D.</Forenames>
+      <Text>(rel. actg. rank of Capt. on ceasing to be empld.)</Text>
       <PageNumber>799</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -119,7 +127,8 @@
       <Key>
         <KeyDitto>___ ——.</KeyDitto>
       </Key>
-      <Text>Capt.. J. W. (resigns oommn., and retains rank of Capt.)</Text>
+      <Title>Capt.</Title>
+      <Text>. J. W. (resigns oommn., and retains rank of Capt.)</Text>
       <PageNumber>3417</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -128,8 +137,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (actg. Capt.) J. Y. (rel. aetg. rank of Capt. on ceasing to be empld.)</Text>
+      <Title>Lt. (actg. Capt.)</Title>
+      <Forenames>J. Y.</Forenames>
+      <Text>(rel. aetg. rank of Capt. on ceasing to be empld.)</Text>
       <PageNumber>2735</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -153,7 +163,9 @@
       <Key>
         <KeyDitto>___ —— ___</KeyDitto>
       </Key>
-      <Text>2nd Lt. R. B. (Lt., and rem. 'seed., R.A.F.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>R. B.</Forenames>
+      <Text>(Lt., and rem. 'seed., R.A.F.)</Text>
       <PageNumber>1913</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -171,7 +183,9 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>2nd Lt. W. C. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>W. C.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>3145</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -187,14 +201,18 @@
   <ItemGroup>
     <MainItem>
       <Key>Hugo</Key>
-      <Text>, 2nd Lt. P. T. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>P. T.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>3416</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hull</Key>
-      <Text>, 2nd Lt. F. C. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>F. C.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>1525</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -218,22 +236,25 @@
       <PageNumber>2575</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Resigns oommn., and retains rank, Sub. Not.</Text>
+      <Text>Resigns oommn., and retains rank, Sub. Not</Text>
       <PageNumber>2989</PageNumber>
     </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Humble</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (actg. Capt.) T. S. (rel. actg. rank of Capt. on . ceasing to comd. a Co.)</Text>
+      <Title>Lt. (actg. Capt.)</Title>
+      <Forenames>T. S.</Forenames>
+      <Text>(rel. actg. rank of Capt. on . ceasing to comd. a Co.)</Text>
       <PageNumber>1781</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hume</Key>
-      <Text>, 2nd Lt. A. W., M.M. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>A. W.</Forenames>
+      <Text>, M.M. (Lt.)</Text>
       <PageNumber>4010</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -249,22 +270,27 @@
   <ItemGroup>
     <MainItem>
       <Key>Humfrey</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (efctg. Capt.) P. C. (rel. actg. rank of Capt. on ceasing to be empld.)</Text>
+      <Title>Lt. (efctg. Capt.)</Title>
+      <Forenames>P. C.</Forenames>
+      <Text>(rel. actg. rank of Capt. on ceasing to be empld.)</Text>
       <PageNumber>1780</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Humphreys</Key>
-      <Text>, Capt. (actg. Maj.) F. R. (rel. actg. rank of Maj. on ceasing to be spec, empld.)</Text>
+      <Title>Capt. (actg. Maj.)</Title>
+      <Forenames>F. R.</Forenames>
+      <Text>(rel. actg. rank of Maj. on ceasing to be spec, empld.)</Text>
       <PageNumber>1669</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Humphris</Key>
-      <Text>, 2nd Lt. E. R. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>E. R.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>1185</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -273,7 +299,9 @@
       <Key>
         <KeyDitto>___ ___ .</KeyDitto>
       </Key>
-      <Text>2nd Lt. H. P. (lit.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>H. P.</Forenames>
+      <Text>(lit.)</Text>
       <PageNumber>541</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -291,21 +319,26 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>Maj, R.' (reverts to ret. list, haying. attained the age limit;and retains rank of Maj., with . permission to wear uniform), Sub. Not</Text>
+      <Title>Maj</Title>
+      <Text>, R.' (reverts to ret. list, haying. attained the age limit;and retains rank of Maj., with . permission to wear uniform), Sub. Not</Text>
       <PageNumber>3003</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hunt</Key>
-      <Text>, Capt. (actg. Maj.) W., M.C. (rel. actg. rank of Maj. on ceasing to be empld.)</Text>
+      <Title>Capt. (actg. Maj.)</Title>
+      <Forenames>W.</Forenames>
+      <Text>, M.C. (rel. actg. rank of Maj. on ceasing to be empld.)</Text>
       <PageNumber>3398</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hunter</Key>
-      <Text>, 2nd Lt. G. R, (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>G. R</Forenames>
+      <Text>, (Lt.)</Text>
       <PageNumber>2407</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -314,8 +347,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>.,i(actg. Capt.) R. A. (rel. actg. rank of Capt. onceasing to be empld.)</Text>
+      <Title>Lt.</Title>
+      <Text>,i(actg. Capt.) R. A. (rel. actg. rank of Capt. onceasing to be empld.)</Text>
       <PageNumber>1185</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -352,7 +385,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hurley</Key>
-      <Text>, 2nd Lt. A. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>A.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>677</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -405,21 +440,25 @@
       <Key>
         <KeyDitto>___ ___ .</KeyDitto>
       </Key>
-      <Text>2nd Lt. S. '(Lt.) .:</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>S.</Forenames>
+      <Text>'(Lt.) .:</Text>
       <PageNumber>1932</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hutchings</Key>
-      <Text>, 2nd Lt E. L, (Lt.)</Text>
+      <Text>2nd Lt E. L, (Lt.)</Text>
       <PageNumber>659</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hutohins</Key>
-      <Text>, 2nd Lt. W. C. IE. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>W. C.</Forenames>
+      <Text>IE. (Lt.)</Text>
       <PageNumber>1197</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -444,36 +483,43 @@
   <ItemGroup>
     <MainItem>
       <Key>Hutton</Key>
-      <Text>, 2nd Lt. W. S. '(Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>W. S.</Forenames>
+      <Text>'(Lt.)</Text>
       <PageNumber>2028</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hyde</Key>
-      <Text>, 2nd Lt. T. F. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>T. F.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>2855</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Bylton-Stewart</Key>
-      <Text>, 2pd Lt. (temp. Lt.) B. de laC. (Lt.)</Text>
+      <Text>2pd Lt. (temp. Lt.) B. de laC. (Lt.)</Text>
       <PageNumber>3416</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hynes</Key>
-      <Text>, Maj. (temp. Lt.-Col.) B. M., O.B.E. (rel. temp, rank of Lt.-Col. on ceasing to comd. 25th Bn., Lond. R.)</Text>
+      <Title>Maj. (temp. Lt.-Col.)</Title>
+      <Forenames>B. M.</Forenames>
+      <Text>, O.B.E. (rel. temp, rank of Lt.-Col. on ceasing to comd. 25th Bn., Lond. R.)</Text>
       <PageNumber>960</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Ibbetson</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (actg. Maj.) T. R., M.C. (rel. actg. rank of Maj. on ceasing to be empld.)</Text>
+      <Title>Lt. (actg. Maj.)</Title>
+      <Forenames>T. R.</Forenames>
+      <Text>, M.C. (rel. actg. rank of Maj. on ceasing to be empld.)</Text>
       <PageNumber>940</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -489,15 +535,18 @@
   <ItemGroup>
     <MainItem>
       <Key>Hies</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (actg. Capt.) A. E., M.C. (rel. actg. rank of Capt. on ceasing to be empld.)</Text>
+      <Title>Lt. (actg. Capt.)</Title>
+      <Forenames>A. E.</Forenames>
+      <Text>, M.C. (rel. actg. rank of Capt. on ceasing to be empld.)</Text>
       <PageNumber>1553</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Inglis</Key>
-      <Text>, 2nd Lt. A. (lit.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>A.</Forenames>
+      <Text>(lit.)</Text>
       <PageNumber>1213</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -526,7 +575,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Inman</Key>
-      <Text>, 2nd Lt. (now Lt.) B. (seed. for serv. with R.A.F.)</Text>
+      <Title>2nd Lt. (now Lt.)</Title>
+      <Forenames>B.</Forenames>
+      <Text>(seed. for serv. with R.A.F.)</Text>
       <PageNumber>1067</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -542,7 +593,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Insch</Key>
-      <Text>, 2nd Lt. J. G. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>J. G.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>3002</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -558,7 +611,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Irvine</Key>
-      <Text>, 2nd Lt. A. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>A.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>3398</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -567,14 +622,16 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>2nd Lt. H. (Lt.) ... .:</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>H.</Forenames>
+      <Text>(Lt.) ... .:</Text>
       <PageNumber>1066</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Isham</Key>
-      <Text>, 'Capt, V. A. R., M.C. (Adj-t.)</Text>
+      <Text>'Capt, V. A. R., M.C. (Adj-t.)</Text>
       <PageNumber>3416</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -612,7 +669,9 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>2nd Lt. E. D. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>E. D.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>1781</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -633,8 +692,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>. '(actg. Capt., addtl.) B. W. (rel. .actg. rank of Capt. )</Text>
+      <Title>Lt.</Title>
+      <Text>'(actg. Capt., addtl.) B. W. (rel. .actg. rank of Capt. )</Text>
       <PageNumber>1781</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -643,7 +702,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>2nd Lt. J. P. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>J. P.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>2735</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -663,8 +724,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (actg. Capt.) R, E., M.C. (rel. actg. rank of Capt. on alteration dn posting) '</Text>
+      <Title>Lt. (actg. Capt.)</Title>
+      <Forenames>R</Forenames>
+      <Text>, E., M.C. (rel. actg. rank of Capt. on alteration dn posting) '</Text>
       <PageNumber>299</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -684,7 +746,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Jackson</Key>
-      <Text>, 2nd Lt. W. C. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>W. C.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>2898</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -693,14 +757,16 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>2nd Lt. W. J. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>W. J.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>3427</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>James</Key>
-      <Text>, 2nd L.t. B. W. (Lt.)</Text>
+      <Text>2nd L.t. B. W. (Lt.)</Text>
       <PageNumber>3618</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -730,8 +796,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (actg. Maj.) Walter R., M.C. (rel. actg. rank of Maj. . on ceasing to be empld.), Sub. Nots</Text>
+      <Title>Lt. (actg. Maj.)</Title>
+      <Forenames>Walter R.</Forenames>
+      <Text>, M.C. (rel. actg. rank of Maj. . on ceasing to be empld.), Sub. Nots</Text>
       <PageNumber>3415</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -779,22 +846,26 @@
   <ItemGroup>
     <MainItem>
       <Key>Jarvis</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (actg. Capt.) J. B. (rel.. actg. rank of Capt.), Sub. Not</Text>
+      <Title>Lt. (actg. Capt.)</Title>
+      <Forenames>J. B.</Forenames>
+      <Text>(rel.. actg. rank of Capt.), Sub. Not</Text>
       <PageNumber>1541</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Jebson</Key>
-      <Text>, 2nd Lt. A. R. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>A. R.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>2989</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Jeffreys</Key>
-      <Text>, Maj. {Bt. Lt.-Col.) J. W., D.S.O. (rel. temp, rank of Lt.Cbl. on ceasing to comd. the Bn., A. of O.)</Text>
+      <Title>Maj.</Title>
+      <Text>{Bt. Lt.-Col.) J. W., D.S.O. (rel. temp, rank of Lt.Cbl. on ceasing to comd. the Bn., A. of O.)</Text>
       <PageNumber>822</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -837,7 +908,9 @@
       <Key>
         <KeyDitto>— ___ ___ ___</KeyDitto>
       </Key>
-      <Text>2nd Lt. J. G. T. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>J. G. T.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>1087</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -846,7 +919,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>Capt. -R. E. (rel. temp, rank of Lt.-Col. on ceasing to comd. the l/7th Bn., Hampe. R., A. of O.)</Text>
+      <Title>Capt.</Title>
+      <Text>-R. E. (rel. temp, rank of Lt.-Col. on ceasing to comd. the l/7th Bn., Hampe. R., A. of O.)</Text>
       <PageNumber>1814</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -898,22 +972,27 @@
   <ItemGroup>
     <MainItem>
       <Key>Jewitt</Key>
-      <Text>, 2nd Lt. W. H. (resigns commn. on enlistment)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>W. H.</Forenames>
+      <Text>(resigns commn. on enlistment)</Text>
       <PageNumber>542</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Jewson</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (actg. Capt.) J. H., M.C. (rel. actg. rank of Capt.on fceasing to comd. a Co.), Sub. Not</Text>
+      <Title>Lt. (actg. Capt.)</Title>
+      <Forenames>J. H.</Forenames>
+      <Text>, M.C. (rel. actg. rank of Capt.on fceasing to comd. a Co.), Sub. Not</Text>
       <PageNumber>1932</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Johnson</Key>
-      <Text>, Maj. (temp. Lt.-Col.) A. B., D.S.O. (rel. temp, rank of Lt.-Col. on alteration in posting)</Text>
+      <Title>Maj. (temp. Lt.-Col.)</Title>
+      <Forenames>A. B.</Forenames>
+      <Text>, D.S.O. (rel. temp, rank of Lt.-Col. on alteration in posting)</Text>
       <PageNumber>298</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -966,7 +1045,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>2nd Lt. H. E. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>H. E.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>3398</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -975,7 +1056,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>2nd Lt. N. D. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>N. D.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>154</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1025,7 +1108,9 @@
       <Key>
         <KeyDitto>— ___ ___</KeyDitto>
       </Key>
-      <Text>2nd Lt. R. F. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>R. F.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>3626</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1034,8 +1119,9 @@
       <Key>
         <KeyDitto>— ___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (actg. Capt.) R. S. (pel. actg. rank of Capt. on alteration in posting)</Text>
+      <Title>Lt. (actg. Capt.)</Title>
+      <Forenames>R. S.</Forenames>
+      <Text>(pel. actg. rank of Capt. on alteration in posting)</Text>
       <PageNumber>299</PageNumber>
     </MainItem>
   </ItemGroup>

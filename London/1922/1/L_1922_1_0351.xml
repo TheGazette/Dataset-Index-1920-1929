@@ -3,7 +3,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Falgar</Key>
-      <Text>,.Capt. R. J., M.B.E. (resigns conimn. and granted rank of Maj.)</Text>
+      <Text>.Capt. R. J., M.B.E. (resigns conimn. and granted rank of Maj.)</Text>
       <PageNumber>2435</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -168,7 +168,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Ncrcott</Key>
-      <Text>, temp. 2nd Lt. William Johu Waller (not. in Gaz, 7th Oct!, 1921, cancelled)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>William Johu Waller</Forenames>
+      <Text>(not. in Gaz, 7th Oct!, 1921, cancelled)</Text>
       <PageNumber>553</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -192,7 +194,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Payne</Key>
-      <Text>,' Lt. C H. (not. of rel. temp. commn. cancelled)</Text>
+      <Text>' Lt. C H. (not. of rel. temp. commn. cancelled)</Text>
       <PageNumber>965</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -287,7 +289,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sexton</Key>
-      <Text>,, Capt. D. C. (reL temp. commn.)</Text>
+      <Text>, Capt. D. C. (reL temp. commn.)</Text>
       <PageNumber>2242</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -405,7 +407,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Townsend</Key>
-      <Text>, Capt. FJ(rel. temp. commn-.)</Text>
+      <Title>Capt.</Title>
+      <Text>FJ(rel. temp. commn-.)</Text>
       <PageNumber>2242</PageNumber>
     </MainItem>
     <SubItem>
@@ -425,7 +428,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Walker</Key>
-      <Text>, Capt. (temp, non-effective list) L. W,.(resigns commn. and retains rank of Capt.)</Text>
+      <Title>Capt. (temp, non-effective list)</Title>
+      <Forenames>L. W</Forenames>
+      <Text>,.(resigns commn. and retains rank of Capt.)</Text>
       <PageNumber>730</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -441,8 +446,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Westou</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (resignscommn. and retains rank of Lt.)</Text>
+      <Title>Lt. (resignscommn. and retains rank of Lt.)</Title>
       <PageNumber>1612</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -458,7 +462,9 @@
   <ItemGroup>
     <MainItem>
       <Key>White</Key>
-      <Text>, Capt. E tgar William (corr. of name)</Text>
+      <Title>Capt.</Title>
+      <Forenames>E</Forenames>
+      <Text>tgar William (corr. of name)</Text>
       <PageNumber>553</PageNumber>
     </MainItem>
     <SubItem>
@@ -496,8 +502,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Williams</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.D. (resigns commn.)</Text>
+      <Title>Lt.</Title>
+      <Text>D. (resigns commn.)</Text>
       <PageNumber>730</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -602,7 +608,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Turner</Key>
-      <Text>,R. G., G.M.G., D.S.O., F.R.C.S</Text>
+      <Text>R. G., G.M.G., D.S.O., F.R.C.S</Text>
       <PageNumber>2621</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -618,7 +624,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Milne</Key>
-      <Text>, C, O.B.E., M.B. (coir, of date) ... -. '.. £</Text>
+      <Forenames>C</Forenames>
+      <Text>, O.B.E., M.B. (coir, of date) ... -. '.. £</Text>
       <PageNumber>622</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -627,7 +634,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Anderson</Key>
-      <Text>, S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>731</PageNumber>
     </MainItem>
   </ItemGroup>

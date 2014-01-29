@@ -12,7 +12,6 @@
   <ItemGroup>
     <MainItem>
       <Key>Smith</Key>
-      <Text>,</Text>
       <PageNumber>___ ___ ___ ___ ___ ___</PageNumber>
     </MainItem>
     <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
@@ -112,8 +111,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Shortridge</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (R. Inniskilling Fus.) Travis William (granted temp, commn. as Flying Offr. on secdg. for four years' duty with R.A.F.)</Text>
+      <Title>Lt. (R. Inniskilling Fus.)</Title>
+      <Forenames>Travis William</Forenames>
+      <Text>(granted temp, commn. as Flying Offr. on secdg. for four years' duty with R.A.F.)</Text>
       <PageNumber>1505</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -145,7 +145,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Southey</Key>
-      <Text>, 2nd. Lt. Charles Reginald (Lt., Ad.)</Text>
+      <Text>2nd. Lt. Charles Reginald (Lt., Ad.)</Text>
       <PageNumber>643</PageNumber>
     </MainItem>
     <SubItem>
@@ -190,7 +190,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>2nd Lt. Donald Alexander (trd. to unempld. list) Sub. Not f</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>Donald Alexander</Forenames>
+      <Text>(trd. to unempld. list) Sub. Not f</Text>
       <PageNumber>964</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -282,14 +284,18 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>2nd Lt. Reginald Clauds (rel. temp, commn. on ceasing to be empld. and retains rank of ,2nd Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>Reginald Clauds</Forenames>
+      <Text>(rel. temp, commn. on ceasing to be empld. and retains rank of ,2nd Lt.)</Text>
       <PageNumber>2434</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Templeton</Key>
-      <Text>, 2nd Lt. Harold la Touche (deprived of permission to retain rank on conviction by Civil Power)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>Harold</Forenames>
+      <Text>la Touche (deprived of permission to retain rank on conviction by Civil Power)</Text>
       <PageNumber>47</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -322,7 +328,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Titmas</Key>
-      <Text>, _ Observer Offr. John Francis (granted perm, commn.)</Text>
+      <Text>_ Observer Offr. John Francis (granted perm, commn.)</Text>
       <PageNumber>842</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -369,7 +375,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Waite</Key>
-      <Text>, F1d. Cadet Reginald Newnhain (granted perm, commn. as Pilot Offr.)</Text>
+      <Forenames>F</Forenames>
+      <Text>1d. Cadet Reginald Newnhain (granted perm, commn. as Pilot Offr.)</Text>
       <PageNumber>643</PageNumber>
     </MainItem>
   </ItemGroup>

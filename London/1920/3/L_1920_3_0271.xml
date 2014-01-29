@@ -128,7 +128,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gregory</Key>
-      <Text>A, A. N</Text>
+      <Forenames>A</Forenames>
+      <Text>, A. N</Text>
       <PageNumber>6372</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -230,7 +231,7 @@
   <ItemGroup>
     <MainItem>
       <Key>MicMaster</Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>9145</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -311,7 +312,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Olding</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>8484</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -576,14 +577,14 @@
       <PageNumber>9055</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Smb. Not</Text>
+      <Text>Smb. Not.</Text>
       <PageNumber>7580</PageNumber>
     </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Peck</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>9221</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -620,7 +621,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Barker</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>8408</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -639,7 +640,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bullimore</Key>
-      <Text>H</Text>
+      <Text>. H</Text>
       <PageNumber>8408</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -936,7 +937,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Moseley</Key>
-      <Text>B. B</Text>
+      <Text>. B. B</Text>
       <PageNumber>9055</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -950,7 +951,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Pagden</Key>
-      <Text>(actg. Lt.) R, L. K</Text>
+      <Title>(actg. Lt.)</Title>
+      <Forenames>R</Forenames>
+      <Text>, L. K</Text>
       <PageNumber>7354</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -964,14 +967,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Stokes</Key>
-      <Text>(actg. Lt.) F. J. Scott</Text>
+      <Title>(actg. Lt.)</Title>
+      <Forenames>F. J. Scott</Forenames>
       <PageNumber>8792</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Thornycroft</Key>
-      <Text>(actg. Lt.) J. W</Text>
+      <Title>(actg. Lt.)</Title>
+      <Forenames>J. W.</Forenames>
       <PageNumber>8712</PageNumber>
     </MainItem>
   </ItemGroup>

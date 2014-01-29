@@ -177,7 +177,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Whyte</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>3753</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -237,7 +237,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Woods-Ballard</Key>
-      <Text>B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>4302</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -301,7 +301,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Beesley</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>2801</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -356,7 +356,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Oude</Key>
-      <Text>T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>3294</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -439,7 +439,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lockstone</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>3294</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -470,7 +470,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Martyr</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>2802</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -619,7 +619,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bee</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>2801</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -641,14 +641,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Borton</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>2801</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Boswarva</Key>
-      <Text>S J</Text>
+      <Forenames>S</Forenames>
+      <Text>J</Text>
       <PageNumber>3294</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -731,7 +732,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Chapman</Key>
-      <Text>R V</Text>
+      <Forenames>R</Forenames>
+      <Text>V</Text>
       <PageNumber>5018</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -950,8 +952,8 @@
   <ItemGroup>
     <MainItem>
       <Key>White</Key>
-      <Forenames>Berm</Forenames>
-      <Text>.rd Kerr</Text>
+      <Title>Berm.</Title>
+      <Text>rd Kerr</Text>
       <PageNumber>3294</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1104,7 +1106,7 @@
       <PageNumber>3936</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Lt</Text>
+      <Text>Lt.</Text>
       <PageNumber>4303</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1175,7 +1177,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Baum</Key>
-      <Text>temp. 2nd Lt. E. F. (rel. commn.)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>E. F.</Forenames>
+      <Text>(rel. commn.)</Text>
       <PageNumber>2801</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1227,7 +1231,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>temp. 2nd Lt. T. B. W. (rel. commn.)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>T. B. W.</Forenames>
+      <Text>(rel. commn.)</Text>
       <PageNumber>2801</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1276,21 +1282,27 @@
   <ItemGroup>
     <MainItem>
       <Key>Bramley</Key>
-      <Text>temp. 2nd Lt. R. C. (rel. eommn.)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>R. C.</Forenames>
+      <Text>(rel. eommn.)</Text>
       <PageNumber>2801</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Brann-Pool</Key>
-      <Text>temp. 2nd Lt. F. E. (rel. commn.)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>F. E.</Forenames>
+      <Text>(rel. commn.)</Text>
       <PageNumber>2801</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Bratley</Key>
-      <Text>temp. 2nd Lt. L. (rel. eommn.)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>L.</Forenames>
+      <Text>(rel. eommn.)</Text>
       <PageNumber>2801</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1373,7 +1385,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Browne</Key>
-      <Text>2nd Lt. T. L. (rel. commn. and retains rank)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>T. L.</Forenames>
+      <Text>(rel. commn. and retains rank)</Text>
       <PageNumber>4102</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1457,7 +1471,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Callaghan</Key>
-      <Text>temp. 2nd Lt. H. W. (rel. of commn.)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>H. W.</Forenames>
+      <Text>(rel. of commn.)</Text>
       <PageNumber>2801</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1472,7 +1488,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Cammiade</Key>
-      <Text>2nd Lt. L. A. (rel. commn.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>L. A.</Forenames>
+      <Text>(rel. commn.)</Text>
       <PageNumber>3547</PageNumber>
     </MainItem>
   </ItemGroup>

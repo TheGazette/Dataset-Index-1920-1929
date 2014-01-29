@@ -24,7 +24,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mackenzie</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>7255</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -68,7 +68,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Magrath</Key>
-      <Text>, D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>7255</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -89,22 +89,22 @@
   <ItemGroup>
     <MainItem>
       <Key>Mayo</Key>
-      <Forenames>It</Forenames>
-      <Text>. H</Text>
+      <Title>It.</Title>
+      <Forenames>H</Forenames>
       <PageNumber>7255</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Mellor</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>8981</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Michaelis</Key>
-      <Text>, R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>7750</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -163,7 +163,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Motley</Key>
-      <Text>, L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>8347</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -177,7 +177,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mullen</Key>
-      <Text>. W,</Text>
+      <Text>W,</Text>
       <PageNumber>7594</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -199,7 +199,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Neale</Key>
-      <Text>, F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>7595</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -243,7 +243,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Noel</Key>
-      <Text>, 0. C</Text>
+      <Text>0. C</Text>
       <PageNumber>8783</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -264,7 +264,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Oliver</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>8980</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -278,7 +278,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Onyett</Key>
-      <Text>, K</Text>
+      <Forenames>K</Forenames>
       <PageNumber>7594</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -320,7 +320,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Parry-Evans</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>8783</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -335,14 +335,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Pasmore</Key>
-      <Text>, E, B</Text>
+      <Forenames>E</Forenames>
+      <Text>, B</Text>
       <PageNumber>9338</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Paterson</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>9338</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -529,7 +530,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Roache</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>8783</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -545,7 +546,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>Y</Text>
+      <Forenames>Y</Forenames>
       <PageNumber>7255</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -588,7 +589,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>L, R</Text>
+      <Forenames>L</Forenames>
+      <Text>, R</Text>
       <PageNumber>7595</PageNumber>
       <PageNumber>8981</PageNumber>
     </MainItem>
@@ -642,7 +644,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rose</Key>
-      <Text>, C V. D</Text>
+      <Forenames>C</Forenames>
+      <Text>V. D</Text>
       <PageNumber>7435</PageNumber>
       <PageNumber>8543</PageNumber>
     </MainItem>
@@ -874,7 +877,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>Q JJ</Text>
+      <Forenames>Q</Forenames>
+      <Text>JJ</Text>
       <PageNumber>7594</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1244,7 +1248,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Watson</Key>
-      <Text>. D. A</Text>
+      <Text>D. A</Text>
       <PageNumber>7595</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1379,7 +1383,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Willy</Key>
-      <Text>, CM</Text>
+      <Text>CM</Text>
       <PageNumber>7595</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1557,7 +1561,6 @@
       <PageNumber>8536</PageNumber>
     </MainItem>
   </ItemGroup>
-  <CategoryTitle>ADVERTISEMENTS</CategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>Aachen</Key>
@@ -1576,7 +1579,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Armitace</Key>
-      <Text>. Harold (Universal Bobbin Co.), notice</Text>
+      <Text>Harold (Universal Bobbin Co.), notice</Text>
       <PageNumber>8934</PageNumber>
     </MainItem>
   </ItemGroup>

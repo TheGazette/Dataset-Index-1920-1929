@@ -38,7 +38,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ashcroft</Key>
-      <Text>, F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>5734</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -52,7 +52,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bamford</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>6033</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -194,7 +194,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hewitt</Key>
-      <Text>, D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>6946</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -412,7 +412,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Porter</Key>
-      <Text>, R, V. H</Text>
+      <Forenames>R</Forenames>
+      <Text>, V. H</Text>
       <PageNumber>5359</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -676,7 +677,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Budd</Key>
-      <Text>, F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>7139</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -690,8 +691,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Davey</Key>
-      <Forenames>Qr</Forenames>
-      <Text>.-Mr. and Lt. H. B. and granted rank of Lt.)</Text>
+      <Title>Qr.</Title>
+      <Text>-Mr. and Lt. H. B. and granted rank of Lt.)</Text>
       <PageNumber>6604</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -791,7 +792,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Moase</Key>
-      <Text>, D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>5736</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1259,7 +1260,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cruise</Key>
-      <Forenames>William</Forenames>
+      <Title>William .</Title>
       <PageNumber>556</PageNumber>
     </MainItem>
   </ItemGroup>

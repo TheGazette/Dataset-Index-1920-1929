@@ -3,7 +3,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Day</Key>
-      <Text>, .</Text>
+      <Text>.</Text>
       <PageNumber>___ ___ ___ . ___ ___ . ___ ___ ___ . ___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -21,14 +21,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Lt</Key>
-      <Text>. W. H. (seed, for service under Colonial Office) Singh. Bahadur, Risaldar Maj, (Hon. Lt.)</Text>
+      <Text>W. H. (seed, for service under Colonial Office) Singh. Bahadur, Risaldar Maj, (Hon. Lt.)</Text>
       <PageNumber>11316</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Daykin</Key>
-      <Text>, temp. 2nd Lt. R. W. (rel. commn. on completion of service and granted rank of Capt.)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>R. W.</Forenames>
+      <Text>(rel. commn. on completion of service and granted rank of Capt.)</Text>
       <PageNumber>12470</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -139,7 +141,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hr</Key>
-      <Text>.iles, temp. Capt. J. P. (rel. com.nn. on completion of service, mid retains rank of 1037b Capt.) Jongh, Lt. K. G. (rel. cominn. and retains rank of Lt.)</Text>
+      <Text>iles, temp. Capt. J. P. (rel. com.nn. on completion of service, mid retains rank of 1037b Capt.) Jongh, Lt. K. G. (rel. cominn. and retains rank of Lt.)</Text>
       <PageNumber>10935</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -181,7 +183,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lt</Key>
-      <Text>.) Mattos, Lt. G. W. (rel. commn. and retains rank of .Lt.)</Text>
+      <Text>) Mattos, Lt. G. W. (rel. commn. and retains rank of .Lt.)</Text>
       <PageNumber>12361</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -206,15 +208,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Moulin</Key>
-      <Text>, temp. 2nd Lt. C. A</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>C. A.</Forenames>
       <PageNumber>10735</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Norman</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (temp. Capt.) A. W. N. (rel. commn. and granted rank of Capt.)</Text>
+      <Title>Lt. (temp. Capt.)</Title>
+      <Forenames>A. W. N.</Forenames>
+      <Text>(rel. commn. and granted rank of Capt.)</Text>
       <PageNumber>10378</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -275,8 +279,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Sausmarez</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. (Bt. Col.) C, C.M.G., D.S.O. (placed on h.p. list on completion of 4 vears' service as Regtl. Lt.Col.)</Text>
+      <Title>Lt.-Col. (Bt. Col.)</Title>
+      <Forenames>C</Forenames>
+      <Text>, C.M.G., D.S.O. (placed on h.p. list on completion of 4 vears' service as Regtl. Lt.Col.)</Text>
       <PageNumber>12808</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -467,7 +472,9 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>temp. 2nd Lt. A. E. (rel. commn. on completion of service, and retains rank of 2nd Lt.)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>A. E.</Forenames>
+      <Text>(rel. commn. on completion of service, and retains rank of 2nd Lt.)</Text>
       <PageNumber>10839</PageNumber>
     </MainItem>
   </ItemGroup>

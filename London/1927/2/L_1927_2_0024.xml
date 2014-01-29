@@ -3,7 +3,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Franks</Key>
-      <Forenames>Major-General George</Forenames>
+      <Title>Major</Title>
+      <Forenames>General George</Forenames>
       <Text>McKenzie, C.B., Knight Commander, Order of the Bath</Text>
       <PageNumber>3605</PageNumber>
     </MainItem>
@@ -69,7 +70,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Furley</Key>
-      <Text>, Lady, R.R.C., Dame Grand Cross, Order of St. John of Jerusalem</Text>
+      <Title>Lady</Title>
+      <Text>, R.R.C., Dame Grand Cross, Order of St. John of Jerusalem</Text>
       <PageNumber>3836</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -193,7 +195,8 @@
   <ItemGroup>
     <MainItem>
       <Key>George</Key>
-      <Text>V, H.M.. Bailiff Grand Cross, Order of St. John of Jerusalem</Text>
+      <Forenames>V</Forenames>
+      <Text>, H.M.. Bailiff Grand Cross, Order of St. John of Jerusalem</Text>
       <PageNumber>3836</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -327,7 +330,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Grabham</Key>
-      <Text>, . George Walter, Officer, Order of the British Empire</Text>
+      <Text>. George Walter, Officer, Order of the British Empire</Text>
       <PageNumber>3615</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -379,7 +382,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Green</Key>
-      <Text>, Colonel (temporary Colonel Commandant) Wilfrith Gerald Key, C.M.G., D.S.O., Companion, Order of the Bath</Text>
+      <Title>Colonel (temporary Colonel Commandant)</Title>
+      <Forenames>Wil-</Forenames>
+      <Text>frith Gerald Key, C.M.G., D.S.O., Companion, Order of the Bath</Text>
       <PageNumber>3605</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -509,7 +514,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hankey</Key>
-      <Text>, Colonel (temporary Colonel Commandant) Edward Barnard, D.S.O., Companion, Order of the Bath</Text>
+      <Title>Colonel (temporary Colonel Commandant)</Title>
+      <Forenames>Edward Barnard</Forenames>
+      <Text>, D.S.O., Companion, Order of the Bath</Text>
       <PageNumber>3605</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -540,15 +547,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Uarington</Key>
-      <Text>, Colonel (temporary Colonel on the Staff) John, C.M.G., D.S.O., Companion, Order of the Bath</Text>
+      <Title>Colonel (temporary Colonel on the Staff)</Title>
+      <Forenames>John</Forenames>
+      <Text>, C.M.G., D.S.O., Companion, Order of the Bath</Text>
       <PageNumber>3605</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Harlech</Key>
-      <Forenames>Rt</Forenames>
-      <Text>. Hon. Lord, C.B., Harlech Castle, Constable</Text>
+      <Title>Rt. Hon. Lord</Title>
+      <Text>, C.B., Harlech Castle, Constable</Text>
       <PageNumber>3446</PageNumber>
     </MainItem>
   </ItemGroup>

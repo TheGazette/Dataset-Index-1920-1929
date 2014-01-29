@@ -3,8 +3,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Digan</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. A. J., D.S.O. (reDorward, Maj.-Gen. (ret. pay) Sir signs commn. and retains rank A. R. F., K.C.B., D.S.O. (apof Lt.-Col., with permission to pointed Col. Comdt., R.E.)</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>A. J.</Forenames>
+      <Text>, D.S.O. (reDorward, Maj.-Gen. (ret. pay) Sir signs commn. and retains rank A. R. F., K.C.B., D.S.O. (apof Lt.-Col., with permission to pointed Col. Comdt., R.E.)</Text>
       <PageNumber>5777</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -55,15 +56,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Dillon</Key>
-      <Text>, 2nd Lt. John Henry (2nd ___ ___ ___ ___ 2nd Lt. (on prob.) R. W. S. Lt., Reg. Army Res. of Off., (resigns commn.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>John Henry</Forenames>
+      <Text>(2nd ___ ___ ___ ___ 2nd Lt. (on prob.) R. W. S. Lt., Reg. Army Res. of Off., (resigns commn.)</Text>
       <PageNumber>6907</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Disney</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (seed. A. Sig. Serv.) tains rank of Lt.)</Text>
+      <Title>Lt. (seed. A. Sig. Serv.)</Title>
+      <Text>tains rank of Lt.)</Text>
       <PageNumber>6230</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -98,7 +101,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dobson</Key>
-      <Text>, Capt. (seed. R.A.F.) Devon. Regt. from R. Ir. G. W., O.B.E. (placed on h.p. Regt.)</Text>
+      <Title>Capt. (seed. R.A.F.) Devon. Regt.</Title>
+      <Text>from R. Ir. G. W., O.B.E. (placed on h.p. Regt.)</Text>
       <PageNumber>5524</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -113,7 +117,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dodgson</Key>
-      <Text>, Col. (Hon. Brig.-Gen.) Res. of Off., Regtl. List, C. S., C.B., C.M.G. (ceases to R.C. of Sigs., late R.E.)</Text>
+      <Title>Col. (Hon. Brig.-Gen.) Res.</Title>
+      <Text>of Off., Regtl. List, C. S., C.B., C.M.G. (ceases to R.C. of Sigs., late R.E.)</Text>
       <PageNumber>5432</PageNumber>
     </MainItem>
     <SubItem>
@@ -142,7 +147,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Donald</Key>
-      <Text>, Maj.-Gen. (ret. pay) C. G., Sub. Not</Text>
+      <Title>Maj.-Gen. (ret. pay)</Title>
+      <Forenames>C. G.</Forenames>
+      <Text>, Sub. Not</Text>
       <PageNumber>6441</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -151,8 +158,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (late R.F.A.) W., M.C. vice with Tank Corps)</Text>
+      <Title>Lt. (late R.F.A.)</Title>
+      <Forenames>W.</Forenames>
+      <Text>, M.C. vice with Tank Corps)</Text>
       <PageNumber>6510</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -177,7 +185,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dorman</Key>
-      <Text>. Lt. (seed. Tank Corps) to rem. seed.)</Text>
+      <Text>Lt. (seed. Tank Corps) to rem. seed.)</Text>
       <PageNumber>6510</PageNumber>
     </MainItem>
     <SubItem>
@@ -201,7 +209,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Duffield</Key>
-      <Text>, 2nd Lt. A. C. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>A. C.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>5361</PageNumber>
     </MainItem>
     <SubItem>
@@ -238,8 +248,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Duke</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. A. C. H., C.M.G., D.S.O. (Lt.-Col., Reg. Army Res. of Off., Regtl. List, R.G.A.)</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>A. C. H.</Forenames>
+      <Text>, C.M.G., D.S.O. (Lt.-Col., Reg. Army Res. of Off., Regtl. List, R.G.A.)</Text>
       <PageNumber>5204</PageNumber>
     </MainItem>
     <SubItem>
@@ -334,8 +345,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Dunn</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (ret.) P. H. (resigns commn.)</Text>
+      <Title>Lt. (ret.)</Title>
+      <Forenames>P. H.</Forenames>
+      <Text>(resigns commn.)</Text>
       <PageNumber>6097</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -344,7 +356,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>2nd Lt. R. W. J. (Lt</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>R. W. J.</Forenames>
+      <Text>(Lt</Text>
       <PageNumber>5359</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -353,7 +367,9 @@
       <Key>
         <KeyDitto>—___ ___</KeyDitto>
       </Key>
-      <Text>2nd Lt. (ret.) T. (resigns commn.)</Text>
+      <Title>2nd Lt. (ret.)</Title>
+      <Forenames>T.</Forenames>
+      <Text>(resigns commn.)</Text>
       <PageNumber>5965</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -362,7 +378,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>2nd Lt. Wilfred Herbert (2nd Lt., Reg. Army Res. of Off., Regtl. List, SufE. R.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>Wilfred Herbert</Forenames>
+      <Text>(2nd Lt., Reg. Army Res. of Off., Regtl. List, SufE. R.)</Text>
       <PageNumber>5035</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -382,7 +400,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Dunnill</Key>
-      <Text>, 2nd Lt. A. L. (Lt,)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>A. L.</Forenames>
+      <Text>(Lt,)</Text>
       <PageNumber>5360</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -398,7 +418,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Duthie</Key>
-      <Text>, Maj. (now Lt.-Col.) A. M., D.S.O., O.B.E. (temp. Lt.-Col. whilst Comdt. Arty. Sch., India)</Text>
+      <Title>Maj. (now Lt.-Col.)</Title>
+      <Forenames>A. M.</Forenames>
+      <Text>, D.S.O., O.B.E. (temp. Lt.-Col. whilst Comdt. Arty. Sch., India)</Text>
       <PageNumber>6443</PageNumber>
     </MainItem>
     <SubItem>
@@ -409,8 +431,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dutton</Key>
-      <Forenames>Qr</Forenames>
-      <Text>.-Mr. and Lt. G. (date of seniority)</Text>
+      <Title>Qr.</Title>
+      <Text>-Mr. and Lt. G. (date of seniority)</Text>
       <PageNumber>6777</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -426,8 +448,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Dyson</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. (ret. pay) L. M., D.S.O. (Lt.-Col., Reg. Army Res. of Off., Regtl. List, R.H. and R.F.A.)</Text>
+      <Title>Lt.-Col. (ret. pay)</Title>
+      <Forenames>L. M.</Forenames>
+      <Text>, D.S.O. (Lt.-Col., Reg. Army Res. of Off., Regtl. List, R.H. and R.F.A.)</Text>
       <PageNumber>5280</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -467,7 +490,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>2nd Lt. P. H. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>P. H.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>5359</PageNumber>
     </MainItem>
   </ItemGroup>

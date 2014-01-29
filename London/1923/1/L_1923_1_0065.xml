@@ -135,7 +135,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Angus</Key>
-      <Text>,. Lt.-Col. H. B., M.B., F.R.C.S. (is retired, having attained age limit and retains rank of Lt.-Col.)</Text>
+      <Text>. Lt.-Col. H. B., M.B., F.R.C.S. (is retired, having attained age limit and retains rank of Lt.-Col.)</Text>
       <PageNumber>457</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -169,7 +169,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Appleyard</Key>
-      <Text>, Hon. .Capt. Kenelm ___ Charles (Capt., 50th (Northn' Div. Engrs. late Durham R.E. Vols.)</Text>
+      <Title>Hon.</Title>
+      <Text>.Capt. Kenelm ___ Charles (Capt., 50th (Northn' Div. Engrs. late Durham R.E. Vols.)</Text>
       <PageNumber>1156</PageNumber>
     </MainItem>
     <SubItem>
@@ -198,7 +199,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Armstrong</Key>
-      <Text>, Capt. (Prov.) J. H., M.M. (resigns commn. and granted rank of Lt.)</Text>
+      <Title>Capt. (Prov.)</Title>
+      <Forenames>J. H.</Forenames>
+      <Text>, M.M. (resigns commn. and granted rank of Lt.)</Text>
       <PageNumber>380</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -207,7 +210,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>2nd Lt. N. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>N.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>2240</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -231,8 +236,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Arthur</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. J. M., C.M.G., D.S.O., T.D. (trd. to 52nd (Lowland) Div. Engrs., from lst Low. Batt., Div. Engrs., retaining present rank of Lt.Col. and precedence in T.A.)</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>J. M.</Forenames>
+      <Text>, C.M.G., D.S.O., T.D. (trd. to 52nd (Lowland) Div. Engrs., from lst Low. Batt., Div. Engrs., retaining present rank of Lt.Col. and precedence in T.A.)</Text>
       <PageNumber>612</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -263,7 +269,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Atkin</Key>
-      <Text>, 2nd Lt. S. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>S.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>380</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -307,8 +315,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Austin</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. F. C, M.C. (trd. to 53rd (Welch) Div. Engrs., from lst Welch Batt., Div. Engrs., with pay and allces. of Maj., retaining present rank of Lt.-Col. and precedence in T.A.)</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>F. C</Forenames>
+      <Text>, M.C. (trd. to 53rd (Welch) Div. Engrs., from lst Welch Batt., Div. Engrs., with pay and allces. of Maj., retaining present rank of Lt.-Col. and precedence in T.A.)</Text>
       <PageNumber>612</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -377,7 +386,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Bain</Key>
-      <Text>, Hon. Col. (Hon. Maj. in Army) (Hon. Col., ret., T.F.) A., T.D., M.Inst.C.E., M.I.E.E. (rel. appt. of Hon. Col., jM-nd. Sig. Cos. (A.T.), C. of R.E., on completion of tenure and retains rank, with permission to wear prescribed uniform)</Text>
+      <Title>Hon. Col. (Hon. Maj. in Army) (Hon. Col., ret., T.F.)</Title>
+      <Forenames>A.</Forenames>
+      <Text>, T.D., M.Inst.C.E., M.I.E.E. (rel. appt. of Hon. Col., jM-nd. Sig. Cos. (A.T.), C. of R.E., on completion of tenure and retains rank, with permission to wear prescribed uniform)</Text>
       <PageNumber>531</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -431,8 +442,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Balaban</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (T.A. Res.) I. E. (T.A Res., Regtl. List, 8th Bn., Lanes. Fus., from 8th Bn., the King's R., and retains rank of Lt. and precedence)</Text>
+      <Title>Lt. (T.A. Res.)</Title>
+      <Forenames>I. E.</Forenames>
+      <Text>(T.A Res., Regtl. List, 8th Bn., Lanes. Fus., from 8th Bn., the King's R., and retains rank of Lt. and precedence)</Text>
       <PageNumber>1075</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -468,8 +480,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Ballard</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. (Res. of Off.) J. A. (Maj., 4th Bn., Oxf. and Bucks. L.I.)</Text>
+      <Title>Lt.-Col. (Res. of Off.)</Title>
+      <Forenames>J. A.</Forenames>
+      <Text>(Maj., 4th Bn., Oxf. and Bucks. L.I.)</Text>
       <PageNumber>1156</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -501,8 +514,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Barclay</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. (T.A. Res.) R. W. (Lt.-Col., T.A. Res., Gen. List, Yeo.)</Text>
+      <Title>Lt.-Col. (T.A. Res.)</Title>
+      <Forenames>R. W.</Forenames>
+      <Text>(Lt.-Col., T.A. Res., Gen. List, Yeo.)</Text>
       <PageNumber>1157</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -531,8 +545,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Barker</Key>
-      <Forenames>Chapln</Forenames>
-      <Text>., 4th CI., the Rev. G. D., M.A. (Chapln., 3rd CI.)</Text>
+      <Title>Chapln., 4th CI., the Rev.</Title>
+      <Forenames>G. D.</Forenames>
+      <Text>, M.A. (Chapln., 3rd CI.)</Text>
       <PageNumber>809</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -547,7 +562,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Barlow</Key>
-      <Text>, 2nd Lt. C. E. B. (resigns commn. and retains rank of 2nd Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>C. E. B.</Forenames>
+      <Text>(resigns commn. and retains rank of 2nd Lt.)</Text>
       <PageNumber>612</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -596,7 +613,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Barnsley</Key>
-      <Text>, Capt. (Bt, Maj.) R. E., M.C. (Divl. Adjt., R.A.M.C., Gen. List, 50th (Northn) Divn., from Sch). of Instn., and retains date of appt.)</Text>
+      <Title>Capt. (Bt, Maj.)</Title>
+      <Forenames>R. E.</Forenames>
+      <Text>, M.C. (Divl. Adjt., R.A.M.C., Gen. List, 50th (Northn) Divn., from Sch). of Instn., and retains date of appt.)</Text>
       <PageNumber>381</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -620,8 +639,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Barrs</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. A. G., M.D. (is retired, having attained age limit, and retains rank of Lt.-Col.) Barry, Lt. E. C J. (Adjt., 55th (Northn) Med. Bde., R.G.A.)</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>A. G.</Forenames>
+      <Text>, M.D. (is retired, having attained age limit, and retains rank of Lt.-Col.) Barry, Lt. E. C J. (Adjt., 55th (Northn) Med. Bde., R.G.A.)</Text>
       <PageNumber>531</PageNumber>
     </MainItem>
     <SubItem>
@@ -666,15 +686,18 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Chapln</Forenames>
-      <Text>., 4th CI., the Rev. R., O.B.E. (Chapln., 3rd CI.)</Text>
+      <Title>Chapln., 4th CI., the Rev.</Title>
+      <Forenames>R.</Forenames>
+      <Text>, O.B.E. (Chapln., 3rd CI.)</Text>
       <PageNumber>911</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Barton</Key>
-      <Text>, 2nd Lt. P. H. (2nd Lt., 17th Bn., Lond. R., from 5th Bn., Line. R.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>P. H.</Forenames>
+      <Text>(2nd Lt., 17th Bn., Lond. R., from 5th Bn., Line. R.)</Text>
       <PageNumber>711</PageNumber>
     </MainItem>
     <SubItem>

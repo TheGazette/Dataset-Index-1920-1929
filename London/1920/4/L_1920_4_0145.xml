@@ -45,7 +45,7 @@
   <ItemGroup>
     <MainItem>
       <Key>iGaston</Key>
-      <Text>,' temp. Capt. David, M.B. (rel. commn. and retains rank of Capt.)</Text>
+      <Text>' temp. Capt. David, M.B. (rel. commn. and retains rank of Capt.)</Text>
       <PageNumber>10377</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -101,7 +101,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Gavin</Key>
-      <Text>, temp. 2nd Lt. A. (rel.. commn. on completion of ser&lt;. vice and retains rank of 2nd Lt.) '</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>A.</Forenames>
+      <Text>(rel.. commn. on completion of ser&lt;. vice and retains rank of 2nd Lt.) '</Text>
       <PageNumber>12478</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -135,8 +137,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gayer</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. .W. M. (actg. Capt. whilst 2nd in comd. of Ind. . . Mountain Batt.) '</Text>
+      <Title>Lt.</Title>
+      <Text>.W. M. (actg. Capt. whilst 2nd in comd. of Ind. . . Mountain Batt.) '</Text>
       <PageNumber>10933</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -152,22 +154,26 @@
   <ItemGroup>
     <MainItem>
       <Key>GayerAndeison</Key>
-      <Forenames>Supern</Forenames>
-      <Text>. Maj. and Bt, Lt.rCol. T. G., C.M.G.. D.S.O.. (restd. to estabt..)</Text>
+      <Title>Supern. Maj.</Title>
+      <Text>and Bt, Lt.rCol. T. G., C.M.G.. D.S.O.. (restd. to estabt..)</Text>
       <PageNumber>10060</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Gayne</Key>
-      <Text>(on prob.), Capt. A. A; A. (Capt., Army Educational Corps)</Text>
+      <Title>(on prob.), Capt.</Title>
+      <Forenames>A. A</Forenames>
+      <Text>; A. (Capt., Army Educational Corps)</Text>
       <PageNumber>11577</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Gaynor</Key>
-      <Text>, temp. 2nd Lt. R. H. (temp. Lt.)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>R. H.</Forenames>
+      <Text>(temp. Lt.)</Text>
       <PageNumber>12044</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -187,7 +193,7 @@
       <PageNumber>10061</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>H.p. list, retires, having reached the age fixed for compulsory retirement, and granted rank of Capt.</Text>
+      <Text>H.p. list, retires, having reached the age fixed for compulsory retirement, and granted rank of Capt</Text>
       <PageNumber>12162</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -239,7 +245,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Geddes</Key>
-      <Text>, temp. 2nd Lt. A. (rel. commn. on completion of service and retains rank of 2nd Lt.)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>A.</Forenames>
+      <Text>(rel. commn. on completion of service and retains rank of 2nd Lt.)</Text>
       <PageNumber>12577</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -248,7 +256,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>late Capt. (W. York. R., Spec. Res.) Hubert Henry Edye (Lt., R.A.S.C.)</Text>
+      <Title>late Capt. (W. York. R., Spec. Res.)</Title>
+      <Forenames>Hubert Henry Edye</Forenames>
+      <Text>(Lt., R.A.S.C.)</Text>
       <PageNumber>11891</PageNumber>
     </MainItem>
     <SubItem>
@@ -265,7 +275,7 @@
       <PageNumber>10918</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Trd. to Gen. Res. of Offrs.</Text>
+      <Text>Trd. to Gen. Res. of Offrs</Text>
       <PageNumber>10920</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -349,7 +359,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gelling</Key>
-      <Text>, temp.' Lt. J; R. (rel. commn. on completion of service and retains rank of ~Lt.)</Text>
+      <Title>temp.</Title>
+      <Text>' Lt. J; R. (rel. commn. on completion of service and retains rank of ~Lt.)</Text>
       <PageNumber>10187</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -358,7 +369,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>temp. 2nd Lt. P. R. (rel. commn. on completion of service and retains rank of 2nd Lt.) ' i</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>P. R.</Forenames>
+      <Text>(rel. commn. on completion of service and retains rank of 2nd Lt.) ' i</Text>
       <PageNumber>12363</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -374,7 +387,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gemmell</Key>
-      <Text>, temp.: Xt. :A. . (rel. commn. on completion of service and retains rank of Lt:)</Text>
+      <Title>temp.</Title>
+      <Text>: Xt. :A. . (rel. commn. on completion of service and retains rank of Lt:)</Text>
       <PageNumber>11078</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -408,7 +422,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Genge-Andrews</Key>
-      <Text>, Capt. H, (seed. for service with Tank Corps)</Text>
+      <Title>Capt.</Title>
+      <Forenames>H</Forenames>
+      <Text>, (seed. for service with Tank Corps)</Text>
       <PageNumber>10184</PageNumber>
     </MainItem>
     <SubItem>
@@ -419,14 +435,18 @@
   <ItemGroup>
     <MainItem>
       <Key>Genney</Key>
-      <Text>, temp. 2nd Lt. J. S. (rel, commn. on completion of service, and retains rank of 2nd Lt.)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>J. S.</Forenames>
+      <Text>(rel, commn. on completion of service, and retains rank of 2nd Lt.)</Text>
       <PageNumber>12377</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Gennings</Key>
-      <Text>, temp. 2nd Lt. A. G. (corr. of surname)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>A. G.</Forenames>
+      <Text>(corr. of surname)</Text>
       <PageNumber>10377</PageNumber>
     </MainItem>
     <SubItem>
@@ -439,18 +459,22 @@
   <ItemGroup>
     <MainItem>
       <Key>Genochio</Key>
-      <Text>, 2nd Lt. E. (seed, for service with Tank Corps)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>E.</Forenames>
+      <Text>(seed, for service with Tank Corps)</Text>
       <PageNumber>10944</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Trd. to Tank Corps from R. Fus.</Text>
+      <Text>Trd. to Tank Corps from R. Fus</Text>
       <PageNumber>10714</PageNumber>
     </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Gent</Key>
-      <Text>, temp. 2nd Lt. A. T. (temp. Lt.)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>A. T.</Forenames>
+      <Text>(temp. Lt.)</Text>
       <PageNumber>9963</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -497,7 +521,7 @@
   <ItemGroup>
     <MainItem>
       <Key>George</Key>
-      <Text>. Lt. G. S. (resigns commn.)</Text>
+      <Text>Lt. G. S. (resigns commn.)</Text>
       <PageNumber>9781</PageNumber>
     </MainItem>
     <SubItem>
@@ -521,7 +545,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>temp. 2nd Lt. F. B. (rel. commn. On completion, of service; and retains rank of 2nd Lt.)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>F. B.</Forenames>
+      <Text>(rel. commn. On completion, of service; and retains rank of 2nd Lt.)</Text>
       <PageNumber>10706</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -541,7 +567,9 @@
       <Key>
         <KeyDitto>___ -—— ___ ___</KeyDitto>
       </Key>
-      <Text>temp. 2nd Lt. J. (rel. commn. on completion of service, and retains rank of 2nd Lt.)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>J.</Forenames>
+      <Text>(rel. commn. on completion of service, and retains rank of 2nd Lt.)</Text>
       <PageNumber>12030</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -550,11 +578,13 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>2nd Lt. R. (Lt,)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>R.</Forenames>
+      <Text>(Lt,)</Text>
       <PageNumber>10710</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Rel. commn., and retains rank of Lt.</Text>
+      <Text>Rel. commn., and retains rank of Lt</Text>
       <PageNumber>11318</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -585,7 +615,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>temp. Maj.' T. P^ (rel. commn. on completion or service, and retains rank of Maj.)</Text>
+      <Title>temp. Maj.</Title>
+      <Text>' T. P^ (rel. commn. on completion or service, and retains rank of Maj.)</Text>
       <PageNumber>9680</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -650,9 +681,8 @@
   <ItemGroup>
     <MainItem>
       <Key>German</Key>
-      <Title>temp.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>. II. (rei. commn. on completion of service, and retains rank of-Lt.)</Text>
+      <Title>temp. Lt.</Title>
+      <Text>II. (rei. commn. on completion of service, and retains rank of-Lt.)</Text>
       <PageNumber>10056</PageNumber>
     </MainItem>
   </ItemGroup>

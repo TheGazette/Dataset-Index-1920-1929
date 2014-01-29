@@ -56,7 +56,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Temple</Key>
-      <Text>, Lieut.-Colonel Sir Richard Carnac, Bt., C.B., C. I.E., Bailiff Grand Cross, Order of St. John of Jerusalem</Text>
+      <Title>Lieut.</Title>
+      <Text>-Colonel Sir Richard Carnac, Bt., C.B., C. I.E., Bailiff Grand Cross, Order of St. John of Jerusalem</Text>
       <PageNumber>3836</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -362,7 +363,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wales</Key>
-      <Text>, H.R.H. the Prince of, K.G.. K.T., G.C.S.I., G.C.M.G., G.C.I.E., G.C.V.O., G.B.E., M.C., Knight of the Order of St. Patrick</Text>
+      <Title>H.R.H.</Title>
+      <Text>the Prince of, K.G.. K.T., G.C.S.I., G.C.M.G., G.C.I.E., G.C.V.O., G.B.E., M.C., Knight of the Order of St. Patrick</Text>
       <PageNumber>3711</PageNumber>
     </MainItem>
     <SubItem>
@@ -566,7 +568,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>Brigadier General Montagu Grant C.B., C. M.G., M.V.O., Commander, Royal Victorian Order</Text>
+      <Title>Brigadier</Title>
+      <Text>General Montagu Grant C.B., C. M.G., M.V.O., Commander, Royal Victorian Order</Text>
       <PageNumber>3608</PageNumber>
     </MainItem>
     <SubItem>
@@ -654,7 +657,9 @@
   <ItemGroup>
     <MainItem>
       <Key>AVilson</Key>
-      <Text>, Colonel (temporary Colonel Commandant) Francis Adrian, C.M.G., D.S.O., Companion, Order of, the Bath ... ,</Text>
+      <Title>Colonel (temporary Colonel Commandant)</Title>
+      <Forenames>Francis Adrian</Forenames>
+      <Text>, C.M.G., D.S.O., Companion, Order of, the Bath ... ,</Text>
       <PageNumber>3605</PageNumber>
     </MainItem>
   </ItemGroup>

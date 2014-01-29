@@ -615,7 +615,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Faulkner</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>8343</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -692,7 +692,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fletcher</Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>6823</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -717,7 +717,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Flint</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>6372</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -763,14 +763,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Forrest</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>6547</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Forrester</Key>
-      <Text>P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>8272</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1230,7 +1230,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>8003</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1599,7 +1599,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Henniker</Key>
-      <Text>Sir R J. A</Text>
+      <Title>Sir</Title>
+      <Forenames>R</Forenames>
+      <Text>J. A</Text>
       <PageNumber>7049</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1650,7 +1652,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>S i</Text>
+      <Forenames>S</Forenames>
+      <Text>i</Text>
       <PageNumber>6443</PageNumber>
       <PageNumber>7125</PageNumber>
     </MainItem>

@@ -27,7 +27,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Addison</Key>
-      <Text>, DArcy Weutworth, Companion Imperial Service Order</Text>
+      <Text>DArcy Weutworth, Companion Imperial Service Order</Text>
       <PageNumber>6319</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -138,8 +138,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Flight Lt</Forenames>
-      <Text>.Walter Eraser, Companion, D.S.O</Text>
+      <Title>Flight Lt.</Title>
+      <Text>Walter Eraser, Companion, D.S.O</Text>
       <PageNumber>4019</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -163,7 +163,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Archer</Key>
-      <Text>, ! Geoffrejy Francis, C.M.G., Knight Commander, St. Michael &amp; St. George</Text>
+      <Text>! Geoffrejy Francis, C.M.G., Knight Commander, St. Michael &amp; St. George</Text>
       <PageNumber>6317</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -220,8 +220,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Baldwin</Key>
-      <Forenames>Stanlev</Forenames>
-      <Text>. M.P., Member of H.M. Privy Council</Text>
+      <Title>Stanlev.</Title>
+      <Text>M.P., Member of H.M. Privy Council</Text>
       <PageNumber>6313</PageNumber>
       <PageNumber>6461</PageNumber>
     </MainItem>
@@ -248,8 +248,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Banning</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Stephen Thomas, Commander, Order of the British Empire</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Stephen Thomas</Forenames>
+      <Text>, Commander, Order of the British Empire</Text>
       <PageNumber>6436</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -412,7 +413,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Birley</Key>
-      <Text>. Maj. Richard Archibald, Companion, D.S.O</Text>
+      <Text>Maj. Richard Archibald, Companion, D.S.O</Text>
       <PageNumber>6436</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -427,21 +428,23 @@
   <ItemGroup>
     <MainItem>
       <Key>Blair</Key>
-      <Text>. Frank Younger, Officer, Order of the British Empire</Text>
+      <Text>Frank Younger, Officer, Order of the British Empire</Text>
       <PageNumber>6038</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Blunt</Key>
-      <Text>, Maj. (T./Col.) Conrad Edward Grant, D.S.O., Officer, Order of the British Empire (corr. of rank)</Text>
+      <Title>Maj. (T./Col.)</Title>
+      <Forenames>Conrad Edward Grant</Forenames>
+      <Text>, D.S.O., Officer, Order of the British Empire (corr. of rank)</Text>
       <PageNumber>6439</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Bond</Key>
-      <Text>. Lt.-Col. Chetwynd Rokeby Alfred, C.B.E., Companion, Order of the Indian Empire</Text>
+      <Text>Lt.-Col. Chetwynd Rokeby Alfred, C.B.E., Companion, Order of the Indian Empire</Text>
       <PageNumber>6318</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -456,7 +459,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Boulton</Key>
-      <Text>. Adelaide Lucy, Lady, Lady of Grace, St. John of Jerusalem</Text>
+      <Text>Adelaide Lucy, Lady, Lady of Grace, St. John of Jerusalem</Text>
       <PageNumber>4341</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -489,7 +492,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brand</Key>
-      <Text>. Flight Lt. Christopher Joseph Quintin, D.S.O., M.C., D.F.C., Knight Commander, Order of the British Empire</Text>
+      <Text>Flight Lt. Christopher Joseph Quintin, D.S.O., M.C., D.F.C., Knight Commander, Order of the British Empire</Text>
       <PageNumber>5480</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -504,7 +507,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Brodie</Key>
-      <Text>, Qrmr. &amp; Capt. (T./Capt.) Harry Campbell, Member, Order of the British Empire (corr. of name and rank)</Text>
+      <Title>Qrmr.</Title>
+      <Text>&amp; Capt. (T./Capt.) Harry Campbell, Member, Order of the British Empire (corr. of name and rank)</Text>
       <PageNumber>6438</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -535,7 +539,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bruce</Key>
-      <Text>, 'T./Maj. Ewen Cameron, M.C., Companion, D.S.O</Text>
+      <Text>'T./Maj. Ewen Cameron, M.C., Companion, D.S.O</Text>
       <PageNumber>4693</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -651,8 +655,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Capper</Key>
-      <Title>Major</Title>
-      <Forenames>General</Forenames>
+      <Forenames>Major-General</Forenames>
       <Text>iSir John Edward, K.C.B., LieutenantGovernor of Guernsey</Text>
       <PageNumber>7002</PageNumber>
     </MainItem>
@@ -728,8 +731,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Clarke</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Gen. Sir Travers Edwards, K.C.M.G., C.B., Knight Commander, Order of the Bath</Text>
+      <Title>Lt.</Title>
+      <Text>-Gen. Sir Travers Edwards, K.C.M.G., C.B., Knight Commander, Order of the Bath</Text>
       <PageNumber>6316</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -813,9 +816,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cooke-Collis</Key>
-      <Title>Maj. and Bt.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>.Col. (T. /Brig.-&gt;Gen) William James Norman, C.M.G., D.S.O., Companion, Order of the Bath</Text>
+      <Title>Maj. and Bt. Lt.</Title>
+      <Text>Col. (T. /Brig.-&gt;Gen) William James Norman, C.M.G., D.S.O., Companion, Order of the Bath</Text>
       <PageNumber>6435</PageNumber>
     </MainItem>
   </ItemGroup>

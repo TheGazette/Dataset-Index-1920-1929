@@ -653,9 +653,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Skinner</Key>
-      <Title>Miss</Title>
-      <Forenames>Christian</Forenames>
-      <Text>. .aing, Member, Order of the Britiah Empire</Text>
+      <Title>Miss Christian .</Title>
+      <Text>.aing, Member, Order of the Britiah Empire</Text>
       <PageNumber>3860</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -698,7 +697,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sladen</Key>
-      <Text>, Lieut.-Comdr. Sampson, R.N., Knight Commander,Order of the British Empire</Text>
+      <Title>Lieut.</Title>
+      <Text>-Comdr. Sampson, R.N., Knight Commander,Order of the British Empire</Text>
       <PageNumber>3760</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -899,8 +899,9 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Arthur George Baird, Companion, D.S.O</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Arthur George Baird</Forenames>
+      <Text>, Companion, D.S.O</Text>
       <PageNumber>1218</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1005,7 +1006,9 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>2nd Lt. Eric Payton, Member, Order of the British Empire</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>Eric Payton</Forenames>
+      <Text>, Member, Order of the British Empire</Text>
       <PageNumber>1374</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -21,8 +21,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dalbiac</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. (Lt.-Col. and Hon. Col., ret., T.F.) P. H., C.B., T.D. (reverts to retd. list, having attained the age limit, and retains rank, with permission to wear prescribed uniform)</Text>
+      <Title>Lt.-Col.</Title>
+      <Text>(Lt.-Col. and Hon. Col., ret., T.F.) P. H., C.B., T.D. (reverts to retd. list, having attained the age limit, and retains rank, with permission to wear prescribed uniform)</Text>
       <PageNumber>7519</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -49,7 +49,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Dall</Key>
-      <Text>, Capt. (Hon. Maj., ret., T.F.) J., T.D. (reverts to ret. list, and retains rank, with permission to wear prescribed uniform)</Text>
+      <Title>Capt. (Hon. Maj., ret., T.F.)</Title>
+      <Forenames>J.</Forenames>
+      <Text>, T.D. (reverts to ret. list, and retains rank, with permission to wear prescribed uniform)</Text>
       <PageNumber>7442</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -85,7 +87,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Dalton</Key>
-      <Text>, 2nd Lt. J. H. P. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>J. H. P.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>7450</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -227,8 +231,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. (Hon. Lt.-Col. in Army) (Hon. Col., Staff, Yeo.) W. Bromley, C.M.G., C.B.E., D.S.O. (Col., T.F.R.)</Text>
+      <Title>Lt.-Col. (Hon. Lt.-Col. in Army) (Hon. Col., Staff, Yeo.)</Title>
+      <Forenames>W. Bromley</Forenames>
+      <Text>, C.M.G., C.B.E., D.S.O. (Col., T.F.R.)</Text>
       <PageNumber>7213</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -264,8 +269,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Davidson</Key>
-      <Forenames>Chapln</Forenames>
-      <Text>., 1st CI., Revd. H. M., M.A., V.D. (retired, having attained the age limit, and to be Hon. Chapln., 1st CI., with permission to wear prescribed uniform)</Text>
+      <Title>Chapln., 1st CI., Revd.</Title>
+      <Forenames>H. M.</Forenames>
+      <Text>, M.A., V.D. (retired, having attained the age limit, and to be Hon. Chapln., 1st CI., with permission to wear prescribed uniform)</Text>
       <PageNumber>7379</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -274,7 +280,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>2nd Lt. H. S. (Lt., 4th Bn., Border R., late Ser. Bns Seaforth)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>H. S.</Forenames>
+      <Text>(Lt., 4th Bn., Border R., late Ser. Bns Seaforth)</Text>
       <PageNumber>6146</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -304,8 +312,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Chapln</Forenames>
-      <Text>., 2nd Lt. Revd. R. S., B.D. (Chapln., 1st CI.)</Text>
+      <Title>Chapln., 2nd Lt. Revd.</Title>
+      <Forenames>R. S.</Forenames>
+      <Text>, B.D. (Chapln., 1st CI.)</Text>
       <PageNumber>7127</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -322,9 +331,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Davies</Key>
-      <Title>Hon.</Title>
-      <Forenames>Chapln</Forenames>
-      <Text>., 4th CI., Revd. Arthur Robert (Chapln., 4th CI.)</Text>
+      <Title>Hon. Chapln., 4th CI., Revd.</Title>
+      <Forenames>Arthur Robert</Forenames>
+      <Text>(Chapln., 4th CI.)</Text>
       <PageNumber>6146</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -367,9 +376,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Title>Hon.</Title>
-      <Forenames>Chapln</Forenames>
-      <Text>., 4th CI., Rev. Herbert Jocelym (Chapln., 4th CI.)</Text>
+      <Title>Hon. Chapln., 4th CI., Rev.</Title>
+      <Forenames>Herbert Jocelym</Forenames>
+      <Text>(Chapln., 4th CI.)</Text>
       <PageNumber>5796</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -521,14 +530,17 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>2nd Lt. R. G. (rel. commn., and retains rank of 2nd Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>R. G.</Forenames>
+      <Text>(rel. commn., and retains rank of 2nd Lt.)</Text>
       <PageNumber>6565</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Davison</Key>
-      <Text>, 2nd Lt.' R. L. (rel. commn.. and retains rank of 2nd Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Text>' R. L. (rel. commn.. and retains rank of 2nd Lt.)</Text>
       <PageNumber>6565</PageNumber>
     </MainItem>
   </ItemGroup>

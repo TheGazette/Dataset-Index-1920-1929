@@ -13,7 +13,7 @@
   <ItemGroup>
     <MainItem>
       <Key>May</Key>
-      <Text>.E.J.C</Text>
+      <Text>E.J.C</Text>
       <PageNumber>6879</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -42,7 +42,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Francis</Key>
-      <Text>, R '</Text>
+      <Forenames>R</Forenames>
+      <Text>'</Text>
       <PageNumber>4849</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -232,7 +233,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Browne</Key>
-      <Text>, R:H. J., C.B.E. (Sub. Not.)</Text>
+      <Forenames>R</Forenames>
+      <Text>:H. J., C.B.E. (Sub. Not.)</Text>
       <PageNumber>5741</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -562,7 +564,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wood</Key>
-      <Text>, 'J. T. (D.)</Text>
+      <Text>'J. T. (D.)</Text>
       <PageNumber>5249</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1073,9 +1075,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Brambleby</Key>
-      <Title>Payr.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>.-Cdr. B. C (placed on retd. list)</Text>
+      <Title>Payr. Lt.</Title>
+      <Text>-Cdr. B. C (placed on retd. list)</Text>
       <PageNumber>5741</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1245,9 +1246,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cumberland</Key>
-      <Title>Payr.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>.-Cdr. J. M., O.B.E. (placed on retd. list)</Text>
+      <Title>Payr. Lt.</Title>
+      <Text>-Cdr. J. M., O.B.E. (placed on retd. list)</Text>
       <PageNumber>6103</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1263,8 +1263,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dean</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Comdr. H. J. (placed on ~ retd. list)</Text>
+      <Title>Lt.</Title>
+      <Text>-Comdr. H. J. (placed on ~ retd. list)</Text>
       <PageNumber>6484</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1334,7 +1334,7 @@
   <ItemGroup>
     <MainItem>
       <Key>FelLJ</Key>
-      <Text>. E. (Engr.Lt.)</Text>
+      <Text>E. (Engr.Lt.)</Text>
       <PageNumber>4138</PageNumber>
     </MainItem>
   </ItemGroup>

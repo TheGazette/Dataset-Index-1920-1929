@@ -120,7 +120,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Curzon</Key>
-      <Text>, Captain Viscount, C.B.E., V.D., M.P., Lord Commissioner of His Majesty's Treasury</Text>
+      <Title>Captain Viscount</Title>
+      <Text>, C.B.E., V.D., M.P., Lord Commissioner of His Majesty's Treasury</Text>
       <PageNumber>5442</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -237,7 +238,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Deane</Key>
-      <Text>, Col. (temp. Col. Comdt.) Dennis, D.S.O., Companion, Order of the Bath</Text>
+      <Title>Col. (temp. Col. Comdt.)</Title>
+      <Forenames>Dennis</Forenames>
+      <Text>, D.S.O., Companion, Order of the Bath</Text>
       <PageNumber>4404</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -312,17 +315,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Dobbs</Key>
-      <Title>Maj. and Bt.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Richard Conway, D.S.O., Commander, Order of the British Empire</Text>
+      <Title>Maj. and Bt. Lt.-Col.</Title>
+      <Forenames>Richard Conway</Forenames>
+      <Text>, D.S.O., Commander, Order of the British Empire</Text>
       <PageNumber>4407</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Dodd</Key>
-      <Title>Edwin.</Title>
-      <Forenames>Knight</Forenames>
+      <Title>Edwin. Knight .</Title>
       <PageNumber>4402</PageNumber>
       <PageNumber>4707</PageNumber>
     </MainItem>
@@ -681,8 +683,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fowler</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Gen. Sir John Sharman, K.C.M.G., C.B., D.S.O., Knight Commander, Order of the Bath</Text>
+      <Title>Lt.</Title>
+      <Text>-Gen. Sir John Sharman, K.C.M.G., C.B., D.S.O., Knight Commander, Order of the Bath</Text>
       <PageNumber>4403</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -698,7 +700,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Freeth</Key>
-      <Text>, Capt. (local Maj.) Richard James Rolleston, M.C, Officer, Order of the British Empire</Text>
+      <Title>Capt. (local Maj.)</Title>
+      <Forenames>Richard James Rolleston</Forenames>
+      <Text>, M.C, Officer, Order of the British Empire</Text>
       <PageNumber>4407</PageNumber>
     </MainItem>
   </ItemGroup>

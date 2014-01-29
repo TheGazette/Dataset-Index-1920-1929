@@ -3,9 +3,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Macalpine-Leriy</Key>
-      <Title>Maj. and Bt.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>.Col. W. H., D.S.O. (rel. actg. rank of Lt.-Col.)</Text>
+      <Title>Maj. and Bt. Lt.</Title>
+      <Text>Col. W. H., D.S.O. (rel. actg. rank of Lt.-Col.)</Text>
       <PageNumber>5083</PageNumber>
     </MainItem>
     <SubItem>
@@ -25,7 +24,9 @@
   <ItemGroup>
     <MainItem>
       <Key>McArdle</Key>
-      <Text>, temp. 2nd Lt. M., D.C.M. (temp. Lt.) .. '</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>M.</Forenames>
+      <Text>, D.C.M. (temp. Lt.) .. '</Text>
       <PageNumber>5089</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -65,7 +66,9 @@
   <ItemGroup>
     <MainItem>
       <Key>McArthur</Key>
-      <Text>, 2nd Lt. G. C. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>G. C.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>7081</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -160,7 +163,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Macaulay</Key>
-      <Text>, 2nd Lt. E., M.M. (resigns commn.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>E.</Forenames>
+      <Text>, M.M. (resigns commn.)</Text>
       <PageNumber>6418</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -236,16 +241,17 @@
   <ItemGroup>
     <MainItem>
       <Key>MacBain</Key>
-      <Title>Maj. and temp. Acct.</Title>
-      <Forenames>Offr</Forenames>
-      <Text>., 4th CI., J.C., T.D. (granted perm, commn. as Capt. and Acct. Off., 4th CI.)</Text>
+      <Title>Maj. and temp. Acct. Offr., 4th CI.</Title>
+      <Text>, J.C., T.D. (granted perm, commn. as Capt. and Acct. Off., 4th CI.)</Text>
       <PageNumber>5677</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>McBarnet</Key>
-      <Text>, 2nd Lt. A. A. E. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>A. A. E.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>4550</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -317,7 +323,9 @@
   <ItemGroup>
     <MainItem>
       <Key>MacBnde</Key>
-      <Text>, 2nd Lt. C. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>C.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>4665</PageNumber>
     </MainItem>
     <SubItem>
@@ -372,7 +380,9 @@
   <ItemGroup>
     <MainItem>
       <Key>McClymont</Key>
-      <Text>, 2nd Lt. A. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>A.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>5456</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -381,7 +391,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>temp.' 2nd Lt. G. S. (rel. commn. on completion of service and retains rank of 2nd Lt.)</Text>
+      <Title>temp.</Title>
+      <Text>' 2nd Lt. G. S. (rel. commn. on completion of service and retains rank of 2nd Lt.)</Text>
       <PageNumber>4821</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -435,9 +446,9 @@
   <ItemGroup>
     <MainItem>
       <Key>McConaghy</Key>
-      <Title>Bt.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. J. G., D.S.O. (temp. Maj. whilst D.A.A. and Q.M.G. and D.A.A.G.)</Text>
+      <Title>Bt. Lt.-Col.</Title>
+      <Forenames>J. G.</Forenames>
+      <Text>, D.S.O. (temp. Maj. whilst D.A.A. and Q.M.G. and D.A.A.G.)</Text>
       <PageNumber>5454</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -462,7 +473,9 @@
   <ItemGroup>
     <MainItem>
       <Key>McConnell</Key>
-      <Text>, temp. 2nd Lt. D. McC. (rel. commn. on completion of service and granted rank of Maj.)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>D.</Forenames>
+      <Text>McC. (rel. commn. on completion of service and granted rank of Maj.)</Text>
       <PageNumber>6966</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -504,7 +517,9 @@
   <ItemGroup>
     <MainItem>
       <Key>McConville</Key>
-      <Text>, temp. 2nd Lt. M., M.C. (temp. Lt„ corr.)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>M.</Forenames>
+      <Text>, M.C. (temp. Lt„ corr.)</Text>
       <PageNumber>4217</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -531,14 +546,18 @@
       <Key>
         <KeyDitto>— ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>2nd Lt. J. I. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>J. I.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>6419</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>McCormick</Key>
-      <Text>, 2nd Lt. (now Lt.) H., M.C. (date of commn.)</Text>
+      <Title>2nd Lt. (now Lt.)</Title>
+      <Forenames>H.</Forenames>
+      <Text>, M.C. (date of commn.)</Text>
       <PageNumber>5702</PageNumber>
     </MainItem>
     <SubItem>

@@ -3,7 +3,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wyer</Key>
-      <Text>, temp. 'Lt. R. G. (pel. comnui. on completdon of service, and retains rank of Lt.)</Text>
+      <Title>temp.</Title>
+      <Text>'Lt. R. G. (pel. comnui. on completdon of service, and retains rank of Lt.)</Text>
       <PageNumber>5411</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -78,8 +79,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. (R. D. (h.p. Ifet, retires on ret. .pay on acc. of ill-health contracted on active service)</Text>
+      <Title>Lt.-Col.</Title>
+      <Text>(R. D. (h.p. Ifet, retires on ret. .pay on acc. of ill-health contracted on active service)</Text>
       <PageNumber>3632</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -106,7 +107,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wyilie</Key>
-      <Text>, 'temp. 2nd Lt. J. (temp. Lt. for serv. with the Nyasailand Field Force) ... ... '</Text>
+      <Text>'temp. 2nd Lt. J. (temp. Lt. for serv. with the Nyasailand Field Force) ... ... '</Text>
       <PageNumber>1182</PageNumber>
     </MainItem>
     <SubItem>
@@ -130,7 +131,9 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>temp. 2nd Lt. J. K. (temp. Lt.)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>J. K.</Forenames>
+      <Text>(temp. Lt.)</Text>
       <PageNumber>2573</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -159,7 +162,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wyilie</Key>
-      <Text>, 2ndLt. B. P. ,(.Lt.)</Text>
+      <Text>2ndLt. B. P. ,(.Lt.)</Text>
       <PageNumber>2891</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -174,7 +177,7 @@
       <PageNumber>1519</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Trd. to Gen. Res: of Offrs.</Text>
+      <Text>Trd. to Gen. Res: of Offrs</Text>
       <PageNumber>1521</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -230,7 +233,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Wynne</Key>
-      <Text>, 2nd Lt. A. C.(Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>A. C.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>807</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -290,9 +295,9 @@
   <ItemGroup>
     <MainItem>
       <Key>WynineEyton</Key>
-      <Title>temp.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. (Lt.Col. in Army) C. E. (red. temp, commn. on completion of service, and retains rank of Lt.Col.)</Text>
+      <Title>temp. Lt.-Col. (Lt.Col. in Army)</Title>
+      <Forenames>C. E.</Forenames>
+      <Text>(red. temp, commn. on completion of service, and retains rank of Lt.Col.)</Text>
       <PageNumber>3261</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -301,14 +306,18 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>temp. 2nd Lt. M. R. {rel. commn. on completion of service, and retains rank of . 2nd Lt.)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>M. R.</Forenames>
+      <Text>{rel. commn. on completion of service, and retains rank of . 2nd Lt.)</Text>
       <PageNumber>674</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Wyrail</Key>
-      <Text>, temp. 2nd Lt. E. (temp. Lt.)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>E.</Forenames>
+      <Text>(temp. Lt.)</Text>
       <PageNumber>3988</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -342,7 +351,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Yailop</Key>
-      <Text>, temp. Maj. (Dep. Commy. of Ord. and Capt., ret. pay) J. (rel. temp, commn. on ceasing to be empld., and granted rank of Maj.)</Text>
+      <Title>temp. Maj. (Dep. Commy. of Ord. and Capt., ret. pay)</Title>
+      <Forenames>J.</Forenames>
+      <Text>(rel. temp, commn. on ceasing to be empld., and granted rank of Maj.)</Text>
       <PageNumber>1205</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -358,7 +369,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Yardley</Key>
-      <Text>, temp. 2nd Lt. N. G. (rel. temp, rank of Capt. on ,ceasing to be Adjt. of Vol. Bn.)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>N. G.</Forenames>
+      <Text>(rel. temp, rank of Capt. on ,ceasing to be Adjt. of Vol. Bn.)</Text>
       <PageNumber>1362</PageNumber>
     </MainItem>
     <SubItem>
@@ -378,7 +391,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Yates</Key>
-      <Text>, Maj, C. M., M.V.O., C.B.E., M.C. (retires on ret. pay, and granted rank of Col.)</Text>
+      <Title>Maj</Title>
+      <Text>, C. M., M.V.O., C.B.E., M.C. (retires on ret. pay, and granted rank of Col.)</Text>
       <PageNumber>2266</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -410,11 +424,13 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>2nd Lt. R. L. , (resigns commn.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>R. L.</Forenames>
+      <Text>, (resigns commn.)</Text>
       <PageNumber>3745</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Trd. to Gen. Res. of Offrs.</Text>
+      <Text>Trd. to Gen. Res. of Offrs</Text>
       <PageNumber>3747</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -423,7 +439,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>temp. 2nd Lt. T. W. (temp. Lt.)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>T. W.</Forenames>
+      <Text>(temp. Lt.)</Text>
       <PageNumber>1063</PageNumber>
     </MainItem>
     <SubItem>
@@ -434,7 +452,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Yatman</Key>
-      <Text>, Maj. (Bt. Lt.-Col.) A. H., D.S.O. (rel. temp, rank of Lt.Col. on ceasing to comd. the 7th Serv. Bn., S. Wales Bord.), A. of 0</Text>
+      <Title>Maj. (Bt. Lt.-Col.)</Title>
+      <Forenames>A. H.</Forenames>
+      <Text>, D.S.O. (rel. temp, rank of Lt.Col. on ceasing to comd. the 7th Serv. Bn., S. Wales Bord.), A. of 0</Text>
       <PageNumber>415</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -470,7 +490,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Yeats</Key>
-      <Text>, temp. 2nd Lt. G. (rel. commn. on completion of serand retains rank of 2nd Lt.)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>G.</Forenames>
+      <Text>(rel. commn. on completion of serand retains rank of 2nd Lt.)</Text>
       <PageNumber>2169</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -514,11 +536,13 @@
   <ItemGroup>
     <MainItem>
       <Key>Yetts</Key>
-      <Text>, temp. 2nd Lt. E. M. (temp. Lt.)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>E. M.</Forenames>
+      <Text>(temp. Lt.)</Text>
       <PageNumber>2743</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Rel. commn. on completion of service, and retains rank of Lt.</Text>
+      <Text>Rel. commn. on completion of service, and retains rank of Lt</Text>
       <PageNumber>2984</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -553,7 +577,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Yorkfiton</Key>
-      <Text>, . temp'Lt. A. B. (red. oommn. on completion of service, and retains rank of Lt.)</Text>
+      <Text>. temp'Lt. A. B. (red. oommn. on completion of service, and retains rank of Lt.)</Text>
       <PageNumber>2894</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -580,7 +604,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Youle</Key>
-      <Text>, temp. Capt. (actg. Maj.) J. S. (rel. commn. on acc. of illhealth caused by wounds, and granted rank of Maj.)</Text>
+      <Title>temp. Capt. (actg. Maj.)</Title>
+      <Forenames>J. S.</Forenames>
+      <Text>(rel. commn. on acc. of illhealth caused by wounds, and granted rank of Maj.)</Text>
       <PageNumber>2044</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -620,8 +646,9 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. C. H. (h.p. list, retires on ret. pay)</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>C. H.</Forenames>
+      <Text>(h.p. list, retires on ret. pay)</Text>
       <PageNumber>1520</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -630,7 +657,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>temp., Lt. C. J. M., M.C. (actg. Maj.)</Text>
+      <Title>temp., Lt.</Title>
+      <Forenames>C. J. M.</Forenames>
+      <Text>, M.C. (actg. Maj.)</Text>
       <PageNumber>1358</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -650,8 +679,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. E. D., C.M.G: (Bt. Col.)</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>E. D.</Forenames>
+      <Text>, C.M.G: (Bt. Col.)</Text>
       <PageNumber>1379</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -682,7 +712,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>Capt..' F. H. McL. {restd. to estabt.)</Text>
+      <Title>Capt.</Title>
+      <Text>.' F. H. McL. {restd. to estabt.)</Text>
       <PageNumber>488</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -768,7 +799,8 @@
       <Key>
         <KeyDitto>— ___ ___</KeyDitto>
       </Key>
-      <Text>Capt. (Hon. Maj., ret!, Vols.) 6 W. (rel. temp, rank of Maj. om ceasing to be empld. with Lab. Corps.)</Text>
+      <Title>Capt. (Hon. Maj., ret!, Vols.)</Title>
+      <Text>6 W. (rel. temp, rank of Maj. om ceasing to be empld. with Lab. Corps.)</Text>
       <PageNumber>1539</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -788,7 +820,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>temp. 2nd Lt. R., M.C. (temp. Lt.)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>R.</Forenames>
+      <Text>, M.C. (temp. Lt.)</Text>
       <PageNumber>2733</PageNumber>
     </MainItem>
     <SubItem>
@@ -823,7 +857,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>2nd Lt. R. H. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>R. H.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>184</PageNumber>
     </MainItem>
   </ItemGroup>

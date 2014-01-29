@@ -37,15 +37,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Daft</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.. A. E. (resigns comnin. and retains rank of Lt.)</Text>
+      <Title>Lt.</Title>
+      <Text>. A. E. (resigns comnin. and retains rank of Lt.)</Text>
       <PageNumber>9287</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Dainton</Key>
-      <Text>2nd Lt. i(temp. Lt.) A. H. (rel. commn. and granted rank of Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Text>i(temp. Lt.) A. H. (rel. commn. and granted rank of Lt.)</Text>
       <PageNumber>9363</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -89,7 +90,7 @@
       <PageNumber>8564</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Resigns comnui. and retains rank of Lt</Text>
+      <Text>Resigns comnui. and retains rank of Lt.</Text>
       <PageNumber>8944</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -107,7 +108,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Dalziel</Key>
-      <Text>2nd Lt. E. G., M.C.(Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>E. G.</Forenames>
+      <Text>, M.C.(Lt.)</Text>
       <PageNumber>7571</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -151,7 +154,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Dancer</Key>
-      <Text>2nd Lt. L. {Lt.) Rel. commn. oia acc. of illhealth caused by wounds, and retains rank of Lt. {Sub. ;.\ot.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>L.</Forenames>
+      <Text>{Lt.) Rel. commn. oia acc. of illhealth caused by wounds, and retains rank of Lt. {Sub. ;.\ot.)</Text>
       <PageNumber>7649</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -160,7 +165,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ —</KeyDitto>
       </Key>
-      <Text>2nd Lt. (W. H. T. (trd. from Ser. Bn., Lanes. Fus., to 7th Bn.., Welch Regt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Text>(W. H. T. (trd. from Ser. Bn., Lanes. Fus., to 7th Bn.., Welch Regt.)</Text>
       <PageNumber>8685</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -182,7 +188,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>C N. (resigns commn. Lt. H. granted rank of Capt.)</Text>
+      <Forenames>C</Forenames>
+      <Text>N. (resigns commn. Lt. H. granted rank of Capt.)</Text>
       <PageNumber>7940</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -205,7 +212,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Dare</Key>
-      <Text>2nd Lt. (temp. Lt.) A. G. i(Lt.)</Text>
+      <Title>2nd Lt. (temp. Lt.)</Title>
+      <Forenames>A. G.</Forenames>
+      <Text>i(Lt.)</Text>
       <PageNumber>8260</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -277,14 +286,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Darvill</Key>
-      <Text>2nd Lt. ,,temp. Lt.) H. D. (TA.) ..: ... nooO Darwin, . Lt. C. G. M.C. (rel. commn. and retains rank)</Text>
+      <Title>2nd Lt.</Title>
+      <Text>,,temp. Lt.) H. D. (TA.) ..: ... nooO Darwin, . Lt. C. G. M.C. (rel. commn. and retains rank)</Text>
       <PageNumber>7755</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Dauibuz</Key>
-      <Text>Maj. C, O.B.E., M.C. (rel. appt. of Adjt., 3rd East Anglian Bde.)</Text>
+      <Title>Maj.</Title>
+      <Forenames>C</Forenames>
+      <Text>, O.B.E., M.C. (rel. appt. of Adjt., 3rd East Anglian Bde.)</Text>
       <PageNumber>9041</PageNumber>
     </MainItem>
     <SubItem>
@@ -356,8 +368,8 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Forenames>End Lt</Forenames>
-      <Text>. (temp. Lt.) H. L. t^t.)</Text>
+      <Forenames>End</Forenames>
+      <Text>Lt. (temp. Lt.) H. L. t^t.)</Text>
       <PageNumber>8047</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -406,8 +418,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>. R, , (resigns coimnui, and d retains rank of Lt.) Davies, 2nd Lt. A. (resigns commm</Text>
+      <Title>Lt.</Title>
+      <Forenames>R</Forenames>
+      <Text>, , (resigns coimnui, and d retains rank of Lt.) Davies, 2nd Lt. A. (resigns commm</Text>
       <PageNumber>7549</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -431,7 +444,9 @@
       <Key>
         <KeyDitto>— ___</KeyDitto>
       </Key>
-      <Text>2nd Lt. C. M. W. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>C. M. W.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>9042</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -440,7 +455,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>2nd Lt. Edmund Archibald (trd. to 1st Bn., South Midland IDiv. Engrs.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>Edmund Archibald</Forenames>
+      <Text>(trd. to 1st Bn., South Midland IDiv. Engrs.)</Text>
       <PageNumber>7932</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -471,8 +488,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>. :K. H. (Capt.)</Text>
+      <Title>Lt.</Title>
+      <Text>:K. H. (Capt.)</Text>
       <PageNumber>8169</PageNumber>
     </MainItem>
     <SubItem>
@@ -583,7 +600,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Davies-Evans</Key>
-      <Text>Maj. ID. W. iC, D.'S.O., T.D. (trd. from Pembroke Yeo. to 4th Bn., Welch R.\ Lt.-Col</Text>
+      <Title>Maj.</Title>
+      <Text>ID. W. iC, D.'S.O., T.D. (trd. from Pembroke Yeo. to 4th Bn., Welch R.\ Lt.-Col</Text>
       <PageNumber>7298</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -592,7 +610,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>Maj. II. (trd. to 5th Pembroke A.F.A. Bde.)</Text>
+      <Title>Maj.</Title>
+      <Text>II. (trd. to 5th Pembroke A.F.A. Bde.)</Text>
       <PageNumber>7096</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -634,8 +653,8 @@
       <Key>
         <KeyDitto>___ ___ —.—</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>. iE: M. (resigns commh. and retains rank of Lt.)</Text>
+      <Title>Lt.</Title>
+      <Text>iE: M. (resigns commh. and retains rank of Lt.)</Text>
       <PageNumber>9139</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -663,8 +682,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Davis</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. R, G., M.C. {restd. to estabt. on ceasing to be empld. -with Tank Corps)</Text>
+      <Title>Lt.</Title>
+      <Forenames>R</Forenames>
+      <Text>, G., M.C. {restd. to estabt. on ceasing to be empld. -with Tank Corps)</Text>
       <PageNumber>7735</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -723,7 +743,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>2nd Lt. R. P. (trd. to 2nd London Divnl. Train, R.A.S.C., T.F.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>R. P.</Forenames>
+      <Text>(trd. to 2nd London Divnl. Train, R.A.S.C., T.F.)</Text>
       <PageNumber>6143</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -770,7 +792,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>2nd Lt. H. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>H.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>9196</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -801,12 +825,13 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ .</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (actg. Capt.) J. M. (rel. actg. rank of. Capt.)</Text>
+      <Title>Lt. (actg. Capt.)</Title>
+      <Forenames>J. M.</Forenames>
+      <Text>(rel. actg. rank of. Capt.)</Text>
       <PageNumber>8154</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Resigns commn. and granted rank of 'Capt</Text>
+      <Text>Resigns commn. and granted rank of 'Capt.</Text>
       <PageNumber>8154</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -868,7 +893,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>2nd Lt. William Newton (trd. from 7th Bn., Wore. Regt., to 9th (West Riding and Staffs) Med. Bde.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>William Newton</Forenames>
+      <Text>(trd. from 7th Bn., Wore. Regt., to 9th (West Riding and Staffs) Med. Bde.)</Text>
       <PageNumber>8561</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -904,8 +931,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Daynes</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. G. W., T.D. (trd. to T.iF.R.)</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>G. W.</Forenames>
+      <Text>, T.D. (trd. to T.iF.R.)</Text>
       <PageNumber>7650</PageNumber>
     </MainItem>
   </ItemGroup>

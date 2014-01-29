@@ -101,7 +101,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Coventry</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>7188</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -115,7 +115,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cuddeford</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>7339</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -129,7 +129,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dar</Key>
-      <Text>by, G. S</Text>
+      <Text>.by, G. S</Text>
       <PageNumber>7531</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -197,8 +197,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dina</Key>
-      <Forenames>Nath</Forenames>
-      <Text>... '</Text>
+      <Title>Nath .</Title>
+      <Text>.. '</Text>
       <PageNumber>7004</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -227,7 +227,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dunlop</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>7188</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -381,7 +381,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Geddes</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>8056</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -520,7 +520,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hesketh</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>6625</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -667,7 +667,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Johnson</Key>
-      <Forenames>Arthur</Forenames>
+      <Title>Arthur .</Title>
       <PageNumber>8055</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -676,7 +676,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>Q</Text>
+      <Forenames>Q</Forenames>
       <PageNumber>6626</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -707,7 +707,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Karam</Key>
-      <Forenames>Ali</Forenames>
+      <Title>Ali .</Title>
       <PageNumber>7340</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -728,7 +728,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kruttiventi</Key>
-      <Forenames>Perraju</Forenames>
+      <Title>Perraju .</Title>
       <PageNumber>7188</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -966,14 +966,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Rabindranath</Key>
-      <Text>Basu</Text>
+      <Text>. Basu</Text>
       <PageNumber>18056</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Rangrao</Key>
-      <Forenames>Khisty</Forenames>
+      <Title>Khisty .</Title>
       <PageNumber>7188</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1042,7 +1042,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sampson</Key>
-      <Text>W, H</Text>
+      <Forenames>W</Forenames>
+      <Text>, H</Text>
       <PageNumber>7004</PageNumber>
       <PageNumber>7746</PageNumber>
     </MainItem>
@@ -1057,8 +1058,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sarjiwan</Key>
-      <Forenames>Lai</Forenames>
-      <Text>.&lt;3o_nsuI</Text>
+      <Title>Lai .</Title>
+      <Text>&lt;3o_nsuI</Text>
       <PageNumber>8374</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1205,7 +1206,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Srish</Key>
-      <Text>Kumar Banerji ... ,</Text>
+      <Text>.Kumar Banerji ... ,</Text>
       <PageNumber>7188</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1235,8 +1236,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sultan</Key>
-      <Title>Mohammad .</Title>
-      <Forenames>Khan</Forenames>
+      <Title>Mohammad .Khan .</Title>
       <PageNumber>8247</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1335,7 +1335,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Varadaraju</Key>
-      <Text>.. ,</Text>
+      <Text>... ,</Text>
       <PageNumber>7340</PageNumber>
     </MainItem>
   </ItemGroup>

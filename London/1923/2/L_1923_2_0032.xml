@@ -3,7 +3,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Rollinson</Key>
-      <Text>, Capt. (A-Maj.) Harry Dudley, Officer, Order of the British Empire (correction)</Text>
+      <Title>Capt. (A-Maj.)</Title>
+      <Forenames>Harry Dudley</Forenames>
+      <Text>, Officer, Order of the British Empire (correction)</Text>
       <PageNumber>4512</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -26,7 +28,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Ross</Key>
-      <Text>, Col. (temp. Col. Comdt.) Harry, CLE., D.S.O., Companion, Order of the Bath</Text>
+      <Title>Col. (temp. Col. Comdt.)</Title>
+      <Forenames>Harry</Forenames>
+      <Text>, CLE., D.S.O., Companion, Order of the Bath</Text>
       <PageNumber>3944</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -80,7 +84,7 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>. Johnston, Bt., Lt. Col. Thomas Reginald, Companion, St. Michael and St. George</Text>
+      <Text>Johnston, Bt., Lt. Col. Thomas Reginald, Companion, St. Michael and St. George</Text>
       <PageNumber>3946</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -145,7 +149,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Schuster</Key>
-      <Text>,* Sir Arthur, LL.D., D.Sc, F.R.S., Member, of the Senate of the University of London</Text>
+      <Text>* Sir Arthur, LL.D., D.Sc, F.R.S., Member, of the Senate of the University of London</Text>
       <PageNumber>2798</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -263,8 +267,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Shee</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Martin Archer, C.M.G., D.S.O., M.P. .See Archer-Shee, Lt.-Col. Martin Archer, C.MG., D.S.O., M.P. Sheepshanks, Maj. Richard Hasell, D.S.O., Member, Royal Victorian Order</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Martin Archer</Forenames>
+      <Text>, C.M.G., D.S.O., M.P. .See Archer-Shee, Lt.-Col. Martin Archer, C.MG., D.S.O., M.P. Sheepshanks, Maj. Richard Hasell, D.S.O., Member, Royal Victorian Order</Text>
       <PageNumber>3947</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -380,9 +385,9 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Title>Maj. and Bt.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. (temp. Col.) Leonard Kirke, D.S.O., Commander, Order British Empire</Text>
+      <Title>Maj. and Bt. Lt.-Col. (temp. Col.)</Title>
+      <Forenames>Leonard Kirke</Forenames>
+      <Text>, D.S.O., Commander, Order British Empire</Text>
       <PageNumber>3948</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -423,15 +428,18 @@
   <ItemGroup>
     <MainItem>
       <Key>Spencer-Smith</Key>
-      <Text>, Maj. (local Lt.Col.) Drummond Cospatrick, Officer, Order of the British Empire</Text>
+      <Title>Maj. (local Lt.Col.)</Title>
+      <Forenames>Drummond Cos-</Forenames>
+      <Text>patrick, Officer, Order of the British Empire</Text>
       <PageNumber>3948</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Spender-Clay</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Herbert Henry, C.M.G., M.C, M.P., Charity Commisioner for England and Wales</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Herbert Henry</Forenames>
+      <Text>, C.M.G., M.C, M.P., Charity Commisioner for England and Wales</Text>
       <PageNumber>3048</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -579,7 +587,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Swinton</Key>
-      <Text>, Col. (Hon. Maj.-Gen.) Ernest Dunlon, C.B., D.S.O., Knight Commander, Order of the British Empire</Text>
+      <Title>Col. (Hon. Maj.-Gen.)</Title>
+      <Forenames>Ernest Dunlon</Forenames>
+      <Text>, C.B., D.S.O., Knight Commander, Order of the British Empire</Text>
       <PageNumber>3947</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -266,8 +266,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Willis</Key>
-      <Title>Major</Title>
-      <Forenames>General Edward Henry</Forenames>
+      <Forenames>Major-General Edward Henry</Forenames>
       <Text>, C.B., C.M.G., Lieutenant Governor of Jersey</Text>
       <PageNumber>3312</PageNumber>
     </MainItem>
@@ -466,8 +465,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Sergt</Forenames>
-      <Text>.-Major 1st Class, Harry, Member, Order of the British Empire</Text>
+      <Title>Sergt.</Title>
+      <Text>-Major 1st Class, Harry, Member, Order of the British Empire</Text>
       <PageNumber>3675</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -553,7 +552,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>Brig. General Wallace Duffield, V.C., M.P. for Tavistock</Text>
+      <Title>Brig.</Title>
+      <Text>General Wallace Duffield, V.C., M.P. for Tavistock</Text>
       <PageNumber>4108</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -761,7 +761,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bucknall</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>2763</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -783,7 +783,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cardew</Key>
-      <Text>R, W</Text>
+      <Forenames>R</Forenames>
+      <Text>, W</Text>
       <PageNumber>3586</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -921,7 +922,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Harding-Newman</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>3239</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -950,7 +951,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ingham</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>2850</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -352,7 +352,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Christie</Key>
-      <Text>C, M.C. (temp. Capt.)</Text>
+      <Forenames>C</Forenames>
+      <Text>, M.C. (temp. Capt.)</Text>
       <PageNumber>3254</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -708,7 +709,7 @@
       <PageNumber>3745</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Granted rank of temp. Maj</Text>
+      <Text>Granted rank of temp. Maj.</Text>
       <PageNumber>3745</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -894,14 +895,15 @@
       <PageNumber>3512</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Temp. Lt., corr. of rank (Sub. Not</Text>
+      <Text>Temp. Lt., corr. of rank (Sub. Not.</Text>
       <PageNumber>5220</PageNumber>
     </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Clifford</Key>
-      <Text>R S. (temp. Lt.)</Text>
+      <Forenames>R</Forenames>
+      <Text>S. (temp. Lt.)</Text>
       <PageNumber>3636</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1151,7 +1153,7 @@
       <PageNumber>3513</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Rel. commn</Text>
+      <Text>Rel. commn.</Text>
       <PageNumber>4808</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1203,8 +1205,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Collas</Key>
-      <Forenames>Cart</Forenames>
-      <Text>. (Maj., ret.) F. J., O.B.E., M.C. (temp. Capt.)</Text>
+      <Title>Cart. (Maj., ret.)</Title>
+      <Forenames>F. J.</Forenames>
+      <Text>, O.B.E., M.C. (temp. Capt.)</Text>
       <PageNumber>4978</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1632,7 +1635,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>(temp. 2nd Lt.)</Text>
+      <Title>(temp. 2nd Lt.)</Title>
       <PageNumber>3732</PageNumber>
     </MainItem>
     <SubItem>
@@ -1665,7 +1668,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>(temp. Capt.)</Text>
+      <Title>(temp. Capt.)</Title>
       <PageNumber>3646</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1709,7 +1712,7 @@
       <PageNumber>3993</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Temp. Capt</Text>
+      <Text>Temp. Capt.</Text>
       <PageNumber>3993</PageNumber>
     </SubItem>
   </ItemGroup>

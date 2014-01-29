@@ -98,7 +98,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Monro</Key>
-      <Text>, Sir CO</Text>
+      <Title>Sir</Title>
+      <Text>CO</Text>
       <PageNumber>3762</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -411,7 +412,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Nunburnholme</Key>
-      <Text>, Lord</Text>
+      <Title>Lord</Title>
       <PageNumber>2765</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -483,14 +484,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Oldman</Key>
-      <Text>, R, D. F</Text>
+      <Forenames>R</Forenames>
+      <Text>, D. F</Text>
       <PageNumber>3905</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Olver</Key>
-      <Text>, H :</Text>
+      <Forenames>H</Forenames>
+      <Text>:</Text>
       <PageNumber>4044</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -505,7 +508,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Osborne</Key>
-      <Text>, F Osmond, M. A. G</Text>
+      <Forenames>F</Forenames>
+      <Text>Osmond, M. A. G</Text>
       <PageNumber>2570</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -644,7 +648,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Peachey</Key>
-      <Text>, CD</Text>
+      <Text>CD</Text>
       <PageNumber>3124</PageNumber>
       <PageNumber>3125</PageNumber>
     </MainItem>
@@ -674,14 +678,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Peffers</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>3056</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Pegg</Key>
-      <Text>, S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>3631</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -728,7 +732,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Petit</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>3209</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -814,7 +818,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pitt</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>2126</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -867,7 +871,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>2961</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1313,7 +1317,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Row</Key>
-      <Text>, C M</Text>
+      <Forenames>C</Forenames>
+      <Text>M</Text>
       <PageNumber>2213</PageNumber>
     </MainItem>
   </ItemGroup>

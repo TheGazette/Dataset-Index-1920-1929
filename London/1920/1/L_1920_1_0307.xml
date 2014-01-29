@@ -23,28 +23,36 @@
   <ItemGroup>
     <MainItem>
       <Key>Kessell</Key>
-      <Text>, Capt. (temp. Maj.) C. E. (resigns commn. and granted rank of Maj.)</Text>
+      <Title>Capt. (temp. Maj.)</Title>
+      <Forenames>C. E.</Forenames>
+      <Text>(resigns commn. and granted rank of Maj.)</Text>
       <PageNumber>2153</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Resting</Key>
-      <Text>, temp. 2nd Lt. R. F. (rel. commn. on completion of service and retains rank of 2nd Lt )</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>R. F.</Forenames>
+      <Text>(rel. commn. on completion of service and retains rank of 2nd Lt )</Text>
       <PageNumber>3289</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Keswick</Key>
-      <Text>, 2nd Lt. H. G. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>H. G.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>318</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Ketley</Key>
-      <Text>, 2nd Lt. R. E. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>R. E.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>1348</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -75,7 +83,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Kettle</Key>
-      <Text>, temp. 2nd Lt. D. F. (rel. commn. on completion of service and retains rank of 2nd Lt.)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>D. F.</Forenames>
+      <Text>(rel. commn. on completion of service and retains rank of 2nd Lt.)</Text>
       <PageNumber>688</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -100,7 +110,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Kewley</Key>
-      <Text>, Capt. (Bt. Maj.) E. R., D.S.O., M.C. (restd. to estabt.)</Text>
+      <Title>Capt. (Bt. Maj.)</Title>
+      <Forenames>E. R.</Forenames>
+      <Text>, D.S.O., M.C. (restd. to estabt.)</Text>
       <PageNumber>1775</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -149,8 +161,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Keyes</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. A. J. H. (temp. Lt.-Col. whilst an A. A. and Q.M.G.)</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>A. J. H.</Forenames>
+      <Text>(temp. Lt.-Col. whilst an A. A. and Q.M.G.)</Text>
       <PageNumber>182</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -189,7 +202,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Keywood</Key>
-      <Text>, temp. 2nd Lt. H. A. (temp. Lt.)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>H. A.</Forenames>
+      <Text>(temp. Lt.)</Text>
       <PageNumber>2746</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -246,7 +261,9 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>temp. 2nd Lt. H. L. (temp. Lt.)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>H. L.</Forenames>
+      <Text>(temp. Lt.)</Text>
       <PageNumber>806</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -277,21 +294,25 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>2nd Lt. W...D. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>W.</Forenames>
+      <Text>..D. (Lt.)</Text>
       <PageNumber>3424</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Kidman</Key>
-      <Text>, temp. 2nd Lt. C. W., M.M. (temp. Lt.)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>C. W.</Forenames>
+      <Text>, M.M. (temp. Lt.)</Text>
       <PageNumber>1195</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Kidner</Key>
-      <Text>, temp: Capt. Charles H. (rel. commn. on ceasing to be a Dental Surgeon and retains tank of Capt.)</Text>
+      <Text>temp: Capt. Charles H. (rel. commn. on ceasing to be a Dental Surgeon and retains tank of Capt.)</Text>
       <PageNumber>317</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -318,9 +339,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Kilbride</Key>
-      <Title>temp.</Title>
-      <Forenames>Chapln</Forenames>
-      <Text>. 4th CI. Rev. P. A. (rel. commn. and to be Hon. Chapln. 4th CI.)</Text>
+      <Title>temp. Chapln. 4th CI. Rev.</Title>
+      <Forenames>P. A.</Forenames>
+      <Text>(rel. commn. and to be Hon. Chapln. 4th CI.)</Text>
       <PageNumber>1073</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -336,7 +357,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Kilcoin</Key>
-      <Text>, 2nd Lt. C. L. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>C. L.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>1533</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -378,14 +401,18 @@
   <ItemGroup>
     <MainItem>
       <Key>Killin</Key>
-      <Text>, temp. 2nd Lt. W. (temp. Lt.)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>W.</Forenames>
+      <Text>(temp. Lt.)</Text>
       <PageNumber>1778</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Kilmister</Key>
-      <Text>, temp. 2nd Lt. A. C. (temp. Lt.)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>A. C.</Forenames>
+      <Text>(temp. Lt.)</Text>
       <PageNumber>1348</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -398,7 +425,7 @@
       <PageNumber>1082</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Rel. commn. on acc. of illhealth caused by wounds and retains rank of Capt.</Text>
+      <Text>Rel. commn. on acc. of illhealth caused by wounds and retains rank of Capt</Text>
       <PageNumber>1082</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -460,7 +487,9 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>temp. 2nd Lt. A. (R.A.S.C.) (temp. Lt.)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>A.</Forenames>
+      <Text>(R.A.S.C.) (temp. Lt.)</Text>
       <PageNumber>2890</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -508,7 +537,7 @@
       <PageNumber>2310</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Rel. commn. on completion of service and retainb rank of Capt.</Text>
+      <Text>Rel. commn. on completion of service and retainb rank of Capt</Text>
       <PageNumber>2999</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -539,9 +568,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Title>temp.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. C. F.. D.S.O., M.C. (rel. commn. on completion of service and retains rank of Lt.-Col.)</Text>
+      <Title>temp. Lt.-Col.</Title>
+      <Forenames>C. F.</Forenames>
+      <Text>. D.S.O., M.C. (rel. commn. on completion of service and retains rank of Lt.-Col.)</Text>
       <PageNumber>321</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -550,7 +579,9 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>2nd Lt. C. H. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>C. H.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>689</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -581,8 +612,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>. E G., M.C. (actg. Capt. whilst empld. with R.E.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>E</Forenames>
+      <Text>G., M.C. (actg. Capt. whilst empld. with R.E.)</Text>
       <PageNumber>1062</PageNumber>
     </MainItem>
     <SubItem>
@@ -640,7 +672,9 @@
         <PageNumber>___ ___ ___ ___ ___ ___ ___ ___ ___ ___</PageNumber>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>King, Capt. G. R. (rel. temp, rank of Maj. on reduction of Estabt.)</Text>
+      <Title>King, Capt.</Title>
+      <Forenames>G. R.</Forenames>
+      <Text>(rel. temp, rank of Maj. on reduction of Estabt.)</Text>
       <PageNumber>3634</PageNumber>
     </MainItem>
     <SubItem>
@@ -686,7 +720,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>2nd Lt. J. E. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>J. E.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>2266</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -695,7 +731,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>temp. 2nd Lt. M. H. (temp. Lt.) f</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>M. H.</Forenames>
+      <Text>(temp. Lt.) f</Text>
       <PageNumber>1060</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -726,7 +764,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>2nd Lt. R. H. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>R. H.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>1663</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -746,7 +786,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>temp. 2nd Lt. S. E. E. (temp. Lt.) :</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>S. E. E.</Forenames>
+      <Text>(temp. Lt.) :</Text>
       <PageNumber>1523</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -788,7 +830,9 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>temp. 2nd Lt. T. MacA. (temp. Lt.)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>T.</Forenames>
+      <Text>MacA. (temp. Lt.)</Text>
       <PageNumber>1814</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -808,7 +852,9 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>temp. Capt. (Lt., T.F.) W. E. ' (rel. actg. rank of Maj. on . ceasing to comd. a Co.)</Text>
+      <Title>temp. Capt. (Lt., T.F.)</Title>
+      <Forenames>W. E.</Forenames>
+      <Text>' (rel. actg. rank of Maj. on . ceasing to comd. a Co.)</Text>
       <PageNumber>939</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -902,7 +948,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Kingston</Key>
-      <Text>, 2nd Lt. A. J. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>A. J.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>184</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -911,8 +959,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Dt</Forenames>
-      <Text>.C. G. (resigns commn. and retains rank of Lt.)</Text>
+      <Title>Dt.</Title>
+      <Text>C. G. (resigns commn. and retains rank of Lt.)</Text>
       <PageNumber>2269</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -961,7 +1009,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kingwell</Key>
-      <Text>, temp.. Lt. W. E. (actg. Capt. whilst comdg. a Sec. Divnl. Ammn. Col.), Sub. Not</Text>
+      <Title>temp.</Title>
+      <Text>. Lt. W. E. (actg. Capt. whilst comdg. a Sec. Divnl. Ammn. Col.), Sub. Not</Text>
       <PageNumber>670</PageNumber>
     </MainItem>
   </ItemGroup>

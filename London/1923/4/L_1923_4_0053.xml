@@ -74,7 +74,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Grantham</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>6752</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -219,7 +219,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Laing</Key>
-      <Text>. M. B</Text>
+      <Text>M. B</Text>
       <PageNumber>6752</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -438,7 +438,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Robertson</Key>
-      <Text>, CP</Text>
+      <Text>CP</Text>
       <PageNumber>6753</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -584,14 +584,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Thorman</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>6752</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Tidd</Key>
-      <Text>, C B</Text>
+      <Forenames>C</Forenames>
+      <Text>B</Text>
       <PageNumber>6752</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -709,7 +710,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hill</Key>
-      <Text>, Sir R</Text>
+      <Title>Sir</Title>
+      <Forenames>R</Forenames>
       <PageNumber>7114</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -869,7 +871,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fergusson</Key>
-      <Text>, .G. D. G</Text>
+      <Text>.G. D. G</Text>
       <PageNumber>9028</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -942,7 +944,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Smith</Key>
-      <Text>, C E; Roach-, see RoachSmith, C. E. Wolstencroft, J</Text>
+      <Forenames>C</Forenames>
+      <Text>E; Roach-, see RoachSmith, C. E. Wolstencroft, J</Text>
       <PageNumber>8638</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -952,7 +955,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rotter</Key>
-      <Text>. C J. E</Text>
+      <Text>C J. E</Text>
       <PageNumber>7946</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -961,7 +964,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rotter</Key>
-      <Text>, C J. E</Text>
+      <Forenames>C</Forenames>
+      <Text>J. E</Text>
       <PageNumber>7659</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -993,10 +997,9 @@
       <Forenames>J. A. B .</Forenames>
       <PageNumber>6661</PageNumber>
     </MainItem>
-    <SubSubSectionTitle>
-      <Text>Betired List</Text>
-    </SubSubSectionTitle>
+    <SubSubSectionTitle>Betired List</SubSubSectionTitle>
     <SubItem>
+      <Text>Betired List.</Text>
       <PageNumber>8446</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1025,7 +1028,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Doe</Key>
-      <Text>. D. C</Text>
+      <Text>D. C</Text>
       <PageNumber>7114</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1084,7 +1087,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Flynn</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>8721</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1227,7 +1230,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dowdy</Key>
-      <Text>, D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>7947</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1307,7 +1310,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Unman</Key>
-      <Text>,' S. N</Text>
+      <Text>' S. N</Text>
       <PageNumber>7763</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -697,7 +697,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Fitzwilliams</Key>
-      <Text>, Capt. (A/Lt. Col.) Duncan Campbell Lloyd, M.D., F.R.C.S., Companion St. Michael and St. George</Text>
+      <Title>Capt. (A/Lt. Col.)</Title>
+      <Forenames>Duncan Campbell Lloyd</Forenames>
+      <Text>, M.D., F.R.C.S., Companion St. Michael and St. George</Text>
       <PageNumber>1373</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -794,8 +796,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Sir Henry Arthur, C.V.O., Standard Bearer of the Honourable CorpB of Gentlemen at Arms</Text>
+      <Title>Lt.-Col. Sir</Title>
+      <Forenames>Henry Arthur</Forenames>
+      <Text>, C.V.O., Standard Bearer of the Honourable CorpB of Gentlemen at Arms</Text>
       <PageNumber>2178</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -962,8 +965,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. James Frederick, Companion, D.S.O</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>James Frederick</Forenames>
+      <Text>, Companion, D.S.O</Text>
       <PageNumber>1218</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -20,7 +20,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Anderson</Key>
-      <Text>, R, H. B</Text>
+      <Forenames>R</Forenames>
+      <Text>, H. B</Text>
       <PageNumber>1902</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -159,7 +160,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hears</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>1285</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -173,8 +174,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Robinson</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. G. W., C.B</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>G. W.</Forenames>
+      <Text>, C.B</Text>
       <PageNumber>863</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -221,7 +223,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Walton</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>1703</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -275,7 +277,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dockrell</Key>
-      <Text>, M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>1701</PageNumber>
     </MainItem>
   </ItemGroup>

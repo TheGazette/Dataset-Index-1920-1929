@@ -3,7 +3,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Smith</Key>
-      <Text>, 2nd,Lt.W. N. (Lt.) Ito</Text>
+      <Text>2nd,Lt.W. N. (Lt.) Ito</Text>
       <PageNumber>68</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -81,7 +81,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Snaith</Key>
-      <Text>, ,2nd Lt: T. (Lt.)</Text>
+      <Text>,2nd Lt: T. (Lt.)</Text>
       <PageNumber>11900</PageNumber>
     </MainItem>
     <SubItem>
@@ -117,8 +117,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Snoad</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.: \K. W. (resigns commn. at.ft.wn request)</Text>
+      <Title>Lt.</Title>
+      <Text>: \K. W. (resigns commn. at.ft.wn request)</Text>
       <PageNumber>12126</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -144,14 +144,18 @@
   <ItemGroup>
     <MainItem>
       <Key>Snowden</Key>
-      <Text>, 2nd Lt. A. L. (Lt.) Soady, Capt.' J. H.. j(trd. to T.F.R,, Arty., fromE. Riding R.G.A.) . ~;</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>A. L.</Forenames>
+      <Text>(Lt.) Soady, Capt.' J. H.. j(trd. to T.F.R,, Arty., fromE. Riding R.G.A.) . ~;</Text>
       <PageNumber>10727</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Sollitt</Key>
-      <Text>, 2nd Lt. C. J, (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>C. J</Forenames>
+      <Text>, (Lt.)</Text>
       <PageNumber>11923</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -167,15 +171,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Sonndy</Key>
-      <Text>,.v.Lt. H. C, M.C. (trd. to 2nd Highland Scouts. ScottishHorse)</Text>
+      <Text>.v.Lt. H. C, M.C. (trd. to 2nd Highland Scouts. ScottishHorse)</Text>
       <PageNumber>11204</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Souter</Key>
-      <Forenames>Qfmr</Forenames>
-      <Text>. .and Capt. R. C. (retires, havingattained the age limit ;for retirement, and retains rank) .;</Text>
+      <Title>Qfmr.</Title>
+      <Text>.and Capt. R. C. (retires, havingattained the age limit ;for retirement, and retains rank) .;</Text>
       <PageNumber>10737</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -201,14 +205,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Southon</Key>
-      <Text>. Lt. W. L. (trd. to T.F.R.. Infy., from 5th Bii., Essex R.)</Text>
+      <Text>Lt. W. L. (trd. to T.F.R.. Infy., from 5th Bii., Essex R.)</Text>
       <PageNumber>10373</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Southwood</Key>
-      <Text>, 2nd Lt. W. R. M. (trd. to 1st South Midland 'Bde. from 2nd South Midland. Bde.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>W. R. M.</Forenames>
+      <Text>(trd. to 1st South Midland 'Bde. from 2nd South Midland. Bde.)</Text>
       <PageNumber>10163</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -238,21 +244,21 @@
   <ItemGroup>
     <MainItem>
       <Key>Spankie</Key>
-      <Text>.&gt; Lt, J. M?* (trd. to T.FM.. Infy., from Kfth Bn., Lond. R.)</Text>
+      <Text>&gt; Lt, J. M?* (trd. to T.FM.. Infy., from Kfth Bn., Lond. R.)</Text>
       <PageNumber>12033</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Spanton</Key>
-      <Text>,' Lt. F. C. (resigns commn., and retains rank of Lt.)' „</Text>
+      <Text>' Lt. F. C. (resigns commn., and retains rank of Lt.)' „</Text>
       <PageNumber>12815</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Spark</Key>
-      <Text>. 2nd Lt. (temp. Lt.) S: H. (absorbed into estabt. of the King's College Sch. Contingent, Jim. Div.. O.T.C.)</Text>
+      <Text>2nd Lt. (temp. Lt.) S: H. (absorbed into estabt. of the King's College Sch. Contingent, Jim. Div.. O.T.C.)</Text>
       <PageNumber>11336</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -268,7 +274,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sparrow</Key>
-      <Text>, -Capt.: W. G. K. (trd. to Cheshire Yeo. from T.F.R.)</Text>
+      <Text>-Capt.: W. G. K. (trd. to Cheshire Yeo. from T.F.R.)</Text>
       <PageNumber>9680</PageNumber>
     </MainItem>
     <SubItem>
@@ -279,7 +285,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Speakman</Key>
-      <Text>, 2nd Lt. (temp. Lt.) L. A. (rel. commn., and granted rank of !Lt.)</Text>
+      <Title>2nd Lt. (temp. Lt.)</Title>
+      <Forenames>L. A.</Forenames>
+      <Text>(rel. commn., and granted rank of !Lt.)</Text>
       <PageNumber>9806</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -500,7 +508,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Spokes</Key>
-      <Text>, 2nd Lt. M. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>M.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>11571</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -536,14 +546,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Sproson</Key>
-      <Text>, 2nd Lt, R. V. (Lt.)</Text>
+      <Text>2nd Lt, R. V. (Lt.)</Text>
       <PageNumber>10181</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Squanoe</Key>
-      <Text>. Capt, E. L., M.C. (Maj.. T.F.R., Arty.)</Text>
+      <Text>Capt, E. L., M.C. (Maj.. T.F.R., Arty.)</Text>
       <PageNumber>10189</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -579,7 +589,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Staddon</Key>
-      <Text>, 2nd [Lt. T. W. (Lt.)</Text>
+      <Text>2nd [Lt. T. W. (Lt.)</Text>
       <PageNumber>9804</PageNumber>
     </MainItem>
     <SubItem>
@@ -621,7 +631,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Stagg</Key>
-      <Text>, 2nd Lt. H. C. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>H. C.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>12569</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -675,7 +687,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Stainton</Key>
-      <Text>, 2nd Lt. E. (trd. to 3rd Northn Bde., R.F.A., late M.G.C., Infy.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>E.</Forenames>
+      <Text>(trd. to 3rd Northn Bde., R.F.A., late M.G.C., Infy.)</Text>
       <PageNumber>10842</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -711,8 +725,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Stanfield</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. R, W. (trd. to T.F.R., R.E., from Edinburgh Fortress Engrs.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>R</Forenames>
+      <Text>, W. (trd. to T.F.R., R.E., from Edinburgh Fortress Engrs.)</Text>
       <PageNumber>1019</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -737,7 +752,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stanistreet</Key>
-      <Text>, 2nd Lt, C. R. (Lt.)</Text>
+      <Text>2nd Lt, C. R. (Lt.)</Text>
       <PageNumber>10587</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -816,7 +831,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Stark</Key>
-      <Text>, 2nd Lt. A. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>A.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>12816</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -834,7 +851,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Starkey</Key>
-      <Text>. Lt. R. A. E., D.C.M. (Capt.. T.F.R.. Infy.)</Text>
+      <Text>Lt. R. A. E., D.C.M. (Capt.. T.F.R.. Infy.)</Text>
       <PageNumber>11586</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -843,7 +860,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>2nd Lt. W., M.C. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>W.</Forenames>
+      <Text>, M.C. (Lt.)</Text>
       <PageNumber>9795</PageNumber>
     </MainItem>
     <SubItem>
@@ -854,7 +873,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Starkings</Key>
-      <Text>. '2nd Lt. H. D. (resigns commn., and retains rank of 2nd Lt.)</Text>
+      <Text>'2nd Lt. H. D. (resigns commn., and retains rank of 2nd Lt.)</Text>
       <PageNumber>10928</PageNumber>
     </MainItem>
   </ItemGroup>

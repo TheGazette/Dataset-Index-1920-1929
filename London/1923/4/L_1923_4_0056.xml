@@ -10,14 +10,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Stanley</Key>
-      <Text>. J</Text>
+      <Text>J</Text>
       <PageNumber>7768</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Stannard</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>7305</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -149,7 +149,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Thorn</Key>
-      <Text>, AV. D. ... '</Text>
+      <Text>AV. D. ... '</Text>
       <PageNumber>9112</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -466,7 +466,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wiblin</Key>
-      <Text>, M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>8193</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -519,7 +519,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>8193</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -635,7 +635,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Yale</Key>
-      <Text>, AV. C</Text>
+      <Text>AV. C</Text>
       <PageNumber>7662</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -762,7 +762,7 @@
       <PageNumber>7768</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>Walker, Alexander, C.B.E., J.P</Text>
+      <Text>Walker, Alexander, C.B.E., J.P.</Text>
       <PageNumber>7768</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -802,7 +802,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Salop</Key>
-      <Text>(cuiti.) : Maximilian, the Rt. Hon. Richard</Text>
+      <Title>(cuiti.)</Title>
+      <Text>: Maximilian, the Rt. Hon. Richard</Text>
       <PageNumber>7305</PageNumber>
     </MainItem>
     <SubItem>
@@ -837,7 +838,7 @@
       <PageNumber>8724</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>Southampton, Lt.-Col. the Rt. Hon. Lord, O.B.E</Text>
+      <Text>Southampton, Lt.-Col. the Rt. Hon. Lord, O.B.E.</Text>
       <PageNumber>8724</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -863,7 +864,6 @@
       <PageNumber>8818</PageNumber>
     </MainItem>
   </ItemGroup>
-  <CategoryTitle>ADVERTISEMENTS</CategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>Abertillery</Key>

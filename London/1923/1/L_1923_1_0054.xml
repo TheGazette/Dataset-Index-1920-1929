@@ -30,7 +30,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Orensteen</Key>
-      <Text>, .Capt. A. H. (Capt., Reg. Army Res. of Off., Gen. List, Intelligence, late Gen. List) ... :</Text>
+      <Text>.Capt. A. H. (Capt., Reg. Army Res. of Off., Gen. List, Intelligence, late Gen. List) ... :</Text>
       <PageNumber>997</PageNumber>
     </MainItem>
     <SubItem>
@@ -41,9 +41,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Orpen-Palmer</Key>
-      <Title>Maj. and Bt.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>.Col. H. B. H., C.M.G., D.S.O. (Col., from R. Ir. Fus.), Sub. Not</Text>
+      <Title>Maj. and Bt. Lt.</Title>
+      <Text>Col. H. B. H., C.M.G., D.S.O. (Col., from R. Ir. Fus.), Sub. Not</Text>
       <PageNumber>909</PageNumber>
     </MainItem>
     <SubItem>
@@ -63,9 +62,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Orton</Key>
-      <Title>Bt.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. S. B. (Col.)</Text>
+      <Title>Bt. Lt.-Col.</Title>
+      <Forenames>S. B.</Forenames>
+      <Text>(Col.)</Text>
       <PageNumber>2167</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -79,7 +78,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Owen</Key>
-      <Text>, temp. 2nd Lt. G. D. T. (rel. commn. on completion of service and retains rank of 2nd Lt.)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>G. D. T.</Forenames>
+      <Text>(rel. commn. on completion of service and retains rank of 2nd Lt.)</Text>
       <PageNumber>1302</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -168,8 +169,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Palmer</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Francis J. (retires on ret. pay)</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Francis J.</Forenames>
+      <Text>(retires on ret. pay)</Text>
       <PageNumber>1819</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -191,7 +193,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>2nd Lt. J. W. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>J. W.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>527</PageNumber>
     </MainItem>
     <SubItem>
@@ -221,7 +225,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Parker</Key>
-      <Text>, Qrmr. and Capt. (h.p. Est) E. J., M.C. (retires on ret. pay)</Text>
+      <Title>Qrmr. and Capt. (h.p. Est)</Title>
+      <Forenames>E. J.</Forenames>
+      <Text>, M.C. (retires on ret. pay)</Text>
       <PageNumber>1155</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -322,7 +328,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>temp. 2nd Lt. L. (rel. commn. on completion of service and .retains rank of 2nd Lt.)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>L.</Forenames>
+      <Text>(rel. commn. on completion of service and .retains rank of 2nd Lt.)</Text>
       <PageNumber>909</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -391,7 +399,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Patterson</Key>
-      <Text>, temp. 2nd Lt. C. A. (rel. commn. on re-enlistment in the ranks of the T.A.), Sub. Not,</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>C. A.</Forenames>
+      <Text>(rel. commn. on re-enlistment in the ranks of the T.A.), Sub. Not,</Text>
       <PageNumber>1495</PageNumber>
     </MainItem>
     <SubItem>
@@ -501,8 +511,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Pearce</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (ret. pay) A. A. (Lt., Reg. Army Res. of Off., Regtl. List, R.H. and R.F.A.)</Text>
+      <Title>Lt. (ret. pay)</Title>
+      <Forenames>A. A.</Forenames>
+      <Text>(Lt., Reg. Army Res. of Off., Regtl. List, R.H. and R.F.A.)</Text>
       <PageNumber>379</PageNumber>
     </MainItem>
     <SubItem>
@@ -533,7 +544,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Pearson</Key>
-      <Text>, Capt. (Res. of Off.) R. G. (spec, empld., without pay or allces.)</Text>
+      <Title>Capt. (Res. of Off.)</Title>
+      <Forenames>R. G.</Forenames>
+      <Text>(spec, empld., without pay or allces.)</Text>
       <PageNumber>609</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -562,8 +575,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Peebles</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. (h.p. list, late Suff. R.) A. S., D.S.O. (retires on ret. pay)</Text>
+      <Title>Lt.-Col. (h.p. list, late Suff. R.)</Title>
+      <Forenames>A. S.</Forenames>
+      <Text>, D.S.O. (retires on ret. pay)</Text>
       <PageNumber>1154</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -721,15 +735,18 @@
   <ItemGroup>
     <MainItem>
       <Key>Perrv</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Samuei J. C P., F.R.C.S.I. (ceases to belong to Reg. Army Res. of Off.. having attained age limit of liability to recall)</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Samuei J. C</Forenames>
+      <Text>P., F.R.C.S.I. (ceases to belong to Reg. Army Res. of Off.. having attained age limit of liability to recall)</Text>
       <PageNumber>2074</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Persse</Key>
-      <Text>, Capt. (seod. W. Afr. Fron. Force) R., D.S.O., M.C. (placed on h.p. list on acc. of ill-health)</Text>
+      <Title>Capt. (seod. W. Afr. Fron. Force)</Title>
+      <Forenames>R.</Forenames>
+      <Text>, D.S.O., M.C. (placed on h.p. list on acc. of ill-health)</Text>
       <PageNumber>1495</PageNumber>
     </MainItem>
   </ItemGroup>

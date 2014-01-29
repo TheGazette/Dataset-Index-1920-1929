@@ -65,14 +65,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Caddy</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>8499</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Drysdale</Key>
-      <Text>L, V.D</Text>
+      <Forenames>L</Forenames>
+      <Text>, V.D</Text>
       <PageNumber>8105</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -86,7 +87,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gollan</Key>
-      <Text>R, V.D</Text>
+      <Forenames>R</Forenames>
+      <Text>, V.D</Text>
       <PageNumber>8105</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -266,7 +268,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rowland-Hill</Key>
-      <Text>T :</Text>
+      <Forenames>T</Forenames>
+      <Text>:</Text>
       <PageNumber>9471</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -280,7 +283,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stranack</Key>
-      <Text>F. W</Text>
+      <Text>. F. W</Text>
       <PageNumber>8726</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -530,7 +533,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gollan</Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>8105</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -567,7 +570,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Middleton</Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>9152</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -596,7 +599,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Watson-Smyth</Key>
-      <Text>2nd Lt. R. M</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>R. M.</Forenames>
       <PageNumber>8294</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -677,7 +681,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hamilton</Key>
-      <Text>A, D.S.O. (temp.)</Text>
+      <Forenames>A</Forenames>
+      <Text>, D.S.O. (temp.)</Text>
       <PageNumber>7767</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -806,7 +811,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Burton</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>10278</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -863,9 +868,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Poole</Key>
-      <Title>Col.</Title>
-      <Forenames>Comdt</Forenames>
-      <Text>. (R.M.A.) Gerald R, C.M.G, D.S.O</Text>
+      <Title>Col. Comdt. (R.M.A.)</Title>
+      <Forenames>Gerald R</Forenames>
+      <Text>, C.M.G, D.S.O</Text>
       <PageNumber>8204</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -909,7 +914,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Da</Key>
-      <Text>vidson, Alexander P, D. S.O</Text>
+      <Text>.vidson, Alexander P, D. S.O</Text>
       <PageNumber>8103</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1003,7 +1008,7 @@
   <ItemGroup>
     <MainItem>
       <Key>MacLeod</Key>
-      <Forenames>Kenneth</Forenames>
+      <Title>Kenneth .</Title>
       <PageNumber>10719</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1084,7 +1089,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Graham</Key>
-      <Forenames>Francis</Forenames>
+      <Title>Francis .</Title>
       <PageNumber>10719</PageNumber>
     </MainItem>
   </ItemGroup>

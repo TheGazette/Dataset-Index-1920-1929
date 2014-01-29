@@ -33,7 +33,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Grainger</Key>
-      <Text>, temp, 2nd Lt. G. G. '(temp, Lt.)</Text>
+      <Text>temp, 2nd Lt. G. G. '(temp, Lt.)</Text>
       <PageNumber>6964</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -53,8 +53,8 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>. fW. K. (rel. actg rank of Capt.)</Text>
+      <Title>Lt.</Title>
+      <Text>fW. K. (rel. actg rank of Capt.)</Text>
       <PageNumber>4560</PageNumber>
     </MainItem>
     <SubItem>
@@ -155,7 +155,9 @@
       <Key>
         <KeyDitto>___ ___ ___ .</KeyDitto>
       </Key>
-      <Text>Capt. C, M.B. l(rel. comma., and retains rank of Capt.)</Text>
+      <Title>Capt.</Title>
+      <Forenames>C</Forenames>
+      <Text>, M.B. l(rel. comma., and retains rank of Capt.)</Text>
       <PageNumber>5902</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -164,7 +166,8 @@
       <Key>
         <KeyDitto>___ ___ :</KeyDitto>
       </Key>
-      <Text>temp. Capt. .(Capt. S. Afr. jDef. Force) C. C, M.B.E. .(xel. temp, commn. on ceasing to be .empld., and retains rank of Capt.) (Sub. not)</Text>
+      <Title>temp. Capt.</Title>
+      <Text>.(Capt. S. Afr. jDef. Force) C. C, M.B.E. .(xel. temp, commn. on ceasing to be .empld., and retains rank of Capt.) (Sub. not)</Text>
       <PageNumber>5337</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -229,7 +232,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>temp. 2nd Lt. J. A. (temp. Lt.)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>J. A.</Forenames>
+      <Text>(temp. Lt.)</Text>
       <PageNumber>6561</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -249,9 +254,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Title>temp.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>. MH. (rel. commn. on oompletion of service, and retains rank of Lt.)</Text>
+      <Title>temp. Lt.</Title>
+      <Text>MH. (rel. commn. on oompletion of service, and retains rank of Lt.)</Text>
       <PageNumber>4221</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -470,7 +474,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>temp. 2nd Lt. H. (temp. Lt.)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>H.</Forenames>
+      <Text>(temp. Lt.)</Text>
       <PageNumber>4964</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -591,9 +597,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Title>temp.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>. ID. (rel. commo. on completion of service, and retains rank of Lt.)</Text>
+      <Title>temp. Lt.</Title>
+      <Text>ID. (rel. commo. on completion of service, and retains rank of Lt.)</Text>
       <PageNumber>5457</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -613,7 +618,9 @@
       <Key>
         <KeyDitto>— ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>2nd Lt. E. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>E.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>4818</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -666,9 +673,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Title>temp.</Title>
-      <Forenames>Clapt</Forenames>
-      <Text>. iH. E. (rel. conimn., and retains rank of Capt.)</Text>
+      <Title>temp. Clapt.</Title>
+      <Text>iH. E. (rel. conimn., and retains rank of Capt.)</Text>
       <PageNumber>4662</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -699,7 +705,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>temp. 2nd Lt. J. (R. Scots) (temp. Lt.)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>J.</Forenames>
+      <Text>(R. Scots) (temp. Lt.)</Text>
       <PageNumber>4819</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -763,7 +771,9 @@
       <Key>
         <KeyDitto>___ —— ___ ___ ___</KeyDitto>
       </Key>
-      <Text>temp. 2nd Lt. W. G. (temp. Ltj</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>W. G.</Forenames>
+      <Text>(temp. Ltj</Text>
       <PageNumber>4418</PageNumber>
     </MainItem>
     <SubItem>
@@ -787,8 +797,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Grazebrook</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. R, M., M.C. (rel. temp, rank of Capt.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>R</Forenames>
+      <Text>, M., M.C. (rel. temp, rank of Capt.)</Text>
       <PageNumber>5191</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -822,7 +833,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Greaves</Key>
-      <Text>, Capt. (Maj., ret., T.F.) O. E. W. (Maj., Gen. Res. of Offrs.)</Text>
+      <Title>Capt. (Maj., ret., T.F.)</Title>
+      <Forenames>O. E. W.</Forenames>
+      <Text>(Maj., Gen. Res. of Offrs.)</Text>
       <PageNumber>5678</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -840,7 +853,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>2nd Lt. A. G. (Not. of promn. to temp, rank of Lt. in Caz., 1 July, 1917, cancelled)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>A. G.</Forenames>
+      <Text>(Not. of promn. to temp, rank of Lt. in Caz., 1 July, 1917, cancelled)</Text>
       <PageNumber>5351</PageNumber>
     </MainItem>
     <SubItem>

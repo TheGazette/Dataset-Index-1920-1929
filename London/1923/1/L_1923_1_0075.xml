@@ -55,7 +55,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hopwood</Key>
-      <Text>, Hon. Col. (Hon. Col., ret., Impl. Yeo.) E. R. G., T.D. (rel. appt. of Hon. Col, Lanes. Hussars, Yeo., on completion of tenure, and retains rank with permission to wear prescribed uniform) Horder, Capt. Sir T. J., M.D. (is retired, having attained age limit, and retains rank of Capt.)</Text>
+      <Title>Hon. Col. (Hon. Col., ret., Impl. Yeo.)</Title>
+      <Forenames>E. R. G.</Forenames>
+      <Text>, T.D. (rel. appt. of Hon. Col, Lanes. Hussars, Yeo., on completion of tenure, and retains rank with permission to wear prescribed uniform) Horder, Capt. Sir T. J., M.D. (is retired, having attained age limit, and retains rank of Capt.)</Text>
       <PageNumber>223</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -114,8 +116,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Houldsworth</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. W. T. R., T.D. (resigns commn. and retains rank of Lt.-Col. with permission to wear prescribed uniform)</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>W. T. R.</Forenames>
+      <Text>, T.D. (resigns commn. and retains rank of Lt.-Col. with permission to wear prescribed uniform)</Text>
       <PageNumber>808</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -185,7 +188,15 @@
       <PageNumber>2075</PageNumber>
     </MainItem>
   </ItemGroup>
-  <CategoryTitle>(Lt,, 44th (H. Counties) Div</CategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Howlett</Key>
+      <Title>Capt.</Title>
+      <Forenames>Arthur Royce</Forenames>
+      <Text>, M.C. (Lt,, 44th (H. Counties) Div. Engrs., late R.E., and rel. rank of Capt.)</Text>
+      <PageNumber>1995</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hovle</Key>
@@ -284,8 +295,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hullah</Key>
-      <Forenames>Chapln</Forenames>
-      <Text>., 4th CI., the Rev. A. S., M.C. (Chapln., 3rd CI</Text>
+      <Title>Chapln., 4th CI., the Rev.</Title>
+      <Forenames>A. S.</Forenames>
+      <Text>, M.C. (Chapln., 3rd CI</Text>
       <PageNumber>809</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -301,8 +313,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Humphery</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Sir J., Knt. (Lt.-Col., T.A. Res., Gen. List, Yeo., from T. A. Res.) :</Text>
+      <Title>Lt.-Col. Sir</Title>
+      <Forenames>J.</Forenames>
+      <Text>, Knt. (Lt.-Col., T.A. Res., Gen. List, Yeo., from T. A. Res.) :</Text>
       <PageNumber>457</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -333,7 +346,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>Capt. (Bt. Maj.) G. H., M.B. (rel. commn. and retains rank)</Text>
+      <Title>Capt. (Bt. Maj.)</Title>
+      <Forenames>G. H.</Forenames>
+      <Text>, M.B. (rel. commn. and retains rank)</Text>
       <PageNumber>1305</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -380,8 +395,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Huntley</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. CA.M.I.E.E. (Capt., 10th Anti-Aircraft Bn., C. of R.E., from T.A. Res.), Sub. Not</Text>
+      <Title>Lt.</Title>
+      <Text>CA.M.I.E.E. (Capt., 10th Anti-Aircraft Bn., C. of R.E., from T.A. Res.), Sub. Not</Text>
       <PageNumber>1913</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -442,8 +457,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hybart</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. F. R., T.D. (trd. to 53rd (Welch) Div. Engrs. from 2nd Welch Bat. Div. Engrs., retaining present rank of Lt.-Col. and precedence in T.A.)</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>F. R.</Forenames>
+      <Text>, T.D. (trd. to 53rd (Welch) Div. Engrs. from 2nd Welch Bat. Div. Engrs., retaining present rank of Lt.-Col. and precedence in T.A.)</Text>
       <PageNumber>612</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -476,8 +492,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Irvine</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (temp. Capt.) A. L. (Capt.)</Text>
+      <Title>Lt. (temp. Capt.)</Title>
+      <Forenames>A. L.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>381</PageNumber>
     </MainItem>
     <SubItem>
@@ -506,7 +523,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Jackson</Key>
-      <Text>, 2nd Lt. B. N. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>B. N.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>532</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -526,7 +545,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>Capt. and Bt. Maj. (temp. Lt.Col. in T.A.) E. D., D.S.O. (rel. temp, rank of Lt.-Col. on ceasing to comd. 4th Bn., K.O.S.B.)</Text>
+      <Title>Capt. and Bt. Maj. (temp. Lt.Col. in T.A.)</Title>
+      <Forenames>E. D.</Forenames>
+      <Text>, D.S.O. (rel. temp, rank of Lt.-Col. on ceasing to comd. 4th Bn., K.O.S.B.)</Text>
       <PageNumber>80</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -582,8 +603,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Jago</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. E, 0. (Capt.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>E</Forenames>
+      <Text>, 0. (Capt.)</Text>
       <PageNumber>306</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -638,7 +660,8 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>Miss, M.M., R.R.C. (resigns appt, as Matron, 4th Lond. Genl. Hospt., T.A.N.S.)</Text>
+      <Title>Miss</Title>
+      <Text>, M.M., R.R.C. (resigns appt, as Matron, 4th Lond. Genl. Hospt., T.A.N.S.)</Text>
       <PageNumber>305</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -678,7 +701,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Jameson</Key>
-      <Text>,. Lt. S. T, A.M.I.E.E. (rel. commn. and retains rank of Lt.)</Text>
+      <Text>. Lt. S. T, A.M.I.E.E. (rel. commn. and retains rank of Lt.)</Text>
       <PageNumber>1155</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -707,7 +730,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Jardine</Key>
-      <Text>, 2nd Lt. D. R. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>D. R.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>1232</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -716,7 +741,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>2nd Lt. G. D. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>G. D.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>1232</PageNumber>
     </MainItem>
   </ItemGroup>

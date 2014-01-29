@@ -66,7 +66,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wood</Key>
-      <Text>, CP</Text>
+      <Text>CP</Text>
       <PageNumber>1166</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -219,7 +219,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ayre-Smith</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>158</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -240,7 +240,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bell</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>158</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -254,7 +254,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Davies</Key>
-      <Text>, I</Text>
+      <Forenames>I</Forenames>
       <PageNumber>158</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -282,7 +282,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fergusson</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>158</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -317,7 +317,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gray</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>158</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -388,7 +388,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Partridge</Key>
-      <Text>, L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>158</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -409,7 +409,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pickford</Key>
-      <Text>, P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>158</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -511,7 +511,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Temperley</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>158</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -541,7 +541,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Watson</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>158</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -562,7 +562,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Woods</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>158</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -606,7 +606,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Booth</Key>
-      <Text>, R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>1368</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -634,7 +634,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Burn-Murdoch</Key>
-      <Text>, 1</Text>
+      <Text>1</Text>
       <PageNumber>2236</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -717,7 +717,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Deane</Key>
-      <Text>, D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>2236</PageNumber>
       <PageNumber>2236</PageNumber>
     </MainItem>
@@ -781,7 +781,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Godwin</Key>
-      <Text>, C A. C</Text>
+      <Forenames>C</Forenames>
+      <Text>A. C</Text>
       <PageNumber>2236</PageNumber>
       <PageNumber>2236</PageNumber>
     </MainItem>
@@ -803,7 +804,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Houston</Key>
-      <Text>, B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>1368</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -817,14 +818,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Jardine</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>2237</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Karslake</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>1368</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -933,7 +934,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mushett</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>1369</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -983,7 +984,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Redman</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>1368</PageNumber>
       <PageNumber>2236</PageNumber>
     </MainItem>
@@ -1007,7 +1008,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stewart</Key>
-      <Text>, C Kennedy-Craufurd, see Kennedy-CraufurdStewart, C. Stewart, J. H. K</Text>
+      <Forenames>C</Forenames>
+      <Text>Kennedy-Craufurd, see Kennedy-CraufurdStewart, C. Stewart, J. H. K</Text>
       <PageNumber>2236</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1052,7 +1054,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Abdul</Key>
-      <Forenames>Wahab</Forenames>
+      <Title>Wahab .</Title>
       <PageNumber>588</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1176,7 +1178,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Anderson</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>270</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1233,7 +1235,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Armstrong</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>2028</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1282,7 +1284,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Atkinson</Key>
-      <Text>, S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>1832</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1427,7 +1429,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bayliss</Key>
-      <Text>, B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>1832</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1614,7 +1616,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bowden</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>271</PageNumber>
     </MainItem>
   </ItemGroup>

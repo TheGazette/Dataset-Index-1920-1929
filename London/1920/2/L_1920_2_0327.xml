@@ -7,7 +7,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Hon. 2nd Lt.)</Text>
+      <Title>(Hon. 2nd Lt.)</Title>
       <PageNumber>4142</PageNumber>
     </MainItem>
     <SubItem>
@@ -62,7 +62,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>2nd Lt.) (Hon. 2nd Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Text>) (Hon. 2nd Lt.)</Text>
       <PageNumber>4142</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -100,7 +101,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>2nd Lt.) ___ ___ Cadet R. H. (Hon. 2nd Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Text>) ___ ___ Cadet R. H. (Hon. 2nd Lt.)</Text>
       <PageNumber>4348</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -118,8 +120,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>.) ___ ___ ___ Lt. R. H. (placed on ret. list)</Text>
+      <Title>Lt.</Title>
+      <Text>) ___ ___ ___ Lt. R. H. (placed on ret. list)</Text>
       <PageNumber>5488</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -133,7 +135,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>2nd Lt.) (Hon. 2nd Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Text>) (Hon. 2nd Lt.)</Text>
       <PageNumber>4142</PageNumber>
     </MainItem>
     <KeyDitto>___ ___</KeyDitto>
@@ -189,7 +192,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Sutton</Key>
-      <Text>, 2nd Lt. F. B. (trd. to unempld. list)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>F. B.</Forenames>
+      <Text>(trd. to unempld. list)</Text>
       <PageNumber>5251</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -351,15 +356,18 @@
   <ItemGroup>
     <MainItem>
       <Key>Swoffer</Key>
-      <Text>, 2nd Lt. F. H. (trd. to unempld. list)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>F. H.</Forenames>
+      <Text>(trd. to unempld. list)</Text>
       <PageNumber>4476</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Sykes</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. Col. (S.O.) A., C.B.E. (trd. to unempld. list)</Text>
+      <Title>Lt. Col. (S.O.)</Title>
+      <Forenames>A.</Forenames>
+      <Text>, C.B.E. (trd. to unempld. list)</Text>
       <PageNumber>4242</PageNumber>
     </MainItem>
   </ItemGroup>

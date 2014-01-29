@@ -124,7 +124,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bingham</Key>
-      <Text>, Lord</Text>
+      <Title>Lord</Title>
       <PageNumber>5828</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -175,7 +175,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Chenevix-Trench</Key>
-      <Text>, L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>4445</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -226,7 +226,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Everett</Key>
-      <Text>, M,</Text>
+      <Forenames>M</Forenames>
+      <Text>,</Text>
       <PageNumber>5762</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -675,7 +676,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Eve</Key>
-      <Text>, R, D. E</Text>
+      <Forenames>R</Forenames>
+      <Text>, D. E</Text>
       <PageNumber>5580</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -732,7 +734,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ross</Key>
-      <Text>, C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>4321</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -774,14 +776,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Cummins</Key>
-      <Text>, A; A</Text>
+      <Forenames>A</Forenames>
+      <Text>; A</Text>
       <PageNumber>4711</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Dunsterville</Key>
-      <Text>, K F-</Text>
+      <Forenames>K</Forenames>
+      <Text>F-</Text>
       <PageNumber>4446</PageNumber>
     </MainItem>
   </ItemGroup>

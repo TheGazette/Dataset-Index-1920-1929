@@ -51,8 +51,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Wynter</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Charles Philip, Companion, D.S.O</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Charles Philip</Forenames>
+      <Text>, Companion, D.S.O</Text>
       <PageNumber>1802</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -86,7 +87,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Yarborough</Key>
-      <Text>, the Countess of, Lady of Justice, St. John of Jerusalem</Text>
+      <Text>the Countess of, Lady of Justice, St. John of Jerusalem</Text>
       <PageNumber>1684</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -449,9 +450,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Abercrombie</Key>
-      <Title>temp.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. C. M., C.M.G., C.B.E. (rel. appt. as Comdr., Cl. X, attd. to Hd.-Qr. Unit, and temp, rank of Col.)</Text>
+      <Title>temp. Lt.-Col.</Title>
+      <Forenames>C. M.</Forenames>
+      <Text>, C.M.G., C.B.E. (rel. appt. as Comdr., Cl. X, attd. to Hd.-Qr. Unit, and temp, rank of Col.)</Text>
       <PageNumber>3508</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -480,7 +481,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>temp. 2nd Lt. E. M. (rel. appt. as Rly. Traffic Offr., Cl. HH, and temp, rank of Lt )</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>E. M.</Forenames>
+      <Text>(rel. appt. as Rly. Traffic Offr., Cl. HH, and temp, rank of Lt )</Text>
       <PageNumber>803</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -556,9 +559,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Addison</Key>
-      <Title>temp.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>. (temp. Capt.) W. J. (Dep. Asst. Dir. of Engineering Stores, Cl. BB, and temp. Maj.)</Text>
+      <Title>temp. Lt. (temp. Capt.)</Title>
+      <Forenames>W. J.</Forenames>
+      <Text>(Dep. Asst. Dir. of Engineering Stores, Cl. BB, and temp. Maj.)</Text>
       <PageNumber>2164</PageNumber>
     </MainItem>
   </ItemGroup>

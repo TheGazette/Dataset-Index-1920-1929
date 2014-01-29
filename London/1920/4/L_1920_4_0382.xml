@@ -310,14 +310,15 @@
       <PageNumber>11826</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Sub. Not .-.</Text>
+      <Text>Sub. Not .-</Text>
       <PageNumber>12402</PageNumber>
     </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Illman</Key>
-      <Text>, S; G. (Lt.) ... Inglis, F. R. (temp. Capt.), Sub</Text>
+      <Forenames>S</Forenames>
+      <Text>; G. (Lt.) ... Inglis, F. R. (temp. Capt.), Sub</Text>
       <PageNumber>11825</PageNumber>
     </MainItem>
     <SubItem>
@@ -424,8 +425,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>.)</Text>
+      <Title>Lt.</Title>
+      <Text>)</Text>
       <PageNumber>11352</PageNumber>
     </MainItem>
     <SubItem>
@@ -474,11 +475,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Kear</Key>
-      <Text>. J. E. (temp. Lt.j</Text>
+      <Text>J. E. (temp. Lt.j</Text>
       <PageNumber>12402</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Temp. Capt.</Text>
+      <Text>Temp. Capt</Text>
       <PageNumber>11352</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -545,7 +546,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kirk</Key>
-      <Text>. D. D. C. (temp. Capt.)</Text>
+      <Text>D. D. C. (temp. Capt.)</Text>
       <PageNumber>11351</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -710,8 +711,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Lewis</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (actg. Capt.) E. S. (rel. actg. rank)</Text>
+      <Title>Lt. (actg. Capt.)</Title>
+      <Forenames>E. S.</Forenames>
+      <Text>(rel. actg. rank)</Text>
       <PageNumber>11824</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -834,7 +836,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Luscombe</Key>
-      <Text>, (temp. Capt.) F W. (temp. Maj.)</Text>
+      <Title>(temp. Capt.)</Title>
+      <Forenames>F</Forenames>
+      <Text>W. (temp. Maj.)</Text>
       <PageNumber>11124</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1190,7 +1194,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Maycock</Key>
-      <Text>. H. W. (rel. prob. appt.)</Text>
+      <Text>H. W. (rel. prob. appt.)</Text>
       <PageNumber>10864</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1323,7 +1327,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>2nd Lt. G. A. (retires in consequence of ill-health, and granted rank of 2nd Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>G. A.</Forenames>
+      <Text>(retires in consequence of ill-health, and granted rank of 2nd Lt.)</Text>
       <PageNumber>9699</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1368,7 +1374,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Morley</Key>
-      <Text>.. W. R, (Capt.;</Text>
+      <Text>. W. R, (Capt.;</Text>
       <PageNumber>9696</PageNumber>
     </MainItem>
   </ItemGroup>

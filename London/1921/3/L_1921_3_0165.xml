@@ -57,15 +57,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Farrant</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Maj. C, D.S.O., T.D. (resigns commn. and granted rank of Surg. Lt.-Col., with permission to wear prescribed uniform)</Text>
+      <Title>Surg.</Title>
+      <Text>-Maj. C, D.S.O., T.D. (resigns commn. and granted rank of Surg. Lt.-Col., with permission to wear prescribed uniform)</Text>
       <PageNumber>5705</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Farren</Key>
-      <Text>, 2nd Lt. (temp. Capt.) W. S., M.B.E. (rel. commn. and granted rank of Capt.)</Text>
+      <Title>2nd Lt. (temp. Capt.)</Title>
+      <Forenames>W. S.</Forenames>
+      <Text>, M.B.E. (rel. commn. and granted rank of Capt.)</Text>
       <PageNumber>7212</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -119,8 +121,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Fawckner</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Edgar Hinton, T.D. (trd. to T.F.R., Gen. List, R.E.)</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Edgar Hinton</Forenames>
+      <Text>, T.D. (trd. to T.F.R., Gen. List, R.E.)</Text>
       <PageNumber>5633</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -138,7 +141,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>Maj. (Hon. Maj. in Army) Sir W. H., Bt. (retired, having . attained the age limit, and 5 retains rank)</Text>
+      <Title>Maj. (Hon. Maj. in Army) Sir</Title>
+      <Forenames>W. H.</Forenames>
+      <Text>, Bt. (retired, having . attained the age limit, and 5 retains rank)</Text>
       <PageNumber>7432</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -162,7 +167,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Felton</Key>
-      <Text>, 2nd Lt. (temp. Capt.) D. G. W. (rel. commn. and granted rank of Capt.)</Text>
+      <Title>2nd Lt. (temp. Capt.)</Title>
+      <Forenames>D. G. W.</Forenames>
+      <Text>(rel. commn. and granted rank of Capt.)</Text>
       <PageNumber>6001</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -307,8 +314,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Firth</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. B. A., V.D. (retired, having attained the age limit, and retains rank of Lt.-CoL, with permission to wear prescribed uniform)</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>B. A.</Forenames>
+      <Text>, V.D. (retired, having attained the age limit, and retains rank of Lt.-CoL, with permission to wear prescribed uniform)</Text>
       <PageNumber>6273</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -434,8 +442,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Flowers</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. E., T.D. (Lt.Col. (54th (Wessex) Bde., R.F.A.) (T.F.R., Regtl. List, R.A., from 1st Wessex Bde., R.F.A.)</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>E.</Forenames>
+      <Text>, T.D. (Lt.Col. (54th (Wessex) Bde., R.F.A.) (T.F.R., Regtl. List, R.A., from 1st Wessex Bde., R.F.A.)</Text>
       <PageNumber>6756</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -470,7 +479,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>Maj. (Res. of Offrs.) the Hon. D. A., D.S.O., M.V.t). (Lt.Col., 8th (Bucks. and Berks.) Bde.)</Text>
+      <Title>Maj. (Res. of Offrs.) the Hon.</Title>
+      <Forenames>D. A.</Forenames>
+      <Text>, D.S.O., M.V.t). (Lt.Col., 8th (Bucks. and Berks.) Bde.)</Text>
       <PageNumber>7649</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -479,8 +490,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. (Hon. Lt. in Army) (Hon. Maj., ret., Vols.) H., D.S.O., V.D. (retired, having attained the age limit, and retains rank of Lt.-Col., with permission to wear prescribed uniform)</Text>
+      <Title>Lt.-Col. (Hon. Lt. in Army) (Hon. Maj., ret., Vols.)</Title>
+      <Forenames>H.</Forenames>
+      <Text>, D.S.O., V.D. (retired, having attained the age limit, and retains rank of Lt.-Col., with permission to wear prescribed uniform)</Text>
       <PageNumber>5904</PageNumber>
     </MainItem>
   </ItemGroup>

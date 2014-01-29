@@ -211,7 +211,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hedderwick</Key>
-      <Text>Lt. Cedric (rel. commn., . and retains rank of Lt.)</Text>
+      <Text>. Lt. Cedric (rel. commn., . and retains rank of Lt.)</Text>
       <PageNumber>10226</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -461,7 +461,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hemingway</Key>
-      <Text>2nd Lt. F. S. (rel. commn., and retains rank of 2nd Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>F. S.</Forenames>
+      <Text>(rel. commn., and retains rank of 2nd Lt.)</Text>
       <PageNumber>10445</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -598,7 +600,15 @@
       <PageNumber>8044</PageNumber>
     </MainItem>
   </ItemGroup>
-  <CategoryTitle>Henderson, Lt. A. (H. Counties</CategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Henderson</Key>
+      <Title>Lt.</Title>
+      <Forenames>A.</Forenames>
+      <Text>(H. Counties (Kent) R. G. A.) (rel. commn., and retains rank of Lt.)</Text>
+      <PageNumber>8698</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>
@@ -714,7 +724,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>2nd Lt. E. (rel. commn., and retains rank of 2nd Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>E.</Forenames>
+      <Text>(rel. commn., and retains rank of 2nd Lt.)</Text>
       <PageNumber>10705</PageNumber>
     </MainItem>
   </ItemGroup>

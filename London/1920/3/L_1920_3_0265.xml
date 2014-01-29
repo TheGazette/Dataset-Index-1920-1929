@@ -142,7 +142,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Manby</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>7461</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -259,7 +259,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Munro</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>9302</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -347,7 +347,7 @@
   <ItemGroup>
     <MainItem>
       <Key>iRadcliffe</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>8186</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -361,7 +361,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Reoton</Key>
-      <Text>T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>8186</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -510,7 +510,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stenson</Key>
-      <Text>, L. H. E. (on prob., reverts to British service)</Text>
+      <Text>., L. H. E. (on prob., reverts to British service)</Text>
       <PageNumber>9118</PageNumber>
     </MainItem>
     <SubItem>
@@ -556,7 +556,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Symonds</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>9302</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -606,7 +606,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tuffin</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>9302</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -653,7 +653,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Walton</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>7670</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -668,7 +668,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Waitson</Key>
-      <Text>N</Text>
+      <Forenames>N</Forenames>
       <PageNumber>8410</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -785,7 +785,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wyatt</Key>
-      <Text>C H. ... '</Text>
+      <Forenames>C</Forenames>
+      <Text>H. ... '</Text>
       <PageNumber>9302</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -814,7 +815,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Freeman-Thomas</Key>
-      <Text>Hon. LB</Text>
+      <Title>Hon.</Title>
+      <Text>LB</Text>
       <PageNumber>8413</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -959,7 +961,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brown</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>9303</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1073,7 +1075,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Richards</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>9303</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1102,7 +1104,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Towner</Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>9303</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1190,7 +1192,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Anstey</Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>7130</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1213,7 +1215,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ashley-Smith</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>7130</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1263,7 +1265,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ballard</Key>
-      <Text>V</Text>
+      <Forenames>V</Forenames>
       <PageNumber>7462</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1284,7 +1286,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bartleman</Key>
-      <Text>E: L</Text>
+      <Forenames>E</Forenames>
+      <Text>: L</Text>
       <PageNumber>9147</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1319,7 +1322,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bird</Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>7671</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1478,7 +1481,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Christie</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>9462</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1589,7 +1592,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dawson</Key>
-      <Text>K. C. D</Text>
+      <Text>. K. C. D</Text>
       <PageNumber>84112</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1618,7 +1621,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Deslborough</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>7462</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1634,28 +1637,29 @@
       <Key>
         <KeyDitto>___ ___ ___ .</KeyDitto>
       </Key>
-      <Text>B F</Text>
+      <Forenames>B</Forenames>
+      <Text>F</Text>
       <PageNumber>9302</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Doig</Key>
-      <Text>E. W</Text>
+      <Text>. E. W</Text>
       <PageNumber>9147</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Dominy</Key>
-      <Text>F. C</Text>
+      <Text>. F. C</Text>
       <PageNumber>7462</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Dow</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>8412</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1670,7 +1674,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Durrant</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>7130</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1722,7 +1726,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ehtwisle</Key>
-      <Text>F., D.S.O., M.C</Text>
+      <Text>. F., D.S.O., M.C</Text>
       <PageNumber>9320</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1750,14 +1754,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Flannery</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>9302</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Fleming</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>7671</PageNumber>
     </MainItem>
   </ItemGroup>

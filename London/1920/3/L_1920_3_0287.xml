@@ -19,23 +19,24 @@
   <ItemGroup>
     <MainItem>
       <Key>Whiteley</Key>
-      <Text>Fly ins; Ottr (A) F. M. (resigns short serv. commn. and retains rank)</Text>
+      <Text>. Fly ins; Ottr (A) F. M. (resigns short serv. commn. and retains rank)</Text>
       <PageNumber>8092</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Whitfield</Key>
-      <Text>2nd Lt. (Hon. Lt.) G. H. P., M.C iLt.), Sub No</Text>
+      <Title>2nd Lt. (Hon. Lt.)</Title>
+      <Forenames>G. H. P.</Forenames>
+      <Text>, M.C iLt.), Sub No</Text>
       <PageNumber>7459</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Whittaker</Key>
-      <Title>Cadet</Title>
-      <Forenames>Ceo</Forenames>
-      <Text>. (176294) (Hon. 2nd Lt.) corr. of name,</Text>
+      <Title>Cadet Ceo. (176294) (Hon. 2nd Lt.)</Title>
+      <Text>corr. of name,</Text>
       <PageNumber>7868</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -44,16 +45,17 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Title>Cadet</Title>
-      <Forenames>Geo</Forenames>
-      <Text>. (180185) (Hon</Text>
-      <PageNumber>7993</PageNumber>
     </MainItem>
   </ItemGroup>
+  <Title>
+    <PageNumber>7993</PageNumber>
+  </Title>
   <ItemGroup>
     <MainItem>
-      <Key>Whittingham</Key>
-      <Text>2nd Lt. C. H. (trd</Text>
+      <Key>
+        <Forenames>Whittingham</Forenames>
+      </Key>
+      <Text>, 2nd Lt. C. H. (trd</Text>
       <PageNumber>7580</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -94,14 +96,18 @@
   <ItemGroup>
     <MainItem>
       <Key>Wickens</Key>
-      <Text>2nd Lt. W. J. (rel. commn. on acc. of ill-health contracted on active servic-s and retains rank)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>W. J.</Forenames>
+      <Text>(rel. commn. on acc. of ill-health contracted on active servic-s and retains rank)</Text>
       <PageNumber>7128</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>AVickham</Key>
-      <Text>2nd Lt. R. T. (re-trd. to unempld. list)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>R. T.</Forenames>
+      <Text>(re-trd. to unempld. list)</Text>
       <PageNumber>7459</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -123,7 +129,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>2nd Lt. R.' (Lt.) ... Z</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>R.</Forenames>
+      <Text>' (Lt.) ... Z</Text>
       <PageNumber>7459</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -139,8 +147,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Wigmore</Key>
-      <Forenames>Flight Lt</Forenames>
-      <Text>. A, J. O., M.B., (granted perm, commn.)</Text>
+      <Title>Flight Lt.</Title>
+      <Forenames>A</Forenames>
+      <Text>, J. O., M.B., (granted perm, commn.)</Text>
       <PageNumber>7458</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -165,7 +174,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Wiley</Key>
-      <Text>2nd Lt. L. B. (trd. to unemnld. list)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>L. B.</Forenames>
+      <Text>(trd. to unemnld. list)</Text>
       <PageNumber>9145</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -235,8 +246,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Flight Lt</Forenames>
-      <Text>. (T.) Fdk. Hubert (granted perm, coinmn.)</Text>
+      <Title>Flight Lt. (T.) Fdk.</Title>
+      <Forenames>Hubert</Forenames>
+      <Text>(granted perm, coinmn.)</Text>
       <PageNumber>7127</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -245,8 +257,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Flight Lt</Forenames>
-      <Text>. (T.) F. Raban (rel. short serv. commn. on acc. of ill-health contracted in the service and granted rank of Sqdn. Leader)</Text>
+      <Title>Flight Lt. (T.)</Title>
+      <Forenames>F. Raban</Forenames>
+      <Text>(rel. short serv. commn. on acc. of ill-health contracted in the service and granted rank of Sqdn. Leader)</Text>
       <PageNumber>7127</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -255,7 +268,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>2nd Lt. J. A. G. (trd. to unempld. list)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>J. A. G.</Forenames>
+      <Text>(trd. to unempld. list)</Text>
       <PageNumber>9057</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -303,15 +318,18 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>2nd Lt. (Hon. Lt.) F. P. (trd. to unempld. list)</Text>
+      <Title>2nd Lt. (Hon. Lt.)</Title>
+      <Forenames>F. P.</Forenames>
+      <Text>(trd. to unempld. list)</Text>
       <PageNumber>7460</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Willson</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (Hon. Capt.)C. H. M. (rel. commn. and retains rank of Capt.), Sub. Not</Text>
+      <Title>Lt. (Hon. Capt.)</Title>
+      <Forenames>C. H. M.</Forenames>
+      <Text>(rel. commn. and retains rank of Capt.), Sub. Not</Text>
       <PageNumber>7459</PageNumber>
     </MainItem>
     <SubItem>
@@ -369,8 +387,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (Adm.) G. (trd. to unempld. list)</Text>
+      <Title>Lt. (Adm.)</Title>
+      <Forenames>G.</Forenames>
+      <Text>(trd. to unempld. list)</Text>
       <PageNumber>9224</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -379,7 +398,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>2nd Lt. G. Dunlop (trd. to une rapid, list)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>G. Dunlop</Forenames>
+      <Text>(trd. to une rapid, list)</Text>
       <PageNumber>7867</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -388,8 +409,9 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Flight Lt</Forenames>
-      <Text>. W. F., M.C., M. B. (granted short serv. conimn.)</Text>
+      <Title>Flight Lt.</Title>
+      <Forenames>W. F.</Forenames>
+      <Text>, M.C., M. B. (granted short serv. conimn.)</Text>
       <PageNumber>7458</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -451,7 +473,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Winter</Key>
-      <Text>Cadet' A. G. (Hon. 2nd Lt.)</Text>
+      <Title>Cadet</Title>
+      <Text>' A. G. (Hon. 2nd Lt.)</Text>
       <PageNumber>7356</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -469,7 +492,7 @@
   <ItemGroup>
     <MainItem>
       <Key>W</Key>
-      <Text>)od, 2nd (Hon. Lt.) G. O. (trd. to unempld. list)</Text>
+      <Text>.)od, 2nd (Hon. Lt.) G. O. (trd. to unempld. list)</Text>
       <PageNumber>9450</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -567,9 +590,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wright</Key>
-      <Title>Cadet</Title>
-      <Forenames>Geo</Forenames>
-      <Text>. (17/1406) (Hon. 2nd Lt.)</Text>
+      <Title>Cadet Geo. (17/1406) (Hon. 2nd Lt.)</Title>
       <PageNumber>8713</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -578,9 +599,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Title>Cadet</Title>
-      <Forenames>Geo</Forenames>
-      <Text>. (181998) (Hon. 2nd Lt.)</Text>
+      <Title>Cadet Geo. (181998) (Hon. 2nd Lt.)</Title>
       <PageNumber>8631</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -600,7 +619,9 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>2nd Lt. J. I. E. S. (trd. to unempld. list)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>J. I. E. S.</Forenames>
+      <Text>(trd. to unempld. list)</Text>
       <PageNumber>9450</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -707,8 +728,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Flight Lt</Forenames>
-      <Text>. C. H., M. B. (granted short serv. corhmn.)</Text>
+      <Title>Flight Lt.</Title>
+      <Forenames>C. H.</Forenames>
+      <Text>, M. B. (granted short serv. corhmn.)</Text>
       <PageNumber>7458</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -717,7 +739,9 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>2nd Lt. F. Waycott (trd. to unempld. list)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>F. Waycott</Forenames>
+      <Text>(trd. to unempld. list)</Text>
       <PageNumber>8712</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -748,8 +772,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Flight Lt</Forenames>
-      <Text>. P. H., M.B. (granted perm, commn )</Text>
+      <Title>Flight Lt.</Title>
+      <Forenames>P. H.</Forenames>
+      <Text>, M.B. (granted perm, commn )</Text>
       <PageNumber>7458</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -896,7 +921,6 @@
       <PageNumber>7776</PageNumber>
     </SubItem>
   </ItemGroup>
-  <CategoryTitle>ADVERTISEMENTS</CategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>Acton</Key>

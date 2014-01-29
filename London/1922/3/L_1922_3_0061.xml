@@ -15,7 +15,6 @@
   <ItemGroup>
     <MainItem>
       <Key>Tutt</Key>
-      <Text>,</Text>
       <PageNumber>___ ___ ___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -36,8 +35,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Turner</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. (h.p. list, late R:E.) H. H. (Col.)</Text>
+      <Title>Lt.-Col. (h.p. list, late R:E.)</Title>
+      <Forenames>H. H.</Forenames>
+      <Text>(Col.)</Text>
       <PageNumber>5034</PageNumber>
     </MainItem>
     <SubItem>
@@ -91,8 +91,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Tweedie</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. (ret. pay) D. K., D.S.O. (Lt.-Col., Reg. Army Res. of Off., Regtl. List, R.H. and R.F.A.)</Text>
+      <Title>Lt.-Col. (ret. pay)</Title>
+      <Forenames>D. K.</Forenames>
+      <Text>, D.S.O. (Lt.-Col., Reg. Army Res. of Off., Regtl. List, R.H. and R.F.A.)</Text>
       <PageNumber>5280</PageNumber>
     </MainItem>
     <SubItem>
@@ -125,31 +126,36 @@
   <ItemGroup>
     <MainItem>
       <Key>Tyndale</Key>
-      <Title>Maj. and Bt.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Wentworth F., C.M.G., D.S.O , M.D. (rel. terip. rank of Lt.Col.)</Text>
+      <Title>Maj. and Bt. Lt.-Col.</Title>
+      <Forenames>Wentworth F.</Forenames>
+      <Text>, C.M.G., D.S.O , M.D. (rel. terip. rank of Lt.Col.)</Text>
       <PageNumber>6841</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Tyndale-Biscoe</Key>
-      <Text>, Col. (Hon. Brig.Gen.) J. D. T., C.B. (ceases to belong to Res. of Off., having attained the age limit of liability to recall)</Text>
+      <Title>Col. (Hon. Brig.Gen.)</Title>
+      <Forenames>J. D. T.</Forenames>
+      <Text>, C.B. (ceases to belong to Res. of Off., having attained the age limit of liability to recall)</Text>
       <PageNumber>6640</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Tyndall</Key>
-      <Text>,2nd Lt. J. (2nd Lt., Reg. Army Res. of Off., Regtl. List, Border R., late Border R.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>J.</Forenames>
+      <Text>(2nd Lt., Reg. Army Res. of Off., Regtl. List, Border R., late Border R.)</Text>
       <PageNumber>6776</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Tyrrell</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. (h.p. list, late R.A.) J. F., C.B.E. (Col.)</Text>
+      <Title>Lt.-Col. (h.p. list, late R.A.)</Title>
+      <Forenames>J. F.</Forenames>
+      <Text>, C.B.E. (Col.)</Text>
       <PageNumber>5034</PageNumber>
     </MainItem>
     <SubItem>
@@ -160,8 +166,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Ubsdell</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. T. R., D.S.O. (Lt.Col., Reg. Army Res. of Off., Regtl. List, R.H. and R.F.A.)</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>T. R.</Forenames>
+      <Text>, D.S.O. (Lt.Col., Reg. Army Res. of Off., Regtl. List, R.H. and R.F.A.)</Text>
       <PageNumber>5035</PageNumber>
     </MainItem>
     <SubItem>
@@ -199,7 +206,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Urwick</Key>
-      <Text>, 2nd Lt. C. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>C.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>5360</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -212,9 +221,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Title>Ord.</Title>
-      <Forenames>Off</Forenames>
-      <Text>., 4th CI., Capt. and Bt. Maj. (actg. Lt.-Col. and Ord. Off., 2nd CI.) W. H. McN., O.B.E., M.C. (Ord. Off., 3rd CI., with rank of Maj., and retains actg. rank and grading) Vesey, Lt. C. A. {Lt., Reg. Army Res. of Off., Gen. List, late Br. W.I.R.) Date of seniority Vezey, 2nd Lt. W. J. (Lt.) Vian, Capt. Christopher Arthur (Capt., Reg. Army Res. of Off., Regtl. List, C. Gds., late 6579 Spec. Res.)</Text>
+      <Title>Ord. Off., 4th CI., Capt. and Bt. Maj.</Title>
+      <Text>(actg. Lt.-Col. and Ord. Off., 2nd CI.) W. H. McN., O.B.E., M.C. (Ord. Off., 3rd CI., with rank of Maj., and retains actg. rank and grading) Vesey, Lt. C. A. {Lt., Reg. Army Res. of Off., Gen. List, late Br. W.I.R.) Date of seniority Vezey, 2nd Lt. W. J. (Lt.) Vian, Capt. Christopher Arthur (Capt., Reg. Army Res. of Off., Regtl. List, C. Gds., late 6579 Spec. Res.)</Text>
       <PageNumber>6378</PageNumber>
     </MainItem>
     <SubItem>

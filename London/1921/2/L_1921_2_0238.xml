@@ -11,7 +11,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hart</Key>
-      <Text>V</Text>
+      <Forenames>V</Forenames>
       <PageNumber>3095</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -54,7 +54,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rigg</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>4739</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -467,7 +467,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Grayson</Key>
-      <Text>N</Text>
+      <Forenames>N</Forenames>
       <PageNumber>4739</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -610,7 +610,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lean</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>4739</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -670,7 +670,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McGrath</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>4739</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -706,7 +706,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Macnair</Key>
-      <Text>R, H. (and retains rank)</Text>
+      <Forenames>R</Forenames>
+      <Text>, H. (and retains rank)</Text>
       <PageNumber>4102</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -786,7 +787,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Moody</Key>
-      <Text>B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>5142</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -869,7 +870,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pearce</Key>
-      <Text>T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>3095</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -883,7 +884,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Peddie</Key>
-      <Text>K</Text>
+      <Forenames>K</Forenames>
       <PageNumber>3095</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1024,7 +1025,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Roche</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>4739</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1139,7 +1140,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Southev</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>4305</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1184,7 +1185,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tait</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>3294</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1363,7 +1364,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wiles</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>4739</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1491,14 +1492,16 @@
   <ItemGroup>
     <MainItem>
       <Key>McGuire</Key>
-      <Text>(Qr.-Mr.) W. H. M</Text>
+      <Title>(Qr.-Mr.)</Title>
+      <Forenames>W. H. M.</Forenames>
       <PageNumber>5142</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Steuart</Key>
-      <Text>2nd Lt. A</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>A</Forenames>
       <PageNumber>3095</PageNumber>
     </MainItem>
     <SubSectionTitle>2n&lt;£ Lieutenants</SubSectionTitle>
@@ -1562,7 +1565,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bleeck</Key>
-      <Text>E Booth-Gravely, W. (and permitted</Text>
+      <Forenames>E</Forenames>
+      <Text>Booth-Gravely, W. (and permitted</Text>
       <PageNumber>5019</PageNumber>
     </MainItem>
     <SubItem>
@@ -1616,7 +1620,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Buckley</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>5019</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1704,7 +1708,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Donovan</Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>3294</PageNumber>
     </MainItem>
   </ItemGroup>

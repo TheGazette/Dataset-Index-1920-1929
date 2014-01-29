@@ -12,7 +12,6 @@
   <ItemGroup>
     <MainItem>
       <Key>Beach</Key>
-      <Text>,</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -20,7 +19,6 @@
   <ItemGroup>
     <MainItem>
       <Key>Beales</Key>
-      <Text>,</Text>
       <PageNumber>___ ___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -28,7 +26,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Beard</Key>
-      <Text>, 2nd Lt. L. (removed from Armv for absence without leave)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>L.</Forenames>
+      <Text>(removed from Armv for absence without leave)</Text>
       <PageNumber>6084</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -83,8 +83,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Beadon</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. and Bt. Col. L. R., C.M.G., D.S.O. (Col.)</Text>
+      <Title>Lt.-Col. and Bt. Col.</Title>
+      <Forenames>L. R.</Forenames>
+      <Text>, C.M.G., D.S.O. (Col.)</Text>
       <PageNumber>5623</PageNumber>
     </MainItem>
     <SubItem>
@@ -113,7 +114,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Beamish</Key>
-      <Text>, temp. 2nd Lt. A. S. (rel. commn. on completion of service, and retains rank of 2nd Lt.)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>A. S.</Forenames>
+      <Text>(rel. commn. on completion of service, and retains rank of 2nd Lt.)</Text>
       <PageNumber>7516</PageNumber>
     </MainItem>
     <SubItem>
@@ -188,7 +191,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Beattie</Key>
-      <Text>, 2nd Lt. B. B. (rel. commn., and retains rank of 2nd Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>B. B.</Forenames>
+      <Text>(rel. commn., and retains rank of 2nd Lt.)</Text>
       <PageNumber>7111</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -306,7 +311,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>temp. 2nd Lt. H. (rel. commn. on completion of service, and granted rank of Capt.)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>H.</Forenames>
+      <Text>(rel. commn. on completion of service, and granted rank of Capt.)</Text>
       <PageNumber>6367</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -362,16 +369,18 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>temp. 2nd Lt. E. D. (rel. commn. on completion of service, and retains rank of 2nd Lt.)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>E. D.</Forenames>
+      <Text>(rel. commn. on completion of service, and retains rank of 2nd Lt.)</Text>
       <PageNumber>7623</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Becket</Key>
-      <Title>temp.</Title>
-      <Forenames>Chapln</Forenames>
-      <Text>., 4th CI., Rev. A. E., rel. commn., and to be Hon. Chapln., 4th CI.)</Text>
+      <Title>temp. Chapln., 4th CI., Rev.</Title>
+      <Forenames>A. E.</Forenames>
+      <Text>, rel. commn., and to be Hon. Chapln., 4th CI.)</Text>
       <PageNumber>7622</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -401,8 +410,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Beckett</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. W. T. C, C.B.E., D.S.O. (rel. temp, rank of Brig.-Gen., and to be Hon. Brig.-Gen.)</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>W. T. C</Forenames>
+      <Text>, C.B.E., D.S.O. (rel. temp, rank of Brig.-Gen., and to be Hon. Brig.-Gen.)</Text>
       <PageNumber>7631</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -425,7 +435,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Beddington</Key>
-      <Text>, 2nd Lt. (now Lt.) W. R. (date of commn. for purposes of seniority)</Text>
+      <Title>2nd Lt. (now Lt.)</Title>
+      <Forenames>W. R.</Forenames>
+      <Text>(date of commn. for purposes of seniority)</Text>
       <PageNumber>6654</PageNumber>
     </MainItem>
     <SubItem>

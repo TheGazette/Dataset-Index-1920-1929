@@ -3,7 +3,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Duncan</Key>
-      <Text>2nd Lt. J. E., D.C.M</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>J. E.</Forenames>
+      <Text>, D.C.M</Text>
       <PageNumber>3165</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -20,14 +22,18 @@
   <ItemGroup>
     <MainItem>
       <Key>Dunn</Key>
-      <Text>2nd Lt. F. (trd. to 8th Bn., Warwick R., late Ser. Bns</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>F.</Forenames>
+      <Text>(trd. to 8th Bn., Warwick R., late Ser. Bns</Text>
       <PageNumber>3833</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Dunning</Key>
-      <Text>2nd Lt. R. C. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>R. C.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>5214</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -61,8 +67,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Dyke</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. R. C, V.D. (retired, having attained the age limit, and retains rank of Lt.-Col., with permission to wear pre scribed uniform)</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>R. C</Forenames>
+      <Text>, V.D. (retired, having attained the age limit, and retains rank of Lt.-Col., with permission to wear pre scribed uniform)</Text>
       <PageNumber>5220</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -108,8 +115,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. W. C, T.D., M.Inst. C.E. (resigns commn., and retains rank of Lt.-Col., with permission to wear prescribed uniform)</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>W. C</Forenames>
+      <Text>, T.D., M.Inst. C.E. (resigns commn., and retains rank of Lt.-Col., with permission to wear prescribed uniform)</Text>
       <PageNumber>3746</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -125,43 +133,52 @@
   <ItemGroup>
     <MainItem>
       <Key>Eccles</Key>
-      <Text>Maj. (Bt. Lt.-Col.) W. McA., M.B., F.R.C.S. (restd. to estabt.)</Text>
+      <Title>Maj. (Bt. Lt.-Col.)</Title>
+      <Forenames>W.</Forenames>
+      <Text>McA., M.B., F.R.C.S. (restd. to estabt.)</Text>
       <PageNumber>3255</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Eddison</Key>
-      <Forenames>Chapln</Forenames>
-      <Text>., 4th CI., the Revd. F. W. (resigns commn., and to be Hon. Chapln., 4th CI.)</Text>
+      <Title>Chapln., 4th CI.</Title>
+      <Text>, the Revd. F. W. (resigns commn., and to be Hon. Chapln., 4th CI.)</Text>
       <PageNumber>2638</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Edgar</Key>
-      <Text>Maj. (Capt,, Res. of Off.) F., T.D. (retired, having attained the age limit, and retains rank, with permission to wear prescribed uniform)</Text>
+      <Title>Maj. (Capt,, Res. of Off.)</Title>
+      <Forenames>F.</Forenames>
+      <Text>, T.D. (retired, having attained the age limit, and retains rank, with permission to wear prescribed uniform)</Text>
       <PageNumber>4616</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Edie</Key>
-      <Text>Capt. II. (resigns commn and retains rank of Capt.)</Text>
+      <Title>Capt.</Title>
+      <Text>II. (resigns commn and retains rank of Capt.)</Text>
       <PageNumber>4993</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Edlmann</Key>
-      <Text>Maj. (Hon. Lt. in Army) H. E., T.D. (retired, having attained the age limit, and retains rank, with permission to wear prescribed uniform)</Text>
+      <Title>Maj. (Hon. Lt. in Army)</Title>
+      <Forenames>H. E.</Forenames>
+      <Text>, T.D. (retired, having attained the age limit, and retains rank, with permission to wear prescribed uniform)</Text>
       <PageNumber>4182</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Edmed</Key>
-      <Text>2nd Lt. H. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>H.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>2778</PageNumber>
     </MainItem>
     <SubItem>
@@ -194,7 +211,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>2nd Lt. F. H. (resigns commn., and retains rank of 2nd Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>F. H.</Forenames>
+      <Text>(resigns commn., and retains rank of 2nd Lt.)</Text>
       <PageNumber>2788</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -463,7 +482,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>2nd Lt. F. A. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>F. A.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>4175</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -472,7 +493,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>Maj. (}. A., T.D. (retired, having attained the age limit, and retains rank of Maj., with permission to wear prescribed uniform)</Text>
+      <Title>Maj.</Title>
+      <Text>(}. A., T.D. (retired, having attained the age limit, and retains rank of Maj., with permission to wear prescribed uniform)</Text>
       <PageNumber>4627</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -513,7 +535,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>2nd Lt. (temp. Lt.) T. H. T. (resigns commn., and grantad rank of Lt.)</Text>
+      <Title>2nd Lt. (temp. Lt.)</Title>
+      <Forenames>T. H. T.</Forenames>
+      <Text>(resigns commn., and grantad rank of Lt.)</Text>
       <PageNumber>2629</PageNumber>
     </MainItem>
   </ItemGroup>

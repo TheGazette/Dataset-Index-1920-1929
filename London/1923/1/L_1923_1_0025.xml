@@ -30,7 +30,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rayner</Key>
-      <Text>, /temp. Lt. (a0tg. Capt.) William Dex Lea, Officer, Order of the British Empire</Text>
+      <Text>/temp. Lt. (a0tg. Capt.) William Dex Lea, Officer, Order of the British Empire</Text>
       <PageNumber>8</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -62,7 +62,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rennell</Key>
-      <Text>, the Hon. Mrs., Order of Mercy</Text>
+      <Title>the Hon. Mrs.</Title>
+      <Text>, Order of Mercy</Text>
       <PageNumber>374</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -126,8 +127,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Robins</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (actg. Capt.) John Herbert, Officer, Order of the British Empire</Text>
+      <Title>Lt. (actg. Capt.)</Title>
+      <Forenames>John Herbert</Forenames>
+      <Text>, Officer, Order of the British Empire</Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -168,14 +170,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Rumbold</Key>
-      <Text>, the Rt. Hon. Sir Horace George Montagu, Bart., K.C.M.G., M.V.O., Knight Grand Cros6 St. Michael and St. George</Text>
+      <Text>the Rt. Hon. Sir Horace George Montagu, Bart., K.C.M.G., M.V.O., Knight Grand Cros6 St. Michael and St. George</Text>
       <PageNumber>5</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Runtz</Key>
-      <Text>, Lady, Order of Mercy</Text>
+      <Title>Lady</Title>
+      <Text>, Order of Mercy</Text>
       <PageNumber>374</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -190,7 +193,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sandford</Key>
-      <Text>, Mrs., Order of Mercy</Text>
+      <Title>Mrs.</Title>
+      <Text>, Order of Mercy</Text>
       <PageNumber>374</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -226,7 +230,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Searle</Key>
-      <Text>, the Honble. Malcolm William, knighthood conferred on '</Text>
+      <Text>the Honble. Malcolm William, knighthood conferred on '</Text>
       <PageNumber>2</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -283,8 +287,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Sharp</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Stuart Forbes, M.C., Officer, Order of the British Empire</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Stuart Forbes</Forenames>
+      <Text>, M.C., Officer, Order of the British Empire</Text>
       <PageNumber>9</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -326,7 +331,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Shovelier</Key>
-      <Text>, Mrs., Order of Mercy</Text>
+      <Title>Mrs.</Title>
+      <Text>, Order of Mercy</Text>
       <PageNumber>374</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -351,8 +357,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Samuel Christian, M.B.E., Officer, Order of the British Empire</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Samuel Christian</Forenames>
+      <Text>, M.B.E., Officer, Order of the British Empire</Text>
       <PageNumber>10</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -367,14 +374,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Skinner</Key>
-      <Text>, Col. (temp. Col.-Comdt.) Percy Cyriac Burrell, C.B., C.M.G., D.S.O., Knight Commander, Order of the British Empire</Text>
+      <Title>Col. (temp. Col.-Comdt.)</Title>
+      <Forenames>Percy Cyriac Burrell</Forenames>
+      <Text>, C.B., C.M.G., D.S.O., Knight Commander, Order of the British Empire</Text>
       <PageNumber>6</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Smallwood</Key>
-      <Text>, Mrs., Order of Mercy</Text>
+      <Title>Mrs.</Title>
+      <Text>, Order of Mercy</Text>
       <PageNumber>374</PageNumber>
     </MainItem>
   </ItemGroup>

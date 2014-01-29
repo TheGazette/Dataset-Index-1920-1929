@@ -97,8 +97,8 @@
   <ItemGroup>
     <MainItem>
       <Key>James</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Colonel (the Hon.) Cuthbert, C.B.E., M.P. for Bromley</Text>
+      <Title>Lt.</Title>
+      <Text>-Colonel (the Hon.) Cuthbert, C.B.E., M.P. for Bromley</Text>
       <PageNumber>4107</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -487,7 +487,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>Colonel (J;emp. Brigadier) Patrick Houston, . Companion, Order of the Bath</Text>
+      <Title>Colonel (J;emp. Brigadier)</Title>
+      <Forenames>Patrick Houston</Forenames>
+      <Text>, . Companion, Order of the Bath</Text>
       <PageNumber>3668</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -547,8 +549,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kenworthy</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Comdr. Joseph Montague, R.N., M.P. for Kingston-upon-Hull Central</Text>
+      <Title>Lt.</Title>
+      <Text>-Comdr. Joseph Montague, R.N., M.P. for Kingston-upon-Hull Central</Text>
       <PageNumber>4110</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -714,8 +716,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Knox</Key>
-      <Title>Major</Title>
-      <Forenames>General</Forenames>
+      <Forenames>Major-General</Forenames>
       <Text>Sir Alfred William Fortescue, K.C.B., C.M.G., M.P. for Wycombe</Text>
       <PageNumber>4107</PageNumber>
     </MainItem>

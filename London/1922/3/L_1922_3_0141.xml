@@ -77,16 +77,18 @@
   <ItemGroup>
     <MainItem>
       <Key>McKechnie</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. W. E., M.B. (retirement)</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>W. E.</Forenames>
+      <Text>, M.B. (retirement)</Text>
       <PageNumber>5210</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Maddox</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. B. H., C.I.E., M.B. (retirement)</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>B. H.</Forenames>
+      <Text>, C.I.E., M.B. (retirement)</Text>
       <PageNumber>5625</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -237,7 +239,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Newton-Davis</Key>
-      <Text>, Capt. C, M.C., M.B. (Maj.)</Text>
+      <Title>Capt.</Title>
+      <Forenames>C</Forenames>
+      <Text>, M.C., M.B. (Maj.)</Text>
       <PageNumber>5039</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -277,16 +281,18 @@
   <ItemGroup>
     <MainItem>
       <Key>Pearce</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. C. R., M.B. (retirement)</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>C. R.</Forenames>
+      <Text>, M.B. (retirement)</Text>
       <PageNumber>5284</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Penny</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. J. (retirement)</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>J.</Forenames>
+      <Text>(retirement)</Text>
       <PageNumber>6319</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -430,16 +436,18 @@
   <ItemGroup>
     <MainItem>
       <Key>Thompson</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. F. T., M.B. (retirement)</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>F. T.</Forenames>
+      <Text>, M.B. (retirement)</Text>
       <PageNumber>5437</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Thornely</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. M. H., F.R.C.S.E. (retirement)</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>M. H.</Forenames>
+      <Text>, F.R.C.S.E. (retirement)</Text>
       <PageNumber>5437</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -501,23 +509,25 @@
   <ItemGroup>
     <MainItem>
       <Key>Baker</Key>
-      <Title>Eng.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>.-Cdr. A. H., O.B.E. (Eng. Cdr.)</Text>
+      <Title>Eng. Lt.</Title>
+      <Text>-Cdr. A. H., O.B.E. (Eng. Cdr.)</Text>
       <PageNumber>6586</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Balfour</Key>
-      <Text>, Capt. A; S., O.B.E. (retirement)</Text>
+      <Title>Capt.</Title>
+      <Forenames>A</Forenames>
+      <Text>; S., O.B.E. (retirement)</Text>
       <PageNumber>6101</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Beamish</Key>
-      <Text>, Sub-Lt, G. V. G. (Lt.)</Text>
+      <Title>Sub-Lt</Title>
+      <Text>, G. V. G. (Lt.)</Text>
       <PageNumber>5285</PageNumber>
     </MainItem>
     <SubItem>
@@ -537,9 +547,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Collins</Key>
-      <Title>Eng.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>.-Cdr. W. W. (temp. Eng. Cdr., but without pay of that rank, while Marine Store Offr., Bombay Dockyard)</Text>
+      <Title>Eng. Lt.</Title>
+      <Text>-Cdr. W. W. (temp. Eng. Cdr., but without pay of that rank, while Marine Store Offr., Bombay Dockyard)</Text>
       <PageNumber>6389</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -563,7 +572,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hall</Key>
-      <Text>, Sub-Lt. G. T. S. (Lt.)</Text>
+      <Title>Sub-Lt</Title>
+      <Text>. G. T. S. (Lt.)</Text>
       <PageNumber>5285</PageNumber>
     </MainItem>
     <SubItem>
@@ -580,7 +590,7 @@
       <PageNumber>6389</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Corr.</Text>
+      <Text>Corr</Text>
       <PageNumber>6718</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -595,9 +605,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hindman</Key>
-      <Title>Eng.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>.-Cdr. G. H., D.S.O. (Eng. Cdr.)</Text>
+      <Title>Eng. Lt.</Title>
+      <Text>-Cdr. G. H., D.S.O. (Eng. Cdr.)</Text>
       <PageNumber>6586</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -613,8 +622,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Marchant</Key>
-      <Forenames>Engr</Forenames>
-      <Text>. Sub-Lt. on probn. G. A. (rel. probny appt.)</Text>
+      <Title>Engr. Sub-Lt</Title>
+      <Text>. on probn. G. A. (rel. probny appt.)</Text>
       <PageNumber>5285</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -670,7 +679,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Turbett</Key>
-      <Text>, Sub-Lt. C L. (Lt.)</Text>
+      <Title>Sub-Lt</Title>
+      <Text>. C L. (Lt.)</Text>
       <PageNumber>5285</PageNumber>
     </MainItem>
     <SubItem>

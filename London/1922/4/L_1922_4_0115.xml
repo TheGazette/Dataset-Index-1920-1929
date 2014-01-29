@@ -3,38 +3,40 @@
   <ItemGroup>
     <MainItem>
       <Key>Metcalfe</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Cdr. G. N., O.B.E., D.S.C. (temp. Cdr. while comdg. R.I.M.S. Nearchus, but without pay of rank)</Text>
+      <Title>Lt.</Title>
+      <Text>-Cdr. G. N., O.B.E., D.S.C. (temp. Cdr. while comdg. R.I.M.S. Nearchus, but without pay of rank)</Text>
       <PageNumber>7796</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Mordaunt-Smith</Key>
-      <Text>, Sub-Lt. B. R. (resigns commn.)</Text>
+      <Title>Sub-Lt</Title>
+      <Text>. B. R. (resigns commn.)</Text>
       <PageNumber>7951</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Morgan</Key>
-      <Forenames>Engr</Forenames>
-      <Text>. Sub-Lt. (on prob.) L. J. (confd.)</Text>
+      <Title>Engr. Sub-Lt</Title>
+      <Text>. (on prob.) L. J. (confd.)</Text>
       <PageNumber>7380</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Roche</Key>
-      <Forenames>Engr</Forenames>
-      <Text>. Sub-Lt. E. A. '(on prob.) (resigns commn.)</Text>
+      <Title>Engr. Sub-Lt</Title>
+      <Text>. E. A. '(on prob.) (resigns commn.)</Text>
       <PageNumber>7951</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Ryland</Key>
-      <Text>, Sub-Lt. J. (Lt)</Text>
+      <Title>Sub-Lt</Title>
+      <Text>. J. (Lt)</Text>
       <PageNumber>7796</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -52,8 +54,8 @@
     <MainItem>
       <Key>Wooley</Key>
       <Title>Eng.</Title>
-      <Forenames>Snb-Lt</Forenames>
-      <Text>. (on prob.) Albert Edward (confd.)</Text>
+      <Forenames>Snb-</Forenames>
+      <Text>Lt. (on prob.) Albert Edward (confd.)</Text>
       <PageNumber>7796</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -107,7 +109,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bruen</Key>
-      <Text>, tdward F., C.B Green, Sir John F. E., K.C.M.G., C.B</Text>
+      <Text>tdward F., C.B Green, Sir John F. E., K.C.M.G., C.B</Text>
       <PageNumber>7873</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -132,14 +134,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Harhord-Hamond</Key>
-      <Text>(Rear-Admiral retd.), Richard M</Text>
+      <Title>(Rear-Admiral retd.)</Title>
+      <Text>, Richard M</Text>
       <PageNumber>8213</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Thorp</Key>
-      <Text>, (Rear-Admiral retd.) Charles F., C.B.E</Text>
+      <Title>(Rear-Admiral retd.)</Title>
+      <Forenames>Charles F.</Forenames>
+      <Text>, C.B.E</Text>
       <PageNumber>8213</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -271,7 +276,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Currey</Key>
-      <Text>, HughS., D.S.O</Text>
+      <Text>HughS., D.S.O</Text>
       <PageNumber>9034</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -317,8 +322,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hardinge</Key>
-      <Forenames>Cdr</Forenames>
-      <Text>. (retd.) Theodore J</Text>
+      <Title>Cdr. (retd.)</Title>
+      <Forenames>Theodore J.</Forenames>
       <PageNumber>9033</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -471,14 +476,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Sparrow</Key>
-      <Text>, ;Eng Cdr. Frederic W. (at own request)</Text>
+      <Text>;Eng Cdr. Frederic W. (at own request)</Text>
       <PageNumber>8520</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>White</Key>
-      <Text>(Eng. Cdr. retd.),George H</Text>
+      <Title>(Eng. Cdr. retd.)</Title>
+      <Text>,George H</Text>
       <PageNumber>7939</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -560,7 +566,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Beedler</Key>
-      <Text>(Lt. retd.), William H</Text>
+      <Title>(Lt. retd.)</Title>
+      <Text>, William H</Text>
       <PageNumber>8411</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -816,8 +823,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Moore</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Cdr., Aubrey E. D. (at own request)</Text>
+      <Title>Lt.</Title>
+      <Text>-Cdr., Aubrey E. D. (at own request)</Text>
       <PageNumber>8213</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -894,8 +901,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ross</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Cdr. Arthur V. (at own request)</Text>
+      <Title>Lt.</Title>
+      <Text>-Cdr. Arthur V. (at own request)</Text>
       <PageNumber>8954</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -918,8 +925,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Seymour</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Cdr. Lord George F. (at own request)</Text>
+      <Title>Lt.</Title>
+      <Text>-Cdr. Lord George F. (at own request)</Text>
       <PageNumber>7940</PageNumber>
     </MainItem>
   </ItemGroup>

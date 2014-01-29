@@ -3,7 +3,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ewer</Key>
-      <Text>, Maj, (temp. iLt.-Col., Essex R., T.F.) G. G., D.S.O. (retains) temp, rank of Lt.-Col. whilst comdg. the 2/22nd Bn., Lond. R.)</Text>
+      <Title>Maj</Title>
+      <Text>, (temp. iLt.-Col., Essex R., T.F.) G. G., D.S.O. (retains) temp, rank of Lt.-Col. whilst comdg. the 2/22nd Bn., Lond. R.)</Text>
       <PageNumber>6432</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -32,7 +33,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gartside</Key>
-      <Text>, Capt. {B.t. Maj.) L., D.S.O. (temp. Lt.-Col. comdg. . the 7th 'Bn.. High. L.I.)</Text>
+      <Title>Capt.</Title>
+      <Text>{B.t. Maj.) L., D.S.O. (temp. Lt.-Col. comdg. . the 7th 'Bn.. High. L.I.)</Text>
       <PageNumber>5353</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -79,7 +81,7 @@
   <ItemGroup>
     <MainItem>
       <Key>James</Key>
-      <Text>, 'Capt. {actg. Maj.) C. R., M.C. (retains rank of Maj. whilst 2nd in comd. of the l/5th Bn., Suff. R.)</Text>
+      <Text>'Capt. {actg. Maj.) C. R., M.C. (retains rank of Maj. whilst 2nd in comd. of the l/5th Bn., Suff. R.)</Text>
       <PageNumber>6872</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -177,14 +179,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Arnfield</Key>
-      <Text>, late temp, 2nd Lt. J. F. . (Hon. 2nd Lt.)</Text>
+      <Title>late</Title>
+      <Text>temp, 2nd Lt. J. F. . (Hon. 2nd Lt.)</Text>
       <PageNumber>5203</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Baldwin</Key>
-      <Text>, late temp. Capt. ®. (Hon. ©apt.) '</Text>
+      <Title>late temp. Capt.</Title>
+      <Text>®. (Hon. ©apt.) '</Text>
       <PageNumber>5203</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -208,15 +212,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Downing</Key>
-      <Forenames>Lit</Forenames>
-      <Text>.-Col. H. J., D.S.O., OJB.IE. (ceases' to comd. the 3rd Vol. Bn., The Devonshire R*gt.)</Text>
+      <Title>Lit.</Title>
+      <Text>-Col. H. J., D.S.O., OJB.IE. (ceases' to comd. the 3rd Vol. Bn., The Devonshire R*gt.)</Text>
       <PageNumber>5704</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Evans</Key>
-      <Text>, late temp. 2nd Lt. T. (Hon. 2nd Lt.)</Text>
+      <Title>late temp. 2nd Lt.</Title>
+      <Forenames>T.</Forenames>
+      <Text>(Hon. 2nd Lt.)</Text>
       <PageNumber>5203</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -232,14 +238,18 @@
   <ItemGroup>
     <MainItem>
       <Key>Hornby</Key>
-      <Text>, late temp. 2nd Lt. H. H. (Hon. 2nd Lt.)</Text>
+      <Title>late temp. 2nd Lt.</Title>
+      <Forenames>H. H.</Forenames>
+      <Text>(Hon. 2nd Lt.)</Text>
       <PageNumber>5203</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hughes</Key>
-      <Text>, late temp. 2nd Lt. J. M. (Hon. 2nd Lt.)</Text>
+      <Title>late temp. 2nd Lt.</Title>
+      <Forenames>J. M.</Forenames>
+      <Text>(Hon. 2nd Lt.)</Text>
       <PageNumber>5203</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -248,14 +258,18 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>late temp. Lt. T. (Hon. Lt.)</Text>
+      <Title>late temp. Lt.</Title>
+      <Forenames>T.</Forenames>
+      <Text>(Hon. Lt.)</Text>
       <PageNumber>5203</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Jones</Key>
-      <Text>, late temp. Capt. B. T. (/Hon. Uapt.)-</Text>
+      <Title>late temp. Capt.</Title>
+      <Forenames>B. T.</Forenames>
+      <Text>(/Hon. Uapt.)-</Text>
       <PageNumber>6203</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -264,7 +278,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>late temp. 2nd Lt. E. (Hon. 2nd Lt.)</Text>
+      <Title>late temp. 2nd Lt.</Title>
+      <Forenames>E.</Forenames>
+      <Text>(Hon. 2nd Lt.)</Text>
       <PageNumber>5203</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -274,7 +290,7 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>(Hon. 2nd Lt.)</Text>
+      <Title>(Hon. 2nd Lt.)</Title>
       <PageNumber>5203</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -283,7 +299,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>(Hon. 2nd Lt.)</Text>
+      <Title>(Hon. 2nd Lt.)</Title>
       <PageNumber>5203</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -302,8 +318,8 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>.)</Text>
+      <Title>Lt.</Title>
+      <Text>)</Text>
       <PageNumber>6203</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -323,35 +339,43 @@
   <ItemGroup>
     <MainItem>
       <Key>Jones-Williams</Key>
-      <Text>, late temp. Lt. J. (Hon. Lt.)</Text>
+      <Title>late temp. Lt.</Title>
+      <Forenames>J.</Forenames>
+      <Text>(Hon. Lt.)</Text>
       <PageNumber>5203</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Joyes</Key>
-      <Text>, temp. 'Lt. A. (resigns commn., and to be Hon. Lt.)</Text>
+      <Title>temp.</Title>
+      <Text>'Lt. A. (resigns commn., and to be Hon. Lt.)</Text>
       <PageNumber>5463</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Kershaw</Key>
-      <Text>, late temp. Capt. and 2nd in comd. E. B. H. (Hon. Capt.)</Text>
+      <Title>late temp. Capt.</Title>
+      <Text>and 2nd in comd. E. B. H. (Hon. Capt.)</Text>
       <PageNumber>5023</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Kirkiby</Key>
-      <Text>, late temp. Capt. D. N. (Hon. Capt.)</Text>
+      <Title>late temp. Capt.</Title>
+      <Forenames>D. N.</Forenames>
+      <Text>(Hon. Capt.)</Text>
       <PageNumber>5203</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Owen</Key>
-      <Text>, late temp. Lt. J. ir. (Hon. Lt.)</Text>
+      <Title>late temp. Lt.</Title>
+      <Forenames>J.</Forenames>
+      <Text>ir. (Hon. Lt.)</Text>
       <PageNumber>5203</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -360,7 +384,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Hon. 2nd Lt.)</Text>
+      <Title>(Hon. 2nd Lt.)</Title>
       <PageNumber>5203</PageNumber>
     </MainItem>
     <SubItem>
@@ -371,7 +395,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Parry-Jones</Key>
-      <Text>, late temp. Capt. G. (Hon. Capt.)</Text>
+      <Title>late temp. Capt.</Title>
+      <Forenames>G.</Forenames>
+      <Text>(Hon. Capt.)</Text>
       <PageNumber>5203</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -380,8 +406,8 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>.)</Text>
+      <Title>Lt.</Title>
+      <Text>)</Text>
       <PageNumber>5203</PageNumber>
     </MainItem>
     <SubItem>
@@ -392,21 +418,26 @@
   <ItemGroup>
     <MainItem>
       <Key>Ramsay</Key>
-      <Text>, late temp. 2nd Lt. W. A. de la B. {Hon. 2nd Lt.)</Text>
+      <Title>late temp. 2nd Lt.</Title>
+      <Forenames>W. A.</Forenames>
+      <Text>de la B. {Hon. 2nd Lt.)</Text>
       <PageNumber>5203</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Rooke</Key>
-      <Text>, late tamp. 2nd Lt. R. G. (IHlon. 2nd Lt.) :</Text>
+      <Title>late</Title>
+      <Text>tamp. 2nd Lt. R. G. (IHlon. 2nd Lt.) :</Text>
       <PageNumber>5203</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Rowlands</Key>
-      <Text>, late temp. 2nd Lt. E. L. (Hion. 2nd Lt.)</Text>
+      <Title>late temp. 2nd Lt.</Title>
+      <Forenames>E. L.</Forenames>
+      <Text>(Hion. 2nd Lt.)</Text>
       <PageNumber>5203</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -426,23 +457,26 @@
   <ItemGroup>
     <MainItem>
       <Key>Terry</Key>
-      <Text>, late temp. Lt. J. C. (Hon. Lt.)</Text>
+      <Title>late temp. Lt.</Title>
+      <Forenames>J. C.</Forenames>
+      <Text>(Hon. Lt.)</Text>
       <PageNumber>5203</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Walker</Key>
-      <Text>, late temp. Capt. H. E. (Hon. Capt.)</Text>
+      <Title>late temp. Capt.</Title>
+      <Forenames>H. E.</Forenames>
+      <Text>(Hon. Capt.)</Text>
       <PageNumber>5203</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Warde</Key>
-      <Title>temp.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. and Group Comdt. Sir C. E., St., O.B.E. .(rel. oomnin., and to ibe Hon. Lt.-Col,), Sub. Not. ... ,</Text>
+      <Title>temp. Lt.-Col.</Title>
+      <Text>and Group Comdt. Sir C. E., St., O.B.E. .(rel. oomnin., and to ibe Hon. Lt.-Col,), Sub. Not. ... ,</Text>
       <PageNumber>5203</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -460,7 +494,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Williams</Key>
-      <Text>, late temp. 2nd Lt. W. A. (Hon. 2nd Lt.)</Text>
+      <Title>late temp. 2nd Lt.</Title>
+      <Forenames>W. A.</Forenames>
+      <Text>(Hon. 2nd Lt.)</Text>
       <PageNumber>5203</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -506,7 +542,9 @@
       <Key>
         <KeyDitto>___ —— ___</KeyDitto>
       </Key>
-      <Text>2nd Lt. J. L. (rel. temp, commn. on ceasing to be empld. witlh Union Imp. iSerViioe Oont., and retains rank of 2nd Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>J. L.</Forenames>
+      <Text>(rel. temp, commn. on ceasing to be empld. witlh Union Imp. iSerViioe Oont., and retains rank of 2nd Lt.)</Text>
       <PageNumber>4825</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -542,15 +580,18 @@
   <ItemGroup>
     <MainItem>
       <Key>Armitage</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. T. IW., D.S.O. (rel. temp, oommn, on ceasing to ibe empld. with Union Imp. Service Obnt., and retains rank of Lt.-Col.)</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>T.</Forenames>
+      <Text>IW., D.S.O. (rel. temp, oommn, on ceasing to ibe empld. with Union Imp. Service Obnt., and retains rank of Lt.-Col.)</Text>
       <PageNumber>4824</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Ashbumer</Key>
-      <Text>, temp. 2nd Lt. T. D. E. (rel. commn. on aoc. of illhealth caused by wounds, and retains, rank of 2nd Lt., oor.r. of date), Sulb. Not</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>T. D. E.</Forenames>
+      <Text>(rel. commn. on aoc. of illhealth caused by wounds, and retains, rank of 2nd Lt., oor.r. of date), Sulb. Not</Text>
       <PageNumber>6686</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -566,7 +607,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Barrett</Key>
-      <Text>, 2nd Lt. T. (rel. temp, oommn. on ceasing to Ibe empld. with Union Imp. Service Oont., and retains rank of 2nd Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>T.</Forenames>
+      <Text>(rel. temp, oommn. on ceasing to Ibe empld. with Union Imp. Service Oont., and retains rank of 2nd Lt.)</Text>
       <PageNumber>4825</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -609,15 +652,18 @@
   <ItemGroup>
     <MainItem>
       <Key>Beningfield</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (actg. Capt.) W. R. (rel. temp, commn. on ceasing to be empld., and granted rank of Capt.)</Text>
+      <Title>Lt. (actg. Capt.)</Title>
+      <Forenames>W. R.</Forenames>
+      <Text>(rel. temp, commn. on ceasing to be empld., and granted rank of Capt.)</Text>
       <PageNumber>4808</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Bennett</Key>
-      <Text>, temp. 2nd Lt. F. H. (temp. Lt.) (rel. commn. on completion of service, and retains rank of Lt.)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>F. H.</Forenames>
+      <Text>(temp. Lt.) (rel. commn. on completion of service, and retains rank of Lt.)</Text>
       <PageNumber>4826</PageNumber>
     </MainItem>
   </ItemGroup>

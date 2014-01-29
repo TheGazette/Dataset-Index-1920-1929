@@ -30,8 +30,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Macquoid</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. C. E. E. F. K., [D.lS.iO. (Col.)</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>C. E. E. F. K.</Forenames>
+      <Text>, [D.lS.iO. (Col.)</Text>
       <PageNumber>7946</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -56,9 +57,9 @@
   <ItemGroup>
     <MainItem>
       <Key>MoRitwhie</Key>
-      <Title>temp.</Title>
-      <Forenames>Chapln</Forenames>
-      <Text>., 4th CI., Rev. D. (rel. commn. and to Ibe Hon. Ohapln., 4th CI.)</Text>
+      <Title>temp. Chapln., 4th CI., Rev.</Title>
+      <Forenames>D.</Forenames>
+      <Text>(rel. commn. and to Ibe Hon. Ohapln., 4th CI.)</Text>
       <PageNumber>7294</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -96,15 +97,17 @@
   <ItemGroup>
     <MainItem>
       <Key>McTaggart</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. . G. H. B. (rel. oommn. and retains rank of Lt.)</Text>
+      <Title>Lt.</Title>
+      <Text>. G. H. B. (rel. oommn. and retains rank of Lt.)</Text>
       <PageNumber>9285</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Maerivvish</Key>
-      <Text>2nd Lt. (aotg. .Capt.) (now promoted Lt.) P. W., M.C. {reverts to sulbstantive rank of 2nd Lt.), Su!b. Not</Text>
+      <Title>2nd Lt. (aotg. .Capt.) (now promoted Lt.)</Title>
+      <Forenames>P. W.</Forenames>
+      <Text>, M.C. {reverts to sulbstantive rank of 2nd Lt.), Su!b. Not</Text>
       <PageNumber>8560</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -120,7 +123,9 @@
   <ItemGroup>
     <MainItem>
       <Key>MoViioker</Key>
-      <Text>Capt. (Jote temp. Capt,, R.A.M.IC.) Daniel, M.B. (Capt., R.A.M.C.)</Text>
+      <Title>Capt. (Jote temp. Capt,, R.A.M.IC.)</Title>
+      <Forenames>Daniel</Forenames>
+      <Text>, M.B. (Capt., R.A.M.C.)</Text>
       <PageNumber>7937</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -147,7 +152,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>2nd Lt. W. (Conn. Rangers) (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>W.</Forenames>
+      <Text>(Conn. Rangers) (Lt.)</Text>
       <PageNumber>8776</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -172,7 +179,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Malbh</Key>
-      <Text>temp. ILt. V. L., M.C. (ceases to he Adjt., Tank Corps) _</Text>
+      <Title>temp.</Title>
+      <Text>ILt. V. L., M.C. (ceases to he Adjt., Tank Corps) _</Text>
       <PageNumber>9196</PageNumber>
     </MainItem>
     <SubItem>
@@ -210,7 +218,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Madden</Key>
-      <Text>temp. 2nd Lit. F. B. (temp. ILt.)</Text>
+      <Title>temp.</Title>
+      <Text>2nd Lit. F. B. (temp. ILt.)</Text>
       <PageNumber>8769</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -239,21 +248,25 @@
   <ItemGroup>
     <MainItem>
       <Key>Maddison</Key>
-      <Text>2nd Lt. L. F. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>L. F.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>7666</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Maddook</Key>
-      <Text>temp. 2nd Lt. T. .(temp. Lt.)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>T.</Forenames>
+      <Text>.(temp. Lt.)</Text>
       <PageNumber>8786</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Miaddre</Key>
-      <Text>ll; Tit. S. K. (rel. oommn. and retains rank of Lt.)</Text>
+      <Text>.ll; Tit. S. K. (rel. oommn. and retains rank of Lt.)</Text>
       <PageNumber>9038</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -269,14 +282,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Madi</Key>
-      <Text>ll. temp. Chapln., 4th CI. Rev. J. M. M. (rel. comron. and npptd. Hlon. Ohiapln. 4th CI.)</Text>
+      <Text>.ll. temp. Chapln., 4th CI. Rev. J. M. M. (rel. comron. and npptd. Hlon. Ohiapln. 4th CI.)</Text>
       <PageNumber>8783</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Maga</Key>
-      <Text>ll,. Lt. F. N. (rel. coinmn. and retains rank of Lt.)</Text>
+      <Text>.ll,. Lt. F. N. (rel. coinmn. and retains rank of Lt.)</Text>
       <PageNumber>8151</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -334,7 +347,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Maher</Key>
-      <Text>temp. 2nd Lt. B. J. (temp. Lt.)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>B. J.</Forenames>
+      <Text>(temp. Lt.)</Text>
       <PageNumber>7097</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -376,7 +391,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>temp. 2nd Lt. W., D.C.M. (temp. Lt.) ,</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>W.</Forenames>
+      <Text>, D.C.M. (temp. Lt.) ,</Text>
       <PageNumber>9592</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -475,14 +492,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Ma</Key>
-      <Text>joriban.ks 2nd iLt. E. (rel. comron. and retains rank of 2nd Lt.)</Text>
+      <Text>.joriban.ks 2nd iLt. E. (rel. comron. and retains rank of 2nd Lt.)</Text>
       <PageNumber>869</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Make-ham</Key>
-      <Text>Lt. L. C. (placed on h.p. list on acc. of ill-health)</Text>
+      <Text>. Lt. L. C. (placed on h.p. list on acc. of ill-health)</Text>
       <PageNumber>9348</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -510,11 +527,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Maiden</Key>
-      <Text>Oa.pt. C. C. (Adit.)</Text>
+      <Text>. Oa.pt. C. C. (Adit.)</Text>
       <PageNumber>7936</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Rel. note, ra.nk of Maj</Text>
+      <Text>Rel. note, ra.nk of Maj.</Text>
       <PageNumber>8469</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -530,28 +547,30 @@
   <ItemGroup>
     <MainItem>
       <Key>Miailfkin</Key>
-      <Text>Lt. F. (rel. commn. and re tains rank of Lt.)</Text>
+      <Text>. Lt. F. (rel. commn. and re tains rank of Lt.)</Text>
       <PageNumber>9439</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Mal</Key>
-      <Text>lefon, temp. Lt. B. K.. M.C. (.rel. commn. on completion of service, and retains rank of Lt.)</Text>
+      <Text>.lefon, temp. Lt. B. K.. M.C. (.rel. commn. on completion of service, and retains rank of Lt.)</Text>
       <PageNumber>7095</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Mallet</Key>
-      <Text>Lt. T. H. M. (rel. aotg. rank of Miaj.)</Text>
+      <Text>. Lt. T. H. M. (rel. aotg. rank of Miaj.)</Text>
       <PageNumber>8542</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Mallett</Key>
-      <Text>2nd Lt. (late temp. 2nd Lt., Middx R.) H. J. (rel. rank of 2nd Lt. on joining the ranks)</Text>
+      <Title>2nd Lt. (late temp. 2nd Lt., Middx R.)</Title>
+      <Forenames>H. J.</Forenames>
+      <Text>(rel. rank of 2nd Lt. on joining the ranks)</Text>
       <PageNumber>9294</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -630,7 +649,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Malony</Key>
-      <Text>temp. 2nd Lt. W., M.C. (temp. Lt.)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>W.</Forenames>
+      <Text>, M.C. (temp. Lt.)</Text>
       <PageNumber>9501</PageNumber>
     </MainItem>
     <SubItem>
@@ -697,9 +718,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mangan</Key>
-      <Title>temp.</Title>
-      <Forenames>Chapln</Forenames>
-      <Text>., 4th CI., .Rev. R. L. (rel. commn. and to be Hon. Chapln., 4th CI.)</Text>
+      <Title>temp. Chapln., 4th CI.</Title>
+      <Text>, .Rev. R. L. (rel. commn. and to be Hon. Chapln., 4th CI.)</Text>
       <PageNumber>9499</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -722,7 +742,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Manley</Key>
-      <Text>temp. 2nd Lt. A. W. (rel. commn. on completion of service and retains rank of 2nd Lt.)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>A. W.</Forenames>
+      <Text>(rel. commn. on completion of service and retains rank of 2nd Lt.)</Text>
       <PageNumber>8136</PageNumber>
     </MainItem>
   </ItemGroup>

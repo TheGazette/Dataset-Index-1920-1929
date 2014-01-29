@@ -86,7 +86,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cardew</Key>
-      <Text>, D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>965</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -274,7 +274,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gibson</Key>
-      <Text>, &lt;5. (and retains rank, of Lt.)</Text>
+      <Text>&lt;5. (and retains rank, of Lt.)</Text>
       <PageNumber>965</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -505,7 +505,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stewart</Key>
-      <Text>, Maj. Gen. sir J. M., K.C.M.G., C.B</Text>
+      <Title>Maj.</Title>
+      <Text>Gen. sir J. M., K.C.M.G., C.B</Text>
       <PageNumber>1832</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -566,8 +567,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Underhill</Key>
-      <Forenames>Geo</Forenames>
-      <Text>., D.S.C. (on aco. of -</Text>
+      <Title>Geo.</Title>
+      <Text>, D.S.C. (on aco. of -</Text>
       <PageNumber>172</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -729,7 +730,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tindal</Key>
-      <Forenames>Ralph</Forenames>
+      <Title>Ralph .</Title>
       <PageNumber>284</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -984,7 +985,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Knox</Key>
-      <Text>, RobertG., O.B.E. .„</Text>
+      <Text>RobertG., O.B.E. .„</Text>
       <PageNumber>839</PageNumber>
     </MainItem>
   </ItemGroup>

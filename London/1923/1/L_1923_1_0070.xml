@@ -49,8 +49,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Dalton</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. N., M.D. (is retired, having attained age limit, and retains rank of Lt.Col.)</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>N.</Forenames>
+      <Text>, M.D. (is retired, having attained age limit, and retains rank of Lt.Col.)</Text>
       <PageNumber>612</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -66,15 +67,18 @@
   <ItemGroup>
     <MainItem>
       <Key>Dalziel</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Sir T. K., Knt., M.B. (is retired, having attained age limit, and retains rank of Lt.-Col.)</Text>
+      <Title>Lt.-Col. Sir</Title>
+      <Forenames>T. K.</Forenames>
+      <Text>, Knt., M.B. (is retired, having attained age limit, and retains rank of Lt.-Col.)</Text>
       <PageNumber>2169</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Dammars</Key>
-      <Text>, Maj. (T.A. Res.) G. M., D.S.O., M.C. (Maj., T.A. Res., Gen. List, Yeo.)</Text>
+      <Title>Maj. (T.A. Res.)</Title>
+      <Forenames>G. M.</Forenames>
+      <Text>, D.S.O., M.C. (Maj., T.A. Res., Gen. List, Yeo.)</Text>
       <PageNumber>810</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -90,8 +94,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Danielsen</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. F. G., D.S.O., T.D. TCol., from 6th Bn., R. Warwick R.)</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>F. G.</Forenames>
+      <Text>, D.S.O., T.D. TCol., from 6th Bn., R. Warwick R.)</Text>
       <PageNumber>2239</PageNumber>
     </MainItem>
     <SubItem>
@@ -149,8 +154,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Davies</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. D. S., M.D. (is retired, having attained age limit, and retains rank of Lt.Col.)</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>D. S.</Forenames>
+      <Text>, M.D. (is retired, having attained age limit, and retains rank of Lt.Col.)</Text>
       <PageNumber>1995</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -159,8 +165,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>. EA. (trd. to 48th (S. Mid.) Div. Engrs., from lstBatt., S. Mid. Div. Engrs., retaining present rank of Lt. and precedence in T.A.)</Text>
+      <Title>Lt.</Title>
+      <Text>EA. (trd. to 48th (S. Mid.) Div. Engrs., from lstBatt., S. Mid. Div. Engrs., retaining present rank of Lt. and precedence in T.A.)</Text>
       <PageNumber>612</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -212,9 +218,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Title>Lt.</Title>
-      <Forenames>Llewellyn</Forenames>
-      <Text>.(resigns commn. and retains rank of Lt.)</Text>
+      <Title>Lt. Llewellyn .(resigns commn. and retains rank of Lt.)</Title>
       <PageNumber>1073</PageNumber>
     </MainItem>
     <KeyDitto>___ ___</KeyDitto>
@@ -228,8 +232,8 @@
       <Key>
         <KeyDitto>—— ___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>.. P. B. (resigns commn. and retains rank of Lt.)</Text>
+      <Title>Lt.</Title>
+      <Text>. P. B. (resigns commn. and retains rank of Lt.)</Text>
       <PageNumber>1497</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -247,8 +251,9 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (T.A. Res.) R. A. (5th Bn., T.A. Res., Regtl. List, The King's R., from 8th Bn., and retains rank of Lt. and precedence)</Text>
+      <Title>Lt. (T.A. Res.)</Title>
+      <Forenames>R. A.</Forenames>
+      <Text>(5th Bn., T.A. Res., Regtl. List, The King's R., from 8th Bn., and retains rank of Lt. and precedence)</Text>
       <PageNumber>1075</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -297,8 +302,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (Capt., prov.) G. B., M.C. (Lt., T.A. Res., Regtl. List, 83rd (Welsh) Bde., Arty., from Active List)</Text>
+      <Title>Lt. (Capt., prov.)</Title>
+      <Forenames>G. B.</Forenames>
+      <Text>, M.C. (Lt., T.A. Res., Regtl. List, 83rd (Welsh) Bde., Arty., from Active List)</Text>
       <PageNumber>1995</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -307,7 +313,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>Capt. (T.A. Res.) J. H. T. (Capt., T.A. Res., Gen. List, Yeo.)</Text>
+      <Title>Capt. (T.A. Res.)</Title>
+      <Forenames>J. H. T.</Forenames>
+      <Text>(Capt., T.A. Res., Gen. List, Yeo.)</Text>
       <PageNumber>1075</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -316,15 +324,18 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>Hon. Col. (Lt.-Col., ret., T.F.) W. S., T.D. (Hon. Col., 70th (W. Rid.) Bde., R.F.A., with precedence as in T.A.,from 4th (W. Rid.) Bde., R.F.A.)</Text>
+      <Title>Hon. Col. (Lt.-Col., ret., T.F.)</Title>
+      <Forenames>W. S.</Forenames>
+      <Text>, T.D. (Hon. Col., 70th (W. Rid.) Bde., R.F.A., with precedence as in T.A.,from 4th (W. Rid.) Bde., R.F.A.)</Text>
       <PageNumber>223</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Day</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. C. R. L., T.D. (trd. to T.A. Res., Regtl. List, 5/7th Bn., Hamp. R., from 5th Bn., retaining rank of Lt.Col. and precedence)</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>C. R. L.</Forenames>
+      <Text>, T.D. (trd. to T.A. Res., Regtl. List, 5/7th Bn., Hamp. R., from 5th Bn., retaining rank of Lt.Col. and precedence)</Text>
       <PageNumber>613</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -349,21 +360,27 @@
   <ItemGroup>
     <MainItem>
       <Key>Delahaye</Key>
-      <Text>, Capt. (Bt. Maj.) J. V., D.S.O., M.C. (Adjt., 65th (8th Lond.) Bde., R.F.A.)</Text>
+      <Title>Capt. (Bt. Maj.)</Title>
+      <Forenames>J. V.</Forenames>
+      <Text>, D.S.O., M.C. (Adjt., 65th (8th Lond.) Bde., R.F.A.)</Text>
       <PageNumber>2319</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Denham</Key>
-      <Text>, 2nd Lt. F. A. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>F. A.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>1822</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Dennes</Key>
-      <Text>, 2nd Lt. E. W. (resigns commn.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>E. W.</Forenames>
+      <Text>(resigns commn.)</Text>
       <PageNumber>1232</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -393,15 +410,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Derby</Key>
-      <Text>, Hon. Col. (Lanes, and Cheshire Coast Bde., R.G.A., T.A.), Rt. Hon. the Earl of, K.G., G.C.B., G.C.V.O., Secretary of State for War (Hon. Col., 106th (Lanes. Yeo.) Bde. (A.T.). R.F.A.)</Text>
+      <Title>Hon. Col.</Title>
+      <Text>(Lanes, and Cheshire Coast Bde., R.G.A., T.A.), Rt. Hon. the Earl of, K.G., G.C.B., G.C.V.O., Secretary of State for War (Hon. Col., 106th (Lanes. Yeo.) Bde. (A.T.). R.F.A.)</Text>
       <PageNumber>998</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Deyns</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. C. J., T.D. (is retired, having attained age limit, and retains rank of Lt.Col., with pea-mission to wear prescribed uniform)</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>C. J.</Forenames>
+      <Text>, T.D. (is retired, having attained age limit, and retains rank of Lt.Col., with pea-mission to wear prescribed uniform)</Text>
       <PageNumber>2169</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -448,7 +467,9 @@
       <Key>
         <KeyDitto>___ ___ ___ .</KeyDitto>
       </Key>
-      <Text>2nd Lt. W. M. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>W. M.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>1412</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -463,8 +484,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Dobson</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. J. F., M.B., F.R.C.S. (Lt.-Col., T.A. Res., R.A.M.C., Gen. Hosps., from 2nd Northern Gen. Hosp.)</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>J. F.</Forenames>
+      <Text>, M.B., F.R.C.S. (Lt.-Col., T.A. Res., R.A.M.C., Gen. Hosps., from 2nd Northern Gen. Hosp.)</Text>
       <PageNumber>1157</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -499,8 +521,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Donovan</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. T., T.D. (resigns commn. and retains rank of Lt.-Col. with permission to wear prescribed uniform)</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>T.</Forenames>
+      <Text>, T.D. (resigns commn. and retains rank of Lt.-Col. with permission to wear prescribed uniform)</Text>
       <PageNumber>455</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -527,8 +550,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Dow</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (T.A. Res.) J. A. (T.A. Res., Regtl. List, 6th Bn., The King's R., from 8th Bn., and retains rank of Lt. and precedence)</Text>
+      <Title>Lt. (T.A. Res.)</Title>
+      <Forenames>J. A.</Forenames>
+      <Text>(T.A. Res., Regtl. List, 6th Bn., The King's R., from 8th Bn., and retains rank of Lt. and precedence)</Text>
       <PageNumber>1075</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -572,8 +596,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Drever</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. D. L., T.D. (Lt.Col., T.A. Res., Gen. List, Art., from Orkney Coast Bde., R.G.A.)</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>D. L.</Forenames>
+      <Text>, T.D. (Lt.Col., T.A. Res., Gen. List, Art., from Orkney Coast Bde., R.G.A.)</Text>
       <PageNumber>225</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -606,7 +631,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Duddell</Key>
-      <Text>, Capt. (late R. Warwick R.) A. G. (Lt., Gen. List, for service with Nottingham High Schl. Cont., Jun. Div., O.T.C., and rel. rank of Capt.)</Text>
+      <Title>Capt. (late R. Warwick R.)</Title>
+      <Forenames>A. G.</Forenames>
+      <Text>(Lt., Gen. List, for service with Nottingham High Schl. Cont., Jun. Div., O.T.C., and rel. rank of Capt.)</Text>
       <PageNumber>613</PageNumber>
     </MainItem>
     <SubItem>
@@ -630,7 +657,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Duff</Key>
-      <Text>, 2nd Lt. the Rev. Alfred Drummond (Chapln., 4th CI., late 17th (S.) Bn., A. and S. H., and rel. rank of 2nd Lt.)</Text>
+      <Title>2nd Lt. the Rev.</Title>
+      <Forenames>Alfred Drummond</Forenames>
+      <Text>(Chapln., 4th CI., late 17th (S.) Bn., A. and S. H., and rel. rank of 2nd Lt.)</Text>
       <PageNumber>1306</PageNumber>
     </MainItem>
   </ItemGroup>

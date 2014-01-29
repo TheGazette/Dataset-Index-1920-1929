@@ -68,7 +68,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Robinson</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>7462</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -427,7 +427,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lawrence</Key>
-      <Forenames>John</Forenames>
+      <Title>John .</Title>
       <PageNumber>6948</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -448,7 +448,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Niblett</Key>
-      <Forenames>Geoffrey</Forenames>
+      <Title>Geoffrey .</Title>
       <PageNumber>6948</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -512,7 +512,9 @@
   <ItemGroup>
     <MainItem>
       <Key>McClintock</Key>
-      <Text>, Capt. (Comdre., 2nd CI.) John W. L., C.B., D.S.O</Text>
+      <Title>Capt. (Comdre., 2nd CI.)</Title>
+      <Forenames>John W. L.</Forenames>
+      <Text>, C.B., D.S.O</Text>
       <PageNumber>6021</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -528,7 +530,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Woollcombe</Key>
-      <Text>, Capt. (Comdre., 2nd CI.) Louis-CS., C.B., M.V.O</Text>
+      <Title>Capt. (Comdre., 2nd CI.)</Title>
+      <Forenames>Louis-</Forenames>
+      <Text>CS., C.B., M.V.O</Text>
       <PageNumber>6021</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -786,7 +790,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Paul</Key>
-      <Text>, 0. R., C.B.E</Text>
+      <Text>0. R., C.B.E</Text>
       <PageNumber>7679</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -794,8 +798,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hore</Key>
-      <Forenames>Fred</Forenames>
-      <Text>., C.B</Text>
+      <Title>Fred.</Title>
+      <Text>, C.B</Text>
       <PageNumber>7459</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -812,8 +816,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Share</Key>
-      <Forenames>Payr</Forenames>
-      <Text>.-Capt. Sir Hamnet H., K.B.E., C.B</Text>
+      <Title>Payr.</Title>
+      <Text>-Capt. Sir Hamnet H., K.B.E., C.B</Text>
       <PageNumber>5358</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1017,7 +1021,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Benn</Key>
-      <Text>, E, P. St. J</Text>
+      <Forenames>E</Forenames>
+      <Text>, P. St. J</Text>
       <PageNumber>5245</PageNumber>
     </MainItem>
   </ItemGroup>

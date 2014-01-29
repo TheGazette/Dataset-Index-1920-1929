@@ -29,7 +29,7 @@
   <ItemGroup>
     <MainItem>
       <Key>iBottrill</Key>
-      <Text>, .Capt. :E. (rel. temp, commn. on ceasing to ibe empld. with Union Imp. Service Oont., and retains rank of Capt.)</Text>
+      <Text>.Capt. :E. (rel. temp, commn. on ceasing to ibe empld. with Union Imp. Service Oont., and retains rank of Capt.)</Text>
       <PageNumber>5222</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -92,7 +92,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>2nd Lt. W. J. (rel. temp. commn. on completion of service, and retains rank) '</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>W. J.</Forenames>
+      <Text>(rel. temp. commn. on completion of service, and retains rank) '</Text>
       <PageNumber>4567</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -117,8 +119,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Bulman</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. C, (D., D.C.M. (rel. temp, oommn. on acc. of illhealth, and retains rank)</Text>
+      <Title>Lt.</Title>
+      <Forenames>C</Forenames>
+      <Text>, (D., D.C.M. (rel. temp, oommn. on acc. of illhealth, and retains rank)</Text>
       <PageNumber>4567</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -143,7 +146,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Charlton</Key>
-      <Text>, 2nd Lt. E. H. (rel. temp, oommn. on ceasing to ibe empld. with Union Imp. Service Cont., and retains rank of 2nd Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>E. H.</Forenames>
+      <Text>(rel. temp, oommn. on ceasing to ibe empld. with Union Imp. Service Cont., and retains rank of 2nd Lt.)</Text>
       <PageNumber>6222</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -177,8 +182,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Clark</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. P. S., D.S.O., M.lB. (rel. temp, oommn. on acc. of ill-health, and retains rank of Lt.-Col.)</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>P. S.</Forenames>
+      <Text>, D.S.O., M.lB. (rel. temp, oommn. on acc. of ill-health, and retains rank of Lt.-Col.)</Text>
       <PageNumber>5560</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -297,7 +303,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Curtin</Key>
-      <Text>, temp. !Lt. S. L. C. (rel. oommn. on completion of service, and retains rank of Lt.)</Text>
+      <Title>temp.</Title>
+      <Text>!Lt. S. L. C. (rel. oommn. on completion of service, and retains rank of Lt.)</Text>
       <PageNumber>4338</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -344,7 +351,9 @@
   <ItemGroup>
     <MainItem>
       <Key>iDewes</Key>
-      <Text>, 2nd Lt. S. R. (rel. temp, commn. on ceasing to 'be empld. with Union Imp. Service Cont., and retains rank of 2nd Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>S. R.</Forenames>
+      <Text>(rel. temp, commn. on ceasing to 'be empld. with Union Imp. Service Cont., and retains rank of 2nd Lt.)</Text>
       <PageNumber>4824</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -369,14 +378,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Douglas</Key>
-      <Text>, Capt. R: D. A., M.B.E., M.iD. (rel. temp, commn. on ceasing to Ibe empld. with Union Imp. Service Oont., and retains rank of Capt.)</Text>
+      <Title>Capt.</Title>
+      <Forenames>R</Forenames>
+      <Text>: D. A., M.B.E., M.iD. (rel. temp, commn. on ceasing to Ibe empld. with Union Imp. Service Oont., and retains rank of Capt.)</Text>
       <PageNumber>5898</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Dowley</Key>
-      <Text>, Capt. ;T. p. (rel. temp. ^ commn. on aoc. of ill-health, and retains rank of Capt.)</Text>
+      <Title>Capt.</Title>
+      <Text>;T. p. (rel. temp. ^ commn. on aoc. of ill-health, and retains rank of Capt.)</Text>
       <PageNumber>5560</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -412,7 +424,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Duffey</Key>
-      <Text>, temp. 2nd Lt. L. A. (temp. Lt.)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>L. A.</Forenames>
+      <Text>(temp. Lt.)</Text>
       <PageNumber>6555</PageNumber>
     </MainItem>
     <SubItem>
@@ -452,7 +466,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>temp. 'Lt. J. C. (rel. commn. on aoc. of ill-health, amd re-, tains rank of Lt.) '</Text>
+      <Title>temp.</Title>
+      <Text>'Lt. J. C. (rel. commn. on aoc. of ill-health, amd re-, tains rank of Lt.) '</Text>
       <PageNumber>5715</PageNumber>
     </MainItem>
   </ItemGroup>

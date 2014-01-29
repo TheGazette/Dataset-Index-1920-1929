@@ -398,8 +398,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Brain</Key>
-      <Forenames>Richd</Forenames>
-      <Text>. A</Text>
+      <Title>Richd.</Title>
+      <Forenames>A</Forenames>
       <PageNumber>10141</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -586,7 +586,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hogg</Key>
-      <Forenames>James</Forenames>
+      <Title>James .</Title>
       <PageNumber>8843</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -936,7 +936,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Townsend</Key>
-      <Text>Edward R</Text>
+      <Text>. Edward R</Text>
       <PageNumber>8844</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -950,7 +950,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Underdown</Key>
-      <Text>John B</Text>
+      <Text>. John B</Text>
       <PageNumber>8843</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -988,7 +988,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Yates</Key>
-      <Forenames>William</Forenames>
+      <Title>William .</Title>
       <PageNumber>8844</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1041,8 +1041,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Avern</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Cdr. (retd.) James (Comdr., retd.) Balmer, John (Commd. Engr.)</Text>
+      <Title>Lt.</Title>
+      <Text>-Cdr. (retd.) James (Comdr., retd.) Balmer, John (Commd. Engr.)</Text>
       <PageNumber>8103</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1075,8 +1075,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bullock</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Cdr. Charles A., O.B.E. (placed on Retd. List with rank of Comdr.)</Text>
+      <Title>Lt.</Title>
+      <Text>-Cdr. Charles A., O.B.E. (placed on Retd. List with rank of Comdr.)</Text>
       <PageNumber>9257</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1108,27 +1108,25 @@
   <ItemGroup>
     <MainItem>
       <Key>Craven</Key>
-      <Title>Payr.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>.-Cdr. George E. P., R.D. (placed on Retd. List with rank of Payr. Comdr.)</Text>
+      <Title>Payr. Lt.</Title>
+      <Text>-Cdr. George E. P., R.D. (placed on Retd. List with rank of Payr. Comdr.)</Text>
       <PageNumber>8292</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Cullum</Key>
-      <Title>Payr.</Title>
-      <Forenames>Cdr</Forenames>
-      <Text>. (Registrar Thomas E., R.D. (placed on . Retd. List)</Text>
+      <Title>Payr. Cdr.</Title>
+      <Text>(Registrar Thomas E., R.D. (placed on . Retd. List)</Text>
       <PageNumber>8634</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Davies</Key>
-      <Title>Payr.</Title>
-      <Forenames>Cdr</Forenames>
-      <Text>. (Registrar) William M., R.D. (placed on Retd. List)</Text>
+      <Title>Payr. Cdr. (Registrar)</Title>
+      <Forenames>William M.</Forenames>
+      <Text>, R.D. (placed on Retd. List)</Text>
       <PageNumber>8634</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1143,9 +1141,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dunn</Key>
-      <Title>Payr.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>.-Cdr. (Registrar) Charles A., R.D. (placed on Retd. List)</Text>
+      <Title>Payr. Lt.</Title>
+      <Text>-Cdr. (Registrar) Charles A., R.D. (placed on Retd. List)</Text>
       <PageNumber>8634</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1168,17 +1165,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Ferrins</Key>
-      <Title>Payr.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>.-Cdr. (Registrar) William J. (placed on Retd. List)</Text>
+      <Title>Payr. Lt.</Title>
+      <Text>-Cdr. (Registrar) William J. (placed on Retd. List)</Text>
       <PageNumber>8634</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Fiddes</Key>
-      <Forenames>Wm</Forenames>
-      <Text>., R.D. (Payr. Comdr., retd.)</Text>
+      <Title>Wm.</Title>
+      <Text>, R.D. (Payr. Comdr., retd.)</Text>
       <PageNumber>9151</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1210,9 +1206,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Giles</Key>
-      <Title>Payr.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>.-Cdr. William F., R.D. (placed on Retd. List with rank of Payr. Comdr.)</Text>
+      <Title>Payr. Lt.</Title>
+      <Text>-Cdr. William F., R.D. (placed on Retd. List with rank of Payr. Comdr.)</Text>
       <PageNumber>8292</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1227,9 +1222,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gordon</Key>
-      <Title>Payr.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>.-Cdr. Walter, H., O.B.E., R.D. (placed on Retd. List with rank of Payr. Comdr.)</Text>
+      <Title>Payr. Lt.</Title>
+      <Text>-Cdr. Walter, H., O.B.E., R.D. (placed on Retd. List with rank of Payr. Comdr.)</Text>
       <PageNumber>10580</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1286,15 +1280,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Home</Key>
-      <Forenames>Engr</Forenames>
-      <Text>.-Lt. George L. (placed on Retd. last with rank of Engr. Lt.-Cdr.)</Text>
+      <Title>Engr.</Title>
+      <Text>-Lt. George L. (placed on Retd. last with rank of Engr. Lt.-Cdr.)</Text>
       <PageNumber>10580</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>How</Key>
-      <Text>snn, Cdr. John, C.B.E., R.D. (placed on Retd. List)</Text>
+      <Text>.snn, Cdr. John, C.B.E., R.D. (placed on Retd. List)</Text>
       <PageNumber>10276</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1317,8 +1311,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Large</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (retd.) Vincent C. (Lt.. Cdr., retd.)</Text>
+      <Title>Lt. (retd.)</Title>
+      <Forenames>Vincent C.</Forenames>
+      <Text>(Lt.. Cdr., retd.)</Text>
       <PageNumber>10373</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1333,7 +1328,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lutt</Key>
-      <Text>Payr. Lt.-Cdr. Harold E. W. R.D. (placed on Retd. List with-rank of Payr. Cdr.)</Text>
+      <Text>. Payr. Lt.-Cdr. Harold E. W. R.D. (placed on Retd. List with-rank of Payr. Cdr.)</Text>
       <PageNumber>10025</PageNumber>
     </MainItem>
   </ItemGroup>

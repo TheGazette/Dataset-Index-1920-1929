@@ -19,7 +19,7 @@
   <ItemGroup>
     <MainItem>
       <Key>K</Key>
-      <Text>v !, Henry Greville, M.D., transferred to grade of Officer, Order of St. John of Jerusalem</Text>
+      <Text>.v !, Henry Greville, M.D., transferred to grade of Officer, Order of St. John of Jerusalem</Text>
       <PageNumber>0807</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -117,8 +117,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lennox</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Colonel David, M.D., transferred to grade of Officer, Order of St. John of Jerusalem</Text>
+      <Title>Surg.</Title>
+      <Text>-Colonel David, M.D., transferred to grade of Officer, Order of St. John of Jerusalem</Text>
       <PageNumber>6619</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -205,8 +205,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Luxmoore</Key>
-      <Forenames>Surgeon-</Forenames>
-      <Text>Lieut.Colonel Evelyn John Hansler, M.C., M.R.C.S., transferred to grade of Officer, Order of St. John of Jerusalem</Text>
+      <Title>Surgeon-Lieut.</Title>
+      <Text>Colonel Evelyn John Hansler, M.C., M.R.C.S., transferred to grade of Officer, Order of St. John of Jerusalem</Text>
       <PageNumber>6807</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -279,8 +279,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Mackay</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. William Bertie, C.M.G., M.D.,Ed., M.R.C.S., transferred to grade of Officer, Order of St. John of Jerusalem</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>William Bertie</Forenames>
+      <Text>, C.M.G., M.D.,Ed., M.R.C.S., transferred to grade of Officer, Order of St. John of Jerusalem</Text>
       <PageNumber>6619</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -298,7 +299,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>Sir (William) Leslie, M.D., F.R.C.P., LL.D., member of General Council of Medical Education and Registration</Text>
+      <Title>Sir (William)</Title>
+      <Forenames>Leslie</Forenames>
+      <Text>, M.D., F.R.C.P., LL.D., member of General Council of Medical Education and Registration</Text>
       <PageNumber>6960</PageNumber>
     </MainItem>
   </ItemGroup>

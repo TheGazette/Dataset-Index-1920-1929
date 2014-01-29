@@ -210,7 +210,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Barter</Key>
-      <Text>,. apt. F., V.C.M.C. (retiremt-nt)</Text>
+      <Text>. apt. F., V.C.M.C. (retiremt-nt)</Text>
       <PageNumber>7542</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -312,7 +312,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Bazett</Key>
-      <Text>, Maj. (Snpy.) S. (Lt.-Col.)</Text>
+      <Title>Maj. (Snpy.)</Title>
+      <Forenames>S.</Forenames>
+      <Text>(Lt.-Col.)</Text>
       <PageNumber>7050</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -648,7 +650,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>2nd Lt. E. H. (retirement)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>E. H.</Forenames>
+      <Text>(retirement)</Text>
       <PageNumber>9187</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -721,8 +725,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. M. E. L. (retirtment)</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>M. E. L.</Forenames>
+      <Text>(retirtment)</Text>
       <PageNumber>7795</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -780,7 +785,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Burscough</Key>
-      <Text>,2nd Lt. Geo? ge Edward (deprived of rank of 2nd Lt. on conviction by the Civil Power)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>Geo</Forenames>
+      <Text>? ge Edward (deprived of rank of 2nd Lt. on conviction by the Civil Power)</Text>
       <PageNumber>8527</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -946,31 +953,34 @@
   <ItemGroup>
     <MainItem>
       <Key>Cassidy</Key>
-      <Text>, Capt. (temp. Maj. V. C. (rel. temp, rank on ceasing to beD.A.D.of S. andr.)</Text>
+      <Title>Capt.</Title>
+      <Text>(temp. Maj. V. C. (rel. temp, rank on ceasing to beD.A.D.of S. andr.)</Text>
       <PageNumber>9044</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Cattell</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. G. S., D.S.O. (transfer to Supery. List), on completion of ten years in civil employ)</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>G. S.</Forenames>
+      <Text>, D.S.O. (transfer to Supery. List), on completion of ten years in civil employ)</Text>
       <PageNumber>7050</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Catty</Key>
-      <Title>Maj. and Bt.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. T. C, C-M.G., D.S.O. (Lt.-Col.)</Text>
+      <Title>Maj. and Bt. Lt.-Col.</Title>
+      <Forenames>T. C</Forenames>
+      <Text>, C-M.G., D.S.O. (Lt.-Col.)</Text>
       <PageNumber>8526</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Chambers</Key>
-      <Text>, temp. 2nd Lt C. W. (tempLt.)</Text>
+      <Title>temp.</Title>
+      <Text>2nd Lt C. W. (tempLt.)</Text>
       <PageNumber>8116</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1094,9 +1104,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Clapton</Key>
-      <Title>Asst.</Title>
-      <Forenames>Commy</Forenames>
-      <Text>. andLt. O. (retirement)</Text>
+      <Title>Asst. Commy.</Title>
+      <Text>andLt. O. (retirement)</Text>
       <PageNumber>8118</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1159,7 +1168,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Collier</Key>
-      <Text>, 2nd Lt. V. T. B. (resigns commn. on account of illhealth)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>V. T. B.</Forenames>
+      <Text>(resigns commn. on account of illhealth)</Text>
       <PageNumber>7542</PageNumber>
     </MainItem>
     <SubItem>
@@ -1218,7 +1229,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Connolly</Key>
-      <Text>, 2nd Lt. D. R. V. (retirement on account of ill-health)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>D. R. V.</Forenames>
+      <Text>(retirement on account of ill-health)</Text>
       <PageNumber>7209</PageNumber>
     </MainItem>
   </ItemGroup>

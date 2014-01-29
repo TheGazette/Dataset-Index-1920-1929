@@ -18,14 +18,16 @@
   <ItemGroup>
     <MainItem>
       <Key>JeJmar</Key>
-      <Text>; ILt.-Col. A. E., M.B</Text>
+      <Text>.; ILt.-Col. A. E., M.B</Text>
       <PageNumber>7931</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Johnston</Key>
-      <Text>Capt. (temp. Lt.-Col.) J., O.B.E. Kennedy, Maj. C. C. M., M.C</Text>
+      <Title>Capt. (temp. Lt.-Col.)</Title>
+      <Forenames>J.</Forenames>
+      <Text>, O.B.E. Kennedy, Maj. C. C. M., M.C</Text>
       <PageNumber>7548</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -65,8 +67,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Leitch</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. J. W., D.S.O., M.B</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>J. W.</Forenames>
+      <Text>, D.S.O., M.B</Text>
       <PageNumber>7549</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -80,8 +83,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lomax</Key>
-      <Forenames>Ghapln</Forenames>
-      <Text>.., 2nd CI., Rev. C,</Text>
+      <Title>Ghapln.</Title>
+      <Text>., 2nd CI., Rev. C,</Text>
       <PageNumber>7549</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -95,15 +98,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Macintosh</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. J. F., M.B</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>J. F.</Forenames>
+      <Text>, M.B</Text>
       <PageNumber>7931</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Maclaren</Key>
-      <Text>Capt. D</Text>
+      <Title>Capt.</Title>
+      <Forenames>D</Forenames>
       <PageNumber>7931</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -160,7 +165,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Moore</Key>
-      <Text>Capt. E</Text>
+      <Title>Capt.</Title>
+      <Forenames>E</Forenames>
       <PageNumber>7548</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -175,7 +181,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Notley</Key>
-      <Text>Maj. A</Text>
+      <Title>Maj.</Title>
+      <Forenames>A</Forenames>
       <PageNumber>7548</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -197,15 +204,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Philp</Key>
-      <Text>Maj. J</Text>
+      <Title>Maj.</Title>
+      <Forenames>J</Forenames>
       <PageNumber>7931</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Pilkington</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. W. N., D.S.O</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>W. N.</Forenames>
+      <Text>, D.S.O</Text>
       <PageNumber>7548</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -246,7 +255,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Simpson</Key>
-      <Text>Maj. (Bt. Lt.-Col.) A. W. W., O.B.E</Text>
+      <Title>Maj. (Bt. Lt.-Col.)</Title>
+      <Forenames>A. W. W.</Forenames>
+      <Text>, O.B.E</Text>
       <PageNumber>7548</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -270,15 +281,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Steel</Key>
-      <Text>Maj. H</Text>
+      <Title>Maj.</Title>
+      <Forenames>H</Forenames>
       <PageNumber>7931</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>StSrwel</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.JCol. W. B., D.S.O</Text>
+      <Title>Lt.</Title>
+      <Text>JCol. W. B., D.S.O</Text>
       <PageNumber>7549</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -294,7 +306,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Thomas</Key>
-      <Text>Capt. T</Text>
+      <Title>Capt.</Title>
+      <Forenames>T</Forenames>
       <PageNumber>7548</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -309,8 +322,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Thynne</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. A. C, D.S.O</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>A. C</Forenames>
+      <Text>, D.S.O</Text>
       <PageNumber>7930</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -368,8 +382,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Worthington</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Cbl. W. B., . M.I.C.E., M.I.M.E</Text>
+      <Title>Lt.</Title>
+      <Text>-Cbl. W. B., . M.I.C.E., M.I.M.E</Text>
       <PageNumber>7931</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -394,8 +408,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Yonge</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. P. C, D.S.O</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>P. C</Forenames>
+      <Text>, D.S.O</Text>
       <PageNumber>7931</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -545,8 +560,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Spencer</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. L, K., M.C. (rel. actg. rank of Capt. on ceasing to be .empld. with 9tlh Bn., Lond. R.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>L</Forenames>
+      <Text>, K., M.C. (rel. actg. rank of Capt. on ceasing to be .empld. with 9tlh Bn., Lond. R.)</Text>
       <PageNumber>7569</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -617,8 +633,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Keates</Key>
-      <Forenames>Mnj</Forenames>
-      <Text>. (Hon. Lt.^Col:) W. (ceases to comd. the 2nd Vol. Bn., Staff. 'Regt.)</Text>
+      <Title>Mnj. (Hon. Lt.^Col:)</Title>
+      <Forenames>W.</Forenames>
+      <Text>(ceases to comd. the 2nd Vol. Bn., Staff. 'Regt.)</Text>
       <PageNumber>8434</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -637,7 +654,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Anderson</Key>
-      <Text>temp. 2nd Lt. J. L. (temp. Lt.)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>J. L.</Forenames>
+      <Text>(temp. Lt.)</Text>
       <PageNumber>7647</PageNumber>
     </MainItem>
     <SubItem>
@@ -648,14 +667,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Bateman</Key>
-      <Text>temp. Lt. J. O. (temp. Maj.)</Text>
+      <Text>. temp. Lt. J. O. (temp. Maj.)</Text>
       <PageNumber>7548</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Bendelstein</Key>
-      <Text>temp. 2nd Lt. A. (rel. , temp, oommn, on appt. to the R.A.F.) ..'</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>A.</Forenames>
+      <Text>(rel. , temp, oommn, on appt. to the R.A.F.) ..'</Text>
       <PageNumber>9135</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -687,7 +708,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Bramley</Key>
-      <Text>temp. 2nd Lt. H. S. (rel. commn. on acc. of illhealth and retains rank of 2nd Lt.)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>H. S.</Forenames>
+      <Text>(rel. commn. on acc. of illhealth and retains rank of 2nd Lt.)</Text>
       <PageNumber>8939</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -700,7 +723,7 @@
       <PageNumber>7559</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Lt.) .Rel. temp, commn. on completion of service and retains rank of Lt</Text>
+      <Text>Lt.) .Rel. temp, commn. on completion of service and retains rank of Lt.</Text>
       <PageNumber>7559</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -720,30 +743,36 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>temp. 2nd Lt. W. T. (rel. commn. on completion of , service and retains rank of 2nd Lt.)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>W. T.</Forenames>
+      <Text>(rel. commn. on completion of , service and retains rank of 2nd Lt.)</Text>
       <PageNumber>7437</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Burden</Key>
-      <Title>temp.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>. (actg. Capt.) H. J., D.S.O., D.F.C. (Nots. in Gazs. of 3rd July, 1918, pages 8378, 8379, and 12 Sept., 1919, page 11545 cancelled)</Text>
+      <Title>temp. Lt. (actg. Capt.)</Title>
+      <Forenames>H. J.</Forenames>
+      <Text>, D.S.O., D.F.C. (Nots. in Gazs. of 3rd July, 1918, pages 8378, 8379, and 12 Sept., 1919, page 11545 cancelled)</Text>
       <PageNumber>8769</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Butdhart</Key>
-      <Text>temp. 2nd Lt. W. R. R, (rel. commn. on acc. of illhealth and retains rank of 2nd Lt.)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>W. R. R</Forenames>
+      <Text>, (rel. commn. on acc. of illhealth and retains rank of 2nd Lt.)</Text>
       <PageNumber>8544</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Oharlton</Key>
-      <Text>temp. 2nd Lt. L. W. J. (rel. temp, commn. on completion of service and retains rank)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>L. W. J.</Forenames>
+      <Text>(rel. temp, commn. on completion of service and retains rank)</Text>
       <PageNumber>7216</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -759,9 +788,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Christian</Key>
-      <Title>temp.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. E., D.S.O., M.C. (rel. commn. on completion of service and granted rank of Col.), Sub. Not</Text>
+      <Title>temp. Lt.-Col.</Title>
+      <Forenames>E.</Forenames>
+      <Text>, D.S.O., M.C. (rel. commn. on completion of service and granted rank of Col.), Sub. Not</Text>
       <PageNumber>8850</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -802,7 +831,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cowan</Key>
-      <Text>temp. Capt. (actg. MajJ R. C. (Nots. in Gazs. of 3rd jidy, 1919, pages 8378, 8379, and 12thi Sept., 1919, page 10645, cancelled) ... ... :</Text>
+      <Title>temp. Capt.</Title>
+      <Text>(actg. MajJ R. C. (Nots. in Gazs. of 3rd jidy, 1919, pages 8378, 8379, and 12thi Sept., 1919, page 10645, cancelled) ... ... :</Text>
       <PageNumber>8769</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -847,7 +877,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Floyd</Key>
-      <Text>temp. Capt. (Dental Surg.) W. (rel. temp, comimn. on ceasing to be empld. with Union Imperial Service Contingent and retains rank of Capt.), Sub. Not, .'</Text>
+      <Title>temp. Capt. (Dental Surg.)</Title>
+      <Forenames>W.</Forenames>
+      <Text>(rel. temp, comimn. on ceasing to be empld. with Union Imperial Service Contingent and retains rank of Capt.), Sub. Not, .'</Text>
       <PageNumber>9349</PageNumber>
     </MainItem>
   </ItemGroup>

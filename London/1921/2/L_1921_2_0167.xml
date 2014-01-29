@@ -208,7 +208,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cannon</Key>
-      <Text>Maj. (Maj., ret. pav.l (Maj., ret., Mila.) (Hon. Maj. in Army) F. (retires, having attained age limit, and retains rank, with permission to wear prescribed uniform)</Text>
+      <Title>Maj.</Title>
+      <Text>(Maj., ret. pav.l (Maj., ret., Mila.) (Hon. Maj. in Army) F. (retires, having attained age limit, and retains rank, with permission to wear prescribed uniform)</Text>
       <PageNumber>5210</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -288,8 +289,8 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. (Hon. Lt. in Army G. A. B., D.S.O., T.D. (retired, having attained the age limit, and retains rank, with permission to \vi :.r prescribed uniform)</Text>
+      <Title>Lt.-Col.</Title>
+      <Text>(Hon. Lt. in Army G. A. B., D.S.O., T.D. (retired, having attained the age limit, and retains rank, with permission to \vi :.r prescribed uniform)</Text>
       <PageNumber>4527</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -380,7 +381,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>2nd Lt. M. J. (resigns commn. at own request)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>M. J.</Forenames>
+      <Text>(resigns commn. at own request)</Text>
       <PageNumber>3377</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -451,16 +454,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Cattell</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. O. T., T.D. (retired, having attained the age limit, retains rank of Lt.-Col., with pel mission to wear pre scribed tniform)</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>O. T.</Forenames>
+      <Text>, T.D. (retired, having attained the age limit, retains rank of Lt.-Col., with pel mission to wear pre scribed tniform)</Text>
       <PageNumber>4993</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Cave</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (trd. to 4th Bn., Welch R., late R.A.F.)</Text>
+      <Title>Lt.</Title>
+      <Text>(trd. to 4th Bn., Welch R., late R.A.F.)</Text>
       <PageNumber>4165</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -595,7 +599,9 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>2nd Lt. F. X. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>F. X.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>3825</PageNumber>
     </MainItem>
     <SubItem>
@@ -630,8 +636,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>. 'P. A. (resigns commn. and retains rank of Lt.)</Text>
+      <Title>Lt.</Title>
+      <Text>'P. A. (resigns commn. and retains rank of Lt.)</Text>
       <PageNumber>3068</PageNumber>
     </MainItem>
   </ItemGroup>

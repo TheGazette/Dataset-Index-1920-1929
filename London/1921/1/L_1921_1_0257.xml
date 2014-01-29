@@ -152,7 +152,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hughes-Onslow</Key>
-      <Forenames>Reginald</Forenames>
+      <Title>Reginald .</Title>
       <PageNumber>2304</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -175,7 +175,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Adams</Key>
-      <Forenames>Arthur</Forenames>
+      <Title>Arthur .</Title>
       <PageNumber>1282</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -242,7 +242,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bullivant</Key>
-      <Forenames>John</Forenames>
+      <Title>John .</Title>
       <PageNumber>2225</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -278,7 +278,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cole</Key>
-      <Forenames>Arthur</Forenames>
+      <Title>Arthur .</Title>
       <PageNumber>184</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -400,7 +400,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kennett</Key>
-      <Forenames>Frederick</Forenames>
+      <Title>Frederick .</Title>
       <PageNumber>2225</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -421,8 +421,8 @@
   <ItemGroup>
     <MainItem>
       <Key>McCaughey</Key>
-      <Forenames>John</Forenames>
-      <Text>... -</Text>
+      <Title>John .</Title>
+      <Text>.. -</Text>
       <PageNumber>2225</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -508,7 +508,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Reynell</Key>
-      <Forenames>Richard</Forenames>
+      <Title>Richard .</Title>
       <PageNumber>2224</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -616,7 +616,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Symons</Key>
-      <Forenames>James</Forenames>
+      <Title>James .</Title>
       <PageNumber>1899</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -695,7 +695,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilton</Key>
-      <Text>, the Earl of</Text>
+      <Text>the Earl of</Text>
       <PageNumber>2224</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -736,7 +736,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hughes</Key>
-      <Forenames>William</Forenames>
+      <Title>William .</Title>
       <PageNumber>949</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -830,7 +830,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Peck</Key>
-      <Forenames>Frederick</Forenames>
+      <Title>Frederick .</Title>
       <PageNumber>469</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1299,7 +1299,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lithgow</Key>
-      <Text>, CM</Text>
+      <Text>CM</Text>
       <PageNumber>469</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1357,7 +1357,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Munsen</Key>
-      <Text>, M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>469</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1371,7 +1371,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pope</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>469</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1473,7 +1473,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Croft</Key>
-      <Text>(Actg. Lt.) David F</Text>
+      <Title>(Actg. Lt.)</Title>
+      <Forenames>David F.</Forenames>
       <PageNumber>1997</PageNumber>
     </MainItem>
   </ItemGroup>

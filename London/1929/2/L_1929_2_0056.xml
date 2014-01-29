@@ -103,7 +103,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Whitehead</Key>
-      <Text>N</Text>
+      <Forenames>N</Forenames>
       <PageNumber>3517</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -303,7 +303,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wauchope</Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>4029</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -388,7 +388,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Graham</Key>
-      <Text>A, G</Text>
+      <Forenames>A</Forenames>
+      <Text>, G</Text>
       <PageNumber>3459</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -474,7 +475,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Powles</Key>
-      <Text>G, 0</Text>
+      <Forenames>G</Forenames>
+      <Text>, 0</Text>
       <PageNumber>3127</PageNumber>
     </MainItem>
     <SubItem>
@@ -547,7 +549,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Clark</Key>
-      <Text>L&gt;. G</Text>
+      <Forenames>L</Forenames>
+      <Text>&gt;. G</Text>
       <PageNumber>3859</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -568,7 +571,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dawes</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>3690</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -653,7 +656,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kennedy</Key>
-      <Text>N</Text>
+      <Forenames>N</Forenames>
       <PageNumber>2694</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -826,9 +829,10 @@
       <Forenames>W. C .</Forenames>
       <PageNumber>4269</PageNumber>
     </MainItem>
-    <SubSubSectionTitle>Retired List</SubSubSectionTitle>
+    <SubSubSectionTitle>
+      <Text>Retired List</Text>
+    </SubSubSectionTitle>
     <SubItem>
-      <Text>Retired List.</Text>
       <PageNumber>3942</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -972,7 +976,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McBroom</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>4029</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1123,7 +1127,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Macnamara</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>3007</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1271,7 +1275,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sainshury</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>2434</PageNumber>
     </MainItem>
   </ItemGroup>

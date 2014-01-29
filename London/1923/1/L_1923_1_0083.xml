@@ -3,15 +3,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Eonaldshay</Key>
-      <Text>, Maj. Bt. Hon. the Earl of, G.C.S.I., G.C.I.E. (rel. commn. and retains rank of Maj., with permission to wear prescribed uniform)</Text>
+      <Title>Maj. Bt. Hon.</Title>
+      <Text>the Earl of, G.C.S.I., G.C.I.E. (rel. commn. and retains rank of Maj., with permission to wear prescribed uniform)</Text>
       <PageNumber>2075</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Rookledge</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (late 2nd .(Lend.) Bde., R.F.A.) H. D. (rel. rank of Lt. which he was permitted to retain in Gaz., 2nd Jan., 1922, on enlistment into ranks of R.A.F.)</Text>
+      <Title>Lt.</Title>
+      <Text>(late 2nd .(Lend.) Bde., R.F.A.) H. D. (rel. rank of Lt. which he was permitted to retain in Gaz., 2nd Jan., 1922, on enlistment into ranks of R.A.F.)</Text>
       <PageNumber>1914</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -106,7 +107,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Rowland</Key>
-      <Text>, 2nd Lt. H. R. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>H. R.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>1305</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -219,7 +222,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Sadler</Key>
-      <Text>, 2nd Lt. N. V. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>N. V.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>1232</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -242,9 +247,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Salisbury</Key>
-      <Title>Hon. Maj.-Gen.</Title>
-      <Forenames>Rt</Forenames>
-      <Text>. Hon. the Marq. of, K.G., G.C.V.O., C. B., T.D., Col., A.D.C. (Hon. Col., 86th (E. Angl.) (Herts. Yeo.) Bde., from 4th (E. Angl.) Bde., R.F.A., with precedence as in T.A.)</Text>
+      <Title>Hon. Maj.-Gen. Rt. Hon.</Title>
+      <Text>the Marq. of, K.G., G.C.V.O., C. B., T.D., Col., A.D.C. (Hon. Col., 86th (E. Angl.) (Herts. Yeo.) Bde., from 4th (E. Angl.) Bde., R.F.A., with precedence as in T.A.)</Text>
       <PageNumber>1497</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -269,7 +273,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Samuel</Key>
-      <Text>, Col. (T.A. Res.) F. D., D. S.O., T.D. (Hon. Col., 3rd Bn., Lond. R., Tank Corps)</Text>
+      <Title>Col. (T.A. Res.)</Title>
+      <Forenames>F. D.</Forenames>
+      <Text>, D. S.O., T.D. (Hon. Col., 3rd Bn., Lond. R., Tank Corps)</Text>
       <PageNumber>532</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -351,7 +357,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Scarbrough</Key>
-      <Text>, Hon. Maj.-Gen. (Col., ret., Impl. Yeo.) (Hon. Col., The Yorkshire Dgns. Yeo., and 49th (W. Rid.) Div. Train, R.A.S.C.) the Earl of. G.B.E., K.C.B., T.D., A.D.C. (Hon. Col., 54th (W. Rid. and Staff) Med. Bde , R.G.A.)</Text>
+      <Title>Hon. Maj.-Gen. (Col., ret., Impl. Yeo.)</Title>
+      <Text>(Hon. Col., The Yorkshire Dgns. Yeo., and 49th (W. Rid.) Div. Train, R.A.S.C.) the Earl of. G.B.E., K.C.B., T.D., A.D.C. (Hon. Col., 54th (W. Rid. and Staff) Med. Bde , R.G.A.)</Text>
       <PageNumber>1913</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -396,13 +403,22 @@
       <PageNumber>711</PageNumber>
     </SubItem>
   </ItemGroup>
-  <KeyDitto>___ ___ ___ ___</KeyDitto>
-  <CategoryTitle>Lt., 57th (Home Counties)</CategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___ ___</KeyDitto>
+      </Key>
+      <Forenames>William Gerald Bradley</Forenames>
+      <Text>(2nd Lt., 57th (Home Counties) Bde., R.F.A. (late Cadet, Brighton Coll. Cont., Jun. Div., O.T.C.)</Text>
+      <PageNumber>1497</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Seaman</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. W. A., M.C. (trd. to 49th (W. Rid.) Div. Engrs. from 1st W. Rid. Bn., Div. Engrs., with pay and allces. of a Maj., retaining present rank of Lt.-Col. and precedence in T.A.)</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>W. A.</Forenames>
+      <Text>, M.C. (trd. to 49th (W. Rid.) Div. Engrs. from 1st W. Rid. Bn., Div. Engrs., with pay and allces. of a Maj., retaining present rank of Lt.-Col. and precedence in T.A.)</Text>
       <PageNumber>612</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -474,8 +490,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Shaddick</Key>
-      <Forenames>Chapln</Forenames>
-      <Text>., 4th Class, the Rev. H. G. H., O.B.E. (Ohapln., 3rd Class)</Text>
+      <Title>Chapln.</Title>
+      <Text>, 4th Class, the Rev. H. G. H., O.B.E. (Ohapln., 3rd Class)</Text>
       <PageNumber>809</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -580,7 +596,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Shiell</Key>
-      <Text>, Capt. (prov.) J. G. G. (confd.)</Text>
+      <Title>Capt. (prov.)</Title>
+      <Forenames>J. G. G.</Forenames>
+      <Text>(confd.)</Text>
       <PageNumber>1073</PageNumber>
     </MainItem>
   </ItemGroup>

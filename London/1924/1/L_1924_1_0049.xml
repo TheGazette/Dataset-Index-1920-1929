@@ -14,8 +14,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gibbs</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. the Rt. Hon. George Abraham, M.P. for Bristol, West</Text>
+      <Title>Lt.-Col.</Title>
+      <Text>the Rt. Hon. George Abraham, M.P. for Bristol, West</Text>
       <PageNumber>369</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -54,8 +54,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gilmour</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. the Rt. Hon. Sir John, Bart, D.S.O., M.P. for Pollok</Text>
+      <Title>Lt.-Col.</Title>
+      <Text>the Rt. Hon. Sir John, Bart, D.S.O., M.P. for Pollok</Text>
       <PageNumber>369</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -191,7 +191,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Granville</Key>
-      <Text>, the Rt. Hon. the Earl, G.C.V.O., Knight</Text>
+      <Text>the Rt. Hon. the Earl, G.C.V.O., Knight</Text>
       <PageNumber>1821</PageNumber>
     </MainItem>
     <SubItem>
@@ -301,8 +301,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Grigg</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Sir Edward William Macleay, K.C.V.O., M.P. for Oldham</Text>
+      <Title>Lt.-Col. Sir</Title>
+      <Forenames>Edward William Macleay</Forenames>
+      <Text>, K.C.V.O., M.P. for Oldham</Text>
       <PageNumber>364</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -344,8 +345,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>John</Forenames>
-      <Text>. M.P. for Hemsworth</Text>
+      <Title>John.</Title>
+      <Text>M.P. for Hemsworth</Text>
       <PageNumber>368</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -373,8 +374,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Walter Edward, D.S.O., M.P. for Fury St. Edmunds</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Walter Edward</Forenames>
+      <Text>, D.S.O., M.P. for Fury St. Edmunds</Text>
       <PageNumber>366</PageNumber>
     </MainItem>
     <SubItem>
@@ -439,8 +441,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hall</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Sir Frederick, Bayt., M.P. for Dulwich</Text>
+      <Title>Lt.-Col. Sir</Title>
+      <Forenames>Frederick</Forenames>
+      <Text>, Bayt., M.P. for Dulwich</Text>
       <PageNumber>359</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -469,7 +472,9 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>Dr. H R., M.B.E., D.Litt., Keeper of Egyptian and Assyrian Antiquities, British Museum</Text>
+      <Title>Dr.</Title>
+      <Forenames>H</Forenames>
+      <Text>R., M.B.E., D.Litt., Keeper of Egyptian and Assyrian Antiquities, British Museum</Text>
       <PageNumber>1856</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -776,7 +781,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hennessy</Key>
-      <Text>, Major G e o r g a Richard James, M.P. for Winchester</Text>
+      <Title>Major</Title>
+      <Forenames>G</Forenames>
+      <Text>e o r g a Richard James, M.P. for Winchester</Text>
       <PageNumber>361</PageNumber>
     </MainItem>
   </ItemGroup>

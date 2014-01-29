@@ -32,7 +32,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Jevons</Key>
-      <Text>S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>5045</PageNumber>
       <PageNumber>5046</PageNumber>
     </MainItem>
@@ -142,7 +142,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>4036</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -346,7 +346,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Larkins</Key>
-      <Text>C, and Co</Text>
+      <Forenames>C</Forenames>
+      <Text>, and Co</Text>
       <PageNumber>2826</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -781,7 +782,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Loopo</Key>
-      <Text>Co</Text>
+      <Title>Co.</Title>
       <PageNumber>3693</PageNumber>
       <PageNumber>3875</PageNumber>
     </MainItem>
@@ -1195,7 +1196,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Matabele</Key>
-      <Text>Queen's Company</Text>
+      <Title>Queen</Title>
+      <Text>'s Company</Text>
       <PageNumber>3321</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1279,7 +1281,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mercury</Key>
-      <Forenames>Cars</Forenames>
+      <Title>Cars .</Title>
       <PageNumber>4216</PageNumber>
       <PageNumber>4484</PageNumber>
       <PageNumber>4689</PageNumber>
@@ -1288,7 +1290,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Metallic</Key>
-      <Forenames>Chemicals</Forenames>
+      <Title>Chemicals .</Title>
       <PageNumber>3020</PageNumber>
       <PageNumber>3504</PageNumber>
     </MainItem>
@@ -1450,8 +1452,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Morel</Key>
-      <Forenames>Bros</Forenames>
-      <Text>., Cobbett, &amp; Son</Text>
+      <Title>Bros.</Title>
+      <Text>, Cobbett, &amp; Son</Text>
       <PageNumber>4950</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1520,7 +1522,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Motors</Key>
-      <Text>(Dewsbury) Mount Pleasant Room &amp; Power Co</Text>
+      <Title>(Dewsbury)</Title>
+      <Forenames>Mount Pleasant Room</Forenames>
+      <Text>&amp; Power Co</Text>
       <PageNumber>5178</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1542,7 +1546,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Murgatroyd</Key>
-      <Text>(Bradford)</Text>
+      <Title>(Bradford)</Title>
       <PageNumber>3959</PageNumber>
     </MainItem>
   </ItemGroup>

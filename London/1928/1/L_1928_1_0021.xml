@@ -84,8 +84,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Bannerman</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Arthur DArcy Gordon, CLE., C.V.O., Knight Commander, Royal Victorian Order</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Arthur</Forenames>
+      <Text>DArcy Gordon, CLE., C.V.O., Knight Commander, Royal Victorian Order</Text>
       <PageNumber>6</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -240,7 +241,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Black</Key>
-      <Text>William George, C.B.E., LL.D., Officer, Order of St. John of Jerusalem</Text>
+      <Text>. William George, C.B.E., LL.D., Officer, Order of St. John of Jerusalem</Text>
       <PageNumber>41</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -316,7 +317,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Browne</Key>
-      <Text>Colonel (Temporary Colonel Commandant) John Gilbert, C.M.G., . D.S.O., Commander, Order of the British Empire</Text>
+      <Title>Colonel (Temporary Colonel Commandant)</Title>
+      <Forenames>John Gilbert</Forenames>
+      <Text>, C.M.G., . D.S.O., Commander, Order of the British Empire</Text>
       <PageNumber>2129</PageNumber>
     </MainItem>
   </ItemGroup>

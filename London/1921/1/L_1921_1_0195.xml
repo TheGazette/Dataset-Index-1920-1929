@@ -3,7 +3,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Aldred</Key>
-      <Text>, 2nd Lt.. H. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Text>. H. (Lt.)</Text>
       <PageNumber>1046</PageNumber>
     </MainItem>
     <SubItem>
@@ -75,7 +76,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>2nd Lt. J., M.C. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>J.</Forenames>
+      <Text>, M.C. (Lt.)</Text>
       <PageNumber>23</PageNumber>
     </MainItem>
     <SubItem>
@@ -110,15 +113,17 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>2nd Lt. T. C. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>T. C.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>364</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Alford</Key>
-      <Forenames>Ohapln</Forenames>
-      <Text>., 1st CI., the Revd. Canon J. G., C.B.E., M.A., V.D., T.D. (retired, having attained the age Limit, and to be Hon. Ghapln., 1st CI., with permission to wear prescribed uniform)</Text>
+      <Title>Ohapln., 1st CI.</Title>
+      <Text>, the Revd. Canon J. G., C.B.E., M.A., V.D., T.D. (retired, having attained the age Limit, and to be Hon. Ghapln., 1st CI., with permission to wear prescribed uniform)</Text>
       <PageNumber>2540</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -240,7 +245,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Allchin</Key>
-      <Text>, 2nd Lt. (temp. Capt.) B. C. (Capt.)</Text>
+      <Title>2nd Lt. (temp. Capt.)</Title>
+      <Forenames>B. C.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>2540</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -267,7 +274,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>2nd Lt. A. S. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>A. S.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>2395</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -300,7 +309,9 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>2nd Lt. G. N. (resigns commn. and retains rank of 2nd Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>G. N.</Forenames>
+      <Text>(resigns commn. and retains rank of 2nd Lt.)</Text>
       <PageNumber>542</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -370,7 +381,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Allinson</Key>
-      <Text>, 2nd Lt. J. (resigns commn. and retains rank of 2nd Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>J.</Forenames>
+      <Text>(resigns commn. and retains rank of 2nd Lt.)</Text>
       <PageNumber>146</PageNumber>
     </MainItem>
     <SubItem>
@@ -536,7 +549,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>2nd Lt. T. (resigns commn. and retains rank of Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>T.</Forenames>
+      <Text>(resigns commn. and retains rank of Lt.)</Text>
       <PageNumber>146</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -567,7 +582,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>2nd Lt. (temp. Gapt.) W. (Unattd. List, O.T.C.) (Capt.)</Text>
+      <Title>2nd Lt. (temp. Gapt.)</Title>
+      <Forenames>W.</Forenames>
+      <Text>(Unattd. List, O.T.C.) (Capt.)</Text>
       <PageNumber>2378</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -686,7 +703,7 @@
     </MainItem>
     <KeyDitto>___ ___</KeyDitto>
     <SubItem>
-      <Text>2nd Lt. H. G. (Lt.) ... Resigns commn. and retains rank of Lt</Text>
+      <Text>2nd Lt. H. G. (Lt.) ... Resigns commn. and retains rank of Lt.</Text>
       <PageNumber>2376</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -780,15 +797,16 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. H. A. Birrell, V.D. (see Birrell-Anthony, Lt.Col., H. A., V.D.) Appleby, Lt. H. N., M.C. Maj.)</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>H. A. Birrell</Forenames>
+      <Text>, V.D. (see Birrell-Anthony, Lt.Col., H. A., V.D.) Appleby, Lt. H. N., M.C. Maj.)</Text>
       <PageNumber>1137</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Applesby</Key>
-      <Text>, 2nd Lt: A. H. (Lt.) .:</Text>
+      <Text>2nd Lt: A. H. (Lt.) .:</Text>
       <PageNumber>684</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -854,23 +872,27 @@
   <ItemGroup>
     <MainItem>
       <Key>Archer-Shee</Key>
-      <Text>, Maj. (actg. Lt.-Col.) (now Lt.-Col., R. of O.) M., C.M.G., D.S.O. (rel. actg. rank of Lt.-Col. on ceasing to comd. a Bn.), Sub. Not</Text>
+      <Title>Maj. (actg. Lt.-Col.) (now Lt.-Col., R. of O.)</Title>
+      <Forenames>M.</Forenames>
+      <Text>, C.M.G., D.S.O. (rel. actg. rank of Lt.-Col. on ceasing to comd. a Bn.), Sub. Not</Text>
       <PageNumber>1970</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Archibald</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (aotg. Capt., without pay and allces.) A. (rel. actg. rank of Capt. on ceasing to be empld.)</Text>
+      <Title>Lt. (aotg. Capt., without pay and allces.)</Title>
+      <Forenames>A.</Forenames>
+      <Text>(rel. actg. rank of Capt. on ceasing to be empld.)</Text>
       <PageNumber>2540</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Arden</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. T. H., T.D. (trd. . to T.F.R. Arty., from Lanes. and Ches. R.G.A.j</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>T. H.</Forenames>
+      <Text>, T.D. (trd. . to T.F.R. Arty., from Lanes. and Ches. R.G.A.j</Text>
       <PageNumber>1264</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -903,8 +925,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Armstrong</Key>
-      <Forenames>Ca</Forenames>
-      <Text>.pt. A. W. (resigns commn. an A retains rank of Capt.)</Text>
+      <Title>Ca.</Title>
+      <Text>pt. A. W. (resigns commn. an A retains rank of Capt.)</Text>
       <PageNumber>2529</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -924,7 +946,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>2nd Lt. J. K. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>J. K.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>843</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -962,11 +986,13 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>2nd Lt. J. T. (Lt,)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>J. T.</Forenames>
+      <Text>(Lt,)</Text>
       <PageNumber>137</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Resigns commn. and retains rank of Lt</Text>
+      <Text>Resigns commn. and retains rank of Lt.</Text>
       <PageNumber>1046</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1011,8 +1037,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. P. R. (resigns commn. and retains rank of Lt.-Col.)</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>P. R.</Forenames>
+      <Text>(resigns commn. and retains rank of Lt.-Col.)</Text>
       <PageNumber>1442</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1021,8 +1048,9 @@
       <Key>
         <KeyDitto>___ ___ ___ —</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Thomas Freer, T.D. (.brd. to 5bh Bn., R.W. Fus., from T.F.R.)</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Thomas Freer</Forenames>
+      <Text>, T.D. (.brd. to 5bh Bn., R.W. Fus., from T.F.R.)</Text>
       <PageNumber>2385</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1049,7 +1077,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Ashcroft</Key>
-      <Text>, 2nd Lt. J. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>J.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>775</PageNumber>
     </MainItem>
     <SubItem>
@@ -1077,7 +1107,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Ashmore</Key>
-      <Text>, 2nd Lt. J. (resigns commn. and retains rank of 2nd Lt,)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>J.</Forenames>
+      <Text>(resigns commn. and retains rank of 2nd Lt,)</Text>
       <PageNumber>453</PageNumber>
     </MainItem>
     <SubItem>
@@ -1099,8 +1131,8 @@
       <Key>
         <KeyDitto>___ ___ ___ .</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>. ft L. (resigns commn. and retains rank of Lt.)</Text>
+      <Title>Lt.</Title>
+      <Text>ft L. (resigns commn. and retains rank of Lt.)</Text>
       <PageNumber>274</PageNumber>
     </MainItem>
   </ItemGroup>

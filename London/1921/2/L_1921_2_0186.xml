@@ -26,7 +26,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>2nd Lt. C. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>C.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>43931</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -90,7 +92,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>2nd Lt. W. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>W.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>4902</PageNumber>
     </MainItem>
     <SubItem>
@@ -118,7 +122,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>Capt. (Capt., ret., T.F.) W. L. (reverts to retired list, having attained the age limit, and retains rank of Capt., with permission to wear prescribed uniform)</Text>
+      <Title>Capt. (Capt., ret., T.F.)</Title>
+      <Forenames>W. L.</Forenames>
+      <Text>(reverts to retired list, having attained the age limit, and retains rank of Capt., with permission to wear prescribed uniform)</Text>
       <PageNumber>5215</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -145,7 +151,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>Maj. (Lt.-Col., Res. of Off.) C. C, D.S.O. (resigns T.F. commn.)</Text>
+      <Title>Maj. (Lt.-Col., Res. of Off.)</Title>
+      <Forenames>C. C</Forenames>
+      <Text>, D.S.O. (resigns T.F. commn.)</Text>
       <PageNumber>5098</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -198,7 +206,9 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>Capt. (actg. Maj.) J. A. (rel. actg. rank of Maj.)</Text>
+      <Title>Capt. (actg. Maj.)</Title>
+      <Forenames>J. A.</Forenames>
+      <Text>(rel. actg. rank of Maj.)</Text>
       <PageNumber>3983</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -270,12 +280,23 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>Capt. (late Durh. L.I.) F. H. (Capt., Unattd. List, for service with and to comd. Royal Grammar School, High Wvcombe Con.. Junr. Div., O.T.C.), Sub. Not</Text>
+      <Title>Capt. (late Durh. L.I.)</Title>
+      <Forenames>F. H.</Forenames>
+      <Text>(Capt., Unattd. List, for service with and to comd. Royal Grammar School, High Wvcombe Con.. Junr. Div., O.T.C.), Sub. Not</Text>
       <PageNumber>3181</PageNumber>
     </MainItem>
   </ItemGroup>
-  <KeyDitto>___ ___</KeyDitto>
-  <CategoryTitle>Counties) Divn., R.A.M.C.) 3639</CategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Title>Maj.</Title>
+      <Forenames>G. B.</Forenames>
+      <Text>. M.D. (D.A.D.M.S., 44th (H. Counties) Divn., R.A.M.C.)</Text>
+      <PageNumber>3639</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>
@@ -324,7 +345,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>2nd Lt. P. B. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>P. B.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>2638</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -398,7 +421,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>Maj. &lt;Bt.Lt.-Col.) B. M. H., M.D. (resigns oommn., and granted rank of Lt.-Col.)</Text>
+      <Title>Maj.</Title>
+      <Text>&lt;Bt.Lt.-Col.) B. M. H., M.D. (resigns oommn., and granted rank of Lt.-Col.)</Text>
       <PageNumber>2788</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -448,7 +472,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Roles</Key>
-      <Text>2nd Lt. F. G. (resigns commn., and retains rank or 2nd Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>F. G.</Forenames>
+      <Text>(resigns commn., and retains rank or 2nd Lt.)</Text>
       <PageNumber>3172</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -464,14 +490,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Rorke</Key>
-      <Text>Maj. (Capt. and Hon. Maj., ret., .T.F.) F., T.D. (reverts to retired list, having attained the age limit, and retains rank, with permission to wear prescribed uniform)</Text>
+      <Title>Maj.</Title>
+      <Text>(Capt. and Hon. Maj., ret., .T.F.) F., T.D. (reverts to retired list, having attained the age limit, and retains rank, with permission to wear prescribed uniform)</Text>
       <PageNumber>4541</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Rose</Key>
-      <Text>Maj. DA. L. (retired, having attained the age limit, and retains rank of Maj., with permission to wear prescribed uniform)</Text>
+      <Title>Maj.</Title>
+      <Text>DA. L. (retired, having attained the age limit, and retains rank of Maj., with permission to wear prescribed uniform)</Text>
       <PageNumber>4372</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -777,9 +805,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ryan</Key>
-      <Title>Maj.</Title>
-      <Forenames>John</Forenames>
-      <Text>. M.C. (Capt., 48th (S. Mid.) Divl. Sigs., from late R.E.)</Text>
+      <Title>Maj. John.</Title>
+      <Text>M.C. (Capt., 48th (S. Mid.) Divl. Sigs., from late R.E.)</Text>
       <PageNumber>3647</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -842,7 +869,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Salmon</Key>
-      <Text>2nd Lt. J. T. (resigns commn.. and retains rank of 2nd Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>J. T.</Forenames>
+      <Text>(resigns commn.. and retains rank of 2nd Lt.)</Text>
       <PageNumber>4391</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -858,8 +887,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Samuels</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (late Serv. Bns., Y. and L.R.) Edward {Lt., 42nd (E. Lanes.) Divl. Sigs.)</Text>
+      <Title>Lt. (late Serv. Bns., Y. and L.R.)</Title>
+      <Forenames>Edward</Forenames>
+      <Text>{Lt., 42nd (E. Lanes.) Divl. Sigs.)</Text>
       <PageNumber>3517</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -884,8 +914,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Sandfnrd</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (late Gds., M.G.R.) Victor Henry (Lt., Yorks. Dgns.)</Text>
+      <Title>Lt. (late Gds., M.G.R.)</Title>
+      <Forenames>Victor Henry</Forenames>
+      <Text>(Lt., Yorks. Dgns.)</Text>
       <PageNumber>3367</PageNumber>
     </MainItem>
   </ItemGroup>

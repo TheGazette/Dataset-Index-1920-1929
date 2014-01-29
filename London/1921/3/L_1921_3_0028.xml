@@ -3,7 +3,6 @@
   <ItemGroup>
     <MainItem>
       <Key>Witts</Key>
-      <Text>,</Text>
       <PageNumber>___ ___ ___ ___ ___ —</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -20,7 +19,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wintle</Key>
-      <Text>, lit.-Col. Charles Edmund Hunter, D.S.O., Commander, Order of the British Empire</Text>
+      <Text>lit.-Col. Charles Edmund Hunter, D.S.O., Commander, Order of the British Empire</Text>
       <PageNumber>7194</PageNumber>
     </MainItem>
     <SubItem>
@@ -63,8 +62,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Young</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (T./Capt.) Harold Peroy Frederick, Officer, Order of the British Empire</Text>
+      <Title>Lt. (T./Capt.)</Title>
+      <Forenames>Harold Peroy Frederick</Forenames>
+      <Text>, Officer, Order of the British Empire</Text>
       <PageNumber>7195</PageNumber>
     </MainItem>
     <SubItem>
@@ -134,8 +134,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Andrus</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. T. A., C.M.G. (temp. Brig. Comdr. and temp. Col. Comdt.)</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>T. A.</Forenames>
+      <Text>, C.M.G. (temp. Brig. Comdr. and temp. Col. Comdt.)</Text>
       <PageNumber>6651</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -151,9 +152,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Anstey</Key>
-      <Title>Maj. and Bt.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. E. C, D.S.O. (temp, spe/appt., CI. X, and temp. Lt.Col.), Sub. Not</Text>
+      <Title>Maj. and Bt. Lt.-Col.</Title>
+      <Forenames>E. C</Forenames>
+      <Text>, D.S.O. (temp, spe/appt., CI. X, and temp. Lt.Col.), Sub. Not</Text>
       <PageNumber>5897</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -187,7 +188,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Barmby</Key>
-      <Text>, temp. lit. L. W. (rel. spec, appt., CI. GG)</Text>
+      <Title>temp.</Title>
+      <Text>lit. L. W. (rel. spec, appt., CI. GG)</Text>
       <PageNumber>6543</PageNumber>
     </MainItem>
   </ItemGroup>

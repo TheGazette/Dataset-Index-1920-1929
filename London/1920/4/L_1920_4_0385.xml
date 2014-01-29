@@ -130,7 +130,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bogie</Key>
-      <Text>, D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>11125</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -203,7 +203,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Panton</Key>
-      <Text>. E. (temp.)</Text>
+      <Text>E. (temp.)</Text>
       <PageNumber>9699</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -441,7 +441,7 @@
       <PageNumber>10758</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Corr. of date of appt.</Text>
+      <Text>Corr. of date of appt</Text>
       <PageNumber>12405</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -501,7 +501,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Burney</Key>
-      <Text>, Sir C, G.C.M.G., K.C.B</Text>
+      <Title>Sir</Title>
+      <Forenames>C</Forenames>
+      <Text>, G.C.M.G., K.C.B</Text>
       <PageNumber>11942</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -577,7 +579,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Waymouth</Key>
-      <Text>. A. W., C.B</Text>
+      <Text>A. W., C.B</Text>
       <PageNumber>9891</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -593,7 +595,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Grafton</Key>
-      <Text>. E. H</Text>
+      <Text>E. H</Text>
       <PageNumber>12300</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -846,7 +848,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Paine</Key>
-      <Text>, Sir G:, K.C.B., M.V.O. (on transfer to R.A.F.)</Text>
+      <Title>Sir</Title>
+      <Forenames>G</Forenames>
+      <Text>:, K.C.B., M.V.O. (on transfer to R.A.F.)</Text>
       <PageNumber>11607</PageNumber>
     </MainItem>
   </ItemGroup>

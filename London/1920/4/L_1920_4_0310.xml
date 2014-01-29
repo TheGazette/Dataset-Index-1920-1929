@@ -39,7 +39,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Yell</Key>
-      <Text>, .Capt. William L., M.B. (j-el. commn. and' retains rank of Capt.)</Text>
+      <Text>.Capt. William L., M.B. (j-el. commn. and' retains rank of Capt.)</Text>
       <PageNumber>9955</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -55,7 +55,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Yells</Key>
-      <Text>, temp. 2nd Lt. F. J. (rel. commn. on completion of service, and retains rank of 2nd ' Lt:)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>F. J.</Forenames>
+      <Text>(rel. commn. on completion of service, and retains rank of 2nd ' Lt:)</Text>
       <PageNumber>12377</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -146,7 +148,7 @@
       <PageNumber>12553</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>H.p. list, retires, receiving a gratuity, and granted rank of Capt.</Text>
+      <Text>H.p. list, retires, receiving a gratuity, and granted rank of Capt</Text>
       <PageNumber>11189</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -162,7 +164,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Youds</Key>
-      <Text>, temp. 2nd Lt. S. (rel. commn. on completion of service, and retains rank of 2nd Lt.)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>S.</Forenames>
+      <Text>(rel. commn. on completion of service, and retains rank of 2nd Lt.)</Text>
       <PageNumber>12468</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -202,9 +206,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Title>temp.</Title>
-      <Forenames>Chapln</Forenames>
-      <Text>., 4th CI., Eev. A. D. (rel. commn. and to be Hon. Chapln., 4th CI.)</Text>
+      <Title>temp. Chapln., 4th CI., Eev.</Title>
+      <Forenames>A. D.</Forenames>
+      <Text>(rel. commn. and to be Hon. Chapln., 4th CI.)</Text>
       <PageNumber>12384</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -331,9 +335,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Title>temp.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. D. D., C.B.E. (rel. commn. on completion of service, and retains rank of Lt.-Col.) IC</Text>
+      <Title>temp. Lt.-Col.</Title>
+      <Forenames>D. D.</Forenames>
+      <Text>, C.B.E. (rel. commn. on completion of service, and retains rank of Lt.-Col.) IC</Text>
       <PageNumber>919</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -386,9 +390,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Title>temp.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>. (actg. Capt.) G. H. (rel. commn on completion of service, and granted rank of Capt.) .:</Text>
+      <Title>temp. Lt. (actg. Capt.)</Title>
+      <Forenames>G. H.</Forenames>
+      <Text>(rel. commn on completion of service, and granted rank of Capt.) .:</Text>
       <PageNumber>10824</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -474,8 +478,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. H. G., D.S.O. (rel. temp, rank of Brig.-Gen. and to be temp. Col. Comdt. whilst holding present appt.)</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>H. G.</Forenames>
+      <Text>, D.S.O. (rel. temp, rank of Brig.-Gen. and to be temp. Col. Comdt. whilst holding present appt.)</Text>
       <PageNumber>12696</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -484,7 +489,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>temp. 2nd Lt., H. H. (rel. commn. on completion of service, and retains rank of 2nd Lt.) ..: ... .:</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Text>, H. H. (rel. commn. on completion of service, and retains rank of 2nd Lt.) ..: ... .:</Text>
       <PageNumber>12479</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -559,7 +565,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>temp. 2nd Lt. J. C. (High. L.I.) (rel: commn. on completion of service, and retains rank of 2nd Lt.)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>J. C.</Forenames>
+      <Text>(High. L.I.) (rel: commn. on completion of service, and retains rank of 2nd Lt.)</Text>
       <PageNumber>12283</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -590,7 +598,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>(on prob.) Lt. John Maver (Lt., Army Educational Corps)</Text>
+      <Title>(on prob.) Lt.</Title>
+      <Forenames>John Maver</Forenames>
+      <Text>(Lt., Army Educational Corps)</Text>
       <PageNumber>12266</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -665,7 +675,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>temp. 2nd Lt. R. A. (rej. commn. on completion of service, and retains rank of 2nd Lt.)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>R. A.</Forenames>
+      <Text>(rej. commn. on completion of service, and retains rank of 2nd Lt.)</Text>
       <PageNumber>11769</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -685,7 +697,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>temp. 2nd Lt. R. R. (rel. commn. on completion of service, and retains rank of ' 2nd Lt.)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>R. R.</Forenames>
+      <Text>(rel. commn. on completion of service, and retains rank of ' 2nd Lt.)</Text>
       <PageNumber>11590</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -769,7 +783,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>Col. (temp. Brig.-Gen.) L. N., C.B., C.M.G. (Maj.-Gen.)</Text>
+      <Title>Col. (temp. Brig.-Gen.)</Title>
+      <Forenames>L. N.</Forenames>
+      <Text>, C.B., C.M.G. (Maj.-Gen.)</Text>
       <PageNumber>10053</PageNumber>
     </MainItem>
     <SubItem>
@@ -838,7 +854,8 @@
       <Key>
         <KeyDitto />
       </Key>
-      <Text>Maj.. M.C. (Hon. Lt.)</Text>
+      <Title>Maj.</Title>
+      <Text>. M.C. (Hon. Lt.)</Text>
       <PageNumber>11329</PageNumber>
     </MainItem>
   </ItemGroup>

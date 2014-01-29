@@ -729,14 +729,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Louis</Key>
-      <Text>, R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>4705</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Lowe</Key>
-      <Text>, M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>4366</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1367,7 +1367,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Olson</Key>
-      <Text>,. E. G</Text>
+      <Text>. E. G</Text>
       <PageNumber>5855</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1693,7 +1693,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ray</Key>
-      <Text>, C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>5970</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1715,7 +1715,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Redpath</Key>
-      <Text>, R V</Text>
+      <Forenames>R</Forenames>
+      <Text>V</Text>
       <PageNumber>6104</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -16,7 +16,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Goord</Key>
-      <Text>2nd Lt. Frederick Arthur (2nd lit., Reg. Army Res. of Off., Regtl. List, Middx R., late Serv. Bn.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>Frederick Arthur</Forenames>
+      <Text>(2nd lit., Reg. Army Res. of Off., Regtl. List, Middx R., late Serv. Bn.)</Text>
       <PageNumber>3496</PageNumber>
     </MainItem>
     <SubItem>
@@ -147,7 +149,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gough</Key>
-      <Text>Capt. and Bt. Maj. the Visct., M.C. (seed, for service</Text>
+      <Title>Capt. and Bt. Maj.</Title>
+      <Text>the Visct., M.C. (seed, for service</Text>
       <PageNumber>3684</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -169,21 +172,24 @@
   <ItemGroup>
     <MainItem>
       <Key>Gould</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (late temp. Lt., 3rd Garrn. Bn., Bedfs. and Herts. R.) W. G. (deprived of rank of Lt., which he was permitted to retain on termination of</Text>
+      <Title>Lt.</Title>
+      <Text>(late temp. Lt., 3rd Garrn. Bn., Bedfs. and Herts. R.) W. G. (deprived of rank of Lt., which he was permitted to retain on termination of</Text>
       <PageNumber>3953</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Goulden</Key>
-      <Text>2nd Lt. (promn. to rank</Text>
-      <PageNumber>3004</PageNumber>
     </MainItem>
   </ItemGroup>
+  <Title>
+    <PageNumber>3004</PageNumber>
+  </Title>
   <ItemGroup>
     <MainItem>
-      <Key>Goument</Key>
+      <Key>
+        <Forenames>Goument</Forenames>
+      </Key>
       <Text>lit. (temp. Capt.) Lionel</Text>
       <PageNumber>4722</PageNumber>
     </MainItem>
@@ -193,16 +199,16 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>Capt. v. A. (retires, receiving</Text>
+      <Title>Capt.</Title>
+      <Text>v. A. (retires, receiving</Text>
       <PageNumber>4827</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Graham</Key>
-      <Title>Maj. and Bt.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>.^Col. C. A. L., D.S.O. (seed, for</Text>
+      <Title>Maj. and Bt. Lt.</Title>
+      <Text>^Col. C. A. L., D.S.O. (seed, for</Text>
       <PageNumber>4400</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -237,7 +243,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>2nd Lt. J. C. (2nd Lt., Reg. Army Res. of Off., Gen. List, late A. Cyclist Corps)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>J. C.</Forenames>
+      <Text>(2nd Lt., Reg. Army Res. of Off., Gen. List, late A. Cyclist Corps)</Text>
       <PageNumber>4149</PageNumber>
     </MainItem>
     <SubItem>
@@ -277,7 +285,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Grange-Bennett</Key>
-      <Text>2nd Lt. R. D. (retires receiving a gratuity)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>R. D.</Forenames>
+      <Text>(retires receiving a gratuity)</Text>
       <PageNumber>4923</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -319,9 +329,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Title>temp.</Title>
-      <Forenames>Chapln</Forenames>
-      <Text>., 4th CI. the Rev. E. E. B. (rel. commn. and appld. Hon. Chapln., 4th CI.)</Text>
+      <Title>temp. Chapln., 4th CI. the Rev.</Title>
+      <Forenames>E. E. B.</Forenames>
+      <Text>(rel. commn. and appld. Hon. Chapln., 4th CI.)</Text>
       <PageNumber>3128</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -374,7 +384,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Grattan-Bellew</Key>
-      <Text>Capt. and Bt Maj. C. C., M.C. (retires receiving a gratuity, and granted rank of Lt-Coi.)</Text>
+      <Title>Capt.</Title>
+      <Text>and Bt Maj. C. C., M.C. (retires receiving a gratuity, and granted rank of Lt-Coi.)</Text>
       <PageNumber>3684</PageNumber>
     </MainItem>
     <SubItem>
@@ -394,8 +405,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Grazebrook</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. (h p. list) G. C, C.M.G., D.S.O. (Col.)</Text>
+      <Title>Lt.-Col. (h p. list)</Title>
+      <Forenames>G. C</Forenames>
+      <Text>, C.M.G., D.S.O. (Col.)</Text>
       <PageNumber>4402</PageNumber>
     </MainItem>
     <SubItem>
@@ -415,9 +427,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Green</Key>
-      <Title>temp. Capt. and Acctnt.</Title>
-      <Forenames>Off</Forenames>
-      <Text>., 6th CI., E. W. (rel. commn. on completion of service and retains rank of Capt.)</Text>
+      <Title>temp. Capt. and Acctnt. Off.</Title>
+      <Text>, 6th CI., E. W. (rel. commn. on completion of service and retains rank of Capt.)</Text>
       <PageNumber>3128</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -426,7 +437,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>2nd Lt. (late R.G.A.) H. H. (rel. rank of 2nd Lt. on reenlistment)</Text>
+      <Title>2nd Lt. (late R.G.A.)</Title>
+      <Forenames>H. H.</Forenames>
+      <Text>(rel. rank of 2nd Lt. on reenlistment)</Text>
       <PageNumber>4476</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -464,9 +477,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Title>temp. Capt. and Acctnt.</Title>
-      <Forenames>Off</Forenames>
-      <Text>., 5th CL, F. T. (rel. commn. on completion of service and retains rank of Capt.)</Text>
+      <Title>temp. Capt. and Acctnt. Off.</Title>
+      <Text>, 5th CL, F. T. (rel. commn. on completion of service and retains rank of Capt.)</Text>
       <PageNumber>3128</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -534,8 +546,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. and Staff Paymr. C. P. (retires on Tet. pay)</Text>
+      <Title>Lt.-Col.</Title>
+      <Text>and Staff Paymr. C. P. (retires on Tet. pay)</Text>
       <PageNumber>2704</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -560,7 +572,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gribble</Key>
-      <Text>Maj. (late T.A.R., Gen. List, Arty., R.A.R.O., R.G.A.) H. G, D:S.O</Text>
+      <Title>Maj.</Title>
+      <Text>(late T.A.R., Gen. List, Arty., R.A.R.O., R.G.A.) H. G, D:S.O</Text>
       <PageNumber>4403</PageNumber>
     </MainItem>
     <SubItem>
@@ -607,7 +620,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>temp. 2nd Lt. J. H. (reL commn. on completion of service and retains rank of 2nd Lt.)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>J. H.</Forenames>
+      <Text>(reL commn. on completion of service and retains rank of 2nd Lt.)</Text>
       <PageNumber>2908</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -627,7 +642,9 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>temp. 2nd Lt. T. P. £ (ret commn. on completion of service and retains rank of 2nd Lt.)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>T. P.</Forenames>
+      <Text>£ (ret commn. on completion of service and retains rank of 2nd Lt.)</Text>
       <PageNumber>3213</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -674,8 +691,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Grove</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. P. L. (rel. temp, rank of Col. on ceasing to be empld. as Comdt., Small Arms Schl., India)</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>P. L.</Forenames>
+      <Text>(rel. temp, rank of Col. on ceasing to be empld. as Comdt., Small Arms Schl., India)</Text>
       <PageNumber>3864</PageNumber>
     </MainItem>
     <SubItem>
@@ -723,7 +741,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>temp. Capt. (seed.) P. G. (rel. commn. on completion of service and granted rank of Maj.)</Text>
+      <Title>temp. Capt. (seed.)</Title>
+      <Forenames>P. G.</Forenames>
+      <Text>(rel. commn. on completion of service and granted rank of Maj.)</Text>
       <PageNumber>3687</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -775,9 +795,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Guest</Key>
-      <Title>temp.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>. A_ H. (reL commn. on completion of service and retains rank of Lt.)</Text>
+      <Title>temp. Lt.</Title>
+      <Forenames>A</Forenames>
+      <Text>_ H. (reL commn. on completion of service and retains rank of Lt.)</Text>
       <PageNumber>4722</PageNumber>
     </MainItem>
   </ItemGroup>
