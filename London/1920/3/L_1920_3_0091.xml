@@ -56,7 +56,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>A. R.</Forenames>
-      <Text>, M.C. (rel. (xraunn. and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9358</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -87,7 +89,9 @@
       <Key>Orossiley</Key>
       <Title>Capt. the Hon.</Title>
       <Forenames>F. S.</Forenames>
-      <Text>, M.C. &lt;(6ecd. for service as an Adit., T.F.) -</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7944</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -97,7 +101,10 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Title>Ma.</Title>
-      <Text>], and Bt. Lt.-Col. Henry J., CLE. (R.A.M.C.) (rel. actg. rank of Lt.^Col.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8369</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -142,7 +149,9 @@
       <Key>Crosaiman</Key>
       <Title>Miaj.</Title>
       <Forenames>F. L. M.</Forenames>
-      <Text>, D.S.O., M.C {seed, for service with the T.F.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8782</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -152,7 +161,9 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Mia</Forenames>
-      <Text>,i. R. F., O.B.E. (temp. Maj., Gwn. Last, whilst spec. emipld.) ../</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>9045</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -190,7 +201,10 @@
       <Key>
         <KeyDitto>___ — ___</KeyDitto>
       </Key>
-      <Text>&lt;Lt. (temp. Capt.) T. A., D.S.O., M.C. .(rel. oommn., and granted rank of Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7093</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -230,7 +244,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Crowe</Key>
-      <Text>. Lit-. E. L. (rel. commn. and retains rank of Lt.)</Text>
+      <Title>Lit-.</Title>
+      <Forenames>E. L.</Forenames>
+      <Text>(rel. commn. and retains rank of Lt.)</Text>
       <PageNumber>7731</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -239,7 +255,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lit. J.. V.C. (rel. actg. rank of Capt.)</Text>
+      <Text>
+        <Honour>V.C.</Honour>
+      </Text>
       <PageNumber>8254</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -308,7 +326,9 @@
       </Key>
       <Title>Maj. and Bt. Lt.-Col.</Title>
       <Forenames>B. B.</Forenames>
-      <Text>, C.M.O., D.S.O. (seed, for service on the Staff)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8688</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -377,7 +397,9 @@
       <Key>Cuddon</Key>
       <Title>Lt.</Title>
       <Forenames>P.</Forenames>
-      <Text>, M.C. (Adjt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8361</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -443,7 +465,9 @@
       <Key>Cullenan</Key>
       <Title>Capt.</Title>
       <Forenames>J.</Forenames>
-      <Text>, M.B. (trd. from Spec. Res. to R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7294</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -474,18 +498,24 @@
       <Key>Culverwell</Key>
       <Title>Capt.</Title>
       <Forenames>E. R.</Forenames>
-      <Text>, M.C. (seed, for service on the Staff)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8262</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Cumberland</Key>
-      <Text>. Lt. C. E. (ceases to be Adjt./M.G.C. Infy.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>C. E.</Forenames>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>9040</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Rel. oommn. and granted rank of Capt.</Text>
+      <Text>Rel. oommn. and granted rank of Capt</Text>
       <PageNumber>9284</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -591,7 +621,9 @@
       <Key>Cunningham</Key>
       <Title>Qrmr. and Lt.-Col.</Title>
       <Forenames>F. G.</Forenames>
-      <Text>, O.B.E. (retires on ret. pay, having attained the age limit for retirement)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>8942</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -635,7 +667,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>J. C</Forenames>
-      <Text>, M.C. (seed, for service on the Staff)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7642</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -742,7 +776,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Curran</Key>
-      <Text>. temp. 2nd Lt. C R. P. (rel. commn. on completion of service, and retains rank of 2nd Lt.)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>C</Forenames>
+      <Text>R. P. (rel. commn. on completion of service, and retains rank of 2nd Lt.)</Text>
       <PageNumber>7547</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -786,7 +822,10 @@
       <Key>Currie</Key>
       <Title>Col. (temp. Brig.-Gen.)</Title>
       <Forenames>A. C</Forenames>
-      <Text>, C.B., C.M.G. (placed on ret. pay, having reached the age fixed for compulsory retirement, and granted hon. rank of Brig.-Gen.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>8847</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -841,7 +880,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>W. A.</Forenames>
-      <Text>, M.C. (rel. commn. and granted rank of Cant.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7296</PageNumber>
     </MainItem>
   </ItemGroup>

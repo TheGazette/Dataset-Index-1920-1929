@@ -47,7 +47,9 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Dudley Cox</Forenames>
-      <Text>, F.R.C.S., Unofficial Member of the Executive Council of the Bermudas</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>7945</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -84,7 +86,9 @@
     <MainItem>
       <Key>Watlington</Key>
       <Forenames>Henry William</Forenames>
-      <Text>, O.B.E., Unofficial Member of the Executive Council of the Bermudas</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>7945</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -92,7 +96,9 @@
     <MainItem>
       <Key>Watson</Key>
       <Forenames>Frederick</Forenames>
-      <Text>, O.B.E., H.M. Consul-General at Philadelphia</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>8818</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -126,7 +132,10 @@
       <Key>Wilkinson</Key>
       <Title>Maj.-Gen. Sir</Title>
       <Forenames>Perci-</Forenames>
-      <Text>val Spearman, K.C.M.G., C.B., Knight of Grace, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>8187</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -144,14 +153,19 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Title>Lt.-Col.</Title>
-      <Text>the Rt. Hon. Leslie Orme, C.M.G., D.S.O., Knight Grand Commander, Order of the Indian Empire</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7453</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Younger</Key>
-      <Text>the Rt. Hon. Sir Robert, G.B.E., Lord of Appeal in Ordinary</Text>
+      <Text>
+        <Honour>G.B.E.</Honour>
+      </Text>
       <PageNumber>7852</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -343,13 +357,6 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Chanter</Key>
-      <Forenames>E. R</Forenames>
-      <PageNumber>7855</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
       <Key>Christie</Key>
       <Forenames>L. D</Forenames>
       <PageNumber>8062</PageNumber>
@@ -368,13 +375,6 @@
       <Key>Collins</Key>
       <Forenames>W. H</Forenames>
       <PageNumber>7659</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Cornwall</Key>
-      <Forenames>J. H. M</Forenames>
-      <PageNumber>7856</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -475,7 +475,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dowler</Key>
-      <Text>A.A.B</Text>
+      <Forenames>A.A.B</Forenames>
       <PageNumber>7855</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -496,15 +496,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Drummond</Key>
-      <Text>M. C. A</Text>
+      <Forenames>M. C. A</Forenames>
       <PageNumber>7212</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Cane</Forenames>
-      <Text>, J. P</Text>
+      <Key>Du Cane</Key>
+      <Forenames>J. P</Forenames>
       <PageNumber>6753</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -518,7 +517,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Duncan</Key>
-      <Text>F. J</Text>
+      <Forenames>F. J</Forenames>
       <PageNumber>7763</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -589,14 +588,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Fox-Pitt</Key>
-      <Text>W. A. F. L</Text>
+      <Forenames>W. A. F. L</Forenames>
       <PageNumber>7460</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Fraser</Key>
-      <Text>C. L. B</Text>
+      <Forenames>C. L. B.</Forenames>
       <PageNumber>7115</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -655,35 +654,35 @@
   <ItemGroup>
     <MainItem>
       <Key>Greenslade</Key>
-      <Text>O</Text>
+      <Forenames>O</Forenames>
       <PageNumber>7460</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Griffiths</Key>
-      <Text>W. H</Text>
+      <Forenames>W. H.</Forenames>
       <PageNumber>8189</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Grogan</Key>
-      <Text>G. W. St. G</Text>
+      <Forenames>G. W. St. G</Forenames>
       <PageNumber>7301</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Guv</Key>
-      <Text>R. F</Text>
+      <Forenames>R. F.</Forenames>
       <PageNumber>8638</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hamilton</Key>
-      <Text>C. de C</Text>
+      <Forenames>C. de C</Forenames>
       <PageNumber>7659</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -706,35 +705,36 @@
   <ItemGroup>
     <MainItem>
       <Key>Trarington</Key>
-      <Text>Sir C. H</Text>
+      <Title>Sir</Title>
+      <Forenames>C. H</Forenames>
       <PageNumber>7551</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hart</Key>
-      <Text>A. C</Text>
+      <Forenames>A. C</Forenames>
       <PageNumber>7947</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hawthorn</Key>
-      <Text>G. M. P</Text>
+      <Forenames>G. M. P</Forenames>
       <PageNumber>6581</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hevwood</Key>
-      <Text>T.G.G</Text>
+      <Forenames>T.G.G</Forenames>
       <PageNumber>8065</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hills</Key>
-      <Text>C. E</Text>
+      <Forenames>C. E</Forenames>
       <PageNumber>7551</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -764,14 +764,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Troskvn</Key>
-      <Text>G. W. V</Text>
+      <Forenames>G. W. V</Forenames>
       <PageNumber>8398</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Howes</Key>
-      <Text>S</Text>
+      <Forenames>S.</Forenames>
       <PageNumber>8037</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -785,7 +785,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Husev</Key>
-      <Text>H. E</Text>
+      <Forenames>H. E .</Forenames>
       <PageNumber>8398</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -801,7 +801,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Jordan</Key>
-      <Text>F. TT</Text>
+      <Forenames>F.</Forenames>
+      <Text>TT</Text>
       <PageNumber>7551</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1023,7 +1024,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pitt</Key>
-      <Text>W. A. F. L. F.. see FoxPitt, W. A. F. L. Powell, S. G</Text>
+      <Forenames>W. A. F. L. F.</Forenames>
+      <Text>. see FoxPitt, W. A. F. L. Powell, S. G</Text>
       <PageNumber>7551</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1164,7 +1166,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stephens</Key>
-      <Text>Sir R. B</Text>
+      <Title>Sir</Title>
+      <Forenames>R. B</Forenames>
       <PageNumber>7659</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1218,7 +1221,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Thorp</Key>
-      <Text>H. W B</Text>
+      <Forenames>H. W</Forenames>
+      <Text>B</Text>
       <PageNumber>7047</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1232,7 +1236,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tod</Key>
-      <Text>W</Text>
+      <Forenames>W .</Forenames>
       <PageNumber>8937</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1246,7 +1250,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Venour</Key>
-      <Text>V. W. H</Text>
+      <Forenames>V. W. H.</Forenames>
       <PageNumber>8537</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1273,7 +1277,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wells</Key>
-      <Text>J. TV</Text>
+      <Forenames>J.</Forenames>
+      <Text>TV</Text>
       <PageNumber>6878</PageNumber>
     </MainItem>
   </ItemGroup>

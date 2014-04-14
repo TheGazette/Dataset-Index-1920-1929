@@ -34,8 +34,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cole</Key>
-      <Forenames>A.</Forenames>
-      <Text>du P. T</Text>
+      <Forenames>A. du P</Forenames>
+      <Text>. T</Text>
       <PageNumber>3052</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -117,7 +117,9 @@
       <Key>Colquhoun</Key>
       <Title>Sir</Title>
       <Forenames>I.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>2888</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -141,7 +143,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Combe</Key>
-      <Text>E. P</Text>
+      <Forenames>E. P.</Forenames>
       <PageNumber>3053</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -371,8 +373,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cowan</Key>
-      <Forenames>J.</Forenames>
-      <Text>de B</Text>
+      <Forenames>J. de B</Forenames>
       <PageNumber>3148</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -551,7 +552,9 @@
       <Key>Crofton</Key>
       <Title>Sir</Title>
       <Forenames>M. G.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>3314</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -739,7 +742,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Daish</Key>
-      <Text>L. G</Text>
+      <Forenames>L. G</Forenames>
       <PageNumber>3867</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -971,8 +974,46 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Deakin</Key>
-      <Forenames>C.</Forenames>
+      <Key>de Boys</Key>
+      <Text>, E. J</Text>
+      <PageNumber>2646</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Burgh</Key>
+      <Forenames>U. F</Forenames>
+      <PageNumber>2564</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Laessoe</Key>
+      <Forenames>H. H</Forenames>
+      <PageNumber>3975</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Lotbiniere</Key>
+      <Forenames>H. G. Joly</Forenames>
+      <Text>, see Joly de Lotbiniore, H. G. de Pass, C. E</Text>
+      <PageNumber>3052</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Sales</Key>
+      <Forenames>La Terriere</Forenames>
+      <Text>, J. F</Text>
+      <PageNumber>3977</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Wiart</Key>
+      <Forenames>A. Carton</Forenames>
+      <Text>,.see Carton de Wiart, A. Deakin, C</Text>
       <PageNumber>3457</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -995,7 +1036,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Deedes</Key>
-      <Text>Sir W. H</Text>
+      <Title>Sir</Title>
+      <Forenames>W. H</Forenames>
       <PageNumber>4431</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1067,8 +1109,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Devereux</Key>
-      <Forenames>R.</Forenames>
-      <Text>de B</Text>
+      <Forenames>R. de B</Forenames>
       <PageNumber>4519</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1105,8 +1146,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>A. B.</Forenames>
-      <Text>de C</Text>
+      <Forenames>A. B. de C</Forenames>
       <PageNumber>2812</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1157,7 +1197,7 @@
   <ItemGroup>
     <MainItem>
       <Key>DihWG</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>3053</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1340,9 +1380,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Pre</Forenames>
-      <Text>, L. M. D. G</Text>
+      <Key>Du Pre</Key>
+      <Forenames>L. M. D. G</Forenames>
       <PageNumber>3613</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1666,7 +1705,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Eliot</Key>
-      <Text>N</Text>
+      <Forenames>N.</Forenames>
       <PageNumber>3675</PageNumber>
     </MainItem>
   </ItemGroup>

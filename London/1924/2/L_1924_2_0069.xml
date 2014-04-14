@@ -43,7 +43,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bray</Key>
-      <Text>C</Text>
+      <Forenames>C .</Forenames>
       <PageNumber>2823</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -784,8 +784,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cottenham</Key>
-      <Forenames>The</Forenames>
-      <Text>Earl or</Text>
+      <Title>The Earl</Title>
+      <Text>or</Text>
       <PageNumber>3523</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -860,7 +860,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Crawford</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>4810</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1068,10 +1068,24 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>La Mare</Forenames>
+      <Key>De La</Key>
+      <Forenames>Mare</Forenames>
       <Text>, 8. H</Text>
       <PageNumber>2802</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Loriol</Key>
+      <Forenames>P. G. L</Forenames>
+      <PageNumber>4120</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Trafford</Key>
+      <Forenames>R. A</Forenames>
+      <PageNumber>4312</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1168,7 +1182,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ditton</Key>
-      <Text>M. A. H. .;</Text>
+      <Forenames>M. A. H.</Forenames>
+      <Text>.;</Text>
       <PageNumber>4746</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1873,7 +1888,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gascoyne</Key>
-      <Text>G</Text>
+      <Forenames>G.</Forenames>
       <PageNumber>3350</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -28,7 +28,9 @@
       <Key>Bliss</Key>
       <Title>Sir</Title>
       <Forenames>Henry William</Forenames>
-      <Text>K.C.I.E</Text>
+      <Text>
+        <Honour>K.C.I.E</Honour>
+      </Text>
       <PageNumber>379</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -42,7 +44,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Klundell</Key>
-      <Forenames>John</Forenames>
+      <Title>John .</Title>
       <PageNumber>3951</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -167,7 +169,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bourn</Key>
-      <Forenames>Elizabeth</Forenames>
+      <Title>Elizabeth .</Title>
       <PageNumber>2112</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -196,7 +198,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bradlaw-Pliillips</Key>
-      <Forenames>Philip</Forenames>
+      <Title>Philip .</Title>
       <PageNumber>758</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -234,14 +236,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Bridge</Key>
-      <Forenames>Julia</Forenames>
+      <Title>Julia.</Title>
       <PageNumber>380</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Bridger</Key>
-      <Forenames>Elizi</Forenames>
+      <Title>Elizi .</Title>
       <PageNumber>2236</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -257,7 +259,9 @@
       <Key>Briscoe</Key>
       <Title>Sir</Title>
       <Forenames>John James</Forenames>
-      <Text>, Bart</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>1308</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -426,7 +430,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brunton</Key>
-      <Text>, LintonBennett</Text>
+      <Text>LintonBennett</Text>
       <PageNumber>3228</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -528,7 +532,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Butler</Key>
-      <Text>. Walter</Text>
+      <Forenames>Walter</Forenames>
       <PageNumber>2955</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -558,7 +562,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Margaret</Forenames>
+      <Title>Margaret .</Title>
       <PageNumber>3478</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -626,7 +630,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Calvert</Key>
-      <Forenames>James</Forenames>
+      <Title>James .</Title>
       <PageNumber>883</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -649,16 +653,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Cann</Key>
-      <Forenames>Annie</Forenames>
-      <Text>... Canning, Alfred</Text>
+      <Title>Annie .</Title>
+      <Text>.. Canning, Alfred</Text>
       <PageNumber>756</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Carey</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. John Herbert Carteret</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>John Herbert Carteret</Forenames>
       <PageNumber>3224</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -754,7 +758,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Shelton</Forenames>
+      <Title>Shelton .</Title>
       <PageNumber>2112</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -804,7 +808,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Christian</Key>
-      <Forenames>William</Forenames>
+      <Title>William .</Title>
       <PageNumber>3362</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -906,7 +910,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Clutton</Key>
-      <Forenames>Margaret</Forenames>
+      <Title>Margaret .</Title>
       <PageNumber>755</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1016,7 +1020,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Connolly</Key>
-      <Text>, .Fames</Text>
+      <Text>.Fames</Text>
       <PageNumber>2112</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1188,7 +1192,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Creed</Key>
-      <Forenames>Henry</Forenames>
+      <Title>Henry .</Title>
       <PageNumber>3361</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1443,8 +1447,21 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Pa</Forenames>
+      <Key>de Bruyn</Key>
+      <Forenames>Victor Guillaume</Forenames>
+      <PageNumber>385</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Murrieta</Key>
+      <Forenames>Francis</Forenames>
+      <PageNumber>2114</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Pa</Key>
       <Text>«s, Crispin Asahel</Text>
       <PageNumber>1487</PageNumber>
     </MainItem>
@@ -1688,7 +1705,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>James</Forenames>
+      <Title>James .</Title>
       <PageNumber>3360</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1702,7 +1719,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Downie</Key>
-      <Forenames>Thomas</Forenames>
+      <Title>Thomas .</Title>
       <PageNumber>1305</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1768,9 +1785,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Croz</Forenames>
-      <Text>, Charles Grant</Text>
+      <Key>Du Croz</Key>
+      <Forenames>Charles Grant</Forenames>
       <PageNumber>3954</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1784,7 +1800,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dunham</Key>
-      <Forenames>James</Forenames>
+      <Title>James .</Title>
       <PageNumber>269</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1826,15 +1842,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Earle</Key>
-      <Text>. Henry Arthur</Text>
+      <Forenames>Henry Arthur</Forenames>
       <PageNumber>1490</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>East</Key>
-      <Forenames>James</Forenames>
-      <Text>... Ebsworth, Kate Charlotte (otherwise Annie Frost)</Text>
+      <Title>James .</Title>
+      <Text>.. Ebsworth, Kate Charlotte (otherwise Annie Frost)</Text>
       <PageNumber>3477</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1935,7 +1951,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Elliott</Key>
-      <Forenames>Riley</Forenames>
+      <Title>Riley .</Title>
       <PageNumber>271</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1944,16 +1960,16 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Thomas</Forenames>
-      <Text>.,</Text>
+      <Title>Thomas .</Title>
+      <Text>,</Text>
       <PageNumber>2237</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Ellis</Key>
-      <Forenames>Joe</Forenames>
-      <Text>... ... . ',</Text>
+      <Title>Joe .</Title>
+      <Text>.. ... . ',</Text>
       <PageNumber>1878</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1963,7 +1979,9 @@
         <KeyDitto>___</KeyDitto>
       </Key>
       <Forenames>Philip Mackay</Forenames>
-      <Text>, O.B.E</Text>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>1307</PageNumber>
     </MainItem>
   </ItemGroup>

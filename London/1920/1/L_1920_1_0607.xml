@@ -38,15 +38,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Wardle</Key>
-      <Forenames>Thomas</Forenames>
-      <Text>... .„</Text>
+      <Title>Thomas .</Title>
+      <Text>.. .„</Text>
       <PageNumber>2113</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Warman</Key>
-      <Text>, 2nd Lt William Alfred</Text>
+      <Text>2nd Lt William Alfred</Text>
       <PageNumber>2366</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -87,7 +87,7 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Forenames>Maria</Forenames>
+      <Title>Maria .</Title>
       <PageNumber>3704</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -127,8 +127,8 @@
       <Key>
         <KeyDitto>-— ___ ___</KeyDitto>
       </Key>
-      <Forenames>Claude</Forenames>
-      <Text>... .„</Text>
+      <Title>Claude .</Title>
+      <Text>.. .„</Text>
       <PageNumber>1486</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -151,9 +151,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Watts</Key>
-      <Title>The Hon.</Title>
-      <Forenames>Ethelbert</Forenames>
-      <Text>._ ___</Text>
+      <Title>The Hon. Ethelbert .</Title>
+      <Text>_ ___</Text>
       <PageNumber>2540</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -275,17 +274,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Wellesley</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Richard Colley</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Richard Colley</Forenames>
       <PageNumber>3226</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Wetherall</Key>
-      <Title>Capt. Frederick .</Title>
-      <Forenames>Augustus</Forenames>
-      <Text>._</Text>
+      <Title>Capt. Frederick . Augustus .</Title>
+      <Text>_</Text>
       <PageNumber>3580</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -316,7 +314,7 @@
   <ItemGroup>
     <MainItem>
       <Key>White</Key>
-      <Text>. Edith</Text>
+      <Forenames>Edith</Forenames>
       <PageNumber>1738</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -334,7 +332,7 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Forenames>George</Forenames>
+      <Title>George .</Title>
       <PageNumber>3579</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -366,8 +364,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Whitehouse</Key>
-      <Forenames>Edwin</Forenames>
-      <Text>... .„</Text>
+      <Title>Edwin.</Title>
+      <Text>.. .„</Text>
       <PageNumber>1489</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -395,7 +393,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Whittaker</Key>
-      <Text>. Edmund</Text>
+      <Forenames>Edmund</Forenames>
       <PageNumber>2117</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -404,7 +402,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>the Rt. Hon. Sir Thomas Palmer, P.O., M.P</Text>
+      <Text>
+        <Honour>M.P</Honour>
+      </Text>
       <PageNumber>2237</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -553,7 +553,7 @@
       <Key>
         <KeyDitto>___ ___ ___ .</KeyDitto>
       </Key>
-      <Forenames>Jane</Forenames>
+      <Title>Jane .</Title>
       <PageNumber>3233</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -571,7 +571,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Rosa</Forenames>
+      <Title>Rosa .</Title>
       <PageNumber>618</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -587,8 +587,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Williamson</Key>
-      <Forenames>Mary</Forenames>
-      <Text>... ;</Text>
+      <Title>Mary .</Title>
+      <Text>.. ;</Text>
       <PageNumber>3478</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -725,7 +725,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>Henry Evelyn</Forenames>
-      <Text>, V.C., G.C.B</Text>
+      <Text>
+        <Honour>V.C.</Honour>
+      </Text>
       <PageNumber>760</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -852,7 +854,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>John</Forenames>
+      <Title>John .</Title>
       <PageNumber>2235</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -927,7 +929,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Yates</Key>
-      <Forenames>James</Forenames>
+      <Title>James.</Title>
       <PageNumber>2233</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -956,21 +958,21 @@
   <ItemGroup>
     <MainItem>
       <Key>Cantar</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>3237</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Cristel</Key>
-      <Text>. M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>1033</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Dell</Key>
-      <Text>, L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>387</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -991,21 +993,21 @@
   <ItemGroup>
     <MainItem>
       <Key>Haigh</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>766</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hawley</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>2377</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hunt</Key>
-      <Text>, 'C. A</Text>
+      <Text>'C. A</Text>
       <PageNumber>1626</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1027,14 +1029,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Payne</Key>
-      <Text>, G Pickering, F</Text>
+      <Forenames>G</Forenames>
+      <Text>Pickering, F</Text>
       <PageNumber>274</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Randall</Key>
-      <Text>. H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>2123</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1063,14 +1066,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Wynn</Key>
-      <Text>, T ___ ___ ___ THE BANKRUPTCY ACT, 1914 Return showing the number of Receiving Orders and Administration Orders (Deceased Debtors' Estates) in the High Court, and in the several County Courts having Bankruptcy Jurisdiction in England and Wales, gazetted in the quarters and in the years ending respectively 31st December, 1919,1918, 1917</Text>
+      <Forenames>T</Forenames>
+      <Text>___ ___ ___ THE BANKRUPTCY ACT, 1914 Return showing the number of Receiving Orders and Administration Orders (Deceased Debtors' Estates) in the High Court, and in the several County Courts having Bankruptcy Jurisdiction in England and Wales, gazetted in the quarters and in the years ending respectively 31st December, 1919,1918, 1917</Text>
       <PageNumber>225</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Alexander</Key>
-      <Text>, II</Text>
+      <Text>II</Text>
       <PageNumber>1034</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1107,7 +1111,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brewster</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>888</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1143,7 +1147,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Chipperfield</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>1033</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1216,8 +1220,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hutchinson</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>A. St. C</Forenames>
       <PageNumber>1034</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1239,14 +1242,21 @@
   <ItemGroup>
     <MainItem>
       <Key>Jones</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>2377</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Kingsley</Key>
-      <Text>, C 1496 ' Lees, F</Text>
+      <Forenames>C</Forenames>
+      <PageNumber>1496</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Lees</Key>
+      <Forenames>F.</Forenames>
       <PageNumber>274</PageNumber>
       <PageNumber>388</PageNumber>
     </MainItem>
@@ -1261,7 +1271,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Maskell</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>3238</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1299,7 +1309,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Nocton</Key>
-      <Text>, R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>628</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1313,7 +1323,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Poulton</Key>
-      <Text>, R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>1034</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1352,7 +1362,14 @@
     <MainItem>
       <Key>Vickers</Key>
       <Forenames>T. B.</Forenames>
-      <Text>(Jnr) 3238 . West, H. E</Text>
+      <Text>(Jnr)</Text>
+      <PageNumber>3238</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>West</Key>
+      <Forenames>H. E.</Forenames>
       <PageNumber>1160</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1486,7 +1503,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Arnold</Key>
-      <Text>, H ___ ___ — — ___ ___</Text>
+      <Forenames>H</Forenames>
+      <Text>___ ___ — — ___ ___</Text>
       <PageNumber>138</PageNumber>
     </MainItem>
     <SubItem>
@@ -1546,7 +1564,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Aston</Key>
-      <Text>, O ___ ___ ___</Text>
+      <Forenames>O</Forenames>
+      <Text>___ ___ ___</Text>
       <PageNumber>401</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1565,7 +1584,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Austin</Key>
-      <Text>, A ___ ___ ___ ___ t</Text>
+      <Forenames>A</Forenames>
+      <Text>___ ___ ___ ___ t</Text>
       <PageNumber>3499</PageNumber>
     </MainItem>
     <SubItem>
@@ -1588,7 +1608,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bailey</Key>
-      <Text>, L ~\</Text>
+      <Forenames>L</Forenames>
+      <Text>~\</Text>
       <PageNumber>3604</PageNumber>
     </MainItem>
     <SubItem>

@@ -280,8 +280,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Frank</Key>
-      <Forenames>W. O</Forenames>
-      <Text>'B. G</Text>
+      <Forenames>W. O'B</Forenames>
+      <Text>. G</Text>
       <PageNumber>4620</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -354,7 +354,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gaddum</Key>
-      <Text>W. F</Text>
+      <Forenames>W. F.</Forenames>
       <PageNumber>5842</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -552,7 +552,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Grant</Key>
-      <Text>D. F</Text>
+      <Forenames>D. F.</Forenames>
       <PageNumber>4924</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1196,8 +1196,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hopkinson</Key>
-      <Forenames>H. L.</Forenames>
-      <Text>de A</Text>
+      <Forenames>H. L. de A</Forenames>
       <PageNumber>5073</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1498,7 +1497,9 @@
         <KeyDitto>___ ___ .</KeyDitto>
       </Key>
       <Forenames>A. L.</Forenames>
-      <Text>(B.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6347</PageNumber>
     </MainItem>
   </ItemGroup>

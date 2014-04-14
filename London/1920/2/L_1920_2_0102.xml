@@ -55,7 +55,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>G. S. T.</Forenames>
-      <Text>, M.V.O. (rel. temp. Hank of Capt.)</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>4673</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -90,7 +92,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>V. J.</Forenames>
-      <Text>(rel. temp, rank of Maj. on ceasing to be empld. with.M.G.C. Cav.)</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>6983</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -207,7 +211,9 @@
       </Key>
       <Title>temp. Chapln., 4th CI., Rev.</Title>
       <Forenames>H. C</Forenames>
-      <Text>, M.C. (rel. commn., , and to be Hon. Chapln., 4th 01.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4973</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -224,15 +230,22 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Beer</Forenames>
-      <Text>, 'H. A. '(granted .temp, rank as Lt. for service with Forces in E. Africa)</Text>
+      <Key>De Beer</Key>
+      <Text>'H. A. '(granted .temp, rank as Lt. for service with Forces in E. Africa)</Text>
       <PageNumber>6155</PageNumber>
     </MainItem>
     <SubItem>
       <Text>Rel. 'commn. on completion of service and retains .rank of Lt</Text>
       <PageNumber>6551</PageNumber>
     </SubItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Bertrand</Key>
+      <Title>Lt.</Title>
+      <Text>IF. H. (retires bn ret. pay)</Text>
+      <PageNumber>4198</PageNumber>
+    </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
@@ -289,7 +302,9 @@
       </Key>
       <Title>Bt. Lt.-Col.</Title>
       <Forenames>E</Forenames>
-      <Text>,, D.S.O. (temp. Maj. whilst G.S.O., 2nd Gr.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5453</PageNumber>
     </MainItem>
     <SubItem>
@@ -299,7 +314,7 @@
       <PageNumber>6664</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>Rel. appt. of Adjt., 13th Bn</Text>
+      <Text>Rel. appt. of Adjt., 13th Bn.</Text>
       <PageNumber>5076</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -319,7 +334,9 @@
       <Key>Gruohy</Key>
       <Title>Lt.</Title>
       <Forenames>H. E. B.</Forenames>
-      <Text>, M.C. (ret commn. and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5917</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -355,7 +372,9 @@
       <Key>Jongh</Key>
       <Title>Lt.</Title>
       <Forenames>L. A.</Forenames>
-      <Text>, M.C. (rel. commn. and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5900</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -373,7 +392,9 @@
       <Key>Miremont</Key>
       <Title>Capt.</Title>
       <Forenames>G. E. R.</Forenames>
-      <Text>, i/.S.O., M.C. (Adjt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4025</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -382,7 +403,9 @@
       <Key>Moracho</Key>
       <Title>temp. 2nd Lt.</Title>
       <Forenames>A. J. V.</Forenames>
-      <Text>, M.M. (rel. commn, on completion of service and retains rank of 2nd Lt.)</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>5559</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -417,7 +440,9 @@
       <Key>Bree</Key>
       <Title>Col.</Title>
       <Forenames>H. D.</Forenames>
-      <Text>, C.B., C.M.G:, D.S.u. (temp. Brig.-Gen. whilst Brig. Oomdr. in India)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>5677</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -427,11 +452,13 @@
         <KeyDitto>___</KeyDitto>
       </Key>
       <Title>Jiaj.</Title>
-      <Text>and. Bt. Lt.-Cbl. (temp. Lt.-Col.) H. (retires on ret. pay and granted rank of Lt.^Col. in Res. of Offr.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4199</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Temp. Lt. (Gen. List) whilst spec, empld</Text>
+      <Text>Temp. Lt. (Gen. List) whilst spec, empld.</Text>
       <PageNumber>6861</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -442,8 +469,19 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>L.</Forenames>
-      <Text>dlH. (aetg. Maj. comdg. a Oo., M.G.C.. Infy.)</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>582</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Voil</Key>
+      <Title>Lt.</Title>
+      <Forenames>W. H.</Forenames>
+      <Text>(rel. oommn. and retains rank of Lt.)</Text>
+      <PageNumber>4687</PageNumber>
     </MainItem>
     <SubItem>
       <Text>
@@ -480,7 +518,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>iSupern. Capt. H. W., D.F.C. (restd. to esitalbt.)</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>5466</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -491,7 +531,9 @@
       </Key>
       <Title>temp. Capt. (Bt. Maj.)</Title>
       <Forenames>J. D.</Forenames>
-      <Text>, M.C (rel. oommn. on completion of service amd retains rank of Capt. (Bt. Ma.j.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>5906</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -581,7 +623,10 @@
       </Key>
       <Title>2nd Lt. (now Lt.)</Title>
       <Forenames>P.</Forenames>
-      <Text>, M.C., D.C.M. (seed, for service with M.G. Corps)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>4314</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -614,7 +659,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>S. L.</Forenames>
-      <Text>, M.C. (rel. commn. and retainsrank oif Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6430</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -710,7 +757,9 @@
       <Key>Deed</Key>
       <Title>temp. Capt.</Title>
       <Forenames>S. C</Forenames>
-      <Text>, M.C. (rel. oommn. on completion of service and granted rank of Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5208</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -719,7 +768,9 @@
       <Key>Deedes</Key>
       <Title>Lt.</Title>
       <Forenames>J. G.</Forenames>
-      <Text>. M.B.E. (rel. aotg. rank of Ma,j.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>5559</PageNumber>
     </MainItem>
   </ItemGroup>

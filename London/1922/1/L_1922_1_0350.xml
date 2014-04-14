@@ -83,7 +83,9 @@
     <MainItem>
       <Key>Kane</Key>
       <Forenames>J. L. K.</Forenames>
-      <Text>O.B.E</Text>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>2049</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -106,7 +108,9 @@
     <MainItem>
       <Key>Thacker</Key>
       <Forenames>N.</Forenames>
-      <Text>, M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>554</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -232,7 +236,9 @@
       <Key>MacLaren</Key>
       <Title>Lt.</Title>
       <Forenames>H.</Forenames>
-      <Text>, M.C. (rel. actg, rank on ceasing to comd. a Co.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>964</PageNumber>
     </MainItem>
     <SubItem>
@@ -251,8 +257,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, Lt. J, M. D. (while holding appt. as Section Engr., East Persia Cordon)</Text>
+      <Key>O'Brien</Key>
+      <Title>Lt.</Title>
+      <Forenames>J</Forenames>
+      <Text>, M. D. (while holding appt. as Section Engr., East Persia Cordon)</Text>
       <PageNumber>554</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -277,7 +285,10 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>. Ruth, G. H. B., M.C. (while comdg. a Co.)</Text>
+      <Forenames>Ruth</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>376</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -286,7 +297,9 @@
       <Key>Sullivan</Key>
       <Title>Lt.</Title>
       <Forenames>A. S.</Forenames>
-      <Text>, M.C. (while comdg. Co.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2621</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -373,8 +386,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Temple</Key>
-      <Forenames>P.</Forenames>
-      <Text>de L. (seniority)</Text>
+      <Forenames>P. de L</Forenames>
+      <Text>. (seniority)</Text>
       <PageNumber>1831</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -549,7 +562,9 @@
     <MainItem>
       <Key>Bishan</Key>
       <Forenames>Singh</Forenames>
-      <Text>, Bahadur. I.O.M</Text>
+      <Text>
+        <Honour>O.M</Honour>
+      </Text>
       <PageNumber>1203</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -557,7 +572,9 @@
     <MainItem>
       <Key>Joseph</Key>
       <Forenames>Bahadur</Forenames>
-      <Text>, I.D.S.M</Text>
+      <Text>
+        <Honour>D.S.M</Honour>
+      </Text>
       <PageNumber>1203</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -581,7 +598,9 @@
     <MainItem>
       <Key>Narain</Key>
       <Forenames>Singh</Forenames>
-      <Text>, I.O.M</Text>
+      <Text>
+        <Honour>O.M</Honour>
+      </Text>
       <PageNumber>1203</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -931,7 +950,9 @@
     <MainItem>
       <Key>Boylette</Key>
       <Forenames>W.</Forenames>
-      <Text>R.D. (Lt.)</Text>
+      <Text>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>553</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1099,7 +1120,9 @@
       <Key>Crosbie</Key>
       <Title>Lt.</Title>
       <Forenames>D. F.</Forenames>
-      <Text>,M.C. (rel. temp. commn.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1612</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1140,7 +1163,9 @@
       <Key>Davies</Key>
       <Title>Maj.</Title>
       <Forenames>J. F.</Forenames>
-      <Text>, O.B.E. (resigns comnin. and retains rank of Maj.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>730</PageNumber>
     </MainItem>
   </ItemGroup>

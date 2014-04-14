@@ -10,8 +10,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Molloy-O</Key>
-      <Text>'Neill, G. L</Text>
+      <Key>Molloy-O'Neill</Key>
+      <Forenames>G. L</Forenames>
       <PageNumber>5244</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -52,16 +52,7 @@
       <PageNumber>5244</PageNumber>
     </MainItem>
   </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ -— ___ ___ ___</KeyDitto>
-      </Key>
-      <Forenames>C. H. P.</Forenames>
-      <Text>... '</Text>
-      <PageNumber>6429</PageNumber>
-    </MainItem>
-  </ItemGroup>
+  <KeyDitto>___ -— ___ ___ ___</KeyDitto>
   <ItemGroup>
     <MainItem>
       <Key>xMoss</Key>
@@ -94,8 +85,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Neill</Key>
-      <Forenames>T.</Forenames>
-      <Text>de L</Text>
+      <Forenames>T. de L</Forenames>
       <PageNumber>6429</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -189,15 +179,16 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Doherty, F. J</Text>
+      <Key>O'Doherty</Key>
+      <Forenames>F. J</Forenames>
       <PageNumber>4926</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, G. L. Molloy, see Molloy-O'Neill, G. L. Ould, J. V</Text>
+      <Key>O'Neill</Key>
+      <Forenames>G. L. Molloy</Forenames>
+      <Text>, see Molloy-O'Neill, G. L. Ould, J. V</Text>
       <PageNumber>5074</PageNumber>
       <PageNumber>6279</PageNumber>
     </MainItem>
@@ -372,8 +363,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Read</Key>
-      <Forenames>R. F.</Forenames>
-      <Text>de R</Text>
+      <Forenames>R. F. de R</Forenames>
       <PageNumber>6429</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -525,7 +515,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rooth</Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>6279</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -617,7 +607,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Scott</Key>
-      <Text>Tayljr, It</Text>
+      <Forenames>Tayljr</Forenames>
+      <Text>, It</Text>
       <PageNumber>6279</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -926,7 +917,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tyler</Key>
-      <Text>H. R</Text>
+      <Forenames>H. R</Forenames>
       <PageNumber>4790</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1223,14 +1214,18 @@
   <ItemGroup>
     <MainItem>
       <Key>Ross</Key>
-      <Text>and Cromarty: Mackenzie, Sir Kenneth John, Bart</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>4786</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Edinburgh</Key>
-      <Text>: Stark, John, O.B.E., J.P</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4859</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1268,7 +1263,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Norfolk</Key>
-      <Text>and Norwich: Duff, Lt.-Col. Granville John Berney,' M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>6499</PageNumber>
     </MainItem>
     <SubItem>
@@ -1298,7 +1295,10 @@
     <MainItem>
       <Key>Yorkshire</Key>
       <Forenames>Nortli Riding</Forenames>
-      <Text>of: Lowther, Major John George, D.S.O., M.C</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>4859</PageNumber>
     </MainItem>
   </ItemGroup>

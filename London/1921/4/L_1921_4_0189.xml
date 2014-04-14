@@ -21,7 +21,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Littleton-Geach</Key>
-      <Text>. temp. Ca.pt. H. W. A. W. (rel. commn. on completion of service and retains rank of Capt.)</Text>
+      <Title>temp. Ca.</Title>
+      <Text>pt. H. W. A. W. (rel. commn. on completion of service and retains rank of Capt.)</Text>
       <PageNumber>8167</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -115,7 +116,11 @@
       <Key>Livingstone-Learmouth</Key>
       <Title>Lt.</Title>
       <Forenames>Col</Forenames>
-      <Text>and Bt. Col. J. E. C, C.M.G., .D.S.O. (Col.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8708</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -239,7 +244,9 @@
       <Key>Lloyd</Key>
       <Title>temp. Lt.</Title>
       <Forenames>A. H.</Forenames>
-      <Text>. M.C. (rel. commh. on completion of service and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9220</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -378,7 +385,9 @@
       </Key>
       <Title>Lt. (on prob.)</Title>
       <Forenames>J.</Forenames>
-      <Text>, M.C. (Lt., Army Educational Corps, from R.G.A., T.A.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10199</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -409,7 +418,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>L. H</Forenames>
-      <Text>, . O.B.E. (placed on h.p. list on acc. of illhealth)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>10199</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -421,7 +432,9 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>P. G. W.</Forenames>
-      <Text>, M.C. (rel. commn. on completion of service and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8436</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -474,7 +487,9 @@
       </Key>
       <Title>Major</Title>
       <Forenames>R. G. A.</Forenames>
-      <Text>. D.S.O. (rel. commn., having attained the age limit of liability to recall, and retains rank of</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8896</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -484,7 +499,10 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Title>Lt.-Col.</Title>
-      <Text>and Bt, Col. (Hon. Brig.-Gen.) S. E. M., C.B.E. /Col.. Spec. Res., late 3rd Suffolk R.. and rel. hon. rank of Brig.-Ocn.), Sub. Not</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>8896</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -517,7 +535,9 @@
       </Key>
       <Title>temp. Maj.</Title>
       <Forenames>T. H.</Forenames>
-      <Text>, O.B.E. I (rel. commn. on completion cit service and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3060</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -566,7 +586,10 @@
       <Key>Lloyd-Greame</Key>
       <Title>temp. Maj. Sir</Title>
       <Forenames>Philip</Forenames>
-      <Text>, K.B.E., M.C. (rel. commn. on completion of service and retains rank of Maj.)</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9126</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -655,7 +678,9 @@
       <Key>Loch</Key>
       <Title>temp. Maj.</Title>
       <Forenames>A. D.</Forenames>
-      <Text>. M.C. (rel. commn. on completion of service and retains rank of Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7867</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -720,7 +745,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>F. A. X.</Forenames>
-      <Text>M.C. (Maj., Reg. Armv. Res. of Offrs.. lato R.G.A.) ... ..:</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8691</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -778,7 +805,7 @@
   <ItemGroup>
     <MainItem>
       <Key>T</Key>
-      <Text>.ockett, temp Chaoln.. 4th CI.. Rev. A. C. (rel. commn. and to be Hon. Chapln.. 4th CIV!</Text>
+      <Text>ockett, temp Chaoln.. 4th CI.. Rev. A. C. (rel. commn. and to be Hon. Chapln.. 4th CIV!</Text>
       <PageNumber>8700</PageNumber>
     </MainItem>
   </ItemGroup>

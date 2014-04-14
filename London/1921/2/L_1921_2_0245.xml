@@ -4,8 +4,8 @@
     <MainItem>
       <Key>Denny</Key>
       <Title>Lt.</Title>
-      <Forenames>A. De C.</Forenames>
-      <Text>McGillycuddy Igruiiiea temp, commn. as Flying Unr. on secdg. for four years' duty with R.A.F.)</Text>
+      <Forenames>A. De C</Forenames>
+      <Text>. McGillycuddy Igruiiiea temp, commn. as Flying Unr. on secdg. for four years' duty with R.A.F.)</Text>
       <PageNumber>3292</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -21,7 +21,9 @@
     <MainItem>
       <Key>Dewey</Key>
       <Forenames>Flying Offr</Forenames>
-      <Text>. N. S., M.C. (granted temp, commn. whilst temp, re^empld.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3753</PageNumber>
     </MainItem>
     <SubItem>
@@ -61,7 +63,9 @@
     <MainItem>
       <Key>Dimmock</Key>
       <Forenames>Pilot Offr</Forenames>
-      <Text>., on prob., N. H., A.F.C. (resigns commn.; and granted rank of Capt.)</Text>
+      <Text>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>3935</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -70,7 +74,9 @@
       <Key>Dixon</Key>
       <Title>2nd Lt.</Title>
       <Forenames>P. H.</Forenames>
-      <Text>, M.M. (Lt.)</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>3935</PageNumber>
     </MainItem>
     <SubItem>
@@ -130,7 +136,9 @@
       </Key>
       <Title>Flight Lt.</Title>
       <Forenames>K. T.</Forenames>
-      <Text>, D.F.C.. (restd. to active list for temp, duty)</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>3544</PageNumber>
     </MainItem>
     <SubItem>
@@ -149,7 +157,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Drysdalc</Key>
-      <Text>Flying Offr. J. M. (restd. to active list for temp. dutv)</Text>
+      <Forenames>Flying Offr</Forenames>
+      <Text>. J. M. (restd. to active list for temp. dutv)</Text>
       <PageNumber>3543</PageNumber>
     </MainItem>
     <SubItem>
@@ -203,7 +212,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Elgie</Key>
-      <Text>Cadet R. H. (Not. in Gaz. of 13th June 1919 cancelled)</Text>
+      <Title>Cadet</Title>
+      <Forenames>R. H.</Forenames>
+      <Text>(Not. in Gaz. of 13th June 1919 cancelled)</Text>
       <PageNumber>2899</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -247,7 +258,9 @@
       <Key>Farren</Key>
       <Title>Capt.</Title>
       <Forenames>W. S.</Forenames>
-      <Text>, M.B.E. (rel. temp. R.A.F. commn., and retains rank)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>5015</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -277,7 +290,9 @@
     <MainItem>
       <Key>Felstead</Key>
       <Forenames>Flying Offr</Forenames>
-      <Text>. G., D.C.M. (placed on retd. list)</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>2798</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -303,7 +318,10 @@
     <MainItem>
       <Key>Findlay</Key>
       <Forenames>Flying Offr</Forenames>
-      <Text>. M. H., D.S.C., D.F.C. (granted temp, commn. whilst temp, re-empld.)</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>3753</PageNumber>
     </MainItem>
     <SubItem>
@@ -342,7 +360,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Forsyth</Key>
-      <Text>Miss B. C. S. (Sister)</Text>
+      <Title>Miss</Title>
+      <Forenames>B. C. S.</Forenames>
+      <Text>(Sister)</Text>
       <PageNumber>4550</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -361,14 +381,20 @@
   <ItemGroup>
     <MainItem>
       <Key>Frfwler</Key>
-      <Text>Lt.-Col. Sir H., K.B.E. (rel. temp. R.A.F. commn., arid retains rank)</Text>
+      <Title>Lt.-Col. Sir</Title>
+      <Forenames>H.</Forenames>
+      <Text>
+        <Honour>K.B.E.</Honour>
+      </Text>
       <PageNumber>5015</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Freeland</Key>
-      <Text>Flight Lt. R. B. (restd. to active list for temp. duty)</Text>
+      <Title>Flight Lt.</Title>
+      <Forenames>R. B.</Forenames>
+      <Text>(restd. to active list for temp. duty)</Text>
       <PageNumber>3544</PageNumber>
     </MainItem>
     <SubItem>
@@ -380,7 +406,9 @@
     <MainItem>
       <Key>French</Key>
       <Forenames>Flying Offr</Forenames>
-      <Text>. T. H., D.F.C. (restd. to active list for temp. duty)</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>3545</PageNumber>
     </MainItem>
     <SubItem>
@@ -400,7 +428,13 @@
   <ItemGroup>
     <MainItem>
       <Key>Fullard</Key>
-      <Text>Flight Lt. P. F., D.S.O., M.C., A.F.C. i(placed on half pay, Scale B)</Text>
+      <Title>Flight Lt.</Title>
+      <Forenames>P. F.</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>2572</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -494,7 +528,9 @@
       <Key>Gladstone</Key>
       <Title>Fit. Lt.</Title>
       <Forenames>T. A.</Forenames>
-      <Text>, A.F.C. (restd. to active list for temp. duty)</Text>
+      <Text>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>3544</PageNumber>
     </MainItem>
     <SubItem>
@@ -700,7 +736,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Greig</Key>
-      <Text>Wing Comdr. Louis Leisler, M.V.O., M.B. (corr. of Christian name)</Text>
+      <Forenames>Wing Comdr</Forenames>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>3292</PageNumber>
     </MainItem>
   </ItemGroup>

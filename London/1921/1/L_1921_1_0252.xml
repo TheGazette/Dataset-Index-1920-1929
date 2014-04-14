@@ -85,7 +85,9 @@
     <MainItem>
       <Key>McKenzie-Muirson</Key>
       <Forenames>K. B.</Forenames>
-      <Text>. M.C. (for absence without leave)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1903</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -185,7 +187,9 @@
     <MainItem>
       <Key>Kharak</Key>
       <Forenames>Sing Rana</Forenames>
-      <Text>, Bahadur, M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>2306</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -262,7 +266,9 @@
     <MainItem>
       <Key>Sundar</Key>
       <Forenames>Singh</Forenames>
-      <Text>, Bahadur, I.D.S.M</Text>
+      <Text>
+        <Honour>D.S.M</Honour>
+      </Text>
       <PageNumber>2306</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -379,7 +385,9 @@
     <MainItem>
       <Key>Cole</Key>
       <Forenames>Arthur Hubert</Forenames>
-      <Text>, M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>1284</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -394,7 +402,9 @@
     <MainItem>
       <Key>Dunkerton</Key>
       <Forenames>Edmund Lloyd Hain</Forenames>
-      <Text>, M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>1702</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -423,7 +433,9 @@
     <MainItem>
       <Key>Holland</Key>
       <Forenames>John Vincent</Forenames>
-      <Text>, V.C</Text>
+      <Text>
+        <Honour>V.C</Honour>
+      </Text>
       <PageNumber>2227</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -514,7 +526,9 @@
     <MainItem>
       <Key>Pepperall</Key>
       <Forenames>Robert Augustus</Forenames>
-      <Text>, M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>591</PageNumber>
     </MainItem>
     <SubItem>
@@ -531,8 +545,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. Maur, Richard William Maxwell</Text>
+      <Key>St. Maur</Key>
+      <Forenames>Richard William Max-</Forenames>
+      <Text>well</Text>
       <PageNumber>1901</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -639,8 +654,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, Terence Joseph</Text>
+      <Key>O'Connor</Key>
+      <Forenames>Terence Joseph</Forenames>
       <PageNumber>1703</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -821,7 +836,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>H.</Forenames>
-      <Text>, M.M. (temp. Lt.)</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>1702</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -829,7 +846,9 @@
     <MainItem>
       <Key>Betteridge</Key>
       <Forenames>G. W.</Forenames>
-      <Text>, M.B.E. (Capt.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>2097</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1057,6 +1076,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Freville</Key>
+      <Forenames>Capt</Forenames>
+      <Text>: G. V. (retires in consequence of ill-health)</Text>
+      <PageNumber>2099</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Dent</Key>
       <Forenames>C. G.</Forenames>
       <Text>(temp. Capt.)</Text>
@@ -1214,7 +1241,9 @@
     <MainItem>
       <Key>Gildea</Key>
       <Forenames>E. J. Purcell</Forenames>
-      <Text>(Capt.) (see Purcell-Gildea, E. J. Capt.) Goddard, A. W., M.C. (temp. Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>592</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1301,7 +1330,9 @@
       <Key>Henderson</Key>
       <Title>Capt.</Title>
       <Forenames>W. L.</Forenames>
-      <Text>, M.C. (resigns)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2307</PageNumber>
     </MainItem>
   </ItemGroup>

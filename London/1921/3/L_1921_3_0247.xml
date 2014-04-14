@@ -498,7 +498,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Subodh</Key>
-      <Text>. Chandra Bhattacharya</Text>
+      <Forenames>Chandra Bhattacharya</Forenames>
       <PageNumber>7691</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -755,7 +755,10 @@
     <MainItem>
       <Key>Corridon</Key>
       <Forenames>R.</Forenames>
-      <Text>, M.V.O., M.B.E. (Supery.)</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>7313</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -777,16 +780,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Stracey</Key>
-      <Forenames>P. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>P. St. C</Forenames>
       <PageNumber>5734</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Trutwein</Key>
-      <Forenames>P. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>P. St. C</Forenames>
       <PageNumber>5734</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -852,7 +853,9 @@
     <MainItem>
       <Key>Jones</Key>
       <Forenames>G. T.</Forenames>
-      <Text>, M.M</Text>
+      <Text>
+        <Honour>M.M</Honour>
+      </Text>
       <PageNumber>5734</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -880,8 +883,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Leary, F. H</Text>
+      <Key>O'Leary</Key>
+      <Forenames>F. H.</Forenames>
       <PageNumber>5734</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -955,7 +958,9 @@
     <MainItem>
       <Key>Craven</Key>
       <Forenames>A.</Forenames>
-      <Text>, O.B.E. (corr of date)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>7140</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1008,7 +1013,9 @@
     <MainItem>
       <Key>Hayburst</Key>
       <Forenames>J. H. J.</Forenames>
-      <Text>, M.B.E</Text>
+      <Text>
+        <Honour>M.B.E</Honour>
+      </Text>
       <PageNumber>7140</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1035,8 +1042,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, P</Text>
+      <Key>O'Connor</Key>
+      <Forenames>P</Forenames>
       <PageNumber>7462</PageNumber>
     </MainItem>
   </ItemGroup>

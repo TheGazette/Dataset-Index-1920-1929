@@ -3,7 +3,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Culler</Key>
-      <Text>., Lt. (Res. of Off.) F. H. B., M.C. (Lt., 100th (Worcs. and Oxford Yeo.) Bde. (A.T.), R.F.A.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8879</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -12,7 +14,9 @@
       <Key>Cumberlidge</Key>
       <Title>Capt.</Title>
       <Forenames>W. I.</Forenames>
-      <Text>, F.R.C.S. (rel. commn. and retains rank of Capt,)</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>7377</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -39,7 +43,9 @@
       <Key>Dale</Key>
       <Title>Capt.</Title>
       <Forenames>J. W.</Forenames>
-      <Text>, M.C., M.B. (is retired, having attained the age limit, and granted rank of Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8416</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -66,7 +72,10 @@
       <Key>Dalling</Key>
       <Title>Capt.</Title>
       <Forenames>Reginald Ramsdale</Forenames>
-      <Text>(Capt., R.A.V.C., late R.A.V.C., Spec Res.)</Text>
+      <Text>
+        <Honour>V.C.</Honour>
+        <Honour>V.C.</Honour>
+      </Text>
       <PageNumber>7672</PageNumber>
     </MainItem>
     <SubItem>
@@ -108,7 +117,9 @@
       <Key>Dalziel</Key>
       <Title>Capt.</Title>
       <Forenames>C</Forenames>
-      <Text>, M.C., M.B. (resigns commn. and granted rank of Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7672</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -191,7 +202,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>I. J.</Forenames>
-      <Text>, M.D. fre*. commn. and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>8880</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -233,7 +246,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>H. R.</Forenames>
-      <Text>, M.C. (resigns commn. and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7207</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -272,7 +287,10 @@
       <Key>Dawnay</Key>
       <Title>Maj.</Title>
       <Forenames>A. G. C</Forenames>
-      <Text>, C.B.E., D.S.O. (local Lt.-Col. whilst commdg. Oxf. Univ. Cont., Sen. Div., O.T.C.)</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7377</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -281,15 +299,27 @@
       <Key>Dawson</Key>
       <Title>Maj.</Title>
       <Forenames>J.</Forenames>
-      <Text>, M.C. (Maj., T.A. Res., Gen. hist, R.E., from 2nd (Wilts.) Heavy Bdg. Co.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7466</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Jong</Forenames>
-      <Text>, Capt. E. M. (is retired, having attained the age limit, and retains rank of Capt.)</Text>
+      <Key>de Glanville</Key>
+      <Title>Capt.</Title>
+      <Forenames>L. R. G.</Forenames>
+      <Text>(resigns commn. and retains rank of Capt.)</Text>
+      <PageNumber>7672</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Jong</Key>
+      <Title>Capt.</Title>
+      <Forenames>E. M.</Forenames>
+      <Text>(is retired, having attained the age limit, and retains rank of Capt.)</Text>
       <PageNumber>7949</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -307,7 +337,9 @@
       <Key>Dean</Key>
       <Title>Capt.</Title>
       <Forenames>D. J.</Forenames>
-      <Text>, V.C. (apptd. to 4th Bn., Buffs, and retains rank of Capt. and precedence)</Text>
+      <Text>
+        <Honour>V.C.</Honour>
+      </Text>
       <PageNumber>8614</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -338,7 +370,9 @@
       <Key>Dench</Key>
       <Title>Lt.</Title>
       <Forenames>J. R.</Forenames>
-      <Text>, M.C. (ceases to hold commn. in the T.A. for failing to reply to official correspondence)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7672</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -422,7 +456,9 @@
       <Key>Dickins</Key>
       <Title>Col.</Title>
       <Forenames>V. W. F.</Forenames>
-      <Text>, D.S.O., V.D. (is retired, having attained the age limit, and retains rank of Col., with permission to wear prescribed uniform)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8217</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -458,7 +494,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>L. A.</Forenames>
-      <Text>, M.D. (rel. commn. and granted rank of Maj.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>9173</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -497,7 +535,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>M.</Forenames>
-      <Text>, M.D. (is retired, &gt; having attained the age limit, and retains rank of Cant.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>8722</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -548,7 +588,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Dore</Key>
-      <Text>. Capt. N. A. (rel. commn. and retains rank orf Cant.)</Text>
+      <Title>Capt.</Title>
+      <Forenames>N. A.</Forenames>
+      <Text>(rel. commn. and retains rank orf Cant.)</Text>
       <PageNumber>9041</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -572,7 +614,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Doyne</Key>
-      <Text>. Capt. G. Irel. commn. and retains rank of Capt.)</Text>
+      <Title>Capt.</Title>
+      <Forenames>G. Irel</Forenames>
+      <Text>. commn. and retains rank of Capt.)</Text>
       <PageNumber>7672</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -610,15 +654,21 @@
       <Key>Drysdale</Key>
       <Title>Maj. (Bt. Lt.-Col.)</Title>
       <Forenames>J. H.</Forenames>
-      <Text>, M.D. (rel. commn. and retains rank of Maj. (Bt. Lt.-Col.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>7540</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Sautoy</Forenames>
-      <Text>, Maj. E. F. T.D. (Lt.Col.)</Text>
+      <Key>Du Sautoy</Key>
+      <Title>Maj.</Title>
+      <Forenames>E. F.</Forenames>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>8721</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -654,7 +704,12 @@
       <Key>Dunbar</Key>
       <Title>Capt.</Title>
       <Forenames>H. J.</Forenames>
-      <Text>, O.B.E., M.D. (Maj., T.A. Res. Gen. List, R.A.M.C., from Gen. List, R.A.M.C., T.A.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.D.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8218</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -703,7 +758,9 @@
     <MainItem>
       <Key>Dunstan</Key>
       <Title>Lt.</Title>
-      <Text>-Col F. M., T.D. (apptd. to 4th Bn., Buffs, and retains rank of Lt.-Col. and precedence)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>8614</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -729,7 +786,9 @@
       <Key>Eadie</Key>
       <Title>Capt.</Title>
       <Forenames>G. B.</Forenames>
-      <Text>, M.D. (resigns commn. and granted rank of Maj.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>7672</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -755,7 +814,9 @@
       <Key>Eastwiek-Fieldi</Key>
       <Title>Capt.</Title>
       <Forenames>W. L.</Forenames>
-      <Text>, M.C. (Adjt., 54th (Lond.) A.A. Bde., R.A.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8301</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -773,7 +834,9 @@
       <Key>Eddison</Key>
       <Title>Capt.</Title>
       <Forenames>F. R.</Forenames>
-      <Text>(rel. commn. and granted rank of Maj.) ... Eden, Lt. (actg. Capt.) G. M., M.B.E. (rel. actg. rank of Capt.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>7049</PageNumber>
     </MainItem>
     <SubItem>
@@ -790,7 +853,9 @@
       <Key>Edgcumbe</Key>
       <Title>Maj.</Title>
       <Forenames>K. W. E.</Forenames>
-      <Text>, T.D., M.I.E.E., M.I.C.E, (Lt.-Col.)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>7947</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -841,7 +906,9 @@
       <Key>Eliott</Key>
       <Title>Maj.</Title>
       <Forenames>R. H.</Forenames>
-      <Text>, D.S.O. (Adjt., 63rd' (6th Lond.) Bde., R.F.A.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>9042</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -857,7 +924,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Elliott</Key>
-      <Text>. Ca.pt..W. E. L., M.D. (is retired, having attained, the age limit, and retains rank of Capt.)</Text>
+      <Title>Ca.</Title>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>7673</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -5,7 +5,9 @@
       <Key>Wood</Key>
       <Title>Lt.</Title>
       <Forenames>B.</Forenames>
-      <Text>&gt;0-, M.C. . (resigns commn.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>262</PageNumber>
     </MainItem>
     <SubItem>
@@ -20,7 +22,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>T.</Forenames>
-      <Text>, M.C. (reL temp, rank of Capt., Tank Corps Equipt. Bge.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>144</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -118,7 +122,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Woodford</Key>
-      <Text>. Gent. Cadet E. C. J. (2nd Lt.)</Text>
+      <Title>Gent. Cadet</Title>
+      <Forenames>E. C. J.</Forenames>
+      <Text>(2nd Lt.)</Text>
       <PageNumber>764</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -136,7 +142,9 @@
       <Key>Woodhead</Key>
       <Title>temp. 2nd Lt.</Title>
       <Forenames>F. W.</Forenames>
-      <Text>, M.M. (temp. Lt.)</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>345</PageNumber>
     </MainItem>
     <SubItem>
@@ -148,7 +156,9 @@
     <MainItem>
       <Key>Woodhouse</Key>
       <Forenames>David Edward Man-</Forenames>
-      <Text>tell, M.C. (Lt., Cameronians, Infy., late temp. Lt., Serv. ___ Bn., W. Kent R.), Sub. Not</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1523</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -168,7 +178,10 @@
       <Key>Wooding</Key>
       <Title>temp. Lt.</Title>
       <Forenames>P. H.</Forenames>
-      <Text>, M.C., D.C.M. (rel. commn. on completion of service and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>1525</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -229,7 +242,10 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>H.</Forenames>
-      <Text>, M.C., M.M. (rel. commn. on completion of service and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>1345</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -267,7 +283,9 @@
       <Key>Woodsford</Key>
       <Title>temp. Lt.</Title>
       <Forenames>E. F.</Forenames>
-      <Text>, M.C. (rel. commn. on completion of service and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>927</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -318,14 +336,18 @@
       <Key>Woodyear</Key>
       <Title>temp. Lt.</Title>
       <Forenames>R. P.</Forenames>
-      <Text>, M.C. (rel. commn. oh completion of service and retains rank of Lt.)'</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2394</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Woodyer</Key>
-      <Text>Capt. C. de W., M.C. (retires receiving a gratuity)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2534</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -425,7 +447,9 @@
       <Key>Woollcombe</Key>
       <Title>Capt.</Title>
       <Forenames>M. L.</Forenames>
-      <Text>, O.B.E. (retires receiving a gratuity)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>1257</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -445,7 +469,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>Cecil John</Forenames>
-      <Text>, M.C. (trd. to N. Stafford R., Infy., from 6th Bn., T.F.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>847</PageNumber>
     </MainItem>
     <SubItem>
@@ -467,7 +493,9 @@
       <Key>Woolrych</Key>
       <Title>temp. Capt.</Title>
       <Forenames>S. H. C</Forenames>
-      <Text>, O.B.E. (rel. cpmmn. on completion of service and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>1779</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -494,7 +522,9 @@
       <Key>Wootton</Key>
       <Title>temp. Lt.</Title>
       <Forenames>S.</Forenames>
-      <Text>, M.C. (rel.' commn. on completion of service, and. retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1532</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -534,7 +564,9 @@
       <Key>Worgan</Key>
       <Title>Bt. Lt.-Col.</Title>
       <Forenames>R. B.</Forenames>
-      <Text>, D.S.O. (temp. Brig.-Gen. whilst Brig. Comdr. in India)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>680</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -697,14 +729,17 @@
       <Key>Wortham</Key>
       <Title>Maj. and Bt. Lt.-Col.</Title>
       <Forenames>H. C. W. H.</Forenames>
-      <Text>, C.M.G., D.S.O. (Lt.-Col.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>2076</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Wor</Key>
-      <Text>.thington, Lt. G. F. P., M.O. (rel. temp, rank of Capt. on ceasing to be empld. with a Serv. Bn., Green Howards)</Text>
+      <Text>thington, Lt. G. F. P., M.O. (rel. temp, rank of Capt. on ceasing to be empld. with a Serv. Bn., Green Howards)</Text>
       <PageNumber>851</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -771,7 +806,9 @@
       <Key>Wray</Key>
       <Title>Lt.</Title>
       <Forenames>Edward Millard Grubb</Forenames>
-      <Text>, D. S.O. (trd. to Middx. R., Infy., from 4th Essex R., T.F.)</Text>
+      <Text>
+        <Honour>D. S.O.</Honour>
+      </Text>
       <PageNumber>934</PageNumber>
     </MainItem>
     <SubItem>

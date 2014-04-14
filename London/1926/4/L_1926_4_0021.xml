@@ -28,7 +28,9 @@
     <MainItem>
       <Key>Dlauson</Key>
       <Forenames>Albert Charles</Forenames>
-      <Text>, C.B.E., K.C., Justice of His Majesty's High Court</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>6611</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -56,7 +58,9 @@
     <MainItem>
       <Key>Clive</Key>
       <Forenames>Robert Henry</Forenames>
-      <Text>, C.M.G., H.M. Envoy Extraordinary and Minister Plenipotentiary, to His Imperial Majesty the Shah of Persia</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>7999</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -65,7 +69,9 @@
       <Key>Coates</Key>
       <Title>Rt. Hon.</Title>
       <Forenames>Joseph Gordon</Forenames>
-      <Text>, M.C., Member of Privy Council</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7115</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -73,7 +79,9 @@
     <MainItem>
       <Key>Cobham</Key>
       <Forenames>Alan John</Forenames>
-      <Text>, A.F.C., Knight Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>6434</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -99,7 +107,9 @@
       <Key>DAbernon</Key>
       <Title>The Rt. Hon.</Title>
       <Forenames>Edgar</Forenames>
-      <Text>, Viscount, G.C.M.G., Knight Grand Cross of the Order of the Bath</Text>
+      <Text>
+        <Honour>G.C.M.G.</Honour>
+      </Text>
       <PageNumber>6685</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -115,8 +125,21 @@
     <MainItem>
       <Key>De</Key>
       <Forenames>Freitas</Forenames>
-      <Text>, Anthony, O.B.E., Chief Justice of British Guiana</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>8340</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Lisle</Key>
+      <Forenames>Lee</Forenames>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.V.O.</Honour>
+      </Text>
+      <PageNumber>6543</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -181,9 +204,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Granville</Key>
-      <Title>The Rt. Hon.</Title>
-      <Forenames>The</Forenames>
-      <Text>Earl, G.C.V.O., K.C.M.G., H.M. Envoy Extraordinary and Minister Plenipotentiary to Her Majesty the Queen of the Netherlands</Text>
+      <Title>The Rt. Hon. The Earl</Title>
+      <Text>
+        <Honour>G.C.V.O.</Honour>
+        <Honour>K.C.M.G.</Honour>
+      </Text>
       <PageNumber>8268</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -200,7 +225,10 @@
     <MainItem>
       <Key>Gurney</Key>
       <Forenames>Hugh</Forenames>
-      <Text>, C.M.G., M.V.O., H.M. ConsulGeneral at Tangier</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>7999</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -256,7 +284,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Howard</Key>
-      <Text>Bury. Lieut. Col. Charles Kenneth, D.S.O., Member of Parliament for the County of Essex (Chelmsford Division)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7902</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -273,7 +303,10 @@
       <Key>Hunkin</Key>
       <Title>Rev.</Title>
       <Forenames>Joseph Welling-</Forenames>
-      <Text>ton, O.B.E., M.C., M.A., Chaplain to His Majesty</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7043</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -349,7 +382,11 @@
     <MainItem>
       <Key>Lampson</Key>
       <Forenames>Miles Wedderburn</Forenames>
-      <Text>, C.B., C.M.G., M.V.O., Envoy Extraordinary and Minister Plenipotentiary to the Chinese Republic</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>7475</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -388,7 +425,11 @@
       <Key>Lindsav</Key>
       <Title>The Rt. Hon. Sir</Title>
       <Forenames>Ronald Charles</Forenames>
-      <Text>, G.C.M.G., C.B., C.V.O., Ambassador Extraordinary and Plenipotentiary to the German Reich</Text>
+      <Text>
+        <Honour>G.C.M.G.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>C.V.O.</Honour>
+      </Text>
       <PageNumber>7475</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -404,7 +445,9 @@
     <MainItem>
       <Key>Mackereth</Key>
       <Forenames>Gilbert</Forenames>
-      <Text>, M.C., H.M. Vice-Consul at Fez</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7676</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -421,7 +464,9 @@
       <Key>Macrea</Key>
       <Title>Major</Title>
       <Forenames>Colin William</Forenames>
-      <Text>, C.B.E., Ensign of H.M. Body Guard of the Yeomen of the Guard</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>7577</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -454,7 +499,9 @@
     <MainItem>
       <Key>Mason</Key>
       <Forenames>David</Forenames>
-      <Text>, O.B.E., Lieutenant of the County of Glasgow</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>7325</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -520,14 +567,18 @@
     <MainItem>
       <Key>Norman</Key>
       <Forenames>Herman Cameron</Forenames>
-      <Text>, C.B., C.S.I., C.B.E., Member of the Royal Commission on Local Government</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>6819</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Reilly, William Edmund, Envoy Extraordinary and Minister Plenipotentiary to the United States of Venezuela</Text>
+      <Key>O'Reilly</Key>
+      <Forenames>William Edmund</Forenames>
+      <Text>, Envoy Extraordinary and Minister Plenipotentiary to the United States of Venezuela</Text>
       <PageNumber>7475</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -544,7 +595,9 @@
     <MainItem>
       <Key>Palmer</Key>
       <Forenames>Clarence Edward Stanhope</Forenames>
-      <Text>, D.S.C., H.M. Consul at Bengasi</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>7676</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -569,7 +622,9 @@
       <Key>Pryke</Key>
       <Title>Sir</Title>
       <Forenames>William Robert</Forenames>
-      <Text>, Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>7253</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -612,7 +667,9 @@
     <MainItem>
       <Key>Ruggles-Brise</Key>
       <Forenames>Harold Ralph</Forenames>
-      <Text>, M.C., Unofficial Member of the Legislative Council of the Tanganyika Territory</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7578</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -621,7 +678,9 @@
       <Key>Russell</Key>
       <Title>Hon.</Title>
       <Forenames>Victor Alexander Frederick Villiers</Forenames>
-      <Text>, O.B.E., Recorder of the Borough of Bedford</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>6543</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -89,7 +89,9 @@
     <MainItem>
       <Key>Darvall</Key>
       <Forenames>Flying Offr</Forenames>
-      <Text>. Lawrence, M.C. (granted permanent cornmn.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1297</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -115,10 +117,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Denty</Key>
-      <Title>Lt.</Title>
-      <Forenames>George Arthur</Forenames>
-      <Text>(rel. temp commn. on ceasing to be empld. and retains rank)</Text>
+      <Key>de Crespigny</Key>
+      <Forenames>Hugh Vivian Champion</Forenames>
+      <Text>, see Champion de Crespigny, Hugh Vivian, de Lacroix, Flying Offr. Aleth Thomas Septimus Leguen, see Leguen de Lacroix, Flying Offr. Aleth Thomas Septimus. Denty, Lt. George Arthur (rel. temp commn. on ceasing to be empld. and retains rank)</Text>
       <PageNumber>2139</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -257,7 +258,9 @@
     <MainItem>
       <Key>Fisher</Key>
       <Forenames>William Edward</Forenames>
-      <Text>, M.C. (granted short service commn. for Accountant duties as . Flying Offr. on prob.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2330</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -284,7 +287,10 @@
       <Key>Fletcher</Key>
       <Title>Fit. Lt.</Title>
       <Forenames>Albert William</Forenames>
-      <Text>D.F.C., A.F.C. (granted permanent commn.)</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>1297</PageNumber>
     </MainItem>
     <SubItem>
@@ -297,7 +303,9 @@
       <Key>Fortescae</Key>
       <Title>Lt. (actg. Capt.)</Title>
       <Forenames>Albert Edward Muspratt</Forenames>
-      <Text>, M.B.E. (rel. temp. comm. and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>1954</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -456,7 +464,9 @@
       <Key>Groom</Key>
       <Title>Fit. Lt.</Title>
       <Forenames>Arthur Cecil Hay-</Forenames>
-      <Text>wood, D.F.C. (rel short service conimn. on acc. of ill health contracted on active service and permitted to retain rank of Capt.)</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>2517</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -464,15 +474,18 @@
     <MainItem>
       <Key>Grooves</Key>
       <Forenames>Group</Forenames>
-      <Text>Capt. Percy Robert Clifford, C.B., C.M.G. (placed on retd. list and granted lion, rank of Brig. Gen.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>1415</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Haig</Key>
-      <Forenames>Rollo Amyatt</Forenames>
-      <Text>de Haga (corr. of name)... ...:'</Text>
+      <Forenames>Rollo Amyatt de Haga</Forenames>
+      <Text>(corr. of name)... ...:'</Text>
       <PageNumber>2241</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -480,7 +493,11 @@
     <MainItem>
       <Key>Halahan</Key>
       <Forenames>Air Commodore</Forenames>
-      <Text>. Frederick Crosby, C.M.G., D.S.O., M.V.O. (Director of Aeronautical Inspection, Air Ministry)'</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>1202</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -14,7 +14,9 @@
       <Key>Byron</Key>
       <Title>Lt.-Col. (ret., T.A.) (Hon. Capt. in Army)</Title>
       <Forenames>W.</Forenames>
-      <Text>, T.D. (Col., ret.)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>911</PageNumber>
     </MainItem>
     <SubItem>
@@ -49,7 +51,9 @@
       <Key>Cairns</Key>
       <Title>Capt. (prov.)</Title>
       <Forenames>T. E.</Forenames>
-      <Text>, M.C. (confd.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1232</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -66,16 +70,22 @@
     <MainItem>
       <Key>Calvert</Key>
       <Forenames>Lt</Forenames>
-      <Text>,-CQl, J., C.B.E., M.D. (is retired, having attained age limit, and retains rank of Lt.Col.)</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>306</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Cambridge</Key>
-      <Title>Hon. Col. (Lt.-Col., ret. pay) (Personal A.D.C. to the King)</Title>
-      <Forenames>The</Forenames>
-      <Text>Marquis of, G. C.B., G.C.V.O., C.M.G. (resigns appt. of Hon. Col., 8th Bh., Lond. R., and retains rank of Hon. Col., with permission to wear prescribed</Text>
+      <Title>Hon. Col. (Lt.-Col., ret. pay) (Personal A.D.C. to the King) The Marquis</Title>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>G.C.V.O.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>2168</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -95,7 +105,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>C. W.</Forenames>
-      <Text>, M.C. (Adjt., 94th (Dorset and Som. Yeo.) Bde. (A.T.), (R.F.A.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2319</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -128,7 +140,9 @@
       <Key>Cane</Key>
       <Title>Capt.</Title>
       <Forenames>L. B.</Forenames>
-      <Text>, M.B., T.D. (announcement in Gaz. 15th Dec., 1922, cancelled)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>1074</PageNumber>
     </MainItem>
     <SubItem>
@@ -148,8 +162,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cardigan</Key>
-      <Forenames>The</Forenames>
-      <Text>Earl of (2nd) Lt., R, Wilts Yeo., late Cadet, Eton Coll. Cont., Jun. Div., O.T.C.)</Text>
+      <Title>The Earl</Title>
+      <Text>of (2nd) Lt., R, Wilts Yeo., late Cadet, Eton Coll. Cont., Jun. Div., O.T.C.)</Text>
       <PageNumber>1155</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -158,7 +172,9 @@
       <Key>Carfrae</Key>
       <Title>Maj.</Title>
       <Forenames>C. T.</Forenames>
-      <Text>, M.C. (vacates appt. of Adjt., 53rd (Bolton) Bde., R.F.A!)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>224</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -176,7 +192,9 @@
       <Key>Carling</Key>
       <Title>Capt.</Title>
       <Forenames>E. R.</Forenames>
-      <Text>, M.B., F.R.C.S. (is retired, having attained age limit and granted) rank of Maj.)</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>457</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -185,14 +203,18 @@
       <Key>
         <KeyDitto />
       </Key>
-      <Text>F.R.C.S. (is retired, having attained age limit and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>2169</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Carter</Key>
-      <Text>.Capt. F. B., M.D, F.R.C.S. (is retired, having attained age limit and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>1074</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -220,7 +242,9 @@
       <Key>Cash</Key>
       <Title>Capt. (Bt, Maj.)</Title>
       <Forenames>J. N.</Forenames>
-      <Text>, M.C. (Adjt., 43rd (Wessex) Div. Engrs.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1073</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -247,7 +271,10 @@
       <Key>Cathcart</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>C. W.</Forenames>
-      <Text>, C.B.E., M.B., F.R.C.S. (is retired, having attained age limit, and retains rank of Lt.-Col.) -</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>2169</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -265,7 +292,9 @@
       <Key>Cavanagh</Key>
       <Title>Capt. (Bt. Maj.)</Title>
       <Forenames>T. F.</Forenames>
-      <Text>, M.C. (Adjt., 107th (S. Notts. H. Yeo.) Bde (A.T.), R.F.A.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>998</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -292,7 +321,9 @@
       <Key>Chamberlain</Key>
       <Title>Capt. (T.A. Res.)</Title>
       <Forenames>W. B.</Forenames>
-      <Text>, M.C. (Capt., T.A. Res., Gen. List, Yeo.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1914</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -300,7 +331,9 @@
     <MainItem>
       <Key>Chaudos-Pole-</Key>
       <Forenames>Gell</Forenames>
-      <Text>, Hon. Brig.Gen. (Col., Res. of Off.) (Hon. Col., T.A.) (Lt.-Col.. ret., T.F.) H. A., C.B.E. (rel. appt. of Hon. Col., 4th (N. Midi) Bd©., R.F.A., and retains rank, with -permission to wear pre scribed uniform)</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>2310</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -321,7 +354,9 @@
       </Key>
       <Title>Capt. and Adit.</Title>
       <Forenames>S. W.</Forenames>
-      <Text>. M.C. (trd. to 56th (lst Lond.) Div. Engrs., from lst Batt. (lst Lond.) Div. Engrs., retaining present rank of C-apt. and precedence in T.A.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>612</PageNumber>
     </MainItem>
     <SubItem>
@@ -345,7 +380,9 @@
       <Key>Charmle</Key>
       <Title>Maj.</Title>
       <Forenames>F. J.</Forenames>
-      <Text>,D.S.O. (Maj.. T.A. Res., Regtl. List, 54th (W. Rid. and .Staff.) Med. Bde., Arty., from Active List)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>2240</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -363,7 +400,9 @@
       <Key>Charter</Key>
       <Title>Capt.</Title>
       <Forenames>H. R.</Forenames>
-      <Text>, M.C. (Capt., Gen. List, for service with Cheltenham Coll. Cont., Jun. Div., O.T.C., late R.E,)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>225</PageNumber>
     </MainItem>
     <SubItem>
@@ -375,7 +414,10 @@
     <MainItem>
       <Key>Charteris</Key>
       <Title>Hon. Chapln.</Title>
-      <Text>to the Forces. 2nd CI., the Rev. W. C, O.B.E., M.C. (Chapln., 2nd CI., T.A. Res., R.A. Chaplns' Dept.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>999</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -388,7 +430,10 @@
       <PageNumber>532</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Capt. (Bt. Maj.) J. F., D.S.O. (Adjt., 7th Bn., Northd Fus.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>223</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -405,52 +450,7 @@
       <PageNumber>456</PageNumber>
     </SubItem>
   </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <PageNumber>___ ___ ___ ___ ___ ___ ___ ___ ___</PageNumber>
-        <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
-      </Key>
-      <Forenames>Cherry-Downes</Forenames>
-      <Text>, 2nd Lt. H. A. D. (Lt.)</Text>
-      <PageNumber>611</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Chester-Master</Key>
-      <Title>Capt.</Title>
-      <Forenames>E.</Forenames>
-      <Text>(Adjt., 4th Bn., Lond. R.)</Text>
-      <PageNumber>2240</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Chichester</Key>
-      <Title>Lt.-Col.</Title>
-      <Forenames>W. R.</Forenames>
-      <Text>, O.B.E. (is retired, on completion of tenure of command, 8th Bn., Wore. R., and retains rank of Lt.-Col., with permission to wear prescribed uniform)</Text>
-      <PageNumber>911</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Chiene</Key>
-      <Title>Capt.</Title>
-      <Forenames>G. L.</Forenames>
-      <Text>, M.B., F.R.C.S. (is retired, having attained age limit and retains rank of Capt.)</Text>
-      <PageNumber>2169</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Child</Key>
-      <Forenames>Arthur Dimsdale Hodd</Forenames>
-      <Text>! (2nd Lt., 53rd (Lond.) AntiAircraft Bde., R.G.A., late Cadet Cpl., Whitgift Grammar Soh. Cont., Jun. Div., O.T.C.)</Text>
-      <PageNumber>2075</PageNumber>
-    </MainItem>
-  </ItemGroup>
+  <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
   <ItemGroup>
     <MainItem>
       <Key>
@@ -458,156 +458,27 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>S.</Forenames>
-      <Text>, M.B. (ia retired, having attained age limit, and retains rank of Capt.)</Text>
-      <PageNumber>2169</PageNumber>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
+      <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Christie</Key>
-      <Title>Capt.</Title>
-      <Forenames>R. A. B.</Forenames>
-      <Text>(Capt., T.A. Res., Regtl. List, N. Som. Yeo., from Active List)</Text>
-      <PageNumber>1995</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Christopherson</Key>
-      <Title>2nd Lt.</Title>
-      <Forenames>I.</Forenames>
-      <Text>.(2nd Lt., Gen. List, for service with Sedbergh Sch. Cont., Jun. Div., O.T.C., late R.G.A.)</Text>
-      <PageNumber>098</PageNumber>
-    </MainItem>
-    <SubItem>
-      <Text>Date of precedence</Text>
-      <PageNumber>998</PageNumber>
-    </SubItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Churchill</Key>
-      <Title>Maj.</Title>
-      <Forenames>E. F.</Forenames>
-      <Text>, M.C. (trd. to 48th (S. Mid.) Div. Engrs., from lst Batt., S. Mid. Div. ^ Engrs., retaining present rank of Maj. and precedence in T.A, , „</Text>
-      <PageNumber>611</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Churchouse</Key>
-      <Title>Capt. (late R.A.M.C., T.F.) Wm. King</Title>
-      <Text>, M.C. (Capt., R.A.M.C., Gen. List)</Text>
-      <PageNumber>1412</PageNumber>
-    </MainItem>
-    <SubItem>
-      <Text>Date of precedence</Text>
-      <PageNumber>1412</PageNumber>
-    </SubItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Clark</Key>
-      <Title>Lt.</Title>
-      <Forenames>George</Forenames>
-      <Text>(2nd Lt., 51st (Highl.) Div. Sigs., late Royal Scots, and rel. rank of Lt.)</Text>
-      <PageNumber>2240</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___ ___</KeyDitto>
-      </Key>
-      <Title>Capt.</Title>
-      <Forenames>J.</Forenames>
-      <Text>, M.D. (rel. commn. and retains rank of Capt.)</Text>
-      <PageNumber>1233</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Title>Maj.</Title>
-      <Forenames>T.</Forenames>
-      <Text>(trd. to T.A. Res., Regtl. List, 7/9th Bn., R. Scots, from 7th Bn., retaining rank of Maj. and precedence)</Text>
-      <PageNumber>613</PageNumber>
-    </MainItem>
-    <SubItem>
-      <Text>Maj., T.A. Res., Gen. List, Infy., from Regtl. List, 7th Bn., R. Scots, and retains rank of Maj. and precedence (Sub. Not.)</Text>
-      <PageNumber>1233</PageNumber>
-    </SubItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Clarke</Key>
-      <Title>Lt.</Title>
-      <Forenames>E. A.</Forenames>
-      <Text>(Lt., T.A. Res., Regtl. List, 7th Bn., Lond. R., from Active List)</Text>
-      <PageNumber>810</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___</KeyDitto>
-      </Key>
-      <Title>Capt.</Title>
-      <Forenames>F. C</Forenames>
-      <Text>, A.M.I.E.E. (Capt., 17th A.A.C. of R.E., from Lond. Elec. Engrs.)</Text>
-      <PageNumber>65</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Title>Capt.</Title>
-      <Forenames>H. F.</Forenames>
-      <Text>, M.C. (Maj., 3rd Bn., Lond. R., from T.A. Res.)</Text>
-      <PageNumber>1074</PageNumber>
-    </MainItem>
-    <KeyDitto>___ ___</KeyDitto>
-    <SubItem>
-      <Text>Lt.-Col., T.A. Res., Gen. List. R.A.S.C., from 52nd Lowland Divl. Train)</Text>
-      <PageNumber>457</PageNumber>
-    </SubItem>
-  </ItemGroup>
+  <KeyDitto>___ ___ ___ ___</KeyDitto>
+  <KeyDitto>___ ___</KeyDitto>
+  <KeyDitto>___ ___ ___</KeyDitto>
+  <KeyDitto>___ ___</KeyDitto>
+  <KeyDitto>___ ___</KeyDitto>
   <ItemGroup>
     <MainItem>
       <Key>Clarkson</Key>
       <Title>Lt.</Title>
       <Forenames>H.</Forenames>
-      <Text>(trd. to T.A. Res., Regtl. List, 7th Bn., Lond. R., from 8th Bn., retaining rank of Lt. and precedence)</Text>
-      <PageNumber>614</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Clay</Key>
-      <Title>Lt.</Title>
-      <Forenames>G. P.</Forenames>
-      <Text>(deprived of rank of Lt. which he was permitted to retain on relinquishing commn., having been convicted by the Civil Power)</Text>
-      <PageNumber>1306</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Clayton</Key>
-      <Title>Lt.-Col.</Title>
-      <Forenames>W. K.</Forenames>
-      <Text>, C.M.G., T.D. (is retired, having attained age limit, and retains rank of Lt.-Col., with permission to wear prescribed uniform)</Text>
-      <PageNumber>2169</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Cleaver</Key>
-      <Text>. Ronald Digbv Melvill (2nd Lt., 5th Bn., R. Sussex R.)</Text>
-      <PageNumber>222</PageNumber>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
+      <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
 </Index>

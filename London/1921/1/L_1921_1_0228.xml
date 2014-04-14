@@ -27,7 +27,9 @@
       <Key>Norman</Key>
       <Title>Lt.</Title>
       <Forenames>C. R.</Forenames>
-      <Text>, M.C. (Maj.,</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>22</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -38,7 +40,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>F. M.</Forenames>
-      <Text>, T.D. (resigns commn. and retains rank of Capt., with permission to wear prescribed uniform)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>1977</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -73,14 +77,14 @@
   <ItemGroup>
     <MainItem>
       <Key>JSorth</Key>
-      <Text>.ott, Capt. R. J. (trd. to T.F.R., Infy., from Kent Cyclist Bn.) '</Text>
+      <Text>ott, Capt. R. J. (trd. to T.F.R., Infy., from Kent Cyclist Bn.) '</Text>
       <PageNumber>2376</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Nortf</Key>
-      <Text>.cy, Lt. W. E. (resigns I c mmu. and granted rank of ^Pt.)</Text>
+      <Text>cy, Lt. W. E. (resigns I c mmu. and granted rank of ^Pt.)</Text>
       <PageNumber>1774</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -105,7 +109,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Nutt</Key>
-      <Text>. Lt. L. W. (resigns coramn. i::d retains rank of Lt.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>L. W.</Forenames>
+      <Text>(resigns coramn. i::d retains rank of Lt.)</Text>
       <PageNumber>2376</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -141,7 +147,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Oakt-ltv</Key>
-      <Text>. Lt. J. E. E., M.C. (resigns commn. and granted rank ui Capt.), Sub. Nut</Text>
+      <Title>Lt.</Title>
+      <Forenames>J. E. E.</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>922</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -163,8 +173,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Briw., Capt. R. F. C. (Lt.-Col., T.F.K., Infy.)</Text>
+      <Key>O'Briw</Key>
+      <Text>, Capt. R. F. C. (Lt.-Col., T.F.K., Infy.)</Text>
       <PageNumber>2376</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -178,7 +188,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Udell</Key>
-      <Text>. Lt. E. S., M.B.E. (Maj., T.F.R., Infy.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>E. S.</Forenames>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>2182</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -193,15 +207,19 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Karrell, Lt. A. J. J. (resigns cemmn. and retains rank of Lt.)</Text>
+      <Key>O'Karrell</Key>
+      <Title>Lt.</Title>
+      <Forenames>A. J. J.</Forenames>
+      <Text>(resigns cemmn. and retains rank of Lt.)</Text>
       <PageNumber>21</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Ufrilei</Key>
-      <Text>. Lt. H. C. (resigns commn. a;.d retains rank of Lt.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>H. C.</Forenames>
+      <Text>(resigns commn. a;.d retains rank of Lt.)</Text>
       <PageNumber>274</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -222,7 +240,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Ogilvy</Key>
-      <Text>. Lt. N. J. (resigns commn. ai.d retains rank of Lt.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>N. J.</Forenames>
+      <Text>(resigns commn. ai.d retains rank of Lt.)</Text>
       <PageNumber>136</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -239,8 +259,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Gradv, Lt. J. F. (Capt.)</Text>
+      <Key>O'Gradv</Key>
+      <Title>Lt.</Title>
+      <Forenames>J. F.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>2385</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -255,8 +277,12 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hea, Lt. James Joseph (Lt.-Col., 8th Bn., the King's R., late Res. R., 2nd L.G.)</Text>
+      <Key>O'Hea</Key>
+      <Title>Lt.</Title>
+      <Forenames>James Joseph</Forenames>
+      <Text>
+        <Honour>L.G.</Honour>
+      </Text>
       <PageNumber>2375</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -274,14 +300,18 @@
       <Key>Oktxivfr</Key>
       <Title>Capt.</Title>
       <Forenames>H. E.</Forenames>
-      <Text>, M.V.O. (resigns commn. and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>684</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Kill, Lt. E. G. T. (trd. to T.F.R., Infy., from 17th Bn., London K )</Text>
+      <Key>O'Kill</Key>
+      <Title>Lt.</Title>
+      <Forenames>E. G. T.</Forenames>
+      <Text>(trd. to T.F.R., Infy., from 17th Bn., London K )</Text>
       <PageNumber>767</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -290,7 +320,9 @@
       <Key>Olden</Key>
       <Title>Qrmr. and Capt.</Title>
       <Forenames>G. W.</Forenames>
-      <Text>, U.B.K, M.C. (resigns commu. and granted rank of Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1546</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -305,7 +337,7 @@
       <PageNumber>452</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Resigns commn. and retains rank of Lt.</Text>
+      <Text>Resigns commn. and retains rank of Lt</Text>
       <PageNumber>452</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -378,8 +410,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Meara, Lt. L. E. (resigns commn. and retains rank of Lt.)</Text>
+      <Key>O'Meara</Key>
+      <Title>Lt.</Title>
+      <Forenames>L. E.</Forenames>
+      <Text>(resigns commn. and retains rank of Lt.)</Text>
       <PageNumber>1766</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -388,7 +422,9 @@
       <Key>Orchard</Key>
       <Title>Lt.</Title>
       <Forenames>M. F.</Forenames>
-      <Text>(trd. to T.F.R., Iniy., from 6th Bn., Devonshire R. and M.G.C.)</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>453</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -403,8 +439,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Reilly, Lt. J. (resigns commn. and retains rank of Lt.)</Text>
+      <Key>O'Reilly</Key>
+      <Title>Lt.</Title>
+      <Forenames>J.</Forenames>
+      <Text>(resigns commn. and retains rank of Lt.)</Text>
       <PageNumber>20</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -524,7 +562,9 @@
       <Key>Ostle</Key>
       <Title>Capt.</Title>
       <Forenames>H. K. E.</Forenames>
-      <Text>, M.C., T.D (Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2540</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -599,7 +639,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>C. H. M.</Forenames>
-      <Text>, M.C. (date of precedence)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1529</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -647,7 +689,11 @@
       <Key>Oxley</Key>
       <Title>Capt.</Title>
       <Forenames>D. G. Rice</Forenames>
-      <Text>, M.C., M.B. (see Rice-Oxley, Capt. D. G., M.C., M.B.) Ozanne, Capt. Hueh ffolliott, M.C. (trad, to Unattd. List., for service with Edinburgh Academv Contingent, Jnr. Div., O.T.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>843</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -665,7 +711,9 @@
       <Key>Pacy</Key>
       <Title>Lt.</Title>
       <Forenames>J. G. R.</Forenames>
-      <Text>, M.C. (trd. to 7th Bn., Durh. L.I., late 3rd Bn.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>938</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -687,7 +735,9 @@
       <Key>Padmore</Key>
       <Title>Capt.</Title>
       <Forenames>J. L.</Forenames>
-      <Text>, M.C. (trd. to T.F.R., Infy., from 6th Bn., Warwick R.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>932</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -749,7 +799,9 @@
       <Key>Paget</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>P.</Forenames>
-      <Text>, T.D. (Dep. Asst. Dir. of Med. Servs., 42nd (E. Lanes Divn.) with pay and allces. of a Maj.)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>757</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -758,7 +810,9 @@
       <Key>Paget-Tomlinson</Key>
       <Title>Maj.</Title>
       <Forenames>W.</Forenames>
-      <Text>, D.S.O. (Lt.-Col., 55th (Wessex) Bde., R.F.A.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>683</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -785,7 +839,9 @@
       <Key>Palethorpe</Key>
       <Title>Lt.</Title>
       <Forenames>G. W.</Forenames>
-      <Text>, M.C., A.M.I.C.E. (resigns commn. and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1451</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -805,7 +861,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>E. C</Forenames>
-      <Text>, M.C. (resigns commn. and granted rank of Maj.), Sub. Not</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>137</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -891,7 +949,9 @@
       <Key>Pape</Key>
       <Title>Capt.</Title>
       <Forenames>H. R.</Forenames>
-      <Text>, M.C. (resigns commn. and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>152</PageNumber>
     </MainItem>
   </ItemGroup>

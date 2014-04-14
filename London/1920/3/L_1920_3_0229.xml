@@ -28,7 +28,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kei</Key>
-      <Text>.iar, Capt. A. B. (trd. to T.F.R. Inf.) .'</Text>
+      <Text>iar, Capt. A. B. (trd. to T.F.R. Inf.) .'</Text>
       <PageNumber>8944</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -131,7 +131,9 @@
       <Key>Kenderdine</Key>
       <Title>Capt.</Title>
       <Forenames>W. H.</Forenames>
-      <Text>, T.D. (resigns oommn. and retains rank .of Capt., with permission to</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>7949</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -149,7 +151,9 @@
       <Key>Kennedy</Key>
       <Title>Maj.</Title>
       <Forenames>C. C</Forenames>
-      <Text>,. M., M.C., T.iD. (date of precedence as</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8844</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -272,7 +276,9 @@
     <MainItem>
       <Key>Kermack</Key>
       <Forenames>Cap</Forenames>
-      <Text>*. W. R., M.C. (Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9130</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -329,7 +335,9 @@
     <MainItem>
       <Key>Kershaw</Key>
       <Forenames>Cap</Forenames>
-      <Text>*. G. G., M.C. (resigns oommn. and retains rank of Capt.) '</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8442</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -340,7 +348,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>G. V.</Forenames>
-      <Text>, M.C. (resigns comnin. and retains rank of Cant.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9502</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -349,7 +359,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>1 (Lit. J. L., M.C. (resigns commn. and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9130</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -420,7 +432,10 @@
     <MainItem>
       <Key>Kidd</Key>
       <Forenames>Ltl-Ooil</Forenames>
-      <Text>. A. E. O.B.E., M.B., T.D. (to comd. let Scottish Casualty Clearing Station, from 3rd Highland Field Amlb.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>9616</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -447,7 +462,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kdlner</Key>
-      <Text>. Capt: C. G. C. (Maj., T.F.R</Text>
+      <Forenames>Capt</Forenames>
+      <Text>: C. G. C. (Maj., T.F.R</Text>
       <PageNumber>7942</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -466,7 +482,9 @@
     <MainItem>
       <Key>Kimiber</Key>
       <Title>Ca.</Title>
-      <Text>pt. C. F., M.C. (trd. to 8th Bn.. Wore. R.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7324</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -518,7 +536,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>O. A.</Forenames>
-      <Text>, M.C. (resigns oommn., and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8373</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -540,7 +560,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>H. J.</Forenames>
-      <Text>, M.C. (Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9131</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -573,7 +595,10 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>M. H.</Forenames>
-      <Text>. D.S.O., M.C. (Maj.. T.F.R,. Inf.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8853</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -674,7 +699,9 @@
       <Key>Kinsey</Key>
       <Title>Lt.</Title>
       <Forenames>W. V.</Forenames>
-      <Text>(restd. to estabt. on ceasing to be empld. with M.G.C.)</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>8684</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -694,7 +721,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>H. G. R.</Forenames>
-      <Text>, M.C. (restd. to estabt. on ceasing to be empld. with Tank Corps)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7439</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -773,7 +802,9 @@
       <Key>Kirkwood</Key>
       <Title>Lt.</Title>
       <Forenames>H. T.</Forenames>
-      <Text>(restd. to estabt-. on ceasing to be empld. with M.G.C.)</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>8684</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -782,7 +813,9 @@
       <Key>Kirsop</Key>
       <Title>Capt.</Title>
       <Forenames>P. A.</Forenames>
-      <Text>, M.C. (Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8047</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -816,7 +849,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Kitson</Key>
-      <Text>. Lt.-Col. H, L, T.D. (trd. to T.F.R., Infy., from 4th Bn.,</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>H</Forenames>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>9503</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -850,7 +887,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>E.</Forenames>
-      <Text>, O.B.E., M.B. (Maj.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>9616</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -870,7 +909,10 @@
       <Key>Knights</Key>
       <Title>Lt.</Title>
       <Forenames>A. E.</Forenames>
-      <Text>, M.C., M.M. (trd. from 3rd to 4th Bn., Nor-</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>7549</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -908,7 +950,9 @@
       <Key>Kydd</Key>
       <Title>Capt.</Title>
       <Forenames>D. G.</Forenames>
-      <Text>, M.C. (restd. to estabt. on ceasing to be empld</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7570</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -917,7 +961,9 @@
       <Key>Kynaston</Key>
       <Title>Maj.</Title>
       <Forenames>W. R. O.</Forenames>
-      <Text>, T.D. (trd. , from Shrops. Yeo. to T.F.R.)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>8549</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -926,11 +972,15 @@
       <Key>Lacey</Key>
       <Title>Capt.</Title>
       <Forenames>F. H.</Forenames>
-      <Text>(trd. from R.A.M.C., T.F., to East Lanes. Divnl. Train, R.A.S.C., T.F.L</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8143</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Trd. to East Lanes. Divnl. Train, from R.A.M.C., T.F.), Sub Not</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9433</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -986,7 +1036,9 @@
       <Key>Lamb</Key>
       <Title>Maj.</Title>
       <Forenames>B.</Forenames>
-      <Text>, T.D. (trd. from Wiltshire Yeo. to T.F.R.)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>8564</PageNumber>
     </MainItem>
   </ItemGroup>

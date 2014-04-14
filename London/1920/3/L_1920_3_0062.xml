@@ -5,7 +5,9 @@
       <Key>Agar-Robartes</Key>
       <Title>Lt. the Hon.</Title>
       <Forenames>A. G.</Forenames>
-      <Text>, M.C. (rel. commn. and granted rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7828</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -41,11 +43,13 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Title>temp. 2nd Lt.</Title>
-      <Text>. (Lt., K.O.M. R.M.) L. (temp. Lt.)</Text>
+      <Text>
+        <Honour>O.M.</Honour>
+      </Text>
       <PageNumber>7554</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Rel. commn. on completion of service and retains rank of Lt., Sub. Not.</Text>
+      <Text>Rel. commn. on completion of service and retains rank of Lt., Sub. Not</Text>
       <PageNumber>7554</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -56,7 +60,10 @@
       </Key>
       <Title>Supern. Maj.</Title>
       <Forenames>K. M.</Forenames>
-      <Text>, D.S.O., M.C. (restd. to estabt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8680</PageNumber>
     </MainItem>
     <SubItem>
@@ -69,7 +76,9 @@
       <Key>Aherne</Key>
       <Title>temp. Capt.</Title>
       <Forenames>Richard J.</Forenames>
-      <Text>, ' M.C. (rel. commn. and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8461</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -78,7 +87,9 @@
       <Key>Aickin</Key>
       <Title>temp. Capt.</Title>
       <Forenames>R. T. G.</Forenames>
-      <Text>, M.D. (rel. commn. and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>7544</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -105,7 +116,9 @@
       <Key>Ainge</Key>
       <Title>Lt.</Title>
       <Forenames>D. A. L.</Forenames>
-      <Text>, M.C. (rel. commn. .and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7545</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -158,7 +171,9 @@
       </Key>
       <Title>Maj. and Bt. Lt.-Col. (temp. Lt.-Col.)</Title>
       <Forenames>R. B.</Forenames>
-      <Text>, D.S.O. (temp. Alsst. Dir. Gen,, Army Medical Service, and retains temp, rank of Lt.Col.), Sub. Not</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7093</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -233,7 +248,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Adtkeu</Key>
-      <Text>. 2nd Lt. J. D., M.G. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>J. D.</Forenames>
+      <Text>, M.G. (Lt.)</Text>
       <PageNumber>9439</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -245,7 +262,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>W.</Forenames>
-      <Text>, M.C. (restd. to estabt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9036</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -304,7 +323,9 @@
       <Key>Alden</Key>
       <Title>Lt.</Title>
       <Forenames>H.</Forenames>
-      <Text>, M.M. (apptd. to Tank Oorps)</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>8693</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -367,7 +388,9 @@
       <Key>Aldtom</Key>
       <Title>temp. Capt.</Title>
       <Forenames>H. R. S.</Forenames>
-      <Text>, M.B.E. (rel. temp, rank of Maj. on ceasing to be empld. in a 'Record Office)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>8948</PageNumber>
     </MainItem>
     <SubItem>
@@ -408,7 +431,9 @@
       <Key>Aldworth</Key>
       <Title>Capt.</Title>
       <Forenames>W.</Forenames>
-      <Text>, D.S.O. (h.p. list, retires on acc. of ill-health, receiving a gratuity and granted rank of Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8370</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -428,7 +453,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>E.</Forenames>
-      <Text>, M.C., D CM. (rel. actg. rank of Capt., since placed on ret. list)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8782</PageNumber>
     </MainItem>
     <SubItem>
@@ -443,7 +470,11 @@
       </Key>
       <Title>Col.</Title>
       <Forenames>E. W.</Forenames>
-      <Text>, V.C., C.B., C.M.G. (retires on ret. pay and granted, hon. rank of Maj.-Gen.)</Text>
+      <Text>
+        <Honour>V.C.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>9612</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -475,7 +506,10 @@
       </Key>
       <Title>Miaj.</Title>
       <Forenames>H. M.</Forenames>
-      <Text>, O.B.E., D.S.O. (temp. Lt.-Col. whilst Asst. Dir. of Clothing in India)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8149</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -496,7 +530,10 @@
       </Key>
       <Title>temp. Maj.</Title>
       <Forenames>J. H.</Forenames>
-      <Text>, D.S.O., M.C. (rel. commn, on completion of service and ' granted rank of Lt.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7432</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -597,7 +634,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Alexandre</Key>
-      <Text>. Lt. H. F. (rel. commn. and retains rank of Lt.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>H. F.</Forenames>
+      <Text>(rel. commn. and retains rank of Lt.)</Text>
       <PageNumber>9500</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -615,7 +654,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Lt</Forenames>
-      <Text>, E. R., M.C. (retires on ret. pay)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8147</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -682,7 +723,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Title>Lit.</Title>
-      <Text>-Col. ±. S., D.S.O. (removed on aoc. of ill-health,</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7945</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -733,7 +776,9 @@
       <Key>Allden</Key>
       <Title>Capt.</Title>
       <Forenames>S. G.</Forenames>
-      <Text>, D.S.O. (rel</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8460</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -788,7 +833,9 @@
       </Key>
       <Title>temp. Maj.</Title>
       <Forenames>A. M.</Forenames>
-      <Text>, M.C. (rel. commn on completion of service and retains rank of</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9203</PageNumber>
     </MainItem>
   </ItemGroup>

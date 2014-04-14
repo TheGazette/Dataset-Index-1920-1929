@@ -4,7 +4,9 @@
     <MainItem>
       <Key>Hampden</Key>
       <Title>Col. (Hon. Brig.-Gen.)</Title>
-      <Text>'.tf. -H., Visct., OJB., C.M.G. '. (Col. with seniority in T.F. on appt. to comd. a Brigade, and rel. hon. rank of Brig.-Gen.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>5634</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -61,8 +63,8 @@
     <MainItem>
       <Key>Hardcastle</Key>
       <Title>Capt.</Title>
-      <Forenames>B.</Forenames>
-      <Text>de V. (trd. to T.F.R.)</Text>
+      <Forenames>B. de V</Forenames>
+      <Text>. (trd. to T.F.R.)</Text>
       <PageNumber>3526</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -71,7 +73,9 @@
       <Key>Bardie</Key>
       <Title>Lt. (actg. Capt. and Adjt.)</Title>
       <Forenames>W. B.</Forenames>
-      <Text>, M.C. (vacates appt. of Adjt., and rel. actg. rank of Capt. on ceasing to be empld.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1212</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -109,7 +113,9 @@
       <Key>JLuland</Key>
       <Title>Capt.</Title>
       <Forenames>W. C. F.</Forenames>
-      <Text>, M.B., F.R.C.S. (announcement in Gaz., 30 Dec, 1918, cancelled)</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>3526</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -126,7 +132,9 @@
     <MainItem>
       <Key>JLirper</Key>
       <Title>Lt.</Title>
-      <Text>(actg. Capt.JM. L., M.C. (rel. actg. rank of Capt. on ceasing to be empld.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1197</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -390,7 +398,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>E. C</Forenames>
-      <Text>, M.C. (resigns commn. and granted rank of Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2169</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -401,7 +411,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>E. C</Forenames>
-      <Text>, M.M. (rel. commn. on acc. of ill-health caused by wounds, and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>3416</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -412,7 +424,9 @@
       </Key>
       <Title>2nd Lt.</Title>
       <Forenames>E. J. B.</Forenames>
-      <Text>(Lt. and rem seed, M.G.C.)</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>2040</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -423,7 +437,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>G. H.</Forenames>
-      <Text>, D.F.C. (rel. commn. in T.F. on appt. to a perm, commn. in R.A.F., and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>1351</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -471,7 +487,9 @@
       </Key>
       <Title>Ma-j.</Title>
       <Forenames>T.</Forenames>
-      <Text>, T.D. (retired having attained the age limit, and-' retains rank of Maj. with permission to wear uniform)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>1541</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -510,11 +528,13 @@
       </Key>
       <Title>Maj. (temn. Lt.-Col.)</Title>
       <Forenames>L. H. P.</Forenames>
-      <Text>, D.S.O. (rel. temp, rank of Lt.-Col. on ceasing to comd. Bn., 4th York, and Lanes. R.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>960</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Lt.-Col</Text>
+      <Text>Lt.-Col.</Text>
       <PageNumber>3416</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -530,7 +550,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Harvev</Key>
-      <Text>. Lt.-Col. J., D.S.O., (Coi.;</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>J.</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3753</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -570,7 +594,9 @@
       <Key>Haskard</Key>
       <Title>Maj.</Title>
       <Forenames>D. D.</Forenames>
-      <Text>. M.C. (Adjt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3415</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -590,18 +616,20 @@
   <ItemGroup>
     <MainItem>
       <Key>Hasbick</Key>
-      <Text>. temn. Lt. N. R. (actg. Ca.nt. comdt;. a Co., A. of 0.)</Text>
+      <Text>temn. Lt. N. R. (actg. Ca.nt. comdt;. a Co., A. of 0.)</Text>
       <PageNumber>324</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Rel. actg. rank of Cant, on c»a=ing to comd. a Co.. A. of O</Text>
+      <Text>Rel. actg. rank of Cant, on c»a=ing to comd. a Co.. A. of O.</Text>
       <PageNumber>1065</PageNumber>
     </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hatfield</Key>
-      <Text>. 2nd Lt. R. E. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>R. E.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>3001</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -621,7 +649,9 @@
       <Key>Hatton</Key>
       <Title>Lt.</Title>
       <Forenames>L. H. C</Forenames>
-      <Text>, M.C. (actg. Lt.-Col. comdg. a Yeo. Regt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>541</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -679,7 +709,9 @@
       <Key>Hay</Key>
       <Title>Capt.</Title>
       <Forenames>D.</Forenames>
-      <Text>. M.C. (restd. to estabt. of R.H. and R.F.A., T.F.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1196</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -730,7 +762,9 @@
       </Key>
       <Title>Lt.-Col. (Bt. Col.)</Title>
       <Forenames>R. G.</Forenames>
-      <Text>, T.D. (rel. commn. on acc. of ill-health, and retains rank, with permission to wear uniform)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>2736</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -754,7 +788,9 @@
       <Key>Hayford</Key>
       <Title>Capt.</Title>
       <Forenames>N. M.</Forenames>
-      <Text>&gt; M.C. (actg. Maj. whilst 2nd in comd. of the 2/22nd Bn.. Lond. R., A. of 0.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2444</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -781,7 +817,9 @@
       <Key>Hayward</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>F. G.</Forenames>
-      <Text>, T.D. (Col.)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>3752</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -792,7 +830,9 @@
       </Key>
       <Title>Lt. (actg. Capt.)</Title>
       <Forenames>R. C</Forenames>
-      <Text>, M.C. (rel. actg. rank of Capt. on ' ceasing to be empld.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1654</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -811,7 +851,9 @@
     <MainItem>
       <Key>Heath</Key>
       <Title>Lt.-Col.</Title>
-      <Text>(Lt.-Col. and Hon. Col., ret., T.F.) A. H., T.D. (reverts to retd. list, having attained the age limit, and retains rank, with permission to wear uniform)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>1797</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -822,7 +864,9 @@
       </Key>
       <Title>Lt. (actg. Capt.)</Title>
       <Forenames>G. C</Forenames>
-      <Text>, M.C. (rel. actg. rank of Capt. on ceasing to be empld.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2899</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -980,7 +1024,9 @@
       </Key>
       <Title>2nd Lt.</Title>
       <Forenames>T. G. A.</Forenames>
-      <Text>, D.C.M. (Lt.)</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>1351</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -988,7 +1034,9 @@
     <MainItem>
       <Key>Hendry</Key>
       <Forenames>Co</Forenames>
-      <Text>!. (Hon. Brig.-Gen. in Army) (Capt., ret.) P. W., C.B., V.D. (trd. from Active List to T.F.R., and retains hon rank)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>1781</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1006,7 +1054,9 @@
       <Key>Hennessy</Key>
       <Title>Maj.</Title>
       <Forenames>T.</Forenames>
-      <Text>, M.C. (retired, having attained the age limit, and retains rank of Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2040</PageNumber>
     </MainItem>
   </ItemGroup>

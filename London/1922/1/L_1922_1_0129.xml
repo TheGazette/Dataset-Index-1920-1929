@@ -98,7 +98,10 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>J. T.</Forenames>
-      <Text>, D.S.O., M.C. (rel. actg. rank of Lt.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1380</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -155,7 +158,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Heathcote-Drummond</Key>
-      <Text>Willoughby, Maj. (Hon. Brig.-Gen.) C. S., C.B., C.M.G. (Col., Reg. Army Res. of Off., Gen. List, from S. Gds, and retains hon. rank of Brig.-Gen.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>2408</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -339,7 +345,9 @@
       <Key>Hedley</Key>
       <Title>2nd Lt.</Title>
       <Forenames>G. H.</Forenames>
-      <Text>, M.C. (Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1922</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -361,7 +369,9 @@
       </Key>
       <Title>temp. Qrmr. and Capt.</Title>
       <Forenames>T.</Forenames>
-      <Text>, M.B.E. (rel. commn. on completion of service and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>269</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -412,7 +422,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>L. H.</Forenames>
-      <Text>(Lt., Reg. Army Res. of Off., Gen. List, Machine, Gun, late M.G.C.)</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>702</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -466,7 +478,9 @@
       <Key>Heggs</Key>
       <Title>temp. 2nd Lt.</Title>
       <Forenames>J. R.</Forenames>
-      <Text>, M.C. (temp. Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>441</PageNumber>
     </MainItem>
     <SubItem>
@@ -488,14 +502,18 @@
       <Key>Helden</Key>
       <Title>Capt.</Title>
       <Forenames>F.</Forenames>
-      <Text>, M.B.E. (Capt., Reg. Army Res. of Offrs., Gen. List, late R.E )</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>926</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hellard</Key>
-      <Text>. temp. Qrmr. and Capt. C. H. (rel. commn. on completion of service and retains rank of Capt.)</Text>
+      <Title>temp. Qrmr. and Capt.</Title>
+      <Forenames>C. H.</Forenames>
+      <Text>(rel. commn. on completion of service and retains rank of Capt.)</Text>
       <PageNumber>447</PageNumber>
     </MainItem>
   </ItemGroup>

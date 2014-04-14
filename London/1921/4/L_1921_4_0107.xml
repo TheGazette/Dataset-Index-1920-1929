@@ -38,7 +38,9 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>N. C</Forenames>
-      <Text>, M.C. (rel. commn. on completion of service, and granted rank of Capt.) .. .. -</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8351</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -157,8 +159,8 @@
     <MainItem>
       <Key>Dawtrey</Key>
       <Title>temp. 2nd Lt.</Title>
-      <Forenames>C. St</Forenames>
-      <Text>. C. (rel. commn. on completion of service, and retains rank of 2nd Lt.)</Text>
+      <Forenames>C. St. C</Forenames>
+      <Text>. (rel. commn. on completion of service, and retains rank of 2nd Lt.)</Text>
       <PageNumber>8262</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -167,7 +169,9 @@
       <Key>Day</Key>
       <Title>temp. Chapln., 4th CI., Rev.</Title>
       <Forenames>A.</Forenames>
-      <Text>, O.B.E. (rel. commn. and to be Hon. Chapln., 4th CI.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>7863</PageNumber>
     </MainItem>
     <SubItem>
@@ -392,18 +396,41 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Laney</Forenames>
-      <Text>, temp. 2nd Lt. B. J., M.M. (rel. commn. on completion of service, and retains rank of 2nd Lt.)</Text>
+      <Key>De Laney</Key>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>B. J.</Forenames>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>10099</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>La Pryme</Forenames>
+      <Key>De La</Key>
+      <Forenames>Pryme</Forenames>
       <Text>, temp. Chapln., 4th CI., Rev. A. G. (rel. commn. and to be Hon. Chapln., 4th CI.)</Text>
       <PageNumber>8049</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Launay</Key>
+      <Title>temp. Capt.</Title>
+      <Forenames>C. M.</Forenames>
+      <Text>(rel. commn. on completion of service, and retains rank on Capt.)</Text>
+      <PageNumber>8430</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Montmorency</Key>
+      <Title>temp. Maj.</Title>
+      <Forenames>H. G. F. E.</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
+      <PageNumber>7952</PageNumber>
     </MainItem>
     <SubItem>
       <Text>Lt., Reg. Army Res. of Offrs</Text>
@@ -440,8 +467,19 @@
     <MainItem>
       <Key>De</Key>
       <Forenames>Pret</Forenames>
-      <Text>, Capt. J., M.C. (trd. to 12th L. from 21st L.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9427</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Satge</Key>
+      <Title>2nd Lt.</Title>
+      <Forenames>Martin Valentine</Forenames>
+      <Text>(2nd Lt. on prob., Spec. Res., Scots Gds., from R.F:A., T.A.)</Text>
+      <PageNumber>8438</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -451,6 +489,26 @@
       <Forenames>J. C. E.</Forenames>
       <Text>(granted temp, rank as Lt.-Col. whilst A.A.G. in India)</Text>
       <PageNumber>8059</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Thierry</Key>
+      <Title>temp. Lt.</Title>
+      <Forenames>J. L.</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
+      <PageNumber>10694</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Waegenaers</Key>
+      <Title>temp. Capt.</Title>
+      <Forenames>V. L. L.</Forenames>
+      <Text>(trd. to Lab. Corps from Spec. List, retaining present seniority)</Text>
+      <PageNumber>8919</PageNumber>
     </MainItem>
     <SubItem>
       <Text>Rel. commn. on completion of service, and retains rank of Capt</Text>
@@ -463,13 +521,34 @@
       <PageNumber>8811</PageNumber>
     </SubItem>
   </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Walterstorff</Key>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>H. G.</Forenames>
+      <Text>(rel. commn. on completion of service, and retains rank of 2nd Lt.)</Text>
+      <PageNumber>8445</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Witt</Key>
+      <Title>temp. Lt.</Title>
+      <Forenames>C. A.</Forenames>
+      <Text>(rel. commn. on completion of service, and retains rank of Lt.)</Text>
+      <PageNumber>8052</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <SectionTitle>see Tennyson-DEyncourt, Lt</SectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Deacon</Key>
       <Title>temp. 2nd Lt.</Title>
       <Forenames>E. C</Forenames>
-      <Text>, M.C., D.C.M. (rel. commn. on com-. pletion of service, and retains rank of 2nd Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>9860</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -85,7 +85,9 @@
       <Key>Barton</Key>
       <Title>temp. 2nd Lt.</Title>
       <Forenames>A. E.</Forenames>
-      <Text>, M.M. (rel. commn. on completion of service and retains rank of 2nd Lt.)</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>1491</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -140,7 +142,9 @@
       </Key>
       <Title>Lt.-Col.</Title>
       <Forenames>R. L.</Forenames>
-      <Text>, D.S.O. (placed temp, on h.p. list on acc. of ill-health)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>790</PageNumber>
     </MainItem>
     <SubItem>
@@ -224,7 +228,9 @@
       <Key>Basden</Key>
       <Title>temp. Lt.-Col.</Title>
       <Forenames>E. D.</Forenames>
-      <Text>, M.C. (rel. commn. on completion of service and retains rank of Lt.-Col.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>440</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -392,7 +398,9 @@
       </Key>
       <Title>temp. 2nd Lt.</Title>
       <Forenames>G. V.</Forenames>
-      <Text>, M.M. (rel. commn. on completion of service and retains rank of 2nd Lt.)</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>351</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -403,7 +411,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>H. V.</Forenames>
-      <Text>, M.C. (restd. to estabt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2698</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -425,7 +435,9 @@
       </Key>
       <Title>Supern. Maj.</Title>
       <Forenames>V. A.</Forenames>
-      <Text>, D.S.O. (h.p. list, restd. to estabt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>135</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -436,7 +448,10 @@
       </Key>
       <Title>temp. Maj.</Title>
       <Forenames>W. M.</Forenames>
-      <Text>, D.S.O., M.C. (rel. commn. on completion of service and retains rank of Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1176</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -472,7 +487,12 @@
   <ItemGroup>
     <MainItem>
       <Key>Bateman</Key>
-      <Text>. temp. 2nd Lt. E. C, D.C.M., M.M. (rel. commn. on completion of service, and retains rank of 2nd Lt.)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>E. C</Forenames>
+      <Text>
+        <Honour>D.C.M.</Honour>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>1375</PageNumber>
     </MainItem>
   </ItemGroup>

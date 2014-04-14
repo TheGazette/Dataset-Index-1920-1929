@@ -4,14 +4,18 @@
     <MainItem>
       <Key>Holland</Key>
       <Forenames>Robert Erskine</Forenames>
-      <Text>, C.S.I., C.I.E., C.V.O., Knight Commander, Order of the Indian Empire</Text>
+      <Text>
+        <Honour>C.V.O.</Honour>
+      </Text>
       <PageNumber>5</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hopkins</Key>
-      <Text>. Professor Frederick Gowland, M.A. D.Sc, F.R.C.P., F.R.S., Knight</Text>
+      <Title>Professor</Title>
+      <Forenames>Frederick Gowland</Forenames>
+      <Text>, M.A. D.Sc, F.R.C.P., F.R.S., Knight</Text>
       <PageNumber>2</PageNumber>
       <PageNumber>1070</PageNumber>
     </MainItem>
@@ -29,7 +33,9 @@
       <Key>Hutson</Key>
       <Title>Sir</Title>
       <Forenames>Eyre</Forenames>
-      <Text>, K.C.M.G., Governor and Commanderin-Chief of Colony of Fiji, and H.M. High Commissioner for the Western Pacific</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+      </Text>
       <PageNumber>983</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -45,7 +51,9 @@
     <MainItem>
       <Key>Irvine</Key>
       <Forenames>James Colquhoun</Forenames>
-      <Text>, C.B.E., LL.D., D.Sc, F. R.S., Knight</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
       <PageNumber>1070</PageNumber>
     </MainItem>
@@ -63,7 +71,11 @@
     <MainItem>
       <Key>Jellicoe</Key>
       <Title>Admiral</Title>
-      <Text>of the Fleet John Rushworth, Viscount, G. C.B., O.M., G.C.V.O., Earl</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>O.M.</Honour>
+        <Honour>G.C.V.O.</Honour>
+      </Text>
       <PageNumber>1</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -112,7 +124,9 @@
       <Key>Kaye</Key>
       <Title>Lieut.-Col.</Title>
       <Forenames>Cecil</Forenames>
-      <Text>, C.S.I., . CLE., C.B.E., Knight</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
       <PageNumber>1070</PageNumber>
     </MainItem>
@@ -135,7 +149,9 @@
     <MainItem>
       <Key>Kelly</Key>
       <Forenames>Elisabeth Harriott</Forenames>
-      <Text>, C.B.E., Member of Royal Patriotic Fund Corporation</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>13</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -143,7 +159,9 @@
     <MainItem>
       <Key>Kemball-Cook</Key>
       <Forenames>Basil Alfred</Forenames>
-      <Text>, CB. ... .:</Text>
+      <Text>
+        <Honour>CB</Honour>
+      </Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -152,7 +170,9 @@
       <Key>Kerr</Key>
       <Title>Sir</Title>
       <Forenames>John Henry</Forenames>
-      <Text>, K.C.S.I.. K.C.I.E., I.C.S., Acting Governor of Bengal</Text>
+      <Text>
+        <Honour>K.C.I.E.</Honour>
+      </Text>
       <PageNumber>1780</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -170,7 +190,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Frederick Truby</Forenames>
-      <Text>, C.M.G., M.B., Knight</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
       <PageNumber>1070</PageNumber>
     </MainItem>
@@ -201,40 +223,19 @@
     <MainItem>
       <Key>Lamb</Key>
       <Forenames>Walter Rangeley Mait-</Forenames>
-      <Text>land, Member Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>5</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Lane</Key>
-      <Forenames>Harry Philip Parnell</Forenames>
-      <Text>, C.B.E., M.V.O., Knight 52413 Lane, Maj. Hugh Robert Charles, O.B.E., Dis' tinguished Service Order Larken, Rear-Admiral Frank, C.M.G., Companion, Order of the Bath Lawrance, William Thomas, K.C., Recorder of the City of Poole ... ... ... Lawrence, Hon. Geoffrey, D:S.O., His Majesty's Consul Layng, Capt. Thomas Malcolm, M.C., Member of the Orderof the British Empire ... Le Quesne, Charles Thomas, His Majesty's Counsel ... Ledger, Claude Kirwood, H.M. Consul at Fimchal Lee of Farehain, the Rt. Hon. Arthur Hamilton, Viscount, G. B.E., K.C.B., Knight Grand' Commander, Order of the Star of India ... Legge, Thomas Morison, C.B.E., M.D., D.P.H., Knight</Text>
-      <PageNumber>2</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Liddell</Key>
-      <Title>Capt.</Title>
-      <Forenames>Augustus Frederick</Forenames>
-      <Text>, M.V.O., Commander, Royal Victorian Order ... ... ... Lindsay, Hon. Ronald Charles, K.C.M.G., C.B., C.V.O., H. M. Ambassador Extraordinary and Plenipotentiary to the Turkish Republic</Text>
-      <PageNumber>4</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Loch</Key>
-      <Title>Col.</Title>
-      <Forenames>Granville George</Forenames>
-      <Text>, C.M.G., C.B.E., D.S.O., Companion, Order of the Bath .... ... Lochore, James, Knight</Text>
-      <PageNumber>2</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
       <Key>Londonderry</Key>
-      <Text>the Rt. Hon. Charles Stewart Henry, Marquis of, K.G., M.V.O., Member of H.M. Privy Council</Text>
+      <Text>
+        <Honour>K.G.</Honour>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>1</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -250,7 +251,10 @@
     <MainItem>
       <Key>Longmore</Key>
       <Forenames>Air Commodore Arthur Murray</Forenames>
-      <Text>, D.S.O., Companion, Order of the Bath .... Lytton, Rt. Hon. the Earl of, G. C.I.E., Acting Governor-General of India ... Macdonald, John Robert, Stipendiary Magistrate for the Borough of Kingstonupon-Hull '. Macdonell, Philip James, B.C.L., Knight</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -274,7 +278,13 @@
     <MainItem>
       <Key>MacGregor</Key>
       <Forenames>John Proudfoot</Forenames>
-      <Text>, H. M. Consul at Boma ... Mackness, William Robert, H.M. Consul at Trieste ... Maclaren, John Gilbert, Companion, Order of St. Michael and St. George ... McLean, William Hannah, Esquire, Order of St. John of Jerusalem ... ... McLeod, Sir Charles Campbell, Kt., Baronet ... McMahon, Lieut.-Col. Sir Arthur Henry, G.C.M.G., GiC.V.O.. K.C.I.E., C.S.I., Knight of Justice, Order of St. John of Jerusalem ... MacMahon, Col. Hugh. Francis Edward, M.C., Commander of the Order of the British Empire McPherson, Sir Hugh, ___ K.C.I.E., C.S.I., ICS., Acting Governor, Bihar</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+        <Honour>G.C.M.G.</Honour>
+        <Honour>K.C.I.E.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>K.C.I.E.</Honour>
+      </Text>
       <PageNumber>1768</PageNumber>
     </MainItem>
     <SubItem>
@@ -295,6 +305,12 @@
       </Text>
       <PageNumber>1070</PageNumber>
     </SubItem>
+    <SubItem>
+      <Text>
+        <PageNumber>47</PageNumber>
+      </Text>
+      <PageNumber>1768</PageNumber>
+    </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
@@ -302,72 +318,31 @@
       <Text>; Major-General Robert Charles, CLE., Knight</Text>
       <PageNumber>2</PageNumber>
       <PageNumber>1774</PageNumber>
-      <PageNumber>1070</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Maddock</Key>
       <Title>Lieut.</Title>
-      <Text>-Coh Edward Cecil Gordon, M.D., Companion; Order of the Indian Empire ... ... . .. Maddocks, Sir Henry, K.C., Recorder of the City of Birmingham</Text>
-      <PageNumber>1069</PageNumber>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
+      <PageNumber>2</PageNumber>
+      <PageNumber>1070</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Mangal</Key>
       <Forenames>Singh</Forenames>
-      <Text>, Rao Bahadur Tliakur, of Pokaran, Com = panion, Order of the Indian Empire</Text>
-      <PageNumber>5</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>M</Key>
-      <Text>lickji Byramji Dailabhoy, Sir, CLE., Knight Commander, Order of the Indian Empire</Text>
-      <PageNumber>5</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Marjoribanks</Key>
-      <Forenames>Norman Edward</Forenames>
-      <Text>, C. S.I., CLE., I.C.S., Member of the Executive Council of the Governor of Madras</Text>
-      <PageNumber>1961</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Maxwell</Key>
-      <Title>Col.</Title>
-      <Forenames>Arthur</Forenames>
-      <Text>, C.M.G., D. S.O., T.D., Companion, Order of the Bath</Text>
-      <PageNumber>3</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Meagher</Key>
-      <Forenames>Henry Joseph</Forenames>
-      <Text>, H.M. Consul at Fort.St. France</Text>
-      <PageNumber>681</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Mehdi</Key>
-      <Text>bin Ali, Sultan, Honorary Companion, Order of St. Michael and St. George . Mian Fazl-I-Husain, Khan Bahadur, Knight</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D. S.O.</Honour>
+        <Honour>T.D.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
       <PageNumber>1070</PageNumber>
-      <PageNumber>1774</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Milne</Key>
-      <Forenames>Charles</Forenames>
-      <Text>, M.A., L.L.B., Junior Counsel to the Secretary for Scotland</Text>
-      <PageNumber>516</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -376,23 +351,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Claire Marjoribanks</Forenames>
-      <Text>, Lady, M-B.E., Lady of Grace, Order of St. John of Jerusalem</Text>
-      <PageNumber>47</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Milner</Key>
-      <Forenames>Frank</Forenames>
-      <Text>, Companion, Order of St. Michael and St. George Milward, Col. Clement Arthur, CLE., D.S.O., Commander of the Order of the British Empire</Text>
-      <PageNumber>1768</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Mirasadulla</Key>
-      <Forenames>Sub</Forenames>
-      <Text>Maj, Member of the Order of the British Empire ...,</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1768</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -401,40 +362,49 @@
       <Key>Molony</Key>
       <Title>Rt. Hon.</Title>
       <Forenames>Thomas Francis</Forenames>
-      <Text>, Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>1</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Montgomery</Key>
-      <Forenames>Major-General</Forenames>
-      <Text>Sir Archibald Armar, K.C.M.G., C.B., Knight Commander, Order of the Bath . Morgan, James, H.M. Consul at Constantinople</Text>
+      <Title>Major-</Title>
+      <Forenames>General</Forenames>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.M.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
+      <PageNumber>1070</PageNumber>
+    </MainItem>
+    <SubItem>
+      <Text>
+        <PageNumber>5</PageNumber>
+      </Text>
+      <PageNumber>1069</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>
+        <PageNumber>3</PageNumber>
+      </Text>
+      <PageNumber>681</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>
+        <PageNumber>4</PageNumber>
+      </Text>
+      <PageNumber>1768</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>
+        <PageNumber>3</PageNumber>
+      </Text>
       <PageNumber>680</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Morrow</Key>
-      <Forenames>Forbes St</Forenames>
-      <Text>. John, Stipendiary Magistrate for the borough of West Ham</Text>
-      <PageNumber>1952</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Muhammad</Key>
-      <Forenames>Habibulla Sahib Bahadur</Forenames>
-      <Text>, Khan Bahadur Sir, K.CI.E-, Member of Executive. ; Council of Governor of Madras ... Member of the Executive Council of the Governor General of India</Text>
-      <PageNumber>1961</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Muhammad</Key>
-      <Text>TJsroan, Sahib 4 Bahadur, Khan Bahadur, Member of the ExecutiveCouncil of the Governor of 47 Madias</Text>
-      <PageNumber>1961</PageNumber>
-    </MainItem>
+    </SubItem>
   </ItemGroup>
 </Index>
 

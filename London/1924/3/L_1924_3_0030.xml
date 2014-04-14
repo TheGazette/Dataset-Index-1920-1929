@@ -10,8 +10,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fitzwilliara</Key>
-      <Forenames>The</Forenames>
-      <Text>Earl</Text>
+      <Title>The Earl .</Title>
       <PageNumber>5253</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -390,7 +389,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gibbs</Key>
-      <Text>. G. H</Text>
+      <Forenames>G. H .</Forenames>
       <PageNumber>5955</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -454,8 +453,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>R. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>R. St. J</Forenames>
       <PageNumber>6719</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -513,8 +511,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Goldie</Key>
-      <Forenames>F. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>F. St. C</Forenames>
       <PageNumber>6980</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -891,7 +888,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>D. M. B.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6781</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1107,7 +1106,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Harris</Key>
-      <Text>. A. E. F</Text>
+      <Forenames>A. E. F.</Forenames>
       <PageNumber>6272</PageNumber>
     </MainItem>
   </ItemGroup>

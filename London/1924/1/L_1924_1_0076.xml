@@ -116,8 +116,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, C. T</Text>
+      <Key>O'Neill</Key>
+      <Forenames>C. T.</Forenames>
       <PageNumber>9</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -132,8 +132,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Niell, A. B</Text>
+      <Key>O'Niell</Key>
+      <Forenames>A. B</Forenames>
       <PageNumber>270</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -580,7 +580,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rutledge</Key>
-      <Text>. G. M</Text>
+      <Forenames>G. M</Forenames>
       <PageNumber>1460</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1518,18 +1518,25 @@
   <ItemGroup>
     <MainItem>
       <Key>Isle</Key>
-      <Text>of AVight: Calthorpe, Admiral, the Hon. Sir Somerset Arthur Gough, G.C.B.,G.C.M.G.,</Text>
+      <Text>
+        <Honour>G.C.B.</Honour>
+        <Honour>G.C.M.G.</Honour>
+      </Text>
       <PageNumber>1574</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Lanark</Key>
-      <Text>: Monteith, Major Joseph Basil Lawrence, O.B.E</Text>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>2329</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Paxton, Sir Thomas, Bt.</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>2329</PageNumber>
     </SubItem>
   </ItemGroup>

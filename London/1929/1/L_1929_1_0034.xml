@@ -255,8 +255,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>W. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>W. St. J</Forenames>
       <PageNumber>620</PageNumber>
       <PageNumber>620</PageNumber>
     </MainItem>
@@ -264,8 +263,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Carruthers</Key>
-      <Forenames>H. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>H. St. J</Forenames>
       <PageNumber>621</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -288,7 +286,9 @@
       <Key>Chetwode</Key>
       <Title>Sir</Title>
       <Forenames>P. W.</Forenames>
-      <Text>Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>620</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -550,8 +550,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Oarroll, W. C. L</Text>
+      <Key>O'Oarroll</Key>
+      <Forenames>W. C. L.</Forenames>
       <PageNumber>621</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -585,8 +585,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>John, E. F</Text>
+      <Key>St. John</Key>
+      <Forenames>E. F .</Forenames>
       <PageNumber>620</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1119,8 +1119,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Carpendale</Key>
-      <Forenames>W. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>W. St. J</Forenames>
       <PageNumber>1679</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1685,21 +1684,21 @@
   <ItemGroup>
     <MainItem>
       <Key>Forsyth</Key>
-      <Text>D. G</Text>
+      <Forenames>D. G</Forenames>
       <PageNumber>1824</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Foster</Key>
-      <Text>G. E</Text>
+      <Forenames>G. E</Forenames>
       <PageNumber>620</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Fox</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>1823</PageNumber>
       <PageNumber>1824</PageNumber>
     </MainItem>

@@ -3,49 +3,52 @@
   <ItemGroup>
     <MainItem>
       <Key>Gibbs</Key>
-      <PageNumber>___ ___ ___ ___ ___ ___</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
-  <ItemGroup>
-    <MainItem>
-      <Key>Giles</Key>
-      <PageNumber>___ ___ ___ ___</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <KeyDitto>___ ___ ___ ___</KeyDitto>
-  <ItemGroup>
-    <MainItem>
-      <Key>Gill</Key>
-      <PageNumber>___ ___ ___ ___</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <KeyDitto>___ ___ ___ ___</KeyDitto>
-  <ItemGroup>
-    <MainItem>
-      <Key>Lt</Key>
-      <Text>.)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>E. W.</Forenames>
+      <Text>(rel. commn. on completion of service and retains rank of 2nd Lt.)</Text>
       <PageNumber>908</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Title>temp. Capt.</Title>
+      <Forenames>G. N.</Forenames>
+      <Text>(rel. commn. on completion of service and granted rank of Maj.), Sub. Not</Text>
+      <PageNumber>1071</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Gibson</Key>
       <Title>Ord. Off., 4th CI.</Title>
-      <Text>, and Maj. (actg. Ord. Off., 3rd CI.) A. C. V., O.B.E. (Ord. Off., 3rd CI.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>1993</PageNumber>
     </MainItem>
-    <SubItem>
-      <Text>Maj and Bt. Lt.-Col. Arthur W. (Lt.-Col.)</Text>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Title>Maj and Bt. Lt.-Col.</Title>
+      <Forenames>Arthur W.</Forenames>
+      <Text>(Lt.-Col.)</Text>
       <PageNumber>2074</PageNumber>
-    </SubItem>
+    </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Gidley</Key>
       <Title>Lt.-Col. (ret. pay)</Title>
       <Forenames>C.</Forenames>
-      <Text>de B. , D.S.O. (Lt.-Col., Beg. Army Res. of Off., Regtl. List, R.H. and R.F.A.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>455</PageNumber>
     </MainItem>
     <SubItem>
@@ -58,7 +61,9 @@
       <Key>Giffard</Key>
       <Title>Lt.-Col. (ret. pay)</Title>
       <Forenames>J.</Forenames>
-      <Text>, O.B.E. (Lt.-Col., Reg. Army Res. of Off., Regtl. List, R.H. and R.F.A.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>530</PageNumber>
     </MainItem>
     <SubItem>
@@ -68,10 +73,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Gilbert</Key>
-      <Title>Maj.</Title>
-      <Forenames>D. P.</Forenames>
-      <Text>(retires on ret. pay) ___ Lt. J. E., M.C. (placed on h.p. list on acc. of illhealth)</Text>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Title>Lt.</Title>
+      <Forenames>J. E.</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1229</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -83,14 +92,41 @@
       <Text>(retires receiving a gratuity)</Text>
       <PageNumber>1153</PageNumber>
     </MainItem>
-    <SubItem>
-      <Text>Capt. A. H., O.B.E. (rel. temp, rank of Maj. on ceasing to be empld. with the W. Afr. Fron. Force)</Text>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Giles</Key>
+      <Title>Capt.</Title>
+      <Forenames>A. H.</Forenames>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>64</PageNumber>
-    </SubItem>
-    <SubItem>
-      <Text>Lt., A. W. L. (deprived of rank of Lt., which was granted in Gaz. 14th July, 1920)</Text>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___</KeyDitto>
+      </Key>
+      <Title>Lt.</Title>
+      <Text>, A. W. L. (deprived of rank of Lt., which was granted in Gaz. 14th July, 1920)</Text>
       <PageNumber>1994</PageNumber>
-    </SubItem>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___</KeyDitto>
+      </Key>
+      <Title>Bt. Lt.-Col. (LA.)</Title>
+      <Forenames>E. D.</Forenames>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
+      <PageNumber>455</PageNumber>
+    </MainItem>
     <SubItem>
       <Text>Col. (Sub. Not.)</Text>
       <PageNumber>2166</PageNumber>
@@ -101,24 +137,51 @@
       <Key>Gilkes</Key>
       <Title>Lt. (T.A. Res. of Off.)</Title>
       <Forenames>Humphrey Arthur</Forenames>
-      <Text>, M.C., M.B. (Lt., on proto., R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1230</PageNumber>
     </MainItem>
-    <SubItem>
-      <Text>Lt. C. A. (resigns commn.)</Text>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Gill</Key>
+      <Title>Lt.</Title>
+      <Forenames>C. A.</Forenames>
+      <Text>(resigns commn.)</Text>
       <PageNumber>1409</PageNumber>
-    </SubItem>
+    </MainItem>
     <SubItem>
-      <Text>Date of seniority</Text>
+      <Text>
+        <PageNumber>1411</PageNumber>
+      </Text>
       <PageNumber>1411</PageNumber>
     </SubItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Title>Capt.</Title>
+      <Forenames>John G.</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
+      <PageNumber>529</PageNumber>
+    </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Gillam</Key>
       <Title>Lt.-Col. and Bt. Lt.-Col. (h.p. list, late R.E.)</Title>
       <Forenames>R. A.</Forenames>
-      <Text>, C. M.G., D.S.O. (Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>304</PageNumber>
     </MainItem>
     <SubItem>
@@ -135,7 +198,9 @@
       <Key>Gillatt</Key>
       <Title>Maj.</Title>
       <Forenames>J. M.</Forenames>
-      <Text>. D.S.O. (promn. to rank of Maj. antedated to 27th Oct., 1915, from which date service reckons for increase of pay and for pension, but not for pay and allce6. of the rank prior to 5th Jan., 1916)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>303</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -144,7 +209,10 @@
       <Key>Gillson</Key>
       <Title>Col. (Hon. Brig.-Gen.)</Title>
       <Forenames>G.</Forenames>
-      <Text>, C.M.G., D.S.O. (ceases to belong to Reg. Army Res. of Off., having attained age limit of liability to recall)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>219</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -175,6 +243,17 @@
       <Text>Date of seniority</Text>
       <PageNumber>1913</PageNumber>
     </SubItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Title>Capt.</Title>
+      <Forenames>L. H. G.</Forenames>
+      <Text>(Capt., The King's R., from Middx R., and remains seed.)</Text>
+      <PageNumber>995</PageNumber>
+    </MainItem>
     <SubItem>
       <Text>Date of seniority</Text>
       <PageNumber>995</PageNumber>
@@ -198,7 +277,9 @@
       <Key>Glubb</Key>
       <Title>Lt. (now Capt.)</Title>
       <Forenames>J. B.</Forenames>
-      <Text>, M.C. (temp. Capt. whilst empld. with R.A.T.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1819</PageNumber>
     </MainItem>
     <SubItem>
@@ -215,7 +296,9 @@
       <PageNumber>222</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Capt., Reg. Army Res. of Off., Regtl. List, K.R.R.C., late Spec. Res</Text>
+      <Text>
+        <Honour>R.R.C.</Honour>
+      </Text>
       <PageNumber>710</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -243,7 +326,9 @@
     <MainItem>
       <Key>Godley</Key>
       <Title>Lt.</Title>
-      <Text>-Gen. Sir A. J., K.C.B., K.O.M.G. (Gen.)</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+      </Text>
       <PageNumber>1231</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -266,8 +351,8 @@
         <KeyDitto>___ .</KeyDitto>
       </Key>
       <Title>Maj.</Title>
-      <Forenames>A. St</Forenames>
-      <Text>. L. (retires on ret. pay)</Text>
+      <Forenames>A. St. L</Forenames>
+      <Text>. (retires on ret. pay)</Text>
       <PageNumber>453</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -327,7 +412,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>W. E.</Forenames>
-      <Text>, M.C. (resigns conrmn. and granted rank of Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2319</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -377,7 +464,10 @@
       </Key>
       <Title>Lt.-Col. (h.p. list, late Norf. R.)</Title>
       <Forenames>W. F. L.</Forenames>
-      <Text>, C.M.G., D.S.O. (Col.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>529</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -393,7 +483,9 @@
     <MainItem>
       <Key>Gordon-Munro</Key>
       <Forenames>Capt</Forenames>
-      <Text>, (h.p. list, late 4th D.G.) R., M.C. (retires on ret. pay on acc. of ill-health caused by wounds)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>64</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -438,7 +530,9 @@
       <Key>Gosset</Key>
       <Title>Lt.-Col. (ret. pay)</Title>
       <Forenames>A. B.</Forenames>
-      <Text>, C.M.G. (ceases to belong to Reg. Army Res. of Off., having attained age limit of liability to recall)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>2238</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -446,7 +540,9 @@
     <MainItem>
       <Key>Gough</Key>
       <Title>Capt. and Bt. Maj.</Title>
-      <Text>the Visct., M.C. (rel. local rank of Lt.-Cbl. on ceasing to comd. a Regt. of the Iraq Levies)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>996</PageNumber>
     </MainItem>
     <SubItem>
@@ -487,304 +583,21 @@
       <PageNumber>1819</PageNumber>
     </MainItem>
   </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Gower</Key>
-      <Title>Capt. (h.p. list, late R. Mun. Fus.)</Title>
-      <Forenames>E. W.</Forenames>
-      <Text>(retires on ret. pay on acc. of ill-health)</Text>
-      <PageNumber>1303</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Gowland</Key>
-      <Title>Lt.</Title>
-      <Forenames>S. J.</Forenames>
-      <Text>(actg.Capt.), since rel. commn</Text>
-      <PageNumber>2237</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Gowlland</Key>
-      <Title>Capt. (now Maj.)</Title>
-      <Forenames>G. C.</Forenames>
-      <Text>(rel. temp, rank of Maj. on ceasing to be empld. with Tank</Text>
-      <PageNumber>1820</PageNumber>
-    </MainItem>
-    <SubItem>
-      <Text>Co{$.</Text>
-      <PageNumber>453</PageNumber>
-    </SubItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Gradwell</Key>
-      <Title>2nd Lt.</Title>
-      <Forenames>C. E.</Forenames>
-      <Text>(Lt., Reg. Army Res. of Off., Regtl. List, R.G.A.)</Text>
-      <PageNumber>455</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Graham</Key>
-      <Title>Gent. Cadet</Title>
-      <Forenames>Arthur Thomas James</Forenames>
-      <Text>(2nd Lt., R.H. and K.F.A. ,;from R. Mil. Acad.)</Text>
-      <PageNumber>806</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___</KeyDitto>
-      </Key>
-      <Title>Maj.</Title>
-      <Forenames>C</Forenames>
-      <Text>, D.S.O. (retires on ret. pay)</Text>
-      <PageNumber>62</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Title>temp.</Title>
-      <Forenames>I.</Forenames>
-      <Text>O.M., 3rd CI., and Lt. (on prcrt&gt;.), now I.O.M., 2nd CI., and Capt., James Hamilton (corr. of Christian names)</Text>
-      <PageNumber>222</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Title>2nd Lt.</Title>
-      <Forenames>J. P. A. G.</Forenames>
-      <Text>(2nd Lt., Oxf. and Bucks. L.I., from Rifle Bde.)</Text>
-      <PageNumber>1071</PageNumber>
-    </MainItem>
-    <SubItem>
-      <Text>Precedence and date of seniority</Text>
-      <PageNumber>1071</PageNumber>
-    </SubItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Text>~— ___ Maj. and Bt. Lt.-Col. M., D.S.O. (Maj., 10th H., from 16th/5th L.), and retains present appt.j</Text>
-      <PageNumber>1911</PageNumber>
-    </MainItem>
-    <SubItem>
-      <Text>Date of seniority ;</Text>
-      <PageNumber>1911</PageNumber>
-    </SubItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___</KeyDitto>
-      </Key>
-      <Title>Supern. Maj.</Title>
-      <Forenames>R. C. D.</Forenames>
-      <Text>, D.S.O. (restd. to estabt.)</Text>
-      <PageNumber>1409</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Title>Capt.</Title>
-      <Forenames>William T.</Forenames>
-      <Text>, O.B.E., M.B. (Maj.)</Text>
-      <PageNumber>1495</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Gransden</Key>
-      <Forenames>I.</Forenames>
-      <Text>O.M., 2nd CI., and Capt. C. L. (I.O.M., 1st CI., and Maj.)</Text>
-      <PageNumber>1073</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Grant</Key>
-      <Title>Lt.</Title>
-      <Forenames>C. D.</Forenames>
-      <Text>(retires, receiving a gratuity)</Text>
-      <PageNumber>303</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Title>Capt.</Title>
-      <Forenames>David R. B.</Forenames>
-      <Text>(Capt., Reg. Army Res. of Off., Regtl. List, Army Dental Corps, late Spec. List)</Text>
-      <PageNumber>610</PageNumber>
-    </MainItem>
-    <SubItem>
-      <Text>Date of seniority</Text>
-      <PageNumber>610</PageNumber>
-    </SubItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Title>2nd Lt.</Title>
-      <Forenames>E. H. G.</Forenames>
-      <Text>(Lt.)</Text>
-      <PageNumber>454</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Title>Lt.</Title>
-      <Forenames>R. G.</Forenames>
-      <Text>(retires, receiving a gratuity)</Text>
-      <PageNumber>1993</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Title>Capt. and Acctnt. Off., 4th CI. (temp. Maj. and Acctnt. Off., 3rd CI.)</Title>
-      <Forenames>T. H.</Forenames>
-      <Text>(rel. temp, grading and temp. rank of Maj.)</Text>
-      <PageNumber>221</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Grant-Dalton</Key>
-      <Title>Maj.</Title>
-      <Forenames>D.</Forenames>
-      <Text>, C.M.G., D.S.O. (retires on ret. pay and granted rank of Lt.-Col.)</Text>
-      <PageNumber>1819</PageNumber>
-    </MainItem>
-    <SubItem>
-      <Text>Date of seniority</Text>
-      <PageNumber>1819</PageNumber>
-    </SubItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Gravely</Key>
-      <Title>Lt.</Title>
-      <Forenames>T. B.</Forenames>
-      <Text>(Capt.)</Text>
-      <PageNumber>2317</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Gray</Key>
-      <Title>Capt.</Title>
-      <Forenames>D. L.</Forenames>
-      <Text>, M.C. (seed, for service under Colonial Office)</Text>
-      <PageNumber>1993</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Title>temp. Lt.</Title>
-      <Forenames>F. W.</Forenames>
-      <Text>(rel. oommn. on completion of service and retains rank of Lt.)</Text>
-      <PageNumber>62</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Title>temp. Capt.</Title>
-      <Forenames>J.</Forenames>
-      <Text>(rel. commn. on completion of service and retains rank of Capt.), Sub. Not</Text>
-      <PageNumber>303</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Title>Maj.</Title>
-      <Forenames>W. B.</Forenames>
-      <Text>(retires, receiving a gratuity)</Text>
-      <PageNumber>1820</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___</KeyDitto>
-      </Key>
-      <Title>Capt.</Title>
-      <Forenames>W. E.</Forenames>
-      <Text>, D.S.O., M.C. (temp. Maj. while comdg. Co., Tank Corps)</Text>
-      <PageNumber>304</PageNumber>
-    </MainItem>
-    <SubItem>
-      <Text>Remains seed, for service with Tank Corps (Sub. Not.)</Text>
-      <PageNumber>708</PageNumber>
-    </SubItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___</KeyDitto>
-      </Key>
-      <Title>Gent. Cadet</Title>
-      <Forenames>William Mac-</Forenames>
-      <Text>kinnon (2nd Lt., R. Scots, fromR, Mil. Coll.)</Text>
-      <PageNumber>806</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Graystone</Key>
-      <Title>Lt.</Title>
-      <Forenames>W. A. F.</Forenames>
-      <Text>, Ind. (seed, for service with Ord. Dept.)</Text>
-      <PageNumber>377</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Greaney</Key>
-      <Title>Lt.</Title>
-      <Forenames>J. A.</Forenames>
-      <Text>(Lt., Reg. Army Res. of Off.. Gen. List, Inf., from R.D. Fus.)</Text>
-      <PageNumber>2238</PageNumber>
-    </MainItem>
-    <SubItem>
-      <Text>Date of seniority</Text>
-      <PageNumber>2238</PageNumber>
-    </SubItem>
-  </ItemGroup>
+  <KeyDitto>___ ___ ___</KeyDitto>
+  <KeyDitto>___ ___</KeyDitto>
+  <KeyDitto>___ ___</KeyDitto>
+  <KeyDitto>___ ___</KeyDitto>
+  <KeyDitto>___ ___ ___</KeyDitto>
+  <KeyDitto>___ ___</KeyDitto>
+  <KeyDitto>___ ___</KeyDitto>
+  <KeyDitto>___ ___</KeyDitto>
+  <KeyDitto>___ ___</KeyDitto>
+  <KeyDitto>___ ___</KeyDitto>
+  <KeyDitto>___ ___</KeyDitto>
+  <KeyDitto>___ ___</KeyDitto>
+  <KeyDitto>___ ___</KeyDitto>
+  <KeyDitto>___ ___ ___</KeyDitto>
+  <KeyDitto>___ ___ ___</KeyDitto>
   <ItemGroup>
     <MainItem>
       <Key>
@@ -792,7 +605,7 @@
       </Key>
       <Forenames>Gent</Forenames>
       <Text>, Cadet Herbert Frank Williams (2nd Lt., Unattd. List, for Ind. Army, from R. Mil. Coll.)</Text>
-      <PageNumber>807</PageNumber>
+      <PageNumber>1303</PageNumber>
     </MainItem>
   </ItemGroup>
 </Index>

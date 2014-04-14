@@ -88,7 +88,10 @@
     <MainItem>
       <Key>Slater</Key>
       <Title>Flight Lt. (A.)</Title>
-      <Text>JaB. Anderson, M.C., D.F.C. (corr. of name.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>7776</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -145,7 +148,7 @@
       <PageNumber>8713</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Granted shcrt serv. eommn.</Text>
+      <Text>Granted shcrt serv. eommn</Text>
       <PageNumber>9223</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -166,7 +169,10 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Flying Offr</Forenames>
-      <Text>. B, V. S., M.C., A.F.C. (placed on h.p. list Scale B.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>8976</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -303,7 +309,9 @@
       <Key>Somers-Clarke</Key>
       <Title>Flight Lt. (actg. Sqdrn. Ldr.)</Title>
       <Forenames>U.</Forenames>
-      <Text>, O.B.E. (rel. actg. rank of Sqdrn. Ldr. on ceasing to be erapld. as Sqdrn. Ldr.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>9451</PageNumber>
     </MainItem>
     <SubItem>
@@ -323,7 +331,10 @@
       <Key>Somervail</Key>
       <Title>Maj.</Title>
       <Forenames>A.</Forenames>
-      <Text>, M.C., A.F.C., (rcl. R. A. t. commn. on appt. to T.F.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>9057</PageNumber>
     </MainItem>
     <SubItem>
@@ -450,7 +461,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Spink</Key>
-      <Text>. 2nd Lt. (actg. Lt.) W. (rel. temp. R.A.F. eommn.), Sub. Not</Text>
+      <Title>2nd Lt. (actg. Lt.)</Title>
+      <Forenames>W.</Forenames>
+      <Text>(rel. temp. R.A.F. eommn.), Sub. Not</Text>
       <PageNumber>7668</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -458,7 +471,9 @@
     <MainItem>
       <Key>Spooner</Key>
       <Forenames>Flying Offr</Forenames>
-      <Text>. J., M.M</Text>
+      <Text>
+        <Honour>M.M</Honour>
+      </Text>
       <PageNumber>9223</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -514,7 +529,9 @@
     <MainItem>
       <Key>Stanford</Key>
       <Forenames>Wing Comdr</Forenames>
-      <Text>. C. E. C, D.S.O., M.B., B.So. (granted perm, eommn.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7458</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -532,7 +549,9 @@
       <Key>Stanners</Key>
       <Title>Lt.</Title>
       <Forenames>H.</Forenames>
-      <Text>, M.M. (trd. to unempld. list)</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>7230</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -613,7 +632,9 @@
       <Key>Stevens</Key>
       <Title>Lt.</Title>
       <Forenames>G. E.</Forenames>
-      <Text>' W„ M.C. (rel. commn. on appt. to T.F. and ret. rank), Not. of 13 May, 1919, to stand</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9450</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -820,7 +841,9 @@
     <MainItem>
       <Key>Susans</Key>
       <Forenames>Flying Offr</Forenames>
-      <Text>. F., M.B.E. (place on retd. list and granted</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>8976</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -836,7 +859,9 @@
     <MainItem>
       <Key>Sutherland</Key>
       <Forenames>Flying Oftr</Forenames>
-      <Text>. (A) R. Bruce, D.F.C. (granted short</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>7459</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -883,7 +908,9 @@
       <Key>Sweet</Key>
       <Title>2nd Lt. (Hon. Lt.)</Title>
       <Forenames>R. L.</Forenames>
-      <Text>, M.C. (rel. R.A.F. commn. on appt. to T.F. and retains rank</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9224</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -892,7 +919,9 @@
       <Key>Sykes</Key>
       <Title>Lt.</Title>
       <Forenames>R.</Forenames>
-      <Text>, D.F.C. (trd. DO</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>7355</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1102,7 +1131,9 @@
       </Key>
       <Title>Flight Lt. (T)</Title>
       <Forenames>O. V.</Forenames>
-      <Text>, O.B.E. (Flight Lt. Admin, with Say eader) and allces. . as Sqdn</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>7459</PageNumber>
     </MainItem>
   </ItemGroup>

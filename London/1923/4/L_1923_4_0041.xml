@@ -557,7 +557,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McGrath</Key>
-      <Text>J</Text>
+      <Forenames>J.</Forenames>
       <PageNumber>7948</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -930,7 +930,7 @@
     <KeyDitto>___ ___</KeyDitto>
     <KeyDitto>___ ___</KeyDitto>
     <SubItem>
-      <Text>W. V.</Text>
+      <Text>W. V</Text>
       <PageNumber>7765</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1215,8 +1215,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>R. R. O</Forenames>
-      <Text>'C</Text>
+      <Forenames>R. R. O'C</Forenames>
       <PageNumber>7765</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1590,7 +1589,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mullenger</Key>
-      <Text>J. C</Text>
+      <Forenames>J. C.</Forenames>
       <PageNumber>7766</PageNumber>
       <PageNumber>8939</PageNumber>
     </MainItem>
@@ -1600,7 +1599,9 @@
       <Key>Munro</Key>
       <Title>Sir</Title>
       <Forenames>T. T. A.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>7765</PageNumber>
     </MainItem>
   </ItemGroup>

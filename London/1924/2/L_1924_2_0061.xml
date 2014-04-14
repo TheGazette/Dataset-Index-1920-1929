@@ -37,7 +37,9 @@
     <MainItem>
       <Key>Worthing</Key>
       <Forenames>Quartermaster</Forenames>
-      <Text>and Major Harry Evans, D.C.M., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>4413</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -45,7 +47,14 @@
     <MainItem>
       <Key>Wortley</Key>
       <Title>Lt.</Title>
-      <Text>-Gen. the Hon. Sir Alan Richard Montagu Stuart, K.C.M.G., C.B., D.S.O., see MontaguStuart-Wortley, Lt.-Gen. the Hon. Sir Alan Richard, K.C.M.G., C.B., D.S.O</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>48</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -162,7 +171,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Anson</Key>
-      <Text>F</Text>
+      <Forenames>F.</Forenames>
       <PageNumber>3632</PageNumber>
     </MainItem>
   </ItemGroup>

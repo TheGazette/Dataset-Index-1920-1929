@@ -243,8 +243,7 @@
   <ItemGroup>
     <MainItem>
       <Key>MacGregor</Key>
-      <Forenames>I. O</Forenames>
-      <Text>'B</Text>
+      <Forenames>I. O'B</Forenames>
       <PageNumber>6032</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -599,8 +598,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Maughan</Key>
-      <Forenames>J. St</Forenames>
-      <Text>. A</Text>
+      <Forenames>J. St. A</Forenames>
       <PageNumber>5514</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -753,7 +751,9 @@
       <Key>Monro</Key>
       <Title>Sir</Title>
       <Forenames>C. C</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6096</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1158,8 +1158,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, G. P</Text>
+      <Key>O'Brien</Key>
+      <Forenames>G. P</Forenames>
       <PageNumber>4974</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1175,22 +1175,22 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Callaghan, C. E. A</Text>
+      <Key>O'Callaghan</Key>
+      <Forenames>C. E. A.</Forenames>
       <PageNumber>4660</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Carroll, M. J</Text>
+      <Key>O'Carroll</Key>
+      <Forenames>M. J.</Forenames>
       <PageNumber>5640</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, J. A</Text>
+      <Key>O'Connor</Key>
+      <Forenames>J. A.</Forenames>
       <PageNumber>6095</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1218,7 +1218,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Oliphant</Key>
-      <Text>F. M</Text>
+      <Forenames>F. M.</Forenames>
       <PageNumber>5704</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1252,8 +1252,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Reilly, C. H</Text>
+      <Key>O'Reilly</Key>
+      <Forenames>C. H</Forenames>
       <PageNumber>5837</PageNumber>
     </MainItem>
   </ItemGroup>

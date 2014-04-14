@@ -43,8 +43,8 @@
     <MainItem>
       <Key>Goutiere</Key>
       <Title>2nd Lt.</Title>
-      <Forenames>C. F. C.</Forenames>
-      <Text>de M. (rel. cammn.)</Text>
+      <Forenames>C. F. C. de M</Forenames>
+      <Text>. (rel. cammn.)</Text>
       <PageNumber>7870</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -125,7 +125,7 @@
       <PageNumber>7670</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Not of 19 Nov., 1919, cancelled.</Text>
+      <Text>Not of 19 Nov., 1919, cancelled</Text>
       <PageNumber>7670</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -188,7 +188,9 @@
     <MainItem>
       <Key>Hewer</Key>
       <Forenames>J. A.</Forenames>
-      <Text>, M.C. (Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7461</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -367,7 +369,9 @@
     <MainItem>
       <Key>Lloyd</Key>
       <Forenames>O.</Forenames>
-      <Text>, M.C. (temp. Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8633</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -399,7 +403,9 @@
     <MainItem>
       <Key>Macmillan</Key>
       <Forenames>E. J. A.</Forenames>
-      <Text>(Capt.) McNamara, W. E., M.C. (temp. Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8633</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -502,7 +508,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Matthews</Key>
-      <Text>. E. (Lt.)</Text>
+      <Forenames>E.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>8184</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -675,14 +682,18 @@
     <MainItem>
       <Key>Oddie</Key>
       <Forenames>W. P.</Forenames>
-      <Text>, M.C. (Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8631</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hara, Lt. (actg. Ca.pt.) C. H. (rel. actg. rank on ceasing to be empld. as Comdt.)</Text>
+      <Key>O'Hara</Key>
+      <Title>Lt. (actg. Ca.pt.)</Title>
+      <Forenames>C. H.</Forenames>
+      <Text>(rel. actg. rank on ceasing to be empld. as Comdt.)</Text>
       <PageNumber>8185</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -696,15 +707,17 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Shea, F. J. (temp. Lt.)</Text>
+      <Key>O'Shea</Key>
+      <Forenames>F. J.</Forenames>
+      <Text>(temp. Lt.)</Text>
       <PageNumber>8633</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Toole, N. D. G. (Capt.)</Text>
+      <Key>O'Toole</Key>
+      <Forenames>N. D. G.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>7461</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -896,7 +909,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rowcliffe</Key>
-      <Text>. ;N. IH. B. (actg. Capt,. comdg. Lab. Co.)</Text>
+      <Text>;N. IH. B. (actg. Capt,. comdg. Lab. Co.)</Text>
       <PageNumber>7870</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -905,14 +918,17 @@
       <Key>Ruegg</Key>
       <Title>temp. Capt.</Title>
       <Forenames>A. J.</Forenames>
-      <Text>, M.B.E. (rel. temp, commn.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>9148</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. John, S. L. (temp. ,Lt.)</Text>
+      <Key>St. John</Key>
+      <Forenames>S. L.</Forenames>
+      <Text>(temp. ,Lt.)</Text>
       <PageNumber>7461</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1053,15 +1069,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Smallwood</Key>
-      <Forenames>H. St</Forenames>
-      <Text>. C. (Capt,)</Text>
+      <Forenames>H. St. C</Forenames>
+      <Text>. (Capt,)</Text>
       <PageNumber>9301</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Smith</Key>
-      <Text>. F. A. R, (tempt. Lt.)</Text>
+      <Forenames>F. A. R</Forenames>
+      <Text>, (tempt. Lt.)</Text>
       <PageNumber>8633</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1071,7 +1088,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>H. E.</Forenames>
-      <Text>, M.C. (temp. Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8632</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1095,7 +1114,7 @@
       <PageNumber>7869</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Rel, actg. rank... '.</Text>
+      <Text>Rel, actg. rank... '</Text>
       <PageNumber>8411</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1420,7 +1439,9 @@
     <MainItem>
       <Key>Wills</Key>
       <Forenames>T. L.</Forenames>
-      <Text>, M.C. (temp. Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9303</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1454,7 +1475,9 @@
     <MainItem>
       <Key>Carr-White</Key>
       <Forenames>P.</Forenames>
-      <Text>, M.B., K.H.P</Text>
+      <Text>
+        <Honour>K.H.P</Honour>
+      </Text>
       <PageNumber>7461</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1463,7 +1486,9 @@
     <MainItem>
       <Key>Hendley</Key>
       <Forenames>H.</Forenames>
-      <Text>, M.D., K.H.S</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>7130</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1480,7 +1505,9 @@
     <MainItem>
       <Key>Wimberley</Key>
       <Forenames>C. N. C</Forenames>
-      <Text>, C.M.G., M.B</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>9304</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1489,7 +1516,10 @@
     <MainItem>
       <Key>Kennedy</Key>
       <Forenames>R. S.</Forenames>
-      <Text>, D.S.O., M.C., M.B. (fit.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8062</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1504,7 +1534,9 @@
     <MainItem>
       <Key>Suresb</Key>
       <Forenames>Prasad Sarbadhikari</Forenames>
-      <Text>, Dr., C.T.E., B.A., M.D. (Hon.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>8412</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1521,7 +1553,9 @@
     <MainItem>
       <Key>Brieriy</Key>
       <Forenames>W. E.</Forenames>
-      <Text>, M.B., F.R.C.S</Text>
+      <Text>
+        <Honour>F.R.C.S</Honour>
+      </Text>
       <PageNumber>9147</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1637,7 +1671,9 @@
     <MainItem>
       <Key>Hughes</Key>
       <Forenames>T. A. M.B.</Forenames>
-      <Text>(Bt,) I</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>8052</PageNumber>
     </MainItem>
   </ItemGroup>

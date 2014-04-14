@@ -3,8 +3,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Graves</Key>
-      <Forenames>The Revd</Forenames>
-      <Text>. Robert Vernon Ottley, J.P., Officer, Order of the British Empire</Text>
+      <Title>The Revd.</Title>
+      <Forenames>Robert Vernon Ottley</Forenames>
+      <Text>, J.P., Officer, Order of the British Empire</Text>
       <PageNumber>3788</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -83,7 +84,9 @@
       <Key>Grayson</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Henry Mulleneux</Forenames>
-      <Text>, M.P., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>3705</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -169,7 +172,10 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>Luke Lot</Forenames>
-      <Text>, M.C., Companion, D.S.O</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>1375</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -179,7 +185,9 @@
         <KeyDitto>___ ___ —— ___ ___</KeyDitto>
       </Key>
       <Forenames>Margaret Bennett</Forenames>
-      <Text>, Mrs., M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3788</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -306,7 +314,10 @@
     <MainItem>
       <Key>Greer</Key>
       <Forenames>Francis Nugent</Forenames>
-      <Text>, C.B., K.C., Knighted</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
       <PageNumber>3432</PageNumber>
     </MainItem>
@@ -315,7 +326,9 @@
     <MainItem>
       <Key>Gregory</Key>
       <Forenames>Alfred John</Forenames>
-      <Text>, M.D., B.S., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3788</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -364,7 +377,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>John</Forenames>
-      <Text>, M.B.E., Officer, Order of tho British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3788</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -374,7 +389,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>John Duncan</Forenames>
-      <Text>, Companion, St. Michael and St. George</Text>
+      <Text>
+        <Honour>Companion, St. Michael and St. George</Honour>
+      </Text>
       <PageNumber>5</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -503,7 +520,10 @@
     <MainItem>
       <Key>Griffith</Key>
       <Forenames>Walter Spencer Anderson</Forenames>
-      <Text>, M.D., F.R.C.S., F.R.C.P., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>3766</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -523,7 +543,9 @@
       <Key>Griffith-Boscawen</Key>
       <Title>Lt.-Col. Sir</Title>
       <Forenames>Arthur Sackville Trevor</Forenames>
-      <Text>, J.P., M.A., M.P., Member of H.M. Privy Council</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>1</PageNumber>
       <PageNumber>969</PageNumber>
     </MainItem>
@@ -693,7 +715,11 @@
       <Key>Grogan</Key>
       <Title>Col. Sir</Title>
       <Forenames>Edward Ion Berea-</Forenames>
-      <Text>ford, Bt., D.S.O., Companion, St. Michael and St. George</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, St. Michael and St. George</Honour>
+      </Text>
       <PageNumber>663</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -709,7 +735,12 @@
     <MainItem>
       <Key>Groavenor</Key>
       <Forenames>Caroline Susuan Theo-</Forenames>
-      <Text>dora, the Hon. Mrs. Norman, Commander, Order of the British Empire .. «. Grove, Maj. and*Bt. Lt.-Col. (T./Lt.Col.) Thomas Thackeray, C.M.G., D.S.O., Bar to D.S.O</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>1377</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -717,7 +748,9 @@
     <MainItem>
       <Key>Groves</Key>
       <Forenames>Charles Nixon</Forenames>
-      <Text>, M.D., B.Ch., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3766</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -782,7 +815,9 @@
     <MainItem>
       <Key>Grylls</Key>
       <Forenames>Charles John Tench Bed-</Forenames>
-      <Text>ford, O.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3766</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -799,7 +834,11 @@
       <Key>Guest</Key>
       <Title>Capt. the Hon.</Title>
       <Forenames>Frederick Edward</Forenames>
-      <Text>, C.B.E., D.S.O., M.P., Member of H.M. Privy Council,</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>1</PageNumber>
       <PageNumber>969</PageNumber>
     </MainItem>
@@ -817,7 +856,9 @@
       <Key>Guise-Moorea</Key>
       <Title>Mrs.</Title>
       <Forenames>Katherine Louise</Forenames>
-      <Text>, A.R.R.C., Royal Red Cross, 1st CI</Text>
+      <Text>
+        <Honour>A.R.R.C.</Honour>
+      </Text>
       <PageNumber>811</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -836,7 +877,10 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>George</Forenames>
-      <Text>, M.D., F.R.C.S., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>3834</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -898,7 +942,10 @@
       </Key>
       <Title>Col. (T./Maj.-Gen.)</Title>
       <Forenames>Wil-</Forenames>
-      <Text>loughby Garnons, C.B., C.M.G., Knight Commander, St. Michael and St. George</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>548</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -930,7 +977,9 @@
     <MainItem>
       <Key>Haddo</Key>
       <Forenames>George</Forenames>
-      <Text>, Earl of, D.L., J.P., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.L.</Honour>
+      </Text>
       <PageNumber>3788</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -938,7 +987,9 @@
     <MainItem>
       <Key>Hadfield</Key>
       <Forenames>Charles Frederick</Forenames>
-      <Text>, M.D., M.R.C.S., L.R.C.P., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>1238</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -975,7 +1026,9 @@
       <Key>Hadow</Key>
       <Title>Capt.</Title>
       <Forenames>Robert Henry</Forenames>
-      <Text>, M.C., Third Secretary in H.M. Diplomatic Service</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>327</PageNumber>
     </MainItem>
   </ItemGroup>

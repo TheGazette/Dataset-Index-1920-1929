@@ -43,7 +43,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Joynson-Hicks</Key>
-      <Text>the Rt. Hon. Sir William, Bt., M.P., Minister of Health</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>6817</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -58,7 +61,9 @@
   <ItemGroup>
     <MainItem>
       <Key>King</Key>
-      <Text>the Rt. Hon. William Lyon MacKenzie, C.M.G., Member of -H.M. Privy Council</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>6817</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -109,7 +114,9 @@
       <Key>Lawrence</Key>
       <Title>the Hon.</Title>
       <Forenames>Alfred Clive</Forenames>
-      <Text>, C.B.E., H.M. Procurator in all causes and matters Matrimonial, Maritime, Foreign, Civil and Ecclesiastical</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>8325</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -126,7 +133,9 @@
       <Key>Leetham</Key>
       <Title>Lt.-Col. Sir</Title>
       <Forenames>Arthur</Forenames>
-      <Text>, C.M.G., Knight of Grace,. Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>8187</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -167,7 +176,8 @@
   <ItemGroup>
     <MainItem>
       <Key>McConnell</Key>
-      <Text>Marie Josephine, Miss, Lady of Grace, Order . of St. John of Jerusalem</Text>
+      <Forenames>Marie Josephine</Forenames>
+      <Text>, Miss, Lady of Grace, Order . of St. John of Jerusalem</Text>
       <PageNumber>8187</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -183,7 +193,9 @@
     <MainItem>
       <Key>Mackenzie</Key>
       <Forenames>Hector William Gavin</Forenames>
-      <Text>, M.A., M.D., F.R.C.P., knighted</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>7113</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -207,7 +219,9 @@
     <MainItem>
       <Key>MacLeod</Key>
       <Forenames>James Maclver</Forenames>
-      <Text>, C.M.G., H:M. ConsulGeneral at Tunis</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>8818</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -216,7 +230,10 @@
       <Key>Magniac</Key>
       <Title>Brig.-Gen.</Title>
       <Forenames>Charles Lane</Forenames>
-      <Text>, C.M.G., C.B.E., to be dubbed in due course</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>7300</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -230,25 +247,459 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>Marks</Key>
+      <Forenames>Henry</Forenames>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
+      <PageNumber>8445</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Miles</Key>
+      <Title>Major</Title>
+      <Forenames>Arthur Tremayne</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
+      <PageNumber>7060</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Millar</Key>
+      <Forenames>Frederick Robert Hoyer</Forenames>
+      <Text>, Third Secretary in H.M. Diplomatic Service</Text>
+      <PageNumber>7760</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Montague</Key>
+      <Forenames>Aubrey</Forenames>
+      <Text>, M.B., Member of the Executive Council of the Colony of Fiji</Text>
+      <PageNumber>8445</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Moore</Key>
+      <Forenames>Edward Cecil</Forenames>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
+      <PageNumber>7211</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Morley</Key>
+      <Forenames>Cecil Cornelius</Forenames>
+      <Text>, Sheriff of Cornwall</Text>
+      <PageNumber>8717</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Moropant</Key>
+      <Forenames>Vishwanath Joshi</Forenames>
+      <Text>, knighted</Text>
+      <PageNumber>7300</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Mount</Key>
+      <Forenames>Edgcumbe</Forenames>
+      <Text>, the Rt. Hon. the Earl of, Knight of Grace, Order of St. John of Jerusalem</Text>
+      <PageNumber>8187</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Murison</Key>
+      <Title>Sir</Title>
+      <Forenames>James William</Forenames>
+      <Text>, H.M. Counsel for the Straits Settlements</Text>
+      <PageNumber>7762</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Murray</Key>
+      <Forenames>James Robertson</Forenames>
+      <Text>, M^B.R., one of H.M. Consuls-General</Text>
+      <PageNumber>8060</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Narayan</Key>
+      <Forenames>Madhav Saniarth</Forenames>
+      <Text>, Member of the Royal Commission on the Superior Civil Services in India</Text>
+      <PageNumber>7300</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Osborne</Key>
+      <Forenames>Valentine Ronald</Forenames>
+      <Text>, ! Nominated Official Member, Legislative Council of Nigeria</Text>
+      <PageNumber>7548</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Palairet</Key>
+      <Forenames>Charles Michael</Forenames>
+      <Text>
+        <Honour>Companion, St. Michael and St. George</Honour>
+      </Text>
+      <PageNumber>9027</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Paske-Smith</Key>
+      <Forenames>Montague Bent-</Forenames>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
+      <PageNumber>9105</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Paul</Key>
+      <Forenames>George Graham</Forenames>
+      <Text>, Nominated Official Member, Legislative Council of Nigeria</Text>
+      <PageNumber>7548</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Pearse</Key>
+      <Forenames>Samuel Herbert</Forenames>
+      <Text>, Nominated Official Member, Legislative Council of Nigeria</Text>
+      <PageNumber>7548</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Pepple</Key>
+      <Forenames>Mark</Forenames>
+      <Text>, Nominated Official Member, Legislative Council of Nigeria</Text>
+      <PageNumber>7548</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Philip</Key>
+      <Title>Sir</Title>
+      <Forenames>Robert William</Forenames>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
+      <PageNumber>8817</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Pollock</Key>
+      <Text>
+        <Honour>K.B.E.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
+      <PageNumber>6963</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Chairman</Forenames>
-      <Text>of the Royal Commission on Historical Manuscripts ... jPrichard, Herbert William, H.M. Counsel for the ' Colony of Mauritius ... 'Pritchard, Albert Edward, J.P., knighted . Purshottamdas Thakurdas, C.I.E., M.B.E., knighted... Rawlins, Evelyn C h a r 1 e s Donaldson, Commercial Secretary, First Grade, at H.M. Legation at Prague Rees-Davies. Sir Colin, Kt., K.C., First Puisne Judge of Trinidad and Tobago ... Renton, Sir Alexander Wood, King's Counsel ... . ... Richards, Herbert Arthur, H.M. Consul-General at 8445 Chicago</Text>
+      <Text>of the Royal Commission on Historical Manuscripts</Text>
+      <PageNumber>8060</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>jPrichard</Key>
+      <Forenames>Herbert William</Forenames>
+      <Text>, H.M. Counsel for the ' Colony of Mauritius</Text>
+      <PageNumber>7854</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Rawlins</Key>
+      <Forenames>Evelyn C</Forenames>
+      <Text>h a r 1 e s Donaldson, Commercial Secretary, First Grade, at H.M. Legation at Prague</Text>
+      <PageNumber>8817</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Rees-Davies</Key>
+      <Title>Sir</Title>
+      <Forenames>Colin</Forenames>
+      <Text>, Kt., K.C., First Puisne Judge of Trinidad and Tobago</Text>
+      <PageNumber>8638</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Renton</Key>
+      <Title>Sir</Title>
+      <Forenames>Alexander Wood</Forenames>
+      <Text>, King's Counsel</Text>
+      <PageNumber>6964</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Richards</Key>
+      <Forenames>Herbert Arthur</Forenames>
+      <Text>, H.M. Consul-General at Chicago</Text>
       <PageNumber>7210</PageNumber>
     </MainItem>
-    <SubItem>
-      <Text>Sargant, the Hon. Sir Charles Henry, Lord Justice of Appeal</Text>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Riley</Key>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
+      <PageNumber>8187</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Ritchie</Key>
+      <Forenames>Adam B</Forenames>
+      <Text>e a 11 i e, knighted ..:</Text>
+      <PageNumber>7113</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Robinson</Key>
+      <Forenames>Henry George</Forenames>
+      <Text>, Nominated Member of the Council of Government of the Colony of Mauritius</Text>
+      <PageNumber>8536</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Title>Commander</Title>
+      <Forenames>Samuel</Forenames>
+      <Text>
+        <Honour>R.D.</Honour>
+      </Text>
+      <PageNumber>9105</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Rolleston</Key>
+      <Title>Sir</Title>
+      <Forenames>Humphry Davy</Forenames>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
+      <PageNumber>7209</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Rowley</Key>
+      <Forenames>Arthur Langford Sholto</Forenames>
+      <Text>, H.M. ConsulGeneral at Antwerp '</Text>
+      <PageNumber>8818</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___</KeyDitto>
+      </Key>
+      <Forenames>H.M. Consul-General</Forenames>
+      <Text>for Luxemburg</Text>
+      <PageNumber>8818</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Samuel</Key>
+      <Forenames>Chukuma Obianwu</Forenames>
+      <Text>, Nominated Official Member, Legislative Council of Nigeria</Text>
+      <PageNumber>7548</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Sarell</Key>
+      <Forenames>Philip Charles</Forenames>
+      <Text>, H.M. Consul-General at Barcelona ... ... '</Text>
+      <PageNumber>8818</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Sargant</Key>
+      <Title>the Hon. Sir</Title>
+      <Forenames>Charles Henry</Forenames>
+      <Text>, Lord Justice of Appeal</Text>
       <PageNumber>6963</PageNumber>
-    </SubItem>
-    <SubItem>
-      <Text>Shaw, Hon. Alexander, Steward and Bailiff of the Three Hundreds of Chiltern</Text>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>—— ___ ___</KeyDitto>
+      </Key>
+      <Forenames>Member</Forenames>
+      <Text>of H.M. Privy Council</Text>
+      <PageNumber>8299</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Sathappa</Key>
+      <Forenames>Chettiar Ramanathan Chettiar Muthiah Chettiar Annamlai Chettiar Avargal</Forenames>
+      <Text>, Diwan Bahadur, knighted</Text>
+      <PageNumber>7300</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Sawyerr</Key>
+      <Forenames>Alfred James Shorun-</Forenames>
+      <Text>keh, see Shorunkeh-Sawyerr, Alfred James. Semper, Dudley Henry, Official Member of the Executive Council of Saint Christopher and Nevis</Text>
+      <PageNumber>7459</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Shaw</Key>
+      <Title>Hon.</Title>
+      <Forenames>Alexander</Forenames>
+      <Text>, Steward and Bailiff of the Three Hundreds of Chiltern</Text>
       <PageNumber>7759</PageNumber>
-    </SubItem>
-    <SubItem>
-      <Text>Smart, Walter Alexander, H.M. , Consul at Aleppo</Text>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Shorunkeh</Key>
+      <Text>Sawyerr, Alfred James, Unofficial Member of the Legislative Council of the Colony of Sierra Leone</Text>
+      <PageNumber>9027</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Skinner</Key>
+      <Title>Lt.-Col.</Title>
+      <Forenames>William Booth</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
+      <PageNumber>8187</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Smart</Key>
+      <Forenames>Walter Alexander</Forenames>
+      <Text>, H.M. , Consul at Aleppo</Text>
       <PageNumber>8060</PageNumber>
-    </SubItem>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Smith</Key>
+      <Forenames>George</Forenames>
+      <Text>, Stipendiary Magistrate, Glasgow</Text>
+      <PageNumber>9027</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___ .</KeyDitto>
+      </Key>
+      <Forenames>Montague Bentley Talbot Paske</Forenames>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
+      <PageNumber>7454</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Stonehewer-Bird</Key>
+      <Forenames>Francis Hugh William</Forenames>
+      <Text>, H.M. Vice-Consul at Nogador »</Text>
+      <PageNumber>7760</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Strong</Key>
+      <Title>the Rev.</Title>
+      <Forenames>Eustace Mor-</Forenames>
+      <Text>daunt, M.A., Office, Order of the British Empire</Text>
+      <PageNumber>9105</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Studd</Key>
+      <Forenames>John Edward Kynaston</Forenames>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
+      <PageNumber>7113</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Summerhayes</Key>
+      <Forenames>Christopher Henry</Forenames>
+      <Text>, H.M. Vice-Consul at Alexandria</Text>
+      <PageNumber>7760</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Talbot</Key>
+      <Forenames>George John</Forenames>
+      <Text>, K.C., Justice of H.M. High Court</Text>
+      <PageNumber>7852</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Talland</Key>
+      <Forenames>Frank Edward</Forenames>
+      <Text>, Unofficial Member of the Legislative Council of the Gold Coast Colony</Text>
+      <PageNumber>7459</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Tomlin</Key>
+      <Forenames>Thomas James Ches-</Forenames>
+      <Text>shyre, K.C., Justice of H.M. High Court</Text>
+      <PageNumber>6993</PageNumber>
+    </MainItem>
   </ItemGroup>
 </Index>
 

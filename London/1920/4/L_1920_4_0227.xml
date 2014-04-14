@@ -37,7 +37,9 @@
     <MainItem>
       <Key>Nickson</Key>
       <Forenames>LtG. B.</Forenames>
-      <Text>, M.C. (rel. commn. and retains rank of Lt.) ... ... ..:</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>12812</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -57,7 +59,9 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>G.</Forenames>
-      <Text>, O.B.E. (rel. aotg. rank of Lt.-Col.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>10054</PageNumber>
     </MainItem>
     <SubItem>
@@ -72,7 +76,9 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>R. R.</Forenames>
-      <Text>, M.C. (red. commn. on completion of service and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10924</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -187,7 +193,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>G</Forenames>
-      <Text>7 W.,M.C. (rel. actg. rank&gt;f Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9781</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -209,7 +217,10 @@
       </Key>
       <Title>Lt.-Col. and Bt.</Title>
       <Forenames>Col</Forenames>
-      <Text>: (temp. Brig.-Gen.) M: R, W.. C.M.G., CLE., D.S.O. (rel. temp, rank of Brig.Gen. and to he temp. Col. Comdt. whilst holding present appt.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>12695</PageNumber>
     </MainItem>
     <SubItem>
@@ -313,7 +324,9 @@
       <Key>Niven</Key>
       <Title>Lt.</Title>
       <Forenames>C. R.</Forenames>
-      <Text>, M.C. (rel. commn. and retains rank of Lit.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>12281</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -453,7 +466,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>F.</Forenames>
-      <Text>, D.C.M. (placed on h.p. list)</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>10062</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -485,7 +500,9 @@
       <Key>Noble</Key>
       <Title>temp. Copt.</Title>
       <Forenames>A.</Forenames>
-      <Text>. M.C. (rel. oommri. on completion of service and retains rank of Capt.)-</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>11566</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -496,7 +513,9 @@
       </Key>
       <Title>temp. Capt.</Title>
       <Forenames>E. R.</Forenames>
-      <Text>, M.C. (rel. commn. on completion of service and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10177</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -548,7 +567,9 @@
       <Key>Noble</Key>
       <Title>Capt.</Title>
       <Forenames>R.</Forenames>
-      <Text>, O.B.E. (ceases to be empld. with R. Corps of Sigs.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>12026</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -594,7 +615,9 @@
       <Key>Nokes</Key>
       <Title>Lt.</Title>
       <Forenames>M. C.</Forenames>
-      <Text>M.C. (rel. commn. and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10396</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -621,7 +644,9 @@
       <Key>Noott</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>C. C.</Forenames>
-      <Text>, .C.M.G , D.S.O. (placed on h.p. list on completion of 4 years' service as, Rieglal. Lt.-Col., and retains present appt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>12800</PageNumber>
     </MainItem>
     <SubItem>
@@ -668,8 +693,11 @@
     <MainItem>
       <Key>Norie</Key>
       <Title>Maj.-Gen.</Title>
-      <Forenames>C. E.</Forenames>
-      <Text>de M., C.B., C-M.G., D.S.O. (date of prpmn.)</Text>
+      <Forenames>C. E. de M</Forenames>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>10053</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -678,7 +706,9 @@
       <Key>Noris-Miller</Key>
       <Title>temp. Capt.</Title>
       <Forenames>S.</Forenames>
-      <Text>, M.C. (rel. commn. on completion of service and retains rank of Capt!)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10055</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -688,7 +718,12 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Title>Lt.-Col.</Title>
-      <Text>and Bt, Col. (temp. Brig.-Gen.) C. L.. D.S.O., M.V.O.. A.D.C. (Col.) _</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.V.O.</Honour>
+        <Honour>A.D.C.</Honour>
+      </Text>
       <PageNumber>9877</PageNumber>
     </MainItem>
     <SubItem>
@@ -729,7 +764,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>E. C.</Forenames>
-      <Text>M.M. (placed on . h.p. list) ... _ :</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>12382</PageNumber>
     </MainItem>
     <SubItem>
@@ -744,7 +781,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>G. S.</Forenames>
-      <Text>, M.C. (retires, receiving a gratuity)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>11068</PageNumber>
     </MainItem>
   </ItemGroup>

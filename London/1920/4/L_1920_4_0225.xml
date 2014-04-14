@@ -4,7 +4,9 @@
     <MainItem>
       <Key>Nasir</Key>
       <Forenames>Khan</Forenames>
-      <Text>, Sardar Bahadur, Subadar Maj., I.O.M. (Hon. Capt.)</Text>
+      <Text>
+        <Honour>O.M.</Honour>
+      </Text>
       <PageNumber>11210</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -13,7 +15,9 @@
       <Key>Nason</Key>
       <Title>temp.</Title>
       <Forenames>Capt</Forenames>
-      <Text>: W., M.C. (rel. commh. on completion of service, and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10398</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -21,7 +25,9 @@
     <MainItem>
       <Key>Natha</Key>
       <Forenames>Singh</Forenames>
-      <Text>, Sardar Bahadur, Subadar Maj., I.O.M. (Hon. Capt.) ..:</Text>
+      <Text>
+        <Honour>O.M.</Honour>
+      </Text>
       <PageNumber>11210</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -37,7 +43,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Nation</Key>
-      <Text>.Lt. A. J., M.C. (rel. commn., and granted rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10823</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -118,7 +126,10 @@
       </Key>
       <Title>Capt. and Bt. Maj.</Title>
       <Forenames>R. F. B.</Forenames>
-      <Text>, D.S.O., M.C. (trd. to R. Corps of Sigs. from S. Staff. R.) -</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>11574</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -202,7 +213,9 @@
       <Key>Neale</Key>
       <Title>Lt.</Title>
       <Forenames>A. L.</Forenames>
-      <Text>, M.C. (resigns commn. oh' appt. to perm. commn. in R.A.F.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>11079</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -213,7 +226,9 @@
       </Key>
       <Title>temp. Capt.</Title>
       <Forenames>C. J.</Forenames>
-      <Text>, M.C. (rel. commn. on completion of service, and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>12694</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -302,7 +317,9 @@
       <Key>Needham</Key>
       <Title>Capt.</Title>
       <Forenames>D. A. F.</Forenames>
-      <Text>, M.C. (rel. actg.rank of Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10580</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -360,7 +377,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Neighbour</Key>
-      <Text>Capt. Philip M. (rel. commn., and retains rank of Capt.)</Text>
+      <Title>Capt.</Title>
+      <Forenames>Philip M.</Forenames>
+      <Text>(rel. commn., and retains rank of Capt.)</Text>
       <PageNumber>10734</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -378,7 +397,9 @@
       <Key>Neill</Key>
       <Title>Lt.</Title>
       <Forenames>E. M.</Forenames>
-      <Text>, M.C. (rel. commn., and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10054</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -387,7 +408,9 @@
       <Key>Neilson</Key>
       <Title>temp. Lt.</Title>
       <Forenames>G.</Forenames>
-      <Text>, M.C. (rel. commn. on completion of ser-</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>11581</PageNumber>
     </MainItem>
     <KeyDitto>___ ___</KeyDitto>
@@ -413,7 +436,9 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>J. R.</Forenames>
-      <Text>, D.C.M. (rel. commn. on completion of service, and granted rank</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>9962</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -527,7 +552,9 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>W. A. R.</Forenames>
-      <Text>, M.C. (rel. commn. on completion of service, and granted rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>12363</PageNumber>
     </MainItem>
     <SubItem>
@@ -540,7 +567,9 @@
       <Key>Neobard</Key>
       <Title>temp. Capt.</Title>
       <Forenames>H. J. C</Forenames>
-      <Text>, O.B.E. (rel. commn. on completion of service, and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>12565</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -548,8 +577,10 @@
     <MainItem>
       <Key>Nepean</Key>
       <Title>Lt.</Title>
-      <Forenames>E. C. Y. St</Forenames>
-      <Text>. V., M.C. (rel. commn., and granted rank of. Capt.)</Text>
+      <Forenames>E. C. Y. St. V</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10176</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -663,7 +694,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>M. R.</Forenames>
-      <Text>, M.C. (rel. commn. and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>12122</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -694,7 +727,9 @@
       <Key>Newbery</Key>
       <Title>temp. Lt.</Title>
       <Forenames>T. F.</Forenames>
-      <Text>, M.C. (rel. commn. on acc. of illhealth caused by wounds, and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10371</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -781,7 +816,9 @@
       <Key>Newcome</Key>
       <Title>Lt.-Col. (Bt. Col.) (temp. Col. Comdt.)</Title>
       <Forenames>H. W.</Forenames>
-      <Text>, C. M.G., D.S.O. (placed on h.p. list on completion of 4 years' service as Regtl. Lt.Col., and retains present appt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>12808</PageNumber>
     </MainItem>
     <SubItem>
@@ -803,7 +840,10 @@
       <Key>Newell</Key>
       <Title>temp. Lt.-Col.</Title>
       <Forenames>F. W. M.</Forenames>
-      <Text>, D. S.O., O.B.E. (rel. commn. on completion of service, and retains rank of Lt.-Col.j</Text>
+      <Text>
+        <Honour>D. S.O.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>9960</PageNumber>
     </MainItem>
   </ItemGroup>

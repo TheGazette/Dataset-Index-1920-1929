@@ -27,7 +27,9 @@
     <MainItem>
       <Key>Campbell</Key>
       <Forenames>John O.</Forenames>
-      <Text>D.S.C. (at own request)</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>8875</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -154,7 +156,9 @@
     <MainItem>
       <Key>Crabb</Key>
       <Forenames>William</Forenames>
-      <Text>CP., O.B.E., H.S.C I</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>8110</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -170,7 +174,9 @@
     <MainItem>
       <Key>Croxford</Key>
       <Forenames>Charles W.</Forenames>
-      <Text>, D.S.C. (at own request)</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>7371</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -203,6 +209,14 @@
       <Forenames>John D. R.</Forenames>
       <Text>(at own request)</Text>
       <PageNumber>7667</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Burgh</Key>
+      <Forenames>Ulric O.</Forenames>
+      <Text>(at own request)</Text>
+      <PageNumber>7129</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -384,7 +398,9 @@
       <Key>Gordon</Key>
       <Title>Comdr. Gnr.</Title>
       <Forenames>David R.</Forenames>
-      <Text>, M.V.O. (at own request) .„ S</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>034</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -447,7 +463,9 @@
         <KeyDitto>___</KeyDitto>
       </Key>
       <Forenames>Richard F.</Forenames>
-      <Text>, D.S.C. (at own</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>7788</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -774,7 +792,9 @@
     <MainItem>
       <Key>Murphy</Key>
       <Forenames>John</Forenames>
-      <Text>, D.S.C. (at own request) '</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>7788</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -789,7 +809,9 @@
     <MainItem>
       <Key>Napier</Key>
       <Forenames>Laurence E. S.</Forenames>
-      <Text>, D.S.O. (at own request)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7129</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -999,7 +1021,9 @@
     <MainItem>
       <Key>Seropian</Key>
       <Forenames>Charles D. O. D.</Forenames>
-      <Text>, O.B.E</Text>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>8034</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1016,7 +1040,9 @@
       <Key>Shannoo</Key>
       <Title>Cd. Gnr.</Title>
       <Forenames>Frank</Forenames>
-      <Text>|E., M.B.E</Text>
+      <Text>
+        <Honour>M.B.E</Honour>
+      </Text>
       <PageNumber>7535</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1160,8 +1186,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Townshend</Key>
-      <Forenames>Charles R.</Forenames>
-      <Text>de B. L. (at own request)</Text>
+      <Forenames>Charles R. de B</Forenames>
+      <Text>. L. (at own request)</Text>
       <PageNumber>8294</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1201,7 +1227,9 @@
     <MainItem>
       <Key>Wenn</Key>
       <Forenames>Frederick W.</Forenames>
-      <Text>, O.B.E. (at own request) Westall, W. E. N. Hawksley ... Wheeler, Geoffrey C. W. (at own request)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>8411</PageNumber>
     </MainItem>
   </ItemGroup>

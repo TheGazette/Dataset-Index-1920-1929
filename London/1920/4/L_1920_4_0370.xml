@@ -40,7 +40,9 @@
       <Key>Macdougall</Key>
       <Title>temp. Maj.</Title>
       <Forenames>I.</Forenames>
-      <Text>. O.B.E. (rel. commn. on completion of service, and retains rank of Maj.) . .-</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>10372</PageNumber>
     </MainItem>
     <SubItem>
@@ -118,7 +120,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Mentz</Key>
-      <Text>temp. Lt. F. (rel. commn. on completion of service, and retains rank of Lt.)</Text>
+      <Title>temp. Lt.</Title>
+      <Forenames>F.</Forenames>
+      <Text>(rel. commn. on completion of service, and retains rank of Lt.)</Text>
       <PageNumber>12556</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -127,7 +131,10 @@
       <Key>Miller</Key>
       <Title>Capt.</Title>
       <Forenames>W. D.</Forenames>
-      <Text>, O.B.E., M.D. (rel. temp, commn. on ceasing to be empld. with Union Imp. Serv. Contingents, and granted rank of Maj.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>10731</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -163,7 +170,9 @@
       <Key>Murray</Key>
       <Title>temp. Lt. (2nd Lt., W. Ind. Local Forces)</Title>
       <Forenames>R. M.</Forenames>
-      <Text>, M.B.E. (rel. temp, commn. on completion of service, and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>12378</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -209,7 +218,9 @@
       <Key>Nowitski</Key>
       <Title>temp. Lt.</Title>
       <Forenames>V.</Forenames>
-      <Text>, M.B.E. (ceases to be seed, for duty with War Office), corr. of date (Sub. Not.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>11899</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -226,7 +237,9 @@
       <Key>Overbeek</Key>
       <Title>temp. Lt.</Title>
       <Forenames>I.</Forenames>
-      <Text>de M., M.C. (rel. commn. on completion of service, and granted rank of Capt., corr. of name), Sub. Not</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10056</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -461,7 +474,9 @@
       <Key>Sumner</Key>
       <Title>temp. Lt.</Title>
       <Forenames>H. L.</Forenames>
-      <Text>, M.C. (rel. commn. on acc. of illhealth, and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9964</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -485,7 +500,9 @@
       <Key>Thomas</Key>
       <Title>temp. Maj.</Title>
       <Forenames>W. L.</Forenames>
-      <Text>, D.S.O., M:G (rel. commn. on completion of service,' and retains rank of Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>10842</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -494,7 +511,9 @@
       <Key>Thomson</Key>
       <Title>temp. Lt.</Title>
       <Forenames>J. P.</Forenames>
-      <Text>, O.B.E. (rel. temp, commn. on completion of service, and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>11074</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -515,7 +534,9 @@
       <Key>Tinner</Key>
       <Title>Hon. Maj. (actg. Hon. Lt.-Col.)</Title>
       <Forenames>S. J.</Forenames>
-      <Text>, O.B.E. (temp. Lt.-Col.), Sub. Not</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>11899</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -530,9 +551,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Heusden</Forenames>
-      <Text>, temp. Lt. J. (rel. commn. on ceasing to be empld. with Union Imperial Service Contingents, and retains rank of Lt., corr. of name), Sub. Not</Text>
+      <Key>Van Heusden</Key>
+      <Title>temp. Lt.</Title>
+      <Forenames>J.</Forenames>
+      <Text>(rel. commn. on ceasing to be empld. with Union Imperial Service Contingents, and retains rank of Lt., corr. of name), Sub. Not</Text>
       <PageNumber>9882</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -554,7 +576,9 @@
       <Key>Ward</Key>
       <Title>temp. Maj.</Title>
       <Forenames>C. P.</Forenames>
-      <Text>, D.S.O. (rel. commn. on ceasing to be empld., and retains rank of Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>10835</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -563,8 +587,8 @@
       <Key>
         <KeyDitto>—___ ___</KeyDitto>
       </Key>
-      <Title>temp. Lt. St.</Title>
-      <Forenames>G. W.</Forenames>
+      <Title>temp. Lt. St. G.</Title>
+      <Forenames>W.</Forenames>
       <Text>(rel. commn. on completion of service, and retains rank °f Lt.)</Text>
       <PageNumber>12577</PageNumber>
     </MainItem>

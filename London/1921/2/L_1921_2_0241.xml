@@ -68,7 +68,9 @@
     <MainItem>
       <Key>Robbins</Key>
       <Forenames>W. H.</Forenames>
-      <Text>M.B.E</Text>
+      <Text>
+        <Honour>M.B.E</Honour>
+      </Text>
       <PageNumber>4004</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -98,7 +100,9 @@
     <MainItem>
       <Key>Slater</Key>
       <Forenames>J.</Forenames>
-      <Text>, D.S.C</Text>
+      <Text>
+        <Honour>D.S.C</Honour>
+      </Text>
       <PageNumber>4825</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -294,7 +298,9 @@
     <MainItem>
       <Key>Woodwright</Key>
       <Forenames>C. S.</Forenames>
-      <Text>, C.B.E</Text>
+      <Text>
+        <Honour>C.B.E</Honour>
+      </Text>
       <PageNumber>3189</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -321,7 +327,9 @@
     <MainItem>
       <Key>Burns</Key>
       <Forenames>H.</Forenames>
-      <Text>, O.B.E., M.B</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4005</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -336,7 +344,9 @@
     <MainItem>
       <Key>Fletcher</Key>
       <Forenames>E. E.</Forenames>
-      <Text>, O.B.E., L.D.S. Malcolm, A. G., M.B</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4005</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -400,7 +410,9 @@
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Richardson</Forenames>
-      <Text>, A. V. J., O.B.E., Chappell; F. (comd. Engr.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4430</PageNumber>
     </MainItem>
     <SubItem>
@@ -449,7 +461,9 @@
       <Key>Beresford</Key>
       <Title>Wm.</Title>
       <Forenames>J.</Forenames>
-      <Text>(Commd. Engr.) 4430 McWhannell, Engr. Lieut.-Cdr. R., Birchall, J. (Engr. Lieut.-Cdr., R.D. (retd.)</Text>
+      <Text>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>3092</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -467,7 +481,10 @@
     <MainItem>
       <Key>Bright</Key>
       <Forenames>C. W.</Forenames>
-      <Text>(Pavr. Lt.-Comdr.) 3752 Masterton, W. W., R.D. (placed Bruce, Lt.-Csmdr. D. F. T., R.D. on Retd. List with rank of (placed -&gt;n Retired List with Engr. Lt.-Cdr.)</Text>
+      <Text>
+        <Honour>R.D.</Honour>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>3291</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -475,7 +492,9 @@
     <MainItem>
       <Key>Campbell</Key>
       <Forenames>W.</Forenames>
-      <Text>McR., R.D. (placed Merrett, Lt. F. J. (placed on Retd. on retirsd list with rank of List)</Text>
+      <Text>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>3542</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -79,8 +79,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Reilly, Lt. Eugene Francis (Lt., Reg. Army Res. of Off., Regtl. List, Glost. R., late Serv. Bn.)</Text>
+      <Key>O'Reilly</Key>
+      <Title>Lt.</Title>
+      <Forenames>Eugene Francis</Forenames>
+      <Text>(Lt., Reg. Army Res. of Off., Regtl. List, Glost. R., late Serv. Bn.)</Text>
       <PageNumber>2397</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -100,14 +102,18 @@
     <MainItem>
       <Key>Oriel</Key>
       <Title>temp. Capt.</Title>
-      <Text>,T. H. B., M.C. (rel. commn. on completion of service and granted rank of Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>916</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Riordan, temp. 2nd Lt. J. (rel. commn. on completion of service and retains rank of 2nd Lt.)</Text>
+      <Key>O'Riordan</Key>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>J.</Forenames>
+      <Text>(rel. commn. on completion of service and retains rank of 2nd Lt.)</Text>
       <PageNumber>1568</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -134,7 +140,9 @@
       <Key>Onnesher</Key>
       <Title>temp. Lt.</Title>
       <Forenames>A. H.</Forenames>
-      <Text>, M.C. (rel. commn. on completion of service and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>147</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -192,7 +200,9 @@
       <Key>Orr</Key>
       <Title>temp. Lt.</Title>
       <Forenames>D. C</Forenames>
-      <Text>, M.C. (rel. commn. on completion of service and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>341</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -234,7 +244,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>Thomas</Forenames>
-      <Text>, M.C. (Capt., Reg. Army Res. of Off., Regtl. List, Camerons, late Serv. Bn.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1052</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -243,7 +255,9 @@
       <Key>Orr-Ewing</Key>
       <Title>Capt.</Title>
       <Forenames>M. R.</Forenames>
-      <Text>, M.C. !(secd. for service with T.A.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1582</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -254,7 +268,10 @@
       </Key>
       <Title>Lt.-Col. (Hon. Brig.-Gen.) (Maj. and Bt. Lt.-Col., ret. pay) Sir</Title>
       <Forenames>N. A.</Forenames>
-      <Text>,.Bt., D.S.O. (Col., Reg. Army Res. of Off., Gen. List, from S. Gds., and retains hon. rank of Brig.-Gen.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1797</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -283,11 +300,16 @@
       <Key>Orreh</Key>
       <Title>temp.</Title>
       <Forenames>I.</Forenames>
-      <Text>O.M., 3rd CI., and Lt., R. N. (rel. actg. gradg. of I.O.M., 1st CI., and rank of Maj.)</Text>
+      <Text>
+        <Honour>O.M.</Honour>
+        <Honour>O.M.</Honour>
+      </Text>
       <PageNumber>2209</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Rel. commn. on completion of service and granted grade and rank of I.O.M., 1st CL, and Maj</Text>
+      <Text>
+        <Honour>O.M.</Honour>
+      </Text>
       <PageNumber>2701</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -353,7 +375,9 @@
       </Key>
       <Title>temp. 2nd Lt.</Title>
       <Forenames>H.</Forenames>
-      <Text>, M.M. (rel. commn. on completion of service and retains rank of 2nd Lt.)</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>929</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -375,7 +399,9 @@
       </Key>
       <Title>temp.</Title>
       <Forenames>I.</Forenames>
-      <Text>O.M., 3rd CI., &amp; Lt. H. H. (rel. commn. on completion of service and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>O.M.</Honour>
+      </Text>
       <PageNumber>1485</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -457,7 +483,10 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Title>temp.</Title>
-      <Text>'Capt. B M., O.B.E., M.C. (rel. commn. on com, pletion of service and granted rank of Maj.), Sub. Not</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>256</PageNumber>
     </MainItem>
   </ItemGroup>

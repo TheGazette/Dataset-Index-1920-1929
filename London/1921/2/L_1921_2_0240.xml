@@ -49,7 +49,9 @@
     <MainItem>
       <Key>Ivermee</Key>
       <Forenames>R.</Forenames>
-      <Text>, M.B.E</Text>
+      <Text>
+        <Honour>M.B.E</Honour>
+      </Text>
       <PageNumber>3752</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -63,7 +65,9 @@
   <ItemGroup>
     <MainItem>
       <Key>MacArthur</Key>
-      <Text>0. G... D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>2798</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -185,7 +189,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Graham</Key>
-      <Text>T</Text>
+      <Forenames>T .</Forenames>
       <PageNumber>4636</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -373,7 +377,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Boldero</Key>
-      <Text>H. S. S</Text>
+      <Forenames>H. S. S</Forenames>
       <PageNumber>3542</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -387,7 +391,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bridges</Key>
-      <Text>W. M</Text>
+      <Forenames>W. M</Forenames>
       <PageNumber>4099</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -511,7 +515,9 @@
     <MainItem>
       <Key>Steel</Key>
       <Forenames>J.</Forenames>
-      <Text>, D.S.C. Williams, A. R. T. (at own request)</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>2572</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -865,7 +871,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Caruano</Key>
-      <Text>P. B. A</Text>
+      <Forenames>P. B. A.</Forenames>
       <PageNumber>4005</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -879,7 +885,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Child</Key>
-      <Text>M. A. G</Text>
+      <Forenames>M. A. G.</Forenames>
       <PageNumber>4005</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1144,8 +1150,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Marescaux</Key>
-      <Forenames>G. D. St</Forenames>
-      <Text>. Q</Text>
+      <Forenames>G. D. St. Q</Forenames>
       <PageNumber>4004</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1298,8 +1303,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Searle</Key>
-      <Forenames>M. W. St</Forenames>
-      <Text>. L</Text>
+      <Forenames>M. W. St. L</Forenames>
       <PageNumber>4005</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1392,7 +1396,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Trevelyan</Key>
-      <Text>R. de T</Text>
+      <Forenames>R. de T</Forenames>
       <PageNumber>4005</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1427,7 +1431,8 @@
   <ItemGroup>
     <MainItem>
       <Key>West</Key>
-      <Text>A: G</Text>
+      <Forenames>A</Forenames>
+      <Text>: G</Text>
       <PageNumber>3852</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1455,7 +1460,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Whitney-Smith</Key>
-      <Text>G. K</Text>
+      <Forenames>G. K.</Forenames>
       <PageNumber>3852</PageNumber>
     </MainItem>
   </ItemGroup>

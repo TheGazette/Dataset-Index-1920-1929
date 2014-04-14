@@ -219,7 +219,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Laing</Key>
-      <Text>M. B</Text>
+      <Forenames>M. B</Forenames>
       <PageNumber>6752</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -283,24 +283,22 @@
   <ItemGroup>
     <MainItem>
       <Key>Marescaux</Key>
-      <Forenames>G. D. St</Forenames>
-      <Text>. Q</Text>
+      <Forenames>G. D. St. Q</Forenames>
       <PageNumber>6752</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Micklethwait</Key>
-      <Title>St.</Title>
-      <Forenames>J. A.</Forenames>
+      <Title>St. J.</Title>
+      <Forenames>A.</Forenames>
       <PageNumber>6753</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Millington</Key>
-      <Forenames>R. C. St</Forenames>
-      <Text>. V</Text>
+      <Forenames>R. C. St. V</Forenames>
       <PageNumber>6753</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -802,8 +800,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Goodwin</Key>
-      <Forenames>E. St</Forenames>
-      <Text>. G. S. :</Text>
+      <Forenames>E. St. G</Forenames>
+      <Text>. S. :</Text>
       <PageNumber>8189</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -955,7 +953,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rotter</Key>
-      <Text>C J. E</Text>
+      <Forenames>C</Forenames>
+      <Text>J. E</Text>
       <PageNumber>7946</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -997,9 +996,10 @@
       <Forenames>J. A. B .</Forenames>
       <PageNumber>6661</PageNumber>
     </MainItem>
-    <SubSubSectionTitle>Betired List</SubSubSectionTitle>
+    <SubSubSectionTitle>
+      <Text>Betired List</Text>
+    </SubSubSectionTitle>
     <SubItem>
-      <Text>Betired List.</Text>
       <PageNumber>8446</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1028,7 +1028,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Doe</Key>
-      <Text>D. C</Text>
+      <Forenames>D. C.</Forenames>
       <PageNumber>7114</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1131,8 +1131,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Michell</Key>
-      <Forenames>W. P. St</Forenames>
-      <Text>. M ... :</Text>
+      <Forenames>W. P. St. M</Forenames>
+      <Text>... :</Text>
       <PageNumber>8638</PageNumber>
     </MainItem>
   </ItemGroup>

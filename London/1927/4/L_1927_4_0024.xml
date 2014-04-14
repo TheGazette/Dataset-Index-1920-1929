@@ -4,7 +4,9 @@
     <MainItem>
       <Key>Bell</Key>
       <Forenames>Harold Idris</Forenames>
-      <Text>, O.B.E., Deputy Keeper in the Department of Manuscripts at the British Museum</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>7537</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -12,7 +14,9 @@
     <MainItem>
       <Key>Bennett</Key>
       <Title>Captain</Title>
-      <Text>AVilliam Harvey, M.D., M.R.C.S., transferred to grade of Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>6808</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -20,7 +24,9 @@
     <MainItem>
       <Key>Bentall</Key>
       <Forenames>William Charles</Forenames>
-      <Text>, O.B.E., F.R.C.S.Ed., transferred to grade of Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>6695</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -53,7 +59,10 @@
       <Key>Birch</Key>
       <Title>Gen. Sir</Title>
       <Forenames>James Frederick Noel</Forenames>
-      <Text>, K.C.B., K.C.M.G., Knight Grand Cross, Order of the British Empire</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>K.C.M.G.</Honour>
+      </Text>
       <PageNumber>7897</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -61,7 +70,9 @@
     <MainItem>
       <Key>Blomfield</Key>
       <Forenames>George Wills</Forenames>
-      <Text>, M.D., transferred to grade of Officer, Order of St. John j of Jerusalem</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>6620</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -103,33 +114,164 @@
         <KeyDitto>___</KeyDitto>
       </Key>
       <Forenames>John William</Forenames>
-      <Text>, Official Receiver in Bankruptcy</Text>
-      <PageNumber>8369</PageNumber>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
+      <PageNumber>6620</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Carver</Key>
-      <Forenames>Gilbert Squarey</Forenames>
-      <Text>, Unofficial Member of the Legislative Council of the Straits Settlements ... Cass, Edward Eden, M.B., transferred to grade of Officer, Order of St. John of Jerusalem ... ... ... Cattell, Lt.-Col. George Trow, T.D., transferred to grade of Officer, Order of St. John of Jerusalem ... Challis, Colonel Harry Thornton, M.D., V.D., transferred to grade of Officer, 6620 Order of St. John of Jerusalem (J</Text>
+      <Key>Challis</Key>
+      <Title>Colonel</Title>
+      <Forenames>Harry Thorn-</Forenames>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>095</PageNumber>
     </MainItem>
-    <SubItem>
-      <Text>Chambers, Harry Crompton, transferred to grade of Officer, Order of St. John of Jerusalem</Text>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Chalmers</Key>
+      <Forenames>James</Forenames>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
+      <PageNumber>6696</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Chambers</Key>
+      <Forenames>Harry Crompton</Forenames>
+      <Text>, transferred to grade of Officer, Order of St. John of Jerusalem</Text>
       <PageNumber>6020</PageNumber>
-    </SubItem>
-    <SubItem>
-      <Text>Chill, Edwin Albert, O.B.E., M.D., transferred to grade of Officer, Order of St. John of Jerusalem</Text>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Cliarlesworth</Key>
+      <Title>Captain</Title>
+      <Forenames>Edwin</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>K.C.B.</Honour>
+        <Honour>C.V.O.</Honour>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
+      <PageNumber>07</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Cherry</Key>
+      <Forenames>Eliza Ellen</Forenames>
+      <Text>, Mrs., transferred to grade of Officer, Order of St. John of Jerusalem</Text>
+      <PageNumber>6020</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Chill</Key>
+      <Forenames>Edwin Albert</Forenames>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>6807</PageNumber>
-    </SubItem>
-    <SubItem>
-      <Text>Clegg, Richard, M.R.C.S., L.R.C.P., transferred to grade of Officer, Order of St. John of Jerusalem</Text>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Clarke</Key>
+      <Forenames>Ernest</Forenames>
+      <Text>
+        <Honour>C.V.O.</Honour>
+        <Honour>M.D.</Honour>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
+      <PageNumber>6808</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <KeyDitto>___ ___</KeyDitto>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Title>Major</Title>
+      <Forenames>Lionel Beale</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
+      <PageNumber>6807</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Clayton</Key>
+      <Title>Lt.-Col.</Title>
+      <Forenames>William Kitson</Forenames>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>6620</PageNumber>
-    </SubItem>
-    <SubItem>
-      <Text>Coffin, Major Richard James Maitland, F.R.C.P., trans^ ferred to grade of Officer, Order of St. John of Jerusalem</Text>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Clegg</Key>
+      <Forenames>Richard</Forenames>
+      <Text>, M.R.C.S., L.R.C.P., transferred to grade of Officer, Order of St. John of Jerusalem</Text>
       <PageNumber>6620</PageNumber>
-    </SubItem>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Cleveland</Key>
+      <Forenames>John Wheeler</Forenames>
+      <Text>, M.R.O.S., L.R.C.P., transferred to grade of Officer, Order of St. John of Jeru. salem</Text>
+      <PageNumber>6808</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Clode</Key>
+      <Forenames>Walter Baker</Forenames>
+      <Text>, K.C., permanent Member and President, Railway Rates Tribunal</Text>
+      <PageNumber>7663</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Cockill</Key>
+      <Forenames>Lt</Forenames>
+      <Text>
+        <Honour>T.D.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
+      <PageNumber>6620</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Coffin</Key>
+      <Title>Major</Title>
+      <Forenames>Richard James Maitland</Forenames>
+      <Text>, F.R.C.P., trans^ ferred to grade of Officer, Order of St. John of Jerusalem</Text>
+      <PageNumber>6620</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Colby</Key>
+      <Title>Major</Title>
+      <Forenames>Francis Thomp-</Forenames>
+      <Text>son, transferred to grade of Officer, Order of St. John of Jerusalem ..;</Text>
+      <PageNumber>6696</PageNumber>
+    </MainItem>
   </ItemGroup>
 </Index>
 

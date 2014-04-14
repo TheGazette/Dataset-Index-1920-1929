@@ -4,7 +4,9 @@
     <MainItem>
       <Key>Given</Key>
       <Forenames>John Cecil Mackmurdo</Forenames>
-      <Text>, M.D., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3832</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -87,7 +89,9 @@
       <Key>Glazebrook</Key>
       <Title>Sir</Title>
       <Forenames>Richard Tetley</Forenames>
-      <Text>, C.B., F.R.S., Knight Commander, Order of the Bath</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>11</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -266,7 +270,9 @@
     <MainItem>
       <Key>Gollin</Key>
       <Forenames>Alfred</Forenames>
-      <Text>, O.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3705</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -435,7 +441,9 @@
     <MainItem>
       <Key>Gordon</Key>
       <Forenames>Alexander Stewart</Forenames>
-      <Text>, M.D., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3787</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -465,7 +473,9 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>George Robert</Forenames>
-      <Text>, M.D., B.Ch., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3787</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -475,7 +485,9 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>T.</Forenames>
-      <Text>/Capt. (A./Maj.) Grahamc Masey, M.C., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1374</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -505,7 +517,9 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Robert</Forenames>
-      <Text>, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3787</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -522,8 +536,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gore</Key>
-      <Title>Col. St.</Title>
-      <Forenames>John Corbet Gore</Forenames>
+      <Title>Col.</Title>
+      <Forenames>St. John Corbet Gore</Forenames>
       <Text>, Clerk of the Cheque and Adjutant, H.M. Body Guard of the Honourable Corps of Gentlemen at Arms</Text>
       <PageNumber>2755</PageNumber>
     </MainItem>
@@ -532,7 +546,9 @@
     <MainItem>
       <Key>Gorvin</Key>
       <Forenames>John Henry</Forenames>
-      <Text>, M.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3705</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -540,7 +556,10 @@
     <MainItem>
       <Key>Goschen</Key>
       <Forenames>William Henry Neville</Forenames>
-      <Text>, O.B.E., D.L., Knight Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>D.L.</Honour>
+      </Text>
       <PageNumber>3750</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -565,7 +584,9 @@
     <MainItem>
       <Key>Gossage</Key>
       <Forenames>Arthur Milne</Forenames>
-      <Text>, M.D., F.R.C.P., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3705</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -598,7 +619,9 @@
     <MainItem>
       <Key>Gotts</Key>
       <Forenames>John Benjamin</Forenames>
-      <Text>, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3787</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -613,7 +636,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gotigh</Key>
-      <Text>. Arthur Edward, Officer, Order of the British Empire</Text>
+      <Forenames>Arthur Edward</Forenames>
+      <Text>, Officer, Order of the British Empire</Text>
       <PageNumber>3787</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -717,7 +741,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Oracle</Key>
-      <Text>. William McAuley, Member, Order of the British Empire</Text>
+      <Forenames>William</Forenames>
+      <Text>McAuley, Member, Order of the British Empire</Text>
       <PageNumber>3833</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -725,7 +750,9 @@
     <MainItem>
       <Key>Graddon</Key>
       <Forenames>Ernest Edgar</Forenames>
-      <Text>, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3788</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -733,7 +760,9 @@
     <MainItem>
       <Key>Gradwell-Goodwin</Key>
       <Forenames>William</Forenames>
-      <Text>VAlters Summers, J.P., Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
       <PageNumber>3431</PageNumber>
     </MainItem>
@@ -750,7 +779,9 @@
     <MainItem>
       <Key>Graham</Key>
       <Forenames>Allan James</Forenames>
-      <Text>, O.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3705</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -802,7 +833,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>John Irvine</Forenames>
-      <Text>, O.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3765</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -833,7 +866,9 @@
       </Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Robert Balfour</Forenames>
-      <Text>, V.D., F.R.C.S., J.P., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>3833</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -881,11 +916,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Graham-Harrison</Key>
-      <Text>.William Montagu, Companion Order of the Bath</Text>
+      <Forenames>William Montagu</Forenames>
+      <Text>, Companion Order of the Bath</Text>
       <PageNumber>4</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Grainger, T./Qrmr. &amp; Lt. Charles, M.C., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1376</PageNumber>
     </SubItem>
     <SubItem>

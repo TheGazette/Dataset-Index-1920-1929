@@ -5,7 +5,9 @@
       <Key>Xnight</Key>
       <Title>temp. Capt.</Title>
       <Forenames>E. C</Forenames>
-      <Text>, O.B.E.. (Not. in Gaz. of 1st Mar., 1920, cancelled)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>6759</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -37,14 +39,21 @@
       <Key>Lynden-Bell</Key>
       <Title>Capt.</Title>
       <Forenames>L. A.</Forenames>
-      <Text>, M.C. ison, temp. Capt. J. I., M.C. (rel. temp. appt. as G.S.O., 2nd Gr.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6003</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>O</Key>
-      <Text>.B.E.. see Moss-Blnndell, Maj. B. S., D.S.O., O.B.E. hker, Lt. W. (rel. temp. appt. as D.A.Q.M.G.)</Text>
+      <Text>
+        <Honour>B.E.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>6723</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -53,7 +62,10 @@
       <Key>Bretherton</Key>
       <Title>Capt.</Title>
       <Forenames>F. B. J.</Forenames>
-      <Text>, T.D. Browne, Bt: Lt.-Col. A. N. E. (rel. temp. appt. as Staff Capt.)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6258</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -75,7 +87,7 @@
       <PageNumber>5914</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Rel. temp. appt. as D.A.Q.M.G</Text>
+      <Text>Rel. temp. appt. as D.A.Q.M.G.</Text>
       <PageNumber>7292</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -84,7 +96,9 @@
       <Key>Carill-Worsley</Key>
       <Title>temp. Capt.</Title>
       <Forenames>P. E. Tindal</Forenames>
-      <Text>, ste Tindal-CarillWorsley, temp. Capt. P. E. Carlisle, temp. Maj. J. C. D., B.S.O., M.C. (rel. appt, as Staff Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6358</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -93,7 +107,10 @@
       <Key>Carter</Key>
       <Title>Capt.</Title>
       <Forenames>W.</Forenames>
-      <Text>, D.S.O., M.C. (temp. D.A Q.M.G., from a Brig. Maj., and resumes permanent appt as a Brig. Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7034</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -102,7 +119,10 @@
       <Key>Collas</Key>
       <Title>temp. Capt.</Title>
       <Forenames>F. J.</Forenames>
-      <Text>, O.B.E., M.C. (rel. temp, rank as D.A.A. and 3.M.G.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6268</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -128,7 +148,10 @@
       <Key>Cot-field</Key>
       <Title>Maj.</Title>
       <Forenames>F. A.</Forenames>
-      <Text>, D.S.O., O.B.E. (rel. appt. as G.S.O., 2nd Gr., and resumes permanent appt. as G.S.O., 3rd Gr., of a T.F. Area)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>6458</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -137,7 +160,10 @@
       <Key>Cotton</Key>
       <Title>temp. Maj.</Title>
       <Forenames>W. E. L.</Forenames>
-      <Text>, O.B.E., M.C. (rel. temp. appt. as Staff Capt.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6723</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -146,7 +172,9 @@
       <Key>Cowper</Key>
       <Title>Maj.</Title>
       <Forenames>L. I.</Forenames>
-      <Text>, O.B.E. (rel. temp. appt. a*. G.S.O., 2nd Gr., and resumes perm, appt. as G.S.O., 3rd Gr.. of a T.F. Divn.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>6544</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -155,14 +183,18 @@
       <Key>Cox</Key>
       <Title>temp. Maj.</Title>
       <Forenames>R. W.</Forenames>
-      <Text>, O.B.E T.D. (rel. temp. appt. as Staff Capt,)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>6160</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Crichton</Key>
-      <Text>. Bt. Lt.-Col. R. E. (rel. temp. appt. G.S.O., 1st Gr., and resumes permanent appt, as G.S.O., 2nd Gr., of a T.F. Divn.)</Text>
+      <Title>Bt. Lt.-Col.</Title>
+      <Forenames>R. E.</Forenames>
+      <Text>(rel. temp. appt. G.S.O., 1st Gr., and resumes permanent appt, as G.S.O., 2nd Gr., of a T.F. Divn.)</Text>
       <PageNumber>6544</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -184,7 +216,9 @@
       <Key>Crookford</Key>
       <Title>temp. Maj.</Title>
       <Forenames>L</Forenames>
-      <Text>C. M.C. (rel. temp, appt, as Staff Capt,)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6821</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -193,7 +227,9 @@
       <Key>Crossman</Key>
       <Title>Maj.</Title>
       <Forenames>F. L. M.</Forenames>
-      <Text>, D.S.O M.C. (rel. temp. appt. as G.S.O., 2nd (Jr., and resumes permanent appt. as a Brig Maj., R.A.. of a T.F. Div.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6757</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -219,7 +255,9 @@
       <Key>Dawe</Key>
       <Title>temp. Lt.-Col.</Title>
       <Forenames>J. E.</Forenames>
-      <Text>. T.D. (temp. spec, appt., CI. GG)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>614</PageNumber>
     </MainItem>
     <SubItem>
@@ -245,7 +283,9 @@
       <Key>Eden</Key>
       <Title>temp. Lt. Sir</Title>
       <Forenames>T. C</Forenames>
-      <Text>, Bt. (rel. temp. spec, appt., CI. GG., as Intelligence Offr.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6004</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -254,7 +294,10 @@
       <Key>Edington</Key>
       <Title>temp. Col.</Title>
       <Forenames>G. H.</Forenames>
-      <Text>, M.D., T.D. (rel. temp. appt. as Asst. Dir. of Med. Servis.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>7630</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -263,7 +306,10 @@
       <Key>Ellis</Key>
       <Title>temp. Col.</Title>
       <Forenames>C. I.</Forenames>
-      <Text>, C.M.G., M.D. (rel. temp, rank as Asst. Dir. of Med. Serv.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>6554</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -272,7 +318,9 @@
       <Key>Elwell</Key>
       <Title>temp. Capt.</Title>
       <Forenames>G.</Forenames>
-      <Text>, M.C. (rel. temp. appt. as S_taff Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6912</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -281,7 +329,9 @@
       <Key>Fergusson</Key>
       <Title>Bt.</Title>
       <Forenames>Lt</Forenames>
-      <Text>:-Col. V. M., D.S.O. (rel. temp. appt. as G.S.O., 1st Gr., and resumes permanent appt. as G.S.O., 2nd Gr., of a T.F. Divn.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6357</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -290,7 +340,10 @@
       <Key>Franklyn</Key>
       <Title>Bt. Maj.</Title>
       <Forenames>H. E.</Forenames>
-      <Text>, D.S.O., M.C. (rel. temp. appt. as G.S.O., 1st Gr., and resumes permanent appt. as G.S.O., 2nd Gr., of a T.F. Divn.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6723</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -299,7 +352,9 @@
       <Key>Fraser</Key>
       <Title>temp. Maj.</Title>
       <Forenames>F. W.</Forenames>
-      <Text>. T.D. (temp. A.A. and Q.M.G.)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>5448</PageNumber>
     </MainItem>
     <SubItem>
@@ -314,7 +369,10 @@
       </Key>
       <Title>Bt. Lt.-Col.</Title>
       <Forenames>G. I.</Forenames>
-      <Text>, C.M.G., D.S.O. (rel. temp. appt. as A.A. &amp; Q.M.G., and resumes permanent appt. as a D.A.A. &amp; Q.M.G. of a T.F. Divn.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6930</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -323,18 +381,24 @@
       <Key>Fryers</Key>
       <Title>temp. Lt.</Title>
       <Forenames>J. L.</Forenames>
-      <Text>, M.C. (rel. spec, appt., CI. GG)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5545</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Gathercole</Key>
-      <Text>temp, 2nd Lt. A. (temp. A.D.C. from 10th (D.F.) Bn., Lond. R., and trd. to Def. Force Gen. List)</Text>
+      <Text>
+        <Honour>A.D.C.</Honour>
+      </Text>
       <PageNumber>5702</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Eel. temp. appt. as A.D.C</Text>
+      <Text>
+        <Honour>A.D.C</Honour>
+      </Text>
       <PageNumber>7361</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -343,14 +407,23 @@
       <Key>Gibson</Key>
       <Title>temp. Maj.</Title>
       <Forenames>L.</Forenames>
-      <Text>, D.S.O., T.D. (rel. temp. appt. as Staff Capt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>7041</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Gore</Key>
-      <Text>. Capt. G. E. V. Hume, M.C., see Hume-Gore, Capt. G. R. V., M.C. Goatling, temp. Col. E. V., D.S.O. (temp. Asst. Dir. of Med</Text>
+      <Title>Capt.</Title>
+      <Forenames>G. E. V. Hume</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6150</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -372,7 +445,7 @@
       <PageNumber>5797</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Eel. temp. appt. as D.A.Q.M.G</Text>
+      <Text>Eel. temp. appt. as D.A.Q.M.G.</Text>
       <PageNumber>6357</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -381,7 +454,9 @@
       <Key>Grav</Key>
       <Title>Lt.</Title>
       <Forenames>D. L.</Forenames>
-      <Text>, M.C. (rel temp. 'appt, as D.A.Q.M.G.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7041</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -390,7 +465,10 @@
       <Key>Greaves</Key>
       <Title>temp. Maj.</Title>
       <Forenames>S. S.</Forenames>
-      <Text>, D.S.O., M.C. (rel. temp. appt. as Dep. Asst. Dir. of 'Med. Servs.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7215</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -399,7 +477,9 @@
       <Key>Green</Key>
       <Title>Bt. Lt.-Col.</Title>
       <Forenames>W.</Forenames>
-      <Text>, D.S.O. (temp. G.S.O., 1st Gr., from a G.S.O., 2nd Gr.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5986</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -408,7 +488,10 @@
       <Key>Grimwade</Key>
       <Title>temp. Capt.</Title>
       <Forenames>H. N.</Forenames>
-      <Text>, D.S.O., M.C. (rel. temp. appt. as Staff Capt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6930</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -430,14 +513,16 @@
       <PageNumber>5898</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Rel. temp. appt. ' Staff Capt</Text>
+      <Text>Rel. temp. appt. ' Staff Capt.</Text>
       <PageNumber>6930</PageNumber>
     </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hart</Key>
-      <Text>. Capt. N. B. (temp. D.A.Q.M.G.)</Text>
+      <Title>Capt.</Title>
+      <Forenames>N. B.</Forenames>
+      <Text>(temp. D.A.Q.M.G.)</Text>
       <PageNumber>6560</PageNumber>
     </MainItem>
     <SubItem>
@@ -450,14 +535,20 @@
       <Key>Harvey</Key>
       <Title>Capt.</Title>
       <Forenames>H. Le F.</Forenames>
-      <Text>F-, M.C. (rel. temp. appt. as G.S.O., 2nd Gr., and resumes temp, appt. as a G.S.O., 3rd Gr. of an Area)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6723</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hay</Key>
-      <Text>. Bt. Lt.-Col. S., D.S.O. (rel. temp. appt. as Staff Capt.)</Text>
+      <Title>Bt. Lt.-Col.</Title>
+      <Forenames>S.</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5622</PageNumber>
     </MainItem>
   </ItemGroup>

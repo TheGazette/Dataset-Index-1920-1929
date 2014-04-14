@@ -19,11 +19,18 @@
   <ItemGroup>
     <MainItem>
       <Key>Wintle</Key>
-      <Text>lit.-Col. Charles Edmund Hunter, D.S.O., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7194</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Capt. and Bt. Maj. Frederick Vavasour Broome, D.S.O., O.B.E., M.C., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7194</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -39,7 +46,10 @@
     <MainItem>
       <Key>Woodgate</Key>
       <Forenames>Alfred</Forenames>
-      <Text>, C.B.E., Knighted</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>7382</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -47,7 +57,9 @@
     <MainItem>
       <Key>Wright</Key>
       <Forenames>Bernard Swanwick</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>7382</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -75,6 +87,7 @@
       <Text>
         <CategoryTitle>MILITARY PROMOTIONS</CategoryTitle>
         <SubSectionTitle>Commands and Staff</SubSectionTitle>
+        <Honour>O.B.E.</Honour>
       </Text>
       <PageNumber>7619</PageNumber>
     </SubItem>
@@ -83,7 +96,10 @@
     <MainItem>
       <Key>Albert</Key>
       <Forenames>I.</Forenames>
-      <Text>, His Majesty, King of the Belgians, K.G., G.C.B. (Field Marshal)</Text>
+      <Text>
+        <Honour>K.G.</Honour>
+        <Honour>G.C.B.</Honour>
+      </Text>
       <PageNumber>5447</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -92,7 +108,9 @@
       <Key>Allfrey</Key>
       <Title>Capt.</Title>
       <Forenames>E. M.</Forenames>
-      <Text>, D.S.O. (rel. temp. appt. as Staff Capt. at War Office)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5628</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -127,7 +145,9 @@
       <Key>Andrew</Key>
       <Title>Lt.</Title>
       <Forenames>E.</Forenames>
-      <Text>, M.C. (rel. appt. as D.A.Q.M.G., A.G.'s and Q.M.G.'s Staff, and temp, rank of Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6365</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -136,7 +156,9 @@
       <Key>Andrus</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>T. A.</Forenames>
-      <Text>, C.M.G. (temp. Brig. Comdr. and temp. Col. Comdt.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>6651</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -145,7 +167,9 @@
       <Key>Annesley</Key>
       <Title>Capt. the Hon.</Title>
       <Forenames>C. A. J.</Forenames>
-      <Text>(A.D.C.)</Text>
+      <Text>
+        <Honour>A.D.C.</Honour>
+      </Text>
       <PageNumber>6543</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -154,7 +178,9 @@
       <Key>Anstey</Key>
       <Title>Maj. and Bt. Lt.-Col.</Title>
       <Forenames>E. C</Forenames>
-      <Text>, D.S.O. (temp, spe/appt., CI. X, and temp. Lt.Col.), Sub. Not</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5897</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -172,7 +198,9 @@
       <Key>Armitage</Key>
       <Title>Capt.</Title>
       <Forenames>W. P.</Forenames>
-      <Text>, M.C. (rel. appt. as Asst. Prov.-Marshal, CI. BB, attd. to Hd.-Qr. Unit and temp, rank of Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7425</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -207,7 +235,11 @@
       <Key>Barron</Key>
       <Title>temp. Lt.</Title>
       <Forenames>J. B.</Forenames>
-      <Text>, O.B.E., M.C. i(temp. Dep. Asst. Administrator, CI. KB, and temp. Maj.) ... .... Barry, temp. Lt. D., M.C. (rel. emplt. under Directe. of Graves Registration and Enquiries, CI. FF, A.G.'s and Q.M.G.'s Staff) Basan, Lt. W. J. (temp. Rly. Traffic Offr., CI. GO, Hd.Qrs. of Admin. Servs. and Depts.) Temp. Rly. Traffic Offr., CI. FF, and temp. Capt</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7436</PageNumber>
     </MainItem>
   </ItemGroup>

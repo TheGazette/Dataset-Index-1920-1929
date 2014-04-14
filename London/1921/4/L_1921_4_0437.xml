@@ -34,7 +34,9 @@
       <Key>Marquis</Key>
       <Title>Capt.</Title>
       <Forenames>E.</Forenames>
-      <Text>, T.D. (resigns commn. and retains rank of Capt., with permission to wear prescribed uniform)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>8045</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -206,7 +208,10 @@
       </Key>
       <Title>Maj. (Hon. Lt. in Army)</Title>
       <Forenames>J. H. F.</Forenames>
-      <Text>, O.B.E., T.D. (irel. commn. and granted rank of Lt.-Col., with permission to wear the prescribed uniform)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>10345</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -233,7 +238,7 @@
   <ItemGroup>
     <MainItem>
       <Key>M</Key>
-      <Text>.irsh, Lt. C. J. M. (rel. commn. and retains rank of Lt.)</Text>
+      <Text>irsh, Lt. C. J. M. (rel. commn. and retains rank of Lt.)</Text>
       <PageNumber>10348</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -243,7 +248,11 @@
         <KeyDitto>— ___ ___ ___</KeyDitto>
       </Key>
       <Title>Lt.-Col.</Title>
-      <Text>.(Bt. Col.) F., C.B.E., F.R.C.S. (having attained age limit, is retired, and retains rank of Lt.-Col.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>C.B.E.</Honour>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>8622</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -501,7 +510,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>J.</Forenames>
-      <Text>, T.D. (7th Bn., Lan. Fus.) (rel. commn. and retains lank of Maj.)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>10209</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -587,7 +598,10 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>M. H.</Forenames>
-      <Text>, O.B.E., T.D. (rel. commn. and retains rank of Maj., with permission to wear prescribed uniform)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>9439</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -778,8 +792,8 @@
     <MainItem>
       <Key>Martelli</Key>
       <Title>Lt.</Title>
-      <Forenames>H.</Forenames>
-      <Text>de C, M.C(tel. commn. and granted rank of</Text>
+      <Forenames>H. de C</Forenames>
+      <Text>, M.C(tel. commn. and granted rank of</Text>
       <PageNumber>10356</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -788,7 +802,9 @@
       <Key>Marten</Key>
       <Title>Capt.</Title>
       <Forenames>L. H.</Forenames>
-      <Text>, O.B.E. (rel. coinmn, and retains rank of</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>9227</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -837,7 +853,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>A. S.</Forenames>
-      <Text>, M.C. (rel. coinmn</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10093</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -960,7 +978,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>rank of Capt.) ... Lt. E., M.C. (1st Bn., Lond</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8820</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1055,7 +1075,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>retains rank of Lt.) Lt. H. C. H., M.C. (rel</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10346</PageNumber>
     </MainItem>
   </ItemGroup>

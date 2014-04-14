@@ -50,7 +50,9 @@
     <MainItem>
       <Key>Dunkerton</Key>
       <Forenames>E. L. H.</Forenames>
-      <Text>, M.C. {rel. actg. rank)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3679</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -100,7 +102,9 @@
     <MainItem>
       <Key>Evans</Key>
       <Forenames>B. W.</Forenames>
-      <Text>, M.C. i(rel. actg. rank)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1107</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -180,7 +184,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Fawcett</Key>
-      <Text>1R. iB., M.C. {rel. actg. rank)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2475</PageNumber>
     </MainItem>
     <KeyDitto>___ ___</KeyDitto>
@@ -322,7 +328,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gemmell</Key>
-      <Text>. J. C. (whilst Adjt.)</Text>
+      <Forenames>J. C.</Forenames>
+      <Text>(whilst Adjt.)</Text>
       <PageNumber>2472</PageNumber>
     </MainItem>
     <SubItem>
@@ -333,14 +340,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Gilligan</Key>
-      <Text>. W. B. {rel. actg. rank)</Text>
+      <Forenames>W. B.</Forenames>
+      <Text>{rel. actg. rank)</Text>
       <PageNumber>1835</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Ginns</Key>
-      <Text>., R. (Iwhilst Adtjt.)</Text>
+      <Text>, R. (Iwhilst Adtjt.)</Text>
       <PageNumber>1107</PageNumber>
     </MainItem>
     <SubItem>
@@ -351,7 +359,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Girling</Key>
-      <Text>. J. IB. (rel. actg. rank)</Text>
+      <Forenames>J.</Forenames>
+      <Text>IB. (rel. actg. rank)</Text>
       <PageNumber>566</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -507,7 +516,10 @@
     <MainItem>
       <Key>Haine</Key>
       <Forenames>R. L.</Forenames>
-      <Text>, V.C., M.C. (whilst Adjt.)</Text>
+      <Text>
+        <Honour>V.C.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1106</PageNumber>
     </MainItem>
     <SubItem>
@@ -603,7 +615,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Harwood</Key>
-      <Text>. G. E</Text>
+      <Forenames>G. E.</Forenames>
       <PageNumber>3542</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -665,7 +677,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Helson</Key>
-      <Text>. G. (comdg. a Co., May 1919)</Text>
+      <Forenames>G.</Forenames>
+      <Text>(comdg. a Co., May 1919)</Text>
       <PageNumber>1696</PageNumber>
     </MainItem>
     <SubItem>
@@ -676,7 +689,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Henderson</Key>
-      <Text>. W. S. R. (rel. actg. rank, 28 May, 1919)</Text>
+      <Forenames>W. S. R.</Forenames>
+      <Text>(rel. actg. rank, 28 May, 1919)</Text>
       <PageNumber>2473</PageNumber>
     </MainItem>
     <SubItem>
@@ -711,7 +725,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hibberd</Key>
-      <Text>. A. S. (retains actg. rank whilst Adjt.)</Text>
+      <Forenames>A. S.</Forenames>
+      <Text>(retains actg. rank whilst Adjt.)</Text>
       <PageNumber>566</PageNumber>
       <PageNumber>3542</PageNumber>
     </MainItem>
@@ -723,7 +738,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Higgs</Key>
-      <Text>. R. N. (comdg. a Co., 8 May, 1919)</Text>
+      <Forenames>R. N.</Forenames>
+      <Text>(comdg. a Co., 8 May, 1919)</Text>
       <PageNumber>2472</PageNumber>
     </MainItem>
     <SubItem>
@@ -745,7 +761,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hisloo</Key>
-      <Text>. R. G. G</Text>
+      <Forenames>R. G. G</Forenames>
       <PageNumber>1696</PageNumber>
     </MainItem>
     <SubItem>
@@ -756,7 +772,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hodeshon</Key>
-      <Text>. F. W</Text>
+      <Forenames>F. W</Forenames>
       <PageNumber>568</PageNumber>
     </MainItem>
     <SubItem>
@@ -775,7 +791,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hope</Key>
-      <Text>. A. A. (comdg. a Co., May, 1919)</Text>
+      <Forenames>A. A.</Forenames>
+      <Text>(comdg. a Co., May, 1919)</Text>
       <PageNumber>1106</PageNumber>
     </MainItem>
     <SubItem>
@@ -798,7 +815,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Howes</Key>
-      <Text>. H. C</Text>
+      <Forenames>H. C.</Forenames>
       <PageNumber>1697</PageNumber>
     </MainItem>
     <SubItem>
@@ -809,7 +826,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Howfield</Key>
-      <Text>. J. A. J. (whilst Adjt.)</Text>
+      <Forenames>J. A. J.</Forenames>
+      <Text>(whilst Adjt.)</Text>
       <PageNumber>568</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -823,7 +841,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Trumoberus</Key>
-      <Text>. E. H. (rel. actg. rank)</Text>
+      <Forenames>E. H.</Forenames>
+      <Text>(rel. actg. rank)</Text>
       <PageNumber>1696</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -892,7 +911,9 @@
     <MainItem>
       <Key>Irwin</Key>
       <Forenames>N. L. C</Forenames>
-      <Text>, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>1698</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -903,7 +924,7 @@
       <PageNumber>1695</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Rel. actg. rank ,</Text>
+      <Text>Rel. actg. rank ,.</Text>
       <PageNumber>1695</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -942,7 +963,9 @@
     <MainItem>
       <Key>Johnson</Key>
       <Forenames>R. S.</Forenames>
-      <Text>, M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>1268</PageNumber>
     </MainItem>
   </ItemGroup>

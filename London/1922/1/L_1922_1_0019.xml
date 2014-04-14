@@ -16,7 +16,9 @@
       <PageNumber>1949</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Despatches from General Sir Douglas Haig, G.C.B., Commander in Chief, British Armies in France : 30th April, 1916, additions to names brought to notice for gallant and distinguished service</Text>
+      <Text>
+        <Honour>G.C.B.</Honour>
+      </Text>
       <PageNumber>2583</PageNumber>
     </SubItem>
     <SubItem>
@@ -29,7 +31,10 @@
     </SubItem>
     <SubItem>
       <Text>
+        <Honour>Bt</Honour>
+        <Honour>D. S.O.</Honour>
         <PageNumber>2586</PageNumber>
+        <Honour>D.S.O.</Honour>
       </Text>
       <PageNumber>2586</PageNumber>
     </SubItem>
@@ -90,7 +95,9 @@
       <PageNumber>2586</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>Webb, Lt.-Col. R. H., D.S.O., M.C</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>2583</PageNumber>
     </SubItem>
     <SubItem>
@@ -193,7 +200,9 @@
       <Key>Havard</Key>
       <Title>Rev.</Title>
       <Forenames>William Thomas</Forenames>
-      <Text>, B.A., M.C., presented to Vicarage of St. Paul, Hook</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1292</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -238,7 +247,10 @@
       <Key>Tron</Key>
       <Title>Rev.</Title>
       <Forenames>Mazzini</Forenames>
-      <Text>, D.S.O., M.C., appointed to Living of St. Luke, Wellington, Hanley</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>153</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -271,7 +283,9 @@
     <MainItem>
       <Key>Atkinson</Key>
       <Forenames>Carleton Richard Buckby</Forenames>
-      <Text>, M.B.E., H.M. ViceConsul at Laraiche</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>368</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -299,7 +313,10 @@
       </Key>
       <Title>Rt. Hon.</Title>
       <Forenames>Arthur James</Forenames>
-      <Text>, O.M., F.R.S., M.P., Knight of the Garter</Text>
+      <Text>
+        <Honour>O.M.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>2137</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -362,7 +379,9 @@
       <Key>Bolton</Key>
       <Title>Maj.</Title>
       <Forenames>Wilfrid Nash</Forenames>
-      <Text>, O.B.E., Member of Legislative Council of Cyprus</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>1724</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -379,7 +398,10 @@
       <Key>Brock</Key>
       <Title>Sir</Title>
       <Forenames>Frederic Edward Errington</Forenames>
-      <Text>, K.C.M.G.. C.B., Member of Royal Patriotic Fund Corporation</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>151</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -395,7 +417,9 @@
     <MainItem>
       <Key>Brownlie</Key>
       <Forenames>J. T.</Forenames>
-      <Text>, C.B.E., Member of Gold and Aluminium Bronze Powders Committee under Safeguarding of Industries Act</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>958</PageNumber>
       <PageNumber>1080</PageNumber>
     </MainItem>
@@ -405,7 +429,9 @@
       <Key>Buchanan</Key>
       <Title>Sir</Title>
       <Forenames>James</Forenames>
-      <Text>, Bt., Baron (Baron Woolavington of Lavington)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>954</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -414,7 +440,9 @@
       <Key>Budd</Key>
       <Title>Sir</Title>
       <Forenames>Cecil L.</Forenames>
-      <Text>, K.B.E., Member of Committee under Safeguarding of Industries Acts, 1921</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+      </Text>
       <PageNumber>551</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -430,7 +458,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Burke</Key>
-      <Text>. Capt. Edmund Arbuckle, Officer, Order of the British Empire (corr. of name)</Text>
+      <Title>Capt.</Title>
+      <Forenames>Edmund Arbuckle</Forenames>
+      <Text>, Officer, Order of the British Empire (corr. of name)</Text>
       <PageNumber>2585</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -446,14 +476,19 @@
     <MainItem>
       <Key>Carr</Key>
       <Forenames>Edward Hallett</Forenames>
-      <Text>, C.B.E., 3rd Secretary, H.M. Diplomatic Service</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>369</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Chadwyck</Key>
-      <Text>Healey, Sir Gerald Edward, Bt., C.B.E., Member of the Royal Commission on Awards to Inventors</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>2507</PageNumber>
     </MainItem>
   </ItemGroup>

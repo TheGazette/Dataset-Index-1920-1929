@@ -13,7 +13,9 @@
     <MainItem>
       <Key>Meynell</Key>
       <Forenames>Flying Offr</Forenames>
-      <Text>. Edward, D.C.M. (Flight Lt.)</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>5246</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -30,7 +32,9 @@
     <MainItem>
       <Key>Miller</Key>
       <Title>2nd Lt. (Hon. Lt.)</Title>
-      <Text>-William, D.F.C. (rel. temp,</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>5646</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -56,7 +60,9 @@
       <Key>Moody</Key>
       <Title>Sqdn.</Title>
       <Forenames>Leader Francis Hyde</Forenames>
-      <Text>, M.C. (actg. Group Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5734</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -64,7 +70,9 @@
     <MainItem>
       <Key>Moore</Key>
       <Forenames>Flying</Forenames>
-      <Text>and Obsvr. Offr. Guy Murton, M.C. (Flight Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5246</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -82,7 +90,9 @@
     <MainItem>
       <Key>Murphy</Key>
       <Forenames>Flying Offr</Forenames>
-      <Text>. (Lt., Army) Louis, M.C. (rel. temp, commn. on return to Army duty)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7569</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -90,7 +100,9 @@
     <MainItem>
       <Key>Murray</Key>
       <Forenames>Pilot Offr</Forenames>
-      <Text>. on prob. F. H. Stuart, see Stuart-Murray (Pilot Offr. on prob.) F. H. Nares, Malcolm Dent, A.F.C. (granted short serv. commn. as Flying Offr.)</Text>
+      <Text>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>6102</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -166,7 +178,10 @@
     <MainItem>
       <Key>Osbourne</Key>
       <Forenames>Group</Forenames>
-      <Text>Capt. Henry Percy Smyth, C.M.G., see Smyth-Osbourne, Group Capt. Henry Percy, C.M.G. Packham, Flight Lt. George (rel. temp, commn. on ceasing to be empld. and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>7570</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -174,14 +189,17 @@
     <MainItem>
       <Key>Page</Key>
       <Forenames>Alec Dudley</Forenames>
-      <Text>, M.M. (granted short service commn. as Flying Offr.)</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>6284</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Peel</Key>
-      <Text>. George John Morley (corr. of name)</Text>
+      <Forenames>George John Morley</Forenames>
+      <Text>(corr. of name)</Text>
       <PageNumber>6602</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -196,7 +214,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Pilkington</Key>
-      <Text>' Flying and Obsvr. Offr. Christopher, A.F.C. (Flight</Text>
+      <Text>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>5246</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -212,21 +232,28 @@
   <ItemGroup>
     <MainItem>
       <Key>Pogson</Key>
-      <Text>. Lt. Lewis Victor John, ' M.C. (rcl. temp, commn. on appt; to Indian Army)</Text>
+      <Title>Lt.</Title>
+      <Forenames>Lewis Victor John</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6102</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Polley</Key>
-      <Text>. Flying Offr. Frederick (placed on retired list)</Text>
+      <Forenames>Flying Offr</Forenames>
+      <Text>. Frederick (placed on retired list)</Text>
       <PageNumber>7679</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Pope</Key>
-      <Text>' Flying Offr. (Lt., Army) Ralph Patrick (Phillip), D.F.C. (rel. temp, commn. on return to Army duty)</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>7569</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -261,7 +288,9 @@
     <MainItem>
       <Key>Power</Key>
       <Title>Flight-Lt.</Title>
-      <Text>DArcy, M.C. (Squadn. Leader)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5246</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -289,7 +318,12 @@
       <Key>Prout</Key>
       <Title>Flight Lt.</Title>
       <Forenames>Reginald Adden-</Forenames>
-      <Text>brooke, O.B.E., M.C., see Addenbrooke-Prout, Flight-Lt. Reginald, O.B.E., M.C. Price, Cyril Warren (granted short service commn. as Pilot Offr.), on prob. for accountant duties</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7679</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -357,7 +391,9 @@
       <Key>Reilly</Key>
       <Title>Sqdn.</Title>
       <Forenames>Leader Hugh Lam-</Forenames>
-      <Text>bert, D.S.O. (granted perm, commn. retaining present subst. rank and seniority)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5358</PageNumber>
     </MainItem>
     <SubItem>
@@ -442,7 +478,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rose</Key>
-      <Text>. John James Taylor (granted short serv. commn. as Flying Offr. on prob. for accountant duties)</Text>
+      <Forenames>John James Taylor</Forenames>
+      <Text>(granted short serv. commn. as Flying Offr. on prob. for accountant duties)</Text>
       <PageNumber>7679</PageNumber>
     </MainItem>
   </ItemGroup>

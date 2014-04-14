@@ -4,7 +4,9 @@
     <MainItem>
       <Key>Brown</Key>
       <Forenames>Flying Offr</Forenames>
-      <Text>. (A.) LeeRoy Lowerllon, D.F.C. (corr. or christian names)</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>8278</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -95,7 +97,9 @@
       <Key>Brunton</Key>
       <Title>Obsvr. Offr.</Title>
       <Forenames>R. A.</Forenames>
-      <Text>, M.C. (resigns short serv. commn. and retains rank)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8712</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -372,14 +376,20 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>W. J.</Forenames>
-      <Text>, A.F.C., (trd. to uneinpld. list)</Text>
+      <Text>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>8794</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Bygrave</Key>
-      <Text>.Lt. L. C, M.B.E. (trd. to unempld. list)</Text>
+      <Title>Lt.</Title>
+      <Forenames>L. C</Forenames>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>7460</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -709,7 +719,10 @@
       <Key>Chambie</Key>
       <Title>Capt.</Title>
       <Forenames>J.</Forenames>
-      <Text>, M.B.E., M.D., B. A. ;trd. to unempld. list)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>7669</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -782,7 +795,9 @@
       <Key>Chatterton</Key>
       <Title>Lt.</Title>
       <Forenames>J.</Forenames>
-      <Text>, M.C. (rel. R.A.F. commn.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8794</PageNumber>
     </MainItem>
     <SubItem>
@@ -858,7 +873,11 @@
     <MainItem>
       <Key>Christie</Key>
       <Forenames>Wing Comdr</Forenames>
-      <Text>. M. G., C.M.G., D.S.O., M.C., (restd. to active list) ,</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9057</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -875,7 +894,9 @@
     <MainItem>
       <Key>Chubb</Key>
       <Forenames>Lt</Forenames>
-      <Text>, E. G. T., D.F.C., (trd. to unenipld. list)</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>7777</PageNumber>
     </MainItem>
     <SubItem>
@@ -904,7 +925,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Clapperton</Key>
-      <Text>. Overseas Cadet E. W. (temp 2nd Lt.)</Text>
+      <Forenames>Overseas</Forenames>
+      <Text>Cadet E. W. (temp 2nd Lt.)</Text>
       <PageNumber>8887</PageNumber>
     </MainItem>
     <SubItem>
@@ -1023,7 +1045,7 @@
       <PageNumber>9224</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Wing Comdr.</Text>
+      <Text>Wing Comdr</Text>
       <PageNumber>7458</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1065,7 +1087,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Cockin</Key>
-      <Text>. Lt. J. B. (rel. conimn. on acc. of ill-health caused by wounds and retains rank) Sub. Not. ... '</Text>
+      <Title>Lt.</Title>
+      <Forenames>J. B.</Forenames>
+      <Text>(rel. conimn. on acc. of ill-health caused by wounds and retains rank) Sub. Not. ... '</Text>
       <PageNumber>7867</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1119,7 +1143,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Collingburn</Key>
-      <Text>. 2nd Lt. E. P. (trd. to unempld. list)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>E. P.</Forenames>
+      <Text>(trd. to unempld. list)</Text>
       <PageNumber>7777</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1185,11 +1211,18 @@
   <ItemGroup>
     <MainItem>
       <Key>Collishaw</Key>
-      <Text>. Flight Lt. R., D.S.O., O.B.E., D.S.C., D.F.C., (graded for pay and allces. as Sqdn. Leader A)</Text>
+      <Title>Flight Lt.</Title>
+      <Forenames>R.</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>O.B.E.</Honour>
+        <Honour>D.S.C.</Honour>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>7355</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Actg. Sqdn. Leader (A.), Sub. Not.</Text>
+      <Text>Actg. Sqdn. Leader (A.), Sub. Not</Text>
       <PageNumber>8712</PageNumber>
     </SubItem>
   </ItemGroup>

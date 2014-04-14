@@ -31,7 +31,10 @@
       <Key>Northen</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>A.</Forenames>
-      <Text>, C.B.E., D.S.O. (retires on ret. pay)</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8876</PageNumber>
     </MainItem>
     <SubItem>
@@ -61,7 +64,9 @@
       <Key>Norton</Key>
       <Title>Lt.</Title>
       <Forenames>D. I.</Forenames>
-      <Text>, M.C. (Lt., 13th/ 18th H., from 13th H.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8412</PageNumber>
     </MainItem>
     <SubItem>
@@ -167,14 +172,17 @@
     <MainItem>
       <Key>Oborn</Key>
       <Title>Qr.</Title>
-      <Text>-Mr. and Capt. (ExtraRegtl. L.) J., M.B.E. (granted rank of Maj.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>8957</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, Capt, (temp. ret. pay) A. i K. H. (rel. commn. and granted rank of Maj., with permission to wear prescribed uniform)</Text>
+      <Key>O'Brien</Key>
+      <Forenames>Capt</Forenames>
+      <Text>, (temp. ret. pay) A. i K. H. (rel. commn. and granted rank of Maj., with permission to wear prescribed uniform)</Text>
       <PageNumber>8720</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -185,7 +193,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>L. B.</Forenames>
-      <Text>, O.B.E. (retires, receiving a gratuity)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>8717</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -196,7 +206,10 @@
       </Key>
       <Title>Lt.-Col. (Maj., ret. pay) the Hon.</Title>
       <Forenames>M.</Forenames>
-      <Text>, D.S.O., M.V.O. (ceases to belong to Res. of Off., having attained the age limit of liability to recall)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>7946</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -217,8 +230,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Byrne, Lt. (ret,, from Conn. Rangers) P. J. (Lt., Reg. Army Res. of Off., Gen. List)</Text>
+      <Key>O'Byrne</Key>
+      <Title>Lt. (ret,, from Conn. Rangers)</Title>
+      <Forenames>P. J.</Forenames>
+      <Text>(Lt., Reg. Army Res. of Off., Gen. List)</Text>
       <PageNumber>8114</PageNumber>
     </MainItem>
     <SubItem>
@@ -228,8 +243,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Callaghan, Lt, (h.p. list, late Y. and L.R.) C. T. (retires on ret. pay on acc. of ill-health caused by wounds) ,</Text>
+      <Key>O'Callaghan</Key>
+      <Forenames>Lt</Forenames>
+      <Text>, (h.p. list, late Y. and L.R.) C. T. (retires on ret. pay on acc. of ill-health caused by wounds) ,</Text>
       <PageNumber>9036</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -246,15 +262,21 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connell, temp. Capt. (actg. Maj.) R. J. (rel. commn. on acc. of ill-health caused by wounds and granted rank of Maj.), Sub. Not</Text>
+      <Key>O'Connell</Key>
+      <Title>temp. Capt. (actg. Maj.)</Title>
+      <Forenames>R. J.</Forenames>
+      <Text>(rel. commn. on acc. of ill-health caused by wounds and granted rank of Maj.), Sub. Not</Text>
       <PageNumber>8296</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, Capt. E. R., M.C. (rel. appt. of Adjt., 3rd R. Mun. Fus., Mila.)</Text>
+      <Key>O'Connor</Key>
+      <Title>Capt.</Title>
+      <Forenames>E. R.</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9172</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -265,7 +287,9 @@
       </Key>
       <Title>Lt. (ret., from R.D. Fus.)</Title>
       <Forenames>M. J.</Forenames>
-      <Text>, M.C. (Lt., Reg. Army Res. of Off., Gen. List)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8878</PageNumber>
     </MainItem>
     <SubItem>
@@ -275,15 +299,21 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, Lt. (ret., from Conn. Rangers) W., M.C. (Lt Army Res. of Off., Gen. List)</Text>
+      <Key>O'Connor</Key>
+      <Title>Lt. (ret., from Conn. Rangers)</Title>
+      <Forenames>W.</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8298</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Conor, Capt. R. D. (resigns commn. and retains rank of Capt.)</Text>
+      <Key>O'Conor</Key>
+      <Title>Capt.</Title>
+      <Forenames>R. D.</Forenames>
+      <Text>(resigns commn. and retains rank of Capt.)</Text>
       <PageNumber>8878</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -315,8 +345,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Driscoll, Capt. John A. (rel. commn. and retains rank of Capt</Text>
+      <Key>O'Driscoll</Key>
+      <Title>Capt.</Title>
+      <Forenames>John A.</Forenames>
+      <Text>(rel. commn. and retains rank of Capt</Text>
       <PageNumber>7943</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -354,7 +386,11 @@
       <Key>Ogilvy</Key>
       <Title>Lt. the Hon.</Title>
       <Forenames>B. A. A.</Forenames>
-      <Text>, M.C. (Lt., L.G. (1st and 2nd), from 1st L.G., and to rem. seed.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>L.G.</Honour>
+        <Honour>L.G.</Honour>
+      </Text>
       <PageNumber>8112</PageNumber>
     </MainItem>
     <SubItem>
@@ -364,15 +400,20 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Gorman, Lt.-Col. (temp. Col.) Charles J., D.S.O. (Col., from R.A.M.C.)</Text>
+      <Key>O'Gorman</Key>
+      <Title>Lt.-Col. (temp. Col.)</Title>
+      <Forenames>Charles J.</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7942</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hara, 2nd Lt, W*. L. B. (2nd Lt., Reg. Army Res. of Off., Gen. List, Tank, late Tank Corps)</Text>
+      <Key>O'Hara</Key>
+      <Text>2nd Lt, W*. L. B. (2nd Lt., Reg. Army Res. of Off., Gen. List, Tank, late Tank Corps)</Text>
       <PageNumber>7670</PageNumber>
     </MainItem>
     <SubItem>
@@ -382,8 +423,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Keeffe, Capt. F. S. Lanizan-, M.B.E., see Lanigan-O'Keeffe, Capt. F. S., M.B.E. Oldham, Lt. B. C. (resigns commn.)</Text>
+      <Key>O'Keeffe</Key>
+      <Title>Capt.</Title>
+      <Forenames>F. S. Lanizan-</Forenames>
+      <Text>
+        <Honour>M.B.E.</Honour>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>8876</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -409,8 +455,12 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Leary, Lt. (ret., from Conn. Rangers) M., V.C. (Lt., Reg. Army Res. of Off., Gen. List)</Text>
+      <Key>O'Leary</Key>
+      <Title>Lt. (ret., from Conn. Rangers)</Title>
+      <Forenames>M.</Forenames>
+      <Text>
+        <Honour>V.C.</Honour>
+      </Text>
       <PageNumber>8298</PageNumber>
     </MainItem>
     <SubItem>
@@ -423,7 +473,9 @@
       <Key>Olive</Key>
       <Title>Maj.</Title>
       <Forenames>T. B.</Forenames>
-      <Text>, M.C. (retires, on ret. pay, and granted rank of Lt.-Col.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9034</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -450,14 +502,18 @@
       <Key>Olver</Key>
       <Title>Lt.</Title>
       <Forenames>H.</Forenames>
-      <Text>, M.M. (retires, re ceiving a gratuity)</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>7536</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Malley, temp. Capt. David V., M.B. (rel. commn. on appt. to the Ind. Med. Serv.)</Text>
+      <Key>O'Malley</Key>
+      <Title>temp. Capt.</Title>
+      <Forenames>David V.</Forenames>
+      <Text>, M.B. (rel. commn. on appt. to the Ind. Med. Serv.)</Text>
       <PageNumber>7669</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -478,8 +534,12 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, Maj. J., M.C. (Maj . . . . . RegArmy Res. of Off., Regt]. List, R.G.A.)</Text>
+      <Key>O'Neill</Key>
+      <Title>Maj.</Title>
+      <Forenames>J.</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8613</PageNumber>
     </MainItem>
     <SubItem>
@@ -504,7 +564,9 @@
     <MainItem>
       <Key>Onslow</Key>
       <Forenames>Nigel Hughes-</Forenames>
-      <Text>, see HughesOnslow, Nigel. Oppenheim, Maj. (ret pay, from K.RR.C.) A. C, D.S.O. (Maj., Reg. Army Res. of Off., Gen. List, Embarkation and R.T.E.l</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8719</PageNumber>
     </MainItem>
     <SubItem>
@@ -514,8 +576,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Ryan, Lt. P. J. (placed on h.p. list on acc. of ill-health)</Text>
+      <Key>O'Ryan</Key>
+      <Title>Lt.</Title>
+      <Forenames>P. J.</Forenames>
+      <Text>(placed on h.p. list on acc. of ill-health)</Text>
       <PageNumber>811</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -524,7 +588,10 @@
       <Key>Osborne</Key>
       <Title>Maj. and Bt. Lt.-Col.</Title>
       <Forenames>R. H.</Forenames>
-      <Text>, D.S.O., M.C. (Maj., 13th/ 18th H., from 13th H.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8411</PageNumber>
     </MainItem>
     <SubItem>
@@ -534,8 +601,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Shee, Lt.-Col. (Bt. Col., ret., T.A.) (ret. pay, from Leinster R.) G. I. P. P. (Lt.-Col., Reg. Army Res. of Off., Gen. List)</Text>
+      <Key>O'Shee</Key>
+      <Title>Lt.-Col. (Bt. Col., ret., T.A.) (ret. pay, from Leinster R.)</Title>
+      <Forenames>G. I. P. P.</Forenames>
+      <Text>(Lt.-Col., Reg. Army Res. of Off., Gen. List)</Text>
       <PageNumber>8522</PageNumber>
     </MainItem>
     <SubItem>
@@ -550,7 +619,9 @@
       </Key>
       <Title>Lt.-Col.</Title>
       <Forenames>R. A. P.</Forenames>
-      <Text>, C.M.G. (ceases to belong to Res. of Off., having attained the age limit of liability to recall)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>7463</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -558,7 +629,9 @@
     <MainItem>
       <Key>Osmaston</Key>
       <Title>Maj.</Title>
-      <Text>TJ. E., M.C. (seed, whilst attending the Gunnery Staff Course)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6985</PageNumber>
     </MainItem>
     <SubItem>
@@ -576,8 +649,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan, Capt. Kingsley L. (retires, receiving a gratuity)</Text>
+      <Key>O'Sullivan</Key>
+      <Title>Capt.</Title>
+      <Forenames>Kingsley L.</Forenames>
+      <Text>(retires, receiving a gratuity)</Text>
       <PageNumber>7537</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -592,8 +667,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Toole, Lt. A. H. (retires, receiving a gratuity and granted rank of Capt.), Sub. Not</Text>
+      <Key>O'Toole</Key>
+      <Title>Lt.</Title>
+      <Forenames>A. H.</Forenames>
+      <Text>(retires, receiving a gratuity and granted rank of Capt.), Sub. Not</Text>
       <PageNumber>7203</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -673,7 +750,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>L. C. C</Forenames>
-      <Text>, M.C. (Maj., Reg. Army Res. of Off., Gen. List, late 3rd R. Lr. Fus., Spec. Res.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7670</PageNumber>
     </MainItem>
     <SubItem>
@@ -690,7 +769,9 @@
       <PageNumber>8522</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Lt.-Col., Reg. Army Res. of Off., Regtl. List, R.A.M.C., late E. Afr. Med, Serv</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9036</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -699,7 +780,9 @@
       <Key>Owston</Key>
       <Title>Maj.</Title>
       <Forenames>L. V.</Forenames>
-      <Text>, D.S.O. (Maj., 3rd/6th D.G., from 3rd D.G</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8715</PageNumber>
     </MainItem>
     <SubItem>
@@ -729,7 +812,9 @@
       <Key>Page</Key>
       <Title>Maj.</Title>
       <Forenames>Charles Henry</Forenames>
-      <Text>, D.S.O. Maj., Reg. Army Res. of Off., Regtl. List, Inf., Foresters,</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8414</PageNumber>
     </MainItem>
     <SubItem>
@@ -744,7 +829,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>G. F.</Forenames>
-      <Text>, D.S.O. (Not. of retirement, receiving a gratuity in Gaz. of 12th Sept.,</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8035</PageNumber>
     </MainItem>
   </ItemGroup>

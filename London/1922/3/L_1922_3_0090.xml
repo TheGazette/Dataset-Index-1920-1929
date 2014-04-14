@@ -5,7 +5,9 @@
       <Key>Hastings</Key>
       <Title>Maj. and Bt. Lt.-Col.</Title>
       <Forenames>W. H.</Forenames>
-      <Text>, D.S.O. (G.S.O., II., N. Comd.) ._</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6446</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -27,11 +29,13 @@
       <Key>Hendley</Key>
       <Title>Maj.-Gen.</Title>
       <Forenames>H.</Forenames>
-      <Text>, C.S.I., M.D., K.H.S. (Dep. Dir. of Mil. Services) (corr.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>5285</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Deletion of name from list of Asst. Dirs. of Med. Services in Gaz., 22nd July, 1921</Text>
+      <Text>Deletion of name from list of Asst. Dirs. of Med. Services in Gaz., 22nd July, 1921.</Text>
       <PageNumber>5285</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -51,7 +55,10 @@
       </Key>
       <Title>Maj. and Bt. Lt.-Col.</Title>
       <Forenames>W. N.</Forenames>
-      <Text>, C.M.G., D.S.O. (rel. appt. as G.S.O., 1st Grade, Rawalpindi Dist.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5783</PageNumber>
     </MainItem>
     <SubItem>
@@ -64,7 +71,11 @@
       <Key>Heriz-Smith</Key>
       <Title>Maj.</Title>
       <Forenames>G. V.</Forenames>
-      <Text>, O.B.E., M.C. (D:A.Q.M.G., Q.M.C. Bch., A.H.Q.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6446</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -73,7 +84,11 @@
       <Key>Hobart</Key>
       <Title>Capt. and Bt. Maj.</Title>
       <Forenames>P</Forenames>
-      <Text>,C. S. D.S.O., O.B.E., M.C. (G.S.O., 2nd Grade, Wana Column) ..;</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6234</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -108,7 +123,9 @@
       <Key>Hudson</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>C.</Forenames>
-      <Text>,C.I.E., D.S.O., F.R.C.S.E., (Asst. Dir., Medical Services, Wana Column)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6235</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -116,7 +133,9 @@
     <MainItem>
       <Key>Hunter</Key>
       <Title>Maj. and Bt.</Title>
-      <Text>-Lt. H. N. A., D.S.O. (rel. appt. as G.S.O., IL,N. Comd.) .:</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6446</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -132,7 +151,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Jackson</Key>
-      <Text>CoL (temp. Col. Comdt.) H. W., C.S.I., D.S.O. (Bde. Comdr., 10th Ind. Inf. Bde.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5783</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -141,7 +162,10 @@
       <Key>James</Key>
       <Title>Maj. Gen.</Title>
       <Forenames>W. B.</Forenames>
-      <Text>, C.B., CLE., M.V.O. (rel. appt. as Dist. Comdr., Bombay Dist.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>5783</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -158,7 +182,9 @@
     <MainItem>
       <Key>Kamalnddin</Key>
       <Forenames>Khan</Forenames>
-      <Text>, Bahadur, Lt. (temp. Capt.), M.C. (G.S.O. 3rd Grade, Wana Column)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6234</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -174,7 +200,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Keen</Key>
-      <Text>Lt.-Col. F.S.(G.S.O.,L, G.S. Bch. A.H.Q.)</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>F.S.</Forenames>
+      <Text>(G.S.O.,L, G.S. Bch. A.H.Q.)</Text>
       <PageNumber>6446</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -199,7 +227,13 @@
   <ItemGroup>
     <MainItem>
       <Key>Leith-Ross</Key>
-      <Text>! Maj. W.y M.C., see Boss, Maj. W. Leith, M.C. Leslie, Col. (temp. Maj.-Gen.) W. S., C.B., C.M.G., D.S.O. (Column Cdr., Wana Column)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6234</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -224,7 +258,11 @@
     <MainItem>
       <Key>Luckock</Key>
       <Title>Lt.</Title>
-      <Text>-CoL and Bt-Col. R. M., C.M.G., D.S.O. (rel. appt. as G.S.O., I., G.S. Bch., A. H.Q.) .„</Text>
+      <Text>
+        <Honour>Bt-</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6446</PageNumber>
     </MainItem>
     <SubItem>
@@ -258,7 +296,9 @@
       <Key>McCay</Key>
       <Title>Capt.</Title>
       <Forenames>R. C</Forenames>
-      <Text>, D.S.O. (Asst. Prov. Marshal, Wana Column)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6235</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -276,7 +316,9 @@
       <Key>Macdougall</Key>
       <Title>Maj.</Title>
       <Forenames>A</Forenames>
-      <Text>: I., D.S O , M.C., (D.A.A.G., A.G. Bch., A.H.Q.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5783</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -303,7 +345,9 @@
       <Key>Mackenzie</Key>
       <Title>Maj.</Title>
       <Forenames>J.</Forenames>
-      <Text>(rel. appt. as A.D.C. to the Govr.-Gen. of Madras)</Text>
+      <Text>
+        <Honour>A.D.C.</Honour>
+      </Text>
       <PageNumber>6447</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -325,7 +369,9 @@
       </Key>
       <Title>Capt. (temp. Maj.)</Title>
       <Forenames>J. M.</Forenames>
-      <Text>, M.C., M.B. (Dept. Asst. Dir., Medical Services, Wana Column) ._</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6235</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -351,7 +397,9 @@
       <Key>Marshall</Key>
       <Title>Maj.</Title>
       <Forenames>J. S.</Forenames>
-      <Text>, D.S.O. (Bde. Maj., 7th Ind. Inf. Bde.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5783</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -360,7 +408,9 @@
       <Key>Martin</Key>
       <Title>Maj. and Bt. Lt.-Col.</Title>
       <Forenames>G. D.</Forenames>
-      <Text>, M.C. (D.A.A.G., A.G., Bch., A.H.Q. (Rev. Sect, temp.))</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5783</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -369,7 +419,10 @@
       <Key>Massy</Key>
       <Title>Maj.</Title>
       <Forenames>H. R.</Forenames>
-      <Text>, D.S.O., M.C. (StaffOffr. R.A., E. Comd.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6446</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -378,7 +431,9 @@
       <Key>Mears</Key>
       <Title>Lt.</Title>
       <Forenames>G. G.</Forenames>
-      <Text>, M.C. (rel. app. as AD.C, PersonalStaff of the Viceroy)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6447</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -387,7 +442,9 @@
       <Key>Miller</Key>
       <Title>Lt.</Title>
       <Forenames>E. C</Forenames>
-      <Text>, O.B.E. (Orderly Offr. to Comdg. R.A., Wana Column)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>6235</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -395,7 +452,9 @@
     <MainItem>
       <Key>Moir</Key>
       <Title>Lt.-Col.</Title>
-      <Text>andBt. Col. A. J. G., D.S.O.) A.Q.M.G., Q.M.G., Bch.,A.H.Q.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6446</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -421,14 +480,21 @@
     <MainItem>
       <Key>Morgan-Owen</Key>
       <Title>Maj. and Bt. Lt.</Title>
-      <Text>Col. L. I. G., C.M.G., D.S.O. (A A. and Q.M.G., Wana Column)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6234</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Monld</Key>
-      <Text>Lt. B. S., M.C. (Adjt. and Qrmr., Wana Column)</Text>
+      <Title>Lt.</Title>
+      <Forenames>B. S.</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6236</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -446,7 +512,9 @@
       <Key>Neale</Key>
       <Title>Maj.</Title>
       <Forenames>W. W. R.</Forenames>
-      <Text>, O.B.E. (D.A.D.V.S., Wana Column)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>6235</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -455,7 +523,9 @@
       <Key>Newnham</Key>
       <Title>Col.</Title>
       <Forenames>C. C</Forenames>
-      <Text>, D.S.O. (Col. Comdt. Ambala Bde. Area, temp.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6446</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -464,7 +534,11 @@
       <Key>Newman</Key>
       <Title>Col.</Title>
       <Forenames>E. Harding</Forenames>
-      <Text>, see Harding-Newman, Col. E. Ogg, Maj. and Bt. Lt.-Col. A. C, D.S.O., O.B.E. (rel. appt. as A.AG., A.G. Feb.., A.H.Q.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>5784</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -473,7 +547,9 @@
       <Key>Orr</Key>
       <Title>Col. (temp. Col. Comdt. )</Title>
       <Forenames>G. M.</Forenames>
-      <Text>, D.S.O. (rel. appt. as B.ie. Comdr., lOch Ind. Inf. Bde.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5783</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -482,7 +558,13 @@
       <Key>Owen</Key>
       <Title>Maj. and Bt.</Title>
       <Forenames>Lt-</Forenames>
-      <Text>Col. L. I. J. Morgan, C.M.G., D.S.O., see Morgan-Owen, Maj. and Bt. Lt.-Col. L. I. G., C.M.G., D.S.O. Owens, Lt. T. D. C. (AD.C. and Camp Comdt., Wana Column)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Bt</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6234</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -491,7 +573,10 @@
       <Key>Parkin</Key>
       <Title>Capt. and Bt. Maj.</Title>
       <Forenames>H. D.</Forenames>
-      <Text>, O.B.E., M.C. (rel. appt. as D.A.A. and Q.M.G., Kobat Dist.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5784</PageNumber>
     </MainItem>
     <SubItem>
@@ -504,7 +589,9 @@
       <Key>Pavey</Key>
       <Title>Lt. (temp. Capt.)</Title>
       <Forenames>G. P.</Forenames>
-      <Text>, M.B.E. (Senior Signal Offr., Wana Column)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>6236</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -522,7 +609,9 @@
       <Key>Peel</Key>
       <Title>Maj.</Title>
       <Forenames>B. G.</Forenames>
-      <Text>, D.S.O. (D.A.A G., S. Comd.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6446</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -581,7 +670,9 @@
     <MainItem>
       <Key>Ramsay-Fairfax-</Key>
       <Forenames>Lucy</Forenames>
-      <Text>, Lt B. F. (A.D.C. to G.O.C., Madras Dist. &gt;</Text>
+      <Text>
+        <Honour>A.D.C.</Honour>
+      </Text>
       <PageNumber>6446</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -591,7 +682,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Lt E. A. R.</Forenames>
-      <Text>(rel. appt as A.D.C. to G.O.C., Madras Dist.)</Text>
+      <Text>
+        <Honour>A.D.C.</Honour>
+      </Text>
       <PageNumber>6447</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -600,7 +693,9 @@
       <Key>Reinhold</Key>
       <Title>Maj. and Bt.</Title>
       <Forenames>Lt-</Forenames>
-      <Text>Col. H. E., M.C. (G.S.O. II., W. Comd.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6446</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -609,7 +704,9 @@
       <Key>Reynolds</Key>
       <Title>Lt.</Title>
       <Forenames>J. R.</Forenames>
-      <Text>(A.D.C. and Camp Comdt., Wana Colnmn)</Text>
+      <Text>
+        <Honour>A.D.C.</Honour>
+      </Text>
       <PageNumber>6234</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -658,7 +755,9 @@
       <Key>Rose</Key>
       <Title>Maj.</Title>
       <Forenames>E. J.</Forenames>
-      <Text>, M.C. (Bde. Maj., 6th Ind. Inf. Bde.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5783</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -669,7 +768,9 @@
       </Key>
       <Title>Maj</Title>
       <Forenames>W. Leith</Forenames>
-      <Text>, M.C. (Bde. Maj., 22nd Ind. Inf. Bde.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6446</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -686,7 +787,9 @@
     <MainItem>
       <Key>Russell</Key>
       <Forenames>Lt W. R.</Forenames>
-      <Text>(A.D.C. and Camp. Comd t., W ana Column)</Text>
+      <Text>
+        <Honour>A.D.C.</Honour>
+      </Text>
       <PageNumber>6235</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -695,7 +798,9 @@
       <Key>Ryan</Key>
       <Title>Capt.</Title>
       <Forenames>C. E.</Forenames>
-      <Text>, M.C. (rel. appt. .-—! as Staff Offr., R.A., E. Comd.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6447</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -706,7 +811,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>D. G. J.</Forenames>
-      <Text>, D.S.O. (D.A.A.G..E. Comd.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5783</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -715,7 +822,9 @@
       <Key>Scott</Key>
       <Title>Maj. Gen.</Title>
       <Forenames>T. E.</Forenames>
-      <Text>.C.B., CLE., D. S. O. (Bde. Comdr.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>6446</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -733,7 +842,9 @@
       <Key>Shearer</Key>
       <Title>Capt. and Bt. Maj.</Title>
       <Forenames>E. J.</Forenames>
-      <Text>, M.C. (D.A.Q.M.G., Madras Dist.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6446</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -757,7 +868,10 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>H. G. Gregory</Forenames>
-      <Text>, see Gregory-Smith, Lt. H. G. Smyth, Capt. J. G., V.C., M.C. (G.S.O., 3rd Grade, G.S. Bch., . A.H.Q.)</Text>
+      <Text>
+        <Honour>V.C.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5783</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -792,7 +906,9 @@
       <PageNumber>6234</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>A.D.C. and Camp Comdt., Wana Column, 16th Oct. to 2nd Nov., 1921</Text>
+      <Text>
+        <Honour>A.D.C.</Honour>
+      </Text>
       <PageNumber>6234</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -801,7 +917,10 @@
       <Key>Stone</Key>
       <Title>Maj.</Title>
       <Forenames>A. G.</Forenames>
-      <Text>, O.B.E., M.C. (D.A.Q.M.G., Kohat Dist., addl.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5783</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -829,7 +948,9 @@
     <MainItem>
       <Key>Surtees</Key>
       <Title>Lt. (temp. Capt.)</Title>
-      <Text>, G:, M.C. (rel. appt. as G.S.O., HI., E. Comd.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6447</PageNumber>
     </MainItem>
   </ItemGroup>

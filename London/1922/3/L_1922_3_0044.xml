@@ -25,8 +25,8 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Title>2nd Lt.</Title>
-      <Forenames>W. D. St</Forenames>
-      <Text>. G. K. (Lt.)</Text>
+      <Forenames>W. D. St. G</Forenames>
+      <Text>. K. (Lt.)</Text>
       <PageNumber>5358</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -42,7 +42,10 @@
     <MainItem>
       <Key>Khan</Key>
       <Forenames>Sahib Ahmed Mir</Forenames>
-      <Text>, Eisaldar Maj., Sardar Bahadur, M.B.E., I.D.S.M. (granted hon. rank of Capt.), Zhob Levy Corps</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+        <Honour>D.S.M.</Honour>
+      </Text>
       <PageNumber>6579</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -84,8 +87,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Killery</Key>
-      <Title>Lt.-Col. St.</Title>
-      <Forenames>John B.</Forenames>
+      <Title>Lt.-Col.</Title>
+      <Forenames>St. John B.</Forenames>
       <Text>(retires on ret. pay)</Text>
       <PageNumber>5361</PageNumber>
     </MainItem>
@@ -165,11 +168,15 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>Cecil Hankey Dickson</Forenames>
-      <Text>, D.S.O., M.C. (resigns commn.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6841</PageNumber>
     </MainItem>
     <SubItem>
       <Text>
+        <Honour>R.R.C.</Honour>
         <PageNumber>6842</PageNumber>
       </Text>
       <PageNumber>6842</PageNumber>
@@ -193,7 +200,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>G. H.</Forenames>
-      <Text>, D.S.O. (retires on ret. pay)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5104</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -252,7 +261,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Kingscote</Key>
-      <Text>.Capt.. and Bt. Maj. A. R. F., M.C. (retires, receiving a gratuity, and granted rank of Lt.-Col.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6441</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -261,7 +273,10 @@
       <Key>Kingston</Key>
       <Title>temp. Qrmr. and Capt.</Title>
       <Forenames>C</Forenames>
-      <Text>, M.B.E., D.C.M. (rel. commn. on completion of service and retains rank of Capt.), Sub. Not</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>5107</PageNumber>
     </MainItem>
     <SubItem>
@@ -291,7 +306,9 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>M. L. I.</Forenames>
-      <Text>, M.C. (rel. commn. on completion of service and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5778</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -300,7 +317,10 @@
       <Key>Kingstone</Key>
       <Title>Capt.</Title>
       <Forenames>J. J.</Forenames>
-      <Text>, D.S.O., M.C. (seed, for service on the Staff) ... ,</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6839</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -309,7 +329,9 @@
       <Key>Kinkead</Key>
       <Title>Lt.</Title>
       <Forenames>E.</Forenames>
-      <Text>, M.C. (retires, receiving a gratuity, and granted rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5962</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -333,7 +355,10 @@
       </Key>
       <Title>Col.</Title>
       <Forenames>G. R. V.</Forenames>
-      <Text>, C.M.G., D.S.O. (placed on h.p. on ceasing to be empld.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6906</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -344,7 +369,10 @@
       </Key>
       <Title>Capt. and Bt. Maj.</Title>
       <Forenames>W. A. C</Forenames>
-      <Text>, D.S.O., O.B.E. (placed on h.p. list on acc. of ill-health on vacating employment on Recruiting Duties)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>5867</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -366,7 +394,9 @@
       <Key>Kirk</Key>
       <Title>Lt.-Col. (retd.)</Title>
       <Forenames>J. C</Forenames>
-      <Text>, O.B.E. (ceases to belong to Res. of Offrs., having attained the age limit of liability to recall)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>6097</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -374,7 +404,10 @@
     <MainItem>
       <Key>Kirkpatrick</Key>
       <Title>Lt.-Col.</Title>
-      <Text>. (ret. pay) A. R. Y C.M.G., D.S.O. ILt.-Col., Reg. Army Res. of Off., Regtl. List, R.G.A.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5526</PageNumber>
     </MainItem>
     <SubItem>
@@ -417,7 +450,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>W. T.</Forenames>
-      <Text>, M.C. (retires, receiving a gratuity and granted rank of Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6774</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -439,7 +474,9 @@
       <Key>Knox</Key>
       <Title>Maj.</Title>
       <Forenames>R. F. B.</Forenames>
-      <Text>(Maj., The King's R., from R.D. Fus.)</Text>
+      <Text>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>6095</PageNumber>
     </MainItem>
     <SubItem>
@@ -472,7 +509,9 @@
       <Key>Koebel</Key>
       <Title>Maj.</Title>
       <Forenames>F. O.</Forenames>
-      <Text>, D.S.O. (retires on ret. pay and granted rank of Lt.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6230</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -493,7 +532,10 @@
     <MainItem>
       <Key>Kothawala</Key>
       <Forenames>H. R.</Forenames>
-      <Text>, M.V.O., O.B.E. (Hon. Capt.)</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>6021</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -530,7 +572,9 @@
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Lake</Forenames>
-      <Text>, Capt. B. C, D.S.O. (Adjt., 3rd K.O.S.B., Mila.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6160</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -540,7 +584,10 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Title>Lt.</Title>
-      <Text>-Gen. Sir P. H. N., K.C.B., K.C.M.G. (ceases to belong to Res. of Oft., having attained the age limit of liability to recall)</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>K.C.M.G.</Honour>
+      </Text>
       <PageNumber>5432</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -551,7 +598,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>R. D.</Forenames>
-      <Text>, D.S.O. (restd. to estabt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6377</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -569,7 +618,10 @@
       <Key>Lambarde</Key>
       <Title>Lt.-Col. (ret. pay)</Title>
       <Forenames>F. F.</Forenames>
-      <Text>, C.M.G., D.S.O. (Lt.-Col., Reg. Army Res. of Off., Regtl. List, R.G.A.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5432</PageNumber>
     </MainItem>
     <SubItem>
@@ -582,7 +634,9 @@
       <Key>Lambert</Key>
       <Title>Lt.</Title>
       <Forenames>H. F.</Forenames>
-      <Text>, M.C. (Adjt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5033</PageNumber>
     </MainItem>
     <SubItem>
@@ -674,7 +728,9 @@
       <Key>Langtry</Key>
       <Title>Capt.</Title>
       <Forenames>William Robert</Forenames>
-      <Text>Capt., Reg. Army Res. of Off., Regtl. List, R.D. Rif., late Serv. Bns.) ... ,</Text>
+      <Text>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>6444</PageNumber>
     </MainItem>
     <SubItem>
@@ -687,7 +743,9 @@
       <Key>Latham</Key>
       <Title>Capt.</Title>
       <Forenames>J.</Forenames>
-      <Text>, M.C. (Capt., H.L.I., from R. Mun. Fus., and to rem. seed.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6841</PageNumber>
     </MainItem>
     <SubItem>
@@ -731,7 +789,9 @@
       <Key>Lawrence</Key>
       <Title>Capt. and Bt. Maj.</Title>
       <Forenames>B. T. T.</Forenames>
-      <Text>, V.C. (placed on h.p. list on acc. of ill-health)</Text>
+      <Text>
+        <Honour>V.C.</Honour>
+      </Text>
       <PageNumber>6095</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -741,8 +801,8 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Title>Capt. (h.p. list)</Title>
-      <Forenames>G. St</Forenames>
-      <Text>. P. (retires on ret. pay on acc. of ill-health caused by wounds)</Text>
+      <Forenames>G. St. P</Forenames>
+      <Text>. (retires on ret. pay on acc. of ill-health caused by wounds)</Text>
       <PageNumber>5105</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -753,7 +813,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>L. A.</Forenames>
-      <Text>(Lt., W. York. R., from R.D. Fus.)</Text>
+      <Text>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>5962</PageNumber>
     </MainItem>
     <SubItem>
@@ -775,7 +837,9 @@
       <Key>Laws</Key>
       <Title>Supern. Capt.</Title>
       <Forenames>M. E. S.</Forenames>
-      <Text>, M.C. (restd. to estabt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6774</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -795,7 +859,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>Peter Grant</Forenames>
-      <Text>, Bart., 2nd Lt. (on prob.) Reg. Army Res. of Off., Supp. List, R.H.G., late Cadet, Harrow Sch. Cont., Jun. Div., O.T.C.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>6580</PageNumber>
     </MainItem>
   </ItemGroup>

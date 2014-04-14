@@ -30,7 +30,7 @@
       <PageNumber>920</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Rel. commn. and granted rank of Capt.</Text>
+      <Text>Rel. commn. and granted rank of Capt</Text>
       <PageNumber>1965</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -89,7 +89,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>C. T.</Forenames>
-      <Text>, M.C. (rel. commn. and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1881</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -204,7 +206,10 @@
       </Key>
       <Title>Lt.-Col.</Title>
       <Forenames>T. H. F.</Forenames>
-      <Text>, C.M.G., D.S.O. (retires on ret. pay and panted hon. rank of Brig.^Gen.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>343</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -215,7 +220,10 @@
       </Key>
       <Title>Maj. and Bt. Lt.-Col.</Title>
       <Forenames>T. R. C</Forenames>
-      <Text>C.M.G., D.S.O. (Lt.Col.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>838</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -248,7 +256,9 @@
       <Key>Prickett</Key>
       <Title>Maj. and Bt. Lt.-Col.</Title>
       <Forenames>C. H.</Forenames>
-      <Text>, D.S.O. (Lt.-Col. R. Corps. of Signals)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>351</PageNumber>
     </MainItem>
     <SubItem>
@@ -287,7 +297,9 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>N. H.</Forenames>
-      <Text>, M.C. (rel. commn. on completion of service and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1350</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -365,7 +377,10 @@
       <Key>Priestman</Key>
       <Title>Bt. Maj. (temp. Maj.)</Title>
       <Forenames>J. H. T.</Forenames>
-      <Text>, D.S.O., M.C. (temp. Maj. whilst a G.S.O., 2nd Gr.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>16</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -414,7 +429,9 @@
       <Key>Prince</Key>
       <Title>Lt.</Title>
       <Forenames>E. M.</Forenames>
-      <Text>, M.C. (rel. commn. and granted rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1684</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -443,11 +460,13 @@
       </Key>
       <Title>Lt.-Col.</Title>
       <Forenames>H. G.</Forenames>
-      <Text>, D.S.O. (placed on h.p. list on completion of 4 years' service as Regtl. Lt.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>14</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Col.</Text>
+      <Text>Col</Text>
       <PageNumber>134</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -494,7 +513,9 @@
       <Key>Pritchard</Key>
       <Title>Col. (temp. Brig.-Gen.)</Title>
       <Forenames>A. G.</Forenames>
-      <Text>, C.M.G. (date of promn to Col.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>1524</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -588,7 +609,9 @@
       <Key>Proctor-Beauchamp</Key>
       <Title>temp. Chapln., 4th CI., Rev. Sir</Title>
       <Forenames>M. H.</Forenames>
-      <Text>. Bt. (rel. commn. and to be Hon. Chapln., 4th CI.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>2295</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -624,7 +647,10 @@
       <Key>Pryce</Key>
       <Title>Lt.-Col. (Bt. Col.)</Title>
       <Forenames>H. E.</Forenames>
-      <Text>ap. R., C.M.G., D.S.O. (Col.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1525</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -660,7 +686,11 @@
       </Key>
       <Title>temp. 2nd Lt.</Title>
       <Forenames>R. J.</Forenames>
-      <Text>(temp. Lt.) Rel. commn. on completion of service and retains rank of Lt. ... ___ Quainton, temp. Lt. E. F. 'rel. commn. on completion of service and retains rank of Lt.) ... Quance, temp. 2nd Lt. J. S. (rel. commn. on completion of service, and retains rank of 2nd Lt.) Quartermaine, temp, Lt. H. L. (rel. . commn. on completion of service and retains rank of Lt.) ... Queripel, Maj. and Bt. Lt.-Col. L. H., C.M.G., D.S.O. (Lt.-Col.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>17</PageNumber>
     </MainItem>
   </ItemGroup>

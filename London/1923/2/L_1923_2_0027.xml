@@ -32,7 +32,10 @@
       <Key>Crowe</Key>
       <Title>Sir</Title>
       <Forenames>Eyre</Forenames>
-      <Text>, G.C.M.G., K.C.B., Knight Grand Cross, Order of the Bath</Text>
+      <Text>
+        <Honour>G.C.M.G.</Honour>
+        <Honour>K.C.B.</Honour>
+      </Text>
       <PageNumber>4606</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -112,7 +115,9 @@
       <Key>Dashwood</Key>
       <Title>Sir</Title>
       <Forenames>John Lindsay</Forenames>
-      <Text>, Bart., Second Secretary in H.M. Diplomatic Service</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>4346</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -121,7 +126,10 @@
       <Key>Davies</Key>
       <Title>Gen. Sir</Title>
       <Forenames>Francis John</Forenames>
-      <Text>, K. C. B., K. O. M. G., K.C.V.O., A.D.C., Lieut, of His Majesty's Tower of London</Text>
+      <Text>
+        <Honour>K.C.V.O.</Honour>
+        <Honour>A.D.C.</Honour>
+      </Text>
       <PageNumber>4275</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -151,7 +159,9 @@
     <MainItem>
       <Key>Davis</Key>
       <Forenames>Charles Thomas</Forenames>
-      <Text>, C.M.G., Knight Commander, St. Michael and St. George</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>3946</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -180,7 +190,9 @@
       <Key>Davys</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Gerard Irvine</Forenames>
-      <Text>, M.D., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3948</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -194,9 +206,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Freitas</Forenames>
-      <Text>, Domingo Sebastian, Member of the Executive Council of the Island of Grenada</Text>
+      <Key>De Freitas</Key>
+      <Forenames>Domingo Sebastian</Forenames>
+      <Text>, Member of the Executive Council of the Island of Grenada</Text>
       <PageNumber>2810</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -204,7 +216,11 @@
     <MainItem>
       <Key>De</Key>
       <Forenames>Sausmarez</Forenames>
-      <Text>, Col. Cecil, C.M.G., D.S.O., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3944</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -213,7 +229,9 @@
       <Key>Deed</Key>
       <Title>Maj.</Title>
       <Forenames>Leslie Charles Bertram</Forenames>
-      <Text>, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>4133</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -257,7 +275,10 @@
       <Key>Diggle</Key>
       <Title>Capt. (temp Lt.-Col.)</Title>
       <Forenames>Wadham Heathcote</Forenames>
-      <Text>, M.C., Companion, Distinguished Service Order (correction)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>Companion, Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>4517</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -290,7 +311,9 @@
       <Key>Donne</Key>
       <Title>Capt.</Title>
       <Forenames>Thomas Edward</Forenames>
-      <Text>, Companion, St. Michael and St. George</Text>
+      <Text>
+        <Honour>Companion, St. Michael and St. George</Honour>
+      </Text>
       <PageNumber>3946</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -299,7 +322,10 @@
       <Key>Dorman</Key>
       <Title>Sir</Title>
       <Forenames>Arthur John</Forenames>
-      <Text>, K.B.E., J.P., Baronet</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>4608</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -307,7 +333,9 @@
     <MainItem>
       <Key>Dormer</Key>
       <Forenames>Cecil Francis Joseph</Forenames>
-      <Text>, Member, 4th Class, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3522</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -316,7 +344,10 @@
       <Key>Down</Key>
       <Title>Cdr.</Title>
       <Forenames>Richard Thornton</Forenames>
-      <Text>, D.S.O., Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3522</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -341,7 +372,9 @@
       <Key>Drummond</Key>
       <Title>Prof.</Title>
       <Forenames>David</Forenames>
-      <Text>, C. B.E., M.A., M.D.,D.C.L., LL.D., knighted</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>2640</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -352,6 +385,15 @@
       <Forenames>David</Forenames>
       <Text>, Member, Order of the British Empire</Text>
       <PageNumber>3949</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>du Cros</Key>
+      <Title>Capt.</Title>
+      <Forenames>George Herbert</Forenames>
+      <Text>, Knight of Grace, Order of St. John of Jerusalem</Text>
+      <PageNumber>3961</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -367,7 +409,9 @@
       <Key>Duncan</Key>
       <Title>Capt.</Title>
       <Forenames>Alan Wilson</Forenames>
-      <Text>, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>3953</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -377,14 +421,22 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Title>Maj .</Title>
-      <Text>-Gen. John, C.B., C.M.G., D.S.O., Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3522</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Dunedin</Key>
-      <Text>the Rt. Hon. Andrew, Baron, K.C.V.O., Knight Grand Cross, Royal Victorian Order</Text>
+      <Text>
+        <Honour>K.C.V.O.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3947</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -401,7 +453,10 @@
       <Key>Dykes</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Frecheville Hubert Ballantine</Forenames>
-      <Text>, D.S.O., see Ballantine-Dykes, Lt.Col. Frecheville Hubert, D. S.O. Eades, George, Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>D. S.O.</Honour>
+      </Text>
       <PageNumber>4607</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -417,7 +472,9 @@
     <MainItem>
       <Key>Edwards</Key>
       <Forenames>Richard Prior Ferdinand</Forenames>
-      <Text>, D.S.O., H.M. Consul at Brest</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3748</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -426,14 +483,21 @@
       <Key>Eley</Key>
       <Title>Col.</Title>
       <Forenames>Edward Henry</Forenames>
-      <Text>, C.M.G., D.S.O., T.D., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>3948</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Eliot</Key>
-      <Text>the Rt. Hon. Sir Charles Norton Edgcumbe, K.C.M.G., C.B., Knight Grand Cross, St. Michael and St. George</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>3946</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -444,7 +508,10 @@
       </Key>
       <Title>the Hon.</Title>
       <Forenames>Montague Charles</Forenames>
-      <Text>, O.B.E., Member, Royal Victorian Order</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3947</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -455,7 +522,9 @@
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Elliot</Forenames>
-      <Text>, George, O.B.E., knighted</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>2640</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -474,7 +543,9 @@
       <Key>Elmes</Key>
       <Title>Maj.</Title>
       <Forenames>Cecil Henry</Forenames>
-      <Text>, C.B.E., V.D., M.B., Esquire, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>3961</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -499,7 +570,14 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>the Rt. Hon. Sir Worthington Laming Worthington, Bt., G.B.E., , M.P., see WorthingtonEvans, the Rt. Hon. Sir Worthington Laming, Bt., G.B.E., M.P. Evoritt, Clement, Unofficial Member, Legislative Council of the Straits Settlements</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>G.B.E.</Honour>
+        <Honour>M.P.</Honour>
+        <Honour>Bt</Honour>
+        <Honour>G.B.E.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>3858</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -516,7 +594,9 @@
       <Key>Eyres-Monsell</Key>
       <Title>Cmdr.</Title>
       <Forenames>Bolton Meredith</Forenames>
-      <Text>, R.N., J.P., M.P., Member of the Privy Council</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4608</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -524,7 +604,9 @@
     <MainItem>
       <Key>Ezechiel</Key>
       <Forenames>Percy Hubert</Forenames>
-      <Text>, Companion, St. Michael and St. George</Text>
+      <Text>
+        <Honour>Companion, St. Michael and St. George</Honour>
+      </Text>
       <PageNumber>3946</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -549,7 +631,9 @@
     <MainItem>
       <Key>Fateh</Key>
       <Forenames>Singh</Forenames>
-      <Text>, Maharaja Sbri, Companion, Star of India</Text>
+      <Text>
+        <Honour>Companion, Star of India</Honour>
+      </Text>
       <PageNumber>3945</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -593,7 +677,9 @@
       <Key>Ferens</Key>
       <Title>The Rt. Hon.</Title>
       <Forenames>Thomas Robinson</Forenames>
-      <Text>, P.C., Knight of Grace, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>P.C.</Honour>
+      </Text>
       <PageNumber>3961</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -601,7 +687,9 @@
     <MainItem>
       <Key>Fernando</Key>
       <Forenames>Hilarion Marcus</Forenames>
-      <Text>, M.D., B.Sc, knighted</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>2640</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -669,7 +757,9 @@
       <Key>Fountaine</Key>
       <Title>Capt.</Title>
       <Forenames>Charles Andrew</Forenames>
-      <Text>, R.N., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3944</PageNumber>
     </MainItem>
   </ItemGroup>

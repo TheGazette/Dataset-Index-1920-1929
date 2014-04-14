@@ -21,7 +21,9 @@
     <MainItem>
       <Key>Carpenter</Key>
       <Forenames>Flying Offr</Forenames>
-      <Text>. Edgar Theodore, M.C. (Fit. Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>15</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -105,7 +107,9 @@
     <MainItem>
       <Key>Chick</Key>
       <Forenames>Flying Offr</Forenames>
-      <Text>. John Stanley, M.C. (granted perm, commn.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2170</PageNumber>
     </MainItem>
     <SubItem>
@@ -159,7 +163,9 @@
     <MainItem>
       <Key>Colbeck</Key>
       <Forenames>Flying Offr</Forenames>
-      <Text>. Paul, M.B.E. (trd. to Reserve, Class C.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>712</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -210,7 +216,10 @@
       <Key>Costello</Key>
       <Title>Fit. Lt.</Title>
       <Forenames>Joseph Mary Aloysius</Forenames>
-      <Text>, M.C., M.D., M.Sc. (Squadrn. Leader)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>16</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -218,7 +227,10 @@
     <MainItem>
       <Key>Cottle</Key>
       <Forenames>Flying Offr</Forenames>
-      <Text>. Jack, M.B.E., D.F.C. (Fit. Lt.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>15</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -234,7 +246,9 @@
     <MainItem>
       <Key>Craik</Key>
       <Forenames>Flying Offr</Forenames>
-      <Text>. David, D.F.C. (Fit. Lt)</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>15</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -268,7 +282,9 @@
     <MainItem>
       <Key>DAlbiac</Key>
       <Forenames>Fit</Forenames>
-      <Text>, Lt. John Henry, D.S.O. (Squadrn, Leader)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>15</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -276,7 +292,9 @@
     <MainItem>
       <Key>Dand</Key>
       <Forenames>Flying Offr</Forenames>
-      <Text>. James Huddart M.B.E. iFlt.Lt.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>15</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -312,7 +330,10 @@
     <MainItem>
       <Key>Davidson</Key>
       <Forenames>Flying Offr</Forenames>
-      <Text>. Charles Robert, M.C., D.F.C. (Fit Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>15</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -328,13 +349,23 @@
     <MainItem>
       <Key>Day</Key>
       <Forenames>Observer Offr</Forenames>
-      <Text>. William Conway, M.C. (granted permanent commn.) „</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1423</PageNumber>
     </MainItem>
     <SubItem>
       <Text>Not. in Gaz., 24th Oct., 1919, of appt. to short service commn., cancelled</Text>
       <PageNumber>1234</PageNumber>
     </SubItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Burgh</Key>
+      <Title>(Lt. R.N. retd.)</Title>
+      <Text>, Ulric Campbell (granted short service commn. as Flying Offr. for 7 years on Active List)</Text>
+      <PageNumber>2420</PageNumber>
+    </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
@@ -417,7 +448,9 @@
     <MainItem>
       <Key>Dougall</Key>
       <Forenames>Flying Offr</Forenames>
-      <Text>. Norman Stewart, D.F.C. (placed on retired list on account of illhealth contracted on active service)</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>225</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -446,7 +479,9 @@
     <MainItem>
       <Key>Dredge</Key>
       <Forenames>Flying Offr</Forenames>
-      <Text>. Austin Edward Makinson, M.B.E. (granted short service commn.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>1075</PageNumber>
     </MainItem>
     <SubItem>
@@ -459,7 +494,11 @@
       <Key>Drummond</Key>
       <Title>Fit. Lt.</Title>
       <Forenames>Roy Maxwell</Forenames>
-      <Text>, D.S.O., O.B.E., M.C. (Squadrn. Leader)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>15</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -494,7 +533,10 @@
       <Key>Eldridge</Key>
       <Title>Lt. (K.G.A.)</Title>
       <Forenames>William John</Forenames>
-      <Text>, D.S.O., M.C. (granted temp, commn. as Flying Offr. on seed, for four years' duty with the R.A.F.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>712</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -502,7 +544,9 @@
     <MainItem>
       <Key>Elliot</Key>
       <Forenames>Flying Offr</Forenames>
-      <Text>. William,(D.F.C. (Fit. Lt.)</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>15</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -519,7 +563,10 @@
       <Key>Eyton</Key>
       <Title>Fit. Lt. (since promoted)</Title>
       <Forenames>Charles Sandford Wynne</Forenames>
-      <Text>, D.S.O., see Wynne-Eyton, Fit. Lt. (since promoted) Charles Sandford, D.S.O. Fairbairn, Fit. Lt. William Ross (rank and precedence)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>307</PageNumber>
     </MainItem>
     <SubItem>
@@ -531,241 +578,13 @@
     <MainItem>
       <Key>Fairweather</Key>
       <Forenames>Flying Offr</Forenames>
-      <Text>. James MacGregor, D.F.C. (placed on half-pay scale B., for two months)</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>307</PageNumber>
     </MainItem>
   </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Farmer</Key>
-      <Forenames>Flying Offr</Forenames>
-      <Text>. Percy Jack (Fit. Lt.)</Text>
-      <PageNumber>16</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Farrington</Key>
-      <Forenames>Flying Offr</Forenames>
-      <Text>. (Lt., R.F.A.) Frank Cecil, M.C. (rel. temp, commn. on return to Army duty)</Text>
-      <PageNumber>332</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Faulkner</Key>
-      <Title>Staff Nurse</Title>
-      <Forenames>Gwendoline Pattie</Forenames>
-      <Text>(Sister)</Text>
-      <PageNumber>226</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Fitzmaurice</Key>
-      <Title>Cadet</Title>
-      <Forenames>Maurice James</Forenames>
-      <Text>(granted perm, commn. as Pilot Offr.)</Text>
-      <PageNumber>533</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Flack</Key>
-      <Forenames>Wing Cdr</Forenames>
-      <Text>. Martin William, C.B.E., M.B., M.A. (Group . Capt.)</Text>
-      <PageNumber>16</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Flint</Key>
-      <Forenames>Pilot Offr</Forenames>
-      <Text>. on prob. Maxwell Charles William Craig, M.C. (confd.)</Text>
-      <PageNumber>307</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Forde</Key>
-      <Forenames>Pilot Offr</Forenames>
-      <Text>. Arthur Michael Alexander (short serv. commn. terminated on cessation of duty)</Text>
-      <PageNumber>2320</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>France</Key>
-      <Title>Staff Nurse</Title>
-      <Forenames>Dorothy</Forenames>
-      <Text>(Sister)</Text>
-      <PageNumber>226</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Fraser</Key>
-      <Title>Capt.</Title>
-      <Forenames>S. G. G.</Forenames>
-      <Text>, M.C. (Ma}.)</Text>
-      <PageNumber>142</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Freeman</Key>
-      <Forenames>Wing Cdr</Forenames>
-      <Text>. Wilfrid Rhodes, D.S.O., M.C. (Group Capt.)</Text>
-      <PageNumber>15</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Frith</Key>
-      <Forenames>Flying Offr</Forenames>
-      <Text>. Charles Victor (trd, to Reserve, Class A)</Text>
-      <PageNumber>712</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Frost</Key>
-      <Title>Fit. Lt.</Title>
-      <Forenames>Stanley</Forenames>
-      <Text>(trd. to Reserve, Class A)</Text>
-      <PageNumber>1413</PageNumber>
-    </MainItem>
-    <SubItem>
-      <Text>Trd. toReserve,Cla9sB. (corr.)</Text>
-      <PageNumber>1996</PageNumber>
-    </SubItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Fuller</Key>
-      <Title>Fit. Lt.</Title>
-      <Forenames>Herbert Francis</Forenames>
-      <Text>(Sqnadrn. Leader)</Text>
-      <PageNumber>16</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Gallehawk</Key>
-      <Title>Fit. Lt.</Title>
-      <Forenames>Arthur Noel</Forenames>
-      <Text>, A.F.O. (Squadrn. Leader)</Text>
-      <PageNumber>15</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Gerrard</Key>
-      <Forenames>Group</Forenames>
-      <Text>Capt. Eugene Louis, C. M.G., D.S.O., (Air Commodore)</Text>
-      <PageNumber>15</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Gibbs</Key>
-      <Forenames>Flying Offr</Forenames>
-      <Text>. Gerald Ernest, M.C. (Fit. Lt.)</Text>
-      <PageNumber>15</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Gibson</Key>
-      <Title>2nd Lt. (hon. Lt.)</Title>
-      <Forenames>Colin John Ranken</Forenames>
-      <Text>(permission to retain rank withdrawn on joinTerritorial Army)</Text>
-      <PageNumber>2320</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Gifford</Key>
-      <Forenames>Flying Offr</Forenames>
-      <Text>. (Hon. FltLt.) Charles Maurice Elton (granted short serv. commn. as Flying Offr. for seven years on active list)</Text>
-      <PageNumber>2320</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Glover</Key>
-      <Forenames>Pilot Offr</Forenames>
-      <Text>. Alfred Meyrick (Flying Oflr.)</Text>
-      <PageNumber>912</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Goldsmid</Key>
-      <Title>Cadet</Title>
-      <Forenames>Francis Frederick Rowsell</Forenames>
-      <Text>(granted perm, commn. as.Pilot Offr.)</Text>
-      <PageNumber>533</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Graham</Key>
-      <Title>Miss</Title>
-      <Forenames>Edith Dorothea Leslie</Forenames>
-      <Text>(confd. in appt. as Staff Nuise)</Text>
-      <PageNumber>382</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Hall</Key>
-      <Forenames>Edward Guillermo Sanchez</Forenames>
-      <Text>, M. B. (granted short service commn. as Fit. Lt.)</Text>
-      <PageNumber>1824</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>Flying Offr</Forenames>
-      <Text>. Frank Owen (Fit. Lt.)</Text>
-      <PageNumber>16</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Halley</Key>
-      <Text>. Fit. Lt. Robert, D.F.C., A.F.C. (restored to full pay from half-pay)</Text>
-      <PageNumber>382</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Halliwell</Key>
-      <Forenames>Reginald Thomas</Forenames>
-      <Text>(granted short service commn. as Pilot Otfr. on prob.)</Text>
-      <PageNumber>382</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Hanstock</Key>
-      <Forenames>Pilot Offr</Forenames>
-      <Text>. Brendan John O'Connor (Flying Offr.)</Text>
-      <PageNumber>912</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Harris</Key>
-      <Forenames>Pilot Oftr</Forenames>
-      <Text>. Arthur Leslie (Flying Uffr.)</Text>
-      <PageNumber>912</PageNumber>
-    </MainItem>
-  </ItemGroup>
+  <KeyDitto>___ ___</KeyDitto>
   <ItemGroup>
     <MainItem>
       <Key>
@@ -773,57 +592,11 @@
       </Key>
       <Title>Cadet</Title>
       <Forenames>Frederick Samuel</Forenames>
-      <Text>(granted perm, commn. as Pilot Offr.)</Text>
-      <PageNumber>533</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Harrison</Key>
-      <Forenames>Flying Offr</Forenames>
-      <Text>. Richard, D. F.C. (grantedperm, commn.) (since promoted)</Text>
-      <PageNumber>382</PageNumber>
-    </MainItem>
-    <SubItem>
-      <Text>Not. in Gaz., 24th Oct, 1919, of appt. to short service commn, cancelled</Text>
-      <PageNumber>382</PageNumber>
-    </SubItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Hay</Key>
-      <Forenames>Flying Offr</Forenames>
-      <Text>. Percival, M.C. (Fit. Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>16</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Haythornthwaite</Key>
-      <Forenames>Becher Fitz-</Forenames>
-      <Text>james, M.B., B.A. (granted short service commn. as Fit. Lt.)</Text>
-      <PageNumber>1996</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Heaven</Key>
-      <Forenames>Pilot Offr</Forenames>
-      <Text>. Eustace Joseph (short service commn. terminated on cessation of duty)</Text>
-      <PageNumber>1413</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Hempel</Key>
-      <Forenames>Flying Offr</Forenames>
-      <Text>. Arthur Ernest (trd. to Reserve Class C) ~</Text>
-      <PageNumber>1306</PageNumber>
-    </MainItem>
-    <SubItem>
-      <Text>Corr. of name ... ._</Text>
-      <PageNumber>1824</PageNumber>
-    </SubItem>
   </ItemGroup>
 </Index>
 

@@ -225,7 +225,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Murcott</Key>
-      <Text>. S. S</Text>
+      <Forenames>S. S</Forenames>
       <PageNumber>2128</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -533,7 +533,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Razzell</Key>
-      <Text>.A. M</Text>
+      <Forenames>A. M</Forenames>
       <PageNumber>2608</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1160,8 +1160,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Weldon</Key>
-      <Forenames>C. St</Forenames>
-      <Text>. L</Text>
+      <Forenames>C. St. L</Forenames>
       <PageNumber>3451</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1624,15 +1623,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, W</Text>
+      <Key>O'Connor</Key>
+      <Forenames>W</Forenames>
       <PageNumber>2769</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Leary, F. H</Text>
+      <Key>O'Leary</Key>
+      <Forenames>F. H</Forenames>
       <PageNumber>3908</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1791,6 +1790,13 @@
       <Key>Davis</Key>
       <Forenames>H. L.</Forenames>
       <PageNumber>4046</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Woolfson</Key>
+      <Forenames>A. H. F.</Forenames>
+      <PageNumber>2964</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

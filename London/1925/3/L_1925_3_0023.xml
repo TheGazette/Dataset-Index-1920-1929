@@ -257,7 +257,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Chilton</Key>
-      <Text>G. '</Text>
+      <Forenames>G.</Forenames>
+      <Text>'</Text>
       <PageNumber>5218</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -485,7 +486,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cooper</Key>
-      <Text>I</Text>
+      <Forenames>I.</Forenames>
       <PageNumber>6147</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -583,7 +584,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cox</Key>
-      <Text>E. G. H</Text>
+      <Forenames>E. G. H.</Forenames>
       <PageNumber>6278</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -869,6 +870,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Salis</Key>
+      <Forenames>P. F</Forenames>
+      <Text>:</Text>
+      <PageNumber>4783</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Deall</Key>
       <Forenames>R. E. G</Forenames>
       <PageNumber>5285</PageNumber>
@@ -1028,6 +1037,13 @@
       <Key>Drury-Lowe</Key>
       <Forenames>J. D. B</Forenames>
       <PageNumber>4703</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>du Heaume</Key>
+      <Forenames>A. D</Forenames>
+      <PageNumber>6205</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1833,8 +1849,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gratte</Key>
-      <Forenames>A. E. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>A. E. St. G</Forenames>
       <PageNumber>4626</PageNumber>
     </MainItem>
   </ItemGroup>

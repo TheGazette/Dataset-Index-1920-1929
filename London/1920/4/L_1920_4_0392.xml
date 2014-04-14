@@ -5,7 +5,11 @@
       <Key>Bowman</Key>
       <Title>Flight Lt.</Title>
       <Forenames>G. H.</Forenames>
-      <Text>, D.S.O., M.C., D.F.C. (Sqdn. Leader)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>12758</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -21,7 +25,9 @@
     <MainItem>
       <Key>Boyce</Key>
       <Forenames>Flying</Forenames>
-      <Text>and Obsvr. Offr. G. H., A.F.C. (Flight Lt.)</Text>
+      <Text>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>12758</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -56,7 +62,9 @@
       <Key>Bradley</Key>
       <Title>Sqdn.</Title>
       <Forenames>Leader J. S. T.</Forenames>
-      <Text>, O.B.E. (granted perm. commn.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>12400</PageNumber>
     </MainItem>
     <SubItem>
@@ -205,7 +213,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Brixev</Key>
-      <Text>Cadet H. G. (Hon. 2nd Lt.)</Text>
+      <Title>Cadet</Title>
+      <Forenames>H. G.</Forenames>
+      <Text>(Hon. 2nd Lt.)</Text>
       <PageNumber>10862</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -232,7 +242,10 @@
       <Key>Bromet</Key>
       <Title>Sqdn.</Title>
       <Forenames>Leader G. R.</Forenames>
-      <Text>D.S.O., O.B.E. (Wing Comdr.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>12758</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -257,7 +270,9 @@
     <MainItem>
       <Key>Broomfield</Key>
       <Forenames>Flying Offr</Forenames>
-      <Text>. A. J. E., D.F.C. (granted perm. commn.)</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>12400</PageNumber>
     </MainItem>
     <SubItem>
@@ -331,7 +346,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Flying</Forenames>
-      <Text>and Obsvr. Offr. K. H., D.F.C. (Flight Lt.)</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>12758</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -349,7 +366,9 @@
       <Key>Bruce</Key>
       <Title>Sqdn.</Title>
       <Forenames>Leader W. R.</Forenames>
-      <Text>, O.B.E. (granted perm. commn.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>11119</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -448,7 +467,9 @@
     <MainItem>
       <Key>Burdett</Key>
       <Forenames>Wing Comdr</Forenames>
-      <Text>. A. B., D.S.O. (Group Capt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>12757</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -509,7 +530,9 @@
       <Key>Callaway</Key>
       <Title>Flight Lt.</Title>
       <Forenames>W. B.</Forenames>
-      <Text>, A.F.C. (Sqdn. Leader)</Text>
+      <Text>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>12758</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -527,7 +550,9 @@
       <Key>Campbell</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>C. F.</Forenames>
-      <Text>, CLE., O.B.E. (trd. to unempld. list)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>10000</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -566,14 +591,19 @@
   <ItemGroup>
     <MainItem>
       <Key>Carnac</Key>
-      <Text>Flying Offr. Wilfrid, M.B.E. (corr. of name, 8 Oct., from Revett-Carnac)</Text>
+      <Forenames>Flying Offr</Forenames>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>12401</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Carr</Key>
-      <Text>2nd Lt. (Hon. Lt.) C. V. (rel. temp. R.A.F. commn. on appt. to T.F.R., and retains rank of Lt.)</Text>
+      <Title>2nd Lt. (Hon. Lt.)</Title>
+      <Forenames>C. V.</Forenames>
+      <Text>(rel. temp. R.A.F. commn. on appt. to T.F.R., and retains rank of Lt.)</Text>
       <PageNumber>12195</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -666,7 +696,9 @@
       <Key>Chainey</Key>
       <Title>Flight Lt.</Title>
       <Forenames>G. B.</Forenames>
-      <Text>, O.B.E. (rel. temp. R.A.F. commn. on retirement from R.N., and granted rank of Sqdn. Leader)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>10307</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -682,7 +714,11 @@
     <MainItem>
       <Key>Chamier</Key>
       <Forenames>Wing Comdr</Forenames>
-      <Text>. J. A., C.M.G., D.S.O., O.B.E. (Group Capt.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>12757</PageNumber>
     </MainItem>
   </ItemGroup>

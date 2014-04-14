@@ -97,7 +97,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Astorri</Key>
-      <Text>. Miss M. L. (ceases to be empld. as Asst. AdminBs., Q.M.A.A.C.)</Text>
+      <Title>Miss</Title>
+      <Forenames>M. L.</Forenames>
+      <Text>(ceases to be empld. as Asst. AdminBs., Q.M.A.A.C.)</Text>
       <PageNumber>3510</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -106,7 +108,9 @@
       <Key>Atcheson</Key>
       <Title>temp. Capt.</Title>
       <Forenames>H.</Forenames>
-      <Text>'C. (rel. commn. on completion of service, and granted rank of Mag.) Atchison, Maj. (Bt. Lt.-Col.) H. W. (rel. actg. rank of Lt.-Col.) on ceasing to comd. Brig, of Art.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>486</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -133,7 +137,9 @@
       <Key>Atkin</Key>
       <Title>Capt.</Title>
       <Forenames>B. G.</Forenames>
-      <Text>, M.C. (restd. to</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1519</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -151,7 +157,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Atkin-Berry</Key>
-      <Text>IA. H, G., M.C. (rel</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>168</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -185,7 +193,7 @@
       <PageNumber>673</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Lt.) Reil. comimn. on' acc. of dBheailth contracted on active service, and retains rank of Lt. (Sub</Text>
+      <Text>Lt.) Reil. comimn. on' acc. of dBheailth contracted on active service, and retains rank of Lt. (Sub.</Text>
       <PageNumber>673</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -219,7 +227,9 @@
       </Key>
       <Title>2nd Lt.</Title>
       <Forenames>W. H.</Forenames>
-      <Text>(Lt.) Atkinson, Miss A. L., O.B.E. dOon</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>1343</PageNumber>
     </MainItem>
     <SubItem>
@@ -234,11 +244,13 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>E. A.</Forenames>
-      <Text>, M.C. (resigns commn., and retains rank of</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>954</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Resigns' comimin., and granted rank of Maj</Text>
+      <Text>Resigns' comimin., and granted rank of Maj.</Text>
       <PageNumber>3735</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -249,7 +261,10 @@
       </Key>
       <Title>Capt. (Bt. Maj.)</Title>
       <Forenames>G. P.</Forenames>
-      <Text>, D.S.O., M.C. (reLactg. rank of Maj. on ceasing to be 2nd in comd. oil the 51st Serv. Bn., R</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2312</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -306,7 +321,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>J. V.</Forenames>
-      <Text>, M.C. (resitd. to estabt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1521</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -317,7 +334,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>K. P.</Forenames>
-      <Text>, M.C. i(tel. actg. rank of Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>292</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -339,7 +358,9 @@
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Atkinson</Forenames>
-      <Text>, Lt. L. C, M.C. (rel. actg. rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>179</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -470,7 +491,9 @@
     <MainItem>
       <Key>Attwooll</Key>
       <Title>temp.</Title>
-      <Text>(Lt. J. M., M.C. (rel. commn. on completion of service, and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2986</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -486,7 +509,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Aubentson</Key>
-      <Text>. Capt. T. '(rel. actg. rank of Maj.)</Text>
+      <Title>Capt.</Title>
+      <Forenames>T.</Forenames>
+      <Text>'(rel. actg. rank of Maj.)</Text>
       <PageNumber>1790</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -526,7 +551,9 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>2nd Jjt. C, (M.M..(ILt.)</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>3631</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -568,7 +595,10 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Title>Col.</Title>
-      <Text>,H. H., O.B., C.M.G., D.S.O. i(placed on h.p.), Sub. (Not</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1791</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -662,7 +692,9 @@
     <MainItem>
       <Key>Avens</Key>
       <Forenames>Lt</Forenames>
-      <Text>, G. W.; M.C. (actg. Capt. oomdg. a Co.; A. of 0.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1539</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -702,7 +734,9 @@
       <Key>Avis</Key>
       <Title>2nd Lt.</Title>
       <Forenames>F. C</Forenames>
-      <Text>, D.C.M. (iLt.)</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>2730</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -778,7 +812,9 @@
       <Key>Aylwin</Key>
       <Title>temp. Capt.</Title>
       <Forenames>B. E.</Forenames>
-      <Text>, M.C. .(rel. commn. on completion of service, and grantedrank of 'Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>687</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -846,7 +882,7 @@
       <PageNumber>2270</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Resigns commn., and retains rank of Lt</Text>
+      <Text>Resigns commn., and retains rank of Lt.</Text>
       <PageNumber>2986</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -875,7 +911,9 @@
       <Key>Backhaul</Key>
       <Title>temp. Lt.</Title>
       <Forenames>A. C</Forenames>
-      <Text>, M.C. (rel. oommn. on completion of service and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1651</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -892,7 +930,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Title>temp. Lt.</Title>
-      <Text>IR. J., M.C. (rel oommn. on acc. of ill-health caused by wounds, and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2852</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -928,7 +968,9 @@
       <Key>Bacon</Key>
       <Title>temp. Capt.</Title>
       <Forenames>C. W.</Forenames>
-      <Text>, O.B.E. '(rel. actg. rank of Maj.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>1649</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -957,7 +999,10 @@
       <Key>Baddeley</Key>
       <Title>Col.</Title>
       <Forenames>C. E.</Forenames>
-      <Text>. C.B., C.M.G. (retires on an Ind. pension, .having attained the age limit)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>1791</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -966,7 +1011,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>lit. H., M.B.E. (placed on ret. pay, having reached the age fixed for compulsory retirement) :</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>2567</PageNumber>
     </MainItem>
   </ItemGroup>

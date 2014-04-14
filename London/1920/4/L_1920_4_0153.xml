@@ -14,7 +14,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>D.</Forenames>
-      <Text>, M.C. (rel. commn. and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10396</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -105,7 +107,9 @@
       </Key>
       <Title>temp. 2nd Lt.</Title>
       <Forenames>G.</Forenames>
-      <Text>, M.M. (R. West Kent R.) (rel. commn. on completion of service, and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>12283</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -138,7 +142,9 @@
       </Key>
       <Title>temp. Capt.</Title>
       <Forenames>H. E.</Forenames>
-      <Text>, D.S.O. (temp. Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>12150</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -160,7 +166,9 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>H. W.</Forenames>
-      <Text>, M.C. (rel. commn. on completion of service, arid retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>11580</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -256,11 +264,14 @@
       </Key>
       <Title>Maj. (now Lt.-Col.)</Title>
       <Forenames>W. G. K.</Forenames>
-      <Text>, C.M.G., D.S.O. (temp. Lt.-Col. whilst comdg. their Regt.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>10919</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Rel. temp, rank of Brig.Gen., and to be temp. Col. Comdt. whilst holding present appt</Text>
+      <Text>Rel. temp, rank of Brig.Gen., and to be temp. Col. Comdt. whilst holding present appt.</Text>
       <PageNumber>12695</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -455,14 +466,21 @@
       <Key>Greensmith</Key>
       <Title>temp. Lt.</Title>
       <Forenames>W.</Forenames>
-      <Text>, M.C. (rel. commn. on completion of service, and granted rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>11084</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Greenstreet</Key>
-      <Text>Lt. W., M.C. (ceases to be empld. with M.G.C., Cav.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>W.</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>9882</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -544,7 +562,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>M.</Forenames>
-      <Text>, M.C. (rel. actg. rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10063</PageNumber>
     </MainItem>
     <SubItem>
@@ -581,7 +601,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>V. J.</Forenames>
-      <Text>, M.C. (Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>12572</PageNumber>
     </MainItem>
     <KeyDitto>___ ___</KeyDitto>
@@ -624,7 +646,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Greethurst</Key>
-      <Text>Capt. P. H. (trd. to Army Educational Corps from Inspr. of Army Schs.)</Text>
+      <Title>Capt.</Title>
+      <Forenames>P. H.</Forenames>
+      <Text>(trd. to Army Educational Corps from Inspr. of Army Schs.)</Text>
       <PageNumber>11576</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -717,7 +741,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Title>Col. (temp. Brig.-Gen.)</Title>
-      <Text>. C. L., C.B., C:M.G. (date of promn. to rank of Col.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>9878</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -836,7 +862,9 @@
       </Key>
       <Title>temp. Capt.</Title>
       <Forenames>I. B.</Forenames>
-      <Text>, M.C. (rel. commn. on completion of service, and granted rank of Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10369</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -856,7 +884,9 @@
       <Key>Grellet</Key>
       <Title>temp. Maj.</Title>
       <Forenames>R. C</Forenames>
-      <Text>, D.S.O. (rel. commn. on completion of service, and granted rank of Lt.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>10368</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -865,11 +895,13 @@
       <Key>Grenfell</Key>
       <Title>Capt.</Title>
       <Forenames>W. P.</Forenames>
-      <Text>, M.C. (resigns commn. and granted rank of Maj.) .:</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>11188</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Trd. to Gen. Res. of Offrs</Text>
+      <Text>Trd. to Gen. Res. of Offrs.</Text>
       <PageNumber>11564</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -878,7 +910,9 @@
       <Key>Grenier</Key>
       <Title>temp. Lt.</Title>
       <Forenames>H. P.</Forenames>
-      <Text>, M.C. (rel. commn. on completion of service, and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10948</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -905,7 +939,9 @@
       <Key>Gretton</Key>
       <Title>Lt.</Title>
       <Forenames>W. E.</Forenames>
-      <Text>, M.C. (retires on ret. pay and granted rank . of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10060</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -914,7 +950,9 @@
       <Key>Greville</Key>
       <Title>Capt.</Title>
       <Forenames>C. H.</Forenames>
-      <Text>, D.S.O. (rel. actg. rank of Maj.) ..:</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>12694</PageNumber>
     </MainItem>
   </ItemGroup>

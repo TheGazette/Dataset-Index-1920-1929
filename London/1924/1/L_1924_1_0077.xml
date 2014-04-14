@@ -21,7 +21,9 @@
       <PageNumber>2611</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Barnett, Lt.-Col. George Henry, O.M.G., D.S.O.,</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>2611</PageNumber>
     </SubItem>
     <SubItem>
@@ -50,18 +52,24 @@
   <ItemGroup>
     <MainItem>
       <Key>Warwick</Key>
-      <Text>: Turner James Gibbon, C.B</Text>
+      <Text>
+        <Honour>C.B</Honour>
+      </Text>
       <PageNumber>1168</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Wheeler, Alexander Hamilton, M.C.</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1168</PageNumber>
     </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Denbigh</Key>
-      <Text>: Mellor, John Edward, C.B</Text>
+      <Text>
+        <Honour>C.B</Honour>
+      </Text>
       <PageNumber>1720</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -528,7 +536,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Butcher</Key>
-      <Text>. Daisy, change of name bv deed poll to D. Heegard Fenton</Text>
+      <Forenames>Daisy</Forenames>
+      <Text>, change of name bv deed poll to D. Heegard Fenton</Text>
       <PageNumber>1030</PageNumber>
     </MainItem>
   </ItemGroup>

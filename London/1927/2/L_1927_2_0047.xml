@@ -131,7 +131,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Glasgow</Key>
-      <Text>: Shaw, Lieutenant-Colonel Archibald Douglas -Mclnnes, D.S.O., M.P</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.P</Honour>
+      </Text>
       <PageNumber>3210</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -139,7 +142,11 @@
     <MainItem>
       <Key>Denbigh</Key>
       <Forenames>Wynn</Forenames>
-      <Text>, Lieut.-Col. Robert William Herbert Watkin Williams, C.B., D.S.O., T.D</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>T.D</Honour>
+      </Text>
       <PageNumber>4041</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -171,7 +178,9 @@
     <MainItem>
       <Key>Glasgow</Key>
       <Forenames>Shaw</Forenames>
-      <Text>, Lieut.-Col. Archibald Douglas Mcl, D.S.O., M.P</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3210</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -179,7 +188,9 @@
     <MainItem>
       <Key>Hereford</Key>
       <Forenames>Pateshall</Forenames>
-      <Text>, Col. Henry Evan Pateshall, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>2878</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -191,7 +202,10 @@
     </MainItem>
     <SubItem>
       <Text>
+        <Honour>K.C.V.O.</Honour>
         <PageNumber>2314</PageNumber>
+        <Honour>O.B.E.</Honour>
+        <Honour>T.D</Honour>
       </Text>
       <PageNumber>2314</PageNumber>
     </SubItem>
@@ -207,7 +221,9 @@
       <PageNumber>2572</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>Kittoe, Lieut.-Col. Montagu Francis Markham Sloane, O.B.E., T.D</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>2572</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -222,12 +238,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Somerset</Key>
-      <Text>: Foxcroft, Capt. Charles Talbot, M.P</Text>
+      <Text>
+        <Honour>M.P</Honour>
+      </Text>
       <PageNumber>3451</PageNumber>
     </MainItem>
     <SubItem>
       <Text>
+        <Honour>T.D.</Honour>
         <PageNumber>3451</PageNumber>
+        <Honour>O.B.E.</Honour>
       </Text>
       <PageNumber>3451</PageNumber>
     </SubItem>
@@ -236,7 +256,9 @@
     <MainItem>
       <Key>Wilts</Key>
       <Forenames>Herbert</Forenames>
-      <Text>, Brev. Col. Hon. George Sidney, T.D</Text>
+      <Text>
+        <Honour>T.D</Honour>
+      </Text>
       <PageNumber>3764</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -252,7 +274,12 @@
     <MainItem>
       <Key>York</Key>
       <Forenames>Moynihan</Forenames>
-      <Text>, Major-General Sir Berkeley George Andrew, Baronet, K.C.M.G., C.B., M.B., F.R.C.S</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>F.R.C.S</Honour>
+      </Text>
       <PageNumber>2694</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -28,7 +28,9 @@
     <MainItem>
       <Key>Sexton</Key>
       <Forenames>Walter</Forenames>
-      <Text>, C.B.E., transferred to grade of Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>6696</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -45,7 +47,10 @@
     <MainItem>
       <Key>Scholefield</Key>
       <Forenames>George Edward</Forenames>
-      <Text>, M.B.E., M.D., D.P.H., transferred to grade of Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>6966</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -70,7 +75,9 @@
       <Key>Scrimgeour</Key>
       <Title>Major</Title>
       <Forenames>Fredrick John</Forenames>
-      <Text>, O.B.E., transferred to grade of Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>6696</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -79,7 +86,9 @@
       <Key>Sevestrc</Key>
       <Title>Major</Title>
       <Forenames>Robert</Forenames>
-      <Text>, M.D., transferred to grade of Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>6620</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -113,7 +122,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Simon</Key>
-      <Text>. Sir John Allsebrook, K:C.R,V.O., O.O.B.E., Member of Indian Commission</Text>
+      <Title>Sir</Title>
+      <Forenames>John Allsebrook</Forenames>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>7661</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -122,14 +135,20 @@
       <Key>Skinner</Key>
       <Title>Major</Title>
       <Forenames>General Bruce Morland</Forenames>
-      <Text>,' C.B., C.M.G., M.V.O., M.R.C.S., transferred to grade of Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>6619</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Sleman</Key>
-      <Text>' Colonel Richard Reginald, M.D., transferred to grade of Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>6619</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -155,7 +174,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Lily Mary</Forenames>
-      <Text>, Mrs., M.B.E., transferred to grade of Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>6696</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -175,7 +196,9 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Sydney</Forenames>
-      <Text>, M.D., D.P.H., Professor of Forensic Medicine, University of Edinburgh</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>8332</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -187,7 +210,167 @@
       <PageNumber>6620</PageNumber>
     </MainItem>
   </ItemGroup>
-  <KeyDitto>___ ___ ___</KeyDitto>
+  <ItemGroup>
+    <MainItem>
+      <Key>Snape</Key>
+      <Title>Captain</Title>
+      <Forenames>Harold</Forenames>
+      <Text>, M.B., transferred to grade of . Officer, Order of St. John of Jerusalem</Text>
+      <PageNumber>6807</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Snell</Key>
+      <Forenames>Percival Skinner</Forenames>
+      <Text>, transferred to grade of Officer, Order of St. John of Jerusalem</Text>
+      <PageNumber>6619</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Southey</Key>
+      <Forenames>Herbert Watson</Forenames>
+      <Text>, M . R . C . S . , L.R.C.P., transferred to grade of Officer, Order of St. John of Jerusalem</Text>
+      <PageNumber>6696</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Spencer</Key>
+      <Title>Dr.</Title>
+      <Forenames>Leonard James</Forenames>
+      <Text>, Keeper of Mineralogy, at the Natural History Museum</Text>
+      <PageNumber>7537</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Sprague</Key>
+      <Title>Captain</Title>
+      <Forenames>Francis Henry</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
+      <PageNumber>6808</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Sproat</Key>
+      <Title>Major</Title>
+      <Forenames>Henry Bird</Forenames>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
+      <PageNumber>6807</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Steel</Key>
+      <Forenames>Christopher Eden</Forenames>
+      <Text>, Third Secretary in H.M. Diplomatic Service</Text>
+      <PageNumber>7335</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Steggall</Key>
+      <Forenames>John Edward Aloy-</Forenames>
+      <Text>sins, transferred to grade of Officer, Order of St. John of Jerusalem</Text>
+      <PageNumber>6620</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Stephens</Key>
+      <Forenames>Lockhart Edward Walter</Forenames>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
+      <PageNumber>6696</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Stewart</Key>
+      <Forenames>William</Forenames>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
+      <PageNumber>6808</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Stone</Key>
+      <Forenames>David</Forenames>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
+      <PageNumber>6808</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Strathcona</Key>
+      <Text>and Mountroyal, Donald Sterling Palmer, Baron. Member of Indian Commission</Text>
+      <PageNumber>7661</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Strovcr</Key>
+      <Forenames>Henry William Martyn</Forenames>
+      <Text>, M.B., transferred to 'grade of Officer, Order of St. John of Jerusalem</Text>
+      <PageNumber>6696</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Sty</Key>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
+      <PageNumber>6807</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Swanwick</Key>
+      <Forenames>Eustace</Forenames>
+      <Text>MacLean, M.R.C.S., L.R.C.P., transferred to grade of Officer, Order of St. John of Jerusalem</Text>
+      <PageNumber>6620</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Svkes</Key>
+      <Forenames>Joseph Harvev Kemp</Forenames>
+      <Text>, L.M.S.S.A., transferred to grade of Officer, Order of St. John of Jerusalem</Text>
+      <PageNumber>6807</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Taylor</Key>
+      <Forenames>Arnold Roth</Forenames>
+      <Text>well, M.B.C.S., L.R.C.P., transferred to grade of Officer, Order of St. John of Jerusalem</Text>
+      <PageNumber>6803</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___</KeyDitto>
+      </Key>
+      <Title>Captain</Title>
+      <Forenames>Josenh</Forenames>
+      <Text>van Someren, L.R.C.P. &amp; S.Ed., transferred to grade of Officer, Older . of St. John of Jerusalem</Text>
+      <PageNumber>6695</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>
@@ -195,7 +378,20 @@
       </Key>
       <Title>Captain</Title>
       <Forenames>Robert Allan Grant</Forenames>
-      <Text>, O.B.E., M.C., transferred to grade of Officer, Order ' of . St., John of Jerusalem ... Thompson, Charles John Samuel, M.B.E., transferred to grade of Officer, Order of S^t. John of Jerusalem</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
+      <PageNumber>6807</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Thompson</Key>
+      <Forenames>Charles John Samuel</Forenames>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>6808</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -203,21 +399,201 @@
     <MainItem>
       <Key>Thornton</Key>
       <Forenames>Albert</Forenames>
-      <Text>, transferred to grade of Officer, Order 6807 of St. John of Jerusalem</Text>
+      <Text>, transferred to grade of Officer, Order of St. John of Jerusalem</Text>
       <PageNumber>6808</PageNumber>
     </MainItem>
-    <SubItem>
-      <Text>Todd, Armstrong Herbert Swift, M.D., transferred to grade of Officer, Order of St. John of Jerusalem</Text>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___ ___</KeyDitto>
+      </Key>
+      <Forenames>Harold Leppington</Forenames>
+      <Text>, transferred to grade of Officer, Order of St. John of Jerusalem</Text>
       <PageNumber>6696</PageNumber>
-    </SubItem>
-    <SubItem>
-      <Text>Turner, Albert Charles, O.B.E., transferred to grade of Officer, Order of St. John of Jerusalem</Text>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Thresh</Key>
+      <Forenames>John Clough</Forenames>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>6696</PageNumber>
-    </SubItem>
-    <SubItem>
-      <Text>Vibert, Mclnroy Este, H.M. Vice-Consul at Memel</Text>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Tliurstan</Key>
+      <Forenames>Edward William Paget</Forenames>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>7113</PageNumber>
-    </SubItem>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Todd</Key>
+      <Forenames>Armstrong Herbert Swift</Forenames>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
+      <PageNumber>6696</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Toller</Key>
+      <Forenames>Edith Lilian</Forenames>
+      <Text>, Mrs., transferred to grade of Officer, Order of St. John of Jerusalem</Text>
+      <PageNumber>6620</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Tough</Key>
+      <Forenames>Frederick William Kerr</Forenames>
+      <Text>, F.R.C.S.Ed., transferred to grade of Officer, Order of St. John of ' Jerusalem</Text>
+      <PageNumber>6620</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Tulloh</Key>
+      <Forenames>Louisa Watson</Forenames>
+      <Text>
+        <Honour>R.R.C.</Honour>
+      </Text>
+      <PageNumber>6619</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Tnnstall</Key>
+      <Title>Major</Title>
+      <Forenames>Alfred Croud-</Forenames>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
+      <PageNumber>6619</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Turnbull</Key>
+      <Title>Major</Title>
+      <Forenames>John Arch-</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
+      <PageNumber>6696</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Turner</Key>
+      <Forenames>Albert Charles</Forenames>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
+      <PageNumber>6696</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Turton</Key>
+      <Forenames>William Henry</Forenames>
+      <Text>, M.B., transferred to grade of Officer, Order of St. John of Jerusalem</Text>
+      <PageNumber>6807</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Tweedale</Key>
+      <Forenames>Walter</Forenames>
+      <Text>, transferred to grade of Officer, Order of St. John of Jerusalem</Text>
+      <PageNumber>6808</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Tiveedie</Key>
+      <Forenames>Michael Forbes</Forenames>
+      <Text>, F.S.A., transferred to grade of Officer, Order of St. John of Jerusalem</Text>
+      <PageNumber>6808</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>U</Key>
+      <Forenames>Po Tha</Forenames>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
+      <PageNumber>6697</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Vernon</Key>
+      <Title>Lieut.</Title>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
+      <PageNumber>6808</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Vibert</Key>
+      <Forenames>Mclnroy Este</Forenames>
+      <Text>, H.M. Vice-Consul at Memel</Text>
+      <PageNumber>7113</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Vincent</Key>
+      <Forenames>Percy</Forenames>
+      <Text>, Knight</Text>
+      <PageNumber>6895</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Wacher</Key>
+      <Forenames>Harold</Forenames>
+      <Text>, M.B., M.R.C.S., transferred to grade of Officer, Order of St. John of Jerusalem</Text>
+      <PageNumber>680</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Wade</Key>
+      <Title>Surgeon-Colonel</Title>
+      <Forenames>Arthur Breedon</Forenames>
+      <Text>, M.B., M.R.C.S., V.D., transferred to grade of Officer, Order of St. John of Jerusalem</Text>
+      <PageNumber>6619</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Wakefield-Harrey</Key>
+      <Forenames>Cvril Ogden</Forenames>
+      <Text>, H.M. Vice-Consul at Dubrovnik II (Gruz)</Text>
+      <PageNumber>7113</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>AValker</Key>
+      <Forenames>Harold Albert</Forenames>
+      <Text>, M.R.C.S., transferred to grade of Officer, Order of St. John of Jerusalem</Text>
+      <PageNumber>6620</PageNumber>
+    </MainItem>
   </ItemGroup>
   <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
 </Index>

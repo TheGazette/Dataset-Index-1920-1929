@@ -33,7 +33,9 @@
       <Key>Gunu</Key>
       <Title>Major</Title>
       <Forenames>John Donald</Forenames>
-      <Text>, M.D., F.R.O.S., R.A.M.C, transferred to grade of Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>6507</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -41,7 +43,9 @@
     <MainItem>
       <Key>Jrlaigh</Key>
       <Forenames>William Edwin</Forenames>
-      <Text>, F.R.C.S., -D:P.H., transferred to grade of Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>6696</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -83,7 +87,9 @@
       <Key>Harris</Key>
       <Title>Major</Title>
       <Forenames>Charles JoshuaJoseph</Forenames>
-      <Text>, ' M.D., M.R.C.S., transferred to grade of Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>6803</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -93,7 +99,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Sampson George Victor</Forenames>
-      <Text>M.D., M.R.O.S., transferred to grade of Officer, Order of St. John of -Jerusalem</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>6808</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -143,7 +151,10 @@
     <MainItem>
       <Key>Henchlev</Key>
       <Title>Lient.</Title>
-      <Text>-Colonel Albert Richard, D.S.O., M.D., transferred to grade of Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>6808</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -158,7 +169,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hcrmon</Key>
-      <Text>. ,Ta.mes Milne, M.D., transferred to grade of Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>6620</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -167,23 +180,231 @@
       <Key>Herrington</Key>
       <Title>Major</Title>
       <Forenames>Edmund William</Forenames>
-      <Text>. I.R.C.P., T.D.. R.A.M.C. (T.), transferred to grade of Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6807</PageNumber>
     </MainItem>
-    <KeyDitto>___ ___</KeyDitto>
-    <KeyDitto>___ ___</KeyDitto>
-    <SubItem>
-      <Text>Iveagh, Gwendolen Florence Mary Countessof, Member of Parliament for Southend-on-Sea</Text>
-      <PageNumber>7419</PageNumber>
-    </SubItem>
-    <SubItem>
-      <Text>Jamie, Robert Wyatt, M.B., D.P.H., transferred to grade of Officer, Order of St. John of Jerusalem</Text>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Heywoocl</Key>
+      <Forenames>Thomas Walmsley</Forenames>
+      <Text>, M.R.C.S., transferred to grade of Officer, Order of St. John of Jerusalem</Text>
+      <PageNumber>6620</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Hicks</Key>
+      <Title>Major</Title>
+      <Forenames>Edward Harman</Forenames>
+      <Text>, M.R.C.S., L.S.A., transferred to grade of Officer, Order of St. John of Jerusalem</Text>
+      <PageNumber>6696</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Hickson</Key>
+      <Title>Major-Gen. Sir</Title>
+      <Forenames>Samuel</Forenames>
+      <Text>
+        <Honour>K.B.E.</Honour>
+        <Honour>C.B.</Honour>
+      </Text>
+      <PageNumber>6690</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Hill</Key>
+      <Title>Lieut.-Col.</Title>
+      <Forenames>Walter</Forenames>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
+      <PageNumber>6696</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Hillaby</Key>
+      <Forenames>Arthur</Forenames>
+      <Text>, M.R.C.S., L.R.C.P., transferred to grade of Officer, Order of St. John of Jerusalem</Text>
+      <PageNumber>6620</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Hingston</Key>
+      <Title>Lieut-Col.</Title>
+      <Forenames>Clayton Alexander Francis</Forenames>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
+      <PageNumber>6695</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Hiuton</Key>
+      <Forenames>Martin Alister Camp-</Forenames>
+      <Text>, bell,' deputy Keeper in the department of Zoology, at the Natural Histoiy Museum</Text>
+      <PageNumber>7537</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Hobson</Key>
+      <Title>Captain</Title>
+      <Forenames>Hugh George</Forenames>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6807</PageNumber>
-    </SubItem>
-    <SubItem>
-      <Text>King's Counsel</Text>
-      <PageNumber>7739</PageNumber>
-    </SubItem>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Holden</Key>
+      <Forenames>Arthur Stuart</Forenames>
+      <Text>, M.B., transferred to grade of Officer, Order of St. John of Jerusalem</Text>
+      <PageNumber>6808</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Holland</Key>
+      <Forenames>John Joseph</Forenames>
+      <Text>, M.B., transferred to grade of Officer, Order of St. John of Jerusalem</Text>
+      <PageNumber>6808</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Hollins</Key>
+      <Title>Lady</Title>
+      <Forenames>Dora</Forenames>
+      <Text>, transferred to grade of Officer, Order of St. John of Jerusalem</Text>
+      <PageNumber>6808</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Forenames>Thomas John</Forenames>
+      <Text>, M.B., transferred to grade of Officer, Order of. St. John of Jerusalem</Text>
+      <PageNumber>6807</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Holmes</Key>
+      <Forenames>Ernest Hamilton</Forenames>
+      <Text>, H.M. Consul-General at Yokahama</Text>
+      <PageNumber>7898</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Horan</Key>
+      <Forenames>Hubert Wolstenholme</Forenames>
+      <Text>, M.B., transferred to grade of Officer, Order of St. John of Jerusalem</Text>
+      <PageNumber>6620</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Houseman</Key>
+      <Forenames>Edward Albert</Forenames>
+      <Text>, M.B., transferred to grade of Officer, Order of St. John of Jerusalem</Text>
+      <PageNumber>6620</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Hudson</Key>
+      <Title>Major</Title>
+      <Forenames>Bernard</Forenames>
+      <Text>, transferred to grade, of Officer, Order of St. John of Jerusalem</Text>
+      <PageNumber>6696</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Huey</Key>
+      <Forenames>John James</Forenames>
+      <Text>, L.M. &amp; S.*, L.S.A., transferred to grade of Officer, Order of St. John of Jerusalem</Text>
+      <PageNumber>6808</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Hughes</Key>
+      <Forenames>William Stephens</Forenames>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
+      <PageNumber>6808</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Hurly</Key>
+      <Forenames>Michael Cyril Oswald</Forenames>
+      <Text>, L.R.C.P.I., transferred to grade of Officer, Order of St. John of Jerusalem</Text>
+      <PageNumber>6696</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Hutton</Key>
+      <Forenames>Isabel Emslie</Forenames>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
+      <PageNumber>6096</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Forenames>William</Forenames>
+      <Text>, L.R.C.P. &amp; S.Ed., transferred to grade of Officer, Order of St. John of Jerusalem</Text>
+      <PageNumber>6696</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <KeyDitto>___ ___ ___ ___</KeyDitto>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___ ___</KeyDitto>
+      </Key>
+      <Forenames>William Ferriday</Forenames>
+      <Text>, M.R.C.S., L.R.C.P., transferred to grade of Officer, Order of St. John of Jerusalem ... Jagajit Singh Bahadur -Farzand-i-Dilband Rasikh-ulItikad Daulat-i-Inglishia Raja-i-Rajagau Maharaja, Sir G.C.S.I., G.C.I.E., Maharaja of Karpurthala, Knight Grand Cross, Civil Division, of the Order of the British Empire ... Jamie, Robert Wyatt, M.B., D.P.H., transferred to grade of Officer, Order of St. John of Jerusalem ... Jepson, William Alban, Member of Railway Rates Tribunal .Johnson, George Henry, Unofficial Member of the Executive Council of the Bahama Islands Johnston, George Lawson, M.R.C.S., L.R.C.P., transferred to grade of Officer, Order . of St. John of Jerusalem ... ... ...,-</Text>
+      <PageNumber>6807</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <KeyDitto>___ ___</KeyDitto>
+  <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___</KeyDitto>
+      </Key>
+      <Forenames>John Lane</Forenames>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
+      <PageNumber>6815</PageNumber>
+    </MainItem>
   </ItemGroup>
 </Index>
 

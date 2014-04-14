@@ -12,7 +12,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Fitzgerald</Key>
-      <Text>.Capt, G. E., M.C. (rel. commn., and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10230</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -23,7 +25,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>H.W.</Forenames>
-      <Text>, M.M. (rel. commn., and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>10462</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -43,7 +47,9 @@
       <Key>Fitzherbert</Key>
       <Title>Lt.</Title>
       <Forenames>H. G.</Forenames>
-      <Text>, M.C. (rel. commn., and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10090</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -87,14 +93,20 @@
     <MainItem>
       <Key>Fitewilliam</Key>
       <Title>Lt.-Col. (Hon. Capt. in Army)</Title>
-      <Text>the Earl, K.C.V.O., C.B.E., D.S.O. (rel. commn., and retains rank of Lt.-Col., with permission to wear prescribed uniform)</Text>
+      <Text>
+        <Honour>K.C.V.O.</Honour>
+        <Honour>C.B.E.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>9130</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Fladgate</Key>
-      <Text>. Lt. C. F. (rel. commn., and retains rank of Lt.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>C. F.</Forenames>
+      <Text>(rel. commn., and retains rank of Lt.)</Text>
       <PageNumber>9123</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -103,7 +115,9 @@
       <Key>Flannery</Key>
       <Title>Capt.</Title>
       <Forenames>H. F.</Forenames>
-      <Text>, M.B.E. (rel. commn., and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>9130</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -188,7 +202,10 @@
       </Key>
       <Title>Lt.-Col.</Title>
       <Forenames>F. A.</Forenames>
-      <Text>, D.S.O., T.D. (trd. to T.A. Res., Regtl. List, R.A., from 75th Highl. Bde.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>9016</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -199,7 +216,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>G.</Forenames>
-      <Text>, M.C. (rel. Commn., and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10239</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -355,7 +374,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Fletcher</Key>
-      <Text>.Lt.-Col. B.. T.D. (trd. to T.A. Res., Gen. List., Infy.)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>8267</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -366,7 +387,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>E.</Forenames>
-      <Text>, T.D. (5th Bn. Manch. R.) (rel. commn., and retains rank of Maj., with permission to wear prescribed . .uniform)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>10458</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -399,7 +422,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>E. W.</Forenames>
-      <Text>. -D.F.C. (7th Bn. Essex R.) (rel. commn., and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>10241</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -486,7 +511,10 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Title>Lt.</Title>
-      <Text>rCol. H. R., O.B.E., T.D. (rel. commn., and retains rank of Lt.-Col., with permission to wear prescribed uniform)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>10108</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -530,7 +558,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>J. H.</Forenames>
-      <Text>, M.C. (rel. commn,, and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9238</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -604,7 +634,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>G.</Forenames>
-      <Text>, M.C. (rel. commn., ' and granted rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10464</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -676,7 +708,9 @@
       <Key>Flint</Key>
       <Title>Lt.</Title>
       <Forenames>A. F.</Forenames>
-      <Text>, M.C. (rel. commn., and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9774</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -741,7 +775,9 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Title>Qrmr. and Capt.</Title>
-      <Text>. G. W., O.B.E. (resigns.commn., .' .and retains rank)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>8902</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -805,7 +841,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>N. S.</Forenames>
-      <Text>, M.C. (rel. commn., and granted rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10344</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -854,7 +892,9 @@
       <Key>Flory</Key>
       <Title>Lt.</Title>
       <Forenames>F. R.</Forenames>
-      <Text>, M.C. (rel. commn., and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10210</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -863,7 +903,9 @@
       <Key>Flower</Key>
       <Title>Capt.</Title>
       <Forenames>C. H.</Forenames>
-      <Text>, M.C. (rel. commn., and granted rank of Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9763</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -905,7 +947,9 @@
     <MainItem>
       <Key>Flowers</Key>
       <Forenames>Capt</Forenames>
-      <Text>*. C, O.B.E. (rel. commn., and granted rank of Maj.) ..' .. ..' '</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>10696</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -947,7 +991,9 @@
       <Key>Flunder</Key>
       <Title>Lt.</Title>
       <Forenames>R. D.</Forenames>
-      <Text>, M.C. (rel, commn., and granted rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9994</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -956,7 +1002,9 @@
       <Key>Flux</Key>
       <Title>Capt.</Title>
       <Forenames>R. L.</Forenames>
-      <Text>, M.C. (rel. commn., . and retains rank of-Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10696</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -978,7 +1026,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>T. R.</Forenames>
-      <Text>, M.C. (rel. commn., and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10111</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1075,7 +1125,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Lt</Forenames>
-      <Text>, W. V., M.C. (rel. commn., and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10704</PageNumber>
     </MainItem>
   </ItemGroup>

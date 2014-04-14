@@ -4,7 +4,9 @@
     <MainItem>
       <Key>Le</Key>
       <Forenames>Cornu</Forenames>
-      <Text>, Lt. R. B., M.C. (resigns i commn. and granted rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6377</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -12,7 +14,9 @@
     <MainItem>
       <Key>Le</Key>
       <Forenames>Gassick</Forenames>
-      <Text>, Lt. F. N., M.C. (retires, receiving a gratuity, and granted rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5706</PageNumber>
     </MainItem>
     <SubItem>
@@ -40,7 +44,9 @@
       <Key>LEstrange</Key>
       <Title>Capt.</Title>
       <Forenames>Henry R.</Forenames>
-      <Text>, O.B.E. (placed on h.p. list on acc. of ill-health)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>5279</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -49,7 +55,10 @@
       <Key>Lea</Key>
       <Title>Lt.-Col. (h.p. list, late R.A.S.C.)</Title>
       <Forenames>P. G. P.</Forenames>
-      <Text>, C.M.G., D.S.O. (retires on ret. pay)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6097</PageNumber>
     </MainItem>
     <SubItem>
@@ -99,7 +108,13 @@
       <Key>Leahy</Key>
       <Title>Capt. and Bt. Maj.</Title>
       <Forenames>T. J. Carroll-</Forenames>
-      <Text>, D.S.O., M.C., see Carroll-Leahy, Capt. and Bt. Maj. T. J., D.S.O., M.C. Leakey, GeuL. Cadet Charles John Bazett (2nd Lt., Unattd. List, LA.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>Bt</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6381</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -117,7 +132,9 @@
       <Key>Leathern</Key>
       <Title>Capt.</Title>
       <Forenames>G. J.</Forenames>
-      <Text>, M.C. (Adjt., Bedfs. and Herts. R.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6639</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -137,7 +154,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>F. L.</Forenames>
-      <Text>, M.C. (seed, for service with T.A.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5203</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -219,7 +238,9 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Title>Ord. Off.</Title>
-      <Text>, 4th Cl., and Maj. (actg. Ord. Off., 3rd Cl.) S. G., O.B.E. (Ord. Off., 3rd Cl.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>5610</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -230,7 +251,12 @@
       </Key>
       <Title>Col.</Title>
       <Forenames>W. S.</Forenames>
-      <Text>, C.B., C.M.G., D.S.O. (apptd. A.D.C. to the King, Ind. Estabt.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>A.D.C.</Honour>
+      </Text>
       <PageNumber>5204</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -326,7 +352,9 @@
     <MainItem>
       <Key>Lewis</Key>
       <Title>Capt.</Title>
-      <Text>andl Bt. Maj. C. G. (Maj.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6840</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -387,7 +415,10 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Title>Lt.</Title>
-      <Text>-Coi. W. H., D.S.O., M.C. (Lt.-Col., Reg. Army Res.</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
     <SubItem>
@@ -415,7 +446,9 @@
       <Key>Lightfoot</Key>
       <Title>Capt. and Paymr.</Title>
       <Forenames>L. J.</Forenames>
-      <Text>, O.B.E. (seed, for service with R.A.F.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>6442</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -435,7 +468,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Lindsay</Key>
-      <Text>. Lt.-Col. and Bt. Col. W. C., M.V.O. (rel. commn. on vacating comd. of 3rd R.D. Fus., Mila., and retains rank; with permission to wear prescribed uniform)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>M.V.O.</Honour>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>5709</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -446,7 +483,10 @@
       </Key>
       <Title>Maj.-Gen. Sir</Title>
       <Forenames>W. F. L.</Forenames>
-      <Text>, K.C.B., D.S.O. (ceases to belong to Res. of Off., having attained the age limit of liability to recall)</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5280</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -495,7 +535,10 @@
       <Key>Little</Key>
       <Title>Capt. and Bt. Maj.</Title>
       <Forenames>W. B.</Forenames>
-      <Text>, D.S.O., M.C. (seed, for service under the Colonial Office)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5707</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -504,11 +547,13 @@
       <Key>Littledale</Key>
       <Title>temp. Lt.</Title>
       <Forenames>C. E.</Forenames>
-      <Text>, M.C. (actg. Capt. whilst spec. empld.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5963</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Rel. commn. on completion of service and granted rank of Capt</Text>
+      <Text>Rel. commn. on completion of service and granted rank of Capt.</Text>
       <PageNumber>5963</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -548,7 +593,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>E. C</Forenames>
-      <Text>, D.S.O. (Maj., R.W. Fus., from R. Ir. Regt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5707</PageNumber>
     </MainItem>
     <SubItem>
@@ -590,7 +637,9 @@
       </Key>
       <Title>Lt.-Col. and Bt. Col. (Col., Mila.) (ret. pay)</Title>
       <Forenames>S. E. M.</Forenames>
-      <Text>, C.B.E. (ceases to belong to Res. of Off., having attained the age limit of liability to recall)</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>5965</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -622,7 +671,10 @@
       <Key>Lombe</Key>
       <Title>Capt.</Title>
       <Forenames>J.</Forenames>
-      <Text>;M. Evans-, M.C., see Evans-Lombe, Capt. J. M., M.C. Lonergan, Capt. C, J. (placed on h.p. list on ceasing to be empld. as Mil. Permit Off., British Army of the Rhine'</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6097</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -630,8 +682,10 @@
     <MainItem>
       <Key>Long</Key>
       <Title>Capt. and Bt. Maj.</Title>
-      <Forenames>A.</Forenames>
-      <Text>de L., D.S.O. (seed, for service on the Staff)</Text>
+      <Forenames>A. de L</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5707</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -693,7 +747,9 @@
       <Key>Looney</Key>
       <Title>Qrmr. and Capt.</Title>
       <Forenames>D.</Forenames>
-      <Text>, M.B.E. (date of seniority)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>6777</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -724,7 +780,9 @@
       <Key>Lousada</Key>
       <Title>Capt.</Title>
       <Forenames>W. P.</Forenames>
-      <Text>, M.C. (rel. commn. and granted rank of Maj. with permission to wear</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5526</PageNumber>
     </MainItem>
   </ItemGroup>

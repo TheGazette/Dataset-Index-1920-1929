@@ -3,7 +3,11 @@
   <ItemGroup>
     <MainItem>
       <Key>MacAlister</Key>
-      <Text>Sir Donald, K.C.B., Member of Governing Body of Imperial. College of Science and Technology</Text>
+      <Title>Sir</Title>
+      <Forenames>Donald</Forenames>
+      <Text>
+        <Honour>K.C.B.</Honour>
+      </Text>
       <PageNumber>3038</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -12,14 +16,17 @@
       <Key>Macartney</Key>
       <Title>Maj.</Title>
       <Forenames>Frank Alan</Forenames>
-      <Text>, M.C., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3948</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>McBrien</Key>
-      <Text>James, Member, Member, Order of the British Empire</Text>
+      <Forenames>James</Forenames>
+      <Text>, Member, Member, Order of the British Empire</Text>
       <PageNumber>4608</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -36,7 +43,10 @@
     <MainItem>
       <Key>McCarthy</Key>
       <Forenames>Frank</Forenames>
-      <Text>, C.B.E., Knighted</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>2640</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -54,7 +64,10 @@
     <MainItem>
       <Key>McClelland</Key>
       <Forenames>William</Forenames>
-      <Text>, O.B.E., M.I.E.E., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3944</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -87,7 +100,9 @@
     <MainItem>
       <Key>Macdonald</Key>
       <Forenames>George</Forenames>
-      <Text>, C.B., M.A., F.B.A., D.Litt, LL.D., F.S.A. Scot., Momber of the Royal Commisi Ancient and Historical Monuments and Constructions in Scotland</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>2721</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -104,7 +119,10 @@
       <Key>McEnroy</Key>
       <Title>Capt.</Title>
       <Forenames>Patrick</Forenames>
-      <Text>, D.S.O. M.C. Bar to Distinguished Service Order</Text>
+      <Text>
+        <Honour>D.S.O. M.C.</Honour>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>3952</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -112,7 +130,9 @@
     <MainItem>
       <Key>Macgregor</Key>
       <Forenames>James Comyn</Forenames>
-      <Text>, C.M.G., knighthood conferred on</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>3944</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -145,7 +165,9 @@
       <Key>MacKenzie</Key>
       <Title>Capt. (temp. Maj.)</Title>
       <Forenames>John Moir</Forenames>
-      <Text>, M.C., M.B., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2504</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -153,7 +175,9 @@
     <MainItem>
       <Key>Mackenzie</Key>
       <Forenames>Hector William Gavin</Forenames>
-      <Text>, M.D., F.R.C.P., ' knighthood conferred on</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3943</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -161,7 +185,10 @@
     <MainItem>
       <Key>Mackereth</Key>
       <Forenames>Gilbert</Forenames>
-      <Text>, D.S.O., M.C., H.M. Vice-Consul at Tangier</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3748</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -193,7 +220,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Maclean</Key>
-      <Text>Lt.-Col., Ewen John M.D., F.R.C.P.. F.R.C.S.. J.P., knighthood conferred on</Text>
+      <Title>Lt.-Col.</Title>
+      <Text>
+        <Honour>M.D.</Honour>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>4606</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -225,14 +256,17 @@
   <ItemGroup>
     <MainItem>
       <Key>McNallv</Key>
-      <Text>John, Officer, Order of the British Empire</Text>
+      <Forenames>John</Forenames>
+      <Text>, Officer, Order of the British Empire</Text>
       <PageNumber>4607</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>McPherson</Key>
-      <Text>the Hon. William Murray, Knight Commander, Order of tho British Empire</Text>
+      <Title>the Hon.</Title>
+      <Forenames>William Murray</Forenames>
+      <Text>, Knight Commander, Order of tho British Empire</Text>
       <PageNumber>3950</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -247,7 +281,9 @@
   <ItemGroup>
     <MainItem>
       <Key>MacRae</Key>
-      <Text>of Feoirlinn, The Lady Margaret O.B.E., Lady of Justice, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3961</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -255,7 +291,11 @@
     <MainItem>
       <Key>Macready</Key>
       <Title>Gen.</Title>
-      <Text>the Rt. Hon. Sir Cecil Frederick Nevil, G.C.M.G., K.C.B., Baronet</Text>
+      <Text>
+        <Honour>G.C.M.G.</Honour>
+        <Honour>K.C.B.</Honour>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>2810</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -271,7 +311,9 @@
     <MainItem>
       <Key>Madden</Key>
       <Forenames>William Thomas</Forenames>
-      <Text>, O.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4607</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -279,7 +321,9 @@
     <MainItem>
       <Key>Maddocks</Key>
       <Forenames>Henry</Forenames>
-      <Text>, K.C., M.P., knighthood conferred on</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4608</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -287,7 +331,10 @@
     <MainItem>
       <Key>Magniac</Key>
       <Title>Brig.</Title>
-      <Text>-Gcn. Charles Lane, C.M.G.. C.B.E., knighthood conferred on</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>3943</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -295,7 +342,9 @@
     <MainItem>
       <Key>Mahomed</Key>
       <Forenames>Shah Aga Khan</Forenames>
-      <Text>, H.H. Aga Sultan Sir, G.C.S.I., G.C.T.E., Knight Grand Cross Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3947</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -304,21 +353,30 @@
       <Key>Mail</Key>
       <Title>Maj.</Title>
       <Forenames>Brodie Valentine</Forenames>
-      <Text>, D.S.O., M.C., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2504</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Mansergh</Key>
-      <Text>Cornewall Lewis Warwickshire. Commander, Order of I.S.O.. the British Empire</Text>
+      <Forenames>Cornewall Lewis Warwickshire</Forenames>
+      <Text>
+        <Honour>I.S.O</Honour>
+      </Text>
       <PageNumber>3950</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Man</Key>
-      <Text>ton, Capt. and Bt.-Maj. (temp. Lt.-Col.) Lionel, D.S.O., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3948</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -326,7 +384,9 @@
     <MainItem>
       <Key>Manville</Key>
       <Forenames>Edward</Forenames>
-      <Text>, M.P., knighted</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>2640</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -374,7 +434,9 @@
     <MainItem>
       <Key>Milne</Key>
       <Forenames>George Torrance</Forenames>
-      <Text>, O.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4607</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -384,7 +446,9 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>James</Forenames>
-      <Text>, Companion, Star of India</Text>
+      <Text>
+        <Honour>Companion, Star of India</Honour>
+      </Text>
       <PageNumber>3945</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -418,7 +482,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Herbert</Forenames>
-      <Text>, Member, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3947</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -439,7 +505,9 @@
       </Key>
       <Title>Miss</Title>
       <Forenames>Mary</Forenames>
-      <Text>BircTi, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3950</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -448,7 +516,10 @@
       <Key>Moens</Key>
       <Title>Col.</Title>
       <Forenames>Arthur William Hamilton May</Forenames>
-      <Text>, C.M.G.. D.S.O., Companion, ' Order of the Bath</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3944</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -457,7 +528,13 @@
       <Key>Moncrieffe</Key>
       <Title>Col. Sir</Title>
       <Forenames>Robert Drummond</Forenames>
-      <Text>, Bart., C.M.G., V.D., T.D.. A.D.C., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Bart</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>T.D.</Honour>
+        <Honour>A.D.C.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3945</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -474,14 +551,20 @@
       <Key>Monsell</Key>
       <Title>Cdr.</Title>
       <Forenames>Bolton Meredith Eyres</Forenames>
-      <Text>. R.N.. J.P.. M.P., sec Eyres Monsnll, Cdr. Bolton Meredith, R.N., .T.P., M.P. Montagu, Ernest William Sanders, Knighthood conferred on</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>3944</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Morgan</Key>
-      <Text>. Lt.-Col. Charles Langbridge, C.B.E., Knighted</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>2640</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -505,7 +588,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Morrison-Bell</Key>
-      <Text>Mnj. Arthur Clive. M.P. Baronet</Text>
+      <Title>Mnj.</Title>
+      <Forenames>Arthur Clive</Forenames>
+      <Text>
+        <Honour>M.P. Baronet</Honour>
+      </Text>
       <PageNumber>4608</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -522,7 +609,10 @@
       <Key>Mount</Key>
       <Title>Sir</Title>
       <Forenames>William Arthur</Forenames>
-      <Text>. Bt., O.B.E.. Ecclesiastical Commissioner for England</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>2720</PageNumber>
       <PageNumber>3781</PageNumber>
     </MainItem>
@@ -531,7 +621,9 @@
     <MainItem>
       <Key>Mowle</Key>
       <Forenames>William Stewart</Forenames>
-      <Text>, Companion, St. Michael and St. George</Text>
+      <Text>
+        <Honour>Companion, St. Michael and St. George</Honour>
+      </Text>
       <PageNumber>3946</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -539,7 +631,9 @@
     <MainItem>
       <Key>Muhammad</Key>
       <Forenames>Bazullnh Sahib</Forenames>
-      <Text>. Khan Bahadur O.B.E.. Companion. Order of the Indian Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3947</PageNumber>
     </MainItem>
   </ItemGroup>

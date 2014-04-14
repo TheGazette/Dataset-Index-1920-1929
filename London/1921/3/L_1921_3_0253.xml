@@ -4,7 +4,9 @@
     <MainItem>
       <Key>Kendall</Key>
       <Title>Lt.</Title>
-      <Text>-Comdr. &lt;3harles H., R.D. (placed on Retd. List)</Text>
+      <Text>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>7240</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -36,7 +38,10 @@
     <MainItem>
       <Key>Large</Key>
       <Forenames>B. R.</Forenames>
-      <Text>, D.S.O., O.B.E. (Comdr.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>5245</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -93,7 +98,9 @@
     <MainItem>
       <Key>Martell</Key>
       <Title>Payr.</Title>
-      <Text>-Lt.-Cdr. Richard H. , R.D. (placed on Retd. List)</Text>
+      <Text>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>5732</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -135,7 +142,9 @@
     <MainItem>
       <Key>Mortishead</Key>
       <Forenames>J.</Forenames>
-      <Text>, M.B.E. (Payr.Comdr., retd.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>5487</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -159,11 +168,14 @@
     <MainItem>
       <Key>Nicholls</Key>
       <Title>Lt.</Title>
-      <Text>-Cdr. A. S. M., O.B.E., R.D. (placed on Retd. List at own request)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>5487</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Comdr., retd</Text>
+      <Text>Comdr., retd.</Text>
       <PageNumber>5561</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -213,7 +225,9 @@
       <Key>Petersen</Key>
       <Title>Sir</Title>
       <Forenames>William</Forenames>
-      <Text>, K.B.E. (Hon. Comdr.)</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+      </Text>
       <PageNumber>6284</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -221,7 +235,10 @@
     <MainItem>
       <Key>Pickering</Key>
       <Title>Lt.</Title>
-      <Text>-Cdr. Fredk., O.B.E., R.D. (placed on Retd. List with rank of Cdr.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>7569</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -229,7 +246,9 @@
     <MainItem>
       <Key>Pike</Key>
       <Title>Payr.</Title>
-      <Text>-Lt. Evan C, M.B.E. (placed on Retd. List at own request)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>6174</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -286,7 +305,9 @@
     <MainItem>
       <Key>Redhead</Key>
       <Forenames>C. M.</Forenames>
-      <Text>, D.S.O. (Capt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5245</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -319,7 +340,9 @@
     <MainItem>
       <Key>Ruddle</Key>
       <Forenames>Francis W.</Forenames>
-      <Text>, O.B.E. (placed on Ketd. List at own request with rank of Engr.Lt,-Cdr.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>5832</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -351,7 +374,9 @@
     <MainItem>
       <Key>Sayer</Key>
       <Forenames>M. B.</Forenames>
-      <Text>, C.B.E. (Capt.)</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>5245</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -367,7 +392,9 @@
     <MainItem>
       <Key>Scullard</Key>
       <Title>Payr.</Title>
-      <Text>-Lt. John P., R.D. (placed on Retd. List)</Text>
+      <Text>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>6021</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -433,7 +460,9 @@
     <MainItem>
       <Key>Ward</Key>
       <Forenames>Reginald S.</Forenames>
-      <Text>, R.D. (Lt.-Cdr.)</Text>
+      <Text>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>7384</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -626,7 +655,9 @@
     <MainItem>
       <Key>Coombs</Key>
       <Title>Lt.</Title>
-      <Text>-Cdr. Thomas E., O.B.E. .:</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>5831</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -682,14 +713,19 @@
     <MainItem>
       <Key>Goodier</Key>
       <Title>Lt.</Title>
-      <Text>-Cdr. R. S. Hulme, O.B.E., see Hulme-Goodier, Lt.-Cdr. R. S., O.B.E. Groome, Lt.-Cdr. F. T., O.B.E</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>O.B.E.</Honour>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>5486</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Haswell</Key>
-      <Text>. Lt.-Cdr. John E</Text>
+      <Title>Lt.</Title>
+      <Text>-Cdr. John E</Text>
       <PageNumber>5560</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -720,7 +756,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Jenkins</Key>
-      <Text>. Lt.-Cdr. J., D.S.C</Text>
+      <Title>Lt.</Title>
+      <Text>
+        <Honour>D.S.C</Honour>
+      </Text>
       <PageNumber>5243</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -754,7 +793,9 @@
     <MainItem>
       <Key>Lewis</Key>
       <Title>Lt.</Title>
-      <Text>-Cdr. Guy P., O.B.E</Text>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>6021</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -824,8 +865,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Reilly, Lt.-Cdr. Vivian R</Text>
+      <Key>O'Reilly</Key>
+      <Title>Lt.</Title>
+      <Text>-Cdr. Vivian R</Text>
       <PageNumber>6284</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1034,7 +1076,10 @@
     <MainItem>
       <Key>Carnall</Key>
       <Title>temp.</Title>
-      <Text>. Lt. William, M.C., D.S.M. (trd. to Permanent List with seniority)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>D.S.M.</Honour>
+      </Text>
       <PageNumber>5832</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1050,7 +1095,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Craft</Key>
-      <Text>. Albert W. J. ( trd. to Perm. List of R.N.V.R. in rank of Engr.-Lt.)</Text>
+      <Forenames>Albert W. J.</Forenames>
+      <Text>( trd. to Perm. List of R.N.V.R. in rank of Engr.-Lt.)</Text>
       <PageNumber>7054</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1180,7 +1226,9 @@
     <MainItem>
       <Key>Grant</Key>
       <Forenames>G. G.</Forenames>
-      <Text>, D.S.C. (Lt.-Comdr.)</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>5244</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1272,7 +1320,9 @@
     <MainItem>
       <Key>Leeds</Key>
       <Title>Capt.</Title>
-      <Text>the Duke of (apptd. a Naval A.D.C. to the King)</Text>
+      <Text>
+        <Honour>A.D.C.</Honour>
+      </Text>
       <PageNumber>5932</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1280,7 +1330,9 @@
     <MainItem>
       <Key>Lockett</Key>
       <Title>temp. Payr. Lt.</Title>
-      <Text>-Cdr. H. A., O.B.E. (trd. to Permanent List)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>5244</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1295,7 +1347,9 @@
   <ItemGroup>
     <MainItem>
       <Key>McNeil</Key>
-      <Text>. Lt. Archibald (date of seniority)</Text>
+      <Title>Lt.</Title>
+      <Forenames>Archibald</Forenames>
+      <Text>(date of seniority)</Text>
       <PageNumber>6174</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1313,7 +1367,8 @@
   <ItemGroup>
     <MainItem>
       <Key>MoRory</Key>
-      <Text>. R. (Hon. Sub-Lt,, Sea Cadet Corps)</Text>
+      <Forenames>R.</Forenames>
+      <Text>(Hon. Sub-Lt,, Sea Cadet Corps)</Text>
       <PageNumber>5244</PageNumber>
     </MainItem>
   </ItemGroup>

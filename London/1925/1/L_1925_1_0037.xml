@@ -27,7 +27,9 @@
     <MainItem>
       <Key>Duff-Sutherland-</Key>
       <Forenames>J</Forenames>
-      <Text>) u nbar. Si George, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>1779</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -131,7 +133,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Eustace</Key>
-      <Text>. J. P. L</Text>
+      <Forenames>J. P. L.</Forenames>
       <PageNumber>1611</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -145,14 +147,14 @@
   <ItemGroup>
     <MainItem>
       <Key>E</Key>
-      <Text>.wen,' A. C</Text>
+      <Text>wen,' A. C</Text>
       <PageNumber>1958</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Fagan</Key>
-      <Text>. H. A</Text>
+      <Forenames>H. A</Forenames>
       <PageNumber>1074</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -248,7 +250,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Flowerdew</Key>
-      <Text>. J. L</Text>
+      <Forenames>J. L.</Forenames>
       <PageNumber>1074</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -262,7 +264,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fortescue</Key>
-      <Text>. A</Text>
+      <Forenames>A.</Forenames>
       <PageNumber>1958</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -433,7 +435,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gibbs</Key>
-      <Text>. F. J</Text>
+      <Forenames>F. J.</Forenames>
       <PageNumber>58</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -441,7 +443,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gillespie</Key>
-      <Text>. D. R. B</Text>
+      <Forenames>D. R. B.</Forenames>
       <PageNumber>1957</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -530,7 +532,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gujar</Key>
-      <Text>.Singh</Text>
+      <Forenames>Singh</Forenames>
       <PageNumber>1431</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -569,13 +571,6 @@
       <Forenames>A. B. Hale</Forenames>
       <Text>, W. G</Text>
       <PageNumber>222</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Hamilton</Key>
-      <Forenames>E. W. H</Forenames>
-      <PageNumber>1958</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -798,7 +793,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hornsby</Key>
-      <Text>. B. W</Text>
+      <Forenames>B. W</Forenames>
       <PageNumber>857</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -914,7 +909,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hvland</Key>
-      <Text>. J. P</Text>
+      <Forenames>J. P</Forenames>
       <PageNumber>1958</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1133,7 +1128,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kingdom</Key>
-      <Text>. J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>1241</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1189,7 +1184,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lang</Key>
-      <Text>. I. F</Text>
+      <Forenames>I. F .</Forenames>
       <PageNumber>686</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1516,8 +1511,8 @@
   <ItemGroup>
     <MainItem>
       <Key>McRae</Key>
-      <Forenames>H. St</Forenames>
-      <Text>. G. M</Text>
+      <Forenames>H. St. G</Forenames>
+      <Text>. M</Text>
       <PageNumber>57</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1567,8 +1562,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Martin</Key>
-      <Forenames>G. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>G. St. J</Forenames>
       <PageNumber>1779</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1786,7 +1780,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Moses</Key>
-      <Text>. P</Text>
+      <Forenames>P .</Forenames>
       <PageNumber>1959</PageNumber>
     </MainItem>
   </ItemGroup>

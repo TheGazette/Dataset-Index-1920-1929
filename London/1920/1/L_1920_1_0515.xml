@@ -32,7 +32,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hicks</Key>
-      <Text>;N. J., M.B.E</Text>
+      <Text>
+        <Honour>M.B.E</Honour>
+      </Text>
       <PageNumber>2463</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -62,7 +64,9 @@
     <MainItem>
       <Key>Soarff</Key>
       <Forenames>F. W.</Forenames>
-      <Text>, M.B.E</Text>
+      <Text>
+        <Honour>M.B.E</Honour>
+      </Text>
       <PageNumber>1099</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -337,7 +341,9 @@
       <Key>Kiillmayer</Key>
       <Title>Oh. Art. Engr.</Title>
       <Forenames>L. J.</Forenames>
-      <Text>, M.B.E. (removed from the list on being granted perm; commn. in B.A.F0 *</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>1099</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -478,7 +484,9 @@
     <MainItem>
       <Key>Blow</Key>
       <Forenames>H. C</Forenames>
-      <Text>, M.B.E. (Commd. Master-at-iArms)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>1564</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -548,7 +556,9 @@
     <MainItem>
       <Key>Pine</Key>
       <Forenames>J. H.</Forenames>
-      <Text>, .M.B.E. ('Shipwt. Lt., retd.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>1045</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -567,7 +577,9 @@
       <Key>Dimsey</Key>
       <Title>Surgeon</Title>
       <Forenames>Bear-Admira</Forenames>
-      <Text>.l E. R., D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>2338</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -592,7 +604,9 @@
     <MainItem>
       <Key>Gordon-Green</Key>
       <Forenames>H. W.</Forenames>
-      <Text>, O.B.E</Text>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>722</PageNumber>
       <PageNumber>1946</PageNumber>
     </MainItem>
@@ -617,7 +631,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gordon-Green</Key>
-      <Text>. H. iW., OJB.E</Text>
+      <Forenames>H.</Forenames>
+      <Text>iW., OJB.E</Text>
       <PageNumber>200</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -640,7 +655,9 @@
     <MainItem>
       <Key>Greig</Key>
       <Forenames>L. L.</Forenames>
-      <Text>, M.V.O., MJB. (removed from list on being .granted perm. commn. in B.A.F.)</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>1099</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -900,7 +917,9 @@
     <MainItem>
       <Key>Thompson</Key>
       <Forenames>F.</Forenames>
-      <Text>, O.B.E</Text>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>3304</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -922,7 +941,9 @@
     <MainItem>
       <Key>Wood</Key>
       <Forenames>G. E.</Forenames>
-      <Text>, O.B.E</Text>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>3304</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -987,7 +1008,10 @@
     <MainItem>
       <Key>Pollard</Key>
       <Forenames>C. F.</Forenames>
-      <Text>, C.B., C.M.G</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G</Honour>
+      </Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -995,7 +1019,9 @@
     <MainItem>
       <Key>Rowe</Key>
       <Forenames>C. H.</Forenames>
-      <Text>, C.M.G</Text>
+      <Text>
+        <Honour>C.M.G</Honour>
+      </Text>
       <PageNumber>1563</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1056,8 +1082,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Taylor</Key>
-      <Forenames>S.</Forenames>
-      <Text>de V</Text>
+      <Forenames>S. de V</Forenames>
       <PageNumber>57</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1109,7 +1134,9 @@
     <MainItem>
       <Key>Mitchell</Key>
       <Forenames>H. A.</Forenames>
-      <Text>, O.B.E. (removed from list on being granted perm, commn. in R.A.F</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>1099</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1169,7 +1196,9 @@
     <MainItem>
       <Key>Ford</Key>
       <Forenames>R. B.</Forenames>
-      <Text>, O.B.E</Text>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>3879</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1191,7 +1220,10 @@
     <MainItem>
       <Key>Heaybird</Key>
       <Forenames>W. V.</Forenames>
-      <Text>, O.B.E., R.D</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>R.D</Honour>
+      </Text>
       <PageNumber>3879</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1220,7 +1252,9 @@
     <MainItem>
       <Key>Nevill</Key>
       <Forenames>W. H.</Forenames>
-      <Text>, R.D</Text>
+      <Text>
+        <Honour>R.D</Honour>
+      </Text>
       <PageNumber>3879</PageNumber>
     </MainItem>
   </ItemGroup>

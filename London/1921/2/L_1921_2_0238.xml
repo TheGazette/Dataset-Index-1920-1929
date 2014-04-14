@@ -40,7 +40,10 @@
   <ItemGroup>
     <MainItem>
       <Key>McPherson</Key>
-      <Text>D.L., M.B.E., V.D. (and permitted to retain rank)</Text>
+      <Text>
+        <Honour>D.L.</Honour>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>2677</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -244,7 +247,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Chambers</Key>
-      <Text>W. R</Text>
+      <Forenames>W. R</Forenames>
       <PageNumber>2677</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -742,8 +745,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Maynard</Key>
-      <Forenames>R.</Forenames>
-      <Text>de K</Text>
+      <Forenames>R. de K</Forenames>
       <PageNumber>4739</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -921,7 +923,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Plowden</Key>
-      <Text>P. P. M. C</Text>
+      <Forenames>P. P. M. C</Forenames>
       <PageNumber>5019</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -943,8 +945,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pringle</Key>
-      <Forenames>I. T. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>I. T. St. C</Forenames>
       <PageNumber>4304</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -965,35 +966,36 @@
   <ItemGroup>
     <MainItem>
       <Key>Read</Key>
-      <Text>R. F</Text>
+      <Forenames>R. F</Forenames>
       <PageNumber>5142</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Rentoul</Key>
-      <Text>J. P</Text>
+      <Forenames>J. P.</Forenames>
       <PageNumber>3294</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Rich</Key>
-      <Text>C. N</Text>
+      <Forenames>C. N</Forenames>
       <PageNumber>4739</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Rickie</Key>
-      <Text>J. H</Text>
+      <Forenames>J. H</Forenames>
       <PageNumber>3294</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Ritchie</Key>
-      <Text>C S</Text>
+      <Forenames>C</Forenames>
+      <Text>S</Text>
       <PageNumber>4304</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1033,7 +1035,9 @@
     <MainItem>
       <Key>Rodger</Key>
       <Forenames>A.</Forenames>
-      <Text>. O.B.E. (and permitted to retain rank)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>5019</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1084,7 +1088,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Scrivener</Key>
-      <Text>R. S. R</Text>
+      <Forenames>R. S. R</Forenames>
       <PageNumber>3095</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1098,7 +1102,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sheppard</Key>
-      <Text>S. T</Text>
+      <Forenames>S. T</Forenames>
       <PageNumber>4739</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1147,7 +1151,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Steechly</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>3095</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1169,7 +1173,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stephens</Key>
-      <Text>J Stevenson. H. L. (and permitted to retain rank)</Text>
+      <Forenames>J</Forenames>
+      <Text>Stevenson. H. L. (and permitted to retain rank)</Text>
       <PageNumber>5019</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1468,6 +1473,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Hoxar</Key>
+      <Forenames>A. R</Forenames>
+      <PageNumber>4739</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Freke</Key>
       <Forenames>C. G.</Forenames>
       <Text>(and permitted to retain rank)</Text>
@@ -1678,7 +1690,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Coulthard</Key>
-      <Text>J. R</Text>
+      <Forenames>J. R.</Forenames>
       <PageNumber>4102</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1693,15 +1705,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Deane</Key>
-      <Forenames>S. O</Forenames>
-      <Text>'M</Text>
+      <Forenames>S. O'M</Forenames>
       <PageNumber>5142</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Dingle</Key>
-      <Text>H. C</Text>
+      <Forenames>H. C</Forenames>
       <PageNumber>3095</PageNumber>
     </MainItem>
   </ItemGroup>

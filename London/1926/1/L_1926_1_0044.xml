@@ -609,14 +609,6 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Murray</Key>
-      <Forenames>A. Napier</Forenames>
-      <Text>, L. E. S</Text>
-      <PageNumber>2015</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
       <Key>Natali</Key>
       <Forenames>P. V</Forenames>
       <PageNumber>1649</PageNumber>
@@ -673,13 +665,6 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Price</Key>
-      <Forenames>V. H. A</Forenames>
-      <PageNumber>1242</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
       <Key>Purdie</Key>
       <Forenames>R</Forenames>
       <Text>'</Text>
@@ -701,14 +686,6 @@
       <Forenames>E</Forenames>
       <Text>W</Text>
       <PageNumber>1649</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Russell</Key>
-      <Title>Hon.</Title>
-      <Forenames>J. H</Forenames>
-      <PageNumber>1242</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -751,13 +728,6 @@
       <Key>Sollal</Key>
       <Forenames>G. W</Forenames>
       <PageNumber>2016</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Southby</Key>
-      <Forenames>E. J. J</Forenames>
-      <PageNumber>983</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -955,13 +925,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, G. A Pearce, W. F</Text>
+      <Key>O'Neill</Key>
+      <Forenames>G. A</Forenames>
+      <Text>Pearce, W. F</Text>
       <PageNumber>1160</PageNumber>
     </MainItem>
-    <SubSubSectionTitle>Retired List</SubSubSectionTitle>
+    <SubSubSectionTitle>
+      <Text>Retired List</Text>
+    </SubSubSectionTitle>
     <SubItem>
-      <Text>Retired List.</Text>
       <PageNumber>298</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1312,7 +1284,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hopkins</Key>
-      <Text>F. J</Text>
+      <Forenames>F. J.</Forenames>
       <PageNumber>44</PageNumber>
     </MainItem>
   </ItemGroup>

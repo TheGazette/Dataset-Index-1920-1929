@@ -3,7 +3,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Rainsford</Key>
-      <Text>Hanney Major Archibald Gordon, D.S.O., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4407</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -28,7 +30,10 @@
       <Key>Redhead</Key>
       <Title>Capt.</Title>
       <Forenames>Charles Mahon</Forenames>
-      <Text>, D.S.O., R.D., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>4407</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -44,7 +49,9 @@
     <MainItem>
       <Key>Rice</Key>
       <Forenames>Percy Christopher</Forenames>
-      <Text>, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>4411</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -61,7 +68,9 @@
     <MainItem>
       <Key>Richmond</Key>
       <Forenames>Vice-</Forenames>
-      <Text>Admiral Herbert William, C.B., Knight Commander, Order of the Bath</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>4403</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -88,14 +97,19 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Mary</Forenames>
-      <Text>, Mrs., M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>4411</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Rivers-Smith</Key>
-      <Text>. Stanley, O.B.E., Commander. Order of the British Empire</Text>
+      <Forenames>Stanley</Forenames>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4415</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -121,7 +135,9 @@
         <KeyDitto>___</KeyDitto>
       </Key>
       <Forenames>Robert Burns</Forenames>
-      <Text>, M.V.O., Member, Roval Victorian Order</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>4406</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -136,21 +152,26 @@
   <ItemGroup>
     <MainItem>
       <Key>Roe</Key>
-      <Text>. Edward William, Member, Order of the British Empire</Text>
+      <Forenames>Edward William</Forenames>
+      <Text>, Member, Order of the British Empire</Text>
       <PageNumber>4412</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Roscoe</Key>
-      <Text>. Capt. Edward Cecil, A.M.I.Mech.E., Member, Order of the British Empire</Text>
+      <Title>Capt.</Title>
+      <Forenames>Edward Cecil</Forenames>
+      <Text>, A.M.I.Mech.E., Member, Order of the British Empire</Text>
       <PageNumber>4409</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Ross</Key>
-      <Text>. Major Edward Johnson, Officer, Order of the British Empire</Text>
+      <Title>Major</Title>
+      <Forenames>Edward Johnson</Forenames>
+      <Text>, Officer, Order of the British Empire</Text>
       <PageNumber>4408</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -189,7 +210,9 @@
       <Key>Rostron</Key>
       <Title>Capt.</Title>
       <Forenames>Arthur Henry</Forenames>
-      <Text>, C.B.E., Knight Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>4410</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -213,7 +236,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Rowcroft</Key>
-      <Text>. Capt. Eric Bertram, A.M.I.Mech.E.. Member, Order of the British Empire</Text>
+      <Title>Capt.</Title>
+      <Forenames>Eric Bertram</Forenames>
+      <Text>, A.M.I.Mech.E.. Member, Order of the British Empire</Text>
       <PageNumber>4409</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -222,7 +247,9 @@
       <Key>Rovle</Key>
       <Title>Sir</Title>
       <Forenames>George</Forenames>
-      <Text>, O.B.E. ' J.P. F.R.G.S., Cornmander. Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4410</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -231,7 +258,10 @@
       <Key>Russell</Key>
       <Title>the Hon. Sir</Title>
       <Forenames>Odo William Theophilus Villiers</Forenames>
-      <Text>, K.C.V.O., C.B., Knight Commander, St. Michael and St. George</Text>
+      <Text>
+        <Honour>K.C.V.O.</Honour>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>4405</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -239,7 +269,9 @@
     <MainItem>
       <Key>Rutherford</Key>
       <Forenames>Ernest Victor Buckley</Forenames>
-      <Text>, O.B.E.. Knight</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4402</PageNumber>
       <PageNumber>4708</PageNumber>
     </MainItem>
@@ -255,7 +287,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Samuel</Key>
-      <Text>the Rt. Hon. Sir Herbert Louis, G.B.E., Knight Grand Cross, Order of the Bath</Text>
+      <Text>
+        <Honour>G.B.E.</Honour>
+      </Text>
       <PageNumber>4404</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -314,7 +348,10 @@
     <MainItem>
       <Key>Scharlieb</Key>
       <Forenames>Marv Ann Dacomb</Forenames>
-      <Text>, Mis., C.B.E., M.D.. M.S.i Dame Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>4410</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -322,7 +359,9 @@
     <MainItem>
       <Key>Scott</Key>
       <Forenames>John</Forenames>
-      <Text>, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>4411</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -337,14 +376,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Seager</Key>
-      <Text>. Samuel Hurst, F.R.I.B.A.. Commander, Order of the British Empire</Text>
+      <Forenames>Samuel Hurst</Forenames>
+      <Text>, F.R.I.B.A.. Commander, Order of the British Empire</Text>
       <PageNumber>4414</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Sells</Key>
-      <Text>. Arthur Clement, Officer, Order of the British Empire</Text>
+      <Forenames>Arthur Clement</Forenames>
+      <Text>, Officer, Order of the British Empire</Text>
       <PageNumber>4414</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -368,21 +409,27 @@
   <ItemGroup>
     <MainItem>
       <Key>Sbeppard</Key>
-      <Text>. Capt. Matthew, M.C., T.D.. Officer. Order of the British Empire</Text>
+      <Title>Capt.</Title>
+      <Forenames>Matthew</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>4408</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Shiroore</Key>
-      <Text>. John Owen, M.B.. Ch.B.. Companion, Order of St. Michael and St. George</Text>
+      <Forenames>John Owen</Forenames>
+      <Text>, M.B.. Ch.B.. Companion, Order of St. Michael and St. George</Text>
       <PageNumber>4405</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Short</Key>
-      <Text>. .Tames Andrew, Officer, Order of the British Empire</Text>
+      <Text>.Tames Andrew, Officer, Order of the British Empire</Text>
       <PageNumber>4411</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -415,14 +462,20 @@
       <Key>Simpkins</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>William</Forenames>
-      <Text>, T.D.. Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>4408</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Simpson</Key>
-      <Text>. George Clarke, C.B.E., LL.D.. D.Sc. F.R.S., Companion, Order of the Bath</Text>
+      <Forenames>George Clarke</Forenames>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>4404</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -462,8 +515,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Andrew Donnan Com-</Forenames>
-      <Text>mander, Order of the British Empire</Text>
+      <Forenames>Andrew Donnan</Forenames>
+      <Text>Commander, Order of the British Empire</Text>
       <PageNumber>4410</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -473,7 +526,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Frank Edward</Forenames>
-      <Text>, C.B.E. F.R.S., A.R.C.Sc, Com! panion, Order of the Bath</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>4403</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -493,7 +548,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>George Herbert</Forenames>
-      <Text>, Member, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4406</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -575,14 +632,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Speight</Key>
-      <Text>. Charles the British Order of Empire</Text>
+      <Forenames>Charles</Forenames>
+      <Text>the British Order of Empire</Text>
       <PageNumber>4414</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Spiller</Key>
-      <Text>. Miss Officer, Order of the British Empire</Text>
+      <Title>Miss</Title>
+      <Forenames>Officer</Forenames>
+      <Text>, Order of the British Empire</Text>
       <PageNumber>4411</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -593,14 +653,19 @@
       <PageNumber>4403</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>5698</PageNumber>
     </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Stanley</Key>
-      <Text>. Captain Lord, M.C:. M.P., Lord Commissioner of His Majesty's Treasury</Text>
+      <Title>Captain Lord</Title>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>5442</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -615,7 +680,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Steel</Key>
-      <Text>. Miij. and Bt. Lt.-Col. Charles Edward, Officer, Order of the British Empire</Text>
+      <Title>Miij. and Bt. Lt.-Col.</Title>
+      <Forenames>Charles Edward</Forenames>
+      <Text>, Officer, Order of the British Empire</Text>
       <PageNumber>4408</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -626,7 +693,11 @@
       </Key>
       <Title>Air Vice-Marshal</Title>
       <Forenames>John Miles</Forenames>
-      <Text>. C.B., C.M.G., C.B.E., Knight Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>4409</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -658,7 +729,12 @@
   <ItemGroup>
     <MainItem>
       <Key>Storrs</Key>
-      <Text>. Colonel Sir Ronald, Kt. C.M.G., C.B.E., Governor and Commander-in-Chief of the Colon' of Cyprus</Text>
+      <Title>Colonel Sir</Title>
+      <Forenames>Ronald</Forenames>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>6228</PageNumber>
     </MainItem>
   </ItemGroup>

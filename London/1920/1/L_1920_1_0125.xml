@@ -11,7 +11,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Chevallier-Boutell</Key>
-      <Text>. Francis Hepburn, Esquire, St. John of Jerusalem</Text>
+      <Forenames>Francis Hep-</Forenames>
+      <Text>
+        <Honour>Esquire, St. John of Jerusalem</Honour>
+      </Text>
       <PageNumber>1684</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -26,7 +29,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Chichester</Key>
-      <Text>. Shane Randolph, Officer, Order of the British Empire</Text>
+      <Forenames>Shane Randolph</Forenames>
+      <Text>, Officer, Order of the British Empire</Text>
       <PageNumber>3780</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -104,7 +108,9 @@
     <MainItem>
       <Key>Chisholm</Key>
       <Forenames>Alice</Forenames>
-      <Text>, Mrs., C.B.E., Dame Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>3758</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -150,7 +156,11 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>T.</Forenames>
-      <Text>/Lt.-Col. Ewan, D.S.O., M.C., Bar i« D.S.O</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>681</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -216,7 +226,9 @@
     <MainItem>
       <Key>Chrystal</Key>
       <Forenames>George William</Forenames>
-      <Text>, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -225,7 +237,10 @@
       <Key>Church</Key>
       <Title>Lt. (A./Maj.)</Title>
       <Forenames>Archibald George</Forenames>
-      <Text>, M.C.. Companion, D.S.O</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>919</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -303,7 +318,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Clark</Key>
-      <Text>temp Capt. (temp. Col.) D-Arcy Melville, M.B.E., Commander, Order of the British Empire &gt;(eorr. of rank)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3999</PageNumber>
     </MainItem>
     <SubItem>
@@ -318,7 +335,10 @@
       </Key>
       <Title>Cdr.</Title>
       <Forenames>James Lenox Convngham</Forenames>
-      <Text>, D.S.O., Bar to D.S.O</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>2862</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -332,7 +352,7 @@
       <PageNumber>3765</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Miss Winifred. Roval Red Cross, 2nd Cl</Text>
+      <Text>Miss Winifred. Roval Red Cross, 2nd Cl.</Text>
       <PageNumber>812</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -340,7 +360,9 @@
     <MainItem>
       <Key>Clarke</Key>
       <Forenames>Andrew Campbell</Forenames>
-      <Text>, M.D., Ch.B.. Member, Order of _the British Empire</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>1238</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -350,7 +372,9 @@
         <KeyDitto>___ ___ ___ .</KeyDitto>
       </Key>
       <Forenames>Arthur Ernest</Forenames>
-      <Text>, M.D.. Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3822</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -472,7 +496,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Clegg</Key>
-      <Text>. Miss Fanny, Member. Order of the British Empire</Text>
+      <Title>Miss</Title>
+      <Forenames>Fanny</Forenames>
+      <Text>, Member. Order of the British Empire</Text>
       <PageNumber>3822</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -498,14 +524,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Clinch</Key>
-      <Text>. Sidney Herbert, Member, Order of the British Empire</Text>
+      <Forenames>Sidney Herbert</Forenames>
+      <Text>, Member, Order of the British Empire</Text>
       <PageNumber>3822</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Clinkard</Key>
-      <Text>. Lt. Charles Ernest, Member, Order of the British Empire</Text>
+      <Title>Lt.</Title>
+      <Forenames>Charles Ernest</Forenames>
+      <Text>, Member, Order of the British Empire</Text>
       <PageNumber>3822</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -513,7 +542,9 @@
     <MainItem>
       <Key>Clive</Key>
       <Forenames>Robert Henry</Forenames>
-      <Text>, C.M.G., Counsellor of Embassy in H.M. Diplomatic Service</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>979</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -577,7 +608,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Clowes</Key>
-      <Text>. Mina Maud Dacre, Mrs., Officer, Order of the British Empire ,</Text>
+      <Forenames>Mina Maud Dacre</Forenames>
+      <Text>, Mrs., Officer, Order of the British Empire ,</Text>
       <PageNumber>3780</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -600,7 +632,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Clyde</Key>
-      <Text>. The Right Hon. J. A., K.C., Steward and Bailiff of the Chiltern Hundreds</Text>
+      <Title>The Right Hon.</Title>
+      <Forenames>J. A.</Forenames>
+      <Text>, K.C., Steward and Bailiff of the Chiltern Hundreds</Text>
       <PageNumber>3671</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -620,7 +654,10 @@
       </Key>
       <Title>Col.</Title>
       <Forenames>William</Forenames>
-      <Text>, C.B., V.D., D.L., M.R.C.S., L.R.C.P., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>D.L.</Honour>
+      </Text>
       <PageNumber>3763</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -690,7 +727,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Cochrane</Key>
-      <Text>of Cults, Gertrude Julia Georgina, Baroness, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3780</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -737,7 +776,9 @@
     <MainItem>
       <Key>Cockeram</Key>
       <Forenames>William Henry</Forenames>
-      <Text>, O.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3763</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -801,7 +842,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>William Melville</Forenames>
-      <Text>, M.C., Third Secretary in H.M. Diplomatic Service</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>327</PageNumber>
     </MainItem>
   </ItemGroup>

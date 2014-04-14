@@ -196,7 +196,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sisson</Key>
-      <Text>. F</Text>
+      <Forenames>F.</Forenames>
       <PageNumber>3570</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -342,7 +342,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Thackrah</Key>
-      <Text>. N. H</Text>
+      <Forenames>N. H .</Forenames>
       <PageNumber>2863</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -491,6 +491,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>van Blommestein</Key>
+      <Forenames>F. W.</Forenames>
+      <PageNumber>3657</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Vintcent</Key>
       <Forenames>N.</Forenames>
       <PageNumber>3375</PageNumber>
@@ -559,7 +566,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Webb</Key>
-      <Text>. A</Text>
+      <Forenames>A .</Forenames>
       <PageNumber>3060</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -638,8 +645,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wintour</Key>
-      <Title>St.</Title>
-      <Forenames>J. F.</Forenames>
+      <Title>St. J.</Title>
+      <Forenames>F.</Forenames>
       <PageNumber>3901</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -719,7 +726,9 @@
     <MainItem>
       <Key>Middlesex</Key>
       <Forenames>Revelstoke</Forenames>
-      <Text>, Rt. Hon. John, Baron, G.C.V.O</Text>
+      <Text>
+        <Honour>G.C.V.O</Honour>
+      </Text>
       <PageNumber>3019</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -727,7 +736,9 @@
     <MainItem>
       <Key>Rutland</Key>
       <Forenames>Griffith</Forenames>
-      <Text>, Col. Edward Wynne, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>3110</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -735,18 +746,23 @@
     <MainItem>
       <Key>Stirling</Key>
       <Forenames>Zetland</Forenames>
-      <Text>, Marquess of, K.T., resignation</Text>
+      <Text>
+        <Honour>K.T.</Honour>
+      </Text>
       <PageNumber>4119</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Berkshire</Key>
-      <Text>: Barker, Lieut.-Col. Frederick George, C.B.E</Text>
+      <Text>
+        <Honour>C.B.E</Honour>
+      </Text>
       <PageNumber>4123</PageNumber>
     </MainItem>
     <SubItem>
       <Text>
+        <Honour>Bt</Honour>
         <PageNumber>4123</PageNumber>
       </Text>
       <PageNumber>4123</PageNumber>
@@ -760,7 +776,11 @@
     </MainItem>
     <SubItem>
       <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O.</Honour>
         <PageNumber>3971</PageNumber>
+        <Honour>C.B</Honour>
       </Text>
       <PageNumber>3971</PageNumber>
     </SubItem>
@@ -768,7 +788,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Dorset</Key>
-      <Text>: Digby, Maj. the Rt. Hon. Edward Kenelm Baron, D. S.O., M.C</Text>
+      <Text>
+        <Honour>D. S.O.</Honour>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>3375</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -780,6 +803,7 @@
     </MainItem>
     <SubItem>
       <Text>
+        <Honour>T.D.</Honour>
         <PageNumber>3375</PageNumber>
       </Text>
       <PageNumber>3458</PageNumber>
@@ -788,7 +812,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hertford</Key>
-      <Text>: Fremantle, Lieut.-Colonel Francis Edward, O.B.E., M.P</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4123</PageNumber>
     </MainItem>
     <SubItem>
@@ -799,7 +825,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Pembroke</Key>
-      <Text>: Kylsant, Rt. Hon. Lord, G.C.M.G., resignation</Text>
+      <Text>
+        <Honour>G.C.M.G.</Honour>
+      </Text>
       <PageNumber>4237</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -4,7 +4,9 @@
     <MainItem>
       <Key>Truscotfc</Key>
       <Forenames>Sr George Wyatt</Forenames>
-      <Text>, Bt. —.&gt; ,,</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>839</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -38,7 +40,9 @@
     <MainItem>
       <Key>Vine</Key>
       <Forenames>Siryjohn</Forenames>
-      <Text>KichardSomers, , C.M.G., Kt</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>840</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -54,7 +58,9 @@
       <Key>Wakefield</Key>
       <Title>Col. Sir</Title>
       <Forenames>Charles</Forenames>
-      <Text>' Cheers, Bt., C.B.E</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>839</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -105,7 +111,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>Philip Hickson</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>841</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -152,7 +160,9 @@
       <Key>Whitehead</Key>
       <Title>Sir</Title>
       <Forenames>George Hugh</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>840</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -203,7 +213,9 @@
       <Key>Williams</Key>
       <Title>Col. Sir</Title>
       <Forenames>Robert</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>841</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -250,7 +262,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Clackmannan</Key>
-      <Text>: Younger, Sir George, Bt., M.P</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>M.P</Honour>
+      </Text>
       <PageNumber>1080</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -292,22 +307,30 @@
   <ItemGroup>
     <MainItem>
       <Key>Banff</Key>
-      <Text>: Cowie, Capt. Alexander Mitchell, M.D</Text>
+      <Text>
+        <Honour>M.D</Honour>
+      </Text>
       <PageNumber>1505</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Fleming, Col. John Grant, O.B.E., V.D</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>1505</PageNumber>
     </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Bedford</Key>
-      <Text>: Harvey, Col. John, D.S.O., J.P</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>963</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Jarvis, Lt -Col. Talbot, D.S.O., J.P</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>964</PageNumber>
     </SubItem>
     <SubItem>
@@ -322,7 +345,10 @@
       <PageNumber>1296</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Money, Brig.-Gen. Gordon Lorn Campbell, C.B., D.S.O. (resigns commn.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1296</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -351,7 +377,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Bute</Key>
-      <Text>: Robertson, Col. .Colin McLeod, D.S.O. (corr.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>47</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -365,6 +393,7 @@
       <Text>
         <PageNumber>2517</PageNumber>
         <PageNumber>2517</PageNumber>
+        <Honour>C.V.O.</Honour>
       </Text>
       <PageNumber>2517</PageNumber>
     </SubItem>
@@ -377,23 +406,33 @@
     </MainItem>
     <SubItem>
       <Text>
+        <Honour>Bt</Honour>
         <PageNumber>1611</PageNumber>
+        <Honour>Bt</Honour>
+        <Honour>D.S.O.</Honour>
       </Text>
       <PageNumber>1611</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>Low, William, O.B.E., LL.D., J.P</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>1611</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>Sprot, Col. Sir Alexander, Bt, C.M.G., M.P</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>1611</PageNumber>
     </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Glasgow</Key>
-      <Text>: Cameron, Sir Charles, Bt., LL.D. (resigns commn.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>2241</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -412,6 +451,7 @@
     </MainItem>
     <SubItem>
       <Text>
+        <Honour>C.B.E.</Honour>
         <PageNumber>2620</PageNumber>
       </Text>
       <PageNumber>2620</PageNumber>
@@ -421,7 +461,10 @@
       <PageNumber>2620</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>Nelthorpe, Lt.-Col. Oliver Sutton, D.S.O., M.C. «</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2620</PageNumber>
     </SubItem>
     <SubItem>
@@ -431,22 +474,32 @@
       <PageNumber>2620</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>Worsley, Capt. Sackville George Pelham, Lord, M.C</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2620</PageNumber>
     </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>London</Key>
-      <Text>: Esher, Rt Hon. the Viscount, . G.C.B., G.C.V.O. (resigns commn)</Text>
+      <Text>
+        <Honour>G.C.B.</Honour>
+        <Honour>G.C.V.O.</Honour>
+      </Text>
       <PageNumber>1611</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Green, Col Bernard C,C.M.G., T.D. -</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>729</PageNumber>
     </SubItem>
     <SubItem>
       <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>D.L.</Honour>
         <PageNumber>729</PageNumber>
       </Text>
       <PageNumber>729</PageNumber>
@@ -460,7 +513,12 @@
     </MainItem>
     <SubItem>
       <Text>
+        <Honour>C.V.O.</Honour>
+        <Honour>T.D.</Honour>
+        <Honour>A.D.C.</Honour>
         <PageNumber>964</PageNumber>
+        <Honour>O.B.E.</Honour>
+        <Honour>T.D.</Honour>
         <PageNumber>964</PageNumber>
       </Text>
       <PageNumber>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</PageNumber>
@@ -470,7 +528,9 @@
     <MainItem>
       <Key>Norfolk</Key>
       <Forenames>County</Forenames>
-      <Text>of, and City and County of the City of Norwich : Hicks, Sir William Joynson, Bart</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>2434</PageNumber>
     </MainItem>
     <SubItem>
@@ -495,7 +555,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Radnor</Key>
-      <Text>: Sladen, Brig. Gen. David Ramsay, C.M.G., D.S.O</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>1831</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -507,6 +570,8 @@
     </MainItem>
     <SubItem>
       <Text>
+        <Honour>M.C.</Honour>
+        <Honour>D.L.</Honour>
         <PageNumber>2048</PageNumber>
       </Text>
       <PageNumber>1202</PageNumber>
@@ -548,7 +613,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Westmorland</Key>
-      <Text>: North, Lt-Col. Edward Bunbury, C.M.G., D.S.O</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>1089</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -567,9 +635,13 @@
     </MainItem>
     <SubItem>
       <Text>
+        <Honour>Bart</Honour>
         <PageNumber>1415</PageNumber>
+        <Honour>T.D.</Honour>
         <PageNumber>1415</PageNumber>
+        <Honour>D.S.O.</Honour>
         <PageNumber>1415</PageNumber>
+        <Honour>O.B.E.</Honour>
       </Text>
       <PageNumber>1415</PageNumber>
     </SubItem>
@@ -588,7 +660,9 @@
       <PageNumber>841</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Leslie, Bt. Lieut.-Col. John Henry _</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>841</PageNumber>
     </SubItem>
   </ItemGroup>

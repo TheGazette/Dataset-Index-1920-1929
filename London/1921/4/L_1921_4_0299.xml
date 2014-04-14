@@ -205,7 +205,9 @@
       <Key>Wheler</Key>
       <Title>Maj.</Title>
       <Forenames>G. B. H.</Forenames>
-      <Text>, M.C. (trd. to 3rd H. from 21st L.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9426</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -242,7 +244,12 @@
     <MainItem>
       <Key>Whetham</Key>
       <Forenames>Supern</Forenames>
-      <Text>Maj. S. A. Boddam-, D.S.O., M.C., see Boddam Whetham, Supern. Maj. S. A., D.S.O., M.C. Whetstone, temp. Capt. K. (rel. commn. on completion of service, and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9622</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -278,7 +285,9 @@
       <Key>Whillis</Key>
       <Title>temp. Capt.</Title>
       <Forenames>B. P.</Forenames>
-      <Text>M.C. (rel.. commn. on completion of service, and granted rank of Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8169</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -373,7 +382,9 @@
       <Key>Whitbread</Key>
       <Title>temp. 2nd Lt.</Title>
       <Forenames>T. A.</Forenames>
-      <Text>, M.M. (re), commn. on completion of service, and retains rank of 2nd Lt.)</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>10437</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -442,7 +453,9 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>A. Blair</Forenames>
-      <Text>, M.B.E. (rel. comma, on completion of service, and retains rank of Lt.) ,</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>8048</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -565,7 +578,9 @@
       </Key>
       <Title>Capt. and Bt. Maj.</Title>
       <Forenames>E. S.</Forenames>
-      <Text>, D.S.O. (actg. Lt.-Col. whilst C.S. andr.O.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8433</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -675,7 +690,9 @@
       </Key>
       <Title>temp. Capt.</Title>
       <Forenames>H. J.</Forenames>
-      <Text>, M.C. (R. Suss. R.) (rel. commn. on completion of service, and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8620</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -697,11 +714,15 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>H. P.</Forenames>
-      <Text>, M.C. (Capt., and rem. seed.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9429</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Bt.Maj</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>10468</PageNumber>
     </SubItem>
   </ItemGroup>

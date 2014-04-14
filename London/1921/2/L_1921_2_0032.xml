@@ -36,7 +36,9 @@
     <MainItem>
       <Key>Sargeant</Key>
       <Forenames>Alderman Alfred Read</Forenames>
-      <Text>, B.A., J.P., Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>4531</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -45,7 +47,10 @@
       <Key>Scott</Key>
       <Title>Alexander.</Title>
       <Forenames>Thomas</Forenames>
-      <Text>, M.B.E., M.R.C.S., Esquire, St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+        <Honour>Esquire, St. John of Jerusalem</Honour>
+      </Text>
       <PageNumber>2569</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -141,7 +146,9 @@
       <Key>Shipley</Key>
       <Title>Sir</Title>
       <Forenames>Arthur Everett</Forenames>
-      <Text>, K.C.B.E., Member of Royal Commission on admission of cattle to the United Kingdom for purposes other than for immediate slaughter</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>3843</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -166,7 +173,9 @@
       <Key>Sinton</Key>
       <Title>Capt. and Bt. Maj. (T./Maj.)</Title>
       <Forenames>John Alexander</Forenames>
-      <Text>, V.C, M.B., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>V.C</Honour>
+      </Text>
       <PageNumber>4694</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -175,7 +184,9 @@
       <Key>Skeen</Key>
       <Title>Maj.-Gen.</Title>
       <Forenames>Andrew</Forenames>
-      <Text>, C.M.G., Knight Commander, Order of the Indian Empire</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>4694</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -200,11 +211,16 @@
       <Key>Sleeman</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>James Lewis</Forenames>
-      <Text>, C.B.E., M.V.O., Esquire, St, John of Jerusalem</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>2569</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Companion, St. Michael and St. George</Text>
+      <Text>
+        <Honour>Companion, St. Michael and St. George</Honour>
+      </Text>
       <PageNumber>4534</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -212,7 +228,9 @@
     <MainItem>
       <Key>Smith</Key>
       <Forenames>Alexander Finlay</Forenames>
-      <Text>, Esquire, St. John of Jerusalem</Text>
+      <Text>
+        <Honour>Esquire, St. John of Jerusalem</Honour>
+      </Text>
       <PageNumber>4544</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -231,7 +249,11 @@
       <Key>Smith</Key>
       <Title>Capt. and Bt. Maj.</Title>
       <Forenames>Geoffrey Vidal Heriz</Forenames>
-      <Text>, M.C. (See Heriz-Smith, Capt. and Bt. Maj. Geoffrey Vidal, M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>Bt</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4694</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -241,7 +263,10 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Henry White</Forenames>
-      <Text>, C.B.E., Knighted</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>4531</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -263,7 +288,12 @@
       </Key>
       <Title>Surg.</Title>
       <Forenames>Kear-Adml</Forenames>
-      <Text>. Percy William Bennett, C.B., C.M.G. (See Bassett-Smith, Surg. Rear-Adml. Percy William, C.B., C.M.G.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>4532</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -273,7 +303,10 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Thomas William</Forenames>
-      <Text>, C.B.E., Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4535</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -305,7 +338,10 @@
       </Key>
       <Title>Col.</Title>
       <Forenames>William Dunlop</Forenames>
-      <Text>, C.M.G., D. S.O., Companion, Order of Bath</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D. S.O.</Honour>
+      </Text>
       <PageNumber>4532</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -330,7 +366,9 @@
     <MainItem>
       <Key>Sperling</Key>
       <Forenames>Rowland Arthur Charles</Forenames>
-      <Text>, Companion, St. Michael and St. George</Text>
+      <Text>
+        <Honour>Companion, St. Michael and St. George</Honour>
+      </Text>
       <PageNumber>4534</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -355,7 +393,9 @@
     <MainItem>
       <Key>Stead</Key>
       <Forenames>Charles</Forenames>
-      <Text>, M.V.O., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>2661</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -372,7 +412,9 @@
       <Key>Steele</Key>
       <Title>Maj. (T./Lt.-Col.)</Title>
       <Forenames>Charles</Forenames>
-      <Text>; Edward Beevor, O.B.E., Companion, Order of the Indian Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4694</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -397,7 +439,10 @@
       <Key>Stewart</Key>
       <Title>Col.</Title>
       <Forenames>Cosmo Gordon</Forenames>
-      <Text>, C.M.G., D.S.O., Companion, Order of Bath</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4532</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -407,7 +452,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>George Francis</Forenames>
-      <Text>, J.P., D.L., Sworn of H.M. Privy Council (Ireland)</Text>
+      <Text>
+        <Honour>D.L.</Honour>
+      </Text>
       <PageNumber>4530</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -418,7 +465,9 @@
       </Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Rupert</Forenames>
-      <Text>, Member, 4th CI., Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4535</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -435,7 +484,11 @@
     <MainItem>
       <Key>Stopford</Key>
       <Title>Lt.</Title>
-      <Text>-Gen. the Hon. Sir Frederick William. K.C.M.G., K.C.V.O., C.B., Knight Commander, Order of Bath</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>K.C.V.O.</Honour>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>4532</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -444,7 +497,9 @@
       <Key>Stout</Key>
       <Title>Hon. Sir</Title>
       <Forenames>Robert</Forenames>
-      <Text>, K.C.M.G., LL.D., H.M. Privy Council</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+      </Text>
       <PageNumber>4629</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -469,7 +524,11 @@
       <Key>Stuart</Key>
       <Title>Sir</Title>
       <Forenames>Harold Arthur</Forenames>
-      <Text>, K.C.S.I., K.C.M.G.. K.C.V.O., Knight of Grace, St. John of Jerusalem</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>K.C.V.O.</Honour>
+        <Honour>Knight of Grace, St. John of Jerusalem</Honour>
+      </Text>
       <PageNumber>4544</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -503,7 +562,10 @@
       <Key>Sutherland</Key>
       <Title>Sir</Title>
       <Forenames>Arthur Munro</Forenames>
-      <Text>, K.B.E., created Baronet</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>4530</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -537,7 +599,10 @@
       <Key>Sweeny</Key>
       <Title>Maj. (T./Lt.-Col.)</Title>
       <Forenames>Roger Lewis Campbell</Forenames>
-      <Text>, D.S.O., M.C., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4694</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -546,7 +611,11 @@
       <Key>Sykes</Key>
       <Title>Sir</Title>
       <Forenames>Charles</Forenames>
-      <Text>, K.B.E., M.P., created Baronet</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+        <Honour>M.P.</Honour>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>4530</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -563,7 +632,10 @@
       <Key>Talbot</Key>
       <Title>Rt. Hon. Sir</Title>
       <Forenames>Edmund Ber-</Forenames>
-      <Text>nard, G.C.V.O., D.S.O., Lieut.Gen. and General Governor of Ireland</Text>
+      <Text>
+        <Honour>G.C.V.O.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3183</PageNumber>
     </MainItem>
     <SubItem>
@@ -604,7 +676,9 @@
       <Key>Teunon</Key>
       <Title>Mr.</Title>
       <Forenames>Justice William</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>4531</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -612,7 +686,9 @@
     <MainItem>
       <Key>Theagaraja</Key>
       <Forenames>Ayyar Sadasiva Ayyar</Forenames>
-      <Text>, Diwan Bahadur, Mr. Justice, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>4531</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -662,7 +738,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Richard David</Forenames>
-      <Text>, L.R.C.P., L.R.C.P. Ed., Esquire, St. John of Jerusalem</Text>
+      <Text>
+        <Honour>Esquire, St. John of Jerusalem</Honour>
+      </Text>
       <PageNumber>4544</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -672,7 +750,10 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>William Henry</Forenames>
-      <Text>, M.B.E., Knighted</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>4531</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -698,7 +779,9 @@
     <MainItem>
       <Key>Tidmarsh</Key>
       <Forenames>Edwin Russell</Forenames>
-      <Text>, O.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4821</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -747,7 +830,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Tudball</Key>
-      <Text>Mr. Justice William, Knighted</Text>
+      <Title>Mr.</Title>
+      <Forenames>Justice William</Forenames>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>4531</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -756,14 +843,18 @@
       <Key>Tudor-Tudor</Key>
       <Title>Adml. Sir</Title>
       <Forenames>Frederick Charles</Forenames>
-      <Text>, K.C.M.G., C.B., Knieht Commander, Order of Bath</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>4532</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Tuffiil</Key>
-      <Text>Payr. Lt.-Comdr. Harold Birch, Commander, Order of the British Empire</Text>
+      <Title>Payr. Lt.</Title>
+      <Text>-Comdr. Harold Birch, Commander, Order of the British Empire</Text>
       <PageNumber>4821</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -771,7 +862,10 @@
     <MainItem>
       <Key>Turner</Key>
       <Forenames>John</Forenames>
-      <Text>, D.L.. Knighted</Text>
+      <Text>
+        <Honour>D.L.</Honour>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>4531</PageNumber>
     </MainItem>
   </ItemGroup>

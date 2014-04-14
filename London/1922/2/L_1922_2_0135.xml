@@ -21,7 +21,9 @@
     <MainItem>
       <Key>Sherren</Key>
       <Forenames>Squadron Leader Percy Clark</Forenames>
-      <Text>, M.C. (date of rank and precedence)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3713</PageNumber>
     </MainItem>
     <SubItem>
@@ -58,7 +60,9 @@
       <Key>Smart</Key>
       <Title>Flight Lt.</Title>
       <Forenames>Harry George</Forenames>
-      <Text>, D.F.C. (Sqdn. Leader)</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>4942</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -77,7 +81,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Flying Offr</Forenames>
-      <Text>. Sydney, D.C.M. (Flight Lt.) '</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>4942</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -108,7 +114,9 @@
       <Key>Songhurst</Key>
       <Title>Flight Lt.</Title>
       <Forenames>Frederick Hibbard</Forenames>
-      <Text>, M.B.E. (Sqdn. Leader)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>4942</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -116,7 +124,9 @@
     <MainItem>
       <Key>Squair</Key>
       <Forenames>Francis William</Forenames>
-      <Text>, M.B., T.D. (granted temu. column, as Flight Lt. (Hon. Squadron Leader)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>4168</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -133,7 +143,9 @@
     <MainItem>
       <Key>Stanford</Key>
       <Forenames>Wing Comdr</Forenames>
-      <Text>. Charles Edward Cortis, D.S.O., M.B., B. Sc. (Group Cant.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4942</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -142,7 +154,10 @@
       <Key>Starkey</Key>
       <Title>Flight Lt.</Title>
       <Forenames>Henrv Samuel Crichton</Forenames>
-      <Text>, O.B.E., M.D., M.A. (Sqdn. Leader)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>4941</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -150,7 +165,9 @@
     <MainItem>
       <Key>Steggall</Key>
       <Forenames>Robert Ernest</Forenames>
-      <Text>, M.B.E. (granted short service commn. as Flying Offr. for Accountant duties), Sub. Not</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3236</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -191,7 +208,10 @@
     <MainItem>
       <Key>Styran</Key>
       <Forenames>Flving Offr</Forenames>
-      <Text>. Arthur John Graham, M.C., A.F.C. (Flight Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>4942</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -199,7 +219,9 @@
     <MainItem>
       <Key>Swann</Key>
       <Forenames>Air Commodore Oliver</Forenames>
-      <Text>, C. B.. C.B.E. (Air ViceMarshal)</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>4942</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -218,7 +240,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Rowallan Masson</Forenames>
-      <Text>, M.C. (granted short service commnn for three years on active list as Flying Offr.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4335</PageNumber>
     </MainItem>
     <SubItem>
@@ -231,7 +255,9 @@
       <Key>Thomas</Key>
       <Title>Fit. Lt.</Title>
       <Forenames>Meredith</Forenames>
-      <Text>, A.F.C. (granted permanent commn.)</Text>
+      <Text>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>3432</PageNumber>
     </MainItem>
     <SubItem>
@@ -291,7 +317,9 @@
       </Key>
       <Title>Sqdn.</Title>
       <Forenames>Leader Henry Ash-</Forenames>
-      <Text>bourne, M.D., B.A. (Wing Comdr.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>4942</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -299,7 +327,11 @@
     <MainItem>
       <Key>Trenchard</Key>
       <Forenames>Air Marshal</Forenames>
-      <Text>Sir Hugh Montague. Bt., K.C.B., D.S.O. (Air Chief Marshal)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>K.C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3961</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -323,7 +355,9 @@
     <MainItem>
       <Key>Tully</Key>
       <Forenames>Flying Offr</Forenames>
-      <Text>. Terence Bernard, A.F.C. (resigns short serv. commn. and granted rank of Capt,)</Text>
+      <Text>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>4649</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -331,7 +365,9 @@
     <MainItem>
       <Key>Vaughan</Key>
       <Forenames>Edwin Stephen Campion</Forenames>
-      <Text>, M.C. (granted short service commn. as Pilot Offr., on prob.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3090</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -355,7 +391,9 @@
     <MainItem>
       <Key>Vincent</Key>
       <Forenames>Flying Offr</Forenames>
-      <Text>. Stanley Flamank, A.F.C. (Flight Lt.)</Text>
+      <Text>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>4942</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -403,7 +441,9 @@
     <MainItem>
       <Key>Walmsley</Key>
       <Forenames>Flying Offr</Forenames>
-      <Text>. Hugh Sydney Porter, M.C. (Flight Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4942</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -459,7 +499,9 @@
     <MainItem>
       <Key>White</Key>
       <Forenames>James Frederick Robert Eales</Forenames>
-      <Text>, see Eales-White, James Frederick Robert. Whitham, Flying Offr. Robert Parker Musgrave. M.C. (Flight Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4942</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -484,7 +526,10 @@
     <MainItem>
       <Key>Williamson</Key>
       <Forenames>Wing Cdr</Forenames>
-      <Text>. Hugh Alexander, C.M.G., A.F.C. (placed on half pay, Scale A)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>3030</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -612,7 +657,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Southampton</Key>
-      <Text>: Portal, Sir William Wyndham, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4541</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -637,7 +684,9 @@
       <PageNumber>3961</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Beckwith, Arthur, O.B.E., J.P</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3961</PageNumber>
     </SubItem>
     <SubItem>
@@ -649,7 +698,9 @@
       <PageNumber>3961</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>Pirie-Gordon, Edward, M.B.E., J.P</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3961</PageNumber>
     </SubItem>
     <SubItem>

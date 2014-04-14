@@ -21,7 +21,9 @@
       <Key>Sharpe</Key>
       <Title>Sir</Title>
       <Forenames>Montagu</Forenames>
-      <Text>, K.C., D.L., Vice-Lieutenant for the County of Middlesex</Text>
+      <Text>
+        <Honour>D.L.</Honour>
+      </Text>
       <PageNumber>8340</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -54,7 +56,11 @@
       <Key>Stephenson</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Arthur</Forenames>
-      <Text>, C.M.G., D.S.O., M.C., Nominated Official Member of the Legislative Council of Noi-thern Rhodesia</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6749</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -102,7 +108,8 @@
   <ItemGroup>
     <MainItem>
       <Key>U</Key>
-      <Text>Mya Bu, High Judge of the High Court of Judicature at Rangoon</Text>
+      <Forenames>Mya Bu</Forenames>
+      <Text>, High Judge of the High Court of Judicature at Rangoon</Text>
       <PageNumber>8273</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -125,8 +132,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Warrington</Key>
-      <Forenames>The Rt</Forenames>
-      <Text>. Honable. Sir Thomas Rolls, Knight, Annuity</Text>
+      <Title>The Rt. Honable. Sir</Title>
+      <Forenames>Thomas Rolls</Forenames>
+      <Text>, Knight, Annuity</Text>
       <PageNumber>6685</PageNumber>
     </MainItem>
     <SubItem>
@@ -138,7 +146,9 @@
     <MainItem>
       <Key>Watlington</Key>
       <Forenames>Henry William</Forenames>
-      <Text>, O.B.E., Unofficial Member of the Executive Council of the Bermudas or Somers Islands</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>8096</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -162,9 +172,13 @@
   <ItemGroup>
     <MainItem>
       <Key>York</Key>
-      <Title>H.R.H.</Title>
-      <Forenames>The</Forenames>
-      <Text>Duke of, K.G., K.T., G.C.V.O., A.D.C., Extra Member of the First Class, or Knight Grand Cross of Order of Saint Michael and St. George</Text>
+      <Title>H.R.H. The Duke</Title>
+      <Text>
+        <Honour>K.G.</Honour>
+        <Honour>K.T.</Honour>
+        <Honour>G.C.V.O.</Honour>
+        <Honour>A.D.C.</Honour>
+      </Text>
       <PageNumber>8411</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -472,8 +486,8 @@
   <ItemGroup>
     <MainItem>
       <Key>McRae</Key>
-      <Forenames>H. St</Forenames>
-      <Text>. G. M</Text>
+      <Forenames>H. St. G</Forenames>
+      <Text>. M</Text>
       <PageNumber>6615</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -657,9 +671,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Straubenzee</Forenames>
-      <Text>, A. B</Text>
+      <Key>Van Straubenzee</Key>
+      <Forenames>A. B.</Forenames>
       <PageNumber>6440</PageNumber>
     </MainItem>
   </ItemGroup>

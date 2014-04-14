@@ -35,7 +35,10 @@
     <MainItem>
       <Key>Allbutt</Key>
       <Title>Hon.</Title>
-      <Text>&lt;CoL Sir T. O.j K.C.B., F.R.S., M.D. (vacates appt. as Hon. Col. of E. Angl Divn.)</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>1277</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -150,7 +153,9 @@
       <Key>Alley</Key>
       <Title>Maj.</Title>
       <Forenames>S.</Forenames>
-      <Text>, M.C. (rel. commn. and retains rank of Maj., with permission to wear pre-</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>541</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -166,7 +171,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Alloway</Key>
-      <Text>. Lt. W. V. (rel. commn</Text>
+      <Title>Lt.</Title>
+      <Forenames>W. V.</Forenames>
+      <Text>(rel. commn</Text>
       <PageNumber>344</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -184,7 +191,9 @@
       <Key>Alsop</Key>
       <Title>Capt.</Title>
       <Forenames>B. G. K.</Forenames>
-      <Text>, M.C. (Capt., T.A. Res., Regtl. List, R.A.S.C., from 47th (Land.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1686</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -218,9 +227,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Ancaster</Key>
-      <Title>Lt.-Col.</Title>
-      <Forenames>The</Forenames>
-      <Text>Earl of, T.D. (rel. commn. and retains rank of Lt.-Col. with permission to wear prescribed</Text>
+      <Title>Lt.-Col. The Earl</Title>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>533</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -229,7 +239,9 @@
       <Key>Anderson</Key>
       <Title>Maj.</Title>
       <Forenames>A.</Forenames>
-      <Text>, M.B.E. (rel. commn. and retains rank of</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>717</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -240,7 +252,9 @@
       </Key>
       <Title>Lt.-Col. (Capt. Res. of Off.)</Title>
       <Forenames>A. H.</Forenames>
-      <Text>, T.D. (rel. commn. and retains rank of Lt.-Col. with permission to wear</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>1059</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -284,7 +298,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>E. L.</Forenames>
-      <Text>, M.B., T.D. (rel. commn. and retains rank of Maj., with permission to wear prescribed uniform)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>2219</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -359,7 +375,10 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>T. A. H.</Forenames>
-      <Text>, C.B., T.D. (rel. commn. and retains rank of Maj., with permission to wear prescribed uniform)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>10</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -370,7 +389,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>W.</Forenames>
-      <Text>, M.C. (rel. commn. and granted rank of Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>130</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -410,7 +431,9 @@
       <Key>Anderton</Key>
       <Title>Capt.</Title>
       <Forenames>A. C</Forenames>
-      <Text>, M.C. (rel. commn. and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>532</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -490,7 +513,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>R. L.</Forenames>
-      <Text>, M.C. (T.A. Res. Yeo.) (rel. commn. and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>356</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -563,7 +588,9 @@
       <Key>Anson</Key>
       <Title>Lt.-Col. (late temp. Maj., R.A.) Hon.</Title>
       <Forenames>G. A</Forenames>
-      <Text>, M.V.O. (rel commn. and retains rank of Lt.-Col.)</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>1687</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -572,7 +599,9 @@
       <Key>Anstey</Key>
       <Title>Maj. (ret., T.F.)</Title>
       <Forenames>A.</Forenames>
-      <Text>, T.D. (ceases to comd. the cadre, 4th Bn., Devon. R.)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>1925</PageNumber>
     </MainItem>
     <SubItem>
@@ -585,7 +614,10 @@
       <Key>Anstice</Key>
       <Title>Hon. Col. (Maj., ret. pay) (Hon Col., ret. Vols.) Sir</Title>
       <Forenames>R. H.</Forenames>
-      <Text>, K.C.B., T.D. (resigns commn. and retains rank, with permission to wear the prescribed uniform)</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>448</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -613,7 +645,11 @@
       </Key>
       <Title>2nd Lt.</Title>
       <Forenames>T. M.</Forenames>
-      <Text>(trd. to T.A:, Res., Gen. List, from 5th Bn., Suffolk R.) Ashwanden, Lt.-Col. S. W. L., D.S.O., T.D. (Bt. Col.) -.</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>T.D.</Honour>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>___ ___ ___ ___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>

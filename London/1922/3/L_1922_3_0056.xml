@@ -4,7 +4,9 @@
     <MainItem>
       <Key>Sanders</Key>
       <Title>Eid.</Title>
-      <Text>-Mr. and Maj. S. G., O.B.E. (retires on ret pay)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>6776</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -13,7 +15,9 @@
       <Key>Sandilands</Key>
       <Title>Lt.</Title>
       <Forenames>R. B.</Forenames>
-      <Text>, M.C. (Adjt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6297</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -65,9 +69,15 @@
       <Key>Sargent</Key>
       <Title>Maj. and Bt. Lt.-Col.</Title>
       <Forenames>J.</Forenames>
-      <Text>, D.S.O. (rel. temp, rank of Lt.Col. on ceasing to be empld. with the W. Afr. Front. Force) 6021 Spec, empld</Text>
-      <PageNumber>5361</PageNumber>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
+      <PageNumber>6021</PageNumber>
     </MainItem>
+    <SubItem>
+      <Text>Spec, empld</Text>
+      <PageNumber>5361</PageNumber>
+    </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
@@ -98,7 +108,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>P. E. H.</Forenames>
-      <Text>, M.C. (Maj., Reg. Army Res. of Off., Gen. List, Tank)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5526</PageNumber>
     </MainItem>
     <SubItem>
@@ -188,6 +200,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>Schneider</Key>
+      <Title>Lt.</Title>
+      <Forenames>L. W.</Forenames>
+      <Text>(seed, for , service with R.C. of Sigs.)</Text>
+      <PageNumber>6577</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Schofield</Key>
       <Title>temp. Qrmr. and Lt.</Title>
       <Forenames>F. W.</Forenames>
@@ -219,11 +240,22 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>Scoones</Key>
+      <Title>2nd Lt.</Title>
+      <Forenames>R. L.</Forenames>
+      <Text>(Lt.)</Text>
+      <PageNumber>5359</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Lt</Forenames>
-      <Text>, T. C... M.C. (placed on h.p. list on acc. of illhealth)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5105</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -232,7 +264,10 @@
       <Key>Scott</Key>
       <Title>Col.</Title>
       <Forenames>C. W.</Forenames>
-      <Text>. C.M.G., D.S.O. (placed on h.p. on vacating appt. with Disposal and Liquidation Commri.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6097</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -241,7 +276,9 @@
       <Key>Scott</Key>
       <Title>Capt.</Title>
       <Forenames>F. J.</Forenames>
-      <Text>, M.C. (retires on ret. pay)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6376</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -288,7 +325,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>M. A. H.</Forenames>
-      <Text>, M.C. (Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6840</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -314,7 +353,9 @@
       </Key>
       <Title>Col.</Title>
       <Forenames>P. C. J.</Forenames>
-      <Text>, C.B. (retires on ret. pay and granted hon. rank of Brig.-Gen</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>6160</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -394,7 +435,9 @@
       <Key>Seagrim</Key>
       <Title>Maj.</Title>
       <Forenames>A. H.</Forenames>
-      <Text>, D.S.O. (retires on ret. pay and granted rank of Lt.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5431</PageNumber>
     </MainItem>
     <SubItem>
@@ -436,7 +479,10 @@
       <Key>Sebag-Montefiore</Key>
       <Title>Supern. Maj.</Title>
       <Forenames>T. H.</Forenames>
-      <Text>, D.S.O., M.C. (restd. to estabt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6441</PageNumber>
     </MainItem>
     <SubItem>
@@ -499,7 +545,9 @@
       <Key>Sewell</Key>
       <Title>Capt. (seed. Staff)</Title>
       <Forenames>D. A. D.</Forenames>
-      <Text>, O.B.E. (retires, receiving a gratuity and granted rank of Maj.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>6297</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -510,7 +558,9 @@
       </Key>
       <Title>Lt.-Col. and Bt. Col.</Title>
       <Forenames>J. W. S.</Forenames>
-      <Text>, C.M.G. (placed on h.p. list on completion of 4 years' service as Regtl. Lt.-Col., R.E.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>6840</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -530,7 +580,9 @@
       <Key>Seymour</Key>
       <Title>Maj.</Title>
       <Forenames>C. H. N.</Forenames>
-      <Text>, D.S.O. (placed on h.p. list)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6297</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -572,7 +624,11 @@
       <Key>Shadforth</Key>
       <Title>Capt.</Title>
       <Forenames>H. A.</Forenames>
-      <Text>, O.B.E., M.C. (Capt,, R.S Fus., from R.D. Fus., and to rem. seed.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>6376</PageNumber>
     </MainItem>
     <SubItem>
@@ -618,7 +674,9 @@
       <Key>Sharpe</Key>
       <Title>Capt.</Title>
       <Forenames>P. H.</Forenames>
-      <Text>, M.C. (Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5279</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -653,7 +711,7 @@
       <PageNumber>5033</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Ord. Off., 4th CL, R.A.O.C</Text>
+      <Text>Ord. Off., 4th CL, R.A.O.C.</Text>
       <PageNumber>5034</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -683,7 +741,9 @@
       <Key>Shears</Key>
       <Title>Capt.</Title>
       <Forenames>P. J.</Forenames>
-      <Text>(Capt., Border R., from R.D. Fus.)</Text>
+      <Text>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>5962</PageNumber>
     </MainItem>
     <SubItem>
@@ -731,7 +791,9 @@
       <Key>Shepard</Key>
       <Title>Lt.</Title>
       <Forenames>D. C. A.</Forenames>
-      <Text>(Lt., Border, from R.D. Fus.)</Text>
+      <Text>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>6020</PageNumber>
     </MainItem>
     <SubItem>
@@ -753,7 +815,10 @@
       <Key>Sheppard</Key>
       <Title>Lt.</Title>
       <Forenames>E. W.</Forenames>
-      <Text>, O.B.E., M.C. (seed, for service with Tank Corps)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5609</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -837,7 +902,9 @@
       <Key>Shiffner</Key>
       <Title>Gent. Cadet Sir</Title>
       <Forenames>Henry Burrows</Forenames>
-      <Text>, Bt. (2nd Lt., R.H. and R.F.A.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6379</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -864,7 +931,10 @@
       <Key>Shore</Key>
       <Title>Maj.</Title>
       <Forenames>A. G.</Forenames>
-      <Text>, M.B.E. (Maj., Reg. Army Res. of Off., Gen. List, Embarkation and R.T.E., late 3rd R.D. Fus.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>5035</PageNumber>
     </MainItem>
     <SubItem>

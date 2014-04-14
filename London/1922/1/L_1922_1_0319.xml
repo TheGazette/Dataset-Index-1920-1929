@@ -128,7 +128,9 @@
       <Key>MacAndrew</Key>
       <Title>Capt.</Title>
       <Forenames>D. J</Forenames>
-      <Text>:, M.C. (trd, to T.A. Res.; Regtl. List, R.A. from H.A.C., Arty.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1182</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -137,7 +139,9 @@
       <Key>McArthur</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>J.</Forenames>
-      <Text>, O.B.E. (rel. commn. and retains rank of Lt.-Col.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>923</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -155,7 +159,10 @@
       <Key>McBain</Key>
       <Title>Lt.</Title>
       <Forenames>N. S.</Forenames>
-      <Text>, M.C., A.F.C. (rel. commn. and granted rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>130</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -165,7 +172,9 @@
         <KeyDitto>— ___ ___</KeyDitto>
       </Key>
       <Title>Lt.</Title>
-      <Text>. W. R. B., M.C. (rel. commn. and retains rank of . Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>130</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -174,7 +183,9 @@
       <Key>McBeath</Key>
       <Title>Capt.</Title>
       <Forenames>W. J.</Forenames>
-      <Text>, M.C. (Adjt., 7th Bn., H.L.I.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1369</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -192,7 +203,9 @@
       <Key>McBride</Key>
       <Title>Maj.</Title>
       <Forenames>J. B.</Forenames>
-      <Text>, T.D. (retired, having attained age limit, and retains rank of Maj., with permission to wear prescribed uniform)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>355</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -208,7 +221,12 @@
   <ItemGroup>
     <MainItem>
       <Key>McCall</Key>
-      <Text>. Maj. (Bt. Lt.-Col.) R, L., D.S.O., M.C. (vacates appt. of Adjt,, 6th Bn., Gordons</Text>
+      <Title>Maj. (Bt. Lt.-Col.)</Title>
+      <Forenames>R</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>705</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -235,7 +253,9 @@
       <Key>McCash</Key>
       <Title>Lt.</Title>
       <Forenames>W. F.</Forenames>
-      <Text>, M.C. (rel. commn. and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>11</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -252,21 +272,27 @@
       <Key>McCombie</Key>
       <Title>Capt.</Title>
       <Forenames>C.</Forenames>
-      <Text>M.C. (rel. commn. and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>11</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Mr</Key>
-      <Text>.Connachie, Gapt. J. S., M.C.. M.B. (rel. commn. and granted rank of Maj.)</Text>
+      <Forenames>Connachie</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2500</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>McConnell</Key>
-      <Text>. Lt, G. (rc\. commn. and retains rank of Lt.)</Text>
+      <Forenames>Lt</Forenames>
+      <Text>, G. (rc\. commn. and retains rank of Lt.)</Text>
       <PageNumber>921</PageNumber>
     </MainItem>
   </ItemGroup>

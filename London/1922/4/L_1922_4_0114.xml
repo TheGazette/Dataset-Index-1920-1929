@@ -22,7 +22,9 @@
     <MainItem>
       <Key>Hsrrick</Key>
       <Title>Capt.</Title>
-      <Text>~R. de S. B., D.S.O. (Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7050</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -96,7 +98,9 @@
     <MainItem>
       <Key>Jelal</Key>
       <Forenames>Moochool Shah</Forenames>
-      <Text>, temp. Lt. M.B.E. (temp. Capt.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>8723</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -157,7 +161,9 @@
       <Key>Keates</Key>
       <Title>Maj.</Title>
       <Forenames>H. C.</Forenames>
-      <Text>,M.D. (Lt.-Col.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>7050</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -166,7 +172,9 @@
       <Key>Kennedy</Key>
       <Title>Capt. (Bt. Lt.-Col.)</Title>
       <Forenames>R. S.</Forenames>
-      <Text>, D.S.O., M.C, M.B. (Maj., promotion antedated)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7378</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -229,7 +237,9 @@
     <MainItem>
       <Key>Krishnan</Key>
       <Forenames>Gopinath Pandalai</Forenames>
-      <Text>, Capt., M.B., F.R.C.S. (Maj.)</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>7378</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -365,7 +375,12 @@
   <ItemGroup>
     <MainItem>
       <Key>Needham</Key>
-      <Text>. Maj. (temp. Lt.Col.)R. A., CLE., D.S.O., M.D. (Lt.-Col.)</Text>
+      <Title>Maj. (temp. Lt.Col.)</Title>
+      <Forenames>R. A.</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>7050</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -379,8 +394,12 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Malley, temp. Capt. (R.A.M.C.) David Vincent, O.B.E., M.B. (Capt.)</Text>
+      <Key>O'Malley</Key>
+      <Title>temp. Capt. (R.A.M.C.)</Title>
+      <Forenames>David Vincent</Forenames>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>7950</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -445,7 +464,11 @@
     <MainItem>
       <Key>Phirozsbah</Key>
       <Forenames>Bvramji Bharucha</Forenames>
-      <Text>, Capt., D.S.O., O.B.E., F.R.C.S. (Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>O.B.E.</Honour>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>7050</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -518,7 +541,9 @@
       <Key>Rost</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>E. R.</Forenames>
-      <Text>, O.B.E. (retirement on account of illhealth)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>7209</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -527,7 +552,9 @@
       <Key>Rowntree</Key>
       <Title>Capt.</Title>
       <Forenames>H. K.</Forenames>
-      <Text>, M.C. (temp Maj. while Add. Asst. Dir., Ind. Med Service)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7950</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -568,7 +595,9 @@
       <Key>Scott</Key>
       <Title>Capt. (Bt. Maj.)</Title>
       <Forenames>J.</Forenames>
-      <Text>, D.S.O., M.B. (Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7378</PageNumber>
     </MainItem>
     <SubItem>
@@ -589,7 +618,9 @@
       <Key>Shaw</Key>
       <Title>Maj.</Title>
       <Forenames>W. S. J.</Forenames>
-      <Text>, M.D. (Lt.-Col.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>7050</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -644,7 +675,9 @@
       <Key>Stott</Key>
       <Title>Capt.</Title>
       <Forenames>H.</Forenames>
-      <Text>, O.B.E., M.B. (Maj., promotion antedated)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>7378</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -668,7 +701,9 @@
     <MainItem>
       <Key>Sundar</Key>
       <Forenames>Das Sondhi</Forenames>
-      <Text>, temp. Lt., M.C., M.B. (temp. Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8723</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -754,7 +789,9 @@
       <Key>Wright</Key>
       <Title>Capt.</Title>
       <Forenames>R. E.</Forenames>
-      <Text>, M.D. (promotion to Maj. antedated)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>7794</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -834,7 +871,9 @@
     <MainItem>
       <Key>Hallett</Key>
       <Title>Lt.</Title>
-      <Text>-Cdr. C. G., D.S.C. (resigns commn.)</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>7051</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -850,7 +889,9 @@
     <MainItem>
       <Key>Kinch</Key>
       <Title>Lt.</Title>
-      <Text>-Cdr. A. D., D.S.O. (temp. Cd-.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8304</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -47,7 +47,10 @@
       <Key>MacLean</Key>
       <Title>temp. Capt.</Title>
       <Forenames>C. A.</Forenames>
-      <Text>, M.B.E.,. M.C. (rel. commn. on completion of service and re tains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1968</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -235,7 +238,9 @@
       <Key>McLeod</Key>
       <Title>Capt. (now Maj.)</Title>
       <Forenames>D. K.</Forenames>
-      <Text>, D.S.O. (temp. Maj. whilst G.S.O., 2nd Gr., in India, 25th Feb., 1918)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>839</PageNumber>
     </MainItem>
     <SubItem>
@@ -268,7 +273,9 @@
       <Key>McLeod</Key>
       <Title>temp. Lt.</Title>
       <Forenames>L. F.</Forenames>
-      <Text>, O.B.E. (rel. commn. on completion of service and granted rank of Maj.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>928</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -284,7 +291,9 @@
   <ItemGroup>
     <MainItem>
       <Key>McLeod</Key>
-      <Text>tump. Lt. R. M., M.C. (rel. commn. on completion of service and granted rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1892</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -359,7 +368,9 @@
       <Key>McMicking</Key>
       <Title>Bt. Col.</Title>
       <Forenames>H.</Forenames>
-      <Text>, D.S.O. (Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1043</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -381,7 +392,7 @@
       <PageNumber>936</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Rel. commn. and retains rank of Lt.</Text>
+      <Text>Rel. commn. and retains rank of Lt</Text>
       <PageNumber>1344</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -429,14 +440,18 @@
   <ItemGroup>
     <MainItem>
       <Key>McMbnagle</Key>
-      <Text>. 2nd Lt. P. H. (Lt,) .:</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>P. H.</Forenames>
+      <Text>(Lt,) .:</Text>
       <PageNumber>669</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>McMullan</Key>
-      <Text>. Lt. H. (h.p. list, retires receiving a gratuity)</Text>
+      <Title>Lt.</Title>
+      <Forenames>H.</Forenames>
+      <Text>(h.p. list, retires receiving a gratuity)</Text>
       <PageNumber>353</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -444,14 +459,21 @@
     <MainItem>
       <Key>Macmullen</Key>
       <Title>Col.</Title>
-      <Text>(temp. Brig.-Gen.| C. N., C.M.G., C.I.E.. D.S.O. (date of promn. to Col.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1524</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>McMullen</Key>
-      <Text>. temp. Lt. W. A., M.B.E. (rel.. commn. on completion of service and retains rank of Lt.)</Text>
+      <Title>temp. Lt.</Title>
+      <Forenames>W. A.</Forenames>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>141</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -460,7 +482,10 @@
       <Key>McMunn</Key>
       <Title>Col.</Title>
       <Forenames>James R.</Forenames>
-      <Text>, C.B.. C.M.G. (vacates temp. appt. of Asst. Dir.-Gen., Army Med. Service)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>536</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -478,7 +503,9 @@
       <Key>Macnab</Key>
       <Title>temp.</Title>
       <Forenames>Lt</Forenames>
-      <Text>, J. ,T., M.C. (rel. commn. on completion of service and retains rank of Lt.K</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1532</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -503,7 +530,11 @@
     <MainItem>
       <Key>McNalty</Key>
       <Title>Maj.</Title>
-      <Text>and Bt, Lt.-Col. (Hon. Brig.-Gen.) A. G. P., C.M.G., C.B.E. (Lt.-Col., Gen. Res. of Offrs.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>538</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -548,7 +579,9 @@
       <Key>McNeal</Key>
       <Title>temp. Lt.</Title>
       <Forenames>H. S. D.</Forenames>
-      <Text>, M.C. (rel. temp, rank of Capt. on ceasing to be Asst. Political Offr.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2187</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -564,7 +597,9 @@
   <ItemGroup>
     <MainItem>
       <Key>MacNeece</Key>
-      <Text>. Gent. Cadet J. F. D. (2nd Lt.)</Text>
+      <Title>Gent. Cadet</Title>
+      <Forenames>J. F. D.</Forenames>
+      <Text>(2nd Lt.)</Text>
       <PageNumber>345</PageNumber>
     </MainItem>
   </ItemGroup>

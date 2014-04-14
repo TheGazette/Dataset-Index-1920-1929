@@ -5,7 +5,10 @@
       <Key>Newbigging</Key>
       <Title>Bt. Col.</Title>
       <Forenames>W. P. E.</Forenames>
-      <Text>, C. B., C.M.G., D.S.O. ((Jhief Signal Offr., rel temp, rank of Brig.-Gen., and to be temp. Col.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5924</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -34,7 +37,10 @@
       <Key>Niblett</Key>
       <Title>temp. Maj.</Title>
       <Forenames>H.</Forenames>
-      <Text>, C.B.E., D. S.O. (rel. temp. appt. ae Dept. Asst. Dir. of Trans., War Office, and .temp, rank of Lt.-Col.) . '</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>D. S.O.</Honour>
+      </Text>
       <PageNumber>5914</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -45,7 +51,10 @@
       </Key>
       <Title>Bt. Lt.-Col.</Title>
       <Forenames>W. N.</Forenames>
-      <Text>, C.M.G., ^ D.S.O. D.A.A., and Q.M.G.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5206</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -63,7 +72,9 @@
       <Key>Nisbet</Key>
       <Title>Bt. Lt.-Col.</Title>
       <Forenames>T.</Forenames>
-      <Text>, C.M.G D.S.O. (A.Q.M.G., rel. temp, rank of Col., and to be temp. Lt.-Col.) ... ;</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4433</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -101,7 +112,9 @@
       <Key>Norris</Key>
       <Title>Maj.</Title>
       <Forenames>S. E.</Forenames>
-      <Text>, D.S.O. (Brig.Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5082</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -121,7 +134,9 @@
       </Key>
       <Title>Col.</Title>
       <Forenames>C. E. G.</Forenames>
-      <Text>, C.S.I., A.D.C. (iAsst. Dir. of iRemts. at War Office)</Text>
+      <Text>
+        <Honour>A.D.C.</Honour>
+      </Text>
       <PageNumber>4216</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -147,7 +162,9 @@
       <Key>Nye</Key>
       <Title>Lt. (temp. Capt.)</Title>
       <Forenames>G. T.</Forenames>
-      <Text>, M.C. ((Vast. Emb. Staff Offr., Cl. FF\, and retains temp. rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4216</PageNumber>
     </MainItem>
     <SubItem>
@@ -157,8 +174,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, temp. Hon. Lt. V. R. (rel. temp. appt. as Asst. Inspr. of Q.-M.G.'s Servs., Cl. FF., and temp, rank of Capt.)</Text>
+      <Key>O'Connor</Key>
+      <Title>temp. Hon. Lt.</Title>
+      <Forenames>V. R.</Forenames>
+      <Text>(rel. temp. appt. as Asst. Inspr. of Q.-M.G.'s Servs., Cl. FF., and temp, rank of Capt.)</Text>
       <PageNumber>5816</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -167,7 +186,9 @@
       <Key>Odell</Key>
       <Title>Lt. (temp.' Capt.)</Title>
       <Forenames>E. S.</Forenames>
-      <Text>, M.B.E. (D.A.Q.M.G., and temp. Maj.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>4412</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -182,15 +203,19 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Grady, Maj. G. &lt;rel. appt. as Staff Capt., attd. to Hd.-Qr. Unit)</Text>
+      <Key>O'Grady</Key>
+      <Title>Maj.</Title>
+      <Forenames>G.</Forenames>
+      <Text>&lt;rel. appt. as Staff Capt., attd. to Hd.-Qr. Unit)</Text>
       <PageNumber>5339</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hara, temp. Lt. (actg. Capt.) T. (Empld. under Directe. of Engineering Stores, Cl. FF, and temp. Capt.) Sub. Not</Text>
+      <Key>O'Hara</Key>
+      <Title>temp. Lt. (actg. Capt.)</Title>
+      <Forenames>T.</Forenames>
+      <Text>(Empld. under Directe. of Engineering Stores, Cl. FF, and temp. Capt.) Sub. Not</Text>
       <PageNumber>5570</PageNumber>
     </MainItem>
     <SubItem>
@@ -203,7 +228,13 @@
       <Key>Oldfield</Key>
       <Title>Bt. Maj.</Title>
       <Forenames>R. W</Forenames>
-      <Text>\, D.S.O., M.C. (rel. appt. as D.A.A., and Q.-M.G., and temp rank of Maj.) Oldnian, Bt. Col. R. D. F., C.M.G., D.S.O. (rei appt. as Bng.Comdr., attd. to Hd.-Qr. Unit, and temp, rank of Brig.-Gen.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>Bt</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4671</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -212,7 +243,9 @@
       <Key>Olive</Key>
       <Title>Bt. Maj.</Title>
       <Forenames>T. B.</Forenames>
-      <Text>, M.C. (rel. appt. as Base Comdt., Cl. X., and temp, rank of Lt.-Col.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4969</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -234,7 +267,11 @@
       <Key>Onslow</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>G. G.</Forenames>
-      <Text>, C.M.G., C.B.E., D.S.O. (h.p. list, temp. Brig.-Comdr., and temp. Brig.Gen.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>C.B.E.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5206</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -243,7 +280,9 @@
       <Key>Oppenheim</Key>
       <Title>Maj (Bt. Lt.-Col., ret. pay)</Title>
       <Forenames>L. C. F.</Forenames>
-      <Text>, C.M.G. (temp. Asst. Mil. Attache, G.S.O., and rel. temp, rank of Lt.-Col.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>6164</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -258,8 +297,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Reilly, Lt. (actg. Capt.) C. (Empld. on Disposal of Surplus Stores, Cl. BB, and temp. Maj.)</Text>
+      <Key>O'Reilly</Key>
+      <Title>Lt. (actg. Capt.)</Title>
+      <Forenames>C.</Forenames>
+      <Text>(Empld. on Disposal of Surplus Stores, Cl. BB, and temp. Maj.)</Text>
       <PageNumber>5451</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -268,7 +309,9 @@
       <Key>Orloff</Key>
       <Title>temp. 2nd Lt.</Title>
       <Forenames>E.</Forenames>
-      <Text>, M.B.E. (rel. appt. as Rly. Traffic Offr., Cl. FF, and temp rank of Capt.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>6549</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -299,7 +342,9 @@
       <Key>Oswald</Key>
       <Title>temp. Maj.</Title>
       <Forenames>C</Forenames>
-      <Text>P., O.B.E. (rel. temp, rank of Lt.-Col.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>5450</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -308,7 +353,9 @@
       <Key>Oulton</Key>
       <Title>Capt.</Title>
       <Forenames>W. P.</Forenames>
-      <Text>, M.C. (Empld. under Directe of Requisitions and Hirings, Cl. FF, and rel. actg.' rank of Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5216</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -317,7 +364,9 @@
       <Key>Owen</Key>
       <Title>temp. Maj.</Title>
       <Forenames>W. H.</Forenames>
-      <Text>, O.B.E. (rel. temp. appt. as Asst. Dir. of Inland Waterways and Docks, Cl. X, and temp, rank of Lt.-Col.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>6442</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -353,7 +402,9 @@
       <Key>Pakenham-Walsh</Key>
       <Title>Bt. Maj.</Title>
       <Forenames>R. P.</Forenames>
-      <Text>, .M.C. (rel. appt. as. G.S.O., 1st Gr. General Staff, and temp rank of Lt.-Col.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4945</PageNumber>
     </MainItem>
     <SubItem>
@@ -366,7 +417,9 @@
       <Key>Palmer</Key>
       <Title>Capt.</Title>
       <Forenames>A. E. G.</Forenames>
-      <Text>, D.S.O., M,C (G.S.O., 3rd Gr. General Staff)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4443</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -397,7 +450,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>G. H.</Forenames>
-      <Text>, M.C. (Dept. Asst. Prov.-Marshal attd. to Hd. Qr. Unit, and temp Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6414</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -419,7 +474,9 @@
       </Key>
       <Title>Lt.Col. (Hon. Col., R.G.A.)</Title>
       <Forenames>H. W. M.</Forenames>
-      <Text>, C.M.G. (rel. apptl as lOomdt.,Cl. X., attd. to Hd.-Qr. Unit, and temp, rank of Col.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>6190</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -460,7 +517,9 @@
       <Key>Paske</Key>
       <Title>Maj. and Hon. Lt.-Col.</Title>
       <Forenames>U. F.</Forenames>
-      <Text>, D. S.O. (Asst. Prov.-Marshal, Cl. BB, attd. to Hd.-Qr. Unit)</Text>
+      <Text>
+        <Honour>D. S.O.</Honour>
+      </Text>
       <PageNumber>4684</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -469,7 +528,9 @@
       <Key>Paterson</Key>
       <Title>temp. Capt.</Title>
       <Forenames>A.</Forenames>
-      <Text>McC, . M.C. (rel. appt.. as Dep. Asst. Dir. of Engineering Stores, 01. BB, and aotg. rank of Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6710</PageNumber>
     </MainItem>
     <SubItem>
@@ -509,7 +570,10 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Chief Inspr</Forenames>
-      <Text>. of iOrd. Mach. and Lt.-Col. D., C.M.G., C.B.E. (temp. Asst. Dir. at War Office)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>6662</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -536,7 +600,9 @@
       <Key>Pearce-Sereoold</Key>
       <Title>Col.</Title>
       <Forenames>E.</Forenames>
-      <Text>, C.M.G. (rel. appt. as Brig. Comdr. attd. to Hd.-Qr. Unit and temp, rank of Brig.-Gen.) -</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>4671</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -572,7 +638,10 @@
       <Key>Pellatt</Key>
       <Title>Lt.</Title>
       <Forenames>H. F. M.</Forenames>
-      <Text>, M.B.E., M.C. (rel. temp. appt. as Staff Capt. at War Office and temp. rank of Capt.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4970</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -606,7 +675,10 @@
       <Key>Pennington</Key>
       <Title>temp. Maj.</Title>
       <Forenames>H. S. W.</Forenames>
-      <Text>, C.M.G., D.S.O. (rel, appt. as Asst. Dir. of Trans., Cl. X, and temp, rank of Lt.-Col.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6303</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -653,7 +725,11 @@
       <Key>Philips</Key>
       <Title>Lt.-Col. (now Col.)</Title>
       <Forenames>L. F.</Forenames>
-      <Text>, C.M.G., C.B.E., D.S.O. (rel. , appt. as Base Comdt., Cl. S., and temp, rank of Brig.-Gen.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>C.B.E.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5339</PageNumber>
     </MainItem>
   </ItemGroup>

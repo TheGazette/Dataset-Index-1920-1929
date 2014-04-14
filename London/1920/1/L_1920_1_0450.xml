@@ -222,7 +222,9 @@
       <Key>Bennion</Key>
       <Title>temp. Capt.</Title>
       <Forenames>J. M.</Forenames>
-      <Text>, M.D. (rel. commn., and to be Hon. Capt,)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3300</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -251,7 +253,9 @@
       <Key>Bent</Key>
       <Title>temp. Capt.</Title>
       <Forenames>J. F. G.</Forenames>
-      <Text>, M.D. (re!, commn., and to be Hon. Capt.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>1543</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -507,7 +511,9 @@
     <MainItem>
       <Key>Bewioke-Copley</Key>
       <Title>temp. Col.</Title>
-      <Text>and County iComdt. (Col. Hon. Brig.Gen., ret. pay) Sir R. C. A. B., K.B.iE., C.B. (Tel. commn. and granted hon. rank of Col.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>3996</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -543,7 +549,9 @@
       <Key>Bickersteth</Key>
       <Title>temp. Maj.</Title>
       <Forenames>J. J.</Forenames>
-      <Text>, M.B.E. (reJ. commn., and to be Hon. Maj.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3299</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -650,7 +658,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Binks</Key>
-      <Text>.temp. Lt. T. A. (rel. commn., and to be Hon. Lt.)</Text>
+      <Title>temp. Lt.</Title>
+      <Forenames>T. A.</Forenames>
+      <Text>(rel. commn., and to be Hon. Lt.)</Text>
       <PageNumber>1089</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -897,7 +907,10 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Title>temp. Col.</Title>
-      <Text>and County Comdt. (Lt.-Col., Tet., T.F.) W. C., C.B.E., T.D. (rel. commn. and granted hon. Tank of Col.) ??</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>64</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -915,7 +928,9 @@
       <Key>Biackmore</Key>
       <Title>temp. Maj.</Title>
       <Forenames>C. Jv</Forenames>
-      <Text>. L., M.B.E. (rel. commn., and to foe Hon. Maj.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3417</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -221,7 +221,9 @@
       <Key>Northwood</Key>
       <Title>2nd Lt.</Title>
       <Forenames>W.</Forenames>
-      <Text>, D.C.M. (Lt.) _</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>8353</PageNumber>
     </MainItem>
     <SubItem>
@@ -232,7 +234,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Morton</Key>
-      <Text>. Lt. A. L. (rel. commn. and retains rank of Lt.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>A. L.</Forenames>
+      <Text>(rel. commn. and retains rank of Lt.)</Text>
       <PageNumber>10118</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -325,7 +329,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Totley</Key>
-      <Text>..Maj. A., T.D. (rel. commn. and retains rank of Maj., with permission to wear prescribed uniform)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>10106</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -357,7 +363,9 @@
       <Key>Notman</Key>
       <Title>Lt.</Title>
       <Forenames>J. P.</Forenames>
-      <Text>, D.S.O. (rel. commn. and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>10465</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -515,7 +523,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>R. B.</Forenames>
-      <Text>, M.C. (rel. conimn. and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10697</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -576,7 +586,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>H.</Forenames>
-      <Text>, M.C. (rel. commn. and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10019</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -803,14 +815,18 @@
       <Key>Obegi</Key>
       <Title>Lt.</Title>
       <Forenames>B. E.</Forenames>
-      <Text>, M.C. (rel comnin. and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10204</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, Lt. E (rel. coinimn. and</Text>
+      <Key>O'Brien</Key>
+      <Title>Lt.</Title>
+      <Forenames>E</Forenames>
+      <Text>(rel. coinimn. and</Text>
       <PageNumber>9752</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -860,15 +876,21 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Bryen, Lt. W. J., M.C. (rel. cominn. and retains rank of Lt.) ;</Text>
+      <Key>O'Bryen</Key>
+      <Title>Lt.</Title>
+      <Forenames>W. J.</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9132</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Callaghan, Lt. K. D. G. G. (rel. cominn. and granted rank of Maj.) : 1011S O'Carroll, Lt. G. C. W. (rel. commn. and retains rank of Lt.)</Text>
+      <Key>O'Callaghan</Key>
+      <Title>Lt.</Title>
+      <Forenames>K. D. G. G.</Forenames>
+      <Text>(rel. cominn. and granted rank of Maj.) : 1011S O'Carroll, Lt. G. C. W. (rel. commn. and retains rank of Lt.)</Text>
       <PageNumber>10119</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -914,8 +936,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, Lt. D. R. J. (rel. comimn. and retains rank of Lt.)</Text>
+      <Key>O'Connor</Key>
+      <Title>Lt.</Title>
+      <Forenames>D. R. J.</Forenames>
+      <Text>(rel. comimn. and retains rank of Lt.)</Text>
       <PageNumber>8812</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -990,8 +1014,12 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donnell, Capt. B. B. J. A., M.C. (rel. commn. and retains rank, of Capt.)</Text>
+      <Key>O'Donnell</Key>
+      <Title>Capt.</Title>
+      <Forenames>B. B. J. A.</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9751</PageNumber>
     </MainItem>
     <SubItem>
@@ -1001,15 +1029,19 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donoghue, Lt. J. K. (rel. commn. and retains rank of Lt.)</Text>
+      <Key>O'Donoghue</Key>
+      <Title>Lt.</Title>
+      <Forenames>J. K.</Forenames>
+      <Text>(rel. commn. and retains rank of Lt.)</Text>
       <PageNumber>9775</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Dowd, Lt. B. P. (rel. commn. and retains rank of Lt.)</Text>
+      <Key>O'Dowd</Key>
+      <Title>Lt.</Title>
+      <Forenames>B. P.</Forenames>
+      <Text>(rel. commn. and retains rank of Lt.)</Text>
       <PageNumber>9143</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1029,14 +1061,17 @@
       <Key>Oerton</Key>
       <Title>Maj.</Title>
       <Forenames>G. B.</Forenames>
-      <Text>, T.D. (Lt.Col.) -</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>10003</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Ferrall, Capt; C. L. (rel. corninn. and retains rank of Capt,)</Text>
+      <Key>O'Ferrall</Key>
+      <Forenames>Capt</Forenames>
+      <Text>; C. L. (rel. corninn. and retains rank of Capt,)</Text>
       <PageNumber>10340</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1087,7 +1122,9 @@
       <Key>
         <KeyDitto>___ -</KeyDitto>
       </Key>
-      <Text>r— ___ Lt. W. E,, M.C. (rel. coinmn. and granted rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10458</PageNumber>
     </MainItem>
   </ItemGroup>

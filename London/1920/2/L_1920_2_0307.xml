@@ -49,7 +49,9 @@
         <KeyDitto>-</KeyDitto>
       </Key>
       <Forenames>Atkinson</Forenames>
-      <Text>, C. F. H., O.B.E. (Surg. Lt.-Cdr.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>5249</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -81,7 +83,9 @@
     <MainItem>
       <Key>Brailey</Key>
       <Forenames>A. R.</Forenames>
-      <Text>, M.B., F.R.C.S., M.C, (Surg.Cdr.)</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>5249</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -113,7 +117,11 @@
     <MainItem>
       <Key>JElveden</Key>
       <Title>Capt. Visct.</Title>
-      <Text>, C.B., C.M.G., M.P. (placed on retd. list at own request)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>6341</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -130,7 +138,10 @@
       <Key>
         <KeyDitto>-</KeyDitto>
       </Key>
-      <Text>ttHanson, R. J. E., O.B.E., M.B., F.R.C.S. (Surg.-Cdr.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>5249</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -153,7 +164,7 @@
       <PageNumber>5249</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Placed on retd. list. :</Text>
+      <Text>Placed on retd. list. :.</Text>
       <PageNumber>6879</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -170,7 +181,9 @@
     <MainItem>
       <Key>Steegmann</Key>
       <Forenames>E. J.</Forenames>
-      <Text>, O.B.E., M.B. (Surg.Cdr.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>5249</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -203,7 +216,9 @@
     <MainItem>
       <Key>Turton</Key>
       <Forenames>J. R. H.</Forenames>
-      <Text>, M.B., F.R.C.S. (Surg. Lt.-Cdr.)</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>5249</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -252,7 +267,10 @@
     <MainItem>
       <Key>Wilkie</Key>
       <Forenames>D. P. D.</Forenames>
-      <Text>, O.B.E., F.R.C.S. ' (Surg. Lt.-Cdr.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>5249</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -260,7 +278,11 @@
     <MainItem>
       <Key>Willan</Key>
       <Forenames>R. J.</Forenames>
-      <Text>, O.B.E., M.V.O., V.D., M.B.,F.R.C.S.,M.S. (Surg. Cdr.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.V.O.</Honour>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>5249</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -268,7 +290,10 @@
     <MainItem>
       <Key>Wills</Key>
       <Forenames>W. K.</Forenames>
-      <Text>, O.B.E., M.C. (Surg.Cdr.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5249</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -285,7 +310,10 @@
     <MainItem>
       <Key>Graham</Key>
       <Title>Capt.</Title>
-      <Text>the Marquess of, C.B., C.V.O., A.D.C .. ..'</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.V.O.</Honour>
+      </Text>
       <PageNumber>4035</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -311,7 +339,9 @@
     <MainItem>
       <Key>Wills</Key>
       <Title>Surg. Lt.</Title>
-      <Text>-Cdr. W. K., M.B., O.B.E</Text>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>4474</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -339,7 +369,9 @@
       <Key>Alcock</Key>
       <Title>Capt.</Title>
       <Forenames>A. B. F.</Forenames>
-      <Text>, D.S.C. (trd. . to R.M.L.I.)</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>6084</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -401,7 +433,9 @@
       <Key>Bath</Key>
       <Title>Capt.</Title>
       <Forenames>J. A.</Forenames>
-      <Text>, D.S.C. (trd. to R.M.L.I.)</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>6084</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -499,8 +533,8 @@
     <MainItem>
       <Key>Brockman</Key>
       <Title>Lt.</Title>
-      <Forenames>E. St</Forenames>
-      <Text>. J. (trd. to R.M.L.I.)</Text>
+      <Forenames>E. St. J</Forenames>
+      <Text>. (trd. to R.M.L.I.)</Text>
       <PageNumber>6085</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -509,11 +543,15 @@
       <Key>Brooks</Key>
       <Title>Capt.</Title>
       <Forenames>R. A. D.</Forenames>
-      <Text>, D.S.O. (trd. to R.M.A.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6084</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Bt. Maj</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6084</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -522,7 +560,9 @@
       <Key>Brown</Key>
       <Title>Capt.</Title>
       <Forenames>C. T.</Forenames>
-      <Text>, O.B.E. (trd. to Mi.);</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>6084</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -533,7 +573,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>V. C</Forenames>
-      <Text>, D.S.C. (trd. to R.M.A.)</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>6084</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -610,7 +652,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>R. H.</Forenames>
-      <Text>, M.C. (trd. to R.M:L.I.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6084</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -655,11 +699,15 @@
       <Key>Chater</Key>
       <Title>Capt.</Title>
       <Forenames>A. R.</Forenames>
-      <Text>, D.S.O. (trd. to R.M.L.I.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6084</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Bt. Maj</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6084</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -734,7 +782,9 @@
       <Key>Collet</Key>
       <Title>Lt.</Title>
       <Forenames>M. H.</Forenames>
-      <Text>, M.C. (trd. to R.M.A.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6084</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -770,7 +820,9 @@
       <Key>Cooke</Key>
       <Title>Bt. Maj.</Title>
       <Forenames>T. F. V.</Forenames>
-      <Text>, D.S.O. (borne Supy. to Estabt. on returnfrom h.p. list)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6341</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -806,7 +858,9 @@
       <Key>Craig</Key>
       <Title>Capt.</Title>
       <Forenames>A. M.</Forenames>
-      <Text>, O.B.E. (trd. to R.M.L.I.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>6084</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -825,6 +879,15 @@
       <Title>Lt.</Title>
       <Forenames>H. M. A.</Forenames>
       <Text>, A.M. (trd. to R.M.L.I.)</Text>
+      <PageNumber>6085</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Berry</Key>
+      <Title>Lt.</Title>
+      <Forenames>H. A. P.</Forenames>
+      <Text>(trd. to R.M.L.I.)</Text>
       <PageNumber>6085</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -897,7 +960,10 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>J. F.</Forenames>
-      <Text>, M.C., D.C.M. (trd. toR.M.L.I.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>6084</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -960,7 +1026,9 @@
       <Key>Franklyn</Key>
       <Title>Lt.</Title>
       <Forenames>J.</Forenames>
-      <Text>, M.C. (trd. to R.MA.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6084</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1020,7 +1088,10 @@
       <Key>Gowney</Key>
       <Title>Maj.</Title>
       <Forenames>D. J.</Forenames>
-      <Text>, D.S.C., D.C.M</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+        <Honour>D.C.M</Honour>
+      </Text>
       <PageNumber>6034</PageNumber>
     </MainItem>
   </ItemGroup>

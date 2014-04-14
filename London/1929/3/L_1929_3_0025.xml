@@ -448,8 +448,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Baxter</Key>
-      <Forenames>D. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>D. St. J</Forenames>
       <PageNumber>5064</PageNumber>
       <PageNumber>5065</PageNumber>
     </MainItem>
@@ -739,7 +738,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hutchins</Key>
-      <Text>. S</Text>
+      <Forenames>S.</Forenames>
       <PageNumber>5064</PageNumber>
       <PageNumber>5065</PageNumber>
       <PageNumber>5065</PageNumber>
@@ -749,7 +748,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ireland</Key>
-      <Text>. G</Text>
+      <Forenames>G.</Forenames>
       <PageNumber>5064</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -763,7 +762,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Jackson</Key>
-      <Text>. F. G. W</Text>
+      <Forenames>F. G. W.</Forenames>
       <PageNumber>5065</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -823,7 +822,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Maca</Key>
-      <Text>.usl.ind, R, A</Text>
+      <Text>usl.ind, R, A</Text>
       <PageNumber>5064</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -928,8 +927,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Malley, D. V</Text>
+      <Key>O'Malley</Key>
+      <Forenames>D. V.</Forenames>
       <PageNumber>5065</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -943,8 +942,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan, J. ' '</Text>
+      <Key>O'Sullivan</Key>
+      <Forenames>J.</Forenames>
+      <Text>' '</Text>
       <PageNumber>5064</PageNumber>
       <PageNumber>5065</PageNumber>
     </MainItem>
@@ -952,7 +952,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Palmer</Key>
-      <Text>. E. A</Text>
+      <Forenames>E. A.</Forenames>
       <PageNumber>5218</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1107,7 +1107,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Toovev</Key>
-      <Text>. C. W</Text>
+      <Forenames>C. W</Forenames>
       <PageNumber>5218</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1152,7 +1152,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wakelin</Key>
-      <Text>. A. B</Text>
+      <Forenames>A. B</Forenames>
       <PageNumber>5065</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1359,8 +1359,7 @@
     <MainItem>
       <Key>Barlow</Key>
       <Title>Sir</Title>
-      <Forenames>G.</Forenames>
-      <Text>de S</Text>
+      <Forenames>G. de S</Forenames>
       <PageNumber>4442</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1701,6 +1700,13 @@
       <Key>Davison</Key>
       <Forenames>D. H .</Forenames>
       <PageNumber>5906</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Wilton</Key>
+      <Forenames>J. G. B.</Forenames>
+      <PageNumber>6169</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

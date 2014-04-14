@@ -106,7 +106,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>R.</Forenames>
-      <Text>, D.S.O. (rel. temp. R.A.F. commn.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>12401</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -182,7 +184,9 @@
       <Key>Jacobs</Key>
       <Title>Flight Lt.</Title>
       <Forenames>V. J. B.</Forenames>
-      <Text>(granted perm, commn.) James, Capt. R. V., D.F.C. (rel</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>12400</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -230,7 +234,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Flying</Forenames>
-      <Text>and Obsvr. Offr. R. C, M.C. (Flight Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>12758</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -245,7 +251,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Jones</Key>
-      <Text>Cadet A. (Hon. 2nd Lt,)</Text>
+      <Title>Cadet</Title>
+      <Forenames>A.</Forenames>
+      <Text>(Hon. 2nd Lt,)</Text>
       <PageNumber>12301</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -383,11 +391,13 @@
       <Key>Jukes</Key>
       <Title>2nd Lt.</Title>
       <Forenames>A.</Forenames>
-      <Text>, M.B.E. (Lt,)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>10755</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Granted perm, commn</Text>
+      <Text>Granted perm, commn.</Text>
       <PageNumber>11119</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -429,7 +439,9 @@
       <Key>Kelly</Key>
       <Title>Flight Lt.</Title>
       <Forenames>T. J.</Forenames>
-      <Text>, M.C., M.B., B.A. (Sqdn. Leader)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>12758</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -458,7 +470,9 @@
       <Key>Kennedy</Key>
       <Title>Maj.</Title>
       <Forenames>D. H.</Forenames>
-      <Text>, O.B.E. (trd. to unempld. list), Sub Not</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>11347</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -476,7 +490,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Kent</Key>
-      <Text>Capt. D. S. R. (trd. to unempld. list)</Text>
+      <Title>Capt.</Title>
+      <Forenames>D. S. R.</Forenames>
+      <Text>(trd. to unempld. list)</Text>
       <PageNumber>10456</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -520,7 +536,10 @@
     <MainItem>
       <Key>King</Key>
       <Forenames>Flying Offr</Forenames>
-      <Text>. C. L., M.C., D.F.C. (placed on h.p. list, scale B)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>10456</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -530,7 +549,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Flying Offr</Forenames>
-      <Text>. W. J., D.C.M. (Flight Lt.)</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>12758</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -555,49 +576,68 @@
     <MainItem>
       <Key>Kinkead</Key>
       <Forenames>Flying Offr</Forenames>
-      <Text>. S. M.. D.S.O., D.S.C., D.F.C. (placed on h.p. list, Scale B)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>D.S.C.</Honour>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>12436</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Kirbv</Key>
-      <Text>Wing Comdr. F. H., V.C.. O.B.E., D.C.M. (granted</Text>
+      <Forenames>Wing Comdr</Forenames>
+      <Text>
+        <Honour>V.C.</Honour>
+        <Honour>O.B.E.</Honour>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>11119</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Kirkoatrick</Key>
-      <Text>Cadet J. W. (Hon</Text>
+      <Title>Cadet</Title>
+      <Forenames>J. W.</Forenames>
+      <Text>(Hon</Text>
       <PageNumber>12487</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Kitson</Key>
-      <Text>Lt. (Hon. Capt.) R. G. (rel. temp. E..A.F. commn. on appt. to T.F.R., and retains</Text>
+      <Title>Lt. (Hon. Capt.)</Title>
+      <Forenames>R. G.</Forenames>
+      <Text>(rel. temp. E..A.F. commn. on appt. to T.F.R., and retains</Text>
       <PageNumber>12401</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>KlapDer</Key>
-      <Text>Pilot Offr. I. F. A. (Flying Offr., without pay and</Text>
+      <Forenames>Pilot Offr</Forenames>
+      <Text>. I. F. A. (Flying Offr., without pay and</Text>
       <PageNumber>10107</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Klynes</Key>
-      <Text>Flying Offr. A. H</Text>
+      <Forenames>Flying Offr</Forenames>
+      <Text>. A. H</Text>
       <PageNumber>11119</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Knatrbbnll</Key>
-      <Text>Obsvr. Offr. the Hon. M. H. R., M.C. (placed on Retd. List on acc. of ill-health contracted on active service, and granted rank of Flight Lt.) Sub: Not -</Text>
+      <Title>Obsvr. Offr. the Hon.</Title>
+      <Forenames>M. H. R.</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9815</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -613,21 +653,30 @@
   <ItemGroup>
     <MainItem>
       <Key>Knollvs</Key>
-      <Text>Capt. Hon. E. G. W. T.. M.B.E. (rel. temp. R.A.F. commn. on appt. to T.F.R., and retains rank)</Text>
+      <Title>Capt. Hon.</Title>
+      <Forenames>E. G. W. T.</Forenames>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>12758</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Knhler</Key>
-      <Text>Pilot Offr. on prob. E. F. (granted short serv. commn.)</Text>
+      <Forenames>Pilot Offr</Forenames>
+      <Text>. on prob. E. F. (granted short serv. commn.)</Text>
       <PageNumber>11119</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Laintr</Key>
-      <Text>Flying and Obsvr. Offr. f McM., M.C., A.F.C. (Flight Lt.)</Text>
+      <Forenames>Flying</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>12753</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -644,7 +693,10 @@
     <MainItem>
       <Key>Lale</Key>
       <Forenames>Flying</Forenames>
-      <Text>and Obsvr. Offr. H. P., D.S.O., D.F.C. (Flight Lt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>12758</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -679,7 +731,9 @@
         <KeyDitto>___</KeyDitto>
       </Key>
       <Forenames>Flying Offr</Forenames>
-      <Text>. M. J., D.F.C. granted short serv. commn.)</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>11119</PageNumber>
     </MainItem>
     <SubItem>
@@ -887,21 +941,28 @@
       <Key>Litton</Key>
       <Title>Lt.</Title>
       <Forenames>A. J.</Forenames>
-      <Text>, D.S.M. (rel. temp. R.A.F. commn. on ceasing to be empld., and retains rank)</Text>
+      <Text>
+        <Honour>D.S.M.</Honour>
+      </Text>
       <PageNumber>11003</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Lloyd</Key>
-      <Text>Cadet J. (Hon. 2nd Lt.)</Text>
+      <Title>Cadet</Title>
+      <Forenames>J.</Forenames>
+      <Text>(Hon. 2nd Lt.)</Text>
       <PageNumber>12055</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Long</Key>
-      <Text>Flying and Obsvr. Offr. H. O., D.S.O. (Flight Lt.)</Text>
+      <Forenames>Flying</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>12758</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -929,7 +990,9 @@
     <MainItem>
       <Key>Luke</Key>
       <Forenames>Flying</Forenames>
-      <Text>and Obsvr. Offr. T. O, M.C. (Flight Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>12758</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -946,7 +1009,9 @@
     <MainItem>
       <Key>Lydford</Key>
       <Forenames>Flying Offr</Forenames>
-      <Text>. H. T., A.F.C. (granted perm, commn.)</Text>
+      <Text>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>12400</PageNumber>
     </MainItem>
     <SubItem>

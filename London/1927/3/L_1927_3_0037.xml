@@ -21,25 +21,31 @@
     <MainItem>
       <Key>Thompson</Key>
       <Forenames>B. G. Barnes</Forenames>
-      <Text>, K.C.B., D.S.O</Text>
-      <PageNumber>5396</PageNumber>
+      <Text>
+        <Honour>K.C.B.</Honour>
+      </Text>
     </MainItem>
   </ItemGroup>
-  <KeyDitto>___ ___ ___</KeyDitto>
-  <KeyDitto>___ ___ ___</KeyDitto>
-  <ItemGroup>
-    <MainItem>
-      <Key>Thomson</Key>
-      <Forenames>P. G. G.C.I.E.</Forenames>
-      <PageNumber>4328</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <KeyDitto>___ ___ ___</KeyDitto>
+  <Honour>
+    <PageNumber>5396</PageNumber>
+    <KeyDitto>___ ___ ___</KeyDitto>
+    <KeyDitto>___ ___ ___</KeyDitto>
+    <ItemGroup>
+      <MainItem>
+        <Key>Thomson</Key>
+        <Forenames>P. G. G.C.I.E.</Forenames>
+        <PageNumber>4328</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <KeyDitto>___ ___ ___</KeyDitto>
+  </Honour>
   <ItemGroup>
     <MainItem>
       <Key>Timmins</Key>
       <Forenames>L. M.</Forenames>
-      <Text>C.M.G., O.B.E</Text>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>5335</PageNumber>
     </MainItem>
   </ItemGroup>

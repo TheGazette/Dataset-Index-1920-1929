@@ -3,7 +3,9 @@
   <ItemGroup>
     <MainItem>
       <Key>MacMillan</Key>
-      <Text>.Lt. J. (R.F.A.) (resigns eommn. and retains rank of Lt.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>J.</Forenames>
+      <Text>(R.F.A.) (resigns eommn. and retains rank of Lt.)</Text>
       <PageNumber>3521</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -34,7 +36,7 @@
       <PageNumber>1361</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Rel. commn. and retains rank of Capt</Text>
+      <Text>Rel. commn. and retains rank of Capt.</Text>
       <PageNumber>3631</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -74,7 +76,7 @@
       <PageNumber>1648</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Rel. commn. on completion of service and granted rank of Capt</Text>
+      <Text>Rel. commn. on completion of service and granted rank of Capt.</Text>
       <PageNumber>1647</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -83,7 +85,9 @@
       <Key>MacMurray</Key>
       <Title>Lt.</Title>
       <Forenames>J.</Forenames>
-      <Text>, M.C. (resigns commn. and granted rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>14</PageNumber>
     </MainItem>
     <SubItem>
@@ -96,7 +100,11 @@
       <Key>MoMurtrie</Key>
       <Title>temp. Capt.</Title>
       <Forenames>A. C. B.</Forenames>
-      <Text>, M.C., M.D., F.R.C.S. (rel. commn. and retains rank of</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>M.D.</Honour>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>2035</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -107,7 +115,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>B. F.</Forenames>
-      <Text>, O.B.E. (resigns commn. and granted rank of Capt.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>2163</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -120,7 +130,7 @@
       <PageNumber>909</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>estabt.) .. Actg. Maj. whilst 2nd in oomd. of the 51st Serv. Bn., High. L. I., A</Text>
+      <Text>estabt.) .. Actg. Maj. whilst 2nd in oomd. of the 51st Serv. Bn., High. L. I., A.</Text>
       <PageNumber>1796</PageNumber>
     </SubItem>
     <SubItem>
@@ -246,7 +256,9 @@
       <Key>Macphail</Key>
       <Title>temp. Maj.</Title>
       <Forenames>H. D.</Forenames>
-      <Text>, M.D. . (rel. commn. on ceasing to serve with the Northd. War Hosp. and retains rank of Maj.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3631</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -312,7 +324,9 @@
       </Key>
       <Title>temp. Chapln., 4th CI., Rev.</Title>
       <Forenames>D. G.</Forenames>
-      <Text>, O.B.E. (rel. commn. and to be Hon. Chapln., 4th CI.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3262</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -334,7 +348,9 @@
       </Key>
       <Title>Capt. (actg. Lt.-Col.)</Title>
       <Forenames>E. R.</Forenames>
-      <Text>, O.B.E. (2nd Actg. Ord. Offr., 2nd CI., and retains actg. rank of Lt.-Col.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>1360</PageNumber>
     </MainItem>
     <SubItem>
@@ -396,7 +412,9 @@
       <Key>Macquarrie</Key>
       <Title>temp. Lt.</Title>
       <Forenames>E.</Forenames>
-      <Text>MacG., M.C. (rel. actg. rank of Capt.), Sub. Not</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1059</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -405,7 +423,9 @@
       <Key>McQueen</Key>
       <Title>Capt. (actg. Maj.)</Title>
       <Forenames>C</Forenames>
-      <Text>, M.C. (Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1535</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -414,7 +434,9 @@
       <Key>MacQueen</Key>
       <Title>temp. Capt.</Title>
       <Forenames>L. H.</Forenames>
-      <Text>, O.B.E. (rel. commn. on completion of service and retains rank of Capt.) .. .» .„</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>1909</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -424,7 +446,9 @@
         <PageNumber>___ ___ ___ ___ ___ ___ ___ ___</PageNumber>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>McQueen, Capt. N., D.S.O. (rel. temp, rank of Maj. on ceasing to be empld. with Serv. Bn.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1524</PageNumber>
     </MainItem>
     <SubItem>
@@ -470,7 +494,9 @@
       <Key>Macrae</Key>
       <Title>Capt. and Bt. Maj.</Title>
       <Forenames>J. N.</Forenames>
-      <Text>, D.S.O. (restd. to estabt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>793</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -503,7 +529,7 @@
       <PageNumber>145</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Retires, receiving a gratuity and granted rank of Capt., Sub. Not</Text>
+      <Text>Retires, receiving a gratuity and granted rank of Capt., Sub. Not.</Text>
       <PageNumber>2308</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -516,7 +542,7 @@
       <PageNumber>2053</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Rel. commn. on completion of service and retains rank of Lt</Text>
+      <Text>Rel. commn. on completion of service and retains rank of Lt.</Text>
       <PageNumber>2052</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -630,7 +656,9 @@
       <Key>McVey</Key>
       <Title>temp. Capt.</Title>
       <Forenames>J. P.</Forenames>
-      <Text>, M.C., M.B. (rel. commn. and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1360</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -639,7 +667,9 @@
       <Key>McWatters</Key>
       <Title>Bt. Lt.-Col.</Title>
       <Forenames>H. C</Forenames>
-      <Text>, D.S.O. (temp. Lt.-Col. whilst .G.S.O., 1st Gr.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>182</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -657,7 +687,9 @@
       <Key>WacWhirter</Key>
       <Title>temp. Lt.</Title>
       <Forenames>J. J.</Forenames>
-      <Text>, M.C. . (rel. commn. on completion of service and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2893</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -703,7 +735,9 @@
       <Key>Maddox</Key>
       <Title>Lt.</Title>
       <Forenames>E. R.</Forenames>
-      <Text>, M.C. (resigns commn.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1924</PageNumber>
     </MainItem>
     <SubItem>

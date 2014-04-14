@@ -21,7 +21,9 @@
       <Key>Nicolson</Key>
       <Title>the Hon.</Title>
       <Forenames>Harold George</Forenames>
-      <Text>, Companion, St. Michael and St. George</Text>
+      <Text>
+        <Honour>Companion, St. Michael and St. George</Honour>
+      </Text>
       <PageNumber>5</PageNumber>
     </MainItem>
     <SubItem>
@@ -40,7 +42,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Nightingale</Key>
-      <Text>Bt, Col. (T./Brig.Gen.) Manners Ralph Willmot, C.M.G.. D.S.O., Companion, Order of the Indian Empire</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>2060</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -56,7 +62,9 @@
     <MainItem>
       <Key>Nixon</Key>
       <Forenames>Herbert Tomlinson</Forenames>
-      <Text>, M.D., Ch.B., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>1239</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -123,7 +131,9 @@
       </Key>
       <Title>Surg.</Title>
       <Forenames>Vice-Adml</Forenames>
-      <Text>..Sir William Henry, K.C.B., M.R.C.S., L.R.C.P., Knight of Grace, . St. John of Jerusalem</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+      </Text>
       <PageNumber>712</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -147,7 +157,9 @@
     <MainItem>
       <Key>Norrie</Key>
       <Forenames>Beatrice</Forenames>
-      <Text>, Mrs., M.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3769</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -156,7 +168,10 @@
       <Key>Norris</Key>
       <Title>Capt.</Title>
       <Forenames>David Thomas</Forenames>
-      <Text>, C.B., Companion, St. Michael and St. George</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>Companion, St. Michael and St. George</Honour>
+      </Text>
       <PageNumber>5</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -218,7 +233,10 @@
     <MainItem>
       <Key>Northcliffe</Key>
       <Forenames>Mary Elizabeth</Forenames>
-      <Text>, The Viscountess, G.B.E., Lady of Grace, St. John of Jerusalem</Text>
+      <Text>
+        <Honour>G.B.E.</Honour>
+        <Honour>Lady of Grace, St. John of Jerusalem</Honour>
+      </Text>
       <PageNumber>712</PageNumber>
     </MainItem>
     <SubItem>
@@ -306,7 +324,9 @@
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Notley</Forenames>
-      <Text>, Comdr. Franke Bartlett Stuart, R.D., R.N.R., Knight Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>3759</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -323,7 +343,9 @@
     <MainItem>
       <Key>Nourse</Key>
       <Forenames>William John Chichele</Forenames>
-      <Text>, F.R.C.S., L.R.C.P., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>1238</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -341,7 +363,9 @@
       <Key>Nunneley</Key>
       <Title>Maj.</Title>
       <Forenames>Frederick Pitcairn</Forenames>
-      <Text>, M.D., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3799</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -444,8 +468,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, Charles Henry William, Member, Order of the British Empire</Text>
+      <Key>O'Brien</Key>
+      <Forenames>Charles Henry William</Forenames>
+      <Text>, Member, Order of the British Empire</Text>
       <PageNumber>3851</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -456,7 +481,9 @@
       </Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Charles Richard Mackey</Forenames>
-      <Text>, C.M.G., Knight Commander, St. Michael &amp; St. George</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -486,49 +513,62 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Richard Alfred</Forenames>
-      <Text>, M.D., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3770</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connell, Cormac John, Member, Order of the British Empire</Text>
+      <Key>O'Connell</Key>
+      <Forenames>Cormac John</Forenames>
+      <Text>, Member, Order of the British Empire</Text>
       <PageNumber>3851</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, Henry, Member, Order of the British Empire</Text>
+      <Key>O'Connor</Key>
+      <Forenames>Henry</Forenames>
+      <Text>, Member, Order of the British Empire</Text>
       <PageNumber>3851</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Dell, Lt. (T./Capt.) Edward Seymour, Member, Order of the British Empire</Text>
+      <Key>O'Dell</Key>
+      <Title>Lt. (T./Capt.)</Title>
+      <Forenames>Edward Seymour</Forenames>
+      <Text>, Member, Order of the British Empire</Text>
       <PageNumber>1378</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donel, Capt. John, D.L , Member, Order of the British Empire</Text>
+      <Key>O'Donel</Key>
+      <Title>Capt.</Title>
+      <Forenames>John</Forenames>
+      <Text>, D.L , Member, Order of the British Empire</Text>
       <PageNumber>3851</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donoghue, Miss Mary, Member, Order of the British Empire</Text>
+      <Key>O'Donoghue</Key>
+      <Title>Miss</Title>
+      <Forenames>Mary</Forenames>
+      <Text>, Member, Order of the British Empire</Text>
       <PageNumber>3851</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donovan, William James, M.D., M.R.C.P., Officer, Order of the British Empire</Text>
+      <Key>O'Donovan</Key>
+      <Forenames>William James</Forenames>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3799</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -544,15 +584,18 @@
     <MainItem>
       <Key>Ogilvie</Key>
       <Forenames>Francis Grant</Forenames>
-      <Text>, C.B., Knighted</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>3</PageNumber>
       <PageNumber>3432</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Gorman Munkhouse, Alfred Frederick, Officer, Order of the BritishEmpire</Text>
+      <Key>O'Gorman</Key>
+      <Text>Munkhouse, Alfred Frederick, Officer, Order of the BritishEmpire</Text>
       <PageNumber>3798</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -560,7 +603,11 @@
     <MainItem>
       <Key>Ogston</Key>
       <Title>Maj.</Title>
-      <Text>&amp;, Bt. Lt.-Col. Charles, C.M.G., D.S.O.. Companion, Order of the Batli</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1378</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -576,15 +623,19 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Halloran, Miss Mary Ellen, Royal Red Cross, 2nd Cl</Text>
+      <Key>O'Halloran</Key>
+      <Title>Miss</Title>
+      <Forenames>Mary Ellen</Forenames>
+      <Text>, Royal Red Cross, 2nd Cl</Text>
       <PageNumber>1919</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hara, Maj. Charles Kean, Officer, Order of the British Empire</Text>
+      <Key>O'Hara</Key>
+      <Title>Maj.</Title>
+      <Forenames>Charles Kean</Forenames>
+      <Text>, Officer, Order of the British Empire</Text>
       <PageNumber>3799</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -614,7 +665,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>Erik Olaf</Forenames>
-      <Text>, created Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
       <PageNumber>3432</PageNumber>
     </MainItem>
@@ -642,7 +695,10 @@
     <MainItem>
       <Key>Olive</Key>
       <Forenames>Eustace John Parke</Forenames>
-      <Text>, M.D., F.R.C.S., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>3799</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -652,7 +708,9 @@
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>James William</Forenames>
-      <Text>, M.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3770</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -671,7 +729,10 @@
     <MainItem>
       <Key>Oliver</Key>
       <Forenames>Beryl Carnegy</Forenames>
-      <Text>, Lady, C.B.E., R.R.C., Dame Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>R.R.C.</Honour>
+      </Text>
       <PageNumber>3758</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -712,7 +773,9 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>John William Lambton</Forenames>
-      <Text>, O.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3770</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -722,7 +785,9 @@
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Philip Milner</Forenames>
-      <Text>, O.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3770</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -745,8 +810,11 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Mahony, Pierce de Lacy, D.L., Commander, Order of the British Empire</Text>
+      <Key>O'Mahony</Key>
+      <Forenames>Pierce de Lacy</Forenames>
+      <Text>
+        <Honour>D.L.</Honour>
+      </Text>
       <PageNumber>3770</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -754,14 +822,19 @@
     <MainItem>
       <Key>Oman</Key>
       <Forenames>Charles William Chadwick</Forenames>
-      <Text>, LL.D., M.P., Knight Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>3759</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, Arthur Eugene, C.B.E., Knight Commander, Order of the British Empire</Text>
+      <Key>O'Neill</Key>
+      <Forenames>Arthur Eugene</Forenames>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>3759</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -858,14 +931,17 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>William Wallis</Forenames>
-      <Text>, M.D., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3799</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Reilly, William Edmund, H.M. Envoy Extraordinary and Minister Plenipotentiary to the Republic of Bolivia</Text>
+      <Key>O'Reilly</Key>
+      <Forenames>William Edmund</Forenames>
+      <Text>, H.M. Envoy Extraordinary and Minister Plenipotentiary to the Republic of Bolivia</Text>
       <PageNumber>2454</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -915,15 +991,18 @@
     <MainItem>
       <Key>Ormond</Key>
       <Forenames>Herbert John</Forenames>
-      <Text>, J. P., Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>3</PageNumber>
       <PageNumber>3432</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Rorke, Gertrude Isabel, Mrs., Member, Order of the British Empire</Text>
+      <Key>O'Rorke</Key>
+      <Forenames>Gertrude Isabel</Forenames>
+      <Text>, Mrs., Member, Order of the British Empire</Text>
       <PageNumber>3852</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -932,7 +1011,9 @@
       <Key>Orpen</Key>
       <Title>The Hon.</Title>
       <Forenames>Sybil Margaret</Forenames>
-      <Text>, Mrs., M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3799</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -3,7 +3,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ca</Key>
-      <Text>.rey, temp. Capt. W. W. (rel. commn., and to be Hon. Capt.)</Text>
+      <Text>rey, temp. Capt. W. W. (rel. commn., and to be Hon. Capt.)</Text>
       <PageNumber>543</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -557,7 +557,9 @@
       <Key>Cecil</Key>
       <Title>temp. Maj. Lord</Title>
       <Forenames>W.</Forenames>
-      <Text>, C.V.O. (rel. commn., and to be Hon. Maj.)</Text>
+      <Text>
+        <Honour>C.V.O.</Honour>
+      </Text>
       <PageNumber>3147</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -628,7 +630,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Chalkley</Key>
-      <Text>. temp. Capt. J. W. (rel. commn., and to be Hon. Capt.)</Text>
+      <Title>temp. Capt.</Title>
+      <Forenames>J. W.</Forenames>
+      <Text>(rel. commn., and to be Hon. Capt.)</Text>
       <PageNumber>3147</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -644,7 +648,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Chal</Key>
-      <Text>.oner, temp. Maj. and County Adjt. (Hon. Lt.-Col.) W., T.D. (rel. commn.)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>3754</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -929,7 +935,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Cheeseman</Key>
-      <Text>. temp. Lt. H. (rel. commn., and to be Hon. Lt.)</Text>
+      <Title>temp. Lt.</Title>
+      <Forenames>H.</Forenames>
+      <Text>(rel. commn., and to be Hon. Lt.)</Text>
       <PageNumber>1818</PageNumber>
     </MainItem>
   </ItemGroup>

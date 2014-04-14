@@ -143,7 +143,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Mills</Key>
-      <Text>Group Capt. Reginald Percv. M.C., A.F.C. (Dep. Dir. of Organisation, Air Ministry)</Text>
+      <Forenames>Group</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>5713</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -231,7 +235,10 @@
     <MainItem>
       <Key>Oliver</Key>
       <Forenames>Wing Comdr</Forenames>
-      <Text>. Douglas Austin, D.S.O., O.B.E. (placed on half-pay, Scale A)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>6383</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -360,7 +367,9 @@
       <Key>Pipon</Key>
       <Title>Flight Lt.</Title>
       <Forenames>Arthur Roach Thomas</Forenames>
-      <Text>, D.S.C. (trd. to Reserve, CI. C)</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>6715</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -368,7 +377,11 @@
     <MainItem>
       <Key>Pitcher</Key>
       <Forenames>Air Commodore Duncan Le Geyt</Forenames>
-      <Text>, C.M.G., C.B.E., D.S.O. (Dir. of Equipment, Air Ministry)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>C.B.E.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5364</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -432,7 +445,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ragg</Key>
-      <Text>Pilot Offr. Robert Linton (Flying Offr.)</Text>
+      <Forenames>Pilot Offr</Forenames>
+      <Text>. Robert Linton (Flying Offr.)</Text>
       <PageNumber>6022</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -440,7 +454,9 @@
     <MainItem>
       <Key>Randall</Key>
       <Forenames>Flying Offr</Forenames>
-      <Text>. George Ebben, D.F.C. (date of rank and precedence)</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>5208</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -569,7 +585,9 @@
     <MainItem>
       <Key>Roy</Key>
       <Forenames>Flying Offr</Forenames>
-      <Text>. Hugh St. Clair, M.C. (trd. to Reserve, CI. B)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5612</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -619,7 +637,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Scovell</Key>
-      <Text>Flying Offr. Bertram, A.F.C (placed on Retd. List on acc. of ill-health)</Text>
+      <Forenames>Flying Offr</Forenames>
+      <Text>. Bertram, A.F.C (placed on Retd. List on acc. of ill-health)</Text>
       <PageNumber>6022</PageNumber>
     </MainItem>
   </ItemGroup>

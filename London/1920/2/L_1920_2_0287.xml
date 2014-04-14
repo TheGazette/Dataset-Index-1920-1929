@@ -4,7 +4,9 @@
     <MainItem>
       <Key>Ewer</Key>
       <Title>Maj</Title>
-      <Text>, (temp. iLt.-Col., Essex R., T.F.) G. G., D.S.O. (retains) temp, rank of Lt.-Col. whilst comdg. the 2/22nd Bn., Lond. R.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6432</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -13,7 +15,9 @@
       <Key>Poster</Key>
       <Title>Capt.</Title>
       <Forenames>C. T.</Forenames>
-      <Text>, M.C. (actg. Maj. whilst 2nd in comd. of the 2/13th Bn., Lond. R.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6331</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -22,7 +26,9 @@
       <Key>Franklin</Key>
       <Title>Lt.</Title>
       <Forenames>G. F.</Forenames>
-      <Text>, M.C. (Adjt., R. War. R.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4567</PageNumber>
     </MainItem>
     <SubItem>
@@ -34,7 +40,9 @@
     <MainItem>
       <Key>Gartside</Key>
       <Title>Capt.</Title>
-      <Text>{B.t. Maj.) L., D.S.O. (temp. Lt.-Col. comdg. . the 7th 'Bn.. High. L.I.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5353</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -43,7 +51,9 @@
       <Key>Gibbons</Key>
       <Title>temp. Lt.</Title>
       <Forenames>W.</Forenames>
-      <Text>, M.C. (actg. Capt. comdg. a Co., corr. of date), Sub. Not</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4203</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -52,7 +62,9 @@
       <Key>Hirst</Key>
       <Title>temp. Lt.</Title>
       <Forenames>C. H.</Forenames>
-      <Text>, M.C. (rel. appt. of Adjt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6855</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -81,7 +93,9 @@
   <ItemGroup>
     <MainItem>
       <Key>James</Key>
-      <Text>'Capt. {actg. Maj.) C. R., M.C. (retains rank of Maj. whilst 2nd in comd. of the l/5th Bn., Suff. R.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6872</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -108,7 +122,9 @@
       <Key>Menary</Key>
       <Title>temp. Lt.</Title>
       <Forenames>G.</Forenames>
-      <Text>, M.C. (actg. Capt. comdg. a Co.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6169</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -123,11 +139,15 @@
       <PageNumber>4668</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>Morrison, Lt. R., M.C. {actg. Capt. comdg. a Co.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5078</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>Oliphant, temp. Capt. T. A. H. M.C. (actg. Maj. whilst 2nd in comd. of the l/6th Bn. W.. York. IR.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4213</PageNumber>
     </SubItem>
     <SubItem>
@@ -196,7 +216,10 @@
     <MainItem>
       <Key>Ousack-l</Key>
       <Forenames>Smith</Forenames>
-      <Text>, temp. Copt, and County Adjlt, Sir T. B., Bart., K.C.M.G. (rel. commn., and to be Hon. Capt.), Suib. Not</Text>
+      <Text>
+        <Honour>Bart</Honour>
+        <Honour>K.C.M.G.</Honour>
+      </Text>
       <PageNumber>5203</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -205,7 +228,9 @@
       <Key>Denny</Key>
       <Title>Col.</Title>
       <Forenames>H. C</Forenames>
-      <Text>, C.B. (oeases ito comd. the 6th Bn., Essex R.) '</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>6203</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -213,7 +238,9 @@
     <MainItem>
       <Key>Downing</Key>
       <Title>Lit.</Title>
-      <Text>-Col. H. J., D.S.O., OJB.IE. (ceases' to comd. the 3rd Vol. Bn., The Devonshire R*gt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5704</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -231,7 +258,9 @@
       <Key>Gwyther</Key>
       <Title>Maj.</Title>
       <Forenames>G. H.</Forenames>
-      <Text>, D.S.O. ceases to eomd. the 2nd Vol. Bn., Shrops. L.I.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5463</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -476,7 +505,9 @@
     <MainItem>
       <Key>Warde</Key>
       <Title>temp. Lt.-Col.</Title>
-      <Text>and Group Comdt. Sir C. E., St., O.B.E. .(rel. oomnin., and to ibe Hon. Lt.-Col,), Sub. Not. ... ,</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>5203</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -533,7 +564,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>C. A</Forenames>
-      <Text>* D.S.O. (rel. temp, oommn. on acc. of illhealth, and retains rank)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4339</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -582,7 +615,9 @@
       <Key>Armitage</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>T.</Forenames>
-      <Text>IW., D.S.O. (rel. temp, oommn, on ceasing to ibe empld. with Union Imp. Service Obnt., and retains rank of Lt.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4824</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -645,7 +680,9 @@
       <Key>iBeatty</Key>
       <Title>Lt.</Title>
       <Forenames>H. J.</Forenames>
-      <Text>, M.B.E. (rel. temp, oommn. on aoc. of illhealth, and retains rank)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>4567</PageNumber>
     </MainItem>
   </ItemGroup>

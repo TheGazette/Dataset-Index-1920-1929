@@ -3,7 +3,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Wenham</Key>
-      <Text>. Lt. J. K. L. (trd. to T.F.R., Infy., from 15th Bn., Lond. R.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>J. K. L.</Forenames>
+      <Text>(trd. to T.F.R., Infy., from 15th Bn., Lond. R.)</Text>
       <PageNumber>454</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -39,8 +41,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Wesley</Key>
-      <Forenames>C. M. St</Forenames>
-      <Text>. M. Wellesley (see Wellesley-Wesley, C. M. St. M.). . West, Maj. A. T., T.D. (trd. to T.F.R., Yeo., from Berks. Yeo.)</Text>
+      <Forenames>C. M. St. M</Forenames>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>554</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -77,7 +81,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Westcom</Key>
-      <Text>.be, Lt. A. B. (resigns commn. and retains rank of Lt.)</Text>
+      <Text>be, Lt. A. B. (resigns commn. and retains rank of Lt.)</Text>
       <PageNumber>938</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -228,14 +232,18 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>W. R.</Forenames>
-      <Text>, M.C. (resigns commn. and granted rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>357</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Wheeler-Hblohan</Key>
-      <Text>. Capt. A. V. (trd. to T.F.R., Infy., from 12th Bn., Lond. R.)</Text>
+      <Title>Capt.</Title>
+      <Forenames>A. V.</Forenames>
+      <Text>(trd. to T.F.R., Infy., from 12th Bn., Lond. R.)</Text>
       <PageNumber>138</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -244,7 +252,10 @@
       <Key>Whelan</Key>
       <Title>Capt.</Title>
       <Forenames>L. T.</Forenames>
-      <Text>, M.C., F.R.C.S. (resigns commn. and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>1548</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -253,7 +264,9 @@
       <Key>Whiffen</Key>
       <Title>Maj.</Title>
       <Forenames>G. G.</Forenames>
-      <Text>, T.D.. (resigns oommn. and retains rank of Maj., with permission to wear prescribed uniform)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>674</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -348,7 +361,9 @@
       <Key>White</Key>
       <Title>Lt.</Title>
       <Forenames>H. H.</Forenames>
-      <Text>, M.C. (resigns comoin. and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>775</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -440,7 +455,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>R.</Forenames>
-      <Text>, M.C. (Capt., T.F.R., Infy.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1653</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -460,7 +477,9 @@
       <Key>Whitehead</Key>
       <Title>Lt.</Title>
       <Forenames>A. M.</Forenames>
-      <Text>, M.C. (resigns commn. and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1775</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -543,7 +562,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>J. W.</Forenames>
-      <Text>, T.D. (trd. to T.F.R., Infy., from 9th Bn., Durham L.I.)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>2396</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -613,7 +634,9 @@
       <Key>Whittle</Key>
       <Title>Lt.</Title>
       <Forenames>F. G.</Forenames>
-      <Text>, M.B.E. (Capt,, T.F.R., R.A.S.E.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>2074</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -646,7 +669,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>G. A.</Forenames>
-      <Text>, M.C. (trd. to T.F.R., Yeo., from Scottish Horse Yeo.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>757</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -657,7 +682,9 @@
       </Key>
       <Title>Cant.</Title>
       <Forenames>H. W.</Forenames>
-      <Text>, M.C. (Lt., 6th Bn., A. and S.H., and rel. rank of Capt., late Tank Corps)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2385</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -783,7 +810,7 @@
       <PageNumber>541</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Trd. to 7th Bn., Durh. L.I., from 4th Bn., E. Lanes R.</Text>
+      <Text>Trd. to 7th Bn., Durh. L.I., from 4th Bn., E. Lanes R</Text>
       <PageNumber>541</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -802,7 +829,9 @@
       <Key>Wilde</Key>
       <Title>Lt.</Title>
       <Forenames>C. A. G.</Forenames>
-      <Text>, M.C. (resigns commn. at his own request)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>147</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -811,7 +840,9 @@
       <Key>Wilder</Key>
       <Title>Maj.</Title>
       <Forenames>G. M.</Forenames>
-      <Text>, T.D. (Lt.Col., T.F.R., Yeo.)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>685</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -907,7 +938,9 @@
       </Key>
       <Title>2nd Lt.</Title>
       <Forenames>F. F.</Forenames>
-      <Text>, M.M. (Lt.)</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>147</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -929,7 +962,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>J. C. F.</Forenames>
-      <Text>, M.C. (resigns commn. and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>931</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -972,8 +1007,10 @@
         <KeyDitto>___</KeyDitto>
       </Key>
       <Title>Capt.</Title>
-      <Forenames>L. St</Forenames>
-      <Text>. G., M.C. (trd. to T.F.R., Infy., from 10th Bn., Manch. R.)</Text>
+      <Forenames>L. St. G</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1035</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -993,7 +1030,9 @@
       <Key>Willan</Key>
       <Title>Capt.</Title>
       <Forenames>G. T.</Forenames>
-      <Text>, D.S.O. (Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1253</PageNumber>
     </MainItem>
   </ItemGroup>

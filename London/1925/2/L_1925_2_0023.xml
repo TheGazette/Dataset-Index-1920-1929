@@ -21,7 +21,10 @@
       <Key>Clark</Key>
       <Title>Col.</Title>
       <Forenames>Joseph Arthur Myles Ariel</Forenames>
-      <Text>, C.M.G., B.M., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3769</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -37,7 +40,9 @@
     <MainItem>
       <Key>Clay</Key>
       <Forenames>Joseph Miles</Forenames>
-      <Text>, O.B.E., Companion, Order of the Indian Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3772</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -62,7 +67,9 @@
       <Key>Clifford</Key>
       <Title>Col.</Title>
       <Forenames>Charles</Forenames>
-      <Text>, C.M.G., V.D., .T.D:, J.P., Knight Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>3775</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -73,7 +80,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>Hugh Charles</Forenames>
-      <Text>, G.C.M.G., Knight Grand Cross, Order of the British Empire</Text>
+      <Text>
+        <Honour>G.C.M.G.</Honour>
+      </Text>
       <PageNumber>3779</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -169,7 +178,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Quartermaster</Forenames>
-      <Text>and Lt. Walter John, M.C., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3774</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -201,7 +212,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Cotte</Key>
-      <Text>'sloe, Col. Lord, V.D., T.D., Knight of Grace, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>4193</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -210,7 +223,13 @@
       <Key>Courthope</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>George Loyd</Forenames>
-      <Text>, M.C., T.D., J.P., D.L., M.P., Baronet</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>T.D.</Honour>
+        <Honour>D.L.</Honour>
+        <Honour>M.P.</Honour>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>3767</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -228,7 +247,9 @@
       <Key>Crosthwaite</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Charles Gilbert</Forenames>
-      <Text>, , O.B.E., H.M. Consul at Muscat</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>2282</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -244,7 +265,9 @@
     <MainItem>
       <Key>Curry</Key>
       <Forenames>James William</Forenames>
-      <Text>, O.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3775</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -320,7 +343,9 @@
       <Key>Darwell</Key>
       <Title>Maj.</Title>
       <Forenames>Thomas Herbert</Forenames>
-      <Text>, M.C., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3773</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -337,7 +362,9 @@
       <Key>Davies</Key>
       <Title>Miss</Title>
       <Forenames>Mary Elizabeth</Forenames>
-      <Text>, R.R.C., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>R.R.C.</Honour>
+      </Text>
       <PageNumber>3775</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -384,7 +411,10 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Horace Christian</Forenames>
-      <Text>, M.B.E., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3770</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -393,7 +423,9 @@
       <Key>Dawthorn</Key>
       <Title>Lt.</Title>
       <Forenames>Ernest Edward</Forenames>
-      <Text>, D.C.M., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>3773</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -401,7 +433,9 @@
     <MainItem>
       <Key>Day</Key>
       <Forenames>Albert Cecil</Forenames>
-      <Text>, C.B.E., Companion, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>3771</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -409,7 +443,9 @@
     <MainItem>
       <Key>Dean</Key>
       <Forenames>Frederic William Charles</Forenames>
-      <Text>, M.B.E., M.I.M.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3776</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -419,6 +455,14 @@
       <Forenames>Massimiliano</Forenames>
       <Text>, LL.D., Commander, Order of the British Empire</Text>
       <PageNumber>3779</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Freitas</Key>
+      <Forenames>Domingo Sebastian</Forenames>
+      <Text>, ., Nominated Member of Legislative . -Council of Grenada</Text>
+      <PageNumber>2370</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -441,7 +485,9 @@
     <MainItem>
       <Key>Denham</Key>
       <Forenames>Godfrey Charles</Forenames>
-      <Text>, CLE., C.B.E., Official Member of the Legislative Council of the Straits Settlements</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>2602</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -456,7 +502,10 @@
     <MainItem>
       <Key>Desborough</Key>
       <Forenames>William Henry</Forenames>
-      <Text>, Baron, K.C.V.O., Knight Grand Cross, Royal Victorian Order</Text>
+      <Text>
+        <Honour>K.C.V.O.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3772</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -473,7 +522,9 @@
       <Key>Dewar</Key>
       <Title>Lt.-Col. The Hon.</Title>
       <Forenames>John</Forenames>
-      <Text>, M.C, T.D., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>3773</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -498,7 +549,10 @@
     <MainItem>
       <Key>Dixey</Key>
       <Forenames>Harry Edward</Forenames>
-      <Text>, M.D., J.P., D.L., Knight .:</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+        <Honour>D.L.</Honour>
+      </Text>
       <PageNumber>3768</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -506,7 +560,9 @@
     <MainItem>
       <Key>Dixon</Key>
       <Forenames>Francis Netherwood</Forenames>
-      <Text>, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3770</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -514,7 +570,9 @@
     <MainItem>
       <Key>Dobbin</Key>
       <Title>Maj. and Brevet Lt.</Title>
-      <Text>Col. Herbert 'Thomas, D.S.O., Commander, Order of the British Empire .:</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3773</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -552,7 +610,9 @@
       <Key>Dorrell</Key>
       <Title>Capt.</Title>
       <Forenames>George Thomas</Forenames>
-      <Text>, V.C., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>V.C.</Honour>
+      </Text>
       <PageNumber>3774</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -610,7 +670,9 @@
       <Key>Duncan</Key>
       <Title>Maj.</Title>
       <Forenames>George Melville</Forenames>
-      <Text>, T.D., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>3773</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -619,7 +681,11 @@
       <Key>Dundas</Key>
       <Title>Col.</Title>
       <Forenames>Patrick Henry</Forenames>
-      <Text>, C.B.E., D.S.O., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3770</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -628,7 +694,9 @@
       <Key>Dunlop</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Robert William Layard</Forenames>
-      <Text>, CLE., D.S.O., Knight</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3768</PageNumber>
     </MainItem>
   </ItemGroup>

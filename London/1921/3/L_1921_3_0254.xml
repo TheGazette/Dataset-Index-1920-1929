@@ -30,7 +30,9 @@
     <MainItem>
       <Key>Murray</Key>
       <Forenames>Herbert L.</Forenames>
-      <Text>, M.D. (Surg.Cdr.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>5933</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -245,7 +247,9 @@
       <Key>Tempest</Key>
       <Title>temp. Lt.</Title>
       <Forenames>Ernest C. W. Vane</Forenames>
-      <Text>, D.S.O. (trd. to Permanent List with seniority)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5832</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -339,7 +343,11 @@
       <Key>Hunt</Key>
       <Title>Capt.</Title>
       <Forenames>George W. Carew</Forenames>
-      <Text>, see Carew-Hunt, Capt. George W. Trew, Maj. and Bt. Lt.-Col. E. F., C.M.G., D.S.O. (granted hon. rank of Brig.-Gen. on Retd. List)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5646</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -358,7 +366,9 @@
       <Key>Bishop</Key>
       <Title>Maj.</Title>
       <Forenames>C. A.</Forenames>
-      <Text>, O.B.E. (placed on Retd. List at own request, and apptd. to Res. of Offrs., R.M., in rank last held whilst on Active List)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>5646</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -389,7 +399,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Ford</Key>
-      <Text>. Maj. and Bt. Lt.-Col. Richard V. T., C.B.E. (supy. Lt.-Col. on estabt. and retains appt. as D.A.A.G., R.M. temp.)</Text>
+      <Title>Maj. and Bt. Lt.-Col.</Title>
+      <Forenames>Richard V. T.</Forenames>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>6491</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -438,8 +452,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donnell, Rudolph P. (Dir. of Music and Lt. from Bandmaster W.O.)</Text>
+      <Key>O'Donnell</Key>
+      <Forenames>Rudolph P.</Forenames>
+      <Text>(Dir. of Music and Lt. from Bandmaster W.O.)</Text>
       <PageNumber>7138</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -456,7 +471,9 @@
       <Key>Raikes</Key>
       <Title>Lt.-Col. Geo.</Title>
       <Forenames>L.</Forenames>
-      <Text>, D.S.C. (seed, whilst holding spec, appt.)</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>5832</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -488,7 +505,9 @@
       <Key>Campbell</Key>
       <Title>Capt.</Title>
       <Forenames>Robin H.</Forenames>
-      <Text>, M.C. (absorbed in Estabt. on return to Corps from Seed. List)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7459</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -497,7 +516,9 @@
       <Key>Cooke</Key>
       <Title>Capt. and Bt. Maj.</Title>
       <Forenames>T. F. V.</Forenames>
-      <Text>, D.S.O. (placed on half pay on acc. of sickness)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7678</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -523,7 +544,10 @@
     <MainItem>
       <Key>Darwall</Key>
       <Title>Maj. and Bt. Lt.-Col.</Title>
-      <Text>. Robert H., C.B.E., D.S.O. (borne supy. to estabt. on return to Corps from Seed. List)</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7054</PageNumber>
     </MainItem>
     <SubItem>
@@ -565,7 +589,9 @@
     <MainItem>
       <Key>Finlaison</Key>
       <Title>Lt.-Col.</Title>
-      <Text>(T./Col. Comdt. J. B., C.M.G. (Col. 2nd Comdt.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>5244</PageNumber>
     </MainItem>
     <SubItem>
@@ -576,7 +602,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Fletcher</Key>
-      <Text>. Maj. and Bt. Lt. Col. E. K., D.S.O. (supy., absorbed in estabt.)</Text>
+      <Title>Maj. and Bt. Lt. Col.</Title>
+      <Forenames>E. K.</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5244</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -631,7 +661,9 @@
       <Key>Hanson</Key>
       <Title>Lt. Wm.</Title>
       <Forenames>A. M.</Forenames>
-      <Text>, M.C. (placed on h.p. and absorbed in estabt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7311</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -656,7 +688,9 @@
       <Key>Jones</Key>
       <Title>Maj.</Title>
       <Forenames>H. L.</Forenames>
-      <Text>, O.B.E. (rel. temp, rank of Lt. Col. on return from Seed. List the grading of G.S.O. 1st Gr. and borne supy. to estabt.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>5560</PageNumber>
     </MainItem>
     <SubItem>
@@ -722,25 +756,31 @@
     <MainItem>
       <Key>Mullins</Key>
       <Title>Col.</Title>
-      <Text>2nd Comdt. G. J. H., C.B. (Col.-Comdt.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>5244</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Seed. apptd. A.D.C. to Governor of Hong Kong and rems. seed</Text>
+      <Text>
+        <Honour>A.D.C.</Honour>
+      </Text>
       <PageNumber>6491</PageNumber>
     </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>North</Key>
-      <Text>. Walter Sowden (Prob. 2nd Lt.)</Text>
+      <Forenames>Walter Sowden</Forenames>
+      <Text>(Prob. 2nd Lt.)</Text>
       <PageNumber>6842</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donnell, Bertram W., A.R.A.M. (Dir. of Music and Lt. from Bandmaster W.O.)</Text>
+      <Key>O'Donnell</Key>
+      <Forenames>Bertram W.</Forenames>
+      <Text>, A.R.A.M. (Dir. of Music and Lt. from Bandmaster W.O.)</Text>
       <PageNumber>7138</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -750,7 +790,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Percival S. G.</Forenames>
-      <Text>, M.V.O. (Dir. of Music and Lt. from Bandmaster W.O.)</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>7138</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -767,7 +809,9 @@
     <MainItem>
       <Key>Ormsby</Key>
       <Title>Maj.</Title>
-      <Text>and Bt, Lt.-Col. R. D. (D.A.A.G., R.M., and borne supy. to estab. whilst holding appt.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>7678</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -776,7 +820,9 @@
       <Key>Peel</Key>
       <Title>Maj. (temp. Lt.-Col.)</Title>
       <Forenames>Arthur</Forenames>
-      <Text>, C.M.G. (Lt.-Col. by Brevet)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>5646</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -817,7 +863,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pym</Key>
-      <Text>. John Lee Rose (Prob. 2nd Lt.)</Text>
+      <Forenames>John Lee Rose</Forenames>
+      <Text>(Prob. 2nd Lt.)</Text>
       <PageNumber>6842</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -833,14 +880,18 @@
   <ItemGroup>
     <MainItem>
       <Key>Sims</Key>
-      <Text>. Bnderick Dillwyn (Prob. 2nd Lt.) ... ... '</Text>
+      <Forenames>Bnderick Dillwyn</Forenames>
+      <Text>(Prob. 2nd Lt.) ... ... '</Text>
       <PageNumber>6842</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Sinclair</Key>
-      <Text>. Maj. (temp. Lt.-Col.) Walter. O.B.E. (rel. temp, rank cf Lt.-Col.)</Text>
+      <Title>Maj. (temp. Lt.-Col.) Walter.</Title>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>7054</PageNumber>
     </MainItem>
   </ItemGroup>

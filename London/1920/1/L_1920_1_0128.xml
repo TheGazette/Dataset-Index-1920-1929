@@ -4,7 +4,9 @@
     <MainItem>
       <Key>Culling</Key>
       <Forenames>James William Henry</Forenames>
-      <Text>, O.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3703</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -65,7 +67,9 @@
       <Key>Cumberland</Key>
       <Title>Payr. Lt. Cdr.</Title>
       <Forenames>John Mason</Forenames>
-      <Text>, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3782</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -156,7 +160,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Hugh</Forenames>
-      <Text>, created Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>3432</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -176,7 +182,9 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>T.</Forenames>
-      <Text>/Lt. John Crawford, Companion, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>1218</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -241,14 +249,17 @@
     <MainItem>
       <Key>Currie</Key>
       <Forenames>James</Forenames>
-      <Text>, C.M.G., Knight Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>3759</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Curry</Key>
-      <Text>. William Fortescue, J.P.. Officer, Order of the British Empire</Text>
+      <Forenames>William Fortescue</Forenames>
+      <Text>, J.P.. Officer, Order of the British Empire</Text>
       <PageNumber>3782</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -265,7 +276,12 @@
       <Key>Curteis</Key>
       <Title>Odr.</Title>
       <Forenames>Robert Woodward Sutton</Forenames>
-      <Text>. Companion, D.S.O. . . !)4S Curtis, Capt. Berwick, C.B., D.S.O.. Companion, St. Michael and St. George</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, St. Michael and St. George</Honour>
+      </Text>
       <PageNumber>047</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -275,7 +291,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Frederick</Forenames>
-      <Text>, F.R.C.S., L.R.C.P.. Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>3782</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -322,7 +340,9 @@
       </Key>
       <Title>Miss</Title>
       <Forenames>Sophie Portlock</Forenames>
-      <Text>, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3782</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -338,7 +358,9 @@
     <MainItem>
       <Key>Dagger</Key>
       <Forenames>Richard</Forenames>
-      <Text>, M.D.. L.R.C.K. L.R.C.S., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>1238</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -373,7 +395,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dale</Key>
-      <Text>. Albert Ernest, Member, Order of the British Empire</Text>
+      <Forenames>Albert Ernest</Forenames>
+      <Text>, Member, Order of the British Empire</Text>
       <PageNumber>3825</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -383,7 +406,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Charles Ernest</Forenames>
-      <Text>, C.M.G., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>3763</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -416,7 +441,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>T.</Forenames>
-      <Text>/Qrmr. and .Maj. (A./Lt.Col.) William Henry, M.C.. Officer, Order of the Britisli Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1376</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -472,7 +499,9 @@
     <MainItem>
       <Key>Dalton</Key>
       <Forenames>James Henry Chesshyre</Forenames>
-      <Text>, M.D., J.P., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3825</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -501,7 +530,9 @@
       <Key>Daltry</Key>
       <Title>Maj.</Title>
       <Forenames>Henry James</Forenames>
-      <Text>, D.S.O.. Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3782</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -562,7 +593,9 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>James Whiteside</Forenames>
-      <Text>, D.L., Member, Order of the British Empire !</Text>
+      <Text>
+        <Honour>D.L.</Honour>
+      </Text>
       <PageNumber>825</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -579,7 +612,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Daniel</Key>
-      <Text>l.t. Cdr. Henry Martin, Companion, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>2862</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -603,7 +638,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dann</Key>
-      <Text>. John Charles, Member, Order of the British Empire</Text>
+      <Forenames>John Charles</Forenames>
+      <Text>, Member, Order of the British Empire</Text>
       <PageNumber>3825</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -619,7 +655,9 @@
     <MainItem>
       <Key>Danson</Key>
       <Forenames>Francis Chatillon</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>3431</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -660,7 +698,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Darroch</Key>
-      <Text>. Revd. John, D.D., Officer, Order of the British Empire</Text>
+      <Title>Revd.</Title>
+      <Forenames>John</Forenames>
+      <Text>, D.D., Officer, Order of the British Empire</Text>
       <PageNumber>3783</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -677,7 +717,9 @@
       <Key>Darwin</Key>
       <Title>Maj.</Title>
       <Forenames>George Henry</Forenames>
-      <Text>, M.D.. F.R.C.P., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>1238</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -751,7 +793,9 @@
       </Key>
       <Title>Miss</Title>
       <Forenames>Grace Emilie</Forenames>
-      <Text>, M.B.E.. Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3783</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -799,7 +843,9 @@
     <MainItem>
       <Key>Davidson</Key>
       <Forenames>Frances Joan</Forenames>
-      <Text>, Mrs., M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3783</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -809,7 +855,9 @@
         <KeyDitto>___ ___ —.—</KeyDitto>
       </Key>
       <Forenames>George Frederick</Forenames>
-      <Text>, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3783</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -820,7 +868,9 @@
       </Key>
       <Title>Col.</Title>
       <Forenames>James</Forenames>
-      <Text>, D.L., J.P., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.L.</Honour>
+      </Text>
       <PageNumber>3763</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -867,7 +917,10 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Alfred Thomas</Forenames>
-      <Text>, M.B.E., M.P.. Commander Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>3763</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -888,7 +941,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Arthur Vernon</Forenames>
-      <Text>^ M.B.E., M.B.. Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3783</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -899,7 +954,10 @@
       </Key>
       <Title>Maj. and Bt. Lt.-Col.</Title>
       <Forenames>Charles Stewart</Forenames>
-      <Text>, D.S.O., Companion, St. Michael and St. George</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, St. Michael and St. George</Honour>
+      </Text>
       <PageNumber>1373</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -930,7 +988,9 @@
       </Key>
       <Title>Miss</Title>
       <Forenames>Elizabeth</Forenames>
-      <Text>, A.R.R.C.. Royal Red Cross, 1st CI</Text>
+      <Text>
+        <Honour>A.R.R.C.</Honour>
+      </Text>
       <PageNumber>811</PageNumber>
     </MainItem>
   </ItemGroup>

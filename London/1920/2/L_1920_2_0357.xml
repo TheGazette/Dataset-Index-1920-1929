@@ -88,7 +88,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Walter</Forenames>
+      <Title>Walter .</Title>
       <PageNumber>4917</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -243,7 +243,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lopes</Key>
-      <Forenames>Jose</Forenames>
+      <Title>Jose .</Title>
       <PageNumber>6119</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -457,7 +457,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mellor</Key>
-      <Forenames>Ann</Forenames>
+      <Title>Ann .</Title>
       <PageNumber>4777</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -541,7 +541,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Miller</Key>
-      <Text>Constantia</Text>
+      <Forenames>Constantia</Forenames>
       <PageNumber>6386</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -582,8 +582,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Milne</Key>
-      <Forenames>Joe</Forenames>
-      <Text>... -</Text>
+      <Title>Joe .</Title>
+      <Text>.. -</Text>
       <PageNumber>6629</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -799,7 +799,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Nelson</Key>
-      <Text>Anne</Text>
+      <Forenames>Anne</Forenames>
       <PageNumber>4291</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -860,7 +860,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Nicholls</Key>
-      <Text>Hannah</Text>
+      <Forenames>Hannah</Forenames>
       <PageNumber>4518</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -954,8 +954,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, Col. Arthur Patrick</Text>
+      <Key>O'Connor</Key>
+      <Title>Col.</Title>
+      <Forenames>Arthur Patrick</Forenames>
       <PageNumber>5644</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -995,8 +996,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donnell, John Patrick</Text>
+      <Key>O'Donnell</Key>
+      <Forenames>John Patrick</Forenames>
       <PageNumber>6270</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1104,7 +1105,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Oxley</Key>
-      <Forenames>William</Forenames>
+      <Title>William .</Title>
       <PageNumber>5647</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1118,7 +1119,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Page</Key>
-      <Forenames>William</Forenames>
+      <Title>William .</Title>
       <PageNumber>4290</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1284,7 +1285,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pearson</Key>
-      <Forenames>James</Forenames>
+      <Title>James .</Title>
       <PageNumber>6525</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1298,7 +1299,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Peel</Key>
-      <Forenames>William</Forenames>
+      <Title>William .</Title>
       <PageNumber>6272</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1378,7 +1379,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pettigrew</Key>
-      <Forenames>Ann</Forenames>
+      <Title>Ann .</Title>
       <PageNumber>578</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1478,8 +1479,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Poole</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Maj. George Kenneth</Text>
+      <Title>Surg.</Title>
+      <Text>-Maj. George Kenneth</Text>
       <PageNumber>5040</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1540,8 +1541,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>James</Forenames>
-      <Text>... ... ... ..;</Text>
+      <Title>James .</Title>
+      <Text>.. ... ... ..;</Text>
       <PageNumber>7050</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1629,9 +1630,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Pryke</Key>
-      <Title>Revd.</Title>
-      <Forenames>Canon William Emmanuel</Forenames>
+      <Title>Revd. Canon</Title>
+      <Forenames>William Emmanuel</Forenames>
       <PageNumber>6951</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Pugh</Key>
+      <Forenames>David Williams</Forenames>
+      <PageNumber>4293</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

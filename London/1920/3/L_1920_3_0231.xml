@@ -16,7 +16,9 @@
   <ItemGroup>
     <MainItem>
       <Key>iLightbody</Key>
-      <Text>2nd .Lt. W. P. (Lt.) ... Lightfoot, Lt. A., M.C. (resigns commn. and granted rank of</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7829</PageNumber>
     </MainItem>
     <SubItem>
@@ -38,7 +40,10 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>and retains rank of Capt.) Capt. (late temp. Capt., K.A.M.C.) Richard Bridge (trd. to R.A.M.C., Gen</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9042</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -86,7 +91,9 @@
       <PageNumber>7745</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Capt, W. C. S., M.C. (Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7570</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -121,7 +128,9 @@
       <Key>Linington</Key>
       <Title>Capt.</Title>
       <Forenames>H. A. J.</Forenames>
-      <Text>, T.D. (rel. commn. on acc. of ill-</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>8259</PageNumber>
     </MainItem>
     <SubItem>
@@ -156,11 +165,15 @@
       <Key>Lintott</Key>
       <Title>Capt.</Title>
       <Forenames>A. L.</Forenames>
-      <Text>, D.S.O. (restd</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7299</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>to estabt. on ceasing to be empld. with M.G.C.)</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>8696</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -178,7 +191,9 @@
       <Key>Lishman</Key>
       <Title>Lt.</Title>
       <Forenames>R.</Forenames>
-      <Text>, D.C.M. (Adjt., Lowland Div. Signals)</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>7096</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -228,7 +243,9 @@
       <Key>Litt</Key>
       <Title>Maj.</Title>
       <Forenames>W. G.</Forenames>
-      <Text>, T.D. (resigns commn., and retains rank of</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>9205</PageNumber>
     </MainItem>
     <SubItem>
@@ -338,7 +355,7 @@
       <PageNumber>8365</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Maj., Sub. Not.</Text>
+      <Text>Maj., Sub. Not</Text>
       <PageNumber>8951</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -358,7 +375,11 @@
         <KeyDitto>___</KeyDitto>
       </Key>
       <Forenames>R. Welch Fus</Forenames>
-      <Text>.) Sir Francis, G.C.V.O., K.C.B., D.S.O. (Hon. Col., 13 Bn., London R.)</Text>
+      <Text>
+        <Honour>G.C.V.O.</Honour>
+        <Honour>K.C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7440</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -412,7 +433,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Capt</Forenames>
-      <Text>, J. H., M.D. (resigns commn., and granted rank</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>7551</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -427,6 +450,9 @@
     </MainItem>
     <SubItem>
       <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>T.D.</Honour>
         <PageNumber>9361</PageNumber>
       </Text>
       <PageNumber>9361</PageNumber>
@@ -465,7 +491,9 @@
       <Key>Lock</Key>
       <Title>Lt.</Title>
       <Forenames>J. M. B.</Forenames>
-      <Text>, D.S.O. (trd. to 7th Bn., Middx Regt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8852</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -551,7 +579,9 @@
       <Key>Lodge</Key>
       <Title>Capt.</Title>
       <Forenames>T. A.</Forenames>
-      <Text>, O.B.E. (trd. to T.F.R., Infy., from 24th Bn., London R.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>9362</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -616,7 +646,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>J.</Forenames>
-      <Text>(restd. to estabt. on ceasing to be empld. with M.G.C.), Sub. Not</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>7217</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -624,7 +656,10 @@
     <MainItem>
       <Key>Londonderry</Key>
       <Title>Hon. Col.</Title>
-      <Text>the Rt. Hon. C. S. H., The Marquis of, K.G., M.V.O. (trd. to 3rd Northn Med. Bde.)</Text>
+      <Text>
+        <Honour>K.G.</Honour>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>8373</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -633,7 +668,9 @@
       <Key>Long</Key>
       <Title>Lt.</Title>
       <Forenames>Basil</Forenames>
-      <Text>, M.C. (trd. to 1st Bn., South Midland Div. Engrs.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7743</PageNumber>
     </MainItem>
     <SubItem>
@@ -715,7 +752,9 @@
       <Key>Longstaff</Key>
       <Title>Maj.</Title>
       <Forenames>C. L.</Forenames>
-      <Text>, T.D. (resigns commn., and retains rank, with permission to wear prescribed uniform)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>9695</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -796,7 +835,9 @@
       <Key>Lovegrove</Key>
       <Title>Capt.</Title>
       <Forenames>J.</Forenames>
-      <Text>, M.C. (rel. commn. on acc. of ill-health contracted on active service, and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8473</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -805,7 +846,9 @@
       <Key>Lovell-Hewitt</Key>
       <Title>Lt.</Title>
       <Forenames>H. E.</Forenames>
-      <Text>, M.C. (Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7932</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -823,7 +866,10 @@
       <Key>Low</Key>
       <Title>Maj.</Title>
       <Forenames>C. J.</Forenames>
-      <Text>, D.S.O., T.D. (resigns commn., and retains rank of Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>9425</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -834,7 +880,10 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>T. R.</Forenames>
-      <Text>, M.C. (restd. to estabt. on ceasing to be empld. with M.G.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>7439</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -873,7 +922,10 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>J. G.</Forenames>
-      <Text>, D.S.O., M.C. (Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7656</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -914,7 +966,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Lt</Forenames>
-      <Text>, W. E., M.C. (Capt., T.F.R.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7097</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -923,14 +977,22 @@
       <Key>Luean</Key>
       <Title>Clod. (Hon. Brig.-Gen.)</Title>
       <Forenames>G.</Forenames>
-      <Text>, C. the iFJarl of, K.B.E., C.B., T.D. (Addrtd. AJD.C. to tlhe King to complete esteibt.)</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>8258</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Lucas</Key>
-      <Text>. Maj. F. R., T.D. (trd. to T.F.R., Imfy.)</Text>
+      <Title>Maj.</Title>
+      <Forenames>F. R.</Forenames>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>9604</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -982,7 +1044,9 @@
       <Key>Luickman</Key>
       <Title>Lt.</Title>
       <Forenames>W. F.</Forenames>
-      <Text>, M.C. (resigns oommn. and granted rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9502</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1009,7 +1073,9 @@
       <Key>Lukyn</Key>
       <Title>Lt.</Title>
       <Forenames>A. H. F.</Forenames>
-      <Text>(restd. to estalbt. on ceasing to be empld. -wiitth M.G.C.)</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>7744</PageNumber>
     </MainItem>
   </ItemGroup>

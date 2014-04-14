@@ -58,7 +58,9 @@
         <KeyDitto>___ ___ ___ '</KeyDitto>
       </Key>
       <Forenames>Philip Colville</Forenames>
-      <Text>, C.V.O., knighted</Text>
+      <Text>
+        <Honour>C.V.O.</Honour>
+      </Text>
       <PageNumber>4620</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -83,7 +85,10 @@
       <Key>Stephenson</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Arthur</Forenames>
-      <Text>, O.M.G., D.S.O., M.C., Nominated Legislative Member of the Council of Northern Rhodesia</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5362</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -91,7 +96,9 @@
     <MainItem>
       <Key>Sterry</Key>
       <Forenames>Wasey</Forenames>
-      <Text>, O.B.E., knighted</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4620</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -100,7 +107,10 @@
       <Key>Stockley</Key>
       <Title>Major</Title>
       <Forenames>Henry Hud-</Forenames>
-      <Text>son Fraser, M.V.O., O.B.E., Deputy Secretary, Order of the Bath</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4863</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -108,7 +118,10 @@
     <MainItem>
       <Key>Stonehaven</Key>
       <Title>Rt. Hon. Lord</Title>
-      <Text>, G.C.M.G., D.S.O., Governor General and Commander-in-Chief of the Commonwealth of Australia</Text>
+      <Text>
+        <Honour>G.C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5362</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -117,7 +130,9 @@
       <Key>Strakosch</Key>
       <Title>Sir</Title>
       <Forenames>Henry</Forenames>
-      <Text>, K.C.B.E., Member, Royal' Commission on Indian Currency and Finance</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>5763</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -134,7 +149,9 @@
       <Key>Stubbs</Key>
       <Title>Sir</Title>
       <Forenames>Reginald Edward</Forenames>
-      <Text>, K.C.M.G., Captain-General and Commander-in-Chief of Island of Jamaica and Dependencies</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+      </Text>
       <PageNumber>6027</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -150,7 +167,9 @@
     <MainItem>
       <Key>Szlumper</Key>
       <Forenames>Gilbert Savil</Forenames>
-      <Text>, T.D., Commander, Order of the British Empire .'</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>4447</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -201,7 +220,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Wilfrid Forbes Home</Forenames>
-      <Text>, Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>4449</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -225,7 +246,9 @@
     <MainItem>
       <Key>Townend</Key>
       <Forenames>Arnold Ernest</Forenames>
-      <Text>, M.P. for Stockport</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>6141</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -240,8 +263,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Walton</Key>
-      <Forenames>George O</Forenames>
-      <Text>'Donnell, knighted</Text>
+      <Forenames>George O'Donnell</Forenames>
+      <Text>, knighted</Text>
       <PageNumber>5697</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -249,7 +272,9 @@
     <MainItem>
       <Key>Ward</Key>
       <Forenames>Douglas John</Forenames>
-      <Text>, M.C., Unofficial Member of the Legislative Council of Straits Settlements</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5362</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -283,7 +308,10 @@
       <Key>Wheler</Key>
       <Title>Major</Title>
       <Forenames>Granville Charles Hastings</Forenames>
-      <Text>, O.B.E., Baronet</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>4449</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -299,7 +327,9 @@
     <MainItem>
       <Key>Wilkinson</Key>
       <Forenames>Russell Facey</Forenames>
-      <Text>, Member of the Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4777</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -322,8 +352,12 @@
   <ItemGroup>
     <MainItem>
       <Key>Wray</Key>
-      <Forenames>Brigadier-General John Cecil</Forenames>
-      <Text>, O.B., C.M.G., M.V.O., King's Body Guard, Clerk of the Cheque and Adjutant of the Yeoman of the Guard</Text>
+      <Title>Brigadier-</Title>
+      <Forenames>General John Cecil</Forenames>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>5130</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -338,7 +372,9 @@
     <MainItem>
       <Key>Young</Key>
       <Forenames>Edward Hilton</Forenames>
-      <Text>, D.S.O., D.'S.C, Chairman, Royal Commission on Indian Currency and Finance</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5763</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -637,7 +673,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rogers</Key>
-      <Text>G. H</Text>
+      <Forenames>G. H</Forenames>
       <PageNumber>5283</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -754,8 +790,8 @@
   <SectionTitle>Royal Military College</SectionTitle>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, R. N</Text>
+      <Key>O'Connor</Key>
+      <Forenames>R. N</Forenames>
       <PageNumber>5972</PageNumber>
     </MainItem>
   </ItemGroup>

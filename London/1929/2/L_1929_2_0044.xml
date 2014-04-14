@@ -402,8 +402,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cardew</Key>
-      <Forenames>H. D. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>H. D. St. G</Forenames>
       <PageNumber>3943</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -527,7 +526,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Chisholm</Key>
-      <Text>D. C. H</Text>
+      <Forenames>D. C. H.</Forenames>
       <PageNumber>3691</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -829,7 +828,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>T. G.</Forenames>
-      <Text>, Bart</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>2281</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1258,6 +1259,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Guingand</Key>
+      <Forenames>F. W.</Forenames>
+      <PageNumber>4031</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>De</Key>
       <Text>iSaiismarez, H. G. T</Text>
       <PageNumber>3757</PageNumber>
@@ -1265,9 +1273,25 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Deas</Key>
-      <Forenames>G. N. Delano-Osborne</Forenames>
-      <Text>, 0. H. ... Delme-Murray, G. A</Text>
+      <Key>de Vitre</Key>
+      <Forenames>E.</Forenames>
+      <Text>.' C. Denis</Text>
+      <PageNumber>2596</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Watteville</Key>
+      <Forenames>K. W.</Forenames>
+      <Text>... .:</Text>
+      <PageNumber>2850</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Wolff</Key>
+      <Forenames>C.</Forenames>
+      <Text>-E Deas, G. N. Delano-Osborne, 0. H. ... Delme-Murray, G. A</Text>
       <PageNumber>2926</PageNumber>
     </MainItem>
   </ItemGroup>

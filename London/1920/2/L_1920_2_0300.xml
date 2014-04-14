@@ -62,7 +62,9 @@
     <MainItem>
       <Key>Brierley</Key>
       <Forenames>W. E.</Forenames>
-      <Text>, M.B., F.R.C.S</Text>
+      <Text>
+        <Honour>F.R.C.S</Honour>
+      </Text>
       <PageNumber>4579</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -109,7 +111,9 @@
     <MainItem>
       <Key>Lapsley</Key>
       <Forenames>J. B.</Forenames>
-      <Text>, M.C., M.B</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4579</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -132,7 +136,11 @@
     <MainItem>
       <Key>Munro</Key>
       <Forenames>A. C</Forenames>
-      <Text>, M.D Nelson, J. J. H., O.B.E., M.C., M.D., F.R.C.S.E</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>4579</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -140,7 +148,9 @@
     <MainItem>
       <Key>Phipson</Key>
       <Forenames>E. S.</Forenames>
-      <Text>, D.S.O., M.B</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4579</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -185,7 +195,9 @@
     <MainItem>
       <Key>Townsend</Key>
       <Forenames>R. S.</Forenames>
-      <Text>, M.C., M.B</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4579</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -201,7 +213,9 @@
     <MainItem>
       <Key>Watson</Key>
       <Forenames>W. L</Forenames>
-      <Text>, O.B.E</Text>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>4579</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -256,7 +270,10 @@
     <MainItem>
       <Key>Smith</Key>
       <Forenames>C. H.</Forenames>
-      <Text>, O.B.E., M.D</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.D</Honour>
+      </Text>
       <PageNumber>6092</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -360,7 +377,9 @@
     <MainItem>
       <Key>Codanda</Key>
       <Forenames>Madish Ganapathy</Forenames>
-      <Text>, M.C., M.B. .. .. .. '</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7012</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -474,7 +493,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Griffith</Key>
-      <Text>F., M.B</Text>
+      <Forenames>F.</Forenames>
+      <Text>, M.B</Text>
       <PageNumber>7012</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1054,7 +1074,9 @@
     <MainItem>
       <Key>Codanda</Key>
       <Forenames>Madiah Ganapathy</Forenames>
-      <Text>, M.C., M.B</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7013</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1360,8 +1382,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan, A. J. (temp.)</Text>
+      <Key>O'Sullivan</Key>
+      <Forenames>A. J.</Forenames>
+      <Text>(temp.)</Text>
       <PageNumber>5254</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1400,8 +1423,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Puvirajasinghe</Key>
-      <Title>St.</Title>
-      <Forenames>John</Forenames>
+      <Forenames>St. John</Forenames>
       <Text>(temp.)</Text>
       <PageNumber>6591</PageNumber>
     </MainItem>

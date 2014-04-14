@@ -20,7 +20,9 @@
     <MainItem>
       <Key>Dickinson</Key>
       <Forenames>Cecil C</Forenames>
-      <Text>, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>6984</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -28,7 +30,9 @@
     <MainItem>
       <Key>Donovan</Key>
       <Forenames>Alexander M.</Forenames>
-      <Text>, D.S.C</Text>
+      <Text>
+        <Honour>D.S.C</Honour>
+      </Text>
       <PageNumber>7371</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -36,7 +40,9 @@
     <MainItem>
       <Key>Faulkner</Key>
       <Forenames>George H.</Forenames>
-      <Text>, D.S.C</Text>
+      <Text>
+        <Honour>D.S.C</Honour>
+      </Text>
       <PageNumber>7460</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -74,7 +80,9 @@
     <MainItem>
       <Key>Lawrence</Key>
       <Forenames>Reginald W.</Forenames>
-      <Text>, D.S.C</Text>
+      <Text>
+        <Honour>D.S.C</Honour>
+      </Text>
       <PageNumber>9034</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -111,7 +119,9 @@
     <MainItem>
       <Key>Robinson</Key>
       <Forenames>Clive A.</Forenames>
-      <Text>, D.S.C</Text>
+      <Text>
+        <Honour>D.S.C</Honour>
+      </Text>
       <PageNumber>7460</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -354,8 +364,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bacon</Key>
-      <Forenames>Cedric O. H.</Forenames>
-      <Text>de Lacy, see de Lacy-Bacon, Cedric U. H. Baker, Edmund H. B</Text>
+      <Forenames>Cedric O. H. de Lacy</Forenames>
+      <Text>, see de Lacy-Bacon, Cedric U. H. Baker, Edmund H. B</Text>
       <PageNumber>7788</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -381,7 +391,9 @@
     <MainItem>
       <Key>Barnes</Key>
       <Forenames>Horace N.</Forenames>
-      <Text>, D.S.C. (seniority)</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>7873</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -474,8 +486,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bury</Key>
-      <Forenames>Herbert G. St</Forenames>
-      <Text>. J Cashman, Patrick</Text>
+      <Forenames>Herbert G. St. J Cashman</Forenames>
+      <Text>, Patrick</Text>
       <PageNumber>7535</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -578,6 +590,13 @@
       <Key>Davis</Key>
       <Forenames>William Wellclose</Forenames>
       <PageNumber>9033</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Lacy-Bacon</Key>
+      <Forenames>Cedric O. H.</Forenames>
+      <PageNumber>7787</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1148,8 +1167,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rich</Key>
-      <Forenames>Charles R. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>Charles R. St. J</Forenames>
       <PageNumber>7787</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1516,8 +1534,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Baldwin</Key>
-      <Forenames>Percy N. St</Forenames>
-      <Text>. J. (at own request)</Text>
+      <Forenames>Percy N. St. J</Forenames>
+      <Text>. (at own request)</Text>
       <PageNumber>7044</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1598,7 +1616,9 @@
     <MainItem>
       <Key>Boddie</Key>
       <Forenames>George H.</Forenames>
-      <Text>, D.S.C. (at own request)</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>8715</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1606,7 +1626,9 @@
     <MainItem>
       <Key>Boldern</Key>
       <Forenames>John C.</Forenames>
-      <Text>D.S.C. (at own request)</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>7044</PageNumber>
     </MainItem>
   </ItemGroup>

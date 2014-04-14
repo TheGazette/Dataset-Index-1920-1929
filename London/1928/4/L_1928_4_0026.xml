@@ -21,7 +21,9 @@
       <Key>Bannerman</Key>
       <Title>Sir</Title>
       <Forenames>Arthur</Forenames>
-      <Text>DArcy Gordon, K.C.V.O., C.I.E., Gentleman Usher in Ordinary to His Majesty</Text>
+      <Text>
+        <Honour>K.C.V.O.</Honour>
+      </Text>
       <PageNumber>7014</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -30,7 +32,9 @@
       <Key>Batho</Key>
       <Title>Sir</Title>
       <Forenames>Charles Albert</Forenames>
-      <Text>, Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>6777</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -80,7 +84,9 @@
     <MainItem>
       <Key>Braithwaite</Key>
       <Forenames>General</Forenames>
-      <Text>Sir Walter Pipon, K.C.B., Member of H.M. Council</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+      </Text>
       <PageNumber>8537</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -104,7 +110,9 @@
     <MainItem>
       <Key>Burnand</Key>
       <Forenames>Richard Frank</Forenames>
-      <Text>, O.B.E., Recorder of Richmond, Yorks</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>8485</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -127,7 +135,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Byng</Key>
-      <Text>of Vimy, General The Viscount, G.O.B., G. O.M.G., M.V.O., Commissioner of Police of the Metropolis</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>7302</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -167,7 +177,9 @@
     <MainItem>
       <Key>Chilton</Key>
       <Forenames>Henry Getty</Forenames>
-      <Text>, C.M.G., H.M. Envoy Extraordinary and Minister Plenipotentiary to His Holiness the Pope</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>7895</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -248,7 +260,9 @@
     <MainItem>
       <Key>Dick</Key>
       <Forenames>Henry Charles</Forenames>
-      <Text>, M.B.E., H.M. Consul at Vienna</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>7769</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -352,7 +366,9 @@
     <MainItem>
       <Key>Hansell</Key>
       <Forenames>Henry Peter</Forenames>
-      <Text>, C.V.O., Extra Gentleman Usher in Ordinary to H.M. the King</Text>
+      <Text>
+        <Honour>C.V.O.</Honour>
+      </Text>
       <PageNumber>7014</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -368,7 +384,10 @@
     <MainItem>
       <Key>Harvey</Key>
       <Forenames>Edward Murray</Forenames>
-      <Text>, O.B.E., M.C., Commercial Secretary Second Grade, to H.M. Legation at Santiago</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7975</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -384,7 +403,9 @@
     <MainItem>
       <Key>Hedley</Key>
       <Forenames>Walter</Forenames>
-      <Text>D.S.O., K.C., Recorder or Middlesbrough</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6629</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -409,7 +430,10 @@
       <Key>Hodgson</Key>
       <Title>Sir</Title>
       <Forenames>Robert</Forenames>
-      <Text>MacLeod, K.B.E., C.M.G., H.M. Envoy Extraordinary and Minister Plenipotentiary at Dorazzo, and H.M. Consul-General for Albania</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>6558</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -433,16 +457,21 @@
     <MainItem>
       <Key>Hope</Key>
       <Title>the Hon. Lady</Title>
-      <Text>, O.B.E., Commissioner for the purposes of the Educational Endowments (Scotland) Act, 1928</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>7771</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Horwood</Key>
-      <Title>Brigadier</Title>
+      <Title>Brigadier-</Title>
       <Forenames>General</Forenames>
-      <Text>Sir William Thomas Francis, K.C.B., D.S.O., Knight Grand Cross, Order of the British Empire</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7123</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -482,7 +511,9 @@
     <MainItem>
       <Key>Jones</Key>
       <Forenames>D. T.</Forenames>
-      <Text>, C.B.E., F.R.S.E., Member and Chairman of the Fishery Board for Scotland</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>7386</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -502,7 +533,9 @@
     <MainItem>
       <Key>Kendal</Key>
       <Forenames>Norman</Forenames>
-      <Text>, C.B.E.. Assistant Commissioner of Police of the Metropolis</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>8169</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -526,7 +559,9 @@
     <MainItem>
       <Key>Kitoji</Key>
       <Forenames>Aiasa</Forenames>
-      <Text>, Sir, Kt., O.B.E., Nominated Unofficial Member of Legislative Council of the Colony of Nigeria</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>7386</PageNumber>
     </MainItem>
   </ItemGroup>

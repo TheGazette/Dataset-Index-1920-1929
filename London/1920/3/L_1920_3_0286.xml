@@ -246,7 +246,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Traill</Key>
-      <Text>. Lt. T. O, D.F.C. (graded for pay and allces. as Capt. A.)</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>8793</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -255,7 +257,9 @@
       <Key>Treadtiold</Key>
       <Title>Sqdn.</Title>
       <Forenames>Leader H. A.</Forenames>
-      <Text>, M.D., B.S., B.A. (granted perm, commn.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>7458</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -378,7 +382,9 @@
       </Key>
       <Title>Sqdn.</Title>
       <Forenames>Leader H. M. S.</Forenames>
-      <Text>, M.B.E. (granted perm, commn.) ... .:</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>7458</PageNumber>
     </MainItem>
     <SubItem>
@@ -452,9 +458,11 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Der Spny</Forenames>
-      <Text>, Maj. K. R., M.C. (trd. to unempld. list)</Text>
+      <Key>Van Der</Key>
+      <Forenames>Spny</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9529</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -480,7 +488,9 @@
     <MainItem>
       <Key>Viener</Key>
       <Title>Chapln.</Title>
-      <Text>in C. Rev. H. D. L., C.B.E., M.A. (Air Commodore)</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>8410</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -552,7 +562,9 @@
       <Key>Waistell</Key>
       <Title>Flight Lt.</Title>
       <Forenames>A. M.</Forenames>
-      <Text>, D.S.C. (rel. commn. on acc. ot illhealth and retains rank)</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>7355</PageNumber>
     </MainItem>
     <SubItem>
@@ -629,7 +641,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Walkey</Key>
-      <Text>.Rev. J. R., M.A. (relative rank as Sqdn. Leader)</Text>
+      <Title>Rev.</Title>
+      <Forenames>J. R.</Forenames>
+      <Text>, M.A. (relative rank as Sqdn. Leader)</Text>
       <PageNumber>8410</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -649,7 +663,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>G. P.</Forenames>
-      <Text>, D.S.O. (trd. to unempld. list)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8713</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -63,7 +63,9 @@
     <MainItem>
       <Key>Mitchell</Key>
       <Forenames>Herbert Edward</Forenames>
-      <Text>, O.V.O., Knight Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4406</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -81,7 +83,9 @@
     <MainItem>
       <Key>Monck</Key>
       <Forenames>John Berkeley</Forenames>
-      <Text>, Commander, Royal Victorian Order '</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4406</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -90,7 +94,9 @@
       <Key>Monro</Key>
       <Title>Sir</Title>
       <Forenames>Horace Cecil</Forenames>
-      <Text>, K.C.B., Chairman of the Commission to enquire into conditions of Mining and Drainage in the Doncaster area</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+      </Text>
       <PageNumber>4318</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -124,7 +130,10 @@
     <MainItem>
       <Key>Morshead</Key>
       <Forenames>Owen Frederick</Forenames>
-      <Text>, D.S.O., M.C., M.A., Librarian to His Majesty</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4317</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -132,7 +141,9 @@
     <MainItem>
       <Key>Morton</Key>
       <Forenames>William Jackson</Forenames>
-      <Text>, M.B.E., J.P., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>4411</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -166,7 +177,10 @@
     <MainItem>
       <Key>Muir</Key>
       <Title>Lt.</Title>
-      <Text>Col. Wingate Wemyss, M.V.O., O.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4413</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -182,7 +196,10 @@
     <MainItem>
       <Key>Murray</Key>
       <Forenames>John</Forenames>
-      <Text>, C.V.O., Knight Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>C.V.O.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4406</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -191,7 +208,9 @@
       <Key>Murray-White</Key>
       <Title>Col.</Title>
       <Forenames>Richard Stephen</Forenames>
-      <Text>, D.S.O., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4407</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -248,7 +267,9 @@
     <MainItem>
       <Key>Newman</Key>
       <Forenames>William</Forenames>
-      <Text>, M.B.E.. Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>4411</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -278,15 +299,20 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Callaghan, Daniel Joseph, Member, Order of the British Empire</Text>
+      <Key>O'Callaghan</Key>
+      <Forenames>Daniel Joseph</Forenames>
+      <Text>, Member, Order of the British Empire</Text>
       <PageNumber>4412</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donnell, Sir Samuel Perry, K.C.I.E., C.S.I., Acting Governor of the United Provinces of Agra and Oudh</Text>
+      <Key>O'Donnell</Key>
+      <Title>Sir</Title>
+      <Forenames>Samuel Perry</Forenames>
+      <Text>
+        <Honour>K.C.I.E.</Honour>
+      </Text>
       <PageNumber>4639</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -300,8 +326,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Meara, Francis, H.M. Consul at Liege</Text>
+      <Key>O'Meara</Key>
+      <Forenames>Francis</Forenames>
+      <Text>, H.M. Consul at Liege</Text>
       <PageNumber>5908</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -309,7 +336,10 @@
     <MainItem>
       <Key>Onslow</Key>
       <Forenames>Richard William Alen</Forenames>
-      <Text>, Earl of, O.B.E., J.P., D.L., Member of H.M. Privy Council</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>D.L.</Honour>
+      </Text>
       <PageNumber>4401</PageNumber>
       <PageNumber>4939</PageNumber>
     </MainItem>
@@ -328,7 +358,9 @@
       <Key>Orton</Key>
       <Title>Maj.-Gen.</Title>
       <Forenames>Ernest Frederick</Forenames>
-      <Text>, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>4404</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -337,7 +369,9 @@
       <Key>Owen</Key>
       <Title>Col.</Title>
       <Forenames>Percy Thomas</Forenames>
-      <Text>, O.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4414</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -364,7 +398,9 @@
       <Key>Page</Key>
       <Title>Major</Title>
       <Forenames>Bernard Culnier</Forenames>
-      <Text>, T.D., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>4408</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -372,7 +408,9 @@
     <MainItem>
       <Key>Palmer</Key>
       <Forenames>Philip</Forenames>
-      <Text>, O.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4410</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -389,7 +427,9 @@
       <Key>Parr</Key>
       <Title>Maj.-Gen.</Title>
       <Forenames>Harington Owen</Forenames>
-      <Text>, CM., C.M.G., Knight Commander, Order of the Bath '</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>4403</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -434,7 +474,9 @@
     <MainItem>
       <Key>Patterson</Key>
       <Forenames>Reginald Stewart</Forenames>
-      <Text>, O.B.E. Knight Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4413</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -443,7 +485,9 @@
       <Key>Paul</Key>
       <Title>Sir</Title>
       <Forenames>James Balfour</Forenames>
-      <Text>, K.C.V.O., LL.D., Secrel tary to the Order of the Thistle</Text>
+      <Text>
+        <Honour>K.C.V.O.</Honour>
+      </Text>
       <PageNumber>4869</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -452,7 +496,9 @@
       <Key>Peake</Key>
       <Title>Capt. (local Lt.-Col.)</Title>
       <Forenames>Frederick Gerald</Forenames>
-      <Text>, O.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4415</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -469,7 +515,11 @@
       <Key>Peck</Key>
       <Title>Col. (temp. Col. Comdt.)</Title>
       <Forenames>Henry Richardson</Forenames>
-      <Text>, C.M.G., D. S.O., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D. S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>4403</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -528,7 +578,9 @@
     <MainItem>
       <Key>Ferryman</Key>
       <Forenames>Percy Wilbraham</Forenames>
-      <Text>, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>4416</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -561,7 +613,9 @@
     <MainItem>
       <Key>Phiroze</Key>
       <Forenames>Cursetjee Sethna</Forenames>
-      <Text>, O.B.E., Knight</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4402</PageNumber>
       <PageNumber>4708</PageNumber>
     </MainItem>
@@ -579,7 +633,11 @@
       <Key>Plender</Key>
       <Title>Sir</Title>
       <Forenames>William</Forenames>
-      <Text>, Bart., K.G.,C.B.E.,Member Royal Commission on Cross River Traffic</Text>
+      <Text>
+        <Honour>Bart</Honour>
+        <Honour>K.G.</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>4958</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -588,7 +646,10 @@
       <Key>Pleydell-Bouverie</Key>
       <Title>Lt.-Col. the Hon.</Title>
       <Forenames>Stuart</Forenames>
-      <Text>, D.S.O., T.D., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>4407</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -615,7 +676,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>William Haldane</Forenames>
-      <Text>, C.B., Knight</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>4402</PageNumber>
       <PageNumber>4708</PageNumber>
     </MainItem>
@@ -633,7 +696,11 @@
       <Key>Pownall</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Assheton</Forenames>
-      <Text>, O.B.E., T.D., M.P., Knight</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>T.D.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4402</PageNumber>
       <PageNumber>4708</PageNumber>
     </MainItem>
@@ -664,7 +731,9 @@
       </Key>
       <Title>Qrmr. and Maj.</Title>
       <Forenames>Walter Thomas</Forenames>
-      <Text>, M.C., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4408</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -672,7 +741,9 @@
     <MainItem>
       <Key>Prickard</Key>
       <Forenames>Thomas Francis Vaughan</Forenames>
-      <Text>, Member, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4406</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -12,7 +12,9 @@
     <MainItem>
       <Key>Slade</Key>
       <Forenames>James Benjamin</Forenames>
-      <Text>, J.P., Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>4233</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -20,7 +22,9 @@
     <MainItem>
       <Key>Smallbones</Key>
       <Forenames>Robert Tbwnsend</Forenames>
-      <Text>, M.B.E., H.M. ConsulGeneral at Loanda -</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>5997</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -36,16 +40,22 @@
     <MainItem>
       <Key>Souchon</Key>
       <Forenames>Hippolyte Louis Wiehe</Forenames>
-      <Text>du Coudray, C.B.E., Knighted</Text>
-      <PageNumber>4233</PageNumber>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
     </MainItem>
   </ItemGroup>
+  <Honour>
+    <PageNumber>4233</PageNumber>
+  </Honour>
   <ItemGroup>
     <MainItem>
       <Key>Spickernell</Key>
       <Title>Pay. Capt.</Title>
       <Forenames>Prank Todd</Forenames>
-      <Text>C.B., D.S.O., R.N., Knight Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4908</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -63,7 +73,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Title>Sir</Title>
-      <Text>Malcolm, K.C.M.G., Governor and Commander-in-Chief of the Colony of Seychelles</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+      </Text>
       <PageNumber>4233</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -72,7 +84,9 @@
       <Key>Stirling-Maxwell</Key>
       <Title>Sir</Title>
       <Forenames>John Maxwell</Forenames>
-      <Text>, Bt., Forestry Commissioner</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4406</PageNumber>
     </MainItem>
     <SubItem>
@@ -93,7 +107,9 @@
       <Key>Sulivan</Key>
       <Title>Capt.</Title>
       <Forenames>Norton Allen</Forenames>
-      <Text>, Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4405</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -102,7 +118,9 @@
       <Key>Sutton</Key>
       <Title>Eng. Cmdr.</Title>
       <Forenames>Charles Edwin</Forenames>
-      <Text>, Member, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4405</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -135,7 +153,9 @@
       <Key>Thomson</Key>
       <Title>Sir</Title>
       <Forenames>Courtauld</Forenames>
-      <Text>, K.C.B.E., O.B., Member of the Royal Commission on Museums and Galleries</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>4318</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -143,7 +163,9 @@
     <MainItem>
       <Key>Thorne</Key>
       <Forenames>William Calthorp</Forenames>
-      <Text>, J.P., Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>4233</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -159,14 +181,18 @@
     <MainItem>
       <Key>Usher</Key>
       <Forenames>Archibald Rhys</Forenames>
-      <Text>, M.B.E., Member, Executive Council of British Honduras</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>4492</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Vaughan</Key>
-      <Text>Morgan, Kenyon Pascoe, O.B.E., Member of Royal Commission on London Squares</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>5257</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -174,7 +200,9 @@
     <MainItem>
       <Key>Waterman</Key>
       <Forenames>Herbert Roy</Forenames>
-      <Text>, Member, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4404</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -191,7 +219,11 @@
       <Key>White</Key>
       <Title>Maj.-Gen. Sir</Title>
       <Forenames>Cyril Brudenell Bingham</Forenames>
-      <Text>, K.C.M.G., K.C.V.O., O.B., D. S.O., Knight Commander of the Order of the Bath</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>K.C.V.O.</Honour>
+        <Honour>D. S.O.</Honour>
+      </Text>
       <PageNumber>4403</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -200,7 +232,10 @@
     <MainItem>
       <Key>Whitehead</Key>
       <Forenames>Samuel</Forenames>
-      <Text>, M.V.O., Member, Royal Victorian Order, Fourth Class</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4404</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -208,7 +243,9 @@
     <MainItem>
       <Key>Williamson</Key>
       <Forenames>Walter James Franklin</Forenames>
-      <Text>, O.M.G., Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>4233</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -224,7 +261,10 @@
     <MainItem>
       <Key>Winser</Key>
       <Forenames>Cyril Legh</Forenames>
-      <Text>, M.V.O., Member, Royal Victorian Order</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4404</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -233,7 +273,9 @@
       <Key>Witt</Key>
       <Title>Sir</Title>
       <Forenames>Robert Clermont</Forenames>
-      <Text>, Kt., C.B.E., Member of the Royal Commission on Museums and Galleries</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>4318</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -453,8 +495,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hamilton</Key>
-      <Forenames>C.</Forenames>
-      <Text>de C</Text>
+      <Forenames>C. de C</Forenames>
       <PageNumber>5106</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -943,7 +984,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bather</Key>
-      <Text>A. J</Text>
+      <Forenames>A. J.</Forenames>
       <PageNumber>4910</PageNumber>
     </MainItem>
   </ItemGroup>

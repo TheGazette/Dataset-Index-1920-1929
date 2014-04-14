@@ -106,8 +106,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. Aubyn, E. G</Text>
+      <Key>St. Aubyn</Key>
+      <Forenames>E. G.</Forenames>
       <PageNumber>2204</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -277,7 +277,9 @@
     <MainItem>
       <Key>Shakerley</Key>
       <Title>Sir</Title>
-      <Text>AV. G., Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>2116</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -532,7 +534,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Smith-Maxwell</Key>
-      <Text>. J. D. H</Text>
+      <Forenames>J. D. H.</Forenames>
       <PageNumber>1950</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -546,7 +548,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Solomon</Key>
-      <Text>. E. E</Text>
+      <Forenames>E. E .</Forenames>
       <PageNumber>2116</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -619,7 +621,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stanton</Key>
-      <Text>. S. G</Text>
+      <Forenames>S. G.</Forenames>
       <PageNumber>594</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -668,13 +670,6 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Stewart</Key>
-      <Forenames>O. J. R. B</Forenames>
-      <PageNumber>1170</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
@@ -709,14 +704,6 @@
       <Key>Stitt</Key>
       <Text>AV. AV</Text>
       <PageNumber>995</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Stoakley</Key>
-      <Forenames>T. B</Forenames>
-      <Text>HI Stockwell, G. E. St. C. '</Text>
-      <PageNumber>1352</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1620,7 +1607,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Winterton</Key>
-      <Text>. T. J. AV</Text>
+      <Forenames>T. J.</Forenames>
+      <Text>AV</Text>
       <PageNumber>2116</PageNumber>
     </MainItem>
   </ItemGroup>

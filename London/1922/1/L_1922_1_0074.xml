@@ -90,7 +90,9 @@
     <MainItem>
       <Key>Cordwell</Key>
       <Title>temp. Lt.</Title>
-      <Text>®. G., M.C. (rel. commn. on completion of service and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>340</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -128,7 +130,9 @@
       <Key>Cork</Key>
       <Title>temp. Lt.</Title>
       <Forenames>C. H.</Forenames>
-      <Text>, M.C. (rel. actg. rank of Capt. on ceasing to be empld.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>342</PageNumber>
     </MainItem>
     <SubItem>
@@ -251,7 +255,9 @@
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Cornes</Forenames>
-      <Text>, temp. Lt. L. G., M.C. (rel. oommn. on completion of service and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>928</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -290,7 +296,9 @@
       <Key>Cornish-Bowden</Key>
       <Title>temp. Capt.</Title>
       <Forenames>R. K.</Forenames>
-      <Text>, O.B.E. (rel. actg. rank of Lt.-Col.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>622</PageNumber>
     </MainItem>
     <SubItem>
@@ -343,7 +351,9 @@
       <Key>Corrall</Key>
       <Title>Lt.</Title>
       <Forenames>G. E.</Forenames>
-      <Text>, O.B.E. (seed, for service under Colonial Office)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>701</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -395,7 +405,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Cort-Cox</Key>
-      <Text>. temp. 2nd Lt. R. R. (Tel. commn. on completion of service and retains rank of 2nd Lt,)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>R. R.</Forenames>
+      <Text>(Tel. commn. on completion of service and retains rank of 2nd Lt,)</Text>
       <PageNumber>1382</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -440,7 +452,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Costello</Key>
-      <Text>. temp. 2nd Lt, J., D.CM. (rel. oommn. on completion of service and retains rank of 2nd Lt.)</Text>
+      <Title>temp.</Title>
+      <Text>2nd Lt, J., D.CM. (rel. oommn. on completion of service and retains rank of 2nd Lt.)</Text>
       <PageNumber>1685</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -460,7 +473,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Cottam</Key>
-      <Text>. 2nd Lt. H. (2nd Lt., Reg. Army Res. of Off.. Gen. List. Tank, late Tank Corps)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>H.</Forenames>
+      <Text>(2nd Lt., Reg. Army Res. of Off.. Gen. List. Tank, late Tank Corps)</Text>
       <PageNumber>1161</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -478,7 +493,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Cotterill</Key>
-      <Text>. temp. 2nd Lt. H. S. (rel. commn. on completion of service and retains rank of 2nd Lt.)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>H. S.</Forenames>
+      <Text>(rel. commn. on completion of service and retains rank of 2nd Lt.)</Text>
       <PageNumber>1582</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -524,7 +541,9 @@
       </Key>
       <Title>temp. 2nd Lt.</Title>
       <Forenames>W. J. C</Forenames>
-      <Text>, D.C.M. (rel. commn. on completion of service and retains rank of 2nd Lt.)</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>1373</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -695,7 +714,10 @@
       <Key>Courage</Key>
       <Title>Lt.-Col. (Bt. Col.) (Hon. Brisr.-Gen., ret pay)</Title>
       <Forenames>A.</Forenames>
-      <Text>, D.S.O.. M.C. (Col., Reg. Army Res. of Off.. Gen. List, from 15th H., and retains hon. rank of Brig.-Gen.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1796</PageNumber>
     </MainItem>
   </ItemGroup>

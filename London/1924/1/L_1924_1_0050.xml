@@ -4,7 +4,9 @@
     <MainItem>
       <Key>Herbert</Key>
       <Forenames>Dennis Henry</Forenames>
-      <Text>, M.P. for Watford</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>361</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -14,7 +16,9 @@
         <KeyDitto>—— ___ ___</KeyDitto>
       </Key>
       <Forenames>Sidney</Forenames>
-      <Text>, M.P. for Scarborough and Whitby</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>368</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -22,7 +26,9 @@
     <MainItem>
       <Key>Herschell</Key>
       <Forenames>Richard Farrer</Forenames>
-      <Text>, Baron, G.C.V.O., Lord-inWaiting to H.M</Text>
+      <Text>
+        <Honour>G.C.V.O.</Honour>
+      </Text>
       <PageNumber>1569</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -39,7 +45,9 @@
     <MainItem>
       <Key>Hillary</Key>
       <Forenames>Albert Ernest</Forenames>
-      <Text>, M.P</Text>
+      <Text>
+        <Honour>M.P</Honour>
+      </Text>
       <PageNumber>360</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -54,7 +62,9 @@
     <MainItem>
       <Key>Hindle</Key>
       <Forenames>Frederick</Forenames>
-      <Text>, M.P. for</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>362</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -62,7 +72,9 @@
     <MainItem>
       <Key>Hirst</Key>
       <Forenames>George Henry</Forenames>
-      <Text>, M.P. for Wentworth</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>368</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -71,7 +83,9 @@
       <Key>Honre</Key>
       <Title>Rt. Hon. Sir</Title>
       <Forenames>Samuel John Gurney</Forenames>
-      <Text>, Bart.,</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>359</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -87,14 +101,19 @@
     <MainItem>
       <Key>Hodge</Key>
       <Forenames>James Philip</Forenames>
-      <Text>, M.P. for</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>365</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hodges</Key>
-      <Text>. Frank, M.P. for Lich-</Text>
+      <Forenames>Frank</Forenames>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>366</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -110,14 +129,20 @@
     <MainItem>
       <Key>Hogbin</Key>
       <Forenames>Henry Cairn</Forenames>
-      <Text>, M.P. for</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>358</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hogg</Key>
-      <Text>. Rt. Hon. Sir Douglas McGarel, M.P. for St</Text>
+      <Title>Rt. Hon. Sir</Title>
+      <Forenames>Douglas</Forenames>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>365</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -127,14 +152,19 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>John Drummond</Forenames>
-      <Text>. M.B.E.. His Majesty's VicnConsul at Nakawn Lam-</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>260</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hogge</Key>
-      <Text>. James Mvles, M.P. for</Text>
+      <Forenames>James Mvles</Forenames>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>308</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -146,7 +176,10 @@
       <PageNumber>365</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>M.P. for Gillingham Knighted</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>1202</PageNumber>
       <PageNumber>1922</PageNumber>
     </SubItem>
@@ -154,7 +187,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hole</Key>
-      <Text>. Edwyn Cecil, H.M ViceConsul at Salonica</Text>
+      <Forenames>Edwyn Cecil</Forenames>
+      <Text>, H.M ViceConsul at Salonica</Text>
       <PageNumber>2529</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -175,7 +209,11 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Haywood Temple</Forenames>
-      <Text>, I.S.O., M.V.O., Member of the Fourth Class of' the Royal Victorian Order</Text>
+      <Text>
+        <Honour>I.S.O</Honour>
+        <Honour>M.V.O.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>6</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -184,7 +222,10 @@
       <Key>Hood</Key>
       <Title>Sir</Title>
       <Forenames>Joseph</Forenames>
-      <Text>, Bart., M.P. for 'Wimbledon</Text>
+      <Text>
+        <Honour>Bart</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>367</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -193,7 +234,9 @@
       <Key>Hope</Key>
       <Title>Rt. Hon.</Title>
       <Forenames>James Fitz-</Forenames>
-      <Text>alan, M.P. for Sheffield, Central</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>365</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -201,7 +244,9 @@
     <MainItem>
       <Key>Hopkinson</Key>
       <Forenames>Austin</Forenames>
-      <Text>, M.P. for Mossley</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>362</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -210,7 +255,10 @@
       <Key>Home</Key>
       <Title>Rt. Hon. Sir</Title>
       <Forenames>Robert Stevenson</Forenames>
-      <Text>, G.B.E., K.C., M.P. for Hillhend</Text>
+      <Text>
+        <Honour>G.B.E.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>369</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -218,7 +266,9 @@
     <MainItem>
       <Key>Hortick</Key>
       <Forenames>James Nockclls</Forenames>
-      <Text>, M.P. for Gloucester</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>361</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -226,7 +276,10 @@
     <MainItem>
       <Key>Hose</Key>
       <Forenames>Edward Shaw</Forenames>
-      <Text>, Companion of the Order of St. Michael and St. George Houston, Sir Robert Paterson, Bart. M.P. for West Toxteth '</Text>
+      <Text>
+        <Honour>Bart</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>363</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -234,7 +287,9 @@
     <MainItem>
       <Key>Howard</Key>
       <Forenames>Donald Stirling Palmer</Forenames>
-      <Text>, M.P. for Cumberland, North</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>359</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -245,7 +300,11 @@
       </Key>
       <Title>Rt. Hon. Sir</Title>
       <Forenames>Esme William</Forenames>
-      <Text>G.C.M.G., K.C.B., C.V.O., H.M. Ambassador Extraordinary and Plenipotentiary to the United States of America</Text>
+      <Text>
+        <Honour>G.C.M.G.</Honour>
+        <Honour>K.C.B.</Honour>
+        <Honour>C.V.O.</Honour>
+      </Text>
       <PageNumber>1265</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -255,16 +314,10 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Geoffrey William Algernon</Forenames>
-      <Text>, M.P. for Luton</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>358</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Howitt</Key>
-      <Forenames>Alfred Bakewell</Forenames>
-      <Text>, M.D., M. R. C. S., L. R. C. P., Esquire, Order of St. John of Jerusalem Huckin, Victor Henry St. John, H.M. Consul-Gen. at New Orleans Hudson, James Hindle, M.P. for Huddersfield ... ... Hudson Lyall, Beatrix Margaret, Mrs., C.B.E., J.P., L.C.C., Dame Commander, Order of the British Empire Hughes, CoIIingwood James, M.P. for Peckham ... Hume, George Hopwood, J.P., L.C.C., Knighted</Text>
-      <PageNumber>1262</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -272,7 +325,17 @@
       <Key>Hume-Williams</Key>
       <Title>Sir</Title>
       <Forenames>William Ellis</Forenames>
-      <Text>. Bart., M.P. for Bassetlaw Hunter-Weston, Lt.-Gen. Sir Aylmer, K.C.B., D.S.O., M.P. for Bute Huntingfield, Capt. William Charles Arcedeckne Lord. M.P. for Eye Hutchinson, AVilliam, M.P. for Kelvingrove ... ... Tliffe, Sir Edward Manger, M.P. for Tamworth ... Inchoape, James Lyle, Baron, G. C. M. G., K. C. S. I., K.C.I.E. (Viscount Inchcape of Strathnaver)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+        <Honour>M.P.</Honour>
+        <Honour>K.C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.P.</Honour>
+        <Honour>M.P.</Honour>
+        <Honour>M.P.</Honour>
+        <Honour>M.P.</Honour>
+        <Honour>K.C.I.E.</Honour>
+      </Text>
       <PageNumber>1</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -282,7 +345,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Henrv</Forenames>
-      <Text>, M.A., M.B., J.P., Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>1262</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -304,7 +369,13 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>William Albert</Forenames>
-      <Text>. M.P. for Brecon end Radnor ... .Tephcott. Alfred Roger, M.P. for Yardley Jcssell. Sir Herbert Merton, Bt.. C.B.. C.M.G., Baron Jessel of Westminster</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+        <Honour>M.P.</Honour>
+        <Honour>Bt</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>1</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -312,28 +383,52 @@
     <MainItem>
       <Key>Jewson</Key>
       <Forenames>Dorothea</Forenames>
-      <Text>, M.P. for Norwich ... ... ... John. William, M.P. for Rhondda. W ohnson, Sir Louis Stanley, M.P. for Walthniiistow, E</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
+      <PageNumber>1921</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <KeyDitto>___ ___</KeyDitto>
+  <KeyDitto>___ ___ ___</KeyDitto>
+  <KeyDitto>___ ___ ___</KeyDitto>
+  <KeyDitto>___ ___</KeyDitto>
+  <KeyDitto>___ ___ —-</KeyDitto>
+  <KeyDitto>___ ___ ___</KeyDitto>
+  <KeyDitto>___ ___ ___</KeyDitto>
+  <KeyDitto>___ ___ ___</KeyDitto>
+  <KeyDitto>___ ___ ___</KeyDitto>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___</KeyDitto>
+      </Key>
+      <Forenames>William Warren</Forenames>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>367</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Johnstone, Harcourt, M.P. for Willesden, E;</Text>
-      <PageNumber>367</PageNumber>
+      <Text>
+        <PageNumber>5</PageNumber>
+      </Text>
+      <PageNumber>359</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>___ ___ Henry Hadyn, M.P. for Merioneth</Text>
-      <PageNumber>363</PageNumber>
+      <Text>
+        <PageNumber>362</PageNumber>
+        <PageNumber>360</PageNumber>
+        <PageNumber>5</PageNumber>
+      </Text>
+      <PageNumber>259</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>First Commissioner of Works and Public Buildings</Text>
-      <PageNumber>771</PageNumber>
-    </SubItem>
-    <SubItem>
-      <Text>Kay, Sir Robert Newhald, M.P. for Elland</Text>
-      <PageNumber>368</PageNumber>
-    </SubItem>
-    <SubItem>
-      <Text>Kennedy, Thomas, M.P. for Kirkcaldy</Text>
-      <PageNumber>369</PageNumber>
+      <Text>
+        <PageNumber>866</PageNumber>
+      </Text>
+      <PageNumber>5</PageNumber>
     </SubItem>
   </ItemGroup>
 </Index>

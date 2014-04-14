@@ -47,7 +47,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>B. L.</Forenames>
-      <Text>, O.B.E. (resigns commn. and granted rank of Maj.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>6315</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -274,7 +276,9 @@
       <Key>Hawkes</Key>
       <Title>Lt.</Title>
       <Forenames>F. R.</Forenames>
-      <Text>, O.B.E. (resigns oommn. and granted rank of Lfc.-Cbl.) :</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>6315</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -343,7 +347,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Hawks</Key>
-      <Text>Maj. (now Lt.-Col.) G. A.. O.B.E. (temp. Lt.-Cbl. while Asst. Dir. of Grass Farms)</Text>
+      <Title>Maj. (now Lt.-Col.)</Title>
+      <Forenames>G. A.</Forenames>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>5040</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -370,7 +378,9 @@
       <Key>Hay</Key>
       <Title>Maj.</Title>
       <Forenames>A. S.</Forenames>
-      <Text>, D.S.O. (Lt.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5972</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -998,7 +1008,10 @@
       <Key>Hendry</Key>
       <Title>Capt.</Title>
       <Forenames>F. C</Forenames>
-      <Text>, O.B.E., M.C. (resigns commn., and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6384</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1043,7 +1056,12 @@
       <Key>Hepenstall</Key>
       <Title>Col.</Title>
       <Forenames>M. E. Dopping-</Forenames>
-      <Text>, C.B.E., D.S.O., see DoppingHepenstall, Col. M. E., C.B.E., D.S.O. Heppolette, Lt. F. H. (resigns commn., and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>C.B.E.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6781</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1096,7 +1114,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>V. A.</Forenames>
-      <Text>, M.C. (resigns commn., and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6385</PageNumber>
     </MainItem>
   </ItemGroup>

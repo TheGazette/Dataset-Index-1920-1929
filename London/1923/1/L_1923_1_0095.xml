@@ -23,7 +23,11 @@
     <MainItem>
       <Key>Loch</Key>
       <Title>Lt.-Col.</Title>
-      <Text>&amp; Bt. Col. (temp. Brig.-Gen.) G. G., C.M.G., D. S.O. (Bde. Comdr., Waziristan Field Force)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D. S.O.</Honour>
+      </Text>
       <PageNumber>811</PageNumber>
     </MainItem>
     <SubItem>
@@ -45,7 +49,10 @@
       <Key>Luby</Key>
       <Title>Capt.</Title>
       <Forenames>M.</Forenames>
-      <Text>, D.S.O., M.C. (G.S.O., 3rd Grade (Intel.), A.H.Q., G.S.Bch.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2078</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -53,7 +60,10 @@
     <MainItem>
       <Key>Lucas</Key>
       <Forenames>Col</Forenames>
-      <Text>(temp. Brig.-Gen.) F, G., C.B., C.S.I., D.S.O. (Bde. Comdr., Waziristan Field Force)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>811</PageNumber>
     </MainItem>
     <SubItem>
@@ -65,7 +75,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Luddinj</Key>
-      <Text>?, Maj. &amp; Bt. Lt.-Col. T. S., O.B.E. (Not. m Gaz., 13th June, 1922, of appt. as Dep. Asst. Dir. of Med. Services, Waziristan Field Force)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>819</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -73,7 +86,11 @@
     <MainItem>
       <Key>Lund</Key>
       <Title>Capt.</Title>
-      <Text>&amp; Bt. Maj. O. M., D.S.O. (A.D.C. to H.E. the C.-in-C.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>A.D.C.</Honour>
+      </Text>
       <PageNumber>2079</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -90,12 +107,17 @@
       <Key>Lynch</Key>
       <Title>Lt. (temp. Capt.)</Title>
       <Forenames>J. A.</Forenames>
-      <Text>(A.D.C., Waziristan Field Force)</Text>
+      <Text>
+        <Honour>A.D.C.</Honour>
+      </Text>
       <PageNumber>814</PageNumber>
     </MainItem>
     <SubItem>
       <Text>
+        <Honour>A.D.C.</Honour>
         <PageNumber>814</PageNumber>
+        <Honour>A.D.C.</Honour>
+        <Honour>A.D.C.</Honour>
       </Text>
       <PageNumber>819</PageNumber>
     </SubItem>
@@ -113,7 +135,10 @@
       <Key>Mclntyre</Key>
       <Title>Lt. (temp. Maj.)</Title>
       <Forenames>J.</Forenames>
-      <Text>, M.C., D.C.M. (Dep. Asst. Dir. of Works, Waziristan Field Force)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>815</PageNumber>
     </MainItem>
     <SubItem>
@@ -137,7 +162,9 @@
       </Key>
       <Title>Col. (temp. Brig.-Gen.)</Title>
       <Forenames>T. R.</Forenames>
-      <Text>, C.M.G., Brig. -Comdr., Waziristan Field Force)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>811</PageNumber>
     </MainItem>
     <SubItem>
@@ -167,7 +194,10 @@
       <Key>Manners</Key>
       <Title>Maj.</Title>
       <Forenames>C. M. S.</Forenames>
-      <Text>, D.S.O., M.C. (D.A.D., A. &amp;T. Forces, A.H.Q.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2078</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -247,7 +277,10 @@
       <Key>Matheson</Key>
       <Title>Maj. Gen.</Title>
       <Forenames>T. G.</Forenames>
-      <Text>, C.B., C.M.G. (Force Comd., Waziristan Field Force)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>811</PageNumber>
     </MainItem>
     <SubItem>
@@ -282,7 +315,9 @@
       <Key>Meredith</Key>
       <Title>Capt. (temp. Maj.)</Title>
       <Forenames>A. E.</Forenames>
-      <Text>, M.C. (Dep. Asst. Dir. of Sigs., Waziristan Field Force)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>817</PageNumber>
     </MainItem>
     <SubItem>
@@ -346,173 +381,20 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Title>Col. (temp. Col. Comdt,)</Title>
-      <Text>, W. J., C.M.G., D.S.O. (Brig. Comdr., Waziristan Field Force)</Text>
-      <PageNumber>812</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
       <Key>Morgan-Owen</Key>
       <Title>Maj.</Title>
-      <Text>&amp; Bt. Lt.-Col. (temp. Lt. Col.), L. I. G., C.M.G., D.S.O. (Asst. Adjt. &amp; Q.M.G., Waziristan Field Force)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>812</PageNumber>
     </MainItem>
-    <SubItem>
-      <Text>Asst. Adjt. Gen., Waziristan Field Force</Text>
-      <PageNumber>812</PageNumber>
-    </SubItem>
-    <SubItem>
-      <Text>Not. in Gaz., 13th June, 1922, of appts. as Asst. Adjt. &amp; Q.M.G., Asst. Adjt.-Gen., and Asst. Q.M.G., Waziristan Field Force, cancelled</Text>
-      <PageNumber>819</PageNumber>
-    </SubItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Morris</Key>
-      <Forenames>Capt</Forenames>
-      <Text>, K. J.N. (G.S.O.,3rd Grade, Peshawar Dist.)</Text>
-      <PageNumber>2078</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Mortimer</Key>
-      <Title>Maj.</Title>
-      <Forenames>P.</Forenames>
-      <Text>(Dep. Asst. Dir. of S. &amp; T., Waziristan Field Force)</Text>
-      <PageNumber>816</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Moss</Key>
-      <Title>Capt.</Title>
-      <Forenames>C. O. R.</Forenames>
-      <Text>.M.C. (G.S.O., 3rd Grade, Waziristan Field Force)</Text>
-      <PageNumber>812</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Mouat</Key>
-      <Title>Maj.</Title>
-      <Text>(temp. Lt. -Col. G. E. D., D.S.O. (Asst. Adjt. &amp; Q.M.G., Waziristan Field Force)</Text>
-      <PageNumber>812</PageNumber>
-    </MainItem>
-    <SubItem>
-      <Text>Dep. Asst. Adjt. Gen., Waziristan Field Force</Text>
-      <PageNumber>813</PageNumber>
-    </SubItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Mould</Key>
-      <Title>Capt.</Title>
-      <Forenames>G. B.</Forenames>
-      <Text>(rel. appt. of G.S.O., 3rd Grade, A.H.Q., G. S. Bch.)</Text>
-      <PageNumber>2079</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Mulholland</Key>
-      <Title>Capt. (temp. Maj.)</Title>
-      <Text>, H. H., M.B. (Dep. Asst. Dir. of Med. Services, Waziristan Field Force)</Text>
-      <PageNumber>816</PageNumber>
-    </MainItem>
-    <SubItem>
-      <Text>Not. in Gaz., 13th June, 1922, of appt. as Dep. Asst. Dir. . of Med. Services, Waziristan Field Force, cancelled</Text>
-      <PageNumber>819</PageNumber>
-    </SubItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Murland</Key>
-      <Title>Maj.</Title>
-      <Forenames>H. F.</Forenames>
-      <Text>(Dep. Asst. Q.M.G., Waziristan Field Force)</Text>
-      <PageNumber>812</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Murphy</Key>
-      <Title>Lt.-Col.</Title>
-      <Forenames>C. C. R.</Forenames>
-      <Text>(Admin. Comdt. (graded as Asst. Q.M.G.) Waziristan Field Force)</Text>
-      <PageNumber>814</PageNumber>
-    </MainItem>
-    <SubItem>
-      <Text>Not. in Gaz., 13th June, 1922, of appt. as Admin. Comdt., graded as Asst. Q.M.G., Waziristan Field Force, cancelled</Text>
-      <PageNumber>819</PageNumber>
-    </SubItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Muiray</Key>
-      <Title>Maj. (temp. Lt.-Col.)</Title>
-      <Text>, F. S. J. (Asst. Dir. of S. &amp;T., Wana Column)</Text>
-      <PageNumber>819</PageNumber>
-    </MainItem>
-    <SubItem>
-      <Text>Not. in Gaz., 13th June, 1922, of appt. as Asst. Dir. of S. &amp; 1., Waziristan Field Force, cancelled</Text>
-      <PageNumber>819</PageNumber>
-    </SubItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Mushett</Key>
-      <Title>Lt. (temp. Capt.)</Title>
-      <Text>, E. (Rly. Trans. Offr., Waziristan Field Force)</Text>
-      <PageNumber>817</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Myles</Key>
-      <Title>Capt. (temp. Maj.)</Title>
-      <Text>, R. B. O.B.E. (Dep. Asst. Dir. of Med. Services, Waziristan Field Force)</Text>
-      <PageNumber>816</PageNumber>
-    </MainItem>
-    <SubItem>
-      <Text>Not. in Gaz., 13th Jnne, 1922, of appt. as Dep. Asst. Dir. of Med. Services, Waziristan Field Force, cancelled</Text>
-      <PageNumber>819</PageNumber>
-    </SubItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Mylne</Key>
-      <Title>Maj.</Title>
-      <Forenames>R.H.</Forenames>
-      <Text>,M.C. (D A.A.G.)</Text>
-      <PageNumber>2243</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Narriott</Key>
-      <Title>Capt.</Title>
-      <Forenames>C. F.</Forenames>
-      <Text>(Njt. in Gaz., 13th June, 1922, of appt. as Admin. Comdt., graded as Staff Capt., Waziristan Field Force, cancelled)</Text>
-      <PageNumber>819</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Neale</Key>
-      <Title>Maj.</Title>
-      <Forenames>W. W. P.</Forenames>
-      <Text>, O.B.E. (Dep. Asst. Dir. of Vet. Services, Waziristan Field Force)</Text>
-      <PageNumber>817</PageNumber>
-    </MainItem>
-    <SubItem>
-      <Text>Not. in Gaz., 13th June, 1922, of appt. asDep. Asst. Dir. of Vet. Services, Waziristan Field Force, cancelled</Text>
-      <PageNumber>819</PageNumber>
-    </SubItem>
   </ItemGroup>
 </Index>
 

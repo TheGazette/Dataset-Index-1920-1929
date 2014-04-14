@@ -120,7 +120,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sarat</Key>
-      <Text>Kumar .Chaudhuri .(hon.) (and granted hon, rank of Capt.)</Text>
+      <Title>Kumar .Chaudhuri .(hon.) (and granted hon, rank of Capt.)</Title>
       <PageNumber>3547</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -327,6 +327,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Silva</Key>
+      <Forenames>G. P.</Forenames>
+      <Text>(corr. of name)</Text>
+      <PageNumber>4304</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Elayedath</Key>
       <Forenames>Achyuta Menon</Forenames>
       <Text>(temp.)</Text>
@@ -425,7 +433,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Thornton</Key>
-      <Text>F. R., M.C., M.B</Text>
+      <Forenames>F. R.</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4303</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -503,7 +514,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kozhipurath</Key>
-      <Text>Ramunni Menon (temp.)</Text>
+      <Forenames>Ramunni Menon</Forenames>
+      <Text>(temp.)</Text>
       <PageNumber>4304</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -542,7 +554,9 @@
     <MainItem>
       <Key>Brown</Key>
       <Forenames>A. G.</Forenames>
-      <Text>, M.B.E</Text>
+      <Text>
+        <Honour>M.B.E</Honour>
+      </Text>
       <PageNumber>5140</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -614,7 +628,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bamford</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>2799</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -663,8 +677,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, W</Text>
+      <Key>O'Connor</Key>
+      <Forenames>W</Forenames>
       <PageNumber>2800</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1204,7 +1218,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mitchell</Key>
-      <Text>A. J</Text>
+      <Forenames>A. J</Forenames>
       <PageNumber>4100</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1306,7 +1320,9 @@
       <Key>Cuffe</Key>
       <Title>Sir</Title>
       <Forenames>O. F. L. W.</Forenames>
-      <Text>, Bart., V.D</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>5019</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1330,7 +1346,9 @@
     <MainItem>
       <Key>Dwane</Key>
       <Forenames>H. M.</Forenames>
-      <Text>, O.B.E., V.D., A.D.C</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4739</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -32,7 +32,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Adjd</Key>
-      <Text>. &amp;c</Text>
+      <Text>&amp;c</Text>
       <PageNumber>6646</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -140,7 +140,9 @@
       <Key>Domville</Key>
       <Title>Sir</Title>
       <Forenames>J.</Forenames>
-      <Text>, Bart.</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>___ ___ ___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -213,7 +215,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Drew</Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>___ ___ ___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -398,7 +400,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ellwood</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>___ ___ ___ ___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -428,7 +430,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Adjd</Key>
-      <Text>Eec. First Ord. Meet. Engel, A., and 1 f 6327</Text>
+      <Title>Eec.</Title>
+      <Forenames>First Ord</Forenames>
+      <Text>. Meet. Engel, A., and 1 f 6327</Text>
       <PageNumber>___ ___ ___ ___ ___</PageNumber>
     </MainItem>
     <SubItem>

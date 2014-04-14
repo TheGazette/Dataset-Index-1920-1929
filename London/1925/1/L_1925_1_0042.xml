@@ -193,8 +193,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dracott</Key>
-      <Forenames>H. St</Forenames>
-      <Text>. E</Text>
+      <Forenames>H. St. E</Forenames>
       <PageNumber>302</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -291,7 +290,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fallick</Key>
-      <Text>. E. E</Text>
+      <Forenames>E. E.</Forenames>
       <PageNumber>2117</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -447,7 +446,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gillespie</Key>
-      <Text>. H. R</Text>
+      <Forenames>H. R.</Forenames>
       <PageNumber>1527</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -512,8 +511,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gratte</Key>
-      <Forenames>A. E. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>A. E. St. G</Forenames>
       <PageNumber>1701</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -749,8 +747,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>M. E.</Forenames>
-      <Text>de L</Text>
+      <Forenames>M. E. de L</Forenames>
       <PageNumber>453</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -999,8 +996,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hutchinson</Key>
-      <Forenames>R.</Forenames>
-      <Text>de H</Text>
+      <Forenames>R. de H</Forenames>
       <PageNumber>1172</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1203,7 +1199,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kidd</Key>
-      <Text>. G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>1172</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1386,7 +1382,10 @@
     <MainItem>
       <Key>Longmore</Key>
       <Forenames>A. M.</Forenames>
-      <Text>, C.B., D.S.O</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>2204</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1509,7 +1508,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mee</Key>
-      <Text>. G. P</Text>
+      <Forenames>G. P .</Forenames>
       <PageNumber>302</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1735,8 +1734,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Grady, S. C</Text>
+      <Key>O'Grady</Key>
+      <Forenames>S. C .</Forenames>
       <PageNumber>995</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1841,7 +1840,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pankhurst</Key>
-      <Text>. L. T</Text>
+      <Forenames>L. T.</Forenames>
       <PageNumber>2117</PageNumber>
     </MainItem>
   </ItemGroup>

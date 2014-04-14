@@ -18,8 +18,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Penfold</Key>
-      <Forenames>H.</Forenames>
-      <Text>de L</Text>
+      <Forenames>H. de L</Forenames>
       <PageNumber>6208</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -227,8 +226,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilks</Key>
-      <Forenames>B. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>B. St. C</Forenames>
       <PageNumber>5567</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -376,8 +374,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Birnie</Key>
-      <Forenames>E. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>E. St. J</Forenames>
       <PageNumber>4785</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -442,8 +439,8 @@
       <Key>
         <KeyDitto>___ —___ ___</KeyDitto>
       </Key>
-      <Forenames>E.</Forenames>
-      <Text>de G. H</Text>
+      <Forenames>E. de G</Forenames>
+      <Text>. H</Text>
       <PageNumber>4786</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -560,8 +557,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Conry</Key>
-      <Forenames>J.</Forenames>
-      <Text>de L</Text>
+      <Forenames>J. de L</Forenames>
       <PageNumber>5566</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -652,6 +648,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Wilton</Key>
+      <Forenames>J. D</Forenames>
+      <PageNumber>4956</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Dhiraja</Key>
       <Forenames>Singh</Forenames>
       <PageNumber>5566</PageNumber>
@@ -724,8 +727,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Emmott</Key>
-      <Forenames>R. St</Forenames>
-      <Text>. B</Text>
+      <Forenames>R. St. B</Forenames>
       <PageNumber>4457</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1118,8 +1120,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ives</Key>
-      <Forenames>C. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>C. St. J</Forenames>
       <PageNumber>5975</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1314,7 +1315,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Laughton</Key>
-      <Text>F. E</Text>
+      <Forenames>F. E.</Forenames>
       <PageNumber>5840</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1650,15 +1651,17 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, Sir W. F. T</Text>
+      <Key>O'Connor</Key>
+      <Title>Sir</Title>
+      <Forenames>W. F. T.</Forenames>
       <PageNumber>6206</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hagan, R Outram, K. D</Text>
+      <Key>O'Hagan</Key>
+      <Forenames>R</Forenames>
+      <Text>Outram, K. D</Text>
       <PageNumber>4786</PageNumber>
     </MainItem>
   </ItemGroup>

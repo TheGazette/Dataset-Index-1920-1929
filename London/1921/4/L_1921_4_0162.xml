@@ -194,8 +194,8 @@
     <MainItem>
       <Key>Horsford</Key>
       <Title>temp. Lt.</Title>
-      <Forenames>G. G. O</Forenames>
-      <Text>'B. (rel. rommn. on completion of service, and retains rank of Lt.)</Text>
+      <Forenames>G. G. O'B</Forenames>
+      <Text>. (rel. rommn. on completion of service, and retains rank of Lt.)</Text>
       <PageNumber>9443</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -226,7 +226,9 @@
       <Key>Horsley</Key>
       <Title>Maj. and Bt. Lt.-Col.</Title>
       <Forenames>C. D.</Forenames>
-      <Text>, M.C. (placed on h.p. list on reduction of estabt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9428</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -248,7 +250,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>Roland Cantis</Forenames>
-      <Text>, M.C. (Lt., S. Wales Bord., late Cheshire R., Spec Res.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9614</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -275,7 +279,9 @@
       <Key>Horton</Key>
       <Title>Lt.</Title>
       <Forenames>G. T. S.</Forenames>
-      <Text>, M.C. (trd. to The Bays, from 19th H.) . „</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9426</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -359,7 +365,11 @@
     <MainItem>
       <Key>Hoskins</Key>
       <Title>Maj .</Title>
-      <Text>-Gen. Sir A. R., K.C.B., C.M.G., D.S.O. (Col.)</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>9983</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -370,7 +380,9 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>H. W</Forenames>
-      <Text>„ M.C. (rel. commn. on acc. of illhealth caused by wounds, and retains rank of Lt., corr. of date), Sub. Not</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8901</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -388,7 +400,9 @@
       <Key>Hotchkis</Key>
       <Title>temp. Capt. (late Capt. and Hon. Maj., Highl. Cyc. Bn.) (Hon. Lt. in Army)</Title>
       <Forenames>T. N.</Forenames>
-      <Text>, T.D. (rel. commn. on completion of service, and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>10471</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -480,7 +494,9 @@
       <Key>House</Key>
       <Title>temp. 2nd Lt.</Title>
       <Forenames>A. H. G.</Forenames>
-      <Text>, M.C. (rel. commn. on completion of service, and retains rank of 2nd Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10201</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -502,7 +518,9 @@
       </Key>
       <Title>temp. Capt.</Title>
       <Forenames>J. T.</Forenames>
-      <Text>, M.C. (rel. commn. on completion of service, and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10099</PageNumber>
     </MainItem>
   </ItemGroup>

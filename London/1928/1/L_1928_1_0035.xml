@@ -521,8 +521,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Den Bergh</Forenames>
+      <Key>Van Den</Key>
+      <Forenames>Bergh</Forenames>
       <Text>, R. H. C</Text>
       <PageNumber>767</PageNumber>
     </MainItem>
@@ -887,7 +887,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilkinson</Key>
-      <Text>. W. A. C</Text>
+      <Forenames>W. A. C .</Forenames>
       <PageNumber>1582</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1013,8 +1013,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wintour</Key>
-      <Title>St.</Title>
-      <Forenames>J. F.</Forenames>
+      <Title>St. J.</Title>
+      <Forenames>F.</Forenames>
       <PageNumber>1295</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1134,14 +1134,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Bvodrick</Key>
-      <Text>. A. L</Text>
+      <Forenames>A. L</Forenames>
       <PageNumber>299</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Burdon</Key>
-      <Text>. W. AV</Text>
+      <Forenames>W.</Forenames>
+      <Text>AV</Text>
       <PageNumber>298</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1158,7 +1159,9 @@
       <Key>Dupree</Key>
       <Title>Sir</Title>
       <Forenames>W. T.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>298</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1229,7 +1232,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Malim</Key>
-      <Text>. A. W</Text>
+      <Forenames>A. W</Forenames>
       <PageNumber>299</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1460,8 +1463,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bunbury</Key>
-      <Forenames>N. L. St</Forenames>
-      <Text>. P</Text>
+      <Forenames>N. L. St. P</Forenames>
       <PageNumber>1682</PageNumber>
     </MainItem>
   </ItemGroup>

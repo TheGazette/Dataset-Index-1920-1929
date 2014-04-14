@@ -3,7 +3,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Clarke</Key>
-      <Text>Joseph</Text>
+      <Forenames>Joseph</Forenames>
       <PageNumber>6034</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -137,6 +137,13 @@
       <Key>Dawkins</Key>
       <Forenames>A. E</Forenames>
       <PageNumber>5773</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Burgh</Key>
+      <Forenames>E</Forenames>
+      <PageNumber>4736</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -305,7 +312,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fitzpatriek</Key>
-      <Text>P. J</Text>
+      <Forenames>P. J</Forenames>
       <PageNumber>4903</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1211,8 +1218,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Muscroft</Key>
-      <Forenames>W. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>W. St. C</Forenames>
       <PageNumber>4904</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1267,8 +1273,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Doneven, E. H</Text>
+      <Key>O'Doneven</Key>
+      <Forenames>E. H</Forenames>
       <PageNumber>5893</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1281,8 +1287,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Mealy-Pigott, F. M</Text>
+      <Key>O'Mealy-Pigott</Key>
+      <Forenames>F. M</Forenames>
       <PageNumber>6162</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1403,8 +1409,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Railton</Key>
-      <Forenames>R. St</Forenames>
-      <Text>. E. M</Text>
+      <Forenames>R. St. E</Forenames>
+      <Text>. M</Text>
       <PageNumber>5049</PageNumber>
     </MainItem>
   </ItemGroup>

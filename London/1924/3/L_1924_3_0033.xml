@@ -623,7 +623,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Shaw</Key>
-      <Text>. C. C</Text>
+      <Forenames>C. C</Forenames>
       <PageNumber>7041</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -725,7 +725,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>H. B.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6575</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1083,7 +1085,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Spencer-Smith</Key>
-      <Text>. D. C</Text>
+      <Forenames>D. C</Forenames>
       <PageNumber>6577</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1256,7 +1258,9 @@
       <Key>Stewart-Clark</Key>
       <Title>Sir</Title>
       <Forenames>S.</Forenames>
-      <Text>,Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6980</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1863,8 +1867,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Traill</Key>
-      <Forenames>H. E. O</Forenames>
-      <Text>'B</Text>
+      <Forenames>H. E. O'B</Forenames>
       <PageNumber>5802</PageNumber>
     </MainItem>
   </ItemGroup>

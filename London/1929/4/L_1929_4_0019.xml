@@ -143,7 +143,13 @@
       <Key>Child</Key>
       <Title>Brig. Gen. Sir</Title>
       <Forenames>Smith Hill</Forenames>
-      <Text>, Bt., C.B., C.M.G., D.S.O., M.V.O., Deputy Master of H.M. Household</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>6245</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -168,7 +174,9 @@
       <Key>Clive</Key>
       <Title>Sir</Title>
       <Forenames>Robert Henry</Forenames>
-      <Text>, ; K.C.M.G., H.M. ConsulGeneral at Tehran</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+      </Text>
       <PageNumber>6986</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -185,7 +193,10 @@
     <MainItem>
       <Key>Couper</Key>
       <Forenames>John Charles</Forenames>
-      <Text>, O.B.E., Member, Royal Victorian Order</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>6689</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -194,7 +205,10 @@
       <Key>Courthope</Key>
       <Title>Sir</Title>
       <Forenames>George Loyd</Forenames>
-      <Text>, Bart., M.C., Forestry Commissioner</Text>
+      <Text>
+        <Honour>Bart</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7936</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -219,7 +233,10 @@
     <MainItem>
       <Key>Cran</Key>
       <Forenames>James</Forenames>
-      <Text>, M.D., O.B.E., V.D., Unofficial Member, Legislative Council British . Honduras</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>7070</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -233,10 +250,20 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Comeau</Key>
+      <Forenames>Ernest Alexander</Forenames>
+      <Text>, H.M. Consul at New York</Text>
+      <PageNumber>6986</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Dewar</Key>
       <Title>Hon.</Title>
       <Forenames>John</Forenames>
-      <Text>, O.B.E., Member, Royal Commission on Licensing Laws, Scotland</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>7065</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -253,7 +280,9 @@
       <Key>Donald</Key>
       <Title>Sir</Title>
       <Forenames>Robert</Forenames>
-      <Text>, G.B.E., Member, Royal . Commission on Transport</Text>
+      <Text>
+        <Honour>G.B.E.</Honour>
+      </Text>
       <PageNumber>7216</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -271,7 +300,9 @@
       <Key>Edie</Key>
       <Title>Rev.</Title>
       <Forenames>William</Forenames>
-      <Text>, D.D., Member, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>6689</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -351,7 +382,10 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>John M.C</Forenames>
-      <Text>F.R.C.S. (Edin.), M.D., Member, Royal Commission on . Licensing Laws, Scotland</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>7065</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -447,7 +481,9 @@
     <MainItem>
       <Key>Hartje</Key>
       <Forenames>Harry Gordon</Forenames>
-      <Text>, M.C., Nominated Unofficial Member of the Legislative Council of the Colony of Sierra Leone</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8381</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -480,7 +516,9 @@
     <MainItem>
       <Key>Henniker-Heaton</Key>
       <Forenames>Herbert</Forenames>
-      <Text>, C.M.G., Member of the Executive Council of the Colony of Cyprus</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>7780</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -497,7 +535,11 @@
       <Key>Humphrys</Key>
       <Title>Sir</Title>
       <Forenames>Francis Henry</Forenames>
-      <Text>, G. C.V.O., K.C.M.G., K.B.E., O.I.E., High Commissioner and Commander in Chief, Iraq</Text>
+      <Text>
+        <Honour>C.V.O.</Honour>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>K.B.E.</Honour>
+      </Text>
       <PageNumber>7780</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -506,7 +548,9 @@
       <Key>Iliffe</Key>
       <Title>Sir</Title>
       <Forenames>Edward</Forenames>
-      <Text>, C.B.E., Steward and Bailiff of the Manor of Northstead</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>7304</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -613,7 +657,9 @@
       <Key>Lindley</Key>
       <Title>Hon. Sir</Title>
       <Forenames>Francis Oswald</Forenames>
-      <Text>, K.C.M.G., O.B., 0:B:E., Member of H.M. Privy Council</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+      </Text>
       <PageNumber>7063</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -11,7 +11,9 @@
   <ItemGroup>
     <MainItem>
       <Key>De</Key>
-      <Text>la Motte, Maj. Reginald Barker, D.S.O., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4300</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -43,7 +45,9 @@
     <MainItem>
       <Key>Dixon</Key>
       <Forenames>Charles William</Forenames>
-      <Text>, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>4415</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -53,7 +57,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>William Vibart</Forenames>
-      <Text>, O.B.E., Knight Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4414</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -105,7 +111,10 @@
       </Key>
       <Title>Major and Brevet Lt.-Col.</Title>
       <Forenames>Malcolm Gordon</Forenames>
-      <Text>, D.S.O., M.C., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4412</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -136,7 +145,12 @@
   <ItemGroup>
     <MainItem>
       <Key>Duff</Key>
-      <Text>Admiral Sir Alexander Ludovic, K.C.B.,K.C.V.O., Knight Grand Cross, Order of the British Empire</Text>
+      <Title>Admiral Sir</Title>
+      <Forenames>Alexander Ludovic</Forenames>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>K.C.V.O.</Honour>
+      </Text>
       <PageNumber>4412</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -155,7 +169,10 @@
       <Key>Dundas</Key>
       <Title>Col.</Title>
       <Forenames>Patrick Henry</Forenames>
-      <Text>, D. S.O., O.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>D. S.O.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4300</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -163,7 +180,9 @@
     <MainItem>
       <Key>Dunlop</Key>
       <Title>Major and Brevet Lt.</Title>
-      <Text>Col. Frank Passy, D.S.O., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4412</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -171,7 +190,9 @@
     <MainItem>
       <Key>Dunwoody</Key>
       <Forenames>Robert Browne</Forenames>
-      <Text>, O.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4414</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -187,7 +208,9 @@
     <MainItem>
       <Key>Eales</Key>
       <Forenames>Stanley York</Forenames>
-      <Text>, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>4418</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -195,7 +218,9 @@
     <MainItem>
       <Key>Eaton</Key>
       <Forenames>Walter Musgrave</Forenames>
-      <Text>, M.D., ... Officer, Order of the British &gt; Empire</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>4419</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -204,7 +229,9 @@
       <Key>Elgar</Key>
       <Title>Sir</Title>
       <Forenames>Edward</Forenames>
-      <Text>, O.M., LL.D., Mus. Doc, Master of the Music in Ordinary to His Majesty</Text>
+      <Text>
+        <Honour>O.M.</Honour>
+      </Text>
       <PageNumber>3841</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -213,7 +240,10 @@
       <Key>Eliot</Key>
       <Title>Hon.</Title>
       <Forenames>Montague Charles</Forenames>
-      <Text>, M.V.O., O.B.E., Extra Groom in Waiting to H.M. the King</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>5519</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -221,7 +251,10 @@
     <MainItem>
       <Key>Elliot</Key>
       <Forenames>Walter Elliot</Forenames>
-      <Text>, M.C., M.P. for Glasgow, Kelvingrove Division</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4196</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -274,7 +307,10 @@
       <Key>Erskine</Key>
       <Title>Maj.</Title>
       <Forenames>Claude Ernest</Forenames>
-      <Text>-Torin, M.C., Distinguished Service Order</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>4305</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -283,7 +319,11 @@
       <Key>Evan-Thomas</Key>
       <Title>Admiral Sir</Title>
       <Forenames>Hugh</Forenames>
-      <Text>, K.C.B., K.C.M.G., M.V.O., LL.D., Knight Grand Cross, Order of the Bath</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>4408</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -291,7 +331,10 @@
     <MainItem>
       <Key>Evans</Key>
       <Forenames>Arthur Ernest</Forenames>
-      <Text>, M.B.E., J.P., D.L., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+        <Honour>D.L.</Honour>
+      </Text>
       <PageNumber>4415</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -302,7 +345,9 @@
       </Key>
       <Title>Temp. Lieut.</Title>
       <Forenames>Thomas John</Forenames>
-      <Text>, M.C., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4300</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -313,7 +358,10 @@
       </Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Thomas John Carey</Forenames>
-      <Text>, M.C., sec CareyEvans, Thomas John, M.C. Everall, William Teague, Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4417</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -329,7 +377,9 @@
     <MainItem>
       <Key>Farndale</Key>
       <Forenames>Joseph</Forenames>
-      <Text>, O.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4414</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -353,7 +403,10 @@
     <MainItem>
       <Key>Faulkner</Key>
       <Forenames>Alfred Edward</Forenames>
-      <Text>, C.B.E., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>4409</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -369,7 +422,9 @@
     <MainItem>
       <Key>Ferguson-Davie</Key>
       <Forenames>Henry Augustus</Forenames>
-      <Text>, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>4409</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -386,7 +441,11 @@
       <Key>Fernyhough</Key>
       <Title>Lt.-Col. and Brevet Col.</Title>
       <Forenames>Hugh Clifford</Forenames>
-      <Text>, C.M.G., D.S.O., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>4409</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -394,7 +453,9 @@
     <MainItem>
       <Key>Fidler</Key>
       <Forenames>George Thomas</Forenames>
-      <Text>, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>4415</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -402,7 +463,9 @@
     <MainItem>
       <Key>Fielder</Key>
       <Forenames>Charles Lavington</Forenames>
-      <Text>, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>4415</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -419,7 +482,10 @@
       <Key>Findlav</Key>
       <Title>Sir</Title>
       <Forenames>Mansfeldt</Forenames>
-      <Text>de Cardonnel, K.C.M.G., C.B., Knight Grand Cross, Order of the British Empire</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>4416</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -435,7 +501,9 @@
     <MainItem>
       <Key>Fleming</Key>
       <Forenames>Alfred Milroy</Forenames>
-      <Text>, C.M.G., M.B., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>4419</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -461,7 +529,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>James</Forenames>
-      <Text>, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>4415</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -487,7 +557,9 @@
       <Key>Framingham</Key>
       <Title>Capt.</Title>
       <Forenames>George Edmund</Forenames>
-      <Text>, M.C., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4413</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -513,7 +585,10 @@
       <Key>Frank</Key>
       <Title>Sir</Title>
       <Forenames>Howard George</Forenames>
-      <Text>, Bart., K.C.B., F.S.I., Knight Grand Cross, Order of the British Empire</Text>
+      <Text>
+        <Honour>Bart</Honour>
+        <Honour>K.C.B.</Honour>
+      </Text>
       <PageNumber>4414</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -538,7 +613,9 @@
     <MainItem>
       <Key>Fuller</Key>
       <Forenames>Walter Everard</Forenames>
-      <Text>, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>4417</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -556,7 +633,11 @@
       <Key>Gair</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Sinclair</Forenames>
-      <Text>, O.B.E., D.C.M., T.D., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>D.C.M.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>4412</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -580,7 +661,10 @@
     <MainItem>
       <Key>Game</Key>
       <Forenames>Air Vice Marshal Philip Woolcott</Forenames>
-      <Text>, C.B., D.S.O., Knight Commander, Order of the Bath</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4409</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -630,9 +714,11 @@
   <ItemGroup>
     <MainItem>
       <Key>George</Key>
-      <Title>H.R.H.</Title>
-      <Forenames>The</Forenames>
-      <Text>Prince, K.G., Knight Grand Cross, Royal Victorian Order</Text>
+      <Title>H.R.H. The Prince</Title>
+      <Text>
+        <Honour>K.G.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4411</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -648,7 +734,9 @@
     <MainItem>
       <Key>Gibbins</Key>
       <Forenames>Joseph</Forenames>
-      <Text>, M.P. for Liverpool, West Toxeth Division</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4196</PageNumber>
     </MainItem>
   </ItemGroup>

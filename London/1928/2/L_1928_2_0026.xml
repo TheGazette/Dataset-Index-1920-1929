@@ -5,7 +5,12 @@
       <Key>Gort</Key>
       <Title>Colonel</Title>
       <Forenames>John Standish SurteesPrendergast</Forenames>
-      <Text>, Viscount, V.C., D.S.O., M.V.O., M.C., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>V.C.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.V.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3851</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -14,7 +19,10 @@
       <Key>Gowers</Key>
       <Title>Sir</Title>
       <Forenames>Ernest Arthur</Forenames>
-      <Text>, K.B.E., C.B., Knight Commander, Order of the Bath</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>3348</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -23,7 +31,9 @@
       <Key>Gunter</Key>
       <Title>Colonel</Title>
       <Forenames>Clarence Preston</Forenames>
-      <Text>, C.B.E., Companion, Order of the Indian Empire</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>3851</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -31,7 +41,9 @@
     <MainItem>
       <Key>Gwyer</Key>
       <Forenames>Maurice Linford</Forenames>
-      <Text>, C.B., Knight Commander, Order of the Bath</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>3848</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -47,7 +59,9 @@
     <MainItem>
       <Key>Hadow</Key>
       <Forenames>Robert Henry</Forenames>
-      <Text>, M.C., First Secretary in H.M. Diplomatic Service</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3052</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -63,7 +77,9 @@
     <MainItem>
       <Key>Haigh</Key>
       <Forenames>George William</Forenames>
-      <Text>, M.B.E., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>4204</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -90,7 +106,9 @@
       <Key>Haldane</Key>
       <Title>Professor</Title>
       <Forenames>John Scott</Forenames>
-      <Text>, M.A., M.D.. Hon.LL.D., Hon.D.Sc, F.R.S., Companion of Honour</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3861</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -98,7 +116,9 @@
     <MainItem>
       <Key>Halforth</Key>
       <Forenames>Edgar</Forenames>
-      <Text>, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3848</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -106,7 +126,9 @@
     <MainItem>
       <Key>Hamilton</Key>
       <Forenames>Lieutenant</Forenames>
-      <Text>Colonel N. V. C. Dalrymple, M.V.O., Officer of H.M. Bodyguard in Scotland</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>4018</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -149,7 +171,9 @@
       </Key>
       <Title>Rev.</Title>
       <Forenames>Robert Edward Vernon</Forenames>
-      <Text>, O.B.E., M.A., Hon. Chaplain to His Majesty</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3737</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -157,7 +181,9 @@
     <MainItem>
       <Key>Harari</Key>
       <Forenames>Pasha</Forenames>
-      <Text>, Victor Raphael, C.M.G., Knight</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>3846</PageNumber>
       <PageNumber>4410</PageNumber>
     </MainItem>
@@ -166,7 +192,9 @@
     <MainItem>
       <Key>Harnett</Key>
       <Forenames>Leslie Bennett</Forenames>
-      <Text>, M.B.E., Member of the Legislative Council of the Bermudas or Somers Islands</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3334</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -230,7 +258,16 @@
       <Key>Hatch</Key>
       <Title>Miss</Title>
       <Forenames>Amy Louise</Forenames>
-      <Text>, Member, Order of the British Empire Havercroft, Cyril. Officer, Order of the British Empire</Text>
+      <Text>, Member, Order of the British Empire</Text>
+      <PageNumber>3857</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Havercroft</Key>
+      <Title>Cyril.</Title>
+      <Forenames>Officer</Forenames>
+      <Text>, Order of the British Empire</Text>
       <PageNumber>3858</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -246,7 +283,21 @@
     <MainItem>
       <Key>Hay</Key>
       <Forenames>Clifford Henderson</Forenames>
-      <Text>, C. M.G., M.V.O., Commander, Order of the British Empire Headlam, Captain Edward James, C.S.I., C.M.G., D. S.O., Knight</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
+      <PageNumber>3859</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Headlam</Key>
+      <Title>Captain</Title>
+      <Forenames>Edward James</Forenames>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D. S.O.</Honour>
+      </Text>
       <PageNumber>3847</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -255,7 +306,10 @@
       <Key>Hebb</Key>
       <Title>Major .</Title>
       <Forenames>John Harry</Forenames>
-      <Text>, O.B.E., M.B., B.Ch., R.A.M.C., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3855</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -265,6 +319,25 @@
       <Forenames>Walter</Forenames>
       <Text>, King's Counsel</Text>
       <PageNumber>2811</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Helena</Key>
+      <Forenames>Victoria</Forenames>
+      <Text>
+        <Honour>G.B.E.</Honour>
+        <Honour>R.R.C.</Honour>
+      </Text>
+      <PageNumber>4263</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Henderson</Key>
+      <Forenames>Lieutenant</Forenames>
+      <Text>Commander Denys Arthur, R.N., Officer, Order of the British Empire</Text>
+      <PageNumber>3861</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -296,12 +369,88 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>Henry</Key>
+      <Title>Miss</Title>
+      <Forenames>Eliza Mary George</Forenames>
+      <Text>, Member, Order of the British Empire</Text>
+      <PageNumber>3857</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>William Frederick Albert</Forenames>
-      <Text>, H.R.H. Prince, K.G., G.C.V.O., Baron Culloden, Earl of Ulster and Duke of Gloucester Herbert, Miss Edith Hariet, Member Order of the British Empire Higgins, Air Vice-Marshal Sir John Frederick Andrews, K.B.E., C.B., D.S.O., A.F.C., Knight Commander, Order of the Bath Milbery, George Malcolm, King's Counsel Hildyard, Colonel (temporary Brigadier) Reginald John Thoroton, C.M.G., D.S.O., Companion, Order of the Bath Hiley, Colonel Ernest Haviland, C.B.E., Knight Commander, Order of the British Empire ... ... Hill, Enoch, J.P., F.C.S.I., Knight</Text>
+      <Text>
+        <Honour>K.G.</Honour>
+        <Honour>G.C.V.O.</Honour>
+      </Text>
+      <PageNumber>2433</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Herbert</Key>
+      <Title>Miss</Title>
+      <Forenames>Edith Hariet</Forenames>
+      <Text>, Member Order of the British Empire ^</Text>
+      <PageNumber>857</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Higgins</Key>
+      <Title>Air Vice-Marshal Sir</Title>
+      <Forenames>John Frederick Andrews</Forenames>
+      <Text>
+        <Honour>K.B.E.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>A.F.C.</Honour>
+      </Text>
+      <PageNumber>3848</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Milbery</Key>
+      <Forenames>George Malcolm</Forenames>
+      <Text>, King's Counsel</Text>
+      <PageNumber>2812</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Hildyard</Key>
+      <Title>Colonel (temporary Brigadier)</Title>
+      <Forenames>Reginald John Thoroton</Forenames>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
+      <PageNumber>3848</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Hiley</Key>
+      <Title>Colonel</Title>
+      <Forenames>Ernest Haviland</Forenames>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
+      <PageNumber>3858</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Hill</Key>
+      <Forenames>Enoch</Forenames>
+      <Text>, J.P., F.C.S.I., Knight</Text>
       <PageNumber>3846</PageNumber>
+      <PageNumber>4410</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -310,38 +459,85 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Quartermaster</Forenames>
-      <Text>and Captain Thomas Webster, Member, Order of the British Empire ... Hitchin, Captain Frank Ernest. Member, Order of the British Empire Hockey, Lieutenant Reginald Thomas, T.D., Member, Order of the British Empire Hodson, Christopher, Officer, Order of the British Empire Hogg, Rt. Hon. Sir Douglas -McGarel, Kt., Baron Hailsham of Hailsham ... Hohler, Sir Thomas Beaumont, K.C.M.G., C.B., Envoy Extraordinary and Minister Plenipotentiary to King of Denmark and, Iceland Hollingworth, Councillor Adam Horrocks, J.P., Officer, Order of the British Empire ... ... ... Hollins, Arthur, Member of Parliament for Stoke-on3857 Trent, Hanley Division</Text>
+      <Text>and Captain Thomas Webster, Member, Order of the British Empire</Text>
+      <PageNumber>3853</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Hitchin</Key>
+      <Title>Captain</Title>
+      <Forenames>Frank Ernest</Forenames>
+      <Text>. Member, Order of the British Empire</Text>
+      <PageNumber>3859</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Hockey</Key>
+      <Forenames>Lieutenant Reginald Thomas</Forenames>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
+      <PageNumber>3853</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Hodson</Key>
+      <Forenames>Christopher</Forenames>
+      <Text>, Officer, Order of the British Empire</Text>
+      <PageNumber>3855</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Hohler</Key>
+      <Title>Sir</Title>
+      <Forenames>Thomas Beaumont</Forenames>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>C.B.</Honour>
+      </Text>
+      <PageNumber>2973</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Hollingworth</Key>
+      <Forenames>Councillor Adam Horrocks</Forenames>
+      <Text>, J.P., Officer, Order of the British Empire</Text>
+      <PageNumber>3855</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <KeyDitto>___ ___</KeyDitto>
+  <KeyDitto>___ ___</KeyDitto>
+  <KeyDitto>___ ___</KeyDitto>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Title>Surgeon Commander</Title>
+      <Forenames>Walter Kempson</Forenames>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
+      <PageNumber>3846</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <KeyDitto>___</KeyDitto>
+  <KeyDitto>___ ___ ___ ___</KeyDitto>
+  <KeyDitto>___ ___</KeyDitto>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___</KeyDitto>
+      </Key>
+      <Forenames>Trevor Havard</Forenames>
+      <Text>, King's Counsel</Text>
       <PageNumber>2971</PageNumber>
     </MainItem>
-    <SubItem>
-      <Text>Holmes, Sir Charles John, Knight Commander, Royal Victorian Order</Text>
-      <PageNumber>3851</PageNumber>
-    </SubItem>
-    <SubItem>
-      <Text>___ ___ Harold Kennard, Commander, Order of the British Empire</Text>
-      <PageNumber>3860</PageNumber>
-    </SubItem>
-    <SubItem>
-      <Text>Hopking, Lieutenant Henry Richard, Member, Order of the British Empire</Text>
-      <PageNumber>3853</PageNumber>
-    </SubItem>
-    <SubItem>
-      <Text>Hopkyns, William Stenning, O.B.E., Companion, Order of the Indian Empire</Text>
-      <PageNumber>3850</PageNumber>
-    </SubItem>
-    <SubItem>
-      <Text>Hosker, James Atkinson, M.R.C.S.., J.P., Knight</Text>
-      <PageNumber>3846</PageNumber>
-      <PageNumber>4410</PageNumber>
-    </SubItem>
-    <SubItem>
-      <Text>Howitt, Alfred Bakewell. M.D., Commander, Royal Victorian Order</Text>
-      <PageNumber>3851</PageNumber>
-    </SubItem>
-    <SubItem>
-      <Text>Hunt, Meta, Mrs., Member, Order of the British Empire</Text>
-      <PageNumber>3858</PageNumber>
-    </SubItem>
   </ItemGroup>
 </Index>
 

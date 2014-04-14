@@ -68,7 +68,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lang</Key>
-      <Text>M. B</Text>
+      <Forenames>M. B</Forenames>
       <PageNumber>8450</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -309,8 +309,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lucan</Key>
-      <Forenames>The</Forenames>
-      <Text>Earl of</Text>
+      <Title>The Earl</Title>
+      <Text>of</Text>
       <PageNumber>8450</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -698,15 +698,17 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>J. M. Stirling-</Forenames>
-      <Text>, Bt., see Stirling-Maxwell, Sir J. M. Bt. Mayne, P. B. .:</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6584</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Meade</Key>
-      <Forenames>R. S.</Forenames>
-      <Text>de C</Text>
+      <Forenames>R. S. de C</Forenames>
       <PageNumber>7951</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1153,8 +1155,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, G. W</Text>
+      <Key>O'Brien</Key>
+      <Forenames>G. W</Forenames>
       <PageNumber>6586</PageNumber>
     </MainItem>
   </ItemGroup>

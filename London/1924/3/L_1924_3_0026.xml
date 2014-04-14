@@ -13,7 +13,9 @@
       <Key>James</Key>
       <Title>Colonel</Title>
       <Forenames>Lionel</Forenames>
-      <Text>, D.S.O., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5800</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -24,15 +26,22 @@
       </Key>
       <Title>Captain</Title>
       <Forenames>Thomas Norman</Forenames>
-      <Text>, R.N., Member of the 4th Class of the Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>6136</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Johnson</Key>
-      <Forenames>Rear-</Forenames>
-      <Text>Admiral Charles Duncan, C.B., D.S.O., M.V.O., Member of the Nominated Council for Malta</Text>
+      <Title>Rear-Admiral</Title>
+      <Forenames>Charles Duncan</Forenames>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>5470</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -89,7 +98,9 @@
     <MainItem>
       <Key>Lees</Key>
       <Forenames>William Clare</Forenames>
-      <Text>, O.B.E., J.P., knighted</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>5636</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -146,7 +157,10 @@
       <Key>MacLean</Key>
       <Title>Captain</Title>
       <Forenames>Colin Kenneth</Forenames>
-      <Text>, C.B D.S.O., R.N., Commander of the Royal Victorian Order</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>6136</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -179,7 +193,10 @@
       <Key>Magniac</Key>
       <Title>Brig.-Gen.</Title>
       <Forenames>Charles Lane</Forenames>
-      <Text>, C.M.G., C.B.E., knighted</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>5636</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -256,7 +273,10 @@
       <Key>Mond</Key>
       <Title>Rt. Hon. Sir</Title>
       <Forenames>Alfred Moritz</Forenames>
-      <Text>, Bart., M.P. for Carmarthen</Text>
+      <Text>
+        <Honour>Bart</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>6269</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -265,7 +285,10 @@
       <Key>Moores</Key>
       <Title>Maj.-Gen.</Title>
       <Forenames>Samuel Guise</Forenames>
-      <Text>, C.B., C.M.G., House Governor and Medical Superintendent of the Osborne Convalescent Home for Officers of the Navy, Army, Air Force and Indian Army</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>5895</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -300,7 +323,10 @@
       <Key>Newman</Key>
       <Title>Sir</Title>
       <Forenames>George</Forenames>
-      <Text>, K.C.B., M.D., F.R.C.P., Member of the General Council of Medical Education and Registration for the United Kingdom</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>5619</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -311,7 +337,9 @@
       </Key>
       <Title>Lieut.-Col.</Title>
       <Forenames>John Robert Pretyman</Forenames>
-      <Text>, J.P., D.L., knighted</Text>
+      <Text>
+        <Honour>D.L.</Honour>
+      </Text>
       <PageNumber>5636</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -336,7 +364,9 @@
       <Key>Parker</Key>
       <Title>Captain</Title>
       <Forenames>Henry Wise</Forenames>
-      <Text>, C.B., Companion, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>7101</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -344,7 +374,9 @@
     <MainItem>
       <Key>Parlett</Key>
       <Forenames>Harold George</Forenames>
-      <Text>, C.M.G., knighted</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>5636</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -379,7 +411,10 @@
       <Key>Pipon</Key>
       <Title>Captain</Title>
       <Forenames>James Murray</Forenames>
-      <Text>, M.V.O., O.B.E., Companion, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>7101</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -437,7 +472,10 @@
       <Key>Read</Key>
       <Title>Sir</Title>
       <Forenames>Herbert James</Forenames>
-      <Text>, K.C.M.G., C.B., Governor and Commander-in-Chief of the Island of Mauritius and its Dependencies</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>6977</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -446,7 +484,9 @@
       <Key>Reinold</Key>
       <Title>Captain</Title>
       <Forenames>Harold Owen</Forenames>
-      <Text>, R.N., Commander of the Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>6136</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -455,7 +495,10 @@
       <Key>Rolleston</Key>
       <Title>Sir</Title>
       <Forenames>Humphry Davy</Forenames>
-      <Text>, K.C.B., Baronet</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>5249</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -570,7 +613,9 @@
       <Key>Sleigh</Key>
       <Title>Rt. Hon.</Title>
       <Forenames>William Lowrie</Forenames>
-      <Text>, J.P., D.L., knighted</Text>
+      <Text>
+        <Honour>D.L.</Honour>
+      </Text>
       <PageNumber>5636</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -595,7 +640,9 @@
       <Key>Stiles</Key>
       <Title>Sir</Title>
       <Forenames>Harold Jalland</Forenames>
-      <Text>, K.B.E., LL.D., M.B., C.M.Ed., Honorary Surgeon to His Majesty the King</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+      </Text>
       <PageNumber>5635</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -604,7 +651,9 @@
       <Key>Stonor</Key>
       <Title>Sir</Title>
       <Forenames>Harry Julian</Forenames>
-      <Text>, K.C.V.O., Secretary and Registrar of the Order of Merit</Text>
+      <Text>
+        <Honour>K.C.V.O.</Honour>
+      </Text>
       <PageNumber>5157</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -659,7 +708,9 @@
     <MainItem>
       <Key>Utting</Key>
       <Forenames>John</Forenames>
-      <Text>, J.P., D.L., M. R. C. S., L. R. C. P., knighted</Text>
+      <Text>
+        <Honour>D.L.</Honour>
+      </Text>
       <PageNumber>5636</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -684,7 +735,9 @@
       <Key>Watson</Key>
       <Title>Sir</Title>
       <Forenames>Alfred William</Forenames>
-      <Text>. K.C.B., Member, Royal Commission on National Health Insurance</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+      </Text>
       <PageNumber>5400</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -694,7 +747,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Arthur</Forenames>
-      <Text>, C.B.E., LL.D., knighted</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>5636</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -704,7 +759,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Malcolm</Forenames>
-      <Text>,' M.D., knighted</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>5636</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -720,7 +777,10 @@
     <MainItem>
       <Key>Wedgwood</Key>
       <Forenames>Ralph Lewis</Forenames>
-      <Text>, C.B., C.M.G., knighted ... '</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>5636</PageNumber>
     </MainItem>
   </ItemGroup>

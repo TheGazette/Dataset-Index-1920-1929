@@ -97,7 +97,10 @@
       <Key>Huskisson</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>W. G.</Forenames>
-      <Text>, C.B.E., D.S.O. (retires on ret. pay)</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>720</PageNumber>
     </MainItem>
     <SubItem>
@@ -226,7 +229,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hutchins</Key>
-      <Text>. Gentleman Cadet Herbert Reginald Page (2nd Lt., R.E.)</Text>
+      <Forenames>Gentleman</Forenames>
+      <Text>Cadet Herbert Reginald Page (2nd Lt., R.E.)</Text>
       <PageNumber>910</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -313,7 +317,10 @@
       </Key>
       <Title>temp. 2nd Lt.</Title>
       <Forenames>G. E.</Forenames>
-      <Text>, M.C., D.C.M. (rel. commn. on completion of service and retains rank of 2nd Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>353</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -366,7 +373,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>L.</Forenames>
-      <Text>(Lt., Reg. Army Res. of Offrs., Gen. List, Machine Gun, late M.G.C.)</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>1715</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -400,7 +409,9 @@
       <PageNumber>1166</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Rel. commn. on completion of service and retains Bt. rank of Lt.-Col</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>1176</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -480,7 +491,9 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>P. F.</Forenames>
-      <Text>, M.C. (rel. commn. on completion of service and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>

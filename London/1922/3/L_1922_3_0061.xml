@@ -2,35 +2,40 @@
 <Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="061" pageID="https://www.thegazette.co.uk/id/London/index/year/1922/volume/3/page/061" pagePDF="https://www.thegazette.co.uk/London/index/year/1922/volume/3/page/061" pageRDF="https://www.thegazette.co.uk/London/index/year/1922/volume/3/page/061?view=linked-data" type="index" volume="3" year="1922">
   <ItemGroup>
     <MainItem>
-      <Key>
-        <PageNumber>___</PageNumber>
-        <KeyDitto>___</KeyDitto>
-      </Key>
-      <Forenames>Tully</Forenames>
-      <Text>,</Text>
-      <PageNumber>___ ___ ___ ___ ___</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
-  <ItemGroup>
-    <MainItem>
-      <Key>Tutt</Key>
-      <PageNumber>___ ___ ___ ___ ___</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
-  <ItemGroup>
-    <MainItem>
       <Key>Tulloch</Key>
       <Title>Capt.</Title>
       <Forenames>J. C.</Forenames>
       <Text>(resigns ebmmn. and retains rank of Capt.)</Text>
       <PageNumber>6639</PageNumber>
     </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Title>Maj.</Title>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
+      <PageNumber>6378</PageNumber>
+    </MainItem>
     <SubItem>
       <Text>Placed h.p. list on ceasing to be empld. at R. Mil. Academy, Woolwich, on acc. of ill-health (Sub. Not.)</Text>
       <PageNumber>6906</PageNumber>
     </SubItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Tully</Key>
+      <Title>Lt.</Title>
+      <Forenames>C. L. D.</Forenames>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
+      <PageNumber>5360</PageNumber>
+    </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
@@ -44,6 +49,17 @@
       <Text>Date of seniority</Text>
       <PageNumber>5034</PageNumber>
     </SubItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___</KeyDitto>
+      </Key>
+      <Title>Capt. (ret.)</Title>
+      <Forenames>R.</Forenames>
+      <Text>(Capt., Reg. Army Res. of Off., Regtl. List, R.H. and R.F.A.)</Text>
+      <PageNumber>5106</PageNumber>
+    </MainItem>
     <SubItem>
       <Text>Date of seniority</Text>
       <PageNumber>5106</PageNumber>
@@ -51,10 +67,23 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___</KeyDitto>
+      </Key>
+      <Title>2nd Lt.</Title>
+      <Forenames>Rex Lloyd</Forenames>
+      <Text>(2nd Lt., Reg. Army Res. of Off., Regtl. List, Middx R., late Serv. Bn.)</Text>
+      <PageNumber>5433</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Turnor</Key>
       <Title>Capt.</Title>
       <Forenames>H. B.</Forenames>
-      <Text>, M.C. (Capt,, 17th/21st L., from 17th L.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5706</PageNumber>
     </MainItem>
     <SubItem>
@@ -83,17 +112,24 @@
       <Text>(retires, receiving a gratuity and granted rank of Capt.)</Text>
       <PageNumber>6296</PageNumber>
     </MainItem>
-    <SubItem>
-      <Text>Lt. A. R. (rel. commn. and retains rank of Lt.)</Text>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Tutt</Key>
+      <Title>Lt.</Title>
+      <Forenames>A. R.</Forenames>
+      <Text>(rel. commn. and retains rank of Lt.)</Text>
       <PageNumber>6713</PageNumber>
-    </SubItem>
+    </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Tweedie</Key>
       <Title>Lt.-Col. (ret. pay)</Title>
       <Forenames>D. K.</Forenames>
-      <Text>, D.S.O. (Lt.-Col., Reg. Army Res. of Off., Regtl. List, R.H. and R.F.A.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5280</PageNumber>
     </MainItem>
     <SubItem>
@@ -119,7 +155,9 @@
       <Key>Tynan</Key>
       <Title>Capt.</Title>
       <Forenames>J.</Forenames>
-      <Text>, D.S.O. (retires, receiving a gratuity and granted rank of Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6578</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -128,7 +166,10 @@
       <Key>Tyndale</Key>
       <Title>Maj. and Bt. Lt.-Col.</Title>
       <Forenames>Wentworth F.</Forenames>
-      <Text>, C.M.G., D.S.O , M.D. (rel. terip. rank of Lt.Col.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>6841</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -137,7 +178,9 @@
       <Key>Tyndale-Biscoe</Key>
       <Title>Col. (Hon. Brig.Gen.)</Title>
       <Forenames>J. D. T.</Forenames>
-      <Text>, C.B. (ceases to belong to Res. of Off., having attained the age limit of liability to recall)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>6640</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -155,7 +198,9 @@
       <Key>Tyrrell</Key>
       <Title>Lt.-Col. (h.p. list, late R.A.)</Title>
       <Forenames>J. F.</Forenames>
-      <Text>, C.B.E. (Col.)</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>5034</PageNumber>
     </MainItem>
     <SubItem>
@@ -165,10 +210,22 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___</KeyDitto>
+      </Key>
+      <Forenames>Lt</Forenames>
+      <Text>, W. U. (Adjt., R.C. of Sigs.)</Text>
+      <PageNumber>6159</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Ubsdell</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>T. R.</Forenames>
-      <Text>, D.S.O. (Lt.Col., Reg. Army Res. of Off., Regtl. List, R.H. and R.F.A.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5035</PageNumber>
     </MainItem>
     <SubItem>
@@ -189,8 +246,8 @@
     <MainItem>
       <Key>Unett</Key>
       <Title>Maj.</Title>
-      <Forenames>W. H.</Forenames>
-      <Text>de W. (retires on ret. pay)</Text>
+      <Forenames>W. H. de W</Forenames>
+      <Text>. (retires on ret. pay)</Text>
       <PageNumber>6159</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -199,8 +256,22 @@
       <Key>Upton</Key>
       <Title>Lt.</Title>
       <Forenames>N. R.</Forenames>
-      <Text>, M.B.E. (Adjt.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>5105</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___</KeyDitto>
+      </Key>
+      <Title>Qr.</Title>
+      <Text>
+        <Honour>D.C.M.</Honour>
+      </Text>
+      <PageNumber>6777</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -212,53 +283,324 @@
       <PageNumber>5360</PageNumber>
     </MainItem>
   </ItemGroup>
-  <KeyDitto>___ ___</KeyDitto>
-  <KeyDitto>___ ___ ___ ___</KeyDitto>
-  <KeyDitto>___ ___</KeyDitto>
-  <KeyDitto>___ ___</KeyDitto>
+  <ItemGroup>
+    <MainItem>
+      <Key>Valentine</Key>
+      <Title>2nd Lt.</Title>
+      <Forenames>John William James</Forenames>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
+      <PageNumber>6579</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Valle</Key>
+      <Forenames>Pope</Forenames>
+      <Text>, Lt. E. L. (seed, for service under the Colonial Office)</Text>
+      <PageNumber>6711</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Vance</Key>
+      <Title>temp. Lt.</Title>
+      <Forenames>J. W.</Forenames>
+      <Text>(temp. Capt. whilst empld. as a Staff Capt. Since reld. commn</Text>
+      <PageNumber>6443</PageNumber>
+    </MainItem>
+    <SubItem>
+      <Text>Rel. commn. on completion of service, and retains rank of Lt</Text>
+      <PageNumber>6021</PageNumber>
+    </SubItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Vandeleur</Key>
+      <Title>Maj. and Bt. Lt.-Col.</Title>
+      <Forenames>T. B.</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
+      <PageNumber>6020</PageNumber>
+    </MainItem>
+    <SubItem>
+      <Text>Date of seniority</Text>
+      <PageNumber>6020</PageNumber>
+    </SubItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Varwell</Key>
+      <Title>Maj.</Title>
+      <Forenames>E. H.</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
+      <PageNumber>6443</PageNumber>
+    </MainItem>
+    <SubItem>
+      <Text>Date of seniority</Text>
+      <PageNumber>6443</PageNumber>
+    </SubItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Vaughan</Key>
+      <Title>temp. Lt.</Title>
+      <Forenames>A. T.</Forenames>
+      <Text>(rel. commn. on completion of ser</Text>
+      <PageNumber>6096</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Title>Lt.</Title>
+      <Forenames>W.</Forenames>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
+      <PageNumber>5524</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Vaux</Key>
+      <Title>Maj.</Title>
+      <Forenames>F. B.</Forenames>
+      <Text>(seed, for service on the Staff))</Text>
+      <PageNumber>6774</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___ ___</KeyDitto>
+      </Key>
+      <Title>temp. Lt.-Col.</Title>
+      <Forenames>Francis L.</Forenames>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
+      <PageNumber>5707</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Veal</Key>
+      <Title>Qrmr. and Capt.</Title>
+      <Forenames>J. D. D.</Forenames>
+      <Text>(retires on ret. pay)</Text>
+      <PageNumber>6713</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Vella</Key>
+      <Title>Capt. (Hon. Maj.)</Title>
+      <Forenames>C. D.</Forenames>
+      <Text>(rel. commn.. and granted rank of Maj., with permission to wear prescribed uniform), Sub. Not</Text>
+      <PageNumber>6232</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Title>Lt.</Title>
+      <Forenames>E. J.</Forenames>
+      <Text>(rel. commn., and granted rank of Capt., with permission to wear prescribed uniform), Sub. Not</Text>
+      <PageNumber>6232</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Venning</Key>
+      <Title>Maj. and Bt. Lt.-Col. (temp. Lt.-Col.)</Title>
+      <Forenames>W. K.</Forenames>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
+      <PageNumber>5034</PageNumber>
+    </MainItem>
+    <SubItem>
+      <Text>Date of seniority</Text>
+      <PageNumber>5034</PageNumber>
+    </SubItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Venour</Key>
+      <Title>Capt.</Title>
+      <Forenames>V. W. H.</Forenames>
+      <Text>(trd. to The King's R., from Leinster R.)</Text>
+      <PageNumber>5777</PageNumber>
+    </MainItem>
+    <SubItem>
+      <Text>Precedence and date of seniority</Text>
+      <PageNumber>5777</PageNumber>
+    </SubItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Verbi</Key>
+      <Title>Gent. Cadet</Title>
+      <Forenames>Joseph Boris</Forenames>
+      <Text>(2nd Lt., Border R.)</Text>
+      <PageNumber>6380</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Verge</Key>
+      <Title>Supern. Capt.</Title>
+      <Forenames>L. A. F.</Forenames>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
+      <PageNumber>6376</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Verner</Key>
+      <Title>Lt.</Title>
+      <Forenames>H. W.</Forenames>
+      <Text>(Lt., Reg. Army Res. of Off., Gen. List, Tank, late Tank Corps)</Text>
+      <PageNumber>5611</PageNumber>
+    </MainItem>
+    <SubItem>
+      <Text>Date of seniority</Text>
+      <PageNumber>5611</PageNumber>
+    </SubItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Verney</Key>
+      <Title>Lt. the Hon.</Title>
+      <Forenames>J. H. P.</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
+      <PageNumber>5706</PageNumber>
+    </MainItem>
+    <SubItem>
+      <Text>Date of seniority</Text>
+      <PageNumber>5706</PageNumber>
+    </SubItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Title>Gent. Cadet</Title>
+      <Forenames>Ulick Otway Vortigern</Forenames>
+      <Text>(2nd Lt., Rifle Bde.)</Text>
+      <PageNumber>6380</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Vernon</Key>
+      <Title>temp. Lt.</Title>
+      <Forenames>E. T.</Forenames>
+      <Text>(rel. commn. on completion of service, and retains rank of Lt.)</Text>
+      <PageNumber>5866</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Verschoyle</Key>
+      <Title>Capt.</Title>
+      <Forenames>F. H. H. S.</Forenames>
+      <Text>(retires on ret. pay on acc. of ill-health caused by wounds)</Text>
+      <PageNumber>5431</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Verschoyle-Campbell</Key>
+      <Title>Lt.-Col.</Title>
+      <Forenames>J. V.</Forenames>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
+      <PageNumber>6021</PageNumber>
+    </MainItem>
+    <SubItem>
+      <Text>Date of seniority</Text>
+      <PageNumber>6021</PageNumber>
+    </SubItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Title>Ord. Off., 4th CI., Capt. and Bt. Maj.</Title>
-      <Text>(actg. Lt.-Col. and Ord. Off., 2nd CI.) W. H. McN., O.B.E., M.C. (Ord. Off., 3rd CI., with rank of Maj., and retains actg. rank and grading) Vesey, Lt. C. A. {Lt., Reg. Army Res. of Off., Gen. List, late Br. W.I.R.) Date of seniority Vezey, 2nd Lt. W. J. (Lt.) Vian, Capt. Christopher Arthur (Capt., Reg. Army Res. of Off., Regtl. List, C. Gds., late 6579 Spec. Res.)</Text>
-      <PageNumber>6378</PageNumber>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
+      <PageNumber>5610</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Vesey</Key>
+      <Title>Lt.</Title>
+      <Forenames>C. A.</Forenames>
+      <Text>{Lt., Reg. Army Res. of Off., Gen. List, late Br. W.I.R.)</Text>
+      <PageNumber>5779</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>
-        <PageNumber>6378</PageNumber>
-      </Text>
-      <PageNumber>5707</PageNumber>
-    </SubItem>
-    <SubItem>
       <Text>Date of seniority</Text>
-      <PageNumber>5432</PageNumber>
+      <PageNumber>5779</PageNumber>
     </SubItem>
-    <SubItem>
-      <Text>Date of seniority</Text>
-      <PageNumber>6641</PageNumber>
-    </SubItem>
-    <SubItem>
-      <Text>Date of seniority</Text>
-      <PageNumber>6510</PageNumber>
-    </SubItem>
-    <SubItem>
-      <Text>Date of seniority</Text>
-      <PageNumber>6907</PageNumber>
-    </SubItem>
-    <SubItem>
-      <Text>Wainwright, 2nd Lt. H. G. (Lt.)</Text>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Vezey</Key>
+      <Title>2nd Lt.</Title>
+      <Forenames>W. J.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>5359</PageNumber>
-    </SubItem>
-    <SubItem>
-      <Text>Date of seniority</Text>
-      <PageNumber>5611</PageNumber>
-    </SubItem>
-    <SubItem>
-      <Text>' Date of seniority</Text>
-      <PageNumber>5609</PageNumber>
-    </SubItem>
+    </MainItem>
+  </ItemGroup>
+  <KeyDitto>___ ___</KeyDitto>
+  <KeyDitto>___ ___ ___</KeyDitto>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Title>Lt.</Title>
+      <Forenames>R. W.</Forenames>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>V.C.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>K.G.</Honour>
+        <Honour>K.T.</Honour>
+        <Honour>G.C.M.G.</Honour>
+        <Honour>G.C.V.O.</Honour>
+        <Honour>G.B.E.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>A.D.C.</Honour>
+      </Text>
+      <PageNumber>6378</PageNumber>
+    </MainItem>
   </ItemGroup>
 </Index>
 

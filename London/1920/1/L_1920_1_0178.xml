@@ -12,7 +12,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Bowman-Manif</Key>
-      <Text>ord, Lt.-Col. and Bt. Col. (temp. Brig.-Gen.) Sir Michael Graham Egerton, K.B.E., C.B., C.M.G., D.S.O. (A.D.C. to the King)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>K.B.E.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>A.D.C.</Honour>
+      </Text>
       <PageNumber>3260</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -41,7 +48,12 @@
       </Key>
       <Title>Maj.-Gen.</Title>
       <Forenames>G. F.</Forenames>
-      <Text>, C.B., C.M.G., D.S.O.,.D.C.M. (temp. Gen. Oar. Comdg.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>3612</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -50,7 +62,9 @@
       <Key>Boyle</Key>
       <Title>Capt. (temp. Lt.-Col.)</Title>
       <Forenames>C. R. C</Forenames>
-      <Text>, D. S.O. (Comdt. attd. to Hd.-Qr. Unit, and retains temp, rank of Lt.-Col.)</Text>
+      <Text>
+        <Honour>D. S.O.</Honour>
+      </Text>
       <PageNumber>2024</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -59,7 +73,9 @@
       <Key>Brachi</Key>
       <Title>Lt.</Title>
       <Forenames>M.</Forenames>
-      <Text>, M.C. (rel. appt. as Rly. Traffis Ofr., CI. GG)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3508</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -90,7 +106,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Brai</Key>
-      <Text>3took, Mij. J., M.C. (Asst. Dir. of Graves Registration and Enquiries, CI. X, and temp. Lt.-Col.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2306</PageNumber>
     </MainItem>
     <SubItem>
@@ -112,7 +130,11 @@
       <Key>Braithwaite</Key>
       <Title>Col.</Title>
       <Forenames>W. G.</Forenames>
-      <Text>, C.B., C.M.G., D.S.O. (rel. appt. as Brig. Comdr. attd. to Hd.-Qr. Unit, and temp, rank of Brig.Gen.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>2848</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -121,7 +143,9 @@
       <Key>Brancker</Key>
       <Title>Maj.</Title>
       <Forenames>H. R.</Forenames>
-      <Text>, D.S.O. (Maj. Instr. in Gunnery attd. to Hd.Qr. Unit, and seed.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1546</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -148,7 +172,9 @@
       <Key>Breffit</Key>
       <Title>Capt.</Title>
       <Forenames>G. V.</Forenames>
-      <Text>, M.C. (temp. Staff Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1546</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -157,7 +183,9 @@
       <Key>Bressey</Key>
       <Title>temp. Lt. (temp. Maj.)</Title>
       <Forenames>C. H.</Forenames>
-      <Text>, O.B.E. (corr. of date of appt. as Dir. of Roads, CI. X, and temp, rank of Lt.-Col.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>320</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -175,7 +203,10 @@
       <Key>Bridge</Key>
       <Title>Maj.</Title>
       <Forenames>C. E. D.</Forenames>
-      <Text>, D.S.O., M.C. (G.S.O., 2nd Gr., at War Office)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2888</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -184,7 +215,11 @@
       <Key>Bridgwater</Key>
       <Title>Maj.</Title>
       <Forenames>H. N.</Forenames>
-      <Text>, D.S.O., O.B.E., T.D. (rel. appt. as D. A.A.G.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>O.B.E.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>667</PageNumber>
     </MainItem>
     <SubItem>
@@ -199,7 +234,9 @@
       <Key>Brierly</Key>
       <Title>temp. Capt. and Bt. Maj.</Title>
       <Forenames>J. L.</Forenames>
-      <Text>, O.B.E. (rel. appt. as . D.A.A.G.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>649</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -237,7 +274,9 @@
       <Key>Brightman</Key>
       <Title>Lt.</Title>
       <Forenames>J. H.</Forenames>
-      <Text>, O.B.E. (rel. appt. as Instr., CI. EE, and temp, rank of Maj. whilst empld. with a British Mil. Mission)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>166</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -264,7 +303,9 @@
       <Key>Brissenden</Key>
       <Title>Lt.</Title>
       <Forenames>H.</Forenames>
-      <Text>, M.C. (spec. appt., CI. HH)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2566</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -308,8 +349,8 @@
     <MainItem>
       <Key>Brodie</Key>
       <Title>Capt.</Title>
-      <Forenames>M. W. O</Forenames>
-      <Text>'C. (rel. appt. as R.T.O., CI. FF)</Text>
+      <Forenames>M. W. O'C</Forenames>
+      <Text>. (rel. appt. as R.T.O., CI. FF)</Text>
       <PageNumber>803</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -329,7 +370,10 @@
       <Key>Brooke</Key>
       <Title>Bt. Lt.-Col.</Title>
       <Forenames>G. F. H.</Forenames>
-      <Text>, D.S.O., M.C. (rel. appt. as G.S.O., 2nd Gr., General Staff)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>165</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -338,7 +382,9 @@
       <Key>Broomfield</Key>
       <Title>Lt. (temp. Capt.)</Title>
       <Forenames>A. A.</Forenames>
-      <Text>, M.C. (rel. appt. as Staff Capt. attd. to,Hd.-Qr. Unit),' Sub. Not</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2043</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -347,7 +393,10 @@
       <Key>Brough</Key>
       <Title>Bb. Lt.-Col. (temp. Brig.Gbn.)</Title>
       <Forenames>A.</Forenames>
-      <Text>, C.M.G., D.S.O. (Rly. Adviser, CI. T, and retains temp, rank of Brig.-Gen.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>314</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -356,7 +405,9 @@
       <Key>Broughton</Key>
       <Title>Maj.</Title>
       <Forenames>G. D.</Forenames>
-      <Text>, O.B.E. (rel. appt. as G.S.O., 2nd Gr., General Staff)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>1078</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -376,7 +427,9 @@
       </Key>
       <Title>temp. Capt.</Title>
       <Forenames>G. M.</Forenames>
-      <Text>, O.B.E. (rel. appt. as D.A.Q.MG. and temp, rank of Maj.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>1177</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -387,7 +440,9 @@
       </Key>
       <Title>Bb. Maj.</Title>
       <Forenames>H. B.</Forenames>
-      <Text>, D.S.O. (spec. appt., 01. FF)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1078</PageNumber>
     </MainItem>
     <SubItem>
@@ -420,7 +475,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Browne</Key>
-      <Text>. Bt. Lt.-Col. A. D. M., D.S.O. (corr. of date of relg. appt. as A.A. and Q.M.G.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>2019</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -442,7 +500,10 @@
       </Key>
       <Title>Bt. Lt.-Col.</Title>
       <Forenames>J. C</Forenames>
-      <Text>, C.M.G., D.S.O. (corr. of date of relg. appt. as Dep. Dir. of Trans, CI. T, and temp, rank of Lt.Col.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>178</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -465,7 +526,9 @@
       </Key>
       <Title>Bt. Maj.</Title>
       <Forenames>M.</Forenames>
-      <Text>, M.C. (rel. appt. as G.S.O., 2nd Gr., General Staff, and temp, rank of Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2043</PageNumber>
     </MainItem>
     <SubItem>
@@ -499,7 +562,10 @@
       <Key>Browne</Key>
       <Title>Col.</Title>
       <Forenames>S. D.</Forenames>
-      <Text>, C.B., C.B.E. (rel. spec, appt., CJ. GG)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>485</PageNumber>
     </MainItem>
     <SubItem>
@@ -513,7 +579,9 @@
       <Key>Brownlie</Key>
       <Title>temp. Lt.</Title>
       <Forenames>W.</Forenames>
-      <Text>£, M.C. (rel. appt. as Staff Capt. attd. to Hd.-Qr. Unit and temp, rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>14</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -522,7 +590,9 @@
       <Key>Bruce</Key>
       <Title>Lt.</Title>
       <Forenames>G. B.</Forenames>
-      <Text>, M.C. (rel. appt. as Staff Capt. attd. to Hd.-Qr. Unit and temp, rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>302</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -533,7 +603,9 @@
       </Key>
       <Title>Bt. Lt.-Col.</Title>
       <Forenames>K. H</Forenames>
-      <Text>, D.S.O. (D.A.A. andQ.M.G.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1190</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -553,7 +625,9 @@
       <Key>Brudenell-Bruce</Key>
       <Title>Maj.</Title>
       <Forenames>R. H.</Forenames>
-      <Text>, D.S.O. (rel. appt. as G.S.O., 2nd Gr., General Staff)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1055</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -580,7 +654,9 @@
       <Key>Brunskill</Key>
       <Title>Bt. Maj.</Title>
       <Forenames>G. S.</Forenames>
-      <Text>, M.C. (temp. Staff Capt. at War Office, and rel. temp, rank of Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1078</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -589,7 +665,9 @@
       <Key>Bryant</Key>
       <Title>temp. Maj.</Title>
       <Forenames>W. F. B.</Forenames>
-      <Text>, M.C. (rel. spec, appt., CI. BB)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1207</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -598,7 +676,9 @@
       <Key>Bryde</Key>
       <Title>temp. Capt.</Title>
       <Forenames>E. W.</Forenames>
-      <Text>, M.C. (rel. appt. as Dep. Asst. Dir. of Engineering Stores, CI. BB, and temp, rank of Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3517</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -627,7 +707,10 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>J. N.</Forenames>
-      <Text>, D.S.O., M.C. (rel. appt. as G.S.O., 2nd Gr., General Staff,and temp, rank of Maj.), Sub; Not... ..'</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1055</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -647,7 +730,9 @@
       <Key>Buckley</Key>
       <Title>Capt.</Title>
       <Forenames>E. G. M.</Forenames>
-      <Text>(rel. appt. as A.D.C., Personal Staff)</Text>
+      <Text>
+        <Honour>A.D.C.</Honour>
+      </Text>
       <PageNumber>537</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -684,7 +769,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>P. G. W.</Forenames>
-      <Text>(A.D.C., Personal Staff)</Text>
+      <Text>
+        <Honour>A.D.C.</Honour>
+      </Text>
       <PageNumber>1522</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -695,7 +782,9 @@
       </Key>
       <Title>temp. Capt.</Title>
       <Forenames>R. B.</Forenames>
-      <Text>, M.C. (Asst. Lab. Comdt., CI. FF)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>668</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -748,7 +837,9 @@
       <Key>Burgoyne</Key>
       <Title>Lt.</Title>
       <Forenames>C.</Forenames>
-      <Text>M.B.E. (rel. appt., as R.T.O., CI. GG, and temp, rank of Capt.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>2566</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -768,7 +859,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>D. J. G.</Forenames>
-      <Text>, O.B.E. (Empld. on Disposal of Surplus Stores, CI. BB)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>2165</PageNumber>
     </MainItem>
   </ItemGroup>

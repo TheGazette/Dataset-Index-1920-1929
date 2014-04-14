@@ -16,7 +16,9 @@
     <MainItem>
       <Key>Lucas</Key>
       <Forenames>Walter C.</Forenames>
-      <Text>(at own request) Mainguy, Sidney B., M.V.O. (at</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>5201</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -24,7 +26,9 @@
     <MainItem>
       <Key>Murdoch</Key>
       <Forenames>Hugh C</Forenames>
-      <Text>, O.B.E. (at own</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>5607</PageNumber>
     </MainItem>
     <SubItem>
@@ -52,7 +56,9 @@
     <MainItem>
       <Key>Ridgeway</Key>
       <Forenames>Geoffrey E.</Forenames>
-      <Text>, D.S.C. (at</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>5202</PageNumber>
     </MainItem>
     <SubItem>
@@ -64,12 +70,17 @@
     <MainItem>
       <Key>Scobell</Key>
       <Forenames>Claude W</Forenames>
-      <Text>Seymour, Arthur G., D.S.O. (at</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5960</PageNumber>
     </MainItem>
     <KeyDitto>___ ___</KeyDitto>
     <SubItem>
-      <Text>Ralph F., C.M.G., D.S.O</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>6227</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -84,7 +95,9 @@
     <MainItem>
       <Key>Tatham</Key>
       <Forenames>Horace H</Forenames>
-      <Text>Thornley, George S., D.S.O. (at</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5201</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -92,7 +105,9 @@
     <MainItem>
       <Key>Tippett</Key>
       <Forenames>Arthur G.</Forenames>
-      <Text>, D.S.O. (at own</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6440</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -142,7 +157,9 @@
     <MainItem>
       <Key>Gray</Key>
       <Forenames>Colin J.</Forenames>
-      <Text>, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>5031</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -157,7 +174,9 @@
     <MainItem>
       <Key>Johnson</Key>
       <Forenames>Harry H.</Forenames>
-      <Text>, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>5031</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -186,7 +205,9 @@
     <MainItem>
       <Key>Simpson</Key>
       <Forenames>Cecil</Forenames>
-      <Text>, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>5031</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -248,14 +269,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Horslev</Key>
-      <Text>Cecil C. (at own request)</Text>
+      <Forenames>Cecil C.</Forenames>
+      <Text>(at own request)</Text>
       <PageNumber>6092</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, Andrew St. J. (at own request)</Text>
+      <Key>O'Neill</Key>
+      <Forenames>Andrew St. J</Forenames>
+      <Text>. (at own request)</Text>
       <PageNumber>6440</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -313,7 +336,9 @@
     <MainItem>
       <Key>Barnes</Key>
       <Forenames>George E. O.</Forenames>
-      <Text>, O.B.E</Text>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>5607</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -372,6 +397,14 @@
       <Key>Cunninghame-Graham</Key>
       <Forenames>Angus E. M</Forenames>
       <PageNumber>6092</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Wilton</Key>
+      <Forenames>Gordon A. St. J</Forenames>
+      <Text>. M</Text>
+      <PageNumber>6440</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -446,7 +479,10 @@
     <MainItem>
       <Key>Hughes</Key>
       <Forenames>Herbert D. Vaughan-</Forenames>
-      <Text>, see Vaughan-Hughes, Herbert D. Jones, Ronald Langton, D.S.O., see Langton Jones, Ronald, D.S.O. Langford, Ernest (at own request)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6158</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -454,7 +490,9 @@
     <MainItem>
       <Key>Langton-Jones</Key>
       <Forenames>Ronald</Forenames>
-      <Text>, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>6092</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -476,7 +514,9 @@
     <MainItem>
       <Key>Morse</Key>
       <Forenames>John A. V.</Forenames>
-      <Text>, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>6158</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -675,7 +715,9 @@
     <MainItem>
       <Key>Walker</Key>
       <Forenames>Stewart M.</Forenames>
-      <Text>, D.S.C</Text>
+      <Text>
+        <Honour>D.S.C</Honour>
+      </Text>
       <PageNumber>6158</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -768,7 +810,9 @@
     <MainItem>
       <Key>Britton</Key>
       <Forenames>Thomas F.</Forenames>
-      <Text>, D.S.C</Text>
+      <Text>
+        <Honour>D.S.C</Honour>
+      </Text>
       <PageNumber>6227</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -819,7 +863,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Calev</Key>
-      <Text>Henry E</Text>
+      <Forenames>Henry E</Forenames>
       <PageNumber>6227</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -833,7 +877,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Chubb</Key>
-      <Text>Joshua E. G</Text>
+      <Forenames>Joshua E. G</Forenames>
       <PageNumber>5775</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -942,14 +986,17 @@
     <MainItem>
       <Key>Enright</Key>
       <Forenames>Daniel P. J.</Forenames>
-      <Text>, M.V.O., D.S.C</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>6227</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Farranee</Key>
-      <Text>Arthur G. (seniority)</Text>
+      <Forenames>Arthur G.</Forenames>
+      <Text>(seniority)</Text>
       <PageNumber>5607</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1075,7 +1122,9 @@
     <MainItem>
       <Key>Jehan</Key>
       <Forenames>Herbert D.</Forenames>
-      <Text>, D.S.C</Text>
+      <Text>
+        <Honour>D.S.C</Honour>
+      </Text>
       <PageNumber>6227</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1114,7 +1163,9 @@
     <MainItem>
       <Key>Keyes</Key>
       <Forenames>Thomas H.</Forenames>
-      <Text>, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>6227</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1292,7 +1343,9 @@
     <MainItem>
       <Key>Sissmore</Key>
       <Forenames>John E.</Forenames>
-      <Text>, D.S.C. (oorr. of seniority)</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>6509</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1338,7 +1391,9 @@
     <MainItem>
       <Key>Stone</Key>
       <Forenames>Ernest S.</Forenames>
-      <Text>, M.B.E</Text>
+      <Text>
+        <Honour>M.B.E</Honour>
+      </Text>
       <PageNumber>6227</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1518,7 +1573,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Winter</Key>
-      <Text>Edward</Text>
+      <Forenames>Edward</Forenames>
       <PageNumber>6227</PageNumber>
     </MainItem>
   </ItemGroup>

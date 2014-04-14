@@ -383,7 +383,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mo</Key>
-      <Text>.Mullan. T. V. W</Text>
+      <Title>Mullan.</Title>
+      <Forenames>T. V. W</Forenames>
       <PageNumber>6094</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -404,7 +405,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Oldham</Key>
-      <Text>. J. B</Text>
+      <Forenames>J. B</Forenames>
       <PageNumber>5579</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -425,7 +426,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Prentice</Key>
-      <Text>. L. S</Text>
+      <Forenames>L. S</Forenames>
       <PageNumber>4870</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -440,7 +441,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Romary</Key>
-      <Text>. G. W. R</Text>
+      <Forenames>G. W. R</Forenames>
       <PageNumber>5758</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -499,7 +500,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Baker</Key>
-      <Text>. H. S</Text>
+      <Forenames>H. S</Forenames>
       <PageNumber>4870</PageNumber>
       <PageNumber>5758</PageNumber>
     </MainItem>
@@ -507,7 +508,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bramall</Key>
-      <Text>. F. M</Text>
+      <Forenames>F. M.</Forenames>
       <PageNumber>5828</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -521,7 +522,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Eustace</Key>
-      <Text>. F. A</Text>
+      <Forenames>F. A</Forenames>
       <PageNumber>5758</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -637,8 +638,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Washington</Key>
-      <Forenames>J. T.</Forenames>
-      <Text>de S</Text>
+      <Forenames>J. T. de S</Forenames>
       <PageNumber>5201</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -926,8 +926,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bayly</Key>
-      <Forenames>L. J. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>L. J. St. G</Forenames>
       <PageNumber>4324</PageNumber>
       <PageNumber>4324</PageNumber>
     </MainItem>
@@ -1074,7 +1073,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bradford</Key>
-      <Text>. G.F.N</Text>
+      <Forenames>G.F.N</Forenames>
       <PageNumber>5769</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1114,7 +1113,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brake</Key>
-      <Text>. K. S</Text>
+      <Forenames>K. S.</Forenames>
       <PageNumber>5446</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1135,14 +1134,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Britton</Key>
-      <Text>. R. A. C</Text>
+      <Forenames>R. A. C .</Forenames>
       <PageNumber>4324</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Brown</Key>
-      <Text>. L. S. T</Text>
+      <Forenames>L. S. T</Forenames>
       <PageNumber>5446</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1615,10 +1614,16 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Fontenay</Forenames>
-      <Text>, P. A</Text>
+      <Key>De Fontenay</Key>
+      <Forenames>P. A.</Forenames>
       <PageNumber>5913</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Waal</Key>
+      <Forenames>H. J .</Forenames>
+      <PageNumber>6101</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1732,9 +1737,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Heaume</Forenames>
-      <Text>, E. H</Text>
+      <Key>Du Heaume</Key>
+      <Forenames>E. H.</Forenames>
       <PageNumber>4964</PageNumber>
     </MainItem>
   </ItemGroup>

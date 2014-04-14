@@ -20,7 +20,9 @@
     <MainItem>
       <Key>Nicholl</Key>
       <Forenames>Wing Comdr</Forenames>
-      <Text>. Hazelton Robson, O.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>1817</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -37,7 +39,9 @@
     <MainItem>
       <Key>Nirmul</Key>
       <Forenames>Chunder Sen</Forenames>
-      <Text>, O.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>1443</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -53,7 +57,9 @@
     <MainItem>
       <Key>Nortoii</Key>
       <Forenames>Thomas</Forenames>
-      <Text>, C.B.E., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>49</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -76,22 +82,27 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, Arthur John Rushton, M.B., M.C., Companion, Order of S. Michael and S. George</Text>
+      <Key>O'Brien</Key>
+      <Forenames>Arthur John Rush-</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1439</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, Terence James, King's Counsel</Text>
+      <Key>O'Connor</Key>
+      <Forenames>Terence James</Forenames>
+      <Text>, King's Counsel</Text>
       <PageNumber>1448</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Dea, John Vincent, Member of Legislative Council of Newfoundland</Text>
+      <Key>O'Dea</Key>
+      <Forenames>John Vincent</Forenames>
+      <Text>, Member of Legislative Council of Newfoundland</Text>
       <PageNumber>865</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -116,7 +127,10 @@
     <MainItem>
       <Key>Oliphant</Key>
       <Forenames>Lancelot</Forenames>
-      <Text>, C.M.G., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>1438</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -130,8 +144,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, Florence, Mrs., Member, Order of the British Empire</Text>
+      <Key>O'Neill</Key>
+      <Forenames>Florence</Forenames>
+      <Text>, Mrs., Member, Order of the British Empire</Text>
       <PageNumber>1443</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -223,7 +238,9 @@
     <MainItem>
       <Key>Perak</Key>
       <Forenames>Raja Chulan</Forenames>
-      <Text>ibn Sultan Abdullah, C.M.G., Raja-di-Hilir of, Unofficial Member of the Federal Council of the Malay States</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>687</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -231,23 +248,9 @@
     <MainItem>
       <Key>Perowne</Key>
       <Forenames>John Victor Thomas Woolrych Tait</Forenames>
-      <Text>, Commander, Order of St. John of Jerusalem</Text>
-      <PageNumber>49</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Perram</Key>
-      <Forenames>Charles Herbert</Forenames>
-      <Text>, M.l)., Serving Brother, Order of St. John of Jerusalem</Text>
-      <PageNumber>49</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Phillpotts</Key>
-      <Forenames>Bertha Surtees</Forenames>
-      <Text>, Miss O.B.E., M.A., Litt.D., Dame Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>1440</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -255,73 +258,20 @@
     <MainItem>
       <Key>Pickering</Key>
       <Forenames>Alice Mabel</Forenames>
-      <Text>, Mrs., Officer, Order of St. John of Jerusalem</Text>
-      <PageNumber>49</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Piers</Key>
-      <Forenames>Shute Barrington</Forenames>
-      <Text>, Officer, Order, of St, John of Jerusalem</Text>
-      <PageNumber>49</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Pirie</Key>
-      <Forenames>James</Forenames>
-      <Text>, M.D., Serving Brother, Order of St. John of Jerusalem</Text>
-      <PageNumber>49</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Pirie-Gordon</Key>
-      <Forenames>Mabel Alicia</Forenames>
-      <Text>, Mrs., Officer, Order of St. John of Jerusalem</Text>
-      <PageNumber>49</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Pitman</Key>
-      <Forenames>James Campbell</Forenames>
-      <Text>, K.C., Senator of the College of Justice in Scotland</Text>
-      <PageNumber>252</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Pixley</Key>
-      <Forenames>Elizabeth Muriel</Forenames>
-      <Text>, Miss, Officer, Order of 'St. John of Jerusalem</Text>
-      <PageNumber>49</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Plummer</Key>
-      <Forenames>Edgar Stroud</Forenames>
-      <Text>, Knight</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>1436</PageNumber>
-      <PageNumber>2160</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Postlethwaite</Key>
       <Forenames>William Taylor</Forenames>
-      <Text>, O.B.E., Commander, Order of the British Empire</Text>
-      <PageNumber>1441</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Prada</Key>
-      <Forenames>Enrique</Forenames>
-      <Text>, Officer, Order of the British Empire</Text>
-      <PageNumber>1444</PageNumber>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
+      <PageNumber>14</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -331,117 +281,21 @@
       </Key>
       <Title>Mr.</Title>
       <Forenames>Justice</Forenames>
-      <Text>(Henry Sheldon), Knighted</Text>
-      <PageNumber>1448</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Preston</Key>
-      <Forenames>Frederick William</Forenames>
-      <Text>, Member, Order of the British Empire</Text>
-      <PageNumber>1442</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Price</Key>
-      <Title>Major</Title>
-      <Forenames>Charles William Mackay</Forenames>
-      <Text>, M.P., Forestry Commissioner</Text>
-      <PageNumber>541</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Prideaux-Bruce</Key>
-      <Forenames>Humphrey Ingelram</Forenames>
-      <Text>, H.M. ViceConsul in China</Text>
-      <PageNumber>76</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Pritchard</Key>
-      <Forenames>Harry Goring</Forenames>
-      <Text>, Knight</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>1436</PageNumber>
-      <PageNumber>2160</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Protheroe</Key>
       <Forenames>May</Forenames>
-      <Text>, Miss, Serving Sister, Order of St. John of Jerusalem</Text>
-      <PageNumber>50</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Purves</Key>
-      <Title>Colonel</Title>
-      <Forenames>Thomas For-</Forenames>
-      <Text>tune, O.B.E., M.I.E.E., Knight</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>1436</PageNumber>
-      <PageNumber>2160</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Putnam</Key>
-      <Forenames>Frank Henry</Forenames>
-      <Text>, Officer, Order of the British Empire</Text>
-      <PageNumber>1441</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Raby</Key>
-      <Forenames>John William</Forenames>
-      <Text>, Serving Brother,' Order of St. John of Jerusalem</Text>
-      <PageNumber>49</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Rajendra</Key>
-      <Forenames>Narayan Bhanja Deo</Forenames>
-      <Text>, O.B.E., Raja of Kanika, Member of the Executive Council of the Governor of Bihar and Orissa</Text>
-      <PageNumber>322</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Ramsbottom</Key>
-      <Forenames>Edmund Cecil</Forenames>
-      <Text>, M.B.E., Officer, Order of the British Empire</Text>
-      <PageNumber>1441</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Read</Key>
-      <Forenames>Flora Annie</Forenames>
-      <Text>, Miss, Officer, Order of St. John of Jerusalem</Text>
-      <PageNumber>49</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Reid</Key>
-      <Title>Sir</Title>
-      <Forenames>Hugh</Forenames>
-      <Text>, Bt., C.B.E., LL.D., Officer, Order of St</Text>
-      <PageNumber>49</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Rentoul</Key>
-      <Forenames>Gervais Squire Chittick</Forenames>
-      <Text>, M.P., Knight</Text>
-      <PageNumber>2160</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -452,31 +306,34 @@
       <PageNumber>1443</PageNumber>
     </MainItem>
   </ItemGroup>
+  <KeyDitto>___</KeyDitto>
   <ItemGroup>
     <MainItem>
       <Key>
-        <KeyDitto>___</KeyDitto>
+        <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>John Robert</Forenames>
-      <Text>, Officer, Order of the British British Empire ... Robertson, Carrick Hey, M.B., F. R.C.S., L.R.C.P., Knight</Text>
+      <Forenames>Charles Pennycock</Forenames>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>O.B.E.</Honour>
+        <Honour>G.C.B.</Honour>
+        <Honour>G.C.M.G.</Honour>
+        <Honour>C.V.O.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>1436</PageNumber>
     </MainItem>
   </ItemGroup>
-  <KeyDitto>___ ___ ___ ___</KeyDitto>
   <KeyDitto>___ ___ ___</KeyDitto>
   <ItemGroup>
     <MainItem>
       <Key>Rowlands</Key>
       <Forenames>John Frederick</Forenames>
-      <Text>, Officer, Order of the British Empire Russell, Richard John, Member of Parliament, Chester, Eddisbury Division Ryder, Henry Hugh, Officer, Order of the British Empire Sadd, Major John Ambrose; B. Sc, A.C.G.I., A.M.I.E.E., Officer, Order of the British Empire ... Sadiq Muhammad Khan, Captain H. H. Rukn-udDaula Nusrat-i-Jang Hafizul-Mulk Mukhlis-ud-Daula Nawab, Sir, K.C.V.O., Nawab of Bahawalpur, Knight Commanhder, Order of the Star of India</Text>
-      <PageNumber>1438</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Said</Key>
-      <Forenames>Fazl Ali</Forenames>
-      <Text>, Judge of High Court of Judicature at Patna Said, George, Associate Serving Brother, Order of St. John of Jerusalem Samuel, Samuel, M.P., Associate Officer, Order of St. John of Jerusalem Samuelson, .. Sir Herbert, K.B.E., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>K.C.V.O.</Honour>
+        <Honour>M.P.</Honour>
+        <Honour>K.B.E.</Honour>
+      </Text>
       <PageNumber>50</PageNumber>
     </MainItem>
   </ItemGroup>

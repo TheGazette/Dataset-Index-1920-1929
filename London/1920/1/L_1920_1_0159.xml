@@ -50,7 +50,9 @@
     <MainItem>
       <Key>Prickett</Key>
       <Forenames>T.</Forenames>
-      <Text>/Lt. (A. /Maj.) Frederick Cecil, M.C., Officer,. Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1378</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -217,7 +219,9 @@
       <Key>Prys-Owen</Key>
       <Title>Mrs.</Title>
       <Forenames>Marian Antonia</Forenames>
-      <Text>, A.R.R.C., Royal Red Cross, 1st Cl</Text>
+      <Text>
+        <Honour>A.R.R.C.</Honour>
+      </Text>
       <PageNumber>811</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -261,7 +265,9 @@
         <KeyDitto>— ___ ___</KeyDitto>
       </Key>
       <Forenames>Thomas Charles Willis</Forenames>
-      <Text>, O.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3770</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -269,7 +275,11 @@
     <MainItem>
       <Key>Pulteney</Key>
       <Title>Lt.</Title>
-      <Text>-Gen. Sir William Pulteney, K.C.B., K.C.M.G.. D.S.O., Gentleman Usher of the Black Rod</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>711</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -449,7 +459,9 @@
     <MainItem>
       <Key>Quiek</Key>
       <Forenames>Eliza Ellen</Forenames>
-      <Text>, Mrs., M.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3770</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -501,7 +513,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>James Robert</Forenames>
-      <Text>, O.B.E., Knight Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3760</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -509,7 +523,9 @@
     <MainItem>
       <Key>Raeburn</Key>
       <Forenames>Ernest Manifold</Forenames>
-      <Text>, C.B.E., Knight Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>3760</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -551,8 +567,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Raikes</Key>
-      <Forenames>Henry St</Forenames>
-      <Text>. John Digby, D.L., J.P., Commander, Order of the British Empire</Text>
+      <Forenames>Henry St. John Digby</Forenames>
+      <Text>
+        <Honour>D.L.</Honour>
+      </Text>
       <PageNumber>3770</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -706,7 +724,9 @@
     <MainItem>
       <Key>Randell</Key>
       <Forenames>Reginald Maurice Henry</Forenames>
-      <Text>, M.D., M.R.C.S., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3856</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -906,7 +926,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>Sidney</Forenames>
-      <Text>, M.C., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1376</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -923,7 +945,9 @@
       <Key>Reay</Key>
       <Title>Col.</Title>
       <Forenames>William Thomas</Forenames>
-      <Text>, O.B.E., V.D., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3771</PageNumber>
     </MainItem>
   </ItemGroup>

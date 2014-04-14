@@ -31,7 +31,10 @@
       <Key>Swann</Key>
       <Title>Air Vice-Marshal</Title>
       <Forenames>Oliver</Forenames>
-      <Text>, C.B., C.B.E. (Member of Air Council as Air Member for Personnel)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>5713</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -79,7 +82,9 @@
       <Key>Thomson</Key>
       <Title>Sqdn.</Title>
       <Forenames>Leader</Forenames>
-      <Text>(Paymr. Lt.-Cdr., R.N.) George Henry, O.B.E. (rem. attd. for a further year's duty with R.A.F.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>6300</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -87,7 +92,10 @@
     <MainItem>
       <Key>Tillman</Key>
       <Forenames>Herbert Alfred</Forenames>
-      <Text>, M.D. (temp. Capt., R.A.M.C.) (granted temp, commn. as Fit. Lt.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5713</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -194,7 +202,9 @@
       <PageNumber>6163</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Lt.-Cdr., R.N.) Gilbert John, O.B.E. (rel. temp, commn. on</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>6910</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -204,7 +214,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Watson</Forenames>
-      <Text>, Flying Offr. George Louis Gordon, M.M. (trd. to Reserve, CI. B) Flying Offr. Robert Boog-, see</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>6910</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -252,7 +264,9 @@
       <Key>Wigglesworth</Key>
       <Title>Fit. Lt.</Title>
       <Forenames>Horace Ernest Philip</Forenames>
-      <Text>, D.S.C. (granted perm, commn., retaining prerent substantive rank and seniority)</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>6910</PageNumber>
     </MainItem>
     <SubItem>
@@ -311,7 +325,9 @@
       <Key>Worrall</Key>
       <Title>Flight Lt.</Title>
       <Forenames>Henry Vernon</Forenames>
-      <Text>, D.S.C. (trd. to Reserve, CI. A)</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>6582</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -361,7 +377,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Berkshire</Key>
-      <Text>: de Frece, Colonel Sir Walter, Kt., M.P</Text>
+      <Text>
+        <Honour>M.P</Honour>
+      </Text>
       <PageNumber>5972</PageNumber>
     </MainItem>
     <SubItem>
@@ -380,14 +398,19 @@
       <PageNumber>5869</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>Younger, Lt.-Col. James, D. S.O</Text>
+      <Text>
+        <Honour>D. S.O.</Honour>
+      </Text>
       <PageNumber>5869</PageNumber>
     </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Devon</Key>
-      <Text>: Acland, Adml. Sir William Alison Dyke, Bart., C.V.O., F.R.G.S.,</Text>
+      <Text>
+        <Honour>Bart</Honour>
+        <Honour>C.V.O.</Honour>
+      </Text>
       <PageNumber>6581</PageNumber>
     </MainItem>
     <SubItem>
@@ -406,7 +429,9 @@
       <PageNumber>5782</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>Smollett, Maj. Alexander Patrick Drummond Telfer, D.S.O., M.C</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5782</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -417,14 +442,18 @@
       <PageNumber>6382</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Stewart, Sir John Henderson, Bart., F.R.G.S., J.P</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>6382</PageNumber>
     </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Gloucester</Key>
-      <Text>: Balfour, Lt.-Col. Arthur Mackintosh, D.S.O. (resigns commn.)... ... .;</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6778</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -471,7 +500,10 @@
       <PageNumber>6021</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>Maclean, Col. Sir F. D., Bart., K.C.B. (resigns commn.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+        <Honour>K.C.B.</Honour>
+      </Text>
       <PageNumber>6021</PageNumber>
     </SubItem>
     <SubItem>
@@ -482,7 +514,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Lincoln</Key>
-      <Text>: Royds, Lt.-Col. Edmund, O.B.E., M.P</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>5612</PageNumber>
     </MainItem>
     <SubItem>
@@ -510,7 +544,11 @@
     </MainItem>
     <SubItem>
       <Text>
+        <Honour>M.P.</Honour>
         <PageNumber>5782</PageNumber>
+        <Honour>Bt</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
         <PageNumber>5782</PageNumber>
       </Text>
       <PageNumber>5782</PageNumber>
@@ -520,21 +558,28 @@
       <PageNumber>5782</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>Wickham, Col. Henry, C.M.G</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>5782</PageNumber>
     </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Southampton</Key>
-      <Text>: Jeffreys, Maj.-Gen. George Darell, C.B., C.M.G</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G</Honour>
+      </Text>
       <PageNumber>5038</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Surrey</Key>
-      <Text>: . Barclay, Col. Henry Albert, C.V.O. (resigns commn. with permission to wear prescribed uniform),</Text>
+      <Text>
+        <Honour>C.V.O.</Honour>
+      </Text>
       <PageNumber>5283</PageNumber>
     </MainItem>
     <SubItem>

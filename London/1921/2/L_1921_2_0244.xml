@@ -93,7 +93,9 @@
     <MainItem>
       <Key>Buchanan</Key>
       <Forenames>Flying Offr</Forenames>
-      <Text>. W. J., D.F.C. (restd. to active list for temp, duty)</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>3545</PageNumber>
     </MainItem>
     <SubItem>
@@ -360,7 +362,9 @@
       <Key>Chamberlin</Key>
       <Title>Fit. Lt.</Title>
       <Forenames>T. C</Forenames>
-      <Text>, A.F.C. (restd. to active list for temp. duty)</Text>
+      <Text>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>3544</PageNumber>
     </MainItem>
     <SubItem>
@@ -372,7 +376,11 @@
     <MainItem>
       <Key>Chamier</Key>
       <Forenames>Group</Forenames>
-      <Text>Capt. J. A., C.M.G., D.S.O., O.B.E. (Dep. Dir., CI. I)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3752</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -484,7 +492,9 @@
       <Key>Cockerell</Key>
       <Title>Fit. Lt.</Title>
       <Forenames>S.</Forenames>
-      <Text>, A.F.C. (restd. to active list for temp. duty)</Text>
+      <Text>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>3544</PageNumber>
     </MainItem>
     <SubItem>
@@ -624,7 +634,9 @@
       <Key>Cox</Key>
       <Title>Maj.</Title>
       <Forenames>G. H.</Forenames>
-      <Text>, A.F.C. (rel. temp, commn. on acc. of ill-health contracted on active service and permitted to retain rank)</Text>
+      <Text>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>2799</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -633,7 +645,9 @@
       <Key>Craig</Key>
       <Title>Flight</Title>
       <Forenames>Lt J.</Forenames>
-      <Text>, M.D. (granted temp, commn.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3292</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -686,7 +700,9 @@
       <Key>Cruickshank</Key>
       <Title>Miss</Title>
       <Forenames>J. M.</Forenames>
-      <Text>, R.R.C. (Matron-in-Chief)</Text>
+      <Text>
+        <Honour>R.R.C.</Honour>
+      </Text>
       <PageNumber>4550</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -794,7 +810,9 @@
     <MainItem>
       <Key>Davis</Key>
       <Forenames>Flying Offr</Forenames>
-      <Text>, H. D., A.F.C. (restd. to active list for temp, duty)</Text>
+      <Text>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>3544</PageNumber>
     </MainItem>
     <SubItem>
@@ -813,6 +831,15 @@
       <Text>Re-trd. to unempld. list on cessation of temp, duty</Text>
       <PageNumber>5016</PageNumber>
     </SubItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Ooninch</Key>
+      <Title>Lt.</Title>
+      <Forenames>P. J. M. V.</Forenames>
+      <Text>(rel. temp commn. on ceasing to be empld.)</Text>
+      <PageNumber>3543</PageNumber>
+    </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>

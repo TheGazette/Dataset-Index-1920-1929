@@ -2,22 +2,28 @@
 <Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="068" pageID="https://www.thegazette.co.uk/id/London/index/year/1922/volume/2/page/068" pagePDF="https://www.thegazette.co.uk/London/index/year/1922/volume/2/page/068" pageRDF="https://www.thegazette.co.uk/London/index/year/1922/volume/2/page/068?view=linked-data" type="index" volume="2" year="1922">
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Farrell, Maj. William R. (rel. temp, rank of Lt.-Col.)</Text>
+      <Key>O'Farrell</Key>
+      <Title>Maj.</Title>
+      <Forenames>William R.</Forenames>
+      <Text>(rel. temp, rank of Lt.-Col.)</Text>
       <PageNumber>3018</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Flaherty, temp. 2nd Lt. H. F. R. Le G. (rel. commn. on completion of service and retains rank of 2nd Lt.) ... :</Text>
+      <Key>O'Flaherty</Key>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>H. F. R. Le G.</Forenames>
+      <Text>(rel. commn. on completion of service and retains rank of 2nd Lt.) ... :</Text>
       <PageNumber>3124</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Flynn, Maj. D. R. C. D. (retires on ret. pay)</Text>
+      <Key>O'Flynn</Key>
+      <Title>Maj.</Title>
+      <Forenames>D. R. C. D.</Forenames>
+      <Text>(retires on ret. pay)</Text>
       <PageNumber>3950</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -37,7 +43,10 @@
       </Key>
       <Title>Lt.-Col. (local Col.)</Title>
       <Forenames>W. M.</Forenames>
-      <Text>, C.M.G., D.S.O. (Col.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3958</PageNumber>
     </MainItem>
     <SubItem>
@@ -57,7 +66,9 @@
       <Key>Ogle</Key>
       <Title>Maj.</Title>
       <Forenames>E. C</Forenames>
-      <Text>, D.S.O. (retires on ret. pay and granted rank of Lt.^Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4247</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -74,8 +85,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Grady, Capt. E. S. (resigns oommn. and retains rank of Capt.)</Text>
+      <Key>O'Grady</Key>
+      <Title>Capt.</Title>
+      <Forenames>E. S.</Forenames>
+      <Text>(resigns oommn. and retains rank of Capt.)</Text>
       <PageNumber>4553</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -92,15 +105,19 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Herlihy, temp. Chapln., 4th CI., Rev. J. (rel. commn. and to be Hon. Chapln., 4th CI.)</Text>
+      <Key>O'Herlihy</Key>
+      <Title>temp. Chapln., 4th CI., Rev.</Title>
+      <Forenames>J.</Forenames>
+      <Text>(rel. commn. and to be Hon. Chapln., 4th CI.)</Text>
       <PageNumber>3788</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>X</Key>
-      <Text>)*Kelly, Maj. E. J. de Pentheny, D.S.O. (retires on ret. pay and granted rank of Lt.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4246</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -128,7 +145,10 @@
     <MainItem>
       <Key>Oldfleld</Key>
       <Title>Ord. Oft., 2nd CI.</Title>
-      <Text>, and Lt.-Col. A. R., D.S.O. (Bt. Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4924</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -146,7 +166,9 @@
       <Key>Oliphant</Key>
       <Title>temp. Capt.</Title>
       <Forenames>A. J.</Forenames>
-      <Text>, M.B.E. (rel. actg. rank of Maj.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>4250</PageNumber>
     </MainItem>
     <SubItem>
@@ -169,7 +191,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Title>temp.</Title>
-      <Text>.Capt. and Accnt. Off., 6th CI., E., M.C. (rel. commn. on completion of service and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3128</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -237,15 +261,19 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Malley, temp. Qrmr. and Capt. J. (rel. commn. on completion of service and retains rank of ' Capt.)</Text>
+      <Key>O'Malley</Key>
+      <Title>temp. Qrmr. and Capt.</Title>
+      <Forenames>J.</Forenames>
+      <Text>(rel. commn. on completion of service and retains rank of ' Capt.)</Text>
       <PageNumber>3497</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Malley, Capt. T. F. (retires on ret. pay)</Text>
+      <Key>O'Malley</Key>
+      <Title>Capt.</Title>
+      <Forenames>T. F.</Forenames>
+      <Text>(retires on ret. pay)</Text>
       <PageNumber>4401</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -256,7 +284,9 @@
       </Key>
       <Title>temp. Capt.</Title>
       <Forenames>V. D.</Forenames>
-      <Text>, M.C. (now Lt., R. Mun. Fus.) (Adjt., 1st Yemen Infantry)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3415</PageNumber>
     </MainItem>
     <SubItem>
@@ -275,15 +305,19 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Morchoe, Lt. K. G. (seed, for service under the Colonial Office)</Text>
+      <Key>O'Morchoe</Key>
+      <Title>Lt.</Title>
+      <Forenames>K. G.</Forenames>
+      <Text>(seed, for service under the Colonial Office)</Text>
       <PageNumber>4552</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, temp. Chapln., 4th CI., the Rev. W. J. (rel. commn. and apptd. Hon. Chapln., 4th CI.)</Text>
+      <Key>O'Neill</Key>
+      <Title>temp. Chapln., 4th CI., the Rev.</Title>
+      <Forenames>W. J.</Forenames>
+      <Text>(rel. commn. and apptd. Hon. Chapln., 4th CI.)</Text>
       <PageNumber>4028</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -298,8 +332,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Reilly, temp. Qrmr. and Capt. A. P. (rel. commn. on completion of service and retains rank of Capt.)</Text>
+      <Key>O'Reilly</Key>
+      <Title>temp. Qrmr. and Capt.</Title>
+      <Forenames>A. P.</Forenames>
+      <Text>(rel. commn. on completion of service and retains rank of Capt.)</Text>
       <PageNumber>3497</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -307,7 +343,10 @@
     <MainItem>
       <Key>Ormsby-Johnson</Key>
       <Title>Maj.</Title>
-      <Text>and Staff Paymr. G. A. C, O.B.E., M.C. (Lt.-Col.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4476</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -315,8 +354,8 @@
     <MainItem>
       <Key>Orpen-Palmer</Key>
       <Title>Capt.</Title>
-      <Forenames>G.</Forenames>
-      <Text>de M. H. (placed on h.p. list on acc. of ill-health)</Text>
+      <Forenames>G. de M</Forenames>
+      <Text>. H. (placed on h.p. list on acc. of ill-health)</Text>
       <PageNumber>3854</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -324,7 +363,10 @@
     <MainItem>
       <Key>Orren</Key>
       <Forenames>Robert Napier</Forenames>
-      <Text>(I.O.M., 1st CI., with rank of Maj., Reg. Army Res. of Off., Supplementary List, R.A.O.C., late temp. I.O.M., 1st CI., and Maj., R.A.O.C.)</Text>
+      <Text>
+        <Honour>O.M.</Honour>
+        <Honour>O.M.</Honour>
+      </Text>
       <PageNumber>3014</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -366,7 +408,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>H. P.</Forenames>
-      <Text>, D.S.O. (retires on ret. pay and granted rank of Lt.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4721</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -389,7 +433,9 @@
     <MainItem>
       <Key>Osmaston</Key>
       <Title>Supern. Maj.</Title>
-      <Text>TJ. E., M.C. (restd. to estabmt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4022</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -398,14 +444,18 @@
       <Key>Osmond</Key>
       <Title>temp. Qrmr. and Capt.</Title>
       <Forenames>R. W. J.</Forenames>
-      <Text>, M.C. (rel. commn. on completion of service and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2796</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan, temp. Capt. Paul J. (rel. commn. and retains rank of Capt.)</Text>
+      <Key>O'Sullivan</Key>
+      <Title>temp. Capt.</Title>
+      <Forenames>Paul J.</Forenames>
+      <Text>(rel. commn. and retains rank of Capt.)</Text>
       <PageNumber>3957</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -452,11 +502,13 @@
       <Key>Ouzmah</Key>
       <Title>temp. Lt.</Title>
       <Forenames>W. J. C</Forenames>
-      <Text>, M.C. (rel. actg. rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3610</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Rel. commn. on completion of service and granted rank of Capt.</Text>
+      <Text>Rel. commn. on completion of service and granted rank of Capt</Text>
       <PageNumber>3610</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -474,7 +526,10 @@
       <Key>Owen</Key>
       <Title>Maj.</Title>
       <Forenames>B. M.</Forenames>
-      <Text>, O.B.E., M.C. (Maj., Reg. Army Res. of Off., Regtl. List, R.E., late R.E.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3301</PageNumber>
     </MainItem>
     <SubItem>
@@ -515,7 +570,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>R. C. R.</Forenames>
-      <Text>, C.M.G. (rel. local rank of Lt.-Col. on ceasing to be empld. with Egyptian Govt.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>3421</PageNumber>
     </MainItem>
     <SubItem>
@@ -559,7 +616,9 @@
       <Key>Ozanne</Key>
       <Title>Capt.</Title>
       <Forenames>W. M.</Forenames>
-      <Text>, M.C. (restd. to estabt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4643</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -568,7 +627,9 @@
       <Key>Padley</Key>
       <Title>temp. 2nd Lt.</Title>
       <Forenames>H.</Forenames>
-      <Text>, M.M. (rel. commn. on completion of service and retains rank oi 2nd Lt.)</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>3610</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -577,7 +638,9 @@
       <Key>Pagan</Key>
       <Title>Sister Miss</Title>
       <Forenames>A. M.</Forenames>
-      <Text>, A.R.R.C. {actg. Matron, Q.A.I.M.N.S.)</Text>
+      <Text>
+        <Honour>A.R.R.C.</Honour>
+      </Text>
       <PageNumber>4644</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -657,7 +720,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>E. H. B.</Forenames>
-      <Text>, O.B.E. (Capt., Reg. Army Res. of Off., Gen. List)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3018</PageNumber>
     </MainItem>
     <SubItem>

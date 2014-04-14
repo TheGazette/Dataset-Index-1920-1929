@@ -26,14 +26,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Anderson</Key>
-      <Text>. Ian D</Text>
+      <Forenames>Ian D</Forenames>
       <PageNumber>552</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Andrew</Key>
-      <Text>. Henry T</Text>
+      <Forenames>Henry T</Forenames>
       <PageNumber>552</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -153,7 +153,9 @@
     <MainItem>
       <Key>Bradby</Key>
       <Forenames>Mattbew S.</Forenames>
-      <Text>, M.B.E</Text>
+      <Text>
+        <Honour>M.B.E</Honour>
+      </Text>
       <PageNumber>552</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -318,6 +320,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Salis</Key>
+      <Forenames>Antony F.</Forenames>
+      <Text>(seniority)</Text>
+      <PageNumber>642</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Dendy</Key>
       <Forenames>Ronald J. R</Forenames>
       <PageNumber>552</PageNumber>
@@ -373,7 +383,9 @@
       <Key>Dunn</Key>
       <Title>Archd.</Title>
       <Forenames>H. M.</Forenames>
-      <Text>, D.S.C</Text>
+      <Text>
+        <Honour>D.S.C</Honour>
+      </Text>
       <PageNumber>552</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -419,7 +431,9 @@
     <MainItem>
       <Key>Evans</Key>
       <Forenames>Hardress W.</Forenames>
-      <Text>DArcy, see DArcy-Evans, Hardrcss W. Everett, Douglas H., M.B.E</Text>
+      <Text>
+        <Honour>M.B.E</Honour>
+      </Text>
       <PageNumber>552</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -488,7 +502,9 @@
     <MainItem>
       <Key>Giddy</Key>
       <Forenames>Osman C. H.</Forenames>
-      <Text>D.S.C</Text>
+      <Text>
+        <Honour>D.S.C</Honour>
+      </Text>
       <PageNumber>1505</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -527,8 +543,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Griffin</Key>
-      <Forenames>Niall O</Forenames>
-      <Text>'D</Text>
+      <Forenames>Niall O'D</Forenames>
       <PageNumber>552</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -587,7 +602,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Har</Key>
-      <Text>.Iy, Cecil-C</Text>
+      <Forenames>Iy</Forenames>
+      <Text>, Cecil-C</Text>
       <PageNumber>2339</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -679,7 +695,9 @@
     <MainItem>
       <Key>Ingram</Key>
       <Forenames>Arthur G.</Forenames>
-      <Text>, D.S.C</Text>
+      <Text>
+        <Honour>D.S.C</Honour>
+      </Text>
       <PageNumber>469</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -855,7 +873,9 @@
     <MainItem>
       <Key>Mansergh</Key>
       <Forenames>Cecil A. L.</Forenames>
-      <Text>, D.S.C. (seniority)</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>1088</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -902,7 +922,7 @@
       <PageNumber>552</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Sub. Not</Text>
+      <Text>Sub. Not.</Text>
       <PageNumber>1414</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -967,8 +987,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Nicholson</Key>
-      <Forenames>Hugh St</Forenames>
-      <Text>. L</Text>
+      <Forenames>Hugh St. L</Forenames>
       <PageNumber>552</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1202,8 +1221,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sherbrooke</Key>
-      <Title>Robt. St.</Title>
-      <Forenames>V</Forenames>
+      <Title>Robt.</Title>
+      <Forenames>St. V</Forenames>
       <PageNumber>552</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1211,7 +1230,9 @@
     <MainItem>
       <Key>Siffleet</Key>
       <Forenames>Charles E.</Forenames>
-      <Text>, D.S.M</Text>
+      <Text>
+        <Honour>D.S.M</Honour>
+      </Text>
       <PageNumber>2433</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1331,7 +1352,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Thor</Key>
-      <Text>. e,Charles A. R</Text>
+      <Text>e,Charles A. R</Text>
       <PageNumber>2329</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1367,8 +1388,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wailes</Key>
-      <Forenames>John</Forenames>
-      <Text>de B</Text>
+      <Forenames>John de B</Forenames>
       <PageNumber>2329</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1562,6 +1582,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de St</Key>
+      <Forenames>Croix</Forenames>
+      <Text>, John</Text>
+      <PageNumber>963</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Fry</Key>
       <Forenames>Stephen</Forenames>
       <PageNumber>552</PageNumber>
@@ -1571,7 +1599,9 @@
     <MainItem>
       <Key>Giddy</Key>
       <Forenames>Osman C. H.</Forenames>
-      <Text>, D.S.C</Text>
+      <Text>
+        <Honour>D.S.C</Honour>
+      </Text>
       <PageNumber>1953</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1614,8 +1644,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connell, Basil M. B</Text>
+      <Key>O'Connell</Key>
+      <Forenames>Basil M. B.</Forenames>
       <PageNumber>552</PageNumber>
     </MainItem>
   </ItemGroup>

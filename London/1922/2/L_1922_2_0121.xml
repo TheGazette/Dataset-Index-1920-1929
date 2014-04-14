@@ -76,8 +76,8 @@
     <MainItem>
       <Key>Clifford</Key>
       <Title>Capt.</Title>
-      <Forenames>R. E. St</Forenames>
-      <Text>. J. (rel. temp, commn.)</Text>
+      <Forenames>R. E. St. J</Forenames>
+      <Text>. (rel. temp, commn.)</Text>
       <PageNumber>4557</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -86,7 +86,9 @@
       <Key>Cobb</Key>
       <Title>Capt. (now Maj.)</Title>
       <Forenames>C</Forenames>
-      <Text>, O.B.E. (temp. Maj. while D.A. A. and Q.M.G.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3523</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -104,7 +106,9 @@
       <Key>Codrington</Key>
       <Title>Col.</Title>
       <Forenames>H. W.</Forenames>
-      <Text>, C.B. (granted hon. rank of Brig.Gen. on retirement)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>3133</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -154,7 +158,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>G. C</Forenames>
-      <Text>, M.C. (retirement)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3715</PageNumber>
     </MainItem>
     <SubItem>
@@ -167,7 +173,9 @@
       <Key>Corbett</Key>
       <Title>Capt. (Bt. Maj.)</Title>
       <Forenames>T. W.</Forenames>
-      <Text>, M.C. (Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3523</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -185,7 +193,9 @@
       <Key>Coree-Scott</Key>
       <Title>Capt.</Title>
       <Forenames>E. J.</Forenames>
-      <Text>, M.C. (Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3713</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -261,7 +271,9 @@
       <Key>
         <KeyDitto>.</KeyDitto>
       </Key>
-      <Text>C.M.G. (G.O. Comdg., Bombay)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>4254</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -302,7 +314,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>C. T.</Forenames>
-      <Text>, O.B.E. (granted rank of Lt.-Col. on retirement)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3524</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -313,7 +327,9 @@
       </Key>
       <Title>Capt. (actg. Maj.)</Title>
       <Forenames>W.</Forenames>
-      <Text>, O.B.E. (rel. actg. rank on . ceasing to be empld. as Dep6t Suptg. Offr., Base, Iraq)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3714</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -451,7 +467,9 @@
       <Key>Erskine</Key>
       <Title>Lt.</Title>
       <Forenames>W. R.</Forenames>
-      <Text>, M.C. (Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3030</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -460,7 +478,9 @@
       <Key>Etheridge</Key>
       <Title>Capt. (now Maj.)</Title>
       <Forenames>F.</Forenames>
-      <Text>, D.S.O. (temp. Maj. while D. A. Q.M.G.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3031</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -534,7 +554,9 @@
       <Key>Foster</Key>
       <Title>Lt.</Title>
       <Forenames>A. W.</Forenames>
-      <Text>iWeston, see Weston-Foster, Lt. A. W. Fox, Capt. F, N., M.C. (actg. Maj. while 2nd in comd. of a Bn.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4066</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -552,7 +574,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Fox-Male</Key>
-      <Text>Maj. W. C. E T„ M.C. (retires on acc. of ill-health)</Text>
+      <Title>Maj.</Title>
+      <Forenames>W. C. E</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4253</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -633,7 +659,7 @@
       <PageNumber>3031</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Rel. actg. rank on vacating comd. of Bn.</Text>
+      <Text>Rel. actg. rank on vacating comd. of Bn</Text>
       <PageNumber>3343</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -677,11 +703,13 @@
       <Key>Gilchrist</Key>
       <Title>Capt. (now Maj.)</Title>
       <Forenames>W. F. C</Forenames>
-      <Text>, C.I.E., M.V.O. (temp. Maj. while D.A.A. and Q.M.G.)</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>2819</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Lt.nCol.</Text>
+      <Text>Lt.nCol</Text>
       <PageNumber>3030</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -800,7 +828,9 @@
       <Key>Gunn</Key>
       <Title>Maj.</Title>
       <Forenames>A. D.</Forenames>
-      <Text>, D.S.O. (actg. Lt.-Col. while comdg. a Bn.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3874</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -809,7 +839,9 @@
       <Key>Gunning</Key>
       <Title>Maj. (Bt. Lt.-Col.)</Title>
       <Forenames>G. H.</Forenames>
-      <Text>, D. S.O. (Lt.-Col.)</Text>
+      <Text>
+        <Honour>D. S.O.</Honour>
+      </Text>
       <PageNumber>2819</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -866,7 +898,9 @@
       <Key>Harbord</Key>
       <Title>Capt. (now Maj.)</Title>
       <Forenames>L. B.</Forenames>
-      <Text>, M.C. (rel. temp, rank of Maj. ; on ceasing to' be G.S.O., 2nd Grade)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3713</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -875,7 +909,9 @@
       <Key>Harcourt</Key>
       <Title>Capt. ,(now Maj.)</Title>
       <Forenames>E. S.</Forenames>
-      <Text>, M.C. (temp. Maj. while D.A.A.G.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3031</PageNumber>
     </MainItem>
     <SubItem>
@@ -896,7 +932,9 @@
       <Key>Harley</Key>
       <Title>Capt. (now Bt. Lt.-Col.)</Title>
       <Forenames>A. B.</Forenames>
-      <Text>, D.S.O. (temp. Maj. whilst holding appt. as A.P.M., graded as D.A.A.G.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4066</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -914,7 +952,9 @@
       <Key>Harrison</Key>
       <Title>Lt.</Title>
       <Forenames>J. W. H.</Forenames>
-      <Text>, M.C. (trd. to temp, non-effective list)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3032</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -922,7 +962,9 @@
     <MainItem>
       <Key>Haslehurst</Key>
       <Forenames>H. M.</Forenames>
-      <Text>, M.B.E. (granted rank of Maj. on retirement)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3523</PageNumber>
     </MainItem>
   </ItemGroup>

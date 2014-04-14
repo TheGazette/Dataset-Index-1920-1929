@@ -3,7 +3,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Waltoid</Key>
-      <Text>Gent. Cadet Hugh Carr (2nd Lt., 17th/21st L.)</Text>
+      <Title>Gent. Cadet</Title>
+      <Forenames>Hugh Carr</Forenames>
+      <Text>(2nd Lt., 17th/21st L.)</Text>
       <PageNumber>6379</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -13,7 +15,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>A.I.</Forenames>
-      <Text>B.E.M. and Lt. D. (retires on ret. pay, having attained the age limit for retirement)</Text>
+      <Text>
+        <Honour>B.E.M.</Honour>
+      </Text>
       <PageNumber>5035</PageNumber>
     </MainItem>
     <SubItem>
@@ -54,7 +58,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>J. A.</Forenames>
-      <Text>, T.D. (retires, receiving a gratuity)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>6712</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -74,8 +80,8 @@
     <MainItem>
       <Key>Wallace</Key>
       <Title>2nd Lt.</Title>
-      <Forenames>G. H.</Forenames>
-      <Text>de L. (Lt.)</Text>
+      <Forenames>G. H. de L</Forenames>
+      <Text>. (Lt.)</Text>
       <PageNumber>5360</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -97,7 +103,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>J. F.</Forenames>
-      <Text>, M.C. (Adjt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5866</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -108,7 +116,9 @@
       </Key>
       <Title>Maj. and Bt. Lt.-Col.</Title>
       <Forenames>R. F. H.</Forenames>
-      <Text>, C.M.G. (placed on h.p. list' on ceasing to be empld. as Officer i./c. Records)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>6712</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -132,7 +142,9 @@
       <Key>Waller</Key>
       <Title>Maj.</Title>
       <Forenames>R. J. R.</Forenames>
-      <Text>, D.S.O. (rel. appt. of Adjt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5777</PageNumber>
     </MainItem>
     <SubItem>
@@ -145,7 +157,9 @@
       <Key>Wallinger</Key>
       <Title>temp. Maj.</Title>
       <Forenames>J. A.</Forenames>
-      <Text>, C. I.E., D.S.O. (rel. commn. on completion of service, and retains rank of Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5431</PageNumber>
     </MainItem>
     <SubItem>
@@ -158,7 +172,9 @@
       <Key>Wallington</Key>
       <Title>Lt. (h.p. list, late R.F.A.)</Title>
       <Forenames>B. J.</Forenames>
-      <Text>, M.C. (retires on ret. pay on acc. of ill-health, and granted rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5362</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -281,7 +297,9 @@
       <Key>Walton</Key>
       <Title>Maj. and Bt. Lt.-Col.</Title>
       <Forenames>C</Forenames>
-      <Text>, D. S.O. (Lt.-Col.)</Text>
+      <Text>
+        <Honour>D. S.O.</Honour>
+      </Text>
       <PageNumber>6840</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -331,7 +349,10 @@
       <Key>Warburton</Key>
       <Title>Lt.-Col. (h.p. list, late R.F.A.)</Title>
       <Forenames>W. M.</Forenames>
-      <Text>, C.M.G., D.S.O. (retires on ret. pay)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5610</PageNumber>
     </MainItem>
     <SubItem>
@@ -377,7 +398,10 @@
       </Key>
       <Title>Lt.-Col.</Title>
       <Forenames>V. M. Barrington-</Forenames>
-      <Text>, see D.S.O., see Barrington-Ward, Lt.-Cbl. V. M., D.S.O. Wardle, Lt. A. (retires, receiving a gratuity, and granted rank of Capt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5524</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -478,7 +502,9 @@
       </Key>
       <Title>Bt. Maj.</Title>
       <Forenames>G. G.</Forenames>
-      <Text>, M.C. (Instr. in English Ecole Superieure de Guerre, Paris)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5867</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -518,11 +544,13 @@
       <Key>Watson</Key>
       <Title>Maj.</Title>
       <Forenames>E. C</Forenames>
-      <Text>, O.B.E. (retires on ret. pay)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>5608</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Date of seniority Reg. Army Res. of Off</Text>
+      <Text>Date of seniority Reg. Army Res. of Off.</Text>
       <PageNumber>5608</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -545,7 +573,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>J. S.</Forenames>
-      <Text>, M.C. (Adjt., 3rd A. and S.H. Milo.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6842</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -561,6 +591,7 @@
     </MainItem>
     <SubItem>
       <Text>
+        <Honour>R.D.</Honour>
         <PageNumber>6229</PageNumber>
       </Text>
       <PageNumber>6229</PageNumber>
@@ -572,7 +603,11 @@
         <KeyDitto>-.— ___ ___</KeyDitto>
       </Key>
       <Forenames>Capt</Forenames>
-      <Text>, and Bt. Maj. R. M., D.S.O. (Capt., Lan. Fus., from R.D. Fus.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>5609</PageNumber>
     </MainItem>
     <SubItem>
@@ -612,271 +647,23 @@
     </MainItem>
   </ItemGroup>
   <KeyDitto>— ___ ___ ___</KeyDitto>
-  <ItemGroup>
-    <MainItem>
-      <Key>Watters</Key>
-      <Title>Lt.</Title>
-      <Forenames>G. H.</Forenames>
-      <Text>(retires, receiv ing a gratuity)</Text>
-      <PageNumber>6297</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Watts</Key>
-      <Title>Capt.</Title>
-      <Forenames>J.</Forenames>
-      <Text>, M.C. (trd. to Suffolk R. from R. Mun. Fue.)</Text>
-      <PageNumber>5609</PageNumber>
-    </MainItem>
-    <SubItem>
-      <Text>Date of seniority</Text>
-      <PageNumber>5609</PageNumber>
-    </SubItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>—— ___ ___</KeyDitto>
-      </Key>
-      <Title>Lt.</Title>
-      <Forenames>J. W.</Forenames>
-      <Text>(temp. Capt. for service with K. Afr. Rif</Text>
-      <PageNumber>5034</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Wavell</Key>
-      <Title>Maj. and Bt. Lt.-Col.</Title>
-      <Forenames>A. P.</Forenames>
-      <Text>, C.M.G., M.C. (Col., from Black Watch)</Text>
-      <PageNumber>5204</PageNumber>
-    </MainItem>
-    <SubItem>
-      <Text>Date of seniority</Text>
-      <PageNumber>5204</PageNumber>
-    </SubItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Webb</Key>
-      <Title>Lt.-Col. and Bt. Col. Sir</Title>
-      <Forenames>Arthur L. A.</Forenames>
-      <Text>, K.B.E., C.B., C. M.G. (retires on ret. pay)</Text>
-      <PageNumber>5105</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Title>temp. Maj.</Title>
-      <Forenames>C. D.</Forenames>
-      <Text>, M.C. (rel. commn. on completion of eervioe and retains rank of Maj.)</Text>
-      <PageNumber>5107</PageNumber>
-    </MainItem>
-  </ItemGroup>
+  <KeyDitto>—— ___ ___</KeyDitto>
+  <KeyDitto>___ ___</KeyDitto>
+  <KeyDitto>___ ___ ___</KeyDitto>
+  <KeyDitto>___ ___ ___</KeyDitto>
+  <KeyDitto>___ ___</KeyDitto>
+  <KeyDitto>___ ___</KeyDitto>
   <KeyDitto>___ ___ ___</KeyDitto>
   <ItemGroup>
     <MainItem>
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Title>2nd Lt.</Title>
-      <Forenames>S. A.</Forenames>
-      <Text>(Lt.)</Text>
-      <PageNumber>5431</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Webb-Bowen</Key>
-      <Title>Lt.</Title>
-      <Text>-Col: (Maj., ret. pay from Middx R.) W. I., D. S.O. (Col., Reg. Army Res. of Off., Gen. List, and granted hon. rank of Brig.-Gen.)</Text>
-      <PageNumber>6160</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Webber</Key>
-      <Title>Lt.-Col.</Title>
-      <Forenames>H. A. W.</Forenames>
-      <Text>, C.B.E (Lt.-Col., Reg. Army Res. of Off, Regtl. List, R.H. and ___ ___ R.F.A.)</Text>
-      <PageNumber>6035</PageNumber>
-    </MainItem>
-    <SubItem>
-      <Text>Date of seniority</Text>
-      <PageNumber>5035</PageNumber>
-    </SubItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Title>Maj. (ret. pay)</Title>
-      <Forenames>H. H.</Forenames>
-      <Text>(removed from the Army on conviction by the Civil Power, The King having no further occasion for his services)</Text>
-      <PageNumber>5611</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Title>Capt.</Title>
-      <Forenames>S. L.</Forenames>
-      <Text>(retires, receiving a gratuity)</Text>
-      <PageNumber>6376</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Weber</Key>
-      <Title>temp. Lt.</Title>
-      <Forenames>W. E.</Forenames>
-      <Text>(rel. eommn. on completion of service and granted rank of Capt.)</Text>
-      <PageNumber>6096</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Webster</Key>
-      <Title>2nd Lt.</Title>
-      <Forenames>Herbert John</Forenames>
-      <Text>(2nd Lt., Reg. Army Res. of Off., Regtl. List, R. Fus., late Serv. Bns.)</Text>
-      <PageNumber>6906</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Wedd</Key>
-      <Title>Capt. and Bt. Maj.</Title>
-      <Forenames>A. P</Forenames>
-      <Text>W., O.B.E. (Maj.)</Text>
-      <PageNumber>5359</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Wehl</Key>
-      <Title>Capt.</Title>
-      <Forenames>G. J.</Forenames>
-      <Text>, M.C. (ceases to hold a commn., Reg. Army Res. of Off.)</Text>
-      <PageNumber>5776</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Weightman</Key>
-      <Title>Lt.</Title>
-      <Forenames>J.</Forenames>
-      <Text>(retires on ret. pay)</Text>
-      <PageNumber>6712</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Weldon</Key>
-      <Title>Maj.</Title>
-      <Forenames>H. W.</Forenames>
-      <Text>, D.S.O. (Maj., Bedfs. and Herts. R., from Leinster R.)</Text>
-      <PageNumber>6020</PageNumber>
-    </MainItem>
-    <SubItem>
-      <Text>Precedence and date of seniority</Text>
-      <PageNumber>6020</PageNumber>
-    </SubItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___</KeyDitto>
-      </Key>
-      <Title>Maj. and Bt. Lt.-Col.</Title>
-      <Forenames>K</Forenames>
-      <Text>C, D.S.O. (Maj., Foresters from R.D. Fus.)</Text>
-      <PageNumber>5707</PageNumber>
-    </MainItem>
-    <SubItem>
-      <Text>Precedence and date of seniority</Text>
-      <PageNumber>5707</PageNumber>
-    </SubItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Wellington</Key>
-      <Title>temp. Chapln.</Title>
-      <Text>to the Forces, 4th CI., the Rev. H. (rel. commn. and apptd. Hon. Chapln. to the Forces, 4th CI.)</Text>
-      <PageNumber>5779</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Wells</Key>
-      <Title>2nd Lt.</Title>
-      <Forenames>A. V</Forenames>
-      <Text>; (Lt.)</Text>
-      <PageNumber>5360</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___</KeyDitto>
-      </Key>
       <Forenames>T.</Forenames>
-      <Text>/I.O.W. and Capt. G. (rel. commn. on completion of service and retains rank of Capt.)</Text>
-      <PageNumber>6232</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Welman</Key>
-      <Title>Lt.</Title>
-      <Forenames>W. H. E.</Forenames>
-      <Text>(placed on h.p. list on ceasing to be empld. on the Staff . on acc. of illhealth)</Text>
-      <PageNumber>6579</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Wei</Key>
-      <Text>ton, temp. Lt. H. G. (rel. commn. on completion of service and granted rank of Capt.)</Text>
-      <PageNumber>5204</PageNumber>
-    </MainItem>
-    <SubItem>
-      <Text>Capt., Reg.' Army Res. of Offrs., Gen. List, Intelligence, late Gen. List</Text>
-      <PageNumber>6160</PageNumber>
-    </SubItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Wenborn</Key>
-      <Forenames>I.O.W.</Forenames>
-      <Text>and Maj. S. T. (S.I.O.W. and Lt.-Col.)</Text>
-      <PageNumber>6907</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Wentworth</Key>
-      <Title>2nd Lt. (on prob.)</Title>
-      <Forenames>P. W.</Forenames>
-      <Text>' (confd. in appmt.)</Text>
-      <PageNumber>5527</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>West</Key>
-      <Title>Lt.-Col.</Title>
-      <Forenames>A. H. D.</Forenames>
-      <Text>, D.S.O. (placed on h.p. list on completion of four years' service as Regtl. Lt.-Col;)</Text>
-      <PageNumber>5524</PageNumber>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
+      <PageNumber>6297</PageNumber>
     </MainItem>
   </ItemGroup>
   <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>

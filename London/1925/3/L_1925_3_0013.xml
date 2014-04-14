@@ -44,7 +44,11 @@
     <MainItem>
       <Key>Viscounts</Key>
       <Title>Admiral</Title>
-      <Text>of the Fleet, Jellicoe, John Rushworth Viscount, G.C.B., O.M., G.C.V.O. (Viscount Brocas)</Text>
+      <Text>
+        <Honour>G.C.B.</Honour>
+        <Honour>O.M.</Honour>
+        <Honour>G.C.V.O.</Honour>
+      </Text>
       <PageNumber>4448</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -111,7 +115,18 @@
       <Key>Hayward</Key>
       <Title>Rev.</Title>
       <Forenames>Norman</Forenames>
-      <Text>, M.A., presented to the Vicarage of Milton-under-Wychwood with Bruern and Lyneham 5425 Strong, Rt. Rev. Father in God Doctor Thomas Banks, G.B.E., elected Bishop of the See of Oxford</Text>
+      <Text>, M.A., presented to the Vicarage of Milton-under-Wychwood with Bruern and Lyneham</Text>
+      <PageNumber>5425</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Strong</Key>
+      <Title>Rt. Rev.</Title>
+      <Forenames>Father</Forenames>
+      <Text>
+        <Honour>G.B.E.</Honour>
+      </Text>
       <PageNumber>4699</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -148,7 +163,10 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>William Maurice Abbot</Forenames>
-      <Text>, M.V.O., Companion, Royal Victorian Order</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>5627</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -157,7 +175,9 @@
       <Key>Atcherley</Key>
       <Title>Maj.-Gen.</Title>
       <Forenames>Llewelyn William</Forenames>
-      <Text>, C.M.G., C.V.U., knighted</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>4620</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -182,7 +202,9 @@
     <MainItem>
       <Key>Berry</Key>
       <Forenames>James</Forenames>
-      <Text>, F.R.C.S., knighted</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>4620</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -191,7 +213,9 @@
       <Key>Beveridge</Key>
       <Title>Sir</Title>
       <Forenames>William Henry</Forenames>
-      <Text>, K.C.B., Member, Royal Commission on the Coal Industry</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+      </Text>
       <PageNumber>5911</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -199,7 +223,12 @@
     <MainItem>
       <Key>Birdwood</Key>
       <Title>Field-Marshal Sir</Title>
-      <Text>AVilliam Riddell, Bt., G. C.B., G.C.M.G., K.C.S.I., C.I.E., D.S.O., Member, Executive Council of the Governor-General of India</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>G.C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4957</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -207,7 +236,9 @@
     <MainItem>
       <Key>Blain</Key>
       <Forenames>Herbert Edwin</Forenames>
-      <Text>, C.B.E., knighted</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>4620</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -216,7 +247,9 @@
       <Key>Bland-Sutton</Key>
       <Title>Sir</Title>
       <Forenames>John</Forenames>
-      <Text>, Kt., Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>4449</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -273,7 +306,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>James</Forenames>
-      <Text>, C.B.E., Scottish Ecclesiastical Commissioner</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>6273</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -305,7 +340,9 @@
     <MainItem>
       <Key>Clementi</Key>
       <Forenames>Cecil</Forenames>
-      <Text>, C.M.G., Governor and Commanderin-Chief of Hong Kong and Dependencies</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>6086</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -322,7 +359,10 @@
       <Key>Courthope</Key>
       <Title>Lt.-Col. (Bt. Col.)</Title>
       <Forenames>George Loyd</Forenames>
-      <Text>, M.C., Baronet</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>4449</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -330,7 +370,10 @@
     <MainItem>
       <Key>Cowan</Key>
       <Forenames>David John</Forenames>
-      <Text>, O.B.E., M.C., Secretary in H.M. Diplomatic Service</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5047</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -362,7 +405,9 @@
     <MainItem>
       <Key>Davies</Key>
       <Forenames>Ashton</Forenames>
-      <Text>, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>4447</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -376,9 +421,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Grasse</Forenames>
-      <Text>, Louis Murray, Unofficial Member of the Executive Council of Presidency of St. Christopher and Nevis</Text>
+      <Key>De Grasse</Key>
+      <Forenames>Louis Murray</Forenames>
+      <Text>, Unofficial Member of the Executive Council of Presidency of St. Christopher and Nevis</Text>
       <PageNumber>5132</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -386,7 +431,9 @@
     <MainItem>
       <Key>Dixey</Key>
       <Forenames>Harry Edward</Forenames>
-      <Text>, M.D., knighted</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>4620</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -395,7 +442,10 @@
       <Key>Dobbs</Key>
       <Title>Sir</Title>
       <Forenames>Henry Robert Conway</Forenames>
-      <Text>, K.C.S.I., K.C.M.G., K.C.I.E., H.M. Consul-General at Baghdad</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>K.C.I.E.</Honour>
+      </Text>
       <PageNumber>5830</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -446,7 +496,10 @@
       <Key>Findlay</Key>
       <Title>Sir</Title>
       <Forenames>John Ritchie</Forenames>
-      <Text>, K.B.E., Baronet</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>4449</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -479,7 +532,9 @@
     <MainItem>
       <Key>Forrest</Key>
       <Forenames>John</Forenames>
-      <Text>AVilliam, O.B.E., knighted</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4620</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -488,7 +543,9 @@
       <Key>Forster</Key>
       <Title>Cdr.</Title>
       <Forenames>Herbert Acheson</Forenames>
-      <Text>, R.N., Member, Fourth Class, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>5627</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -506,7 +563,9 @@
       <Key>French</Key>
       <Title>Capt.</Title>
       <Forenames>Houston</Forenames>
-      <Text>, C.V.O., Lieutenant, King's Body Guard of the Yeomen of the Guard</Text>
+      <Text>
+        <Honour>C.V.O.</Honour>
+      </Text>
       <PageNumber>5130</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -514,7 +573,11 @@
     <MainItem>
       <Key>Gabriel</Key>
       <Forenames>Edmund</Forenames>
-      <Text>A-ivian, C.S.I., C.M.G., C.V.O., C.B.E., Gentleman Usher-in-Ordinary to H.M. King</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>C.V.O.</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>4447</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -530,7 +593,9 @@
     <MainItem>
       <Key>Glenny</Key>
       <Forenames>William James</Forenames>
-      <Text>, O.B.E., Commercial Counsellor in H.M. Commercial Diplomatic Service</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4528</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -544,7 +609,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Govind</Key>
-      <Text>Dinanath Madgaonkar, Judge of the High Court of Judicature at Bombay</Text>
+      <Forenames>Dinanath Madgaonkar</Forenames>
+      <Text>, Judge of the High Court of Judicature at Bombay</Text>
       <PageNumber>5975</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -569,7 +635,12 @@
       <Key>Grigg</Key>
       <Title>Lt.-Col. Sir</Title>
       <Forenames>Edward William Macleay</Forenames>
-      <Text>, K.C.V.O., C.M.G., D.S.O., M.C., Governor and Commanderin-Chief of Kenya Colony</Text>
+      <Text>
+        <Honour>K.C.V.O.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4865</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -609,7 +680,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hewett</Key>
-      <Text>. Sir John Prescott, G.C.S.I., K.B.E., CLE., Member, Governing Body of School of Oriental Studies (London Institution)</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+      </Text>
       <PageNumber>5704</PageNumber>
     </MainItem>
   </ItemGroup>

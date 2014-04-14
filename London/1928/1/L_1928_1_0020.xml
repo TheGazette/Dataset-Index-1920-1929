@@ -65,6 +65,7 @@
     </SubItem>
     <SubItem>
       <Text>
+        <Honour>M.B.E.</Honour>
         <PageNumber>2340</PageNumber>
       </Text>
       <PageNumber>2340</PageNumber>
@@ -79,7 +80,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Tuberculosis</Key>
-      <Text>. (See under Agriculture and Fisheries, Ministry of.) Unemployment Insurance Acts: (See also under Labour, Ministry of.) Reference to High Court of Justice</Text>
+      <Title>(See under Agriculture and Fisheries, Ministry of.)</Title>
+      <Forenames>Unemployment Insurance Acts</Forenames>
+      <Text>: (See also under Labour, Ministry of.) Reference to High Court of Justice</Text>
       <PageNumber>1676</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -153,16 +156,19 @@
     <MainItem>
       <Key>Viscounts</Key>
       <Forenames>Byng</Forenames>
-      <Text>of Vymy, Julian Hedworth George, Baron, G.C.B., G.C.M.G., M.V.O. (Viscount Byng of Vimy, of Thorpe-le-Soketi)</Text>
+      <Text>
+        <Honour>G.C.B.</Honour>
+        <Honour>G.C.M.G.</Honour>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>366</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Wales</Key>
-      <Title>H.R.H.</Title>
-      <Forenames>The</Forenames>
-      <Text>Prince of: to Assume title of Master of the Merchant Navy and Fishing Fleets</Text>
+      <Title>H.R.H. The Prince</Title>
+      <Text>of: to Assume title of Master of the Merchant Navy and Fishing Fleets</Text>
       <PageNumber>1048</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -186,7 +192,15 @@
     <MainItem>
       <Key>West</Key>
       <Forenames>African Frontier Force</Forenames>
-      <Text>, Approval of H.M. the King of change of name ... ... Wild Birds Protection Acts. (See under Home Office.) Windhoek: Consuls at: of the Netherlands, Th. Lorentz</Text>
+      <Text>, Approval of H.M. the King of change of name</Text>
+      <PageNumber>1930</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Wild</Key>
+      <Forenames>Birds Protection Acts</Forenames>
+      <Text>. (See under Home Office.) Windhoek: Consuls at: of the Netherlands, Th. Lorentz</Text>
       <PageNumber>2238</PageNumber>
     </MainItem>
     <SubItem>
@@ -198,18 +212,24 @@
     <MainItem>
       <Key>Windsor</Key>
       <Forenames>H.M. Castle</Forenames>
-      <Text>of: Deputy Constable and Lieutenant Governor, the Rt. Hon. Sir Frederick Edward Grey Ponsonby, G.C.B., G.O.V.O</Text>
+      <Text>
+        <Honour>G.C.B.</Honour>
+      </Text>
       <PageNumber>223</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Governor and Constable, the Rt. Hon. Reginald Baliol, Viscount Esher, G.C.B., G.C.V.O</Text>
+      <Text>
+        <Honour>G.C.B.</Honour>
+        <Honour>G.C.V.O.</Honour>
+      </Text>
       <PageNumber>223</PageNumber>
     </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Windsor</Key>
-      <Text>. Ontario, Consul of the U.S.A., Anderson Dana Hodgdon</Text>
+      <Forenames>Ontario</Forenames>
+      <Text>, Consul of the U.S.A., Anderson Dana Hodgdon</Text>
       <PageNumber>533</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -237,7 +257,16 @@
       <Key>Burt</Key>
       <Title>Rev.</Title>
       <Forenames>Frederick John</Forenames>
-      <Text>, presented to Vicarage of St. Thomas a Becket, Kingswear ... ... ... Colson, Rev. Charles Gordon Tulloeh, M.A., presented to Vicarage of St. Botolph, North fleet</Text>
+      <Text>, presented to Vicarage of St. Thomas a Becket, Kingswear</Text>
+      <PageNumber>1219</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Colson</Key>
+      <Title>Rev.</Title>
+      <Forenames>Charles Gordon Tulloeh</Forenames>
+      <Text>, M.A., presented to Vicarage of St. Botolph, North fleet</Text>
       <PageNumber>949</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -246,79 +275,8 @@
       <Key>Cranage</Key>
       <Title>the Rev.</Title>
       <Forenames>David Herbert Somerset</Forenames>
-      <Text>, M.A., Litt.D., granted the Deanery of the Cathedral Church of Norwich</Text>
+      <Text>, M.A., Litt.D., granted the Deanery of the Cathedral Church of Norwich Hewison, the Rev. John Henry, appointed to the Living of Saint John the Baptist, Hamsteels</Text>
       <PageNumber>128</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Hewison</Key>
-      <Title>the Rev.</Title>
-      <Forenames>John Henry</Forenames>
-      <Text>, appointed to the Living of Saint John the Baptist, Hamsteels</Text>
-      <PageNumber>128</PageNumber>
-      <PageNumber>1292</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Newman</Key>
-      <Title>the Rev.</Title>
-      <Forenames>George Richard</Forenames>
-      <Text>, presented to the Vicarage of Holy Trinity, Forest of Dean</Text>
-      <PageNumber>681</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Newsham-Taylor</Key>
-      <Title>Rev.</Title>
-      <Forenames>John Horace</Forenames>
-      <Text>, M.A., appointed to Vicarage of St. Mark, Hamilton Terrace, London</Text>
-      <PageNumber>1855</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Randolph</Key>
-      <Text>the Rt. Rev: John Hugh Granville, M.A., D.D., granted the Deanery of the Cathedral Church of Salisbury</Text>
-      <PageNumber>290</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Senior</Key>
-      <Title>Rev.</Title>
-      <Forenames>Walter Stanley</Forenames>
-      <Text>, M.A., appointed to the Living of Saint Olave, Ramsey, Isle of Man</Text>
-      <PageNumber>438</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Stucey</Key>
-      <Title>the Rev.</Title>
-      <Forenames>Robert Hugh</Forenames>
-      <Text>, M.A., presented to the Recw. tory of Pulham St. Mary Magdalene</Text>
-      <PageNumber>681</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Whittle</Key>
-      <Title>Rev.</Title>
-      <Forenames>James</Forenames>
-      <Text>, appointed to be Curate-in-Charge, Peacehaven, Sussex</Text>
-      <PageNumber>1409</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Wood</Key>
-      <Title>Rev.</Title>
-      <Forenames>Herbert William</Forenames>
-      <Text>, presented to Rectory of Walpole St. Peter, Ely</Text>
-      <PageNumber>1219</PageNumber>
     </MainItem>
   </ItemGroup>
   <CategoryTitle>CIVIL PROMOTIONS</CategoryTitle>
@@ -326,24 +284,8 @@
     <MainItem>
       <Key>Adams</Key>
       <Forenames>Alexander Annan</Forenames>
-      <Text>, Commercial Secretary, First Grade, to H.M's. Embassy at Madrid</Text>
-      <PageNumber>1220</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Ahmad</Key>
-      <Text>' Maazam Shah, Tengku Suleiman ibni almerhum Sultan, Hon. Companion, Order of St. Michael and St. George</Text>
-      <PageNumber>5</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Aitchison</Key>
-      <Forenames>Stephen Harry</Forenames>
-      <Text>, J.P., Knight</Text>
+      <Text>, Commercial Secretary, First Grade, to H.M's. Embassy at Madrid Ahmad' Maazam Shah, Tengku Suleiman ibni almerhum Sultan, Hon. Companion, Order of St. Michael and St. George Aitchison, Stephen Harry, J.P., Knight</Text>
       <PageNumber>2</PageNumber>
-      <PageNumber>1136</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -351,31 +293,52 @@
       <Key>Alcazar</Key>
       <Title>Sir</Title>
       <Forenames>Henry Albert</Forenames>
-      <Text>, Kt., K.C., Unofficial Member, 1930 Legislative Council of Trinidad and Tobago</Text>
-      <PageNumber>2340</PageNumber>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+        <Honour>Royal Victorian Order</Honour>
+        <Honour>Royal Victorian Order</Honour>
+        <Honour>M.D.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
+      <PageNumber>3</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Astbury</Key>
+      <Forenames>Arthur Ralph</Forenames>
+      <Text>, Companion, Order of the Indian Empire ... ... Atkin, Sir James Richard, Kt., Lord of Appeal in Ordinary</Text>
+      <PageNumber>1045</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Alexander, Col. (temp. Col. Commandant) Edward Currie, CLE., D.S.O., Companion, Order of the Bath</Text>
-      <PageNumber>3</PageNumber>
-    </SubItem>
-    <SubItem>
-      <Text>Allen, William, Recorder of Ludlow</Text>
-      <PageNumber>2129</PageNumber>
-    </SubItem>
-    <SubItem>
-      <Text>Aplin, Harold DAuverge, Member of the Executive Council and Official Member of the Legislative Council of the Nyasaland Protectorate</Text>
-      <PageNumber>367</PageNumber>
+      <Text>Baron Atkin of Aberdovey</Text>
+      <PageNumber>128</PageNumber>
     </SubItem>
     <SubItem>
       <Text>
-        <PageNumber>874</PageNumber>
+        <PageNumber>5</PageNumber>
       </Text>
-      <PageNumber>3</PageNumber>
       <PageNumber>1136</PageNumber>
     </SubItem>
     <SubItem>
       <Text>
-        <PageNumber>1045</PageNumber>
+        <PageNumber>3</PageNumber>
+        <PageNumber>6</PageNumber>
+      </Text>
+      <PageNumber>2129</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>
+        <PageNumber>5</PageNumber>
+      </Text>
+      <PageNumber>874</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>
+        <PageNumber>5</PageNumber>
       </Text>
       <PageNumber>1045</PageNumber>
     </SubItem>

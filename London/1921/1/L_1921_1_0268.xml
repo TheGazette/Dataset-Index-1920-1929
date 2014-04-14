@@ -4,7 +4,9 @@
     <MainItem>
       <Key>Stephenson</Key>
       <Forenames>Flying Offr</Forenames>
-      <Text>. R., D.F.C. (granted short serv. commn.)</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>185</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -98,7 +100,7 @@
       <PageNumber>1582</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Rel. temp, commn. on return to Army duty, Sub. Not.</Text>
+      <Text>Rel. temp, commn. on return to Army duty, Sub. Not</Text>
       <PageNumber>2225</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -180,7 +182,11 @@
     <MainItem>
       <Key>Strange</Key>
       <Forenames>Wing Comdr</Forenames>
-      <Text>. Louis Arbon, D.S.O., M.C., D.F.C. (rel. perm, commn. on acc. of ill-hei«lth contracted in the Service, and retains rank of Lfc.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>2095</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -353,7 +359,9 @@
       <Key>Tennant</Key>
       <Title>Lt.</Title>
       <Forenames>James</Forenames>
-      <Text>, M.C. (rel. temp, commn. on appt. to T.F.R., and retains rank)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2407</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -442,7 +450,9 @@
       <Key>Thomson</Key>
       <Title>Lt.</Title>
       <Forenames>David Norris</Forenames>
-      <Text>, M.C. (rel. temp, commn. on appt. to T.F., and granted rank of Capt!)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1373</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -738,7 +748,10 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Flying Offr</Forenames>
-      <Text>. Henry Edward, M.C., D.F.C. (placed on h.p., Scale B, for six months)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>2225</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -746,7 +759,9 @@
     <MainItem>
       <Key>Wallage</Key>
       <Forenames>Flying Offr</Forenames>
-      <Text>. Stanley Harry, M.C. (granted short serv. commn.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>781</PageNumber>
     </MainItem>
   </ItemGroup>

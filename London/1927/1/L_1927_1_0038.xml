@@ -3,7 +3,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Watt</Key>
-      <Text>. K. C</Text>
+      <Forenames>K. C.</Forenames>
       <PageNumber>10</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -64,7 +64,7 @@
   <ItemGroup>
     <MainItem>
       <Key>AVhistondalo</Key>
-      <Text>. G. F</Text>
+      <Forenames>G. F.</Forenames>
       <PageNumber>121</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -245,7 +245,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Merioneth</Key>
-      <Text>: Harlech, George Ralph Charles, Baron, C.B</Text>
+      <Text>
+        <Honour>C.B</Honour>
+      </Text>
       <PageNumber>1252</PageNumber>
     </MainItem>
     <SubItem>
@@ -288,23 +290,36 @@
   <ItemGroup>
     <MainItem>
       <Key>Cardigan</Key>
-      <Text>: . Roberts, Lt.-Col. George Fossett, O.B.E., T.D</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>T.D</Honour>
+      </Text>
       <PageNumber>120</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Thomas, Col. Sir John Lynn, K.B.E.. CI!.. C.M.G., F.R.CS. ..:</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>120</PageNumber>
     </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Dumbarton</Key>
-      <Text>: Douglas, Brig.-Gen. Douglas Campbell, C.B</Text>
+      <Text>
+        <Honour>C.B</Honour>
+      </Text>
       <PageNumber>438</PageNumber>
     </MainItem>
     <SubItem>
       <Text>
+        <Honour>K.B.E.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>T.D.</Honour>
         <PageNumber>438</PageNumber>
+        <Honour>Bt</Honour>
+        <Honour>C.B.E.</Honour>
       </Text>
       <PageNumber>438</PageNumber>
     </SubItem>
@@ -312,12 +327,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Durham</Key>
-      <Text>: Barnard, Lt.-Col. the Rt. Hon. Christopher William, Baron, M.C, T.D., J.P</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>1361</PageNumber>
     </MainItem>
     <SubItem>
       <Text>
         <PageNumber>1361</PageNumber>
+        <Honour>M.P.</Honour>
         <PageNumber>1361</PageNumber>
       </Text>
       <PageNumber>1361</PageNumber>
@@ -327,11 +345,16 @@
     <MainItem>
       <Key>Durham</Key>
       <Title>(cunt)</Title>
-      <Text>: Stobart, Lt.-Col. Hugh Morton, C.B.E., D.S.O., J.P</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1361</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>AVrightson, Col. Sir Thomas Garmondsway, Bart., J.P</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>1361</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -359,6 +382,9 @@
     </MainItem>
     <SubItem>
       <Text>
+        <Honour>G.C.B.</Honour>
+        <Honour>O.M.</Honour>
+        <Honour>G.C.V.O.</Honour>
         <PageNumber>1049</PageNumber>
         <PageNumber>1049</PageNumber>
       </Text>
@@ -373,7 +399,9 @@
       <PageNumber>438</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Collins, Colonel William Fellowes, D.S.O.</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>514</PageNumber>
     </SubItem>
     <SubItem>
@@ -385,7 +413,11 @@
     <MainItem>
       <Key>Worcester</Key>
       <Forenames>Davies</Forenames>
-      <Text>, Gen. Sir Francis John, K.C.B., K.C.M.G., K.C.V.O</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>K.C.V.O</Honour>
+      </Text>
       <PageNumber>289</PageNumber>
     </MainItem>
   </ItemGroup>

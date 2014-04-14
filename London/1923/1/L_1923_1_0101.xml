@@ -22,7 +22,9 @@
       <Key>Dower</Key>
       <Title>Lt.</Title>
       <Forenames>John Henry</Forenames>
-      <Text>, D.C.M. (trd. to R. B., Ind Army from R.E. (Suop. List) and promoted to Capt.)</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>810</PageNumber>
     </MainItem>
     <SubItem>
@@ -72,7 +74,9 @@
         <KeyDitto>___</KeyDitto>
       </Key>
       <Forenames>S.</Forenames>
-      <Text>, M.C. (promotion to Capt. antedated)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1158</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -116,7 +120,9 @@
       <Key>Burand</Key>
       <Title>Capt. Sir</Title>
       <Forenames>E. P. M.</Forenames>
-      <Text>, Bt. (retirement on account of illhealth)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>2077</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -154,7 +160,9 @@
       </Key>
       <Title>Col.</Title>
       <Forenames>P. H.</Forenames>
-      <Text>, D.S.O. (retirement)!</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1499</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -217,7 +225,9 @@
     <MainItem>
       <Key>Emery</Key>
       <Forenames>Thomas Smythe</Forenames>
-      <Text>, M.C. (promotion to Capt. antedated)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>999</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -226,7 +236,10 @@
       <Key>Erskine</Key>
       <Title>Capt.</Title>
       <Forenames>K. C. S.</Forenames>
-      <Text>, M.C. (Bt. Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>64</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -436,7 +449,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>Patrick John</Forenames>
-      <Text>, A.M., D.O.M. (trd. to R.E., Ind. Army from R.E. (Supp. List) and promoted to Capt</Text>
+      <Text>
+        <Honour>O.M.</Honour>
+      </Text>
       <PageNumber>810</PageNumber>
     </MainItem>
     <SubItem>
@@ -518,7 +533,9 @@
     <MainItem>
       <Key>Forshaw</Key>
       <Forenames>William Thomas</Forenames>
-      <Text>, V.C. (promotion to Capt. antedated)</Text>
+      <Text>
+        <Honour>V.C.</Honour>
+      </Text>
       <PageNumber>999</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -588,7 +605,9 @@
       <Key>Furnringer</Key>
       <Title>Capt.</Title>
       <Forenames>H.</Forenames>
-      <Text>-J., M.C. (retirement)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1000</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -596,7 +615,10 @@
     <MainItem>
       <Key>Fyshe-Palmer</Key>
       <Forenames>Hornsby</Forenames>
-      <Text>, Capt. H., M.C., see Hornsby, Capt. H. Fyshe-Palmer, M.C. Gale, Capt. B., M.B. (promotion to Maj. antedated)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1498</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -642,7 +664,9 @@
     <MainItem>
       <Key>Garland</Key>
       <Forenames>Arthur Garland Lester</Forenames>
-      <Text>. M.C., see Lester-Garland, Arthur Garland, M.C Garrod, Capt. W. F. (retirement)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>143</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -722,7 +746,10 @@
       <Key>Giles</Key>
       <Title>Bt. Lt.-Col.</Title>
       <Forenames>E. D.</Forenames>
-      <Text>, C.M.G., D.S.O. (Col.) Sub. Not</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>2166</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -757,7 +784,10 @@
     <MainItem>
       <Key>Gilmore</Key>
       <Forenames>Lt</Forenames>
-      <Text>, G. H., D.S.O., M.C. (rel. temp, commn.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2421</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -793,7 +823,9 @@
       <Key>Gourlie</Key>
       <Title>Maj.</Title>
       <Forenames>J.</Forenames>
-      <Text>,D.S.O. (actg. Lt.Col. (without pay) while comdg. a Regt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1914</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -854,7 +886,11 @@
       </Key>
       <Title>Lt.-Col.</Title>
       <Forenames>W. G. K.</Forenames>
-      <Text>, C.M.G., D.S.O. (Bt. Col.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>63</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -940,7 +976,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Griffiths</Key>
-      <Text>.Lt. J. (rel. temp, commn.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>J.</Forenames>
+      <Text>(rel. temp, commn.)</Text>
       <PageNumber>142</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -998,7 +1036,9 @@
       <Key>Gunn</Key>
       <Title>Capt. (now Maj.)</Title>
       <Forenames>A. D.</Forenames>
-      <Text>, D.S.O. (actg. Maj. while 2nd in comd. of a Bn.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1307</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1080,7 +1120,9 @@
       <Key>Hallett</Key>
       <Title>Maj. and Bt. Lt.-Col.</Title>
       <Forenames>R. L. Hughes</Forenames>
-      <Text>, see Hughes-Hallett, Maj. and Bt. Lt.-Col. R. L. Hallifax, Capt. J. S. (retirement)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>2078</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1137,7 +1179,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hampson</Key>
-      <Text>. Capt. J. H. J. (retirement)</Text>
+      <Title>Capt.</Title>
+      <Forenames>J. H. J.</Forenames>
+      <Text>(retirement)</Text>
       <PageNumber>143</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1195,7 +1239,9 @@
       <Key>Harrison</Key>
       <Title>Lt.</Title>
       <Forenames>J. W. H.</Forenames>
-      <Text>, M.C. (Capt., prov.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2241</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1235,7 +1281,9 @@
       <Key>Hartshorn</Key>
       <Title>Capt.</Title>
       <Forenames>E. P.</Forenames>
-      <Text>, D.C.M. (retirement)</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>1307</PageNumber>
     </MainItem>
   </ItemGroup>

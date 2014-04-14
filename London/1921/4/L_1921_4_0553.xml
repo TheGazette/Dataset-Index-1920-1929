@@ -81,7 +81,9 @@
       </Key>
       <Title>Fit. Lt.</Title>
       <Forenames>Eric William</Forenames>
-      <Text>, M.C., M.B. (Squad. Leader)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10720</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -121,7 +123,9 @@
     <MainItem>
       <Key>Crowe</Key>
       <Forenames>Flying Offr</Forenames>
-      <Text>. Henry George, M.C. (re-secd. for duty with R.A.F. for further two years)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8103</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -129,7 +133,10 @@
     <MainItem>
       <Key>Cudemore</Key>
       <Forenames>Charles William</Forenames>
-      <Text>, M.C., D.F.C. (granted short serv^ commn. as Flying Offr.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>8205</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -137,7 +144,9 @@
     <MainItem>
       <Key>Cullen</Key>
       <Forenames>Flying Oflr</Forenames>
-      <Text>. Ian, A.F.C. (Fit. Lt.)</Text>
+      <Text>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>10720</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -146,7 +155,9 @@
       <Key>Curtis</Key>
       <Title>Flight Lt.</Title>
       <Forenames>Walter John Brice</Forenames>
-      <Text>, O.B.E. (trd. to Stores Branch) ... ... ;</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>8293</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -179,7 +190,9 @@
     <MainItem>
       <Key>Darvall</Key>
       <Forenames>Flying Offr</Forenames>
-      <Text>. Lawrence, M.C. (re-secd. for duty with R.A.F. for further two years)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8103</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -214,8 +227,24 @@
     <MainItem>
       <Key>Day</Key>
       <Forenames>Flying Offr</Forenames>
-      <Text>. William Conway, M.C. (Fit. Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10720</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Crespigny</Key>
+      <Title>Fit. Lt.</Title>
+      <Forenames>Hugh Ver-</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>D.F.C.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>D.F.C.</Honour>
+      </Text>
+      <PageNumber>10656</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -231,7 +260,9 @@
       <Key>Dean</Key>
       <Title>Flight Lt.</Title>
       <Forenames>Ronald Eric</Forenames>
-      <Text>, A.F.C. (granted short serv. . commn. as Flying Offr.)</Text>
+      <Text>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>7984</PageNumber>
     </MainItem>
     <SubItem>
@@ -252,7 +283,9 @@
     <MainItem>
       <Key>Dickson</Key>
       <Forenames>Flying Offr</Forenames>
-      <Text>. Clift Neil Charles, A.F.C. (resigns commn. and retains rank of Lt:)-</Text>
+      <Text>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>8370</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -284,7 +317,9 @@
     <MainItem>
       <Key>Dowding</Key>
       <Forenames>Group</Forenames>
-      <Text>Capt. Hugh Caswall Tremenheere, C.M.G. (Air Commodore)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>10719</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -302,7 +337,9 @@
       <Key>Draper</Key>
       <Title>Sqdn.</Title>
       <Forenames>Leader Christopher</Forenames>
-      <Text>, D.S.C. (resigns commn.)</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>8205</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -310,15 +347,18 @@
     <MainItem>
       <Key>Drew</Key>
       <Forenames>Group</Forenames>
-      <Text>Capt. Bertie Clephane Hawley, C.M.G., C.B.E. (Air Commodore)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>10719</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Boulay</Forenames>
-      <Text>, Guy George Houssemayne (granted short service commn. as Flying Offr.)</Text>
+      <Key>Du Boulay</Key>
+      <Forenames>Guy George Housse-</Forenames>
+      <Text>mayne (granted short service commn. as Flying Offr.)</Text>
       <PageNumber>10373</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -344,7 +384,10 @@
       <Key>Edmonds</Key>
       <Title>Squad.</Title>
       <Forenames>Leader Charles Humphrey Kingsman</Forenames>
-      <Text>, D.S.O., O.B.E. (Wing Cdr.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>10719</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -434,7 +477,9 @@
       <Key>Elliott-Smith</Key>
       <Title>Fit. Lt.</Title>
       <Forenames>Charles Henry</Forenames>
-      <Text>, A.F.C. (Squad. Leader)</Text>
+      <Text>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>10720</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -476,7 +521,9 @@
     <MainItem>
       <Key>Farrington</Key>
       <Forenames>Flying Offr</Forenames>
-      <Text>. Frank Cecil, M.C. (re-secd. for duty with R.A.F. for further two years)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8103</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -503,7 +550,12 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Group</Forenames>
-      <Text>Capt. (actg. Air Commodore) (Lt.-Col., Bt. Col., R.A.M.C.) Matthew Henrv Gregson, C.B., C.M.G., D.P.H., D.T.M. (rel. temp, commn. on return to Army duty)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>9468</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -511,7 +563,9 @@
     <MainItem>
       <Key>Fellowes</Key>
       <Forenames>Wing Cdr</Forenames>
-      <Text>. Peregrine Forbes Morant, D.S.O. (Group Capt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>10719</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -595,7 +649,11 @@
     <MainItem>
       <Key>Fraser</Key>
       <Forenames>Wing Comdr</Forenames>
-      <Text>,. Cecil, C.M.G., O.B.E., M.C. (resecd. for duty with R.A.F. for further two years)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8103</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -629,7 +687,10 @@
     <MainItem>
       <Key>Game</Key>
       <Forenames>Air Commodore Philip Woolcott</Forenames>
-      <Text>, C.B., D.S.O. /Air Vice-Marshal)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>10719</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -637,7 +698,9 @@
     <MainItem>
       <Key>Gardiner</Key>
       <Forenames>Flying Offr</Forenames>
-      <Text>. George Cecil, D.F.C. (Fit. Lt.)</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>10720</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -653,7 +716,9 @@
     <MainItem>
       <Key>Gascoyne</Key>
       <Forenames>Flying Offr</Forenames>
-      <Text>. James Victor, D.F.C. flresigns pterm. commn. and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>10373</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -674,7 +739,9 @@
     <MainItem>
       <Key>George</Key>
       <Forenames>Flying Offr</Forenames>
-      <Text>. Robert Allingham, M.C. (Fit. Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10720</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -728,7 +795,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Grant</Key>
-      <Text>. 2nd Lt. (late Gen. List, R.F.C., on prob.) James Douglas (confd. as 2nd Lt.)</Text>
+      <Title>2nd Lt. (late Gen. List, R.F.C., on prob.)</Title>
+      <Forenames>James Douglas</Forenames>
+      <Text>(confd. as 2nd Lt.)</Text>
       <PageNumber>7766</PageNumber>
     </MainItem>
     <SubItem>

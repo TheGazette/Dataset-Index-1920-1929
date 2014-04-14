@@ -25,7 +25,7 @@
   <ItemGroup>
     <MainItem>
       <Key>AVetton</Key>
-      <Forenames>George</Forenames>
+      <Title>George .</Title>
       <PageNumber>4384</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -62,7 +62,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wheeler</Key>
-      <Forenames>John</Forenames>
+      <Title>John .</Title>
       <PageNumber>4449</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -367,7 +367,6 @@
   <ItemGroup>
     <MainItem>
       <Key>Whitehouse</Key>
-      <Text>,</Text>
       <PageNumber>3018</PageNumber>
     </MainItem>
     <SubItem>
@@ -462,7 +461,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Withers</Key>
-      <Forenames>James</Forenames>
+      <Title>James .</Title>
       <PageNumber>2661</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -525,7 +524,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Woods</Key>
-      <Forenames>Edward</Forenames>
+      <Title>Edward .</Title>
       <PageNumber>3466</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -654,7 +653,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wyatt</Key>
-      <Forenames>Thomas</Forenames>
+      <Title>Thomas .</Title>
       <PageNumber>2867</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -760,7 +759,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ambler</Key>
-      <Forenames>Wilfrid</Forenames>
+      <Title>Wilfrid .</Title>
       <PageNumber>2943</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -781,14 +780,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Atkinson</Key>
-      <Forenames>Harry</Forenames>
+      <Title>Harry .</Title>
       <PageNumber>2943</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Barron</Key>
-      <Forenames>William</Forenames>
+      <Title>William .</Title>
       <PageNumber>4058</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -802,7 +801,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bernstein</Key>
-      <Forenames>Henry</Forenames>
+      <Title>Henry .</Title>
       <PageNumber>2870</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -914,7 +913,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cowden</Key>
-      <Forenames>John</Forenames>
+      <Title>John .</Title>
       <PageNumber>2784</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -957,7 +956,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Forster</Key>
-      <Forenames>John</Forenames>
+      <Title>John .</Title>
       <PageNumber>4058</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -992,7 +991,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fowler</Key>
-      <Forenames>Oswald</Forenames>
+      <Title>Oswald .</Title>
       <PageNumber>2522</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1020,7 +1019,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gittings</Key>
-      <Forenames>Joseph</Forenames>
+      <Title>Joseph .</Title>
       <PageNumber>3389</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1076,7 +1075,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Humm</Key>
-      <Forenames>George</Forenames>
+      <Title>George .</Title>
       <PageNumber>3706</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1104,14 +1103,15 @@
   <ItemGroup>
     <MainItem>
       <Key>J</Key>
-      <Text>P. Macgrath</Text>
+      <Forenames>P. Macgrath</Forenames>
       <PageNumber>2943</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>J</Key>
-      <Text>Taylor A Sons</Text>
+      <Forenames>Taylor A</Forenames>
+      <Text>Sons</Text>
       <PageNumber>2871</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1323,7 +1323,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Taylor</Key>
-      <Text>J., and Son</Text>
+      <Forenames>J.</Forenames>
+      <Text>, and Son</Text>
       <PageNumber>2522</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1351,7 +1352,8 @@
   <ItemGroup>
     <MainItem>
       <Key>T</Key>
-      <Text>R. Croger &amp; Sons</Text>
+      <Forenames>R. Croger</Forenames>
+      <Text>&amp; Sons</Text>
       <PageNumber>3097</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1381,7 +1383,8 @@
   <ItemGroup>
     <MainItem>
       <Key>AVeall</Key>
-      <Text>A Rowlands</Text>
+      <Forenames>A</Forenames>
+      <Text>Rowlands</Text>
       <PageNumber>3293</PageNumber>
     </MainItem>
   </ItemGroup>

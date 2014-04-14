@@ -94,7 +94,9 @@
     <MainItem>
       <Key>Dattajirao</Key>
       <Forenames>Khanvilkar</Forenames>
-      <Text>, M.C. -</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5366</PageNumber>
       <PageNumber>5444</PageNumber>
     </MainItem>
@@ -112,6 +114,21 @@
       <Forenames>P. S.</Forenames>
       <Text>, M.M</Text>
       <PageNumber>5964</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Burgh</Key>
+      <Forenames>U.</Forenames>
+      <Text>.. .. . &gt;</Text>
+      <PageNumber>6591</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Wilton</Key>
+      <Forenames>C. S</Forenames>
+      <PageNumber>5965</PageNumber>
     </MainItem>
     <SubItem>
       <Text>Corr. of surname</Text>
@@ -328,7 +345,9 @@
     <MainItem>
       <Key>Kamaluddin</Key>
       <Forenames>Khan</Forenames>
-      <Text>, Bahadur, M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>4478</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -883,7 +902,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lineker</Key>
-      <Text>G. A</Text>
+      <Forenames>G. A.</Forenames>
       <PageNumber>6345</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -899,7 +918,9 @@
     <MainItem>
       <Key>Armstrong</Key>
       <Forenames>A. H. H.</Forenames>
-      <Text>, M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>4478</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -914,7 +935,9 @@
     <MainItem>
       <Key>Bacon</Key>
       <Forenames>N. F.</Forenames>
-      <Text>, M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>5491</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -970,7 +993,9 @@
     <MainItem>
       <Key>Belcher</Key>
       <Forenames>D. W.</Forenames>
-      <Text>, V.C</Text>
+      <Text>
+        <Honour>V.C</Honour>
+      </Text>
       <PageNumber>4583</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1006,7 +1031,9 @@
     <MainItem>
       <Key>Bowtell-Harris</Key>
       <Forenames>J. F.</Forenames>
-      <Text>, M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>6796</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1021,7 +1048,9 @@
     <MainItem>
       <Key>Brennan</Key>
       <Forenames>R.</Forenames>
-      <Text>, M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>6796</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1057,7 +1086,9 @@
     <MainItem>
       <Key>Burton</Key>
       <Forenames>G. H.</Forenames>
-      <Text>,M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>6796</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1067,7 +1098,9 @@
         <KeyDitto>___</KeyDitto>
       </Key>
       <Forenames>J. A.</Forenames>
-      <Text>, M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>4582</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1103,7 +1136,9 @@
     <MainItem>
       <Key>Chivers</Key>
       <Forenames>N. M.</Forenames>
-      <Text>, MC</Text>
+      <Text>
+        <Honour>MC</Honour>
+      </Text>
       <PageNumber>5253</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1160,7 +1195,9 @@
     <MainItem>
       <Key>Davies</Key>
       <Forenames>H. B.</Forenames>
-      <Text>, M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>4478</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1225,7 +1262,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Fulton</Key>
-      <Text>c.F. V., M.C. Furney, S. K., M.C</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>6796</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1268,7 +1308,9 @@
     <MainItem>
       <Key>Greeves</Key>
       <Forenames>S.</Forenames>
-      <Text>, M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>6796</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1497,7 +1539,9 @@
     <MainItem>
       <Key>Parsons</Key>
       <Forenames>J. H.</Forenames>
-      <Text>, M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>6796</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1561,7 +1605,9 @@
     <MainItem>
       <Key>Rigden</Key>
       <Forenames>B. C</Forenames>
-      <Text>, M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>6590</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1611,7 +1657,9 @@
     <MainItem>
       <Key>Simpson</Key>
       <Forenames>J. H.</Forenames>
-      <Text>, M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>6796</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1626,7 +1674,9 @@
     <MainItem>
       <Key>Somerset</Key>
       <Forenames>I.</Forenames>
-      <Text>, M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>5253</PageNumber>
     </MainItem>
   </ItemGroup>

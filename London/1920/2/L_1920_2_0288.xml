@@ -14,7 +14,10 @@
       <Key>Bligh-Wall</Key>
       <Title>Capt.</Title>
       <Forenames>C. P.</Forenames>
-      <Text>, O.B.E., M.D. (rel. temp, oommn. on acc. of ill-health, and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>5560</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -102,8 +105,10 @@
     <MainItem>
       <Key>Budler</Key>
       <Title>Capt.</Title>
-      <Forenames>A. H.</Forenames>
-      <Text>de W., M.D. (Tel. temp, oommn. on acc. of ill-health, and retains rank of Capt.)</Text>
+      <Forenames>A. H. de W</Forenames>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>5560</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -111,8 +116,8 @@
     <MainItem>
       <Key>Buissinne</Key>
       <Title>Lt.</Title>
-      <Forenames>B.</Forenames>
-      <Text>de V. (rel. temp, cpmmn. on acc. of ill-health, and retains rank of 'Lt.)</Text>
+      <Forenames>B. de V</Forenames>
+      <Text>. (rel. temp, cpmmn. on acc. of ill-health, and retains rank of 'Lt.)</Text>
       <PageNumber>4825</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -121,7 +126,9 @@
       <Key>Bulman</Key>
       <Title>Lt.</Title>
       <Forenames>C</Forenames>
-      <Text>, (D., D.C.M. (rel. temp, oommn. on acc. of illhealth, and retains rank)</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>4567</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -139,7 +146,10 @@
       <Key>Carpenter</Key>
       <Title>Capt.</Title>
       <Forenames>H.</Forenames>
-      <Text>, O.B.E., M.C. (rel. temp, oommn. on ceasing to be empld. with Union Imp. Service Oont., and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4824</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -184,7 +194,9 @@
       <Key>Clark</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>P. S.</Forenames>
-      <Text>, D.S.O., M.lB. (rel. temp, oommn. on acc. of ill-health, and retains rank of Lt.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5560</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -220,7 +232,9 @@
       <Key>Coney</Key>
       <Title>temp. Lt.</Title>
       <Forenames>C. F.</Forenames>
-      <Text>, M.B.E. (rel. commn, on completion of service, and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>5918</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -256,7 +270,9 @@
       <Key>Court</Key>
       <Title>Maj.</Title>
       <Forenames>A. E.</Forenames>
-      <Text>, M.C. (rel. temp, oommn. on completion of service, and retains rank)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4567</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -287,7 +303,7 @@
       <PageNumber>5561</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Bel. temp, commn. on aoc. of ill-health, and retains rank of Capt</Text>
+      <Text>Bel. temp, commn. on aoc. of ill-health, and retains rank of Capt.</Text>
       <PageNumber>5561</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -334,10 +350,52 @@
       <Text>r___ ___ ___ Maj. S. T. (rel. temp, commn, on completion of service, amd retains rank)</Text>
       <PageNumber>4567</PageNumber>
     </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Castilia</Key>
+      <Title>temp. Maj.</Title>
+      <Forenames>J. S. R.</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
+      <PageNumber>4825</PageNumber>
+    </MainItem>
     <SubItem>
       <Text>(Rel. commn. on completion of service, and retains rank of Lt.-Col</Text>
       <PageNumber>4825</PageNumber>
     </SubItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Lisle</Key>
+      <Title>Capt. Rev.</Title>
+      <Forenames>H. F.</Forenames>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
+      <PageNumber>5222</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Vos</Key>
+      <Title>Maj.</Title>
+      <Forenames>J. W.</Forenames>
+      <Text>, M.B. (rel. temp, oommn. on ceasing to foe empld. with Union limp. Service Oont., and retains rank of Maj.)</Text>
+      <PageNumber>6898</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Wet</Key>
+      <Title>Lt.</Title>
+      <Forenames>N. J.</Forenames>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
+      <PageNumber>4567</PageNumber>
+    </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
@@ -380,7 +438,9 @@
       <Key>Douglas</Key>
       <Title>Capt.</Title>
       <Forenames>R</Forenames>
-      <Text>: D. A., M.B.E., M.iD. (rel. temp, commn. on ceasing to Ibe empld. with Union Imp. Service Oont., and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>5898</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -448,7 +508,10 @@
       <Key>Dunbar</Key>
       <Title>temp. Maj.</Title>
       <Forenames>R. M.</Forenames>
-      <Text>, O.B.E., M.C. (trd. to S. Afrn. Gen. List)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5701</PageNumber>
     </MainItem>
   </ItemGroup>

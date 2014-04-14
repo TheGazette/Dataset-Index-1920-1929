@@ -88,7 +88,9 @@
       <Key>Bowles</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>L. T.</Forenames>
-      <Text>, O.B.E. (rel. comd. 1st or West Bn. I. of Jersey L.I.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>1683</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -185,7 +187,9 @@
       <Key>Bowser</Key>
       <Title>Maj.</Title>
       <Forenames>H. A.</Forenames>
-      <Text>, D.S.O. (Maj., Reg. Army Res. of Off., Regtl. List. R.G.A., late R.G.A.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1802</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -194,14 +198,19 @@
       <Key>Bowstead</Key>
       <Title>Lt.</Title>
       <Forenames>J. C</Forenames>
-      <Text>, D.C.M., M.M. (resigns commn.)</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>529</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Bowyer</Key>
-      <Text>. temp. 2nd Lt. E. B. (rel. commn. on completion of service and retains rank of 2nd Lt,)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>E. B.</Forenames>
+      <Text>(rel. commn. on completion of service and retains rank of 2nd Lt,)</Text>
       <PageNumber>719</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -287,7 +296,9 @@
       <Key>Boyd</Key>
       <Title>Capt. and Bt. Maj.</Title>
       <Forenames>J. D.</Forenames>
-      <Text>, D.S.O. (restd. to estabt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1786</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -327,7 +338,9 @@
       <Key>Boyle</Key>
       <Title>Capt.</Title>
       <Forenames>Charles Norman Cavendish</Forenames>
-      <Text>, M.C. (Capt., Reg. Armyrtes. of Off., Regtl. List, Rifle Bde., late Spec. Res.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>530</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -389,7 +402,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Boynton</Key>
-      <Text>. Gentleman Cadet Henry Fairfax Wickham, see Wiekham-Boynton, Ggntleman Cadet Henry Fairfax. Brabazon, temp. Lt. J. H., M.C (rel. commn. on completion of service and retains rank of Lt.)</Text>
+      <Forenames>Gentleman</Forenames>
+      <Text>Cadet Henry Fairfax Wickham, see Wiekham-Boynton, Ggntleman Cadet Henry Fairfax. Brabazon, temp. Lt. J. H., M.C (rel. commn. on completion of service and retains rank of Lt.)</Text>
       <PageNumber>916</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -398,7 +412,9 @@
       <Key>Brace</Key>
       <Title>temp. Maj.</Title>
       <Forenames>A. G.</Forenames>
-      <Text>, M.C. (rel. oommn. nn completion of service and retains rank of Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1066</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -409,7 +425,9 @@
       </Key>
       <Title>temp. Capt. (temp. Capt., S. Afr. Def. Force)</Title>
       <Forenames>T.</Forenames>
-      <Text>, M.C. (corr. of name in Gazette of 29 Aug., 19212</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1372</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -418,7 +436,9 @@
       <Key>Bracewell</Key>
       <Title>temp. 2nd Lt.</Title>
       <Forenames>C. C</Forenames>
-      <Text>, M.C. (rel. commn. on completion of service and retains rank of 2nd Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>125</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -466,7 +486,9 @@
       <Key>Bradbeer</Key>
       <Title>temp. Lt.</Title>
       <Forenames>F. B. J.</Forenames>
-      <Text>, M.C. (rel. commn. on completion of service and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -499,7 +521,9 @@
       <PageNumber>1050</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Ceases to be empld with M.G.C., Inf</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>1171</PageNumber>
     </SubItem>
   </ItemGroup>

@@ -131,7 +131,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hyndson</Key>
-      <Text>J. G. W</Text>
+      <Forenames>J. G. W</Forenames>
       <PageNumber>954</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -311,7 +311,9 @@
       <Key>Elphinstone-Dalrymple</Key>
       <Title>Sir</Title>
       <Forenames>F. N.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>868</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -504,8 +506,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Landon</Key>
-      <Forenames>G.</Forenames>
-      <Text>de L</Text>
+      <Forenames>G. de L</Forenames>
       <PageNumber>617</PageNumber>
     </MainItem>
   </ItemGroup>

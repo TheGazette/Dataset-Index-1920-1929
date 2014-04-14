@@ -67,7 +67,9 @@
       <Key>Mayos</Key>
       <Title>temp. Capt.</Title>
       <Forenames>C. F.</Forenames>
-      <Text>, M.C. (rel. commn. on completion of service and granted rank of Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>11211</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -131,7 +133,9 @@
     <MainItem>
       <Key>Meaohem</Key>
       <Forenames>Lt</Forenames>
-      <Text>, F. R., M.C. (rel. oommn. and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>11191</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -162,14 +166,18 @@
       </Key>
       <Title>temp. Maj.</Title>
       <Forenames>C</Forenames>
-      <Text>, O.B.E. (rel. commn. on completion of ser-vice and retains rank of Maj.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>12265</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Meade</Key>
-      <Text>Lt. E. C. (rel. commn. and granted rank of Capt.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>E. C.</Forenames>
+      <Text>(rel. commn. and granted rank of Capt.)</Text>
       <PageNumber>10836</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -261,8 +269,8 @@
     <MainItem>
       <Key>Mears</Key>
       <Title>temp. 2nd Lt.</Title>
-      <Forenames>A.</Forenames>
-      <Text>de Q (.temp, ut.)</Text>
+      <Forenames>A. de Q</Forenames>
+      <Text>(.temp, ut.)</Text>
       <PageNumber>12043</PageNumber>
     </MainItem>
     <SubItem>
@@ -360,7 +368,10 @@
       <Key>Meathrel</Key>
       <Title>Lt.</Title>
       <Forenames>H.</Forenames>
-      <Text>, M.C., D.C.M. (placed on h.p. list)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>10062</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -433,7 +444,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>H. E.</Forenames>
-      <Text>, D.S.O. (temp. Lt.-Col. whilst Dep. Inspr.-Gen. of Communications in India) '</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>9677</PageNumber>
     </MainItem>
     <SubItem>
@@ -505,21 +518,28 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Title>temp. Capt. and Acbt. Off.</Title>
-      <Text>, 5th CI., Thomas Alexander, M.C. (granted perm, commn. as Capt. and Acct. Offr., 5th CI., from Lt., R. Scots, T.F.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>11563</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Meeson</Key>
-      <Text>temp. Lt. P. M.. M.C. (rel. commn. on completion of service and retains rank of Lt,)</Text>
+      <Title>temp. Lt.</Title>
+      <Forenames>P. M.</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10725</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Megaw</Key>
-      <Text>Lt, J. G. K. (.rel. oommn. and retains rank of Lt.)</Text>
+      <Forenames>Lt</Forenames>
+      <Text>, J. G. K. (.rel. oommn. and retains rank of Lt.)</Text>
       <PageNumber>10275</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -542,7 +562,9 @@
     <MainItem>
       <Key>Meikle</Key>
       <Forenames>Lt</Forenames>
-      <Text>, M. C, M.C. (rel. commn. and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9793</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -550,7 +572,10 @@
     <MainItem>
       <Key>Meiklejohn</Key>
       <Title>Maj. (Bt. Lt.-Col.)</Title>
-      <Text>. J. R., D.S.O. (ceases to be empld. with M.G.C., Infy.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>12813</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -710,7 +735,9 @@
     <MainItem>
       <Key>Melly</Key>
       <Forenames>Lt</Forenames>
-      <Text>, A. J. M., M.C. (rel. conimn. and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>11893</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -803,7 +830,9 @@
       <Key>Menard</Key>
       <Title>temp. Capt.</Title>
       <Forenames>W. J.</Forenames>
-      <Text>, M.C. (rel. commn. on completion of service and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10278</PageNumber>
     </MainItem>
   </ItemGroup>

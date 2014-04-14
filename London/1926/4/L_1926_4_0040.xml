@@ -138,16 +138,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Vaizey</Key>
-      <Forenames>G.</Forenames>
-      <Text>de H</Text>
+      <Forenames>G. de H</Forenames>
       <PageNumber>7480</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Oppen</Forenames>
-      <Text>, L. W</Text>
+      <Key>Van Oppen</Key>
+      <Forenames>L. W.</Forenames>
       <PageNumber>6691</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -267,7 +265,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Webb</Key>
-      <Text>E. R</Text>
+      <Forenames>E. R</Forenames>
       <PageNumber>6548</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -476,18 +474,25 @@
     <MainItem>
       <Key>Glasgow</Key>
       <Forenames>Mason</Forenames>
-      <Text>, David, O.B.E</Text>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>7325</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Bedford</Key>
-      <Text>: . Barrett, Field-Marshal Sir Arthur Arnold, G.C.B., G.O.I.S., K.C.V.O</Text>
+      <Text>
+        <Honour>G.C.B.</Honour>
+        <Honour>K.C.V.O</Honour>
+      </Text>
       <PageNumber>6690</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Cox, Major-General Sir Percy Zachariah, G.C.M.G., G.C.I.E., K.C.SX</Text>
+      <Text>
+        <Honour>G.C.M.G.</Honour>
+      </Text>
       <PageNumber>8690</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -495,12 +500,17 @@
     <MainItem>
       <Key>Bedford</Key>
       <Title>(cont.)</Title>
-      <Text>: Halsey, Admiral Sir Lionel, G.C.M.G., G.C.V.O., K.C.I.E., C.B</Text>
+      <Text>
+        <Honour>G.C.M.G.</Honour>
+        <Honour>G.C.V.O.</Honour>
+        <Honour>K.C.I.E.</Honour>
+      </Text>
       <PageNumber>6690</PageNumber>
     </MainItem>
     <SubItem>
       <Text>
         <PageNumber>6690</PageNumber>
+        <Honour>T.D</Honour>
       </Text>
       <PageNumber>6690</PageNumber>
     </SubItem>
@@ -521,16 +531,23 @@
     </MainItem>
     <SubItem>
       <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>T.D.</Honour>
         <PageNumber>7257</PageNumber>
       </Text>
       <PageNumber>7255</PageNumber>
     </SubItem>
     <SubItem>
       <Text>
+        <Honour>T.D.</Honour>
         <PageNumber>7257</PageNumber>
         <PageNumber>7257</PageNumber>
+        <Honour>Bt</Honour>
         <PageNumber>7257</PageNumber>
+        <Honour>T.D.</Honour>
+        <Honour>M.D.</Honour>
         <PageNumber>7257</PageNumber>
+        <Honour>O.B.E.</Honour>
       </Text>
       <PageNumber>7258</PageNumber>
     </SubItem>
@@ -539,18 +556,23 @@
     <MainItem>
       <Key>Hertford</Key>
       <Forenames>Henderson</Forenames>
-      <Text>, Brig.Gen. Sir Brodie Haldane, K.C.M.G., C.B</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+      </Text>
       <PageNumber>8003</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Stafford</Key>
-      <Text>. Ednam, Captain The Right Hon. William Humble Eric Ward, Viscount, M.C</Text>
+      <Forenames>Ednam</Forenames>
+      <Text>, Captain The Right Hon. William Humble Eric Ward, Viscount, M.C</Text>
       <PageNumber>8536</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>de Falbe, Brig.-Gen. Vigant William, C.M.G., D. S.0</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>8536</PageNumber>
     </SubItem>
     <SubItem>
@@ -562,7 +584,9 @@
     <MainItem>
       <Key>Warwick</Key>
       <Forenames>Erskine</Forenames>
-      <Text>Murray, Lieut.-Col. Arthur, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>7258</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -583,7 +607,9 @@
       <Key>Westmorland</Key>
       <Title>Lord</Title>
       <Forenames>Henry Cavendish Bentinck</Forenames>
-      <Text>, T.D</Text>
+      <Text>
+        <Honour>T.D</Honour>
+      </Text>
       <PageNumber>8180</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -591,7 +617,9 @@
     <MainItem>
       <Key>Middlesex</Key>
       <Forenames>Sharpe</Forenames>
-      <Text>, Sir Montagu, K.C., D.L. .i</Text>
+      <Text>
+        <Honour>D.L.</Honour>
+      </Text>
       <PageNumber>8340</PageNumber>
     </MainItem>
   </ItemGroup>

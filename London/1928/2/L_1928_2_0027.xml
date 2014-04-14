@@ -22,7 +22,9 @@
       <Key>Hutchings</Key>
       <Title>Commander</Title>
       <Forenames>John Fenwick</Forenames>
-      <Text>, D.S.O., R.N., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3851</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -30,7 +32,9 @@
     <MainItem>
       <Key>Hutchison</Key>
       <Forenames>George Aitken Clark</Forenames>
-      <Text>, K.C., J.P., M.P., Knight</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>3846</PageNumber>
       <PageNumber>4410</PageNumber>
     </MainItem>
@@ -49,7 +53,9 @@
     <MainItem>
       <Key>Hutton</Key>
       <Forenames>Stamford</Forenames>
-      <Text>, M.B.E., J.P., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3855</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -91,7 +97,10 @@
       <Key>Jack</Key>
       <Title>Colonel (temporary Brigadier)</Title>
       <Forenames>Evan Maclean</Forenames>
-      <Text>, C. M.G., D.S.O., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3848</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -116,7 +125,11 @@
       <Key>Jarvis</Key>
       <Title>Rev.</Title>
       <Forenames>Alfred Charles Eustace</Forenames>
-      <Text>, C.M.G., M.C., D. D., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3847</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -167,7 +180,10 @@
       <Key>Johnson</Key>
       <Title>Colonel</Title>
       <Forenames>Robert Arthur</Forenames>
-      <Text>, C.B.E., T.D., Knight Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>3854</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -185,7 +201,9 @@
     <MainItem>
       <Key>Johnston</Key>
       <Forenames>Reginald Fleming</Forenames>
-      <Text>, O.B.E., Companion, Order of Saint Michael and Saint George</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3849</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -235,35 +253,314 @@
       <PageNumber>3859</PageNumber>
     </MainItem>
   </ItemGroup>
-  <KeyDitto>___ ___</KeyDitto>
-  <KeyDitto>___ ___</KeyDitto>
+  <ItemGroup>
+    <MainItem>
+      <Key>Jones</Key>
+      <Forenames>Robert Pierce</Forenames>
+      <Text>, Officer, Order of the British Empire</Text>
+      <PageNumber>3855</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Jordan</Key>
+      <Forenames>Stanley Rupert</Forenames>
+      <Text>, H.M. Vice-Consul in Levant Consular Service</Text>
+      <PageNumber>2813</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Jourdain</Key>
+      <Title>Colonel</Title>
+      <Forenames>Henry Francis Newdigate</Forenames>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
+      <PageNumber>4264</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Kay</Key>
+      <Title>Captain</Title>
+      <Forenames>Arthur Gwynne</Forenames>
+      <Text>, Officer, Order of the British Empire</Text>
+      <PageNumber>3852</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Keeling</Key>
+      <Title>Miss</Title>
+      <Forenames>Charlotte</Forenames>
+      <Text>, J.P., Member, Order of the British Empire</Text>
+      <PageNumber>3857</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Keith</Key>
+      <Title>Sir</Title>
+      <Forenames>William John</Forenames>
+      <Text>, CLE., Knight Commander, Order of the Star of India</Text>
+      <PageNumber>3849</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Ker</Key>
+      <Forenames>James Campbell</Forenames>
+      <Text>
+        <Honour>Companion, Order of the Star of India</Honour>
+      </Text>
+      <PageNumber>3849</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Kerr</Key>
+      <Forenames>Archibald John Kerr Clark</Forenames>
+      <Text>, H.M. Envoy Extraordinary and Minister Plenipotentiary to Republic of Chile</Text>
+      <PageNumber>2973</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Killick</Key>
+      <Forenames>Anthony Edward</Forenames>
+      <Text>, F.S.I., Officer, Order of the British Empire</Text>
+      <PageNumber>3856</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>King</Key>
+      <Forenames>Arthur Henry William</Forenames>
+      <Text>, H.M. Consul at Lisbon</Text>
+      <PageNumber>3500</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Forenames>Lieutenant-</Forenames>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
+      <PageNumber>3851</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Forenames>William Henry</Forenames>
+      <Text>, Member, Order of the British Empire</Text>
+      <PageNumber>3859</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Kingsland</Key>
+      <Forenames>Alfred William</Forenames>
+      <Text>, Member, Order of the British Empire</Text>
+      <PageNumber>3857</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Kirke</Key>
+      <Forenames>Claude Cecil Augustus</Forenames>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
+      <PageNumber>3500</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Kirkland</Key>
+      <Forenames>John</Forenames>
+      <Text>, F.R.I.B.A., Officer, Order of the British Empire</Text>
+      <PageNumber>3850</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Kishori</Key>
+      <Forenames>Lai Chaudhri</Forenames>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
+      <PageNumber>3859</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Kitoyi</Key>
+      <Forenames>Ajasa</Forenames>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
+      <PageNumber>3847</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Kittermaster</Key>
+      <Forenames>Harold Baxter</Forenames>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
+      <PageNumber>3860</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Knight</Key>
+      <Forenames>George Thomas</Forenames>
+      <Text>, Member, Order of the British Empire</Text>
+      <PageNumber>3857</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>John Broughton</Forenames>
-      <Text>, Commander, Order of the British Empire ... Knowles, George Shaw,, O.B.E., Commander, Order of the British Empire ... Knox, Richard, Member, Order of the British Empire ... Kshaunish Chandra Ray, Maharaja Bahadur, of Nadia, Knight Commander, Order of the Indian Empire (had he survived) ... Laffitte, Gabriel, M.B.E..: Member of the Executive Council of the Island of St. Lucia Nominated Member of the Legislative Council of St. Lucia Laing, Group Captain George, O.B.E., Commander, Order of the British Empire ... Lambert, Edward Thomas, H.M. Vice-Consul in Siam Lance, Octavius, M.B.E., Officer, Order of the British Empire Lander, Cecil Howard, D.Sc., Commander, Order of the British Empire Large, Tennyson John David, 3855 Officer, Order of the British Empire</Text>
-      <PageNumber>3856</PageNumber>
+      <Text>, Commander, Order of the British Empire</Text>
+      <PageNumber>3855</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Knowles</Key>
+      <Forenames>George Shaw</Forenames>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
+      <PageNumber>3859</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Knox</Key>
+      <Forenames>Richard</Forenames>
+      <Text>, Member, Order of the British Empire</Text>
+      <PageNumber>3857</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Kshaunish</Key>
+      <Forenames>Chandra Ray</Forenames>
+      <Text>, Maharaja Bahadur, of Nadia, Knight Commander, Order of the Indian Empire (had he survived)</Text>
+      <PageNumber>3850</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Laffitte</Key>
+      <Forenames>Gabriel</Forenames>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
+      <PageNumber>4018</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Lethem, Gordon James, Member of Executive Council of Colony of Nigeria</Text>
-      <PageNumber>3653</PageNumber>
+      <Text>Nominated Member of the Legislative Council of St. Lucia</Text>
+      <PageNumber>3734</PageNumber>
     </SubItem>
-    <SubItem>
-      <Text>Lindsay, Mr. Justice Benjamin, Knight</Text>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Laing</Key>
+      <Forenames>Group</Forenames>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
+      <PageNumber>3854</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Lambert</Key>
+      <Forenames>Edward Thomas</Forenames>
+      <Text>, H.M. Vice-Consul in Siam</Text>
+      <PageNumber>3500</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Lance</Key>
+      <Forenames>Octavius</Forenames>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
+      <PageNumber>3856</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Lander</Key>
+      <Forenames>Cecil Howard</Forenames>
+      <Text>, D.Sc., Commander, Order of the British Empire</Text>
+      <PageNumber>3855</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <KeyDitto>___ ___</KeyDitto>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___</KeyDitto>
+      </Key>
+      <Title>Major</Title>
+      <Forenames>Chilton Gresham</Forenames>
+      <Text>, Officer, Orderof the British Empire ... Lindsay, Mr. Justice Benjamin, Knight</Text>
       <PageNumber>3847</PageNumber>
-      <PageNumber>4410</PageNumber>
-    </SubItem>
-    <SubItem>
-      <Text>Logan, Ewen Reginald, Knight</Text>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Linlithgow</Key>
+      <Forenames>Victor Alexander John</Forenames>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>T.D.</Honour>
+        <Honour>D.L.</Honour>
+      </Text>
+      <PageNumber>3846</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___</KeyDitto>
+      </Key>
+      <Forenames>Lieutenant-</Forenames>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>3847</PageNumber>
-    </SubItem>
-    <SubItem>
-      <Text>Low, Austin, CLE., Knight</Text>
-      <PageNumber>3847</PageNumber>
-      <PageNumber>4410</PageNumber>
-    </SubItem>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Lucas</Key>
+      <Forenames>Edward</Forenames>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
+      <PageNumber>3856</PageNumber>
+    </MainItem>
   </ItemGroup>
   <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
 </Index>

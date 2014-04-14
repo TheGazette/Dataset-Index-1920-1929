@@ -23,7 +23,9 @@
       <Key>Henshall</Key>
       <Title>Capt.</Title>
       <Forenames>L. S.</Forenames>
-      <Text>, D.S.O. (lMaj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6761</PageNumber>
     </MainItem>
     <SubItem>
@@ -36,7 +38,9 @@
       <Key>Henson</Key>
       <Title>Lt.</Title>
       <Forenames>E. D.</Forenames>
-      <Text>(restd. to estalfot. on ceasing to Ibe empld. with M.G.C.)</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>6865</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -47,7 +51,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>G.</Forenames>
-      <Text>(restd. to eetafot. on ceasing to foe empid. with M.G.C.)</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>5579</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -57,7 +63,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Title>Lt.</Title>
-      <Text>(H. :D. (restd. to ©stafot. on ceasing to (be empld. with (M.G.C.)</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>5473</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -73,7 +81,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Herridge</Key>
-      <Text>(Lt. A. L., M.C. (restd. to estalbt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4813</PageNumber>
     </MainItem>
     <SubItem>
@@ -130,7 +140,9 @@
       <Key>Hewitt</Key>
       <Title>Capt.</Title>
       <Forenames>J. R.</Forenames>
-      <Text>, M.C. (resigns conunn. and retains rank of , Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4080</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -145,7 +157,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Hey</Key>
-      <Text>wood, Lt.-Coil. Sir G. P., Bt., D.S.O., T.D. i(trd. from T.F. Res. to Staffordshire Yeo.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>4030</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -154,7 +170,9 @@
       <Key>Halbfoard</Key>
       <Title>2nd Lt.</Title>
       <Forenames>H.</Forenames>
-      <Text>(E., MC D.C.IM. i(Lt.)</Text>
+      <Text>
+        <Honour>MC</Honour>
+      </Text>
       <PageNumber>5079</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -163,7 +181,9 @@
       <Key>Hiiblbert</Key>
       <Title>Lt.</Title>
       <Forenames>E. B.</Forenames>
-      <Text>(restd. to estafot. on ceasing to foe empld. with M.G.C.)</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>5702</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -191,18 +211,24 @@
   <ItemGroup>
     <MainItem>
       <Key>Higgin</Key>
-      <Text>IMaj. (R. G., T.D. (trd. to T..F.R.) ... ... .:</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>4569</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Higgs</Key>
-      <Text>Lt.-Col. F. W., C.B.E., M.b (Col)</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>F. W.</Forenames>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>4319</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Asst. Dir. of Med. Serv</Text>
+      <Text>Asst. Dir. of Med. Serv.</Text>
       <PageNumber>4320</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -220,7 +246,9 @@
       <Key>Highet</Key>
       <Title>Maj.</Title>
       <Forenames>W. T.</Forenames>
-      <Text>. M.C. (trd. to Ust East Lanes. Bde.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5223</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -246,7 +274,10 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>(Ma&lt;j. E., D.S.O., T.D. (Lt.Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>5343</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -332,7 +363,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>J.</Forenames>
-      <Text>IB. L. (nestd. to estabt. on ceasing to Ibe empld. with M.G.C.)</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>5578</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -343,7 +376,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>J. G.</Forenames>
-      <Text>, M.C., M.B. (resigns ooniimn. and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6312</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -407,7 +442,9 @@
     <MainItem>
       <Key>Hindson</Key>
       <Forenames>Lt</Forenames>
-      <Text>, F. J. C, M.C. (resigns commn., and granted rank of Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5702</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -426,7 +463,10 @@
       <Key>Hitchcock</Key>
       <Title>Lt.</Title>
       <Forenames>P. A.</Forenames>
-      <Text>, O.B.E., M.C. (trd. to Home Counties Div. Signals, R.E.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4966</PageNumber>
     </MainItem>
     <SubItem>
@@ -452,7 +492,9 @@
       <Key>Hofoson</Key>
       <Title>Capt.</Title>
       <Forenames>A. C. W.</Forenames>
-      <Text>, M.C. (Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6556</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -490,7 +532,10 @@
       <Key>Hodgson</Key>
       <Title>Lt.</Title>
       <Forenames>F.</Forenames>
-      <Text>, M.C. (restd. to estabt. on ceasing to be empld. with M.G.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>5704</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -510,7 +555,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>J. C.</Forenames>
-      <Text>(restd. to estabt. on ceasing to be empld. with M.G.C.) ;</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>5461</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -528,7 +575,9 @@
       <Key>Hoggarth</Key>
       <Title>Capt.</Title>
       <Forenames>L. S.</Forenames>
-      <Text>(restd. to estabt. on ceasing to be empld. with M.G.C.)</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>6772</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -537,7 +586,9 @@
       <Key>Holcombe</Key>
       <Title>2nd Lt.</Title>
       <Forenames>S. J. W.</Forenames>
-      <Text>, M.C. (Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5704</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -546,7 +597,10 @@
       <Key>Holden</Key>
       <Title>Capt.</Title>
       <Forenames>A. F.</Forenames>
-      <Text>, M.C. (restd. to estabt. on ceasing to be empld. with M.G.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>5702</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -574,7 +628,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Lt</Forenames>
-      <Text>, W. H. .(restd. to estabt. on ceasing to be empld. with M.G.C.)</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>6032</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -583,7 +639,9 @@
       <Key>Holland</Key>
       <Title>Lt.</Title>
       <Forenames>A. B.</Forenames>
-      <Text>(restd. to estabt. on ceasing to be empld. with M.G.C.)</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>5460</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -594,7 +652,10 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>H. W.</Forenames>
-      <Text>, D.S.O., O.B.E., T..D. (restd. to estabt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>6171</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -610,7 +671,9 @@
       <Key>Holloway</Key>
       <Title>Lt.</Title>
       <Forenames>A.</Forenames>
-      <Text>, M.C. (resigns commn., and retains rank of . Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6873</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -619,7 +682,9 @@
       <Key>Holman</Key>
       <Title>temp. Lt.</Title>
       <Forenames>B. W.</Forenames>
-      <Text>, O.B.E. (Capt., with pay and allces. of a Lt.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>5463</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -665,7 +730,7 @@
       <PageNumber>6170</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Adjt</Text>
+      <Text>Adjt.</Text>
       <PageNumber>6170</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -722,7 +787,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>W.</Forenames>
-      <Text>(restd. to estabt. on ceasing to be empld. with M.G.C.)</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>6866</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -730,8 +797,10 @@
     <MainItem>
       <Key>Homan</Key>
       <Title>Lt.</Title>
-      <Forenames>E. N. St</Forenames>
-      <Text>. J. L., M.C. (resigns commn., and granted rank of Capt.)</Text>
+      <Forenames>E. N. St. J</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5704</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -751,7 +820,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>F. W. E.</Forenames>
-      <Text>(restd. to estabt. on ceasing to be empld. with M.G.C.)</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>5460</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -832,7 +903,9 @@
     <MainItem>
       <Key>Hore</Key>
       <Forenames>Lt</Forenames>
-      <Text>, L. B., M.C. (rel. commn. on acc. of ill-health caused by wounds, and retains rank of</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6023</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -861,7 +934,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>E. W.</Forenames>
-      <Text>(restd. to estabt. on ceasing to be empld. with M.G.C.) ...'</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>6460</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -881,7 +956,9 @@
       <Key>Horsfall</Key>
       <Title>Capt.</Title>
       <Forenames>E.</Forenames>
-      <Text>, M.C. (Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5462</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -912,7 +989,10 @@
       <Key>Horsfield</Key>
       <Title>Maj.</Title>
       <Forenames>G. W.</Forenames>
-      <Text>, O.B.E., T.D. (trd. to llth Essex and Suffolk Med, Bde., with seniority as in</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>5579</PageNumber>
     </MainItem>
     <SubItem>
@@ -928,7 +1008,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Horton</Key>
-      <Text>Capt. F. H. Le G. (Adjt.).... Horwill, Lt. F. G. (trd. to 7th</Text>
+      <Title>Capt.</Title>
+      <Forenames>F. H. Le G.</Forenames>
+      <Text>(Adjt.).... Horwill, Lt. F. G. (trd. to 7th</Text>
       <PageNumber>6666</PageNumber>
     </MainItem>
     <SubItem>
@@ -962,14 +1044,17 @@
       <Key>Hoskvns</Key>
       <Title>Capt.</Title>
       <Forenames>C. B. A.</Forenames>
-      <Text>.(lAdjt.) ... Houdret, Lt, M., M.C. (actg. Capt. comdg. a Co., corr. of date</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5682</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hough</Key>
-      <Text>Lt, W. iN. (trd. to T.F.R.)</Text>
+      <Forenames>Lt</Forenames>
+      <Text>, W. iN. (trd. to T.F.R.)</Text>
       <PageNumber>4669</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -978,7 +1063,9 @@
       <Key>Howard</Key>
       <Title>Lt.</Title>
       <Forenames>E. W. V.</Forenames>
-      <Text>(restd. to estalbt. on ceasing to Ibe empld. with M.G.C.)</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>5472</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -998,7 +1085,9 @@
       <Key>Howe</Key>
       <Title>Lt.</Title>
       <Forenames>C.</Forenames>
-      <Text>(restd. to estalbt. on ceasing to Ibe empld. with M.G.C.)</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>6772</PageNumber>
     </MainItem>
   </ItemGroup>

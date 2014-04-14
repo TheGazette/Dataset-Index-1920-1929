@@ -30,14 +30,6 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Brown</Key>
-      <Forenames>A. V.</Forenames>
-      <Text>.:</Text>
-      <PageNumber>3935</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
@@ -213,8 +205,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Caledon</Key>
-      <Forenames>The</Forenames>
-      <Text>Earl of</Text>
+      <Title>The Earl</Title>
+      <Text>of</Text>
       <PageNumber>3738</PageNumber>
       <PageNumber>3739</PageNumber>
     </MainItem>
@@ -915,7 +907,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Crawhall</Key>
-      <Text>W. N. C</Text>
+      <Forenames>W. N. C.</Forenames>
       <PageNumber>4671</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -992,7 +984,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Crowdy</Key>
-      <Text>E. F</Text>
+      <Forenames>E. F</Forenames>
       <PageNumber>4437</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1016,7 +1008,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cruickshank</Key>
-      <Text>A. L</Text>
+      <Forenames>A. L</Forenames>
       <PageNumber>3934</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1089,7 +1081,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cust</Key>
-      <Text>R. B. Purey, see PureyCust, R. B. Cuthill. A. M</Text>
+      <Forenames>R. B. Purey</Forenames>
+      <Text>, see PureyCust, R. B. Cuthill. A. M</Text>
       <PageNumber>3349</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1235,14 +1228,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Dawes</Key>
-      <Text>G</Text>
+      <Forenames>G.</Forenames>
       <PageNumber>46</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Deacon</Key>
-      <Forenames>H. W.</Forenames>
+      <Key>de Vitre</Key>
+      <Forenames>E. C. D.</Forenames>
+      <Text>, see Denis de Vitre, E. C. Deacon, H. W</Text>
       <PageNumber>3423</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1272,7 +1266,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Denis</Key>
-      <Text>de Vitre, E. C</Text>
+      <Forenames>de Vitre</Forenames>
+      <Text>, E. C</Text>
       <PageNumber>3299</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1752,7 +1747,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Evans</Key>
-      <Text>I. T</Text>
+      <Forenames>I. T .</Forenames>
       <PageNumber>4310</PageNumber>
     </MainItem>
   </ItemGroup>

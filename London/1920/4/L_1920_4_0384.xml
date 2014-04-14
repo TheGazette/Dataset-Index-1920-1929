@@ -13,7 +13,9 @@
     <MainItem>
       <Key>Anderson</Key>
       <Forenames>W. M.</Forenames>
-      <Text>, C.I.E., M.D</Text>
+      <Text>
+        <Honour>M.D</Honour>
+      </Text>
       <PageNumber>10001</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -29,11 +31,16 @@
     <MainItem>
       <Key>Kennedy</Key>
       <Forenames>R. S.</Forenames>
-      <Text>, D.S.O., M.C. (temp.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10308</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>M.D., F.R.C.P., V.H.S</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>10001</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -72,7 +79,10 @@
     <MainItem>
       <Key>Davidson</Key>
       <Forenames>J.</Forenames>
-      <Text>, D.S.O., M.D</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.D</Honour>
+      </Text>
       <PageNumber>11945</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -87,7 +97,10 @@
     <MainItem>
       <Key>Johnston</Key>
       <Forenames>C. A.</Forenames>
-      <Text>, CB., D.S.O., M.B. (in consequence of illhealth)</Text>
+      <Text>
+        <Honour>CB</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>11353</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -103,7 +116,9 @@
     <MainItem>
       <Key>Palk</Key>
       <Forenames>C. H. L.</Forenames>
-      <Text>, M.B,, F.R.C.S., E</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>12401</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -172,11 +187,13 @@
     <MainItem>
       <Key>MeGillivray</Key>
       <Forenames>W. S.</Forenames>
-      <Text>M.D</Text>
+      <Text>
+        <Honour>M.D</Honour>
+      </Text>
       <PageNumber>11825</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Corr. of date of promn</Text>
+      <Text>Corr. of date of promn.</Text>
       <PageNumber>11351</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -184,7 +201,10 @@
     <MainItem>
       <Key>Philip</Key>
       <Forenames>J. L. R.</Forenames>
-      <Text>, M.B. ... Phirozshah Byramji Bharucha, D.S.O., F.R.C.S. (actg. Lt-.Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>10863</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -261,7 +281,9 @@
     <MainItem>
       <Key>Stinton</Key>
       <Forenames>J. A.</Forenames>
-      <Text>, V.C. (temp.)</Text>
+      <Text>
+        <Honour>V.C.</Honour>
+      </Text>
       <PageNumber>10308</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -269,7 +291,9 @@
     <MainItem>
       <Key>Stott</Key>
       <Forenames>H.</Forenames>
-      <Text>, O.B.E., M.B</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>10308</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -364,7 +388,7 @@
       <PageNumber>11350</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Corr. of date of temp. appt</Text>
+      <Text>Corr. of date of temp. appt.</Text>
       <PageNumber>11351</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -463,9 +487,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Souza</Forenames>
-      <Text>, Pascal</Text>
+      <Key>De Souza</Key>
+      <Forenames>Pascal</Forenames>
       <PageNumber>11945</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -729,7 +752,7 @@
       <PageNumber>9896</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Granted rank of Capt</Text>
+      <Text>Granted rank of Capt.</Text>
       <PageNumber>11827</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -971,7 +994,9 @@
     <MainItem>
       <Key>Craven</Key>
       <Forenames>A.</Forenames>
-      <Text>, O.B.E</Text>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>12198</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1070,8 +1095,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, P</Text>
+      <Key>O'Connor</Key>
+      <Forenames>P.</Forenames>
       <PageNumber>11124</PageNumber>
     </MainItem>
   </ItemGroup>

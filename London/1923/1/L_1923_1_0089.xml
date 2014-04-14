@@ -5,7 +5,10 @@
       <Key>Wynter</Key>
       <Title>Maj.</Title>
       <Forenames>W. E.</Forenames>
-      <Text>, M.D., F.R.C.S. i(is fretired, having attained age limit, and retains rank of Maj.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>612</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -14,7 +17,9 @@
       <Key>Yatee</Key>
       <Title>Maj.</Title>
       <Forenames>A. G.</Forenames>
-      <Text>, M.D. (rel. commn. and retains rank of Maj.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>1157</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -105,7 +110,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>R. R.</Forenames>
-      <Text>, M.D. (is retired, having attained age limit, and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>1074</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -135,11 +142,15 @@
       <Key>Yourell</Key>
       <Title>Capt.</Title>
       <Forenames>J. R.</Forenames>
-      <Text>, M.B. (Divl. Adjt., R.A.M.C., Gen. List, 46th IN. Mid.) Divn., from Sch. of Instn., and retains date of appt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>381</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Divl. Adjt., 46th (N. Mid.) Divn., R.A.M.C., from School of Instn. (Sub. Not.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>809</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -167,7 +178,9 @@
       <Key>Agius</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>A. V. L. B.</Forenames>
-      <Text>, M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>1823</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -201,7 +214,10 @@
     <MainItem>
       <Key>Beauchamp</Key>
       <Title>Hon. Col.</Title>
-      <Text>the Rt. Hon. the Earl, K.G., K.C.M.G</Text>
+      <Text>
+        <Honour>K.G.</Honour>
+        <Honour>K.C.M.G</Honour>
+      </Text>
       <PageNumber>66</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -210,7 +226,9 @@
       <Key>Brown</Key>
       <Title>Capt.</Title>
       <Forenames>A. T.</Forenames>
-      <Text>, M.B.E</Text>
+      <Text>
+        <Honour>M.B.E</Honour>
+      </Text>
       <PageNumber>67</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -252,7 +270,10 @@
     <MainItem>
       <Key>Cavendish</Key>
       <Title>Hon. Col.</Title>
-      <Text>the Rt. Hon. the Lord R. F., C.B., C.M.G. (Lt.-Col. ret., T.F.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>67</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -261,7 +282,11 @@
       <Key>Clitherow</Key>
       <Title>Hon. Col. (Lt.-Col. ret., T.F.) (Maj., Bt. Lt.-Col., ret. pay)</Title>
       <Forenames>J. B. Stracey-</Forenames>
-      <Text>, C.B.E., see Stracey-Clitherow, Hon. Col. (Lt.-Col., ret, T.F.) (Maj., Bt. Lt.-Col., ret. pay),J. B., C.B.E, Constantine, Lt.-Col. W. W., M.C</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>Bt</Honour>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>67</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -269,7 +294,9 @@
     <MainItem>
       <Key>Dartmouth</Key>
       <Title>Hon. Col. (Maj., ret., Vols.) Rt. Hon.</Title>
-      <Text>the Earl of, K.C.B., V.D</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+      </Text>
       <PageNumber>1823</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -278,7 +305,9 @@
       <Key>Davies</Key>
       <Title>Maj.</Title>
       <Forenames>J. H.</Forenames>
-      <Text>, O.B.E</Text>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>1823</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -286,7 +315,11 @@
     <MainItem>
       <Key>Derby</Key>
       <Title>Hon. Col.</Title>
-      <Text>the Rt. Hon. the Earl of, K.G., G.C.B., G.CVO., Secretary of State for War</Text>
+      <Text>
+        <Honour>K.G.</Honour>
+        <Honour>G.C.B.</Honour>
+        <Honour>CVO</Honour>
+      </Text>
       <PageNumber>67</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -294,7 +327,10 @@
     <MainItem>
       <Key>Devonshire</Key>
       <Title>Hon. Col.</Title>
-      <Text>the Rt. Hon. the Duke of, KG., G.C.M.G., G.C.V.O</Text>
+      <Text>
+        <Honour>KG</Honour>
+        <Honour>G.C.M.G.</Honour>
+      </Text>
       <PageNumber>1823</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -320,7 +356,9 @@
       <Key>Dugdale</Key>
       <Title>Maj. (ret.) (Hon. Capt. in Army)</Title>
       <Forenames>W. M.</Forenames>
-      <Text>, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>1823</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -328,7 +366,9 @@
     <MainItem>
       <Key>Evans</Key>
       <Forenames>Capt</Forenames>
-      <Text>, (Bt. Maj.) B. L. ... bt Fish, Capt. and Qrmr. W. A</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>1823</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -345,7 +385,9 @@
       <Key>Galbraith</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>W. C</Forenames>
-      <Text>, C.M.G</Text>
+      <Text>
+        <Honour>C.M.G</Honour>
+      </Text>
       <PageNumber>1823</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -371,7 +413,10 @@
       <Key>Goodman</Key>
       <Title>Col.</Title>
       <Forenames>G. D.</Forenames>
-      <Text>, C.M.G., D.S.O., V.D., retd</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>66</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -388,7 +433,9 @@
       <Key>Greaves</Key>
       <Title>Hon. Col.</Title>
       <Forenames>J. E.</Forenames>
-      <Text>, C.B.E</Text>
+      <Text>
+        <Honour>C.B.E</Honour>
+      </Text>
       <PageNumber>67</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -422,7 +469,9 @@
       <Key>Hamilton</Key>
       <Title>Gen. (ret. pay) (Col. Gordons) (Hon. Col., T.A.) Sir</Title>
       <Forenames>Ian S. M.</Forenames>
-      <Text>, G.C.B., G.C.M.G.j D.S.O</Text>
+      <Text>
+        <Honour>G.C.B.</Honour>
+      </Text>
       <PageNumber>1823</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -438,7 +487,9 @@
       <Key>Hemelryk</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>E. V.</Forenames>
-      <Text>, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>1823</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -464,7 +515,10 @@
       <Key>Higgs</Key>
       <Title>Capt.</Title>
       <Forenames>F. W.</Forenames>
-      <Text>, C.B.E., M.D</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>M.D</Honour>
+      </Text>
       <PageNumber>1823</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -488,7 +542,9 @@
       <Key>Howard</Key>
       <Title>Hon. Col.</Title>
       <Forenames>H. R. L</Forenames>
-      <Text>, C.B., Hon. Col., ret., Impl. Yeo. (Lt.-Col., retd.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>66</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -497,7 +553,11 @@
       <Key>Hunter</Key>
       <Title>Gen. Sir</Title>
       <Forenames>A.</Forenames>
-      <Text>, G.C.B., G.C.V.O., D.S.O., ret. pay, Col., King's Own R. (Res. of Off.), Hon. Col. T.A</Text>
+      <Text>
+        <Honour>G.C.B.</Honour>
+        <Honour>G.C.V.O.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>67</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -540,7 +600,10 @@
     <MainItem>
       <Key>Leicester</Key>
       <Title>Hon. Col.</Title>
-      <Text>, the Earl of, G.C.V.O., C.M.G., Col., ret. pay</Text>
+      <Text>
+        <Honour>G.C.V.O.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>67</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -557,7 +620,9 @@
       <Key>Lewis</Key>
       <Title>Maj.</Title>
       <Forenames>W. A</Forenames>
-      <Text>,, D.S.O., ret</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>67</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -574,7 +639,10 @@
       <Key>Low</Key>
       <Title>Maj.</Title>
       <Forenames>H. B.</Forenames>
-      <Text>, M.C., M.D., retd</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>67</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -598,14 +666,18 @@
       <Key>McCracken</Key>
       <Title>Maj.</Title>
       <Forenames>W.</Forenames>
-      <Text>, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>67</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>McDonald</Key>
-      <Text>^ Hon. Col. (Lt.-Col., ret., T.F.) G. F. H., O.B.E</Text>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>1823</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -614,7 +686,10 @@
       <Key>Mackenzie</Key>
       <Title>Maj.</Title>
       <Forenames>F. B.</Forenames>
-      <Text>, D.S.O., M.C</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>67</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -631,7 +706,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Mar</Key>
-      <Text>and Kellie, Hon. Col., the Earl of, K.T., King's Bodyguard for Scotland</Text>
+      <Text>
+        <Honour>K.T.</Honour>
+      </Text>
       <PageNumber>67</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -640,7 +717,9 @@
       <Key>Marians</Key>
       <Title>Maj.</Title>
       <Forenames>R. I.</Forenames>
-      <Text>, O.B.E</Text>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>1823</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -649,7 +728,9 @@
       <Key>Matthews</Key>
       <Title>Capt.</Title>
       <Forenames>R. D.</Forenames>
-      <Text>. M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>1823</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -675,7 +756,9 @@
       <Key>Munro</Key>
       <Title>Maj.</Title>
       <Forenames>W. F.</Forenames>
-      <Text>, M.C., M.B</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>67</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -692,7 +775,9 @@
       <Key>Niekalls</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>C. P.</Forenames>
-      <Text>, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>67</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -701,7 +786,9 @@
       <Key>Ord</Key>
       <Title>Hon. Col. (Capt., ret.) (Hon. Col., ret., T.F.)</Title>
       <Forenames>F. C</Forenames>
-      <Text>, C.B., V.D</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>1823</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -710,14 +797,19 @@
       <Key>Peal</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>W. E.</Forenames>
-      <Text>, D.S.O., retd</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>66</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Peel</Key>
-      <Text>. Hon. Col. the Rt. Hon. the Visct. G.B.E. (Lt.-Col., ret., TF)</Text>
+      <Title>Hon. Col.</Title>
+      <Text>
+        <Honour>G.B.E.</Honour>
+      </Text>
       <PageNumber>67</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -726,7 +818,9 @@
       <Key>Phillips</Key>
       <Title>Maj.</Title>
       <Forenames>E. C. M.</Forenames>
-      <Text>, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>67</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -735,7 +829,9 @@
       <Key>Pilkington</Key>
       <Title>Maj.</Title>
       <Forenames>G. R.</Forenames>
-      <Text>, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>1823</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -743,21 +839,30 @@
     <MainItem>
       <Key>Plymouth</Key>
       <Title>Hon. Col.</Title>
-      <Text>the Rt. Hon. the Earl of, G.B.E., C.B</Text>
+      <Text>
+        <Honour>G.B.E.</Honour>
+        <Honour>C.B</Honour>
+      </Text>
       <PageNumber>67</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Pooley</Key>
-      <Text>. Capt. and Qrmr. B., M.C</Text>
+      <Title>Capt. and Qrmr.</Title>
+      <Forenames>B.</Forenames>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>1823</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Reid</Key>
-      <Text>.Maj. R, S</Text>
+      <Title>Maj.</Title>
+      <Forenames>R</Forenames>
+      <Text>, S</Text>
       <PageNumber>1823</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -772,7 +877,12 @@
   <ItemGroup>
     <MainItem>
       <Key>Ritson</Key>
-      <Text>. Maj. T. A. S.. D.S.O., M.C</Text>
+      <Title>Maj.</Title>
+      <Forenames>T. A. S.</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>1823</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -788,7 +898,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rutland</Key>
-      <Text>. Hon. Col. the Duke of, K.G</Text>
+      <Title>Hon. Col.</Title>
+      <Text>the Duke of, K.G</Text>
       <PageNumber>1823</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -796,7 +907,9 @@
     <MainItem>
       <Key>Savile</Key>
       <Title>Hon. Col.</Title>
-      <Text>the Lord, K.C.V.O</Text>
+      <Text>
+        <Honour>K.C.V.O</Honour>
+      </Text>
       <PageNumber>67</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -823,258 +936,18 @@
       <Key>Shearman</Key>
       <Title>Maj.</Title>
       <Forenames>T.</Forenames>
-      <Text>, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>67</PageNumber>
     </MainItem>
   </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Smith</Key>
-      <Title>Maj.</Title>
-      <Forenames>F. W .</Forenames>
-      <PageNumber>66</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Title>Maj.</Title>
-      <Forenames>S. C. M</Forenames>
-      <PageNumber>67</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Stein</Key>
-      <Title>Lt.-Col.</Title>
-      <Forenames>A.</Forenames>
-      <Text>, M.C</Text>
-      <PageNumber>67</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Stevenson</Key>
-      <Title>Hon. Col. (ret.)</Title>
-      <Forenames>E. C</Forenames>
-      <Text>, V.D</Text>
-      <PageNumber>1823</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___</KeyDitto>
-      </Key>
-      <Title>Hon. Col.</Title>
-      <Forenames>J.</Forenames>
-      <Text>, C.B., V.D. (retd.)</Text>
-      <PageNumber>67</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Stracey-Clitherow</Key>
-      <Title>Hon. Col. (Lt.Col., ret., T.F.) (Maj., Bt. Lt.Col., ret. pay)</Title>
-      <Forenames>J. B.</Forenames>
-      <Text>, C.B.E</Text>
-      <PageNumber>1823</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Taylor</Key>
-      <Title>Maj.</Title>
-      <Forenames>E. N</Forenames>
-      <PageNumber>67</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Title>Capt. and Qrmr.</Title>
-      <Forenames>S. S.</Forenames>
-      <PageNumber>67</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Thomas</Key>
-      <Title>Maj.</Title>
-      <Forenames>H. E.</Forenames>
-      <Text>(retd.)</Text>
-      <PageNumber>67</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Thompson</Key>
-      <Title>Maj.</Title>
-      <Forenames>F. C</Forenames>
-      <PageNumber>67</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___</KeyDitto>
-      </Key>
-      <Title>Maj.</Title>
-      <Forenames>J. G.</Forenames>
-      <Text>, D.S.O., M.C</Text>
-      <PageNumber>1823</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Thomson</Key>
-      <Title>Maj.</Title>
-      <Forenames>R. A.</Forenames>
-      <PageNumber>67</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Trevenen</Key>
-      <Title>Maj.</Title>
-      <Forenames>W. D</Forenames>
-      <PageNumber>1825</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Turnbull</Key>
-      <Title>Lt.-Col. Sir</Title>
-      <Forenames>R.</Forenames>
-      <Text>, Kt, M.V.O</Text>
-      <PageNumber>1823</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Walker</Key>
-      <Title>Maj.</Title>
-      <Forenames>G. C</Forenames>
-      <Text>, O.B.E., M.C</Text>
-      <PageNumber>67</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Wallace</Key>
-      <Title>Maj.</Title>
-      <Forenames>D. J</Forenames>
-      <PageNumber>67</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>White</Key>
-      <Title>Maj. (ret.)</Title>
-      <Forenames>J. D</Forenames>
-      <PageNumber>1823</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Title>Maj.</Title>
-      <Forenames>S. H</Forenames>
-      <PageNumber>1823</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Wiggin</Key>
-      <Title>Lt.-Col.</Title>
-      <Forenames>W. H.</Forenames>
-      <Text>, D.S.O</Text>
-      <PageNumber>1823</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Wilkinson</Key>
-      <Text>the Revd. L. J., M.A., Chaplain, 2nd Class</Text>
-      <PageNumber>67</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Williams</Key>
-      <Title>Maj.</Title>
-      <Forenames>J. C. M.</Forenames>
-      <Text>, D.S.O</Text>
-      <PageNumber>67</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Winder</Key>
-      <Title>Maj.</Title>
-      <Forenames>B. H</Forenames>
-      <PageNumber>67</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Windsor</Key>
-      <Title>Lt.-Col.</Title>
-      <Forenames>A. H.</Forenames>
-      <Text>, C.M.G</Text>
-      <PageNumber>67</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Wise</Key>
-      <Forenames>Capt</Forenames>
-      <Text>, F. H., M.C</Text>
-      <PageNumber>67</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Wolff</Key>
-      <Title>Lt.-Col.</Title>
-      <Forenames>J. A</Forenames>
-      <PageNumber>66</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Jolly</Key>
-      <Title>actg. Chapln. the Rev.</Title>
-      <Forenames>R. B.</Forenames>
-      <Text>, M.A. (rel. commn. and to be Hon. Ohapln.)</Text>
-      <PageNumber>1233</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Livingstone</Key>
-      <Title>2nd Lt.</Title>
-      <Forenames>L.</Forenames>
-      <Text>, 1st C.B., K.R.R.C. (rel. commn. on ceasing to do duty with Cadet unit, and retains rank of 2nd Lt. with permission to wear prescribed uniform)</Text>
-      <PageNumber>382</PageNumber>
-    </MainItem>
-  </ItemGroup>
+  <KeyDitto>___ ___</KeyDitto>
+  <KeyDitto>___ ___ ___</KeyDitto>
+  <KeyDitto>___ ___</KeyDitto>
+  <KeyDitto>___ ___ ___</KeyDitto>
+  <KeyDitto>___ ___</KeyDitto>
   <SubSectionTitle>Commands and Staff</SubSectionTitle>
-  <ItemGroup>
-    <MainItem>
-      <Key>Adams</Key>
-      <Title>Lt. (temp. Capt.)</Title>
-      <Forenames>H. G.</Forenames>
-      <Text>(Rly. Trans. Offr., Waziristan Field Force)</Text>
-      <PageNumber>818</PageNumber>
-    </MainItem>
-  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>
@@ -1082,82 +955,14 @@
       </Key>
       <Title>Capt. (temp. Maj.)</Title>
       <Forenames>T.</Forenames>
-      <Text>, M.C. (Not. in Gaz., 13th June, 1922, of appt. as Admin. Comdt., graded as Dep. Asst. QM.G., Waziristan Field Force, cancelled)</Text>
-      <PageNumber>819</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Aiken</Key>
-      <Title>Lt.</Title>
-      <Forenames>V. J. D.</Forenames>
-      <Text>(Adjt. &amp; Qmr., Waziristan Field Force)</Text>
-      <PageNumber>818</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Aitken</Key>
-      <Title>Lt.</Title>
-      <Forenames>V. T.</Forenames>
-      <Text>(Not. in Gaz., 13th June, 1922, of appt. as Adjt. &amp; Qrmr., Waziristan Field Force, cancelled)</Text>
-      <PageNumber>819</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Aitkin</Key>
-      <Title>Maj.</Title>
-      <Text>&amp; Bt. Lt.-Col. (temp. Lt.-Col.) J. J., C.M.G., D.S.O. (Asst.. Dir. of Vet. Services, Wazirlltan Field Force) ~</Text>
-      <PageNumber>817</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Alfieri</Key>
-      <Title>Lt. (temp. Capt.)</Title>
-      <Forenames>F. J.</Forenames>
-      <Text>(Staff Capt., Waziristan Field Force)</Text>
-      <PageNumber>813</PageNumber>
-    </MainItem>
-    <SubItem>
-      <Text>Not. in Gaz., 13th June, 1922, of appt. as Staff Capt., Waziristan Field Force, cancelled</Text>
-      <PageNumber>819</PageNumber>
-    </SubItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Argles</Key>
-      <Title>Capt.</Title>
-      <Forenames>E. V.</Forenames>
-      <Text>(Staff Capt., Waziristan Field Force)</Text>
-      <PageNumber>813</PageNumber>
-    </MainItem>
-    <SubItem>
-      <Text>Not. in Gaz., 13th June, 1922, of appt. as Staff Capt., Waziristan Field Force, cancelled</Text>
-      <PageNumber>819</PageNumber>
-    </SubItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Armstrong</Key>
-      <Title>Capt.</Title>
-      <Forenames>A. G.</Forenames>
-      <Text>(Staff Capt., Waziristan Field Force)</Text>
-      <PageNumber>813</PageNumber>
-    </MainItem>
-    <SubItem>
-      <Text>Not. in Gaz., 13th June, 1922, of appt. as Staff Capt., Waziristan Field Force, cancelled</Text>
-      <PageNumber>819</PageNumber>
-    </SubItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Aylmer</Key>
-      <Title>Maj. (temp. Lt.-Col.)</Title>
-      <Forenames>G.</Forenames>
-      <Text>, M.C. (corr. of date of appt of Asst. Dir. of S. &amp; T.)</Text>
-      <PageNumber>2079</PageNumber>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>Bt</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
+      <PageNumber>66</PageNumber>
     </MainItem>
   </ItemGroup>
 </Index>

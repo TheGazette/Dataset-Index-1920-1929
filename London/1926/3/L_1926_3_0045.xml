@@ -59,8 +59,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Birnie</Key>
-      <Forenames>E. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>E. St. J</Forenames>
       <PageNumber>4325</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -281,8 +280,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Daunt</Key>
-      <Forenames>C. O</Forenames>
-      <Text>'B</Text>
+      <Forenames>C. O'B</Forenames>
       <PageNumber>5647</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -292,6 +290,13 @@
       <Forenames>F. G. T</Forenames>
       <PageNumber>4545</PageNumber>
       <PageNumber>5647</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Courcy</Key>
+      <Forenames>G. L.</Forenames>
+      <PageNumber>4715</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -377,7 +382,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Erskine</Key>
-      <Text>. K. C. S</Text>
+      <Forenames>K. C. S</Forenames>
       <PageNumber>5647</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1058,8 +1063,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Murison</Key>
-      <Forenames>G.</Forenames>
-      <Text>de H</Text>
+      <Forenames>G. de H</Forenames>
       <PageNumber>6036</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1093,8 +1097,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, C E. B</Text>
+      <Key>O'Connor</Key>
+      <Forenames>C</Forenames>
+      <Text>E. B</Text>
       <PageNumber>5647</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -30,7 +30,9 @@
     <MainItem>
       <Key>Bumstead</Key>
       <Forenames>Pilot Offr</Forenames>
-      <Text>. Leslie Bernard James, M.C. (resigns short serv. commn.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4335</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -61,7 +63,9 @@
     <MainItem>
       <Key>Byrne</Key>
       <Forenames>Flying Offr</Forenames>
-      <Text>. Reginald, M.C. (Flight Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4942</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -85,7 +89,9 @@
     <MainItem>
       <Key>Carnegie</Key>
       <Forenames>Flying Offr</Forenames>
-      <Text>. David Vaughan, A.F.C. (Flight Lt.)</Text>
+      <Text>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>4942</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -119,7 +125,14 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Wing Cdr</Forenames>
-      <Text>. Henry Meyrick Cave Brown, D.S.O., D.S.C.. see Cave-BrownCave, Wing Cdr. Henry Meyrick, D.S.O., D.S.C. Cave-Brown-Cave, Wing Cdr. Henry Meyrick, D.S.O., D.S.C. (Deputy Director of Design. Air Ministry)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>D.S.C.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>D.S.C.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>4065</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -135,7 +148,9 @@
     <MainItem>
       <Key>Chick</Key>
       <Forenames>Flying Offr</Forenames>
-      <Text>. Arthur Leslie, A.F.C. (Flight Lt.)</Text>
+      <Text>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>4942</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -150,14 +165,19 @@
   <ItemGroup>
     <MainItem>
       <Key>Christian</Key>
-      <Text>Flying Offr. John Car lyle, M.C. (confd. in rank)</Text>
+      <Forenames>Flying Offr</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3236</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Clark</Key>
-      <Text>Fit. Lt. Cecil Christian (resigns short service commn. and retains rank of Capt.)</Text>
+      <Title>Fit. Lt.</Title>
+      <Forenames>Cecil Christian</Forenames>
+      <Text>(resigns short service commn. and retains rank of Capt.)</Text>
       <PageNumber>3090</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -172,7 +192,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Cloete</Key>
-      <Text>Fit. Lt. Dirk. M.C.. A.F.C. (seed, for duty with Union Govt, of South Africa)</Text>
+      <Title>Fit. Lt. Dirk.</Title>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>3626</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -181,21 +205,26 @@
       <Key>Cockburn</Key>
       <Title>Maj.</Title>
       <Forenames>R. A.</Forenames>
-      <Text>, O.B.E. (granted permission to retain rank of Lt.-Col.. R.A.F.. on retirement from the Army)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4478</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Colam</Key>
-      <Text>Lt. (Middx R.) Edward Fickus (granted short service commn. as Flying Offr. on seconding for four years' duty with R.A.F.)</Text>
+      <Title>Lt. (Middx R.)</Title>
+      <Forenames>Edward Fickus</Forenames>
+      <Text>(granted short service commn. as Flying Offr. on seconding for four years' duty with R.A.F.)</Text>
       <PageNumber>4335</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Coles</Key>
-      <Text>Pilot Offr. on prob. Stanley Frederick (confd.)</Text>
+      <Forenames>Pilot Offr</Forenames>
+      <Text>. on prob. Stanley Frederick (confd.)</Text>
       <PageNumber>2819</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -218,7 +247,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Comerford</Key>
-      <Text>Pilot Offr. on prob. John Joseph (confd.)</Text>
+      <Forenames>Pilot Offr</Forenames>
+      <Text>. on prob. John Joseph (confd.)</Text>
       <PageNumber>3797</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -242,7 +272,9 @@
     <MainItem>
       <Key>Costello</Key>
       <Forenames>Joseph Mary Aloysius</Forenames>
-      <Text>, M.C., M.B. (granted short service commn. as Fit. Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3797</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -285,7 +317,7 @@
       <PageNumber>4335</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Corr. of date of effect of commn.</Text>
+      <Text>Corr. of date of effect of commn</Text>
       <PageNumber>4556</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -310,7 +342,9 @@
     <MainItem>
       <Key>Crowe</Key>
       <Forenames>Flying Offr</Forenames>
-      <Text>. Henry George, M.C. (Flight Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4942</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -327,7 +361,9 @@
       <Key>Curtis</Key>
       <Title>Flight</Title>
       <Forenames>Lt</Forenames>
-      <Text>, Walter John Brice, O.B.E. (Sqdn. Leader)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4942</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -382,7 +418,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dean</Key>
-      <Text>Godfrey Webster (granted short service commn. as Pilot Offr., on prob.)</Text>
+      <Forenames>Godfrey Webster</Forenames>
+      <Text>(granted short service commn. as Pilot Offr., on prob.)</Text>
       <PageNumber>3796</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -392,7 +429,9 @@
         <KeyDitto>___ —— ___ ___</KeyDitto>
       </Key>
       <Forenames>Flying Offr</Forenames>
-      <Text>. Ronald Eric, A.F.C. .(resigns short service commn. and granted rank of Capt.)</Text>
+      <Text>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>3962</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -424,7 +463,9 @@
     <MainItem>
       <Key>Dickson</Key>
       <Forenames>Flving Offr</Forenames>
-      <Text>. William Forster. D.S.O. .(Flight Lt,)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4942</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -439,28 +480,35 @@
   <ItemGroup>
     <MainItem>
       <Key>Dixon</Key>
-      <Text>Flvinar Offr. Noel Parker. A.F.C.' (Flisrht Lt.)</Text>
+      <Forenames>Flvinar Offr</Forenames>
+      <Text>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>4942</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Dodd</Key>
-      <Text>Pilot Offr. (on prob.) Thomas Courtenav (confirmed)</Text>
+      <Forenames>Pilot Offr</Forenames>
+      <Text>. (on prob.) Thomas Courtenav (confirmed)</Text>
       <PageNumber>4065</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Down</Key>
-      <Text>Flight Lt. Herbert John (Sqdn. Leader)</Text>
+      <Title>Flight Lt.</Title>
+      <Forenames>Herbert John</Forenames>
+      <Text>(Sqdn. Leader)</Text>
       <PageNumber>4942</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Downer</Key>
-      <Text>Frederick Wilmot Middlemist (granted short serv. commn. as Pilot Offr. on prob.)</Text>
+      <Forenames>Frederick Wilmot Mid-</Forenames>
+      <Text>dlemist (granted short serv. commn. as Pilot Offr. on prob.)</Text>
       <PageNumber>4834</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -474,7 +522,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Duke</Key>
-      <Text>Bernard Cecil (granted short service commn. as Pilot Offr. on prob.)</Text>
+      <Forenames>Bernard Cecil</Forenames>
+      <Text>(granted short service commn. as Pilot Offr. on prob.)</Text>
       <PageNumber>3090</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -490,7 +539,9 @@
     <MainItem>
       <Key>Durrant</Key>
       <Forenames>Flving Offr</Forenames>
-      <Text>. Reginald Frederick, A.F.C. (Flight Lt.)</Text>
+      <Text>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>4942</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -559,7 +610,10 @@
     <MainItem>
       <Key>Fletcher</Key>
       <Forenames>Wins Comdr</Forenames>
-      <Text>. Albert, C. M.G., C.B.E., M.C. (Group Capt.)</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4942</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -567,7 +621,9 @@
     <MainItem>
       <Key>Flint</Key>
       <Forenames>Maxwell Charles William Craig</Forenames>
-      <Text>, M.C. (granted short service commn. as Pilot Offr. on prob.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4834</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -604,7 +660,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Gem</Key>
-      <Text>Lt. Arthur Harvard Arnold, M.C. (rel. temp, commn. on ceasing to be empld. and granted rank of Maj.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>Arthur Harvard Arnold</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3962</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -628,18 +688,22 @@
     <MainItem>
       <Key>Glaisher</Key>
       <Forenames>Flying Offr</Forenames>
-      <Text>. John Malcolm, D.F.C. (granted permanent commn.)</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>3796</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Notification in Gaz. 24th Oct. 1919, of appt. to short service 'commm. cancelled.</Text>
+      <Text>Notification in Gaz. 24th Oct. 1919, of appt. to short service 'commm. cancelled</Text>
       <PageNumber>3796</PageNumber>
     </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Glen</Key>
-      <Text>Flight Lt, James Alpheus, D. S.C. (ceases to be seed, for dutv with Canadian Air Board)</Text>
+      <Title>Flight</Title>
+      <Forenames>Lt</Forenames>
+      <Text>, James Alpheus, D. S.C. (ceases to be seed, for dutv with Canadian Air Board)</Text>
       <PageNumber>4478</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -656,7 +720,10 @@
       <Key>Glenny</Key>
       <Title>Flight</Title>
       <Forenames>Lt</Forenames>
-      <Text>, Arthur Willoughby Falls, M.C., D.F.C. (Sqdn. Leader)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>4942</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -665,7 +732,11 @@
       <Key>Gordon</Key>
       <Title>Flight. Lt.</Title>
       <Forenames>Cedric Foskett</Forenames>
-      <Text>, O.B.E., M.C., D.F.C. (Sqdn. Leader)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>4942</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -674,7 +745,11 @@
       <Key>Graham</Key>
       <Title>Flight Lt.</Title>
       <Forenames>Ronald</Forenames>
-      <Text>, D.S.O., D.S.C., D.F.C. (Sqdn. Leader)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>D.S.C.</Honour>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>4942</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -701,7 +776,9 @@
       <Key>Gray</Key>
       <Title>Flight Lt.</Title>
       <Forenames>Alexander</Forenames>
-      <Text>, M.C. (Sqdn. Leader)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4942</PageNumber>
     </MainItem>
   </ItemGroup>

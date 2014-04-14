@@ -77,7 +77,9 @@
       <Key>Burge</Key>
       <Title>Capt.</Title>
       <Forenames>C. G.</Forenames>
-      <Text>, O.B.E. (Capt., from Flying A.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>1191</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -132,7 +134,9 @@
       <Key>Butter</Key>
       <Title>Maj. (actg. Col.)</Title>
       <Forenames>Charles Adrian James</Forenames>
-      <Text>, O.B.E. (rel. temp, commn. on appt. to T.F., and retains rank of Col.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>1373</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -140,7 +144,9 @@
     <MainItem>
       <Key>Byrne</Key>
       <Forenames>Flying Offr</Forenames>
-      <Text>. Reginald, M.C. (granted perm, commn. for Acct. duties)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>949</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -170,7 +176,9 @@
       <Key>Campbell-Martin</Key>
       <Title>Obsvr. Offr.</Title>
       <Forenames>Peter Clifford</Forenames>
-      <Text>, M.C. (dismissed the service by sentence of G.C.M.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1700</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -187,7 +195,10 @@
     <MainItem>
       <Key>Carnac</Key>
       <Forenames>Flying Offr</Forenames>
-      <Text>. W. J. Rivett, M.B.E. (see Rivett-Carnac, Flying Offr. W. J., M.B.E.). Carpenter, Flying Offr. Sydney David (rel. commn. on acc. of ill-health contracted in the service, and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>2304</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -221,14 +232,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Cash</Key>
-      <Text>. Cadet A. R. (Hon. 2nd Lt.)</Text>
+      <Title>Cadet</Title>
+      <Forenames>A. R.</Forenames>
+      <Text>(Hon. 2nd Lt.)</Text>
       <PageNumber>693</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Cashmore</Key>
-      <Text>. Flying Offr. Edwin Maurice (granted perm, commn.)</Text>
+      <Forenames>Flying Offr</Forenames>
+      <Text>. Edwin Maurice (granted perm, commn.)</Text>
       <PageNumber>589</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -315,7 +329,9 @@
       <Key>Clarke</Key>
       <Title>Maj.</Title>
       <Forenames>Edward Ernest</Forenames>
-      <Text>, A.F.C. (deprived of commn. on conviction by Civil Power)</Text>
+      <Text>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>377</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -546,7 +562,9 @@
     <MainItem>
       <Key>Cottle</Key>
       <Forenames>Flying Offr</Forenames>
-      <Text>. Jack, D.F.C. (granted perm, commn.)</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>1899</PageNumber>
     </MainItem>
     <SubItem>
@@ -672,7 +690,9 @@
       <Key>Cripps</Key>
       <Title>Flight Lt.</Title>
       <Forenames>Bertram Upton Sinclair</Forenames>
-      <Text>, M.C. (rel. temp, commn. on return to Army duty)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1283</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -769,14 +789,17 @@
   <ItemGroup>
     <MainItem>
       <Key>DAeth</Key>
-      <Text>. Flight Cadet. Narborough Hughes (granted perm, oommn. as Pilot Offr.)</Text>
+      <Title>Flight Cadet.</Title>
+      <Forenames>Narborough Hughes</Forenames>
+      <Text>(granted perm, oommn. as Pilot Offr.)</Text>
       <PageNumber>781</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Bailev</Key>
-      <Text>. Overseas Cadet J. J. (eorr. of surname)</Text>
+      <Forenames>Overseas</Forenames>
+      <Text>Cadet J. J. (eorr. of surname)</Text>
       <PageNumber>63</PageNumber>
     </MainItem>
   </ItemGroup>

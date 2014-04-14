@@ -947,7 +947,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Worcester</Key>
-      <Text>: Willis-Bund, John William, C.B.E., J.P., D.L</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>D.L</Honour>
+      </Text>
       <PageNumber>5371</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -997,7 +1000,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Surrey</Key>
-      <Text>: Elveden, Capt. the Rt. Hon. Rupert Edward Cecil Lee Guinness, Viscount, C.B., C.M.G</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G</Honour>
+      </Text>
       <PageNumber>4544</PageNumber>
     </MainItem>
     <SubItem>
@@ -1009,12 +1015,16 @@
     <MainItem>
       <Key>West</Key>
       <Forenames>Riding</Forenames>
-      <Text>of Yorkshire: Brooksbank, Sir Edward Clitherow, Bart</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>5581</PageNumber>
     </MainItem>
     <SubItem>
       <Text>
+        <Honour>Bart</Honour>
         <PageNumber>5581</PageNumber>
+        <Honour>Bart</Honour>
       </Text>
       <PageNumber>5581</PageNumber>
     </SubItem>

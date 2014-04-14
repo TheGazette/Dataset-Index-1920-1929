@@ -37,7 +37,9 @@
     <MainItem>
       <Key>Rudden</Key>
       <Forenames>Bernard</Forenames>
-      <Text>, M.B.E. (Capt., Keg. Army Res. of Offrs., late temp. Capt., Br. W.I.R.) -</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>6546</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -75,7 +77,9 @@
       <Key>Ruggles-Brice</Key>
       <Title>temp. Lt.</Title>
       <Forenames>H. R.</Forenames>
-      <Text>, M.C. (rel. commn. on completion of service, and granted rank Of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6366</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -93,7 +97,9 @@
       <Key>Rumbold</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>W. E.</Forenames>
-      <Text>, C.M.G</Text>
+      <Text>
+        <Honour>C.M.G</Honour>
+      </Text>
       <PageNumber>6546</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -111,7 +117,9 @@
       <Key>Runciman</Key>
       <Title>temp. Capt.</Title>
       <Forenames>A. W.</Forenames>
-      <Text>, M.C. (rel. commn. on completion of service, and granted rank of Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>304</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -174,7 +182,10 @@
     <MainItem>
       <Key>Russell</Key>
       <Forenames>A.</Forenames>
-      <Text>, O.B.E., M.C. (granted temp, rank as Lt. for services with Forces in E. Africa)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6338</PageNumber>
     </MainItem>
     <SubItem>
@@ -203,7 +214,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>Edward Frederick Langley</Forenames>
-      <Text>, Lord, M.C. (Lt., The King's R. from Reg. Army Res. of Offrs.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7208</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -289,7 +302,10 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>V. C</Forenames>
-      <Text>, D.S.O., M.C. (restd. to estabt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6822</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -336,7 +352,9 @@
       <Key>Ruxton</Key>
       <Title>temp. Maj.</Title>
       <Forenames>R. M. C</Forenames>
-      <Text>, O.B.E. (rel. commn. on completion of service and granted rank of Lt.-Col.), Sub. Not,</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>6705</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -423,7 +441,9 @@
       <Key>Sabbatella</Key>
       <Title>Lt.</Title>
       <Forenames>F.</Forenames>
-      <Text>, D.C.M. (retires, receiving a gratuity)</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>5538</PageNumber>
     </MainItem>
     <SubItem>
@@ -435,7 +455,9 @@
     <MainItem>
       <Key>Sackville</Key>
       <Forenames>Gentleman</Forenames>
-      <Text>Cadet Nigel Victor Stopford, see StopfordSackville, Nigel Victor. Sadler, temp. Maj. A., D.S.O. (rel. commn. on completion of service, and retains rank of Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5899</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -446,7 +468,9 @@
       </Key>
       <Title>temp.</Title>
       <Forenames>Capt</Forenames>
-      <Text>, C, M.C. (rel. commn. on completion of service, and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7632</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -494,21 +518,27 @@
       <Key>Sainsbury</Key>
       <Title>temp. Capt.</Title>
       <Forenames>G. W.</Forenames>
-      <Text>, M.C. (rel. commn. on completion of service, and granted rank of Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7444</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. Aubyn, Lt. J. H. A. G. (rel. commn., and retains rank of Lt.)</Text>
+      <Key>St. Aubyn</Key>
+      <Title>Lt.</Title>
+      <Forenames>J. H. A. G.</Forenames>
+      <Text>(rel. commn., and retains rank of Lt.)</Text>
       <PageNumber>7295</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. John, temp. Maj. E. F. S. (rel. commn. on completion of service, and retains rank of Maj.)</Text>
+      <Key>St. John</Key>
+      <Title>temp. Maj.</Title>
+      <Forenames>E. F. S.</Forenames>
+      <Text>(rel. commn. on completion of service, and retains rank of Maj.)</Text>
       <PageNumber>7506</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -519,7 +549,9 @@
       </Key>
       <Title>Col. (temp. Col.-Comdt.)</Title>
       <Forenames>R. S.</Forenames>
-      <Text>, CLE., D.S.O. (date of promn. to rank of Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5310</PageNumber>
     </MainItem>
     <SubItem>
@@ -529,15 +561,22 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. Lawrence, temp. Lt. R. T. (rel. commn. on completion of service, and retains rank of Lt.)</Text>
+      <Key>St. Lawrence</Key>
+      <Title>temp. Lt.</Title>
+      <Forenames>R. T.</Forenames>
+      <Text>(rel. commn. on completion of service, and retains rank of Lt.)</Text>
       <PageNumber>5539</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>. Leger, Lt.-Col. (temp. Col.) S. E., C.M.G., C.V.O., D.S.O. (Col.)</Text>
+      <Forenames>Leger</Forenames>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>C.V.O.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5546</PageNumber>
     </MainItem>
   </ItemGroup>

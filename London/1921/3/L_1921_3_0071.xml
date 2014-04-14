@@ -16,8 +16,8 @@
     <MainItem>
       <Key>Feilden</Key>
       <Title>temp. Lt.</Title>
-      <Forenames>G. St</Forenames>
-      <Text>. C. (rel. eommn. on completion of service, and retains rank of Lt.)</Text>
+      <Forenames>G. St. C</Forenames>
+      <Text>. (rel. eommn. on completion of service, and retains rank of Lt.)</Text>
       <PageNumber>7623</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -49,7 +49,9 @@
         <KeyDitto>___ ___ .</KeyDitto>
       </Key>
       <Title>Col.</Title>
-      <Text>and Chief Paymr. W. G. C, C.M.G. (retires on ret. pay)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>7209</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -95,7 +97,9 @@
       <Key>Fenoulhet</Key>
       <Title>Lt.</Title>
       <Forenames>W. G.</Forenames>
-      <Text>, M.C. (retires on ret. pay)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6258</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -104,7 +108,9 @@
       <Key>Fenton</Key>
       <Title>temp.</Title>
       <Forenames>Capt</Forenames>
-      <Text>, J., M.B.E. (rel. commn. on completion of service, and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>5793</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -156,7 +162,9 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>H.</Forenames>
-      <Text>, M.C. (rel. commn. on completion of service, and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7426</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -262,7 +270,10 @@
       <Key>Fergusson</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>A. C</Forenames>
-      <Text>, C.M.G., D.S.O. (Col.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6545</PageNumber>
     </MainItem>
   </ItemGroup>

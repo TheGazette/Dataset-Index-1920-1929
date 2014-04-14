@@ -249,7 +249,9 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>L. W.</Forenames>
-      <Text>, M.C. (rel. commn. on completion of service and granted rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1250</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -301,7 +303,10 @@
       <Key>Hunt</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>W. H. Holdsworth</Forenames>
-      <Text>, D.S.O. (see Holdsworth-Hunt, Lt.-Col. W. H., D.S.O.) Hunter, temp. Lt. G. (rel. commn. on completion of service and , retains rank of Lt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>141</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -367,7 +372,9 @@
       </Key>
       <Title>Lt.-Col.</Title>
       <Forenames>M. H.</Forenames>
-      <Text>, T.D. (ceases to be Comdt., Corps Education Sch.)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>2546</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -410,7 +417,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>R. G. P.</Forenames>
-      <Text>, O.B.E. (temp. Maj. whilst Dep. Asst. Dir. of Works)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>680</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -502,7 +511,7 @@
       <PageNumber>2382</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Rel. commn. on completion of service and retains rank of Capt.</Text>
+      <Text>Rel. commn. on completion of service and retains rank of Capt</Text>
       <PageNumber>2382</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -572,7 +581,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Hnrndall</Key>
-      <Text>. Maj. F. B.. M.C. (trd. to 14th H. from 20th H.)</Text>
+      <Title>Maj.</Title>
+      <Forenames>F. B.</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>350</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -588,14 +601,20 @@
   <ItemGroup>
     <MainItem>
       <Key>Hurst</Key>
-      <Text>. Co. Sjt.-Maj. (Wt. Offr., CI. II) Benjamin Henry Darby, D.C.M. (2nd Lt., Armv Educational Corns, from R.E., T.F.)</Text>
+      <Title>Co. Sjt.-Maj. (Wt. Offr., CI. II)</Title>
+      <Forenames>Benjamin Henry Darby</Forenames>
+      <Text>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>1965</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hushar</Key>
-      <Text>. Lt. W. S. (rel. appt. of I Adjt.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>W. S.</Forenames>
+      <Text>(rel. appt. of I Adjt.)</Text>
       <PageNumber>1972</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -861,7 +880,9 @@
       <Key>Hutt</Key>
       <Title>temp. Lt.</Title>
       <Forenames>A.</Forenames>
-      <Text>, M.B.E. (rel. commn. on completion of service and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>141</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -870,7 +891,9 @@
       <Key>Hutton</Key>
       <Title>temp. Capt.</Title>
       <Forenames>A. N.</Forenames>
-      <Text>, 'M.C. (rel. commn. on completion of service and retains rank of Capt)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1774</PageNumber>
     </MainItem>
   </ItemGroup>

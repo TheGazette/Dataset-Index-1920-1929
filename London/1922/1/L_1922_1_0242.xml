@@ -5,7 +5,9 @@
       <Key>Smith</Key>
       <Title>Lt.</Title>
       <Forenames>W. W.</Forenames>
-      <Text>, M.C. (restd. to estabt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>121</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -23,7 +25,13 @@
       <Key>Smollett</Key>
       <Title>Capt. and Bt. Maj.</Title>
       <Forenames>A. P. D. Telfer</Forenames>
-      <Text>, D.S.O., M.C., see Telfer-Smollett, Capt. and Bt. Maj. A. P. D., D.S.O., M.C. Smyth, Lt. A. H. (rel. commn. and retains rank of Lt,)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>Bt</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2498</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -73,7 +81,9 @@
       </Key>
       <Title>temp. 2nd Lt.</Title>
       <Forenames>W. S.</Forenames>
-      <Text>, M.M. (rel. commn. on completion of service and retains rank of 2nd Lt.)</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>145</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -200,7 +210,9 @@
       </Key>
       <Title>temp. 2nd Lt.</Title>
       <Forenames>G. W.</Forenames>
-      <Text>(M.G.C., Infy.) (rel. commn. on completion of service and retains rank of 2nd Lt.)</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>1054</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -211,7 +223,9 @@
       </Key>
       <Title>temp. 2nd Lt.</Title>
       <Forenames>J. F.</Forenames>
-      <Text>, D.C.M. (rel. commn. on completion of service and retains rank Of 2nd Lt.)</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>1791</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -322,7 +336,9 @@
       <Key>Snowden-Smith</Key>
       <Title>Capt. and Bt. Maj. (Asst. Sen. I.M.T.)</Title>
       <Forenames>R. T.</Forenames>
-      <Text>, C.B.E. (Actg. Maj.)</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>122</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -362,7 +378,9 @@
       <Key>Soames</Key>
       <Title>Maj.</Title>
       <Forenames>A. A.</Forenames>
-      <Text>, D.S.O. (retires on ret. pay and granted rank of Lt.-Col. in Reg. Army Res. of Off.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1787</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -449,7 +467,12 @@
   <ItemGroup>
     <MainItem>
       <Key>Solly-Flood</Key>
-      <Text>. Maj. and Bt. Col. (Rif. Bde.) R. K, C.M.G., D.S.O. (Col.)</Text>
+      <Title>Maj. and Bt. Col. (Rif. Bde.)</Title>
+      <Forenames>R. K</Forenames>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>720</PageNumber>
     </MainItem>
   </ItemGroup>

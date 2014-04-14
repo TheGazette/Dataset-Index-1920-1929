@@ -101,15 +101,17 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Delano-Osbjrne</Key>
-      <Forenames>O. H.</Forenames>
+      <Key>de Vitre</Key>
+      <Forenames>P. T. Denis</Forenames>
+      <Text>, see Denis de Vitre, P. T. Delano-Osbjrne, O. H</Text>
       <PageNumber>1827</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Denis</Key>
-      <Text>de Vitre, P. T</Text>
+      <Forenames>de Vitre</Forenames>
+      <Text>, P. T</Text>
       <PageNumber>2024</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -152,8 +154,10 @@
     <MainItem>
       <Key>Gethin</Key>
       <Title>Sir</Title>
-      <Forenames>R. W. St</Forenames>
-      <Text>. L., Bt</Text>
+      <Forenames>R. W. St. L</Forenames>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>2231</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -202,8 +206,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hamilton</Key>
-      <Forenames>O.</Forenames>
-      <Text>de C</Text>
+      <Forenames>O. de C</Forenames>
       <PageNumber>1364</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -339,7 +342,8 @@
   <ItemGroup>
     <MainItem>
       <Key>MacCarthy</Key>
-      <Text>. G. H MacDonnell, C. B. J</Text>
+      <Forenames>G. H</Forenames>
+      <Text>MacDonnell, C. B. J</Text>
       <PageNumber>2231</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -469,8 +473,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Leary, B. J</Text>
+      <Key>O'Leary</Key>
+      <Forenames>B. J</Forenames>
       <PageNumber>956</PageNumber>
     </MainItem>
     <KeyDitto>___ ___</KeyDitto>
@@ -606,7 +610,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tiarks</Key>
-      <Text>. J. G. E</Text>
+      <Forenames>J. G. E.</Forenames>
       <PageNumber>1270</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -648,8 +648,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bury</Key>
-      <Forenames>The</Forenames>
-      <Text>Viscount</Text>
+      <Title>The Viscount</Title>
       <PageNumber>5957</PageNumber>
       <PageNumber>6720</PageNumber>
     </MainItem>
@@ -993,7 +992,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Collis</Key>
-      <Text>. J. C</Text>
+      <Forenames>J. C .</Forenames>
       <PageNumber>5551</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1184,7 +1183,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Crompton</Key>
-      <Text>. G. A</Text>
+      <Forenames>G. A.</Forenames>
       <PageNumber>5404</PageNumber>
       <PageNumber>6384</PageNumber>
     </MainItem>
@@ -1199,8 +1198,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Crookshank</Key>
-      <Forenames>C.</Forenames>
-      <Text>de W</Text>
+      <Forenames>C. de W</Forenames>
       <PageNumber>6981</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1221,7 +1219,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cullen</Key>
-      <Text>. R. K</Text>
+      <Forenames>R. K .</Forenames>
       <PageNumber>5322</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1242,7 +1240,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Curr</Key>
-      <Text>. T</Text>
+      <Forenames>T.</Forenames>
       <PageNumber>5323</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1560,7 +1558,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>PC Draper, P</Text>
+      <Text>
+        <Honour>PC</Honour>
+      </Text>
       <PageNumber>6273</PageNumber>
     </MainItem>
   </ItemGroup>

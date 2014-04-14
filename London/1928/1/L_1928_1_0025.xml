@@ -14,7 +14,10 @@
       <Key>Ward</Key>
       <Title>Maj.-Gen.</Title>
       <Forenames>Henry Dudley Ossulston</Forenames>
-      <Text>, C.B., C.M.G., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>41</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -22,7 +25,13 @@
     <MainItem>
       <Key>Watson</Key>
       <Forenames>Charles Cunningham</Forenames>
-      <Text>, CLE., Companion, Order of the Star of India Watson, Vice Admiral Hugh . Hudley Richards, C.B., C.V.O., C.B.E., Knight Commander, Order of the Bath Watts, Sir Francis, K.C.M.G., Unofficial Member, Legislative Council, Trinidad and Tobago</Text>
+      <Text>
+        <Honour>Companion, Order of the Star of India</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>C.V.O.</Honour>
+        <Honour>C.B.E.</Honour>
+        <Honour>K.C.M.G.</Honour>
+      </Text>
       <PageNumber>2340</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -55,7 +64,9 @@
       <Key>Wickham</Key>
       <Title>Major</Title>
       <Forenames>Edward Thomas Ruscombe</Forenames>
-      <Text>, Member of the Fourth Class of the Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>2017</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -63,7 +74,9 @@
     <MainItem>
       <Key>Widdows</Key>
       <Forenames>Archibald Edwards</Forenames>
-      <Text>, C.B., Member, Royal Patriotic Fund Corporation</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>40</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -72,7 +85,11 @@
       <Key>Wigram</Key>
       <Title>Col.</Title>
       <Forenames>Clive</Forenames>
-      <Text>, C.B., C.S.I., C.V.O., Knight Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.V.O.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>6</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -88,7 +105,9 @@
     <MainItem>
       <Key>Winseer</Key>
       <Forenames>Cyril Legh</Forenames>
-      <Text>, M.V.O., Companion, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -121,7 +140,9 @@
       <Key>Wood</Key>
       <Title>Sir</Title>
       <Forenames>Kingsley</Forenames>
-      <Text>, M.P., Member of H.M. Privy Council</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>1</PageNumber>
       <PageNumber>831</PageNumber>
     </MainItem>
@@ -131,7 +152,10 @@
       <Key>Worley</Key>
       <Title>Sir</Title>
       <Forenames>Arthur</Forenames>
-      <Text>, C.B.E., Baronet</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
       <PageNumber>757</PageNumber>
     </MainItem>
@@ -227,7 +251,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bell</Key>
-      <Text>. G. H. H</Text>
+      <Forenames>G. H. H</Forenames>
       <PageNumber>1049</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -250,14 +274,6 @@
       <Key>Broadbent</Key>
       <Forenames>E. N</Forenames>
       <PageNumber>1293</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Bromley</Key>
-      <Forenames>Davenport</Forenames>
-      <Text>, W. H</Text>
-      <PageNumber>296</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -703,8 +719,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Martelli</Key>
-      <Forenames>H.</Forenames>
-      <Text>de O</Text>
+      <Forenames>H. de O</Forenames>
       <PageNumber>763</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -718,7 +733,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Meldrum</Key>
-      <Text>. R. F. A</Text>
+      <Forenames>R. F. A.</Forenames>
       <PageNumber>856</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -741,7 +756,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Milne</Key>
-      <Text>. Sir G. F</Text>
+      <Title>Sir</Title>
+      <Forenames>G. F.</Forenames>
       <PageNumber>1494</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -862,7 +878,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rawson</Key>
-      <Text>. C. D</Text>
+      <Forenames>C. D.</Forenames>
       <PageNumber>856</PageNumber>
       <PageNumber>856</PageNumber>
     </MainItem>
@@ -893,7 +909,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Richards</Key>
-      <Text>. V&gt;. J. R. . N</Text>
+      <Forenames>V</Forenames>
+      <Text>&gt;. J. R. . N</Text>
       <PageNumber>2020</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -967,8 +984,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Turner</Key>
-      <Forenames>A. F. St</Forenames>
-      <Text>. A o&amp;</Text>
+      <Forenames>A. F. St. A</Forenames>
+      <Text>o&amp;</Text>
       <PageNumber>5</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1304,7 +1321,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Heath</Key>
-      <Text>. G. W. E</Text>
+      <Forenames>G. W. E.</Forenames>
       <PageNumber>1050</PageNumber>
     </MainItem>
   </ItemGroup>

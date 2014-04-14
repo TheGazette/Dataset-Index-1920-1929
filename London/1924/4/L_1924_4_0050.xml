@@ -177,7 +177,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mullen</Key>
-      <Text>W,</Text>
+      <Forenames>W</Forenames>
+      <Text>,</Text>
       <PageNumber>7594</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -213,16 +214,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Neill</Key>
-      <Forenames>T.</Forenames>
-      <Text>de L</Text>
+      <Forenames>T. de L</Forenames>
       <PageNumber>9337</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Nicholl</Key>
-      <Forenames>W.</Forenames>
-      <Text>von R</Text>
+      <Forenames>W. von R</Forenames>
       <PageNumber>7594</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -270,8 +269,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, H. D</Text>
+      <Key>O'Neill</Key>
+      <Forenames>H. D.</Forenames>
       <PageNumber>7974</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -327,8 +326,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Parsons</Key>
-      <Forenames>O. St</Forenames>
-      <Text>. C. ... .:</Text>
+      <Forenames>O. St. C</Forenames>
+      <Text>. ... .:</Text>
       <PageNumber>9156</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1248,7 +1247,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Watson</Key>
-      <Text>D. A</Text>
+      <Forenames>D. A.</Forenames>
       <PageNumber>7595</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1524,12 +1523,16 @@
       <SubItem>
         <Text>
           <PageNumber>7594</PageNumber>
+          <Honour>C.B.</Honour>
         </Text>
         <PageNumber>7594</PageNumber>
       </SubItem>
     </SubCategoryTitle>
     <SubItem>
-      <Text>Needham, Colonel Joseph George, D.S.O., O.B.E., T.D</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>7594</PageNumber>
     </SubItem>
     <SubCategoryTitle>T.D 7594 Robinson, Lieut.-Col</SubCategoryTitle>
@@ -1557,7 +1560,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Worcester</Key>
-      <Text>: John William Willis-Bund, C.B.E. ,</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>8536</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1579,7 +1584,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Armitace</Key>
-      <Text>Harold (Universal Bobbin Co.), notice</Text>
+      <Forenames>Harold</Forenames>
+      <Text>(Universal Bobbin Co.), notice</Text>
       <PageNumber>8934</PageNumber>
     </MainItem>
   </ItemGroup>

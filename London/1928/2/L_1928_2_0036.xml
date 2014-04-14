@@ -306,7 +306,9 @@
       <Key>Keane</Key>
       <Title>Sir</Title>
       <Forenames>J.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>3873</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -610,7 +612,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lane</Key>
-      <Text>L. W</Text>
+      <Forenames>L. W.</Forenames>
       <PageNumber>2902</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -633,15 +635,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Langrishe</Key>
-      <Forenames>J.</Forenames>
-      <Text>du P</Text>
+      <Forenames>J. du P</Forenames>
       <PageNumber>2636</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Lascelles</Key>
-      <Text>J. N. P. Lathom-Browne, H. Lauder, T. C</Text>
+      <Forenames>J. N. P. Lathom-Browne</Forenames>
+      <Text>, H. Lauder, T. C</Text>
       <PageNumber>4184</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1223,7 +1225,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mair</Key>
-      <Text>G. T</Text>
+      <Forenames>G. T.</Forenames>
       <PageNumber>3782</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1237,7 +1239,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Makings</Key>
-      <Text>H. A</Text>
+      <Forenames>H. A.</Forenames>
       <PageNumber>3135</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1465,8 +1467,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Maude</Key>
-      <Forenames>H. N. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>H. N. St. J</Forenames>
       <PageNumber>4345</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1576,8 +1577,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Miller</Key>
-      <Forenames>H.</Forenames>
-      <Text>de B</Text>
+      <Forenames>H. de B</Forenames>
       <PageNumber>4265</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1811,8 +1811,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mullens</Key>
-      <Forenames>G. J.</Forenames>
-      <Text>de W</Text>
+      <Forenames>G. J. de W</Forenames>
       <PageNumber>3582</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -17,7 +17,7 @@
     </MainItem>
     <KeyDitto>-</KeyDitto>
     <SubItem>
-      <Text>Bel. commit., and retains rank of Lt.</Text>
+      <Text>Bel. commit., and retains rank of Lt</Text>
       <PageNumber>564</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -91,7 +91,7 @@
       <PageNumber>1356</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Rel. commn., and retains rank of Lt.</Text>
+      <Text>Rel. commn., and retains rank of Lt</Text>
       <PageNumber>2536</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -112,7 +112,11 @@
         <KeyDitto>___ ——</KeyDitto>
       </Key>
       <Title>Maj.</Title>
-      <Text>,.and Bt. Lt.-Col. C. R., C.M.G., D.S.O. (rel. actg. rank of Lt.-Col.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>2164</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -123,7 +127,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>E.</Forenames>
-      <Text>, M.M. (retires, receiving a gratuity)</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>1682</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -276,7 +282,9 @@
       </Key>
       <Title>temp. Capt.</Title>
       <Forenames>R. B.</Forenames>
-      <Text>, D.S.O. (rel. commn. on completion of service and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1532</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -296,7 +304,10 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>S. G.</Forenames>
-      <Text>; D.S.O., M.C. (temp. Lt.-Col. whilst Asst.-Dir. of Sigs. in India)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2186</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -362,7 +373,7 @@
       <PageNumber>152</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Rel. temp, rank of Capt. on ceasing to be Education Offr.</Text>
+      <Text>Rel. temp, rank of Capt. on ceasing to be Education Offr</Text>
       <PageNumber>353</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -373,7 +384,9 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>E. A.</Forenames>
-      <Text>, C.B.E. (rel. commn. on completion of service and granted rank of Lt.-Col.)</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>2370</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -405,7 +418,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>H. W.</Forenames>
-      <Text>, M.C. (rel. temp. rank of Capt. on ceasing to be empld. with Tank Corps)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1262</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -442,7 +457,9 @@
       </Key>
       <Title>temp. 2nd Lt.</Title>
       <Forenames>J. E.</Forenames>
-      <Text>(M.G.C., Infy.) (rel. commn. on completion of service and retains rank of 2nd Lt</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>2395</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -464,7 +481,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>K. A.</Forenames>
-      <Text>, D.S.O. (seed. for iservioe under Colonial Office)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1648</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -475,7 +494,10 @@
       </Key>
       <Title>Capt. (T./Maj.)</Title>
       <Forenames>M. A. B.</Forenames>
-      <Text>. M.C. (Bt. Maj.), for distinguished service</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>367</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -5,7 +5,12 @@
       <Key>Stuart</Key>
       <Title>Col.</Title>
       <Forenames>John Patrick Villiers</Forenames>
-      <Text>, D.S.O., O.B.E., see Villiers-Stuarfc, John Patrick, D.S.O., O.B.E</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>O.B.E.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>4409</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -13,7 +18,15 @@
     <MainItem>
       <Key>Stuart-Wortley</Key>
       <Title>Lt.</Title>
-      <Text>-Gen. the Hon. Sir Alan Richard Montagu, K.C.M.G., C.B., D.S.O., see MontaguStuart-Wortley, Lt.-Gen. the Hon. Sir Alan Richard, K.C.M.G., C.B., D.S.O. Such, Paymaster Commander Harold Vincent, R.D., R.N.R., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>4412</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -56,7 +69,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>William</Forenames>
-      <Text>, V.D., Companion, Star of India</Text>
+      <Text>
+        <Honour>Companion, Star of India</Honour>
+      </Text>
       <PageNumber>4410</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -64,7 +79,9 @@
     <MainItem>
       <Key>Syme</Key>
       <Forenames>George Adlington</Forenames>
-      <Text>, M.D. Knight Commander. Order of the British Empire</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>4418</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -147,7 +164,9 @@
     <MainItem>
       <Key>Tej</Key>
       <Forenames>Shumshere Jung</Forenames>
-      <Text>, General Sir, K.C.I.E., Honorary Knight Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>K.C.I.E.</Honour>
+      </Text>
       <PageNumber>3097</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -156,7 +175,10 @@
       <Key>Terry</Key>
       <Title>Sir</Title>
       <Forenames>Henry Mackie Imbert</Forenames>
-      <Text>, Bt., see ImbertTerry, Sir Henry Mackie, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4429</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -204,7 +226,10 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Nathan</Forenames>
-      <Text>, I.S.O., M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>I.S.O</Honour>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>4415</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -238,7 +263,9 @@
     <MainItem>
       <Key>Tollinton</Key>
       <Forenames>Henry Phillips</Forenames>
-      <Text>, CLE., Companion, Star of India</Text>
+      <Text>
+        <Honour>Companion, Star of India</Honour>
+      </Text>
       <PageNumber>4410</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -331,7 +358,9 @@
       <Key>Turnbull</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Thomas</Forenames>
-      <Text>, J.P., D.L., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.L.</Honour>
+      </Text>
       <PageNumber>4415</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -355,7 +384,9 @@
     <MainItem>
       <Key>Vasandrao</Key>
       <Forenames>Anandrao Dadhol-</Forenames>
-      <Text>kar, O.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4417</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -372,7 +403,11 @@
       <Key>Villiers-Stuart</Key>
       <Title>Col.</Title>
       <Forenames>John Patrick</Forenames>
-      <Text>, D.S.O., O.B.E., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>O.B.E.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>4409</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -381,7 +416,9 @@
       <Key>Vincent</Key>
       <Title>Col.</Title>
       <Forenames>Berkeley</Forenames>
-      <Text>, C.B., C. M.G., Knight Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>4412</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -397,7 +434,9 @@
     <MainItem>
       <Key>Wakely</Key>
       <Forenames>Leonard Day</Forenames>
-      <Text>, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>4409</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -432,7 +471,9 @@
     <MainItem>
       <Key>Wall</Key>
       <Forenames>Arthur Joseph</Forenames>
-      <Text>, O.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4415</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -449,7 +490,9 @@
       <Key>Warden</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Herbert Lawton</Forenames>
-      <Text>, D.S.O., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4415</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -466,7 +509,9 @@
     <MainItem>
       <Key>Watherston</Key>
       <Forenames>Charles Fell</Forenames>
-      <Text>, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>4409</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -493,7 +538,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Malcolm</Forenames>
-      <Text>, M.D., knighted</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>4408</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -510,7 +557,9 @@
       <Key>Wabb</Key>
       <Title>Sir</Title>
       <Forenames>Aston</Forenames>
-      <Text>, K.C.V.O., Member of the Royal Fine Art Commission</Text>
+      <Text>
+        <Honour>K.C.V.O.</Honour>
+      </Text>
       <PageNumber>4429</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -537,7 +586,9 @@
     <MainItem>
       <Key>Wedgwood</Key>
       <Forenames>Ralph Lewis</Forenames>
-      <Text>, C.B., CM.G., knighted</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>4407</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -553,7 +604,10 @@
     <MainItem>
       <Key>Whayman</Key>
       <Forenames>Engineer Rear-</Forenames>
-      <Text>Admiral William Matthias, C.B.E., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>4408</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -654,7 +708,9 @@
     <MainItem>
       <Key>Willingdon</Key>
       <Forenames>Freeman</Forenames>
-      <Text>, Baron, G.C.S.I., G.C.I.E., G.B.E. (Viscount) Willingdon, of Rattan</Text>
+      <Text>
+        <Honour>G.B.E.</Honour>
+      </Text>
       <PageNumber>4887</PageNumber>
       <PageNumber>4300</PageNumber>
     </MainItem>
@@ -665,7 +721,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Marie Adelaide</Forenames>
-      <Text>, Baroness C.I., D.B.E., Dame Grand Cross, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.B.E.</Honour>
+      </Text>
       <PageNumber>4417</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -674,7 +732,9 @@
       <Key>Willis</Key>
       <Title>Lieut.-Col.</Title>
       <Forenames>Evelyn Stuart Constaivtine</Forenames>
-      <Text>, D.S.O., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4300</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -713,7 +773,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Horace John</Forenames>
-      <Text>, C.B., C. B.E., Knight Commander, Order of the Bath</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>4409</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -723,7 +785,9 @@
         <KeyDitto>___</KeyDitto>
       </Key>
       <Forenames>James Arthur</Forenames>
-      <Text>, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>4415</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -734,7 +798,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>Nigel Maitland</Forenames>
-      <Text>, D. S.O., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>D. S.O.</Honour>
+      </Text>
       <PageNumber>4300</PageNumber>
     </MainItem>
   </ItemGroup>

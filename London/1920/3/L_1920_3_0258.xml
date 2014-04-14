@@ -20,7 +20,9 @@
       </Key>
       <Title>Maj.-Gen. Sir</Title>
       <Forenames>D.</Forenames>
-      <Text>iG. M., K.C.B. (Div. Comdr.)</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+      </Text>
       <PageNumber>7871</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -86,7 +88,9 @@
       <Key>Chambers</Key>
       <Title>Maj.</Title>
       <Forenames>P. B.</Forenames>
-      <Text>, D.S.O. (U.S.O., 2nd Gr.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7232</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -205,7 +209,9 @@
       <Key>Oowan</Key>
       <Title>Capt.</Title>
       <Forenames>D. T.</Forenames>
-      <Text>, M.C. (Staff Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7235</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -223,7 +229,9 @@
       <Key>
         <KeyDitto>___ ___ ___ .</KeyDitto>
       </Key>
-      <Text>iCapt. J. D., M.C. (Staff Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7234</PageNumber>
     </MainItem>
     <SubItem>
@@ -243,7 +251,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Crovvdv</Key>
-      <Text>. Maj. J. D. (Bde. Maj.)</Text>
+      <Title>Maj.</Title>
+      <Forenames>J. D.</Forenames>
+      <Text>(Bde. Maj.)</Text>
       <PageNumber>7233</PageNumber>
     </MainItem>
     <SubItem>
@@ -256,7 +266,9 @@
       <Key>Oruickshank</Key>
       <Title>Capt.</Title>
       <Forenames>A. J.</Forenames>
-      <Text>, D.S.O. (G.S.O., 2nd Gr.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7232</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -275,7 +287,9 @@
         <KeyDitto>-</KeyDitto>
       </Key>
       <Forenames>Cutbill</Forenames>
-      <Text>, Bt. iLt.-Col. R, L., D.S.O</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>7235</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -284,7 +298,9 @@
       <Key>Daly</Key>
       <Title>Bt. Maj.</Title>
       <Forenames>L. D.</Forenames>
-      <Text>, D.S.O. (Bde</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7232</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -302,7 +318,9 @@
       <Key>Davidson</Key>
       <Title>Capt.</Title>
       <Forenames>D. S.</Forenames>
-      <Text>, D.S.O. {Staff Capt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7234</PageNumber>
     </MainItem>
     <SubItem>
@@ -313,7 +331,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Davie</Key>
-      <Text>TA-Col. J. H. M.. D.S.O. (A.A. and Q.M.G.)</Text>
+      <Title>TA-Col.</Title>
+      <Forenames>J. H. M.</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7871</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -346,9 +368,40 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Title>Pree. Bt. Col. (T./Brig.-Gen.)</Title>
-      <Text>1. ID., C.B., C.M.G., D.S.O. (Bde. Cbmdr.)</Text>
+      <Key>de Clermont</Key>
+      <Title>Lt.</Title>
+      <Forenames>A. C.</Forenames>
+      <Text>(Staff Capt,)</Text>
+      <PageNumber>7235</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Courcv</Key>
+      <Title>Capt. Hon.</Title>
+      <Forenames>M. W. R.</Forenames>
+      <Text>(G.IS.O., 2nd Gr.)</Text>
+      <PageNumber>7231</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Fonblanque</Key>
+      <Title>Lt.</Title>
+      <Forenames>E. B.</Forenames>
+      <Text>(Staff Capt.)</Text>
+      <PageNumber>7234</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Pree</Key>
+      <Title>Bt. Col. (T./Brig.-Gen.)</Title>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7871</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -366,7 +419,11 @@
       <Key>Delamain</Key>
       <Title>Maj.-Gen. Sir</Title>
       <Forenames>W. S.</Forenames>
-      <Text>, K.C.M.G., C.B., D.S.O. {Divl. Comdr.)</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7231</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -437,7 +494,9 @@
       <Key>Dixon</Key>
       <Title>Capt.</Title>
       <Forenames>F. S.</Forenames>
-      <Text>, M.C. (Staff Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7235</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -448,7 +507,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>V. H.</Forenames>
-      <Text>(A.D.C., Personal Staff)</Text>
+      <Text>
+        <Honour>A.D.C.</Honour>
+      </Text>
       <PageNumber>7871</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -465,7 +526,9 @@
       <Key>Douglas-Withers</Key>
       <Title>Capt.</Title>
       <Forenames>H. H.</Forenames>
-      <Text>, M.C. (Bde. Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7233</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -564,7 +627,10 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>W. C</Forenames>
-      <Text>, D.S.O., M.C. (Staff Capt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7235</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -573,7 +639,9 @@
       <Key>Dunkley</Key>
       <Title>Capt.</Title>
       <Forenames>C. S.</Forenames>
-      <Text>, M.C. (Bde. Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7233</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -582,7 +650,9 @@
       <Key>Dunlop</Key>
       <Title>Maj.</Title>
       <Forenames>C. A. M.</Forenames>
-      <Text>, M.C. (rel. appt. as G.S.O.. 2nd Gr.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7872</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -627,7 +697,9 @@
       <Key>Edgcombe</Key>
       <Title>Lt.</Title>
       <Forenames>G. E. R</Forenames>
-      <Text>, (A.D.C., Personal Staff)</Text>
+      <Text>
+        <Honour>A.D.C.</Honour>
+      </Text>
       <PageNumber>7871</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -686,7 +758,9 @@
       <Key>Etheridge</Key>
       <Title>Maj.</Title>
       <Forenames>F.</Forenames>
-      <Text>, D.S.O. (rel: appt. as D.A.Q.M.G.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7238</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -702,7 +776,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ewan</Key>
-      <Text>. T./Capt. F. W. (Asst. Emb. Staff Offr., graded as Staff Cant., 4 Sept., 1916)</Text>
+      <Forenames>T.</Forenames>
+      <Text>/Capt. F. W. (Asst. Emb. Staff Offr., graded as Staff Cant., 4 Sept., 1916)</Text>
       <PageNumber>7236</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -720,7 +795,9 @@
       <Key>Falton</Key>
       <Title>Capt.</Title>
       <Forenames>J. D.</Forenames>
-      <Text>, M.C. (Staff Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7235</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -755,7 +832,9 @@
       <Key>Fisher</Key>
       <Title>Capt.</Title>
       <Forenames>C. J.</Forenames>
-      <Text>, D.S.O. (Staff .Capt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7235</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -782,7 +861,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Fowler</Key>
-      <Text>.Maj.-Gen. C. A., C.B., D.S.O. (rel. appt. as Div. Comdr.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7872</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -825,7 +907,9 @@
     <MainItem>
       <Key>Geary</Key>
       <Forenames>T.</Forenames>
-      <Text>/Cap.t. Sir W. N. M., Bt. (Spec, appt., graded for pay as Staff Capt.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>7237</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -924,7 +1008,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Green</Key>
-      <Text>. Capt. E. C. (rel. appt. as Bde. Maj.)</Text>
+      <Title>Capt.</Title>
+      <Forenames>E. C.</Forenames>
+      <Text>(rel. appt. as Bde. Maj.)</Text>
       <PageNumber>7238</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -933,7 +1019,9 @@
       <Key>Greenawav</Key>
       <Title>Bt. Lt.-Col.</Title>
       <Forenames>C</Forenames>
-      <Text>, D.S.O. (Bde Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7233</PageNumber>
     </MainItem>
     <SubItem>
@@ -955,7 +1043,9 @@
       <Key>Griffitlhs</Key>
       <Title>Lt.</Title>
       <Forenames>A. T.</Forenames>
-      <Text>, M.C. (G.S.O., 3rd Gr.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7871</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1024,7 +1114,10 @@
       <Key>Harner</Key>
       <Title>Maj.</Title>
       <Forenames>M. A.</Forenames>
-      <Text>, D.S.O., M.C. (D.A.A.G.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7232</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1042,7 +1135,9 @@
       <Key>Hamilton</Key>
       <Title>Capt.</Title>
       <Forenames>E. G.</Forenames>
-      <Text>, D.S.O,, M.C. (Bde. Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7033</PageNumber>
     </MainItem>
     <SubItem>
@@ -1064,7 +1159,9 @@
       <Key>Harbord</Key>
       <Title>Capt.</Title>
       <Forenames>G. M.</Forenames>
-      <Text>, M.C. (Bde. Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7233</PageNumber>
     </MainItem>
   </ItemGroup>

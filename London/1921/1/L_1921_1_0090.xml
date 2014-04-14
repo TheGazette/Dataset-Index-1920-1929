@@ -29,7 +29,7 @@
       <PageNumber>754</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Bel. commn., and retains rank of Lt.</Text>
+      <Text>Bel. commn., and retains rank of Lt</Text>
       <PageNumber>1249</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -91,11 +91,13 @@
       <Key>Farquhar</Key>
       <Title>Lt.</Title>
       <Forenames>H. L.</Forenames>
-      <Text>, M.C. (resigns commn.J</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2545</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Capt., Beg. Army Bes. of Offrs.</Text>
+      <Text>Capt., Beg. Army Bes. of Offrs</Text>
       <PageNumber>2547</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -115,7 +117,9 @@
       <Key>Farquharson</Key>
       <Title>Capt.</Title>
       <Forenames>C. W.</Forenames>
-      <Text>, O.B.E. (temp. Maj. whilst D.A.Q.M.G. in India)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>840</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -185,7 +189,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>John Arthur Joseph</Forenames>
-      <Text>, D.S.O. (Lt., Leins. B., Infy., from 5th Bn., Spec. Bes.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>847</PageNumber>
     </MainItem>
     <SubItem>
@@ -258,7 +264,9 @@
       <Key>Farrow</Key>
       <Title>temp. Capt.</Title>
       <Forenames>F. D.</Forenames>
-      <Text>, O.B.E. (rel. commn. on completion of service, and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>1778</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -325,7 +333,10 @@
       <Key>Faunfchorpe</Key>
       <Title>temp. Capt. (temp. Lt.-Col.)</Title>
       <Forenames>J. C</Forenames>
-      <Text>, C.B.E., M.C., V.D. (rel. commn. on oompleI tion of service, and retains rank of Lt.-Col.), Sub. Not</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>270</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -347,7 +358,11 @@
       <Key>Faussett</Key>
       <Title>Col.</Title>
       <Forenames>E. G. Godfrey</Forenames>
-      <Text>, C.B., C.M.G. (see Godfrey-Faussett, Col. E. G., C.B, C.M.G.). Faux, Lt. C. E. (h.p. list, retires on ret. pay)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>840</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -411,7 +426,9 @@
       <Key>Fawkes</Key>
       <Title>temp. Lt.</Title>
       <Forenames>W. J.</Forenames>
-      <Text>, M.C. (rel. commn. on completion of service, and granted rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1438</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -509,7 +526,9 @@
       </Key>
       <Title>Bt. Maj.</Title>
       <Forenames>B. T.</Forenames>
-      <Text>, D.S.p., M.C. (temp. Maj. whilst a D.A.A. and Q.M.G.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>16</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -563,7 +582,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Fennelly</Key>
-      <Text>. temp. Capt. W. F. (rel. oommn. on completion of service, and retains rank of Capt.)</Text>
+      <Title>temp. Capt.</Title>
+      <Forenames>W. F.</Forenames>
+      <Text>(rel. oommn. on completion of service, and retains rank of Capt.)</Text>
       <PageNumber>848</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -598,7 +619,9 @@
       <Key>Fenton</Key>
       <Title>temp. 2nd Lt.</Title>
       <Forenames>F. C</Forenames>
-      <Text>, M.C. (rel. commn. on completion of service, and retains rank of 2nd Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2291</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -617,7 +640,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>G. E.</Forenames>
-      <Text>, M.C. (date of promn. to Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1980</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -674,7 +699,9 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>D. G.</Forenames>
-      <Text>, M.C. (rel. appt. as Instr., II. Corps Educational School)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>440</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -760,11 +787,14 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Title>temp. Capt.</Title>
-      <Text>(Bt. Maj:J W., O.B.E. (B.E., Postal Sec___ tion) (rel. actg. rank of Lt.Col.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>849</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Bel. commn. on completion of service, and granted rank of Lt.-Col.</Text>
+      <Text>Bel. commn. on completion of service, and granted rank of Lt.-Col</Text>
       <PageNumber>762</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -809,7 +839,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Fernyhough</Key>
-      <Text>. Maj. and Bt. Col. (3rd Off., 3rd CI.) H. C, C.M.G., D.S.O (actg. Ord. Off., 1st CI., and actg. Col.)</Text>
+      <Title>Maj. and Bt. Col. (3rd Off., 3rd CI.)</Title>
+      <Forenames>H. C</Forenames>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>1534</PageNumber>
     </MainItem>
   </ItemGroup>

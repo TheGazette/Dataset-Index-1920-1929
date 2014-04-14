@@ -17,7 +17,9 @@
     <MainItem>
       <Key>Osborne</Key>
       <Title>Maj.</Title>
-      <Text>DA. Willoughby, D:S.O., see Willoughby-Osborne, Maj. DA., D.S.O.' Wilkinson, Col. M. L. (temp. Asst. Supt., Design Dept., Woolwich Arsenal, from Dep. Supt., R. Gun and Carriage Factory)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7436</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -25,7 +27,9 @@
     <MainItem>
       <Key>Willoughby-Osborne</Key>
       <Title>Maj.</Title>
-      <Text>DA., D.S.O. (Snr. Inspr. of Danger Buildings)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7035</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -35,7 +39,10 @@
       <Key>Lewes</Key>
       <Title>Col.</Title>
       <Forenames>P. K.</Forenames>
-      <Text>, C.M.G., D.S.O. (Member, from Asst. Dir. of Arty., War Office)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6447</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -64,7 +71,9 @@
       <Key>Abbot</Key>
       <Title>temp. Chapln., 4th CI., Rev.</Title>
       <Forenames>W. H.</Forenames>
-      <Text>, M.C. (rel. commn., and . to be Hon. Chapln., 4th CI.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7621</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -95,7 +104,9 @@
       </Key>
       <Title>Col.</Title>
       <Forenames>L. H.</Forenames>
-      <Text>, C.M.G. (date of promn. to rank of Col.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>5310</PageNumber>
     </MainItem>
     <SubItem>
@@ -128,7 +139,9 @@
       <Key>Ablett</Key>
       <Title>temp. Lt. (Lt., Can. Mil. Forces)</Title>
       <Forenames>C. A.</Forenames>
-      <Text>, O.B.E. (rel. temp, commn. on completion of service, and granted rank of Capt.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>6150</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -148,7 +161,11 @@
       <Key>Abraham</Key>
       <Title>temp. Maj.</Title>
       <Forenames>James J.</Forenames>
-      <Text>, D.S.O., M.D., F.R.C.S. (rel. aetg. rank of Lt.-Col.), Sub. Not</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.D.</Honour>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>7294</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -165,7 +182,9 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Title>temp.</Title>
-      <Text>. Hon. Maj. A. C, C.B.E. (rel. commn. on ceasing to be empld., and retains hon. rank of Maj.)</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>6458</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -222,7 +241,10 @@
     <MainItem>
       <Key>Acland-Troyte</Key>
       <Title>Maj. and Bt. Lt.</Title>
-      <Text>Col. G. J., C.M.G., D.S.O. (Lt.-Col., Reg. Army Res. of Offrs.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5461</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -283,7 +305,9 @@
         <KeyDitto>___ ___ ___ .</KeyDitto>
       </Key>
       <Title>Col.</Title>
-      <Text>' F., D.S.O. (date of promn. to rank of Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5310</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -384,7 +408,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>Walwyn Trerice</Forenames>
-      <Text>, M.C. (Lt., Reg. Army Res. of Offrs., late temp. Lt., E. York. R.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7111</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -401,8 +427,10 @@
     <MainItem>
       <Key>Addenbrooke</Key>
       <Title>temp. Lt.</Title>
-      <Forenames>H. St</Forenames>
-      <Text>. V., M.C. (rel. commn. on completion of service, and retains rank of Lt.)</Text>
+      <Forenames>H. St. V</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>0724</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -451,7 +479,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>Reginald Nichols</Forenames>
-      <Text>, M.C. (Capt., Reg. Army Res. of Offrs., late temp. Lt., Oxf. and Bucks. L.I.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7036</PageNumber>
     </MainItem>
   </ItemGroup>

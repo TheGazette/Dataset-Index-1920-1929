@@ -7,7 +7,11 @@
     <MainItem>
       <Key>Carr-White</Key>
       <Forenames>P.</Forenames>
-      <Text>, C.B.E., M.B., F.R.C.S. TEdin.), K.H.P</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>F.R.C.S.</Honour>
+        <Honour>K.H.P</Honour>
+      </Text>
       <PageNumber>8294</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -16,7 +20,9 @@
     <MainItem>
       <Key>Abbott</Key>
       <Title>(actg. Lt.-Col.)</Title>
-      <Text>, S. H. L-, D.S.O., M.B</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8493</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -47,7 +53,9 @@
     <MainItem>
       <Key>Carter</Key>
       <Title>(Bt. Lfc-Col.)</Title>
-      <Text>, R. M., C.B., F R C S Clement's, J. E., M!B</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>8498</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -78,7 +86,9 @@
     <MainItem>
       <Key>Lister</Key>
       <Forenames>A. E. J.</Forenames>
-      <Text>, M.B., F.R.C.S., V.H.S</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>8498</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -93,7 +103,9 @@
     <MainItem>
       <Key>Overbeck-Wright</Key>
       <Forenames>A. W.</Forenames>
-      <Text>, M.D</Text>
+      <Text>
+        <Honour>M.D</Honour>
+      </Text>
       <PageNumber>8498</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -102,7 +114,9 @@
       <Key>Peterson</Key>
       <Title>Bt. Lt.-Col.</Title>
       <Forenames>T. G. F.</Forenames>
-      <Text>, D.S.O., M.B</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8498</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -143,7 +157,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Bidie</Key>
-      <Text>. G., M.D., F.R.C.S. Edin</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>8499</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -242,9 +259,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Reenan</Forenames>
-      <Text>, J. W. (whilst comdg. a Combined Casualty Clearing Station)</Text>
+      <Key>Van Reenan</Key>
+      <Forenames>J. W.</Forenames>
+      <Text>(whilst comdg. a Combined Casualty Clearing Station)</Text>
       <PageNumber>8293</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -291,7 +308,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Holgate</Key>
-      <Text>(Bt. Maj. , M. J., O.B.E., lliB:</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>7891</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -314,8 +334,8 @@
     <MainItem>
       <Key>Kirwan</Key>
       <Title>(Bt. Maj.)</Title>
-      <Forenames>E. W. O</Forenames>
-      <Text>'G., M.B</Text>
+      <Forenames>E. W. O'G</Forenames>
+      <Text>., M.B</Text>
       <PageNumber>7766</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -323,7 +343,9 @@
     <MainItem>
       <Key>Lynn</Key>
       <Forenames>G. R.</Forenames>
-      <Text>, D.S.O., M.B</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7891</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -347,7 +369,9 @@
     <MainItem>
       <Key>Mohamed</Key>
       <Forenames>Abdur Rahman</Forenames>
-      <Text>(Bt. Maj.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>7891</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -441,7 +465,9 @@
     <MainItem>
       <Key>Symons</Key>
       <Forenames>H. J. H.</Forenames>
-      <Text>, M.C. (whilst comdg. a Combined Staging Section)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8498</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -464,7 +490,7 @@
   <ItemGroup>
     <MainItem>
       <Key>G</Key>
-      <Text>.vynne, Joseph Robert</Text>
+      <Text>vynne, Joseph Robert</Text>
       <PageNumber>10277</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -512,7 +538,9 @@
     <MainItem>
       <Key>Harland</Key>
       <Forenames>G. B.</Forenames>
-      <Text>, M.D. (resigns) ... t£S</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>94</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -810,6 +838,13 @@
       <Forenames>Ram Bhalla</Forenames>
       <Text>(and retains rank of iCaipt.) \</Text>
       <PageNumber>10277</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Netto</Key>
+      <Forenames>Frank</Forenames>
+      <PageNumber>9152</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

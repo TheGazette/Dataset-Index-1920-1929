@@ -33,7 +33,9 @@
     <MainItem>
       <Key>Woodcock</Key>
       <Forenames>Lt-Cdr</Forenames>
-      <Text>. Harry W. R.D. (plaoed on Retd. List)</Text>
+      <Text>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>7788</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -42,7 +44,9 @@
       <Key>Woods</Key>
       <Title>Lt. Cdr. (retd.)</Title>
       <Forenames>Richard R.</Forenames>
-      <Text>, R.D. (Cdr., retd.)</Text>
+      <Text>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>9119</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -116,7 +120,9 @@
       <Key>Jones</Key>
       <Title>Lt.</Title>
       <Forenames>Theodore W.</Forenames>
-      <Text>, O.B.E</Text>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>9119</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -131,7 +137,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rose</Key>
-      <Text>.Pay Lt. Herbert F. (Pay Lt.Cdr.)</Text>
+      <Forenames>Pay</Forenames>
+      <Text>Lt. Herbert F. (Pay Lt.Cdr.)</Text>
       <PageNumber>7668</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -180,7 +187,9 @@
     <MainItem>
       <Key>Brailey</Key>
       <Title>Surg.</Title>
-      <Text>-Cdr. xVrthur R., M.B., F.R.C.S , M.C. (Surg.Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7873</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -229,7 +238,10 @@
     <MainItem>
       <Key>Hanson</Key>
       <Title>Sura.</Title>
-      <Text>-Cdr. Reginald J. E., O.B.E., M.B., F.R.C.S. (Surg.. Capt.) _</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>7873</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -287,7 +299,9 @@
       <Key>Shipman</Key>
       <Title>temp. Lt.</Title>
       <Forenames>Frederick L.</Forenames>
-      <Text>, O.B.E. (temp. Lt.-Cdr.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>8034</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -354,7 +368,9 @@
       <Key>Parsons</Key>
       <Title>Maj.-Gen.</Title>
       <Forenames>Cunliffe</Forenames>
-      <Text>McN., C.B. (Lt.-Gen.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>8795</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -362,7 +378,9 @@
     <MainItem>
       <Key>Pease</Key>
       <Title>Lt.</Title>
-      <Text>-Gen. Leonard T., C.B. (placed on retd. pay, having attained age fixed tor compulsory retirement)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>8795</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -371,7 +389,11 @@
       <Key>Poole</Key>
       <Title>Col.</Title>
       <Forenames>Comdt Gerald R.</Forenames>
-      <Text>, C.B., C.M.G.. D.S.O., A.D.C,(Maj.Gen.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8795</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -450,7 +472,9 @@
     <MainItem>
       <Key>Phillipps</Key>
       <Title>Col.</Title>
-      <Text>2nd Comdt. Picton, C. M.G., M.V.O. (Col.-Comdt.)</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>9023</PageNumber>
     </MainItem>
     <SubItem>
@@ -575,7 +599,9 @@
       <Key>Ellison</Key>
       <Title>Capt.</Title>
       <Forenames>James F.</Forenames>
-      <Text>, M.C., D. C.M. (placed on Retd. List and lei. appt. as Recruiting Staff Offr., Bristol District)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7295</PageNumber>
     </MainItem>
     <SubItem>
@@ -588,7 +614,10 @@
       <Key>Evans</Key>
       <Title>Maj.</Title>
       <Forenames>Arthur E.</Forenames>
-      <Text>, O.B.E., M.C. (placed on Retd. List at own request, and apptd. to the Res. of Offrs., R.M., in rank last held on Active List)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8034</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -648,8 +677,8 @@
     <MainItem>
       <Key>Knight</Key>
       <Title>Maj.</Title>
-      <Forenames>John H.</Forenames>
-      <Text>de M. H. (borne supy. to establishment on return from Seed. List)</Text>
+      <Forenames>John H. de M</Forenames>
+      <Text>. H. (borne supy. to establishment on return from Seed. List)</Text>
       <PageNumber>7295</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -676,7 +705,10 @@
       <Key>Preston</Key>
       <Title>Capt.</Title>
       <Forenames>James E.</Forenames>
-      <Text>, C.G.M., D.C.M. (placed on Retd. List at own request)</Text>
+      <Text>
+        <Honour>C.G.M.</Honour>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>7295</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -732,7 +764,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Whitmarsh</Key>
-      <Text>. William Frank Paget (Prob. 2nd Lt)</Text>
+      <Forenames>William Frank Paget</Forenames>
+      <Text>(Prob. 2nd Lt)</Text>
       <PageNumber>7667</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -750,7 +783,9 @@
       <Key>Yeo</Key>
       <Title>Capt.</Title>
       <Forenames>Moritz R.</Forenames>
-      <Text>, O.B.E. (rel. grading ;of G.S.O., 2nd Grade, on return to Corpg Duty from the Seed. List)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>9033</PageNumber>
     </MainItem>
   </ItemGroup>

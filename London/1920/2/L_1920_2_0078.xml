@@ -64,7 +64,9 @@
       <Key>Brayshay</Key>
       <Title>Lt.</Title>
       <Forenames>J.</Forenames>
-      <Text>, M.C. (rel. commn</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5470</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -85,7 +87,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>W. R.</Forenames>
-      <Text>, M.C. (seed, for service on the Staff)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6415</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -103,7 +107,9 @@
       <Key>Breading</Key>
       <Title>Maj.</Title>
       <Forenames>G. R.</Forenames>
-      <Text>, D.S.O. (Lt.Col. Gen, Res. of Offrs.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5926</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -218,7 +224,9 @@
       <Key>Bremridge</Key>
       <Title>temp. Maj.</Title>
       <Forenames>R. H.</Forenames>
-      <Text>, O.B.E., M.B. (rel. commn. and retains rank of Maj.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>5572</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -227,7 +235,9 @@
       <Key>Brenraan</Key>
       <Title>Capt.</Title>
       <Forenames>C. H.</Forenames>
-      <Text>, M.C. (resigns commn.) ..:</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6765</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -271,7 +281,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>R.</Forenames>
-      <Text>, M.C. '(seed, for service with Ind. Army on proib.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4661</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -279,7 +291,9 @@
     <MainItem>
       <Key>Brent</Key>
       <Title>temp. Capt.</Title>
-      <Text>IR. iW., M.C. .(rel. commn. on completion of service and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6984</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -299,7 +313,9 @@
       <Key>Brett</Key>
       <Title>Lt.</Title>
       <Forenames>C.</Forenames>
-      <Text>IA., M.C. .(rel. commn. and granted rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6309</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -323,7 +339,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Brewin</Key>
-      <Text>Col. J. P. (retires on an Indian pension and granted hon. rank of Brig.-Gen.)</Text>
+      <Title>Col.</Title>
+      <Forenames>J. P.</Forenames>
+      <Text>(retires on an Indian pension and granted hon. rank of Brig.-Gen.)</Text>
       <PageNumber>6148</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -373,7 +391,9 @@
       <Key>Brickwood</Key>
       <Title>temp. Capt. (actg. Maj.)</Title>
       <Forenames>R.</Forenames>
-      <Text>, D.S.O. (rel. oommn. on completion of service and granted rank of Mag.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4565</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -419,7 +439,7 @@
       <PageNumber>5073</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>(Retires on ret. pay and granted rank of Capt</Text>
+      <Text>(Retires on ret. pay and granted rank of Capt.</Text>
       <PageNumber>6664</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -462,7 +482,10 @@
       <Key>Bridgford</Key>
       <Title>Col.</Title>
       <Forenames>R. J.</Forenames>
-      <Text>, C.B., C.M.G., D.iS.O'. (temp. Brig.JGen. whilst Comdr. in India)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>5677</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -500,7 +523,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>H.</Forenames>
-      <Text>, M.C. (rel. oommn. and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5680</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -510,7 +535,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Title>temp. Maj.</Title>
-      <Text>!N. &lt;H., O.B.E. (rel. commn. on completion of service and retains rank of Maj.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>6924</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -560,7 +587,9 @@
       </Key>
       <Title>2nd Lt.</Title>
       <Forenames>E. C</Forenames>
-      <Text>, M.C. (Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5680</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -705,7 +734,9 @@
       <Key>
         <KeyDitto>___ ___ —</KeyDitto>
       </Key>
-      <Text>i— ___ ___ Maj. andBt. Col. (temp..Brig.Gen.) J. E. S., C.MJG., D.S.O. (Col.) :</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4200</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -787,7 +818,7 @@
       <PageNumber>5700</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Rel. commn. and retains rank of Lt</Text>
+      <Text>Rel. commn. and retains rank of Lt.</Text>
       <PageNumber>6670</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -873,7 +904,9 @@
       <Key>Brittlabank</Key>
       <Title>Lt.</Title>
       <Forenames>W. G.</Forenames>
-      <Text>, M.C. (resigns commn. and granted rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4553</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -881,7 +914,10 @@
     <MainItem>
       <Key>Britton</Key>
       <Forenames>I.</Forenames>
-      <Text>O.M., 1st CI., and Lt.Col.. E. J. J., D.'S.O. Kactg. C.I.O.M.)</Text>
+      <Text>
+        <Honour>O.M.</Honour>
+        <Honour>O.M.</Honour>
+      </Text>
       <PageNumber>6556</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -932,7 +968,9 @@
       </Key>
       <Title>temp. Capt.</Title>
       <Forenames>J.</Forenames>
-      <Text>&amp;, M.B.E. (actg. Maj.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>4435</PageNumber>
     </MainItem>
   </ItemGroup>

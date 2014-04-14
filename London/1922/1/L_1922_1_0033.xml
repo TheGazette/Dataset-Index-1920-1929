@@ -12,8 +12,8 @@
     <MainItem>
       <Key>Andrade</Key>
       <Title>temp. Capt.</Title>
-      <Forenames>E. N.</Forenames>
-      <Text>de C. (rel. commn. on completion of I service and retains rank of , Capt.)</Text>
+      <Forenames>E. N. de C</Forenames>
+      <Text>. (rel. commn. on completion of I service and retains rank of , Capt.)</Text>
       <PageNumber>916</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -228,7 +228,9 @@
       <Key>Andrus</Key>
       <Title>Col. (h.p. list)</Title>
       <Forenames>T. A.</Forenames>
-      <Text>, C.M.G. (placed on h.p. on vacating appt. as Brig. Comdr.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>1680</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -275,7 +277,9 @@
       <Key>Angus</Key>
       <Title>temp. Maj.</Title>
       <Forenames>A. W.</Forenames>
-      <Text>, D.S.O. (rel. commn. on completion of service and granted rank of Lt.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1266</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -306,7 +310,9 @@
       <Key>Angus-Jones</Key>
       <Title>Maj.</Title>
       <Forenames>William</Forenames>
-      <Text>, O.B.E. (Maj., Reg. Army Res. of Off., Regtl. List, 9th L., late 21st L., Spec. Res.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>2577</PageNumber>
     </MainItem>
     <SubItem>
@@ -326,7 +332,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Anne</Key>
-      <Text>supern. Maj. H. O. C., M.C. (restd. to estaht.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1582</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -364,7 +372,10 @@
       <Key>Anson</Key>
       <Title>temp. Maj.</Title>
       <Forenames>G. W.</Forenames>
-      <Text>, M.B.E., M.C. (rel. commn. on completion of service and retains rank of Maj.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>340</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -391,7 +402,9 @@
       <Key>Anthony</Key>
       <Title>Capt.</Title>
       <Forenames>David Brynmor</Forenames>
-      <Text>, M.C. (Capt., Reg. Army Res. of Off., Regtl. List, R.W. Fus., late Serv. Bn.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>530</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -429,7 +442,9 @@
       <Key>Antwis</Key>
       <Title>temp. 2nd Lt.</Title>
       <Forenames>S. W.</Forenames>
-      <Text>, M.M. (rel. commn. on completion of service and retains rank of 2nd Lt.)</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>1567</PageNumber>
     </MainItem>
   </ItemGroup>

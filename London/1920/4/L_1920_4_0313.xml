@@ -5,7 +5,9 @@
       <Key>Awdry</Key>
       <Title>Capt.</Title>
       <Forenames>E. P.</Forenames>
-      <Text>, M.C. (date of precedence in T.F.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>12567</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -32,7 +34,9 @@
       <Key>Baber</Key>
       <Title>Capt.</Title>
       <Forenames>J. B.</Forenames>
-      <Text>, M.C. (Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10716</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -49,7 +53,9 @@
       <Key>Backhoff</Key>
       <Title>Lt.</Title>
       <Forenames>H. A. W.</Forenames>
-      <Text>, M.M. (resigns commn. and granted rank of Capt.)</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>10727</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -78,7 +84,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>E. F.</Forenames>
-      <Text>, M.C. (Capt., T.F.R. Engrs.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9674</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -89,7 +97,10 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>G. D.</Forenames>
-      <Text>, M.C. (trd. to 4th Bn., E. Kent R,, late M.G.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>10163</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -100,7 +111,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>H. E. C</Forenames>
-      <Text>, M.C. (trd. to 8t!h Bn., Scottish Rifles, late Scottish Rifles, S.R.), Sub. Not</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>11584</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -128,11 +141,13 @@
     <MainItem>
       <Key>Badenoch</Key>
       <Forenames>Lt</Forenames>
-      <Text>; (actg: Capt.) R. E., M.C. (rel. actg. rank of Capt. on ceasing to comd. a CO.) ' ;</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>11585</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Resigns' commn. and granted rank of Capt</Text>
+      <Text>Resigns' commn. and granted rank of Capt.</Text>
       <PageNumber>10715</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -141,7 +156,9 @@
       <Key>Badger</Key>
       <Title>2nd Lt.</Title>
       <Forenames>F.</Forenames>
-      <Text>, M.M. (Lt.)</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>9957</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -236,7 +253,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Bailv</Key>
-      <Text>Maj. C. A., O.B.E. (trd. to T.F.R. Infy., from E. Ang-</Text>
+      <Title>Maj.</Title>
+      <Forenames>C. A.</Forenames>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>12168</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -317,7 +338,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Lt</Forenames>
-      <Text>; A. S,, M.C... (resigns commn. and; retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10608</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -358,7 +381,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Title>Lt.</Title>
-      <Text>. J. O., M.C. (Maj;, ..T.F.R. Engrs.) ,,d</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9958</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -418,7 +443,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>F.</Forenames>
-      <Text>, O.B.E. (Lt.-Col., T.F.R. Infy.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>9674</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -500,7 +527,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>F. J.</Forenames>
-      <Text>, M.C. (temp. Ad.it.), Sub. Not</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>11584</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -551,7 +580,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Bales</Key>
-      <Text>Lt. P.G., M.C. (Capt., T.F.R. Infy.), Sub. Not</Text>
+      <Title>Lt.</Title>
+      <Forenames>P.G.</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10942</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -643,7 +676,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Balston</Key>
-      <Text>Cant. C. H. (Lt.-Col., T.F.R. Yeo.)</Text>
+      <Title>Cant.</Title>
+      <Forenames>C. H.</Forenames>
+      <Text>(Lt.-Col., T.F.R. Yeo.)</Text>
       <PageNumber>12157</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -695,7 +730,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Bankier</Key>
-      <Text>Lt. A. A. (trd. to Poval Wiltshire, late R.F.A., SR.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>A. A.</Forenames>
+      <Text>(trd. to Poval Wiltshire, late R.F.A., SR.)</Text>
       <PageNumber>11204</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -750,7 +787,9 @@
       <Key>Banwell</Key>
       <Title>Lt.</Title>
       <Forenames>G. E.</Forenames>
-      <Text>, M.C. (Capt., T.R.F. Infy.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10717</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -799,7 +838,9 @@
       <Key>Barbour</Key>
       <Title>Maj.</Title>
       <Forenames>R.</Forenames>
-      <Text>, T.D. (trd. to T.F.R. Yeo. from Ches. Yeo,)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>11571</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -890,7 +931,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>F. C.</Forenames>
-      <Text>M.C. (Capt., ' T.F.R. Infy.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9874</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -926,7 +969,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>N. L.</Forenames>
-      <Text>, O.B.E. (resigns commn. and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>10382</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1030,7 +1075,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>J. A. L.</Forenames>
-      <Text>. M.C. (resigns commn. and granted rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>12472</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1060,7 +1107,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>2nd 'Lt. T., M.M. (trd. to T.FiR. Ihfy. from 6th Bn., Manch.R:)</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>11572</PageNumber>
     </MainItem>
   </ItemGroup>

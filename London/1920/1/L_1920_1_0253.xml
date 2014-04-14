@@ -5,7 +5,9 @@
       <Key>Dawson</Key>
       <Title>Supern. Lt.</Title>
       <Forenames>S.</Forenames>
-      <Text>, M.C. (restd. to estabt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3420</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -16,7 +18,10 @@
       </Key>
       <Title>temp. Hon. Lt.-Col.</Title>
       <Forenames>W. E.</Forenames>
-      <Text>, O.B.E., M.D., F.R.C.P. ' (rel. commn:' and ' retains hon. rank of Lt.-Gol.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3631</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -36,11 +41,13 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>temp: Lt. W. M. G., M.C. (rel. actg. rank of Capt.) Sub. Not</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1059</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Actg. Maj</Text>
+      <Text>Actg. Maj.</Text>
       <PageNumber>652</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -112,7 +119,10 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>J.</Forenames>
-      <Text>, M.C., M.M. (retires, receiving a gratuity and granted rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>303</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -123,7 +133,9 @@
       </Key>
       <Title>Supern. Maj.</Title>
       <Forenames>N. A</Forenames>
-      <Text>! L., D.S.O. (restd. to estabt..)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>804</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -229,6 +241,24 @@
       <Text>(retires, receiving a gratuity)</Text>
       <PageNumber>486</PageNumber>
     </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Bethune</Key>
+      <Title>Lt.</Title>
+      <Forenames>H. F.</Forenames>
+      <Text>(placed on h.p. list on acc. of ill-health caused by wounds)</Text>
+      <PageNumber>2044</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Blaby</Key>
+      <Title>2nd Lt. (now Lt.)</Title>
+      <Forenames>G. T.</Forenames>
+      <Text>(date of commn.)</Text>
+      <PageNumber>798</PageNumber>
+    </MainItem>
     <SubItem>
       <Text>Lt., Sub. Not</Text>
       <PageNumber>1204</PageNumber>
@@ -236,10 +266,32 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Boer</Forenames>
-      <Text>, temp. Capt. H. S.. M.C. (rel. commn. and retains rank of Capt.)</Text>
+      <Key>De Boer</Key>
+      <Title>temp. Capt.</Title>
+      <Forenames>H. S.</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1925</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Burgh</Key>
+      <Title>temp. Capt.</Title>
+      <Forenames>J. W.</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
+      <PageNumber>2037</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Caraman</Key>
+      <Forenames>Chimay</Forenames>
+      <Text>, Lt. A. M. J. M. J., Count (resigns.commn.)</Text>
+      <PageNumber>2033</PageNumber>
     </MainItem>
     <SubItem>
       <Text>Trd! to Gen. Res. of Offrs</Text>
@@ -248,10 +300,35 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Chair</Forenames>
-      <Text>, Gapt. and Bt. Maj. C. H. B., .O.B.E., M.C. (restd. to estabt..)</Text>
+      <Key>De Chair</Key>
+      <Title>Gapt. and Bt. Maj.</Title>
+      <Forenames>C. H. B.</Forenames>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>489</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Courcy-Baldwin</Key>
+      <Title>Lt.</Title>
+      <Forenames>W. L.</Forenames>
+      <Text>(actg. Maj.)</Text>
+      <PageNumber>1058</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Courcy-Ireland</Key>
+      <Title>temp. Capt.</Title>
+      <Forenames>G. B.</Forenames>
+      <Text>
+        <Honour>M.V.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
+      <PageNumber>3750</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -297,7 +374,9 @@
       <Key>Gaury</Key>
       <Title>temp. Lt.</Title>
       <Forenames>G. H. S. R. V.</Forenames>
-      <Text>, M.C. (rel. aotg. rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>303</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -357,7 +436,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lt</Key>
-      <Text>.-Col.)</Text>
+      <Text>-Col.)</Text>
       <PageNumber>2267</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -391,7 +470,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Montezuma</Key>
-      <Text>temp Lt. J. M., M.C. (rel. commn. on completion of serivce and retains rank of Lt.) ,</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2020</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -409,7 +490,9 @@
       <Key>Mowbray</Key>
       <Title>temp.</Title>
       <Forenames>Capt</Forenames>
-      <Text>: R. M., F.R.C.S. (rel. commn. and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>936</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -418,7 +501,9 @@
       <Key>Paula</Key>
       <Title>temp. Maj.</Title>
       <Forenames>W. M.</Forenames>
-      <Text>, M.C. (rel. actg. rank of Lt.-Col. on ceasing to comd. a Bn.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3292</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -445,7 +530,11 @@
       <Key>Pree</Key>
       <Title>Lt.-Col. (Bt. Col.)</Title>
       <Forenames>H. D.</Forenames>
-      <Text>, C.B., C.M.G.. D.S.O. (Col.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1549</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -458,7 +547,7 @@
       <PageNumber>670</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Corr. of date of promn. to rank of Lt</Text>
+      <Text>Corr. of date of promn. to rank of Lt.</Text>
       <PageNumber>816</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -467,7 +556,9 @@
       <Key>Putron</Key>
       <Title>Miss</Title>
       <Forenames>A. M.</Forenames>
-      <Text>, O.B.E. (ceases to be empld. as Dep.Controller, Q.M.A.A.C.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>2570</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -487,7 +578,9 @@
       <Key>Rinzy</Key>
       <Title>Lt.</Title>
       <Forenames>N. L. C</Forenames>
-      <Text>, M.C. (rel. actg. rank of Capt. on ceasing to be Adjt., Notts and Derby R., A. of O.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2747</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -496,7 +589,9 @@
       <Key>Ritter</Key>
       <Title>temp. Lt.</Title>
       <Forenames>J. R.</Forenames>
-      <Text>, M.C. (rel. commn. on completion of Bervice and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1663</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -514,14 +609,21 @@
       <Key>Roubaix</Key>
       <Title>Lt.</Title>
       <Forenames>S. A. G. Andreac</Forenames>
-      <Text>, M.C.. (resigns commn. and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1521</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Rougemont</Key>
-      <Text>.Col. C. -H., C.B., C.M.G., M.V.O., D.S.O. (placed on h.p.).. . ,_-</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>M.V.O.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>806</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -540,8 +642,31 @@
         <PageNumber>___ ___ ___ ___ ___ ___ ___</PageNumber>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>de Sales la Terriere, Capt. (temp. Lt.-Col.) , H. M. B., M.C. (retires, receiving a gratuity and granted rank of Lt.-Col.) Sub. Not. .. .. .. ,</Text>
+      <Forenames>de Sales</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>411</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Teissier</Key>
+      <Title>Capt.</Title>
+      <Forenames>G. F.</Forenames>
+      <Text>(retires, receiving a gratuity)</Text>
+      <PageNumber>2401</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Trafford</Key>
+      <Title>Capt.</Title>
+      <Forenames>H. E.</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
+      <PageNumber>1774</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -553,7 +678,7 @@
       <PageNumber>670</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Corr. of date of promn. to rank of Lt</Text>
+      <Text>Corr. of date of promn. to rank of Lt.</Text>
       <PageNumber>816</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -562,7 +687,9 @@
       <Key>Deacon</Key>
       <Title>Capt.</Title>
       <Forenames>H. W.</Forenames>
-      <Text>, D.F.C. (seed, for serv. with RAF.)</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>2567</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -628,7 +755,7 @@
       <PageNumber>1523</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Rel. commn. on acc. of ill-health and retains rank of Lt., Sub. Not</Text>
+      <Text>Rel. commn. on acc. of ill-health and retains rank of Lt., Sub. Not.</Text>
       <PageNumber>1524</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -646,7 +773,10 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>temp! Capt. C, M.C., M.D. (rel. commn. and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3392</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -701,7 +831,9 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>H. V.</Forenames>
-      <Text>, M.C. (rel. commn. on completion of Bervice and granted 'rank of Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3508</PageNumber>
     </MainItem>
   </ItemGroup>

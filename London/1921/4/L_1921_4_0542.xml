@@ -514,8 +514,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. Aubyn. John Henry Arundel Godolphin -</Text>
+      <Key>St. Aubyn</Key>
+      <Forenames>John Henry Arundel Godolphin</Forenames>
+      <Text>-</Text>
       <PageNumber>8725</PageNumber>
     </MainItem>
     <SubItem>
@@ -542,7 +543,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Adamson</Key>
-      <Text>. J. S. (Capt.)</Text>
+      <Forenames>J. S.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>10499</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -576,7 +578,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Anderson</Key>
-      <Text>. A. P. (temp. Capt.)</Text>
+      <Forenames>A. P.</Forenames>
+      <Text>(temp. Capt.)</Text>
       <PageNumber>8724</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -709,7 +712,9 @@
       <Key>Blanshard</Key>
       <Title>Lt.</Title>
       <Forenames>A. E</Forenames>
-      <Text>, D.C.M. (rel. temp, commn.)</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>9060</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -839,7 +844,9 @@
       <Key>Campbell</Key>
       <Title>Lt.</Title>
       <Forenames>C. S</Forenames>
-      <Text>, C.B.E. (resigned and granted rank of Lt.-Col., corr.)</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>9786</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -900,8 +907,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Clarke</Key>
-      <Forenames>N. St</Forenames>
-      <Text>. J. S. (Lt.)</Text>
+      <Forenames>N. St. J</Forenames>
+      <Text>. S. (Lt.)</Text>
       <PageNumber>8498</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -933,7 +940,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Collison</Key>
-      <Text>. S. S. (Capt,)</Text>
+      <Forenames>S. S.</Forenames>
+      <Text>(Capt,)</Text>
       <PageNumber>9059</PageNumber>
     </MainItem>
   </ItemGroup>

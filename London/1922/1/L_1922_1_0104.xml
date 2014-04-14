@@ -16,7 +16,9 @@
       </Key>
       <Title>temp. 2nd Lt.</Title>
       <Forenames>H. C</Forenames>
-      <Text>, M.C. (rel. comma on completion of service and retains rank of 2nd Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>138</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -90,7 +92,9 @@
       </Key>
       <Title>temp. 2nd Lt.</Title>
       <Forenames>D.</Forenames>
-      <Text>, M.C. (rel. commn. on completion of service and retaina rank of 2nd Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>793</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -198,7 +202,9 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>M. F. K.</Forenames>
-      <Text>, M.C. (rel. commn. on completion of service and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>267</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -314,7 +320,12 @@
       <Key>Freeland</Key>
       <Title>Lt.-Col. (Hon. Maj.Gen.) (ret. pay) Sir</Title>
       <Forenames>H. F. E.</Forenames>
-      <Text>, K.C.I.E., C.B., D.S.O., M.V.O. (Col., Reg. Army Res. of Off., Gen. List, from R.E., and retains hon. rank of Maj.Gen.)</Text>
+      <Text>
+        <Honour>K.C.I.E.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>1796</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -413,7 +424,9 @@
       </Key>
       <Title>Lt. (h.p. list)</Title>
       <Forenames>H.</Forenames>
-      <Text>, D.C.M. (retires on ret. pay and granted rank of Capt.), Sub. Not</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>266</PageNumber>
     </MainItem>
     <SubItem>
@@ -462,7 +475,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>Robert Howard</Forenames>
-      <Text>, M.C. (Capt., Reg. Army Res. of Off.. Regtl. List, Hampshire R., late Serv. Bn.)'</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2398</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -500,7 +515,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Freer</Key>
-      <Text>. Gentleman Cadet John Grace (2nd Lt.)</Text>
+      <Forenames>Gentleman</Forenames>
+      <Text>Cadet John Grace (2nd Lt.)</Text>
       <PageNumber>930</PageNumber>
     </MainItem>
   </ItemGroup>

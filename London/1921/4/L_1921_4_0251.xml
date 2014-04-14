@@ -4,7 +4,10 @@
     <MainItem>
       <Key>Russell</Key>
       <Title>Old. Off.</Title>
-      <Text>, 3rd CL, and Maj. (Bt. Lt.-Col.) R.T., C.M.G. (Ord. Off., 2nd CI., and Lt.-Col.) ... ... -</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>8174</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -138,7 +141,9 @@
       <Key>Rutter</Key>
       <Title>temp. 2nd Lt.</Title>
       <Forenames>F. J.</Forenames>
-      <Text>, M.C. (rel. commn. on completion of service and retains rank of 2nd Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9233</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -260,7 +265,10 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>E. N.</Forenames>
-      <Text>, M.B.E., D.C.M. (trd. to The Bavs from 21st L.) ... '.'</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>9426</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -466,7 +474,9 @@
       <Key>Sagar</Key>
       <Title>temp. Capt.</Title>
       <Forenames>A. L.</Forenames>
-      <Text>, D.S.O. (rel. commn. on completion of service and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8909</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -497,7 +507,9 @@
       </Key>
       <Title>temp. Capt.</Title>
       <Forenames>W. T.</Forenames>
-      <Text>, M.C. (rel. commn. on completion of service and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9010</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -525,28 +537,39 @@
     <MainItem>
       <Key>St</Key>
       <Forenames>Clair</Forenames>
-      <Text>, Maj. G. J. P., D.S.O. (Not. in Gaz. 15th Mar., 1921, cancelled) '</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>9871</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. George, temp. Lt. A. R. (rel. commn. on completion of service and granted rank of Capt.) '</Text>
+      <Key>St. George</Key>
+      <Title>temp. Lt.</Title>
+      <Forenames>A. R.</Forenames>
+      <Text>(rel. commn. on completion of service and granted rank of Capt.) '</Text>
       <PageNumber>9224</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. Leger, Col. S. E., C.M.G., C.V.O., D.S.O. (placed on h.p. list on vacating appt. at War Office)</Text>
+      <Key>St. Leger</Key>
+      <Title>Col.</Title>
+      <Forenames>S. E.</Forenames>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>C.V.O.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>9115</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. Quintin, temp. 2nd Lt, G. R. (rel. commn. on completion of service and retains rank of 2nd Lt.)</Text>
+      <Key>St. Quintin</Key>
+      <Title>temp.</Title>
+      <Text>2nd Lt, G. R. (rel. commn. on completion of service and retains rank of 2nd Lt.)</Text>
       <PageNumber>10452</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -564,7 +587,10 @@
       <Key>Sale</Key>
       <Title>temp. Maj.</Title>
       <Forenames>A. B.</Forenames>
-      <Text>, O.B.E., M.C. (rel. commn. on completion of service and retains rank of Maj.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8060</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -590,7 +616,9 @@
     <MainItem>
       <Key>Salisbury-Jones</Key>
       <Forenames>Lt</Forenames>
-      <Text>, A. G., M.C. (restd. to estabt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10198</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -687,7 +715,9 @@
       </Key>
       <Title>temp. Capt.</Title>
       <Forenames>G.</Forenames>
-      <Text>, M.C. (rel. commri. on completion of service and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8809</PageNumber>
     </MainItem>
   </ItemGroup>

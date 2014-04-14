@@ -20,7 +20,9 @@
       <Key>Hewett</Key>
       <Title>Sir</Title>
       <Forenames>John Prescott</Forenames>
-      <Text>, G.C.S.I., K.B.E., CLE., Bailiff Grand Cross, Order of St. John of Jerusalem (Bailiff of Egle)</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+      </Text>
       <PageNumber>3830</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -72,7 +74,11 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Title>Lieut.-Col.</Title>
-      <Text>the Rt. Hon. Sir Samuel John Gurnev, Bart., C.M.G., M.P., Knight Grand Cross, Order of the British Empire</Text>
+      <Text>
+        <Honour>Bart</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>3611</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -81,7 +87,9 @@
       <Key>Holdern</Key>
       <Title>Capt.</Title>
       <Forenames>Herle Mauds-</Forenames>
-      <Text>lay, M.C., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3609</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -136,7 +144,9 @@
       </Key>
       <Title>Major</Title>
       <Forenames>Edward Marshall</Forenames>
-      <Text>,, M.C, T.D., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>3614</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -188,7 +198,10 @@
       <Key>Howard</Key>
       <Title>Major</Title>
       <Forenames>Charles Alfred Lowry</Forenames>
-      <Text>, D.S.O., M.C, Member, Royal Victorian Order</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3608</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -249,7 +262,9 @@
       <Key>Humphreys</Key>
       <Title>Lieut.-Col.</Title>
       <Forenames>George William</Forenames>
-      <Text>, C.B.E., M.Inst.CE., Knight Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>3612</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -265,7 +280,11 @@
     <MainItem>
       <Key>Hunter-Weston</Key>
       <Title>Lieut.</Title>
-      <Text>-General Sir Aylmer, K.C.B., D.S.O., R.E., M.P., Bailiff Grand Cross, Order of St John of Jerusalem (Chancellor)</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>3830</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -382,7 +401,9 @@
       <Key>Jarvis</Key>
       <Title>Rev.</Title>
       <Forenames>Alfred Charles Eustace</Forenames>
-      <Text>, C.M.G., M.C, D.D., Chaplain, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>4040</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -407,7 +428,9 @@
       <Key>Jekyll</Key>
       <Title>Colonel Sir</Title>
       <Forenames>Herbert</Forenames>
-      <Text>, K.C.M.G., Bailiff Grand Cross, Order of St John of Jerusalem</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+      </Text>
       <PageNumber>3836</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -523,7 +546,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Frederick James</Forenames>
-      <Text>, M.V.O., Imperial Service Order</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>3620</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -562,7 +587,9 @@
     <MainItem>
       <Key>Joseph</Key>
       <Forenames>Augustus Mating Gyi</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>2602</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -614,7 +641,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>George William</Forenames>
-      <Text>, M.D., R.A.M.C, Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>4041</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -623,7 +652,9 @@
       <Key>Keppel</Key>
       <Title>Colonel</Title>
       <Forenames>Edward George</Forenames>
-      <Text>, Member, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3608</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -648,7 +679,9 @@
     <MainItem>
       <Key>Kilgour</Key>
       <Forenames>Company Sergeant-</Forenames>
-      <Text>Major (Acting Regimental Sergeant Major) Joseph Robert, D.C.M., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>3610</PageNumber>
     </MainItem>
   </ItemGroup>

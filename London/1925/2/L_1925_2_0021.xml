@@ -1,9 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="021" pageID="https://www.thegazette.co.uk/id/London/index/year/1925/volume/2/page/021" pagePDF="https://www.thegazette.co.uk/London/index/year/1925/volume/2/page/021" pageRDF="https://www.thegazette.co.uk/London/index/year/1925/volume/2/page/021?view=linked-data" type="index" volume="2" year="1925">
-  <SubItem>
-    <Text>of United States of America: Blohm, Lee R</Text>
-    <PageNumber>3118</PageNumber>
-  </SubItem>
+  <ItemGroup>
+    <MainItem>
+      <Key>Vancouver</Key>
+      <Text>: Consul-General of U.S.A., Ernest L. Harris</Text>
+      <PageNumber>3294</PageNumber>
+    </MainItem>
+    <SubItem>
+      <Text>Consuls at: of Prance, Paul Marie Suzor</Text>
+      <PageNumber>3294</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>Tevvell, Harold S</Text>
+      <PageNumber>4109</PageNumber>
+    </SubItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Virginia</Key>
@@ -56,9 +67,17 @@
       <Text>of the Netherlands, P. Hoppenbrouwers</Text>
       <PageNumber>2283</PageNumber>
     </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Wellington</Key>
+      <Forenames>New Zealand</Forenames>
+      <Text>, Consuls at: of the Czechoslovak Republic, Elias J. Hyams</Text>
+      <PageNumber>3294</PageNumber>
+    </MainItem>
     <SubItem>
-      <Text>of Germanv, Penseler, Herr Wilhelm</Text>
-      <PageNumber>3118</PageNumber>
+      <Text>of Denmark, Sidney Albert Longuet</Text>
+      <PageNumber>2283</PageNumber>
     </SubItem>
   </ItemGroup>
   <ItemGroup>
@@ -187,7 +206,9 @@
     <MainItem>
       <Key>Acland</Key>
       <Forenames>Arthur William</Forenames>
-      <Text>, M.C., Esquire,. Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4194</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -220,7 +241,9 @@
     <MainItem>
       <Key>Ainscough</Key>
       <Forenames>Thomas Maitland</Forenames>
-      <Text>, O.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3775</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -237,7 +260,9 @@
     <MainItem>
       <Key>Alderson</Key>
       <Forenames>Edward Hall</Forenames>
-      <Text>, C.B., Knight Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>3774</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -262,7 +287,9 @@
     <MainItem>
       <Key>Ali</Key>
       <Forenames>Effendi Jarallah</Forenames>
-      <Text>, M.B.E., Hon. Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3780</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -278,7 +305,10 @@
     <MainItem>
       <Key>Allenby</Key>
       <Forenames>Field Marshal</Forenames>
-      <Text>His Excellency Viscount, G.C.B., G.C.M.G., Knight of Justice, Order of the Hospital of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>G.C.B.</Honour>
+        <Honour>G.C.M.G.</Honour>
+      </Text>
       <PageNumber>4193</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -321,7 +351,11 @@
       <Key>Anley</Key>
       <Title>Col.</Title>
       <Forenames>Barnett Dyer Lempriere Gray</Forenames>
-      <Text>, C.M.G., D.S.O., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3769</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -396,7 +430,10 @@
       <Key>Atcherley</Key>
       <Title>Maj. Gen.</Title>
       <Forenames>Llewelyn William</Forenames>
-      <Text>, C.M.G., C.V.O., Knight</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>C.V.O.</Honour>
+      </Text>
       <PageNumber>3768</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -437,7 +474,9 @@
     <MainItem>
       <Key>Baily</Key>
       <Forenames>Robert Edward Hartwell</Forenames>
-      <Text>, M.B.E., Officer. Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3778</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -446,7 +485,11 @@
       <Key>Baird</Key>
       <Title>Rt. Hon. Sir</Title>
       <Forenames>John Lawrence</Forenames>
-      <Text>, Bart., C.M.G., D.S.O., Baron (Baron Stonehaven of Ury) .,</Text>
+      <Text>
+        <Honour>Bart</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4023</PageNumber>
     </MainItem>
     <SubItem>
@@ -477,7 +520,10 @@
       <Key>Balfour</Key>
       <Title>Rt. Hon.</Title>
       <Forenames>Arthur James</Forenames>
-      <Text>, Earl of, Lord President of H.M. Privv Council, K.G., . O.M</Text>
+      <Text>
+        <Honour>K.G.</Honour>
+        <Honour>O.M</Honour>
+      </Text>
       <PageNumber>2997</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -511,7 +557,9 @@
     <MainItem>
       <Key>Barke</Key>
       <Forenames>M.</Forenames>
-      <Text>aj. and Brevet Lt.Col. Charles Reginald, T.D., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>3773</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -554,7 +602,9 @@
     <MainItem>
       <Key>Bartholomew</Key>
       <Forenames>John</Forenames>
-      <Text>, O.B.E., Sheriff Substitute at Kilmarnock</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3220</PageNumber>
     </MainItem>
   </ItemGroup>

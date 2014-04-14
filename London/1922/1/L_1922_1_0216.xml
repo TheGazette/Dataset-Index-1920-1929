@@ -75,14 +75,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Rel</Key>
-      <Text>.beck, temp. 2nd Lt. H. G. (rel. commn. on completion of service arid retains rank of 2nd Lt.)</Text>
+      <Text>beck, temp. 2nd Lt. H. G. (rel. commn. on completion of service arid retains rank of 2nd Lt.)</Text>
       <PageNumber>446</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Recknell</Key>
-      <Text>. temp. Lt. (Gen. List) G. H. (rel. commn. on completion of service and retains rank of Lt.)</Text>
+      <Title>temp. Lt. (Gen. List)</Title>
+      <Forenames>G. H.</Forenames>
+      <Text>(rel. commn. on completion of service and retains rank of Lt.)</Text>
       <PageNumber>1051</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -109,7 +111,9 @@
       <Key>Redfearn</Key>
       <Title>temp. Lt.</Title>
       <Forenames>H.</Forenames>
-      <Text>, M.C. (ref. oommn. oh acc. of ill-health contracted on active service and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1924</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -118,7 +122,10 @@
       <Key>Redfern</Key>
       <Title>temp. Capt.</Title>
       <Forenames>A. E.</Forenames>
-      <Text>, O.B.E., M.C. (rel. commn. on completion of service and granted rank of Maj.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1372</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -463,7 +470,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>F. T.</Forenames>
-      <Text>, D.C.M. (R.A.) (accepts new rates of pay and condns. of promn. and ret. pay promulgated by RJW., 22nd Nov., 1921)</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>342</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -485,7 +494,9 @@
       </Key>
       <Title>temp. 2nd Lt.</Title>
       <Forenames>G. G.</Forenames>
-      <Text>, M.M. (rel. commn. on. completion of service and retains rank of 2nd Lt.)</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>136</PageNumber>
     </MainItem>
   </ItemGroup>

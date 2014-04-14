@@ -4,7 +4,9 @@
     <MainItem>
       <Key>Ramsden-Jodrell</Key>
       <Forenames>Lt</Forenames>
-      <Text>,-Col. (ret. pay) H., C.M.G. (Lt.-Col., Reg. Army Res. of Off., Regtl. List, R.H. and R.F.A.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>5280</PageNumber>
     </MainItem>
     <SubItem>
@@ -55,7 +57,9 @@
       <Key>Rangecroft</Key>
       <Title>Lt.</Title>
       <Forenames>H. Q.</Forenames>
-      <Text>, M.C. (retires, receiving a gratuity)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6376</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -64,7 +68,9 @@
       <Key>Rapson</Key>
       <Title>Capt. and Bt. Maj.</Title>
       <Forenames>G. F. E.</Forenames>
-      <Text>, D.S.O. (retires on ret. pay and granted rank of Lt.Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5609</PageNumber>
     </MainItem>
     <SubItem>
@@ -90,7 +96,9 @@
       <Key>Rawlence</Key>
       <Title>Capt.</Title>
       <Forenames>M.</Forenames>
-      <Text>, D.S.O. (Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6840</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -129,7 +137,9 @@
       <Key>Rayner</Key>
       <Title>Lt.</Title>
       <Forenames>E. C</Forenames>
-      <Text>, M.C. (retires, receiving a gratuity and granted rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5608</PageNumber>
     </MainItem>
     <SubItem>
@@ -144,7 +154,9 @@
       <Key>Raynsford</Key>
       <Title>Maj.</Title>
       <Forenames>R. M.</Forenames>
-      <Text>, D.S.O. (trd. to Northn 'Regt., from Leinster Regt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5524</PageNumber>
     </MainItem>
     <SubItem>
@@ -157,7 +169,9 @@
       <Key>Rea</Key>
       <Title>Capt.</Title>
       <Forenames>John E.</Forenames>
-      <Text>, M.B. (date of rank and precedence in R.A.M.C. and Army as Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6578</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -213,7 +227,10 @@
       <Key>Rees-Mogg</Key>
       <Title>Yet. Maj.</Title>
       <Forenames>G. B. C</Forenames>
-      <Text>, O.B.E. (Vet. Maj., R.H.F., from 1st L.G.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>L.G.</Honour>
+      </Text>
       <PageNumber>6296</PageNumber>
     </MainItem>
     <SubItem>
@@ -225,7 +242,9 @@
     <MainItem>
       <Key>Reeves</Key>
       <Title>temp. Chapln.</Title>
-      <Text>to the Forces, 4th CI., the Rev. A. F., M.C. (rel. commn. and apptd. Hon. Chapln. to the Forces, 4th CI.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5525</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -234,7 +253,10 @@
       <Key>Reid</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>H. G.</Forenames>
-      <Text>, C.M.G., D.S.O. (seed, for service on the Staff)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6442</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -296,7 +318,9 @@
       <Key>Kendall</Key>
       <Title>Capt.</Title>
       <Forenames>T.</Forenames>
-      <Text>S-, O.B.E. (placed on h.p. list on acc. of illhealth)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>6442</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -327,7 +351,9 @@
       <Key>Renny</Key>
       <Title>Capt.</Title>
       <Forenames>A. H.</Forenames>
-      <Text>, M.C. (retires, receiving a gratuity)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5962</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -338,7 +364,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>P. L. G.</Forenames>
-      <Text>(trd. to S. Stafford Regt. from R.D. Fus.)</Text>
+      <Text>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>5707</PageNumber>
     </MainItem>
     <SubItem>
@@ -491,7 +519,9 @@
       </Key>
       <Title>temp. Hon. Capt.</Title>
       <Forenames>William M.</Forenames>
-      <Text>, M.D. (rel. commn. and retains hon. rank of Capt.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>5964</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -501,7 +531,9 @@
         <KeyDitto>— ___ ___</KeyDitto>
       </Key>
       <Title>Ord. Off., 4th CI. (on 'prob.)</Title>
-      <Text>, and Capt. W. W., M.C. (retained for permanent service, confirmed in appt. as Ord Off., 4th ,C1., retaining present seniority)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5779</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -558,7 +590,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>T. W.</Forenames>
-      <Text>, O.B.E. (rel. actg rank of Maj.), Sub. Not</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>5105</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -599,7 +633,11 @@
     <MainItem>
       <Key>Riddell</Key>
       <Title>Maj.</Title>
-      <Text>&amp; Bt. Lt.-Col. (temp. Col.) E. P. A., C.M.G., D.S.O. (Col., from Rif. Bde.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5361</PageNumber>
     </MainItem>
     <SubItem>
@@ -625,7 +663,9 @@
       <Key>Riddiford</Key>
       <Title>Lt.</Title>
       <Forenames>Daniel Henry Strother</Forenames>
-      <Text>, M.C. (Lt., Reg. Army Res. of Off., Regtl. List, Gren. Gds., late Spec. Res.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5779</PageNumber>
     </MainItem>
     <SubItem>
@@ -647,7 +687,9 @@
       <Key>Riggs</Key>
       <Title>Lt.</Title>
       <Forenames>A. F.</Forenames>
-      <Text>McC, M.C. (retires, receiving gratuity)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5963</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -682,7 +724,9 @@
       <Key>Ritchie</Key>
       <Title>Maj.</Title>
       <Forenames>T. F.</Forenames>
-      <Text>, D.S.O. (retires on ret. pay and granted rank of Lt.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6096</PageNumber>
     </MainItem>
     <SubItem>
@@ -695,7 +739,9 @@
       <Key>Riviere</Key>
       <Title>Capt.</Title>
       <Forenames>E. G.</Forenames>
-      <Text>, M.B.E;, M.C. (Adjt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5033</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -769,7 +815,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Robertson</Key>
-      <Text>(late temp., I.O.M. 1st and Maj., R.A.O.C.) Alexander (I.O.M. 1st, with rank of Maj;, Reg. Army Res. of Off., R.A.O.C.)</Text>
+      <Text>
+        <Honour>O.M.</Honour>
+        <Honour>O.M.</Honour>
+      </Text>
       <PageNumber>5709</PageNumber>
     </MainItem>
     <KeyDitto>___ ___ ___</KeyDitto>
@@ -806,7 +855,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Lt</Forenames>
-      <Text>, J. W., M.C. (Courts Martial Officer)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6512</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -817,7 +868,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>K. S.</Forenames>
-      <Text>, O.B.E. (placed on h.p. list on acc. of ill-health)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>6774</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -837,7 +890,9 @@
       <Key>Robertson-Eustace</Key>
       <Title>Capt.</Title>
       <Forenames>R. W. B.</Forenames>
-      <Text>, D.S.O. (temp. Maj. whilst empld. as a Post Comdt., 1st CI., with the E. Afr. Def. Force)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5525</PageNumber>
     </MainItem>
     <SubItem>
@@ -859,7 +914,9 @@
       <Key>Robinson</Key>
       <Title>Capt.</Title>
       <Forenames>A. C</Forenames>
-      <Text>, M.C. (restd. to estabt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5778</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -892,7 +949,12 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Title>Maj.</Title>
-      <Text>&amp; Bt. Lt.-Col. J. P. B., C.M.G.. D.S.O. (Maj.. R. . Berks. R., from R.D. Fus.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>5963</PageNumber>
     </MainItem>
     <SubItem>

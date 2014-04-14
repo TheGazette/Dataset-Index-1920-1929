@@ -58,7 +58,9 @@
     <MainItem>
       <Key>McDonald</Key>
       <Forenames>Donald Percy</Forenames>
-      <Text>(late R.A.M.C., T.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1203</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -87,8 +89,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan, A J. (temp.)</Text>
+      <Key>O'Sullivan</Key>
+      <Forenames>A</Forenames>
+      <Text>J. (temp.)</Text>
       <PageNumber>1202</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -136,7 +139,9 @@
     <MainItem>
       <Key>Roger</Key>
       <Forenames>John</Forenames>
-      <Text>(late R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1203</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -337,9 +342,16 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Souza</Forenames>
-      <Text>, F. B</Text>
+      <Key>de Netto</Key>
+      <Forenames>Frank</Forenames>
+      <Text>(granted rank of Capt.)</Text>
+      <PageNumber>174</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Souza</Key>
+      <Forenames>F. B</Forenames>
       <PageNumber>2049</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -694,7 +706,8 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>. John Puvirajasinghe (granted rank of Capt.)</Text>
+      <Forenames>John Puvirajasinghe</Forenames>
+      <Text>(granted rank of Capt.)</Text>
       <PageNumber>730</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -887,9 +900,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Souza</Forenames>
-      <Text>, P. N. (supery.)</Text>
+      <Key>De Souza</Key>
+      <Forenames>P. N.</Forenames>
+      <Text>(supery.)</Text>
       <PageNumber>2435</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -920,7 +933,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Raymond</Key>
-      <Text>. C. (supery.)</Text>
+      <Forenames>C.</Forenames>
+      <Text>(supery.)</Text>
       <PageNumber>2435</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -944,7 +958,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Noronho</Key>
-      <Text>. Dioginho</Text>
+      <Title>Dioginho .</Title>
       <PageNumber>2435</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1181,7 +1195,9 @@
     <MainItem>
       <Key>Clark</Key>
       <Forenames>A. M.</Forenames>
-      <Text>, V.D., A.D.C. (retains rank of Lt.-Col.)</Text>
+      <Text>
+        <Honour>A.D.C.</Honour>
+      </Text>
       <PageNumber>730</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -59,7 +59,9 @@
       <Key>Marson</Key>
       <Title>Capt. (4th Bn. Guards)</Title>
       <Forenames>Lionel Frederick</Forenames>
-      <Text>, M.C.(grat ted (temp, commn. as Flying Offr. (Hon. Flight Lt.) on seconding tor four years' duty)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7466</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -67,7 +69,9 @@
     <MainItem>
       <Key>Martingell</Key>
       <Forenames>Flying Offr</Forenames>
-      <Text>. Gilbert Henry, A.F.C. (granted perm, commn., retaining present substantive rank and seniority)</Text>
+      <Text>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>7466</PageNumber>
     </MainItem>
     <SubItem>
@@ -95,7 +99,10 @@
     <MainItem>
       <Key>Masterman</Key>
       <Forenames>Air Commodore Edward Alexander Dimsdale</Forenames>
-      <Text>, C.M.G., C.B.E , A.F.C. (restd. to full pay from half pay)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>6989</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -123,7 +130,9 @@
       <Key>Musgrave</Key>
       <Title>Flight Lt.</Title>
       <Forenames>Christopher</Forenames>
-      <Text>, A.F.C. (trd. to Reserve, Class C)</Text>
+      <Text>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>8616</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -148,7 +157,9 @@
     <MainItem>
       <Key>Nicholson</Key>
       <Forenames>Observer Offr</Forenames>
-      <Text>. Jaffray John Waller, D.F.C. (trd. to Reserve, Class B)</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>8881</PageNumber>
     </MainItem>
     <SubItem>
@@ -183,7 +194,9 @@
       <Key>Noithover</Key>
       <Title>Maj. (R.A.R.O., R.E.)</Title>
       <Forenames>Albert William</Forenames>
-      <Text>, M.C. (granted temp, commn. as Sqdn. Leader for duty under the Directorate of Works and Buildings)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8039</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -192,7 +205,9 @@
       <Key>Norton</Key>
       <Title>Sqdn.</Title>
       <Forenames>Leader Ernest William</Forenames>
-      <Text>, D.S.C. (granted perm, comnin., and retains present substantative i ank and seniority)</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>8038</PageNumber>
     </MainItem>
     <SubItem>
@@ -202,8 +217,12 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, Flight Lt. Garrett Michael Farrelly, D.S.C. (granted perm, commn.)</Text>
+      <Key>O'Brien</Key>
+      <Title>Flight Lt.</Title>
+      <Forenames>Garrett Michael Farrelly</Forenames>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>9119</PageNumber>
     </MainItem>
     <SubItem>
@@ -213,8 +232,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, Joseph James (granted temp, commn. as Flying Oflr. for duty under Directorate of Works and Buildings)</Text>
+      <Key>O'Connor</Key>
+      <Forenames>Joseph James</Forenames>
+      <Text>(granted temp, commn. as Flying Oflr. for duty under Directorate of Works and Buildings)</Text>
       <PageNumber>8960</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -222,7 +242,9 @@
     <MainItem>
       <Key>Oddie</Key>
       <Forenames>Gerard Stephen</Forenames>
-      <Text>, D.F.C. (granted uerm. commu as Flying Offr!)</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>8799</PageNumber>
     </MainItem>
     <SubItem>
@@ -232,8 +254,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Doherty, Francis Joseph (granted short service commn. as Pilot Offr. on prob.)</Text>
+      <Key>O'Doherty</Key>
+      <Forenames>Francis Joseph</Forenames>
+      <Text>(granted short service commn. as Pilot Offr. on prob.)</Text>
       <PageNumber>9120</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -260,8 +283,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, Miss Anna Barbara (confd. in appt. as Staff Nurse)</Text>
+      <Key>O'Neill</Key>
+      <Title>Miss</Title>
+      <Forenames>Anna Barbara</Forenames>
+      <Text>(confd. in appt. as Staff Nurse)</Text>
       <PageNumber>8039</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -293,7 +318,9 @@
     <MainItem>
       <Key>Pakenham</Key>
       <Forenames>Walsh</Forenames>
-      <Text>, Flight Lt. Louis Henry, D.F.C. (transferred to Reserve, Class C.)</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>7467</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -356,7 +383,10 @@
       <Key>Peach</Key>
       <Title>Flight Lt.</Title>
       <Forenames>Robert Louis Stephenson-</Forenames>
-      <Text>, M.B.E., see Stephenson-Peach, Flight Lt. Robert Louis, M.B.E. Paarce, Miss Pauline Kipping (confd. in appt. as Staff Nurse)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>8039</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -479,7 +509,9 @@
       </Key>
       <Title>Capt. (late I.A.R.O.)</Title>
       <Forenames>George Stanley</Forenames>
-      <Text>, O.B.E. (granted short service commn. as Flight Lt., for three years on Active List</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>8799</PageNumber>
     </MainItem>
     <SubItem>
@@ -543,7 +575,9 @@
     <MainItem>
       <Key>Ritchie</Key>
       <Forenames>Alan Patrick</Forenames>
-      <Text>, A.F.C. (granted perm, commn. as Flying Offr, and retains present seniority)</Text>
+      <Text>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>7874</PageNumber>
     </MainItem>
     <SubItem>

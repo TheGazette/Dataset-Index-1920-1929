@@ -50,7 +50,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Todd</Key>
-      <Text>. Maj. J. A., T.D. (resigns commn. and retains rank of Maj. with permission to wear prescribed uniform)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>3993</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -92,7 +94,9 @@
       <Key>Tomlinson</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>E. H.</Forenames>
-      <Text>, T.D. (Lt.-Col., T.F.R., Infy.)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>3826</PageNumber>
     </MainItem>
     <SubItem>
@@ -105,7 +109,9 @@
       <Key>Tomson</Key>
       <Title>Lt.</Title>
       <Forenames>Maynard</Forenames>
-      <Text>, M.C. (trd. to 6th (Ches. and Shrops.) Med. Bde., late R.E.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3068</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -138,7 +144,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Touch</Key>
-      <Text>' Lt. F., M.C., D.C.M. (resigns commn. and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>4081</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -202,7 +211,9 @@
       <Key>Tredgold</Key>
       <Title>Maj.</Title>
       <Forenames>A. F.</Forenames>
-      <Text>, T.D. (retired, having attained the age limit, and retains rank of Maj. with permission to wear prescribed uniform)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>4616</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -211,7 +222,9 @@
       <Key>Treffry</Key>
       <Title>Lt.</Title>
       <Forenames>R. C</Forenames>
-      <Text>, M.C. (Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2869</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -220,7 +233,9 @@
       <Key>Trench</Key>
       <Title>Lt. Hon.</Title>
       <Forenames>R. C. B. Le-Poer</Forenames>
-      <Text>, M.C. (resigns commn. and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3647</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -294,7 +309,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Turnbull</Key>
-      <Text>Chapln., 3rd CI., Rev. C. S., M.A. (resigns commn., and to be Hon. Chapln., 3rd CI.):</Text>
+      <Title>Chapln., 3rd CI., Rev.</Title>
+      <Forenames>C. S.</Forenames>
+      <Text>, M.A. (resigns commn., and to be Hon. Chapln., 3rd CI.):</Text>
       <PageNumber>4897</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -323,7 +340,9 @@
       <Key>Turner</Key>
       <Title>Lt.</Title>
       <Forenames>A. V.</Forenames>
-      <Text>, M.B.E. (Capt.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3357</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -389,7 +408,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>R. H. T.</Forenames>
-      <Text>, M.C. (Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4391</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -400,7 +421,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>R. W.</Forenames>
-      <Text>, M.C. (resigns commn. and granted rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2788</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -437,7 +460,9 @@
       <Key>Tweedy</Key>
       <Title>Maj.</Title>
       <Forenames>A. C</Forenames>
-      <Text>, T.D. (retired, having attained the age limit, and retains rank of Maj. with permission to wear prescribed uniform)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>4372</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -496,7 +521,9 @@
       <Key>Upton</Key>
       <Title>Capt.</Title>
       <Forenames>D. F.</Forenames>
-      <Text>, M.C. (Lt., 5th Bn., E. Surr. R., from 2nd Bn., Lond. R.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2979</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -507,7 +534,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>R. E. R.</Forenames>
-      <Text>, M.C. (resigns oommn. and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4391</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -601,7 +630,9 @@
       <Key>Venn</Key>
       <Title>Capt.</Title>
       <Forenames>H. W. S</Forenames>
-      <Text>„ O.B.E. (resigns commn., and granted rank of Lt.-Col.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>2869</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -617,7 +648,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Vere</Key>
-      <Text>de Vere, Lt. R. S. (retired, having attained the age limit, and granted rank of Capt.)</Text>
+      <Forenames>de Vere</Forenames>
+      <Text>, Lt. R. S. (retired, having attained the age limit, and granted rank of Capt.)</Text>
       <PageNumber>4175</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -626,7 +658,9 @@
       <Key>Vernon</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>A. H.</Forenames>
-      <Text>, T.D. (to commd. 3rd S. Casualty Clearing Station) ... ... .:</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>3266</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -659,7 +693,9 @@
       </Key>
       <Title>Capt. (Capt., ret., T.F.)</Title>
       <Forenames>S. R.</Forenames>
-      <Text>, T.D. (retired, having attained the age limit, and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>4181</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -690,7 +726,10 @@
       <Key>Vivian</Key>
       <Title>Maj. (late Lt., 17th Lrs.) (Lt., Res. of Offrs.)</Title>
       <Forenames>G. C. B.</Forenames>
-      <Text>Lord, D.S.O., T.D. (resigns commn. in T.F., and retains rank with permission to wear prescribed uniform)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>4165</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -727,7 +766,9 @@
       <Key>Wadmore</Key>
       <Title>Capt. (Bt. Lt.-Col.)</Title>
       <Forenames>J. M.</Forenames>
-      <Text>(Maj., Bt. Lt.-Col.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>3182</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -754,7 +795,10 @@
       <Key>Wakefield</Key>
       <Title>Hon. Col. Sir</Title>
       <Forenames>C. C.</Forenames>
-      <Text>Bart., C.B.E. (Hon. Col., 2nd Bn., Lond. R.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>4261</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -789,7 +833,11 @@
     <MainItem>
       <Key>Walker</Key>
       <Forenames>Capt</Forenames>
-      <Text>(Bt. Maj.) D.S.O. (Maj., R.A.M.C., Gen. List)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3173</PageNumber>
     </MainItem>
   </ItemGroup>

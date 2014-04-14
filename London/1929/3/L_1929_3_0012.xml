@@ -4,8 +4,53 @@
     <MainItem>
       <Key>Viscounts</Key>
       <Title>(cont.)</Title>
-      <Text>: Joynson-Hicks, Rt. Hon. Sir William, Bt. (Viscount Brentford, of Newick)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4539</PageNumber>
+    </MainItem>
+    <SubItem>
+      <Text>
+        <Honour>G.B.E.</Honour>
+      </Text>
+      <PageNumber>4762</PageNumber>
+    </SubItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Wales</Key>
+      <Title>H.R.H. Prince</Title>
+      <Text>of, Member of Council of, Edward Robert Peacock</Text>
+      <PageNumber>4921</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Wellington</Key>
+      <Forenames>Vice-Consul</Forenames>
+      <Text>of United States of America, William P. Cochran</Text>
+      <PageNumber>5565</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Wild</Key>
+      <Forenames>Birds Protection Acts</Forenames>
+      <Text>. (See under Home Office.) Workmen's Compensation Act. (See under Home Office.) Zanzibar: British High Court, Puisne Judge, Eric Townsend Johnson</Text>
+      <PageNumber>5060</PageNumber>
+    </MainItem>
+    <SubItem>
+      <Text>Consul of France at, Rene Marie Goubin</Text>
+      <PageNumber>4922</PageNumber>
+    </SubItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Zanzibar</Key>
+      <Title>Order. (See under Foreign Orders.)</Title>
+      <Forenames>Zurich</Forenames>
+      <Text>, H.M. Consul-General at, Lionel Edward Keyser</Text>
+      <PageNumber>5404</PageNumber>
     </MainItem>
   </ItemGroup>
   <CategoryTitle>ECCLESIASTICAL APPOINTMENTS</CategoryTitle>
@@ -38,6 +83,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>Probert</Key>
+      <Title>Rev.</Title>
+      <Forenames>Francis William</Forenames>
+      <Text>, appointed to Living of St. Cuthbert, Marley Hill</Text>
+      <PageNumber>6032</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Screech</Key>
       <Title>Rev.</Title>
       <Forenames>Bertie Ward</Forenames>
@@ -50,8 +104,19 @@
       <Key>Wilde</Key>
       <Title>Rev.</Title>
       <Forenames>Harold</Forenames>
-      <Text>, M.C., appointed to Vicarage of St. Anne, Island of Alderney</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5213</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Wood</Key>
+      <Title>Rev.</Title>
+      <Forenames>Frederick Bower</Forenames>
+      <Text>, M.A., appointed Curate in Charge, All Saints, Putney</Text>
+      <PageNumber>5489</PageNumber>
     </MainItem>
   </ItemGroup>
   <CategoryTitle>CIVIL PROMOTIONS</CategoryTitle>
@@ -78,7 +143,9 @@
       <Key>Addis</Key>
       <Title>Sir</Title>
       <Forenames>Charles Stewart</Forenames>
-      <Text>, K.C.M.G., Member of the Court of the University of London</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+      </Text>
       <PageNumber>4434</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -86,7 +153,10 @@
     <MainItem>
       <Key>Airlie</Key>
       <Forenames>David Lyulph Gore Wolseley</Forenames>
-      <Text>, M.C., Earl of Knight Commander Royal Victorian Order</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4761</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -101,7 +171,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Anstruther</Key>
-      <Text>Gough Calthorpe, FitzRoy Hamilton, Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>4622</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -109,7 +181,9 @@
     <MainItem>
       <Key>Arbab</Key>
       <Forenames>Dost Muhammad Khan</Forenames>
-      <Text>, Khan Bahadur Nawab, O.B.E., Knight</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>5056</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -117,7 +191,9 @@
     <MainItem>
       <Key>Atkinson</Key>
       <Forenames>Edward Hale Tyndal</Forenames>
-      <Text>, C.B.E., Recorder of the Borough of Southend-on-Sea</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>5967</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -125,7 +201,12 @@
     <MainItem>
       <Key>Baden-Powell</Key>
       <Forenames>LieutenantGeneral</Forenames>
-      <Text>Sir Robert Stephenson , Smyth, Bt., G. C.M.G., G.C.V.O., K.C.B., Member, First Class of the Hungarian Order of Merit</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>G.C.V.O.</Honour>
+        <Honour>K.C.B.</Honour>
+      </Text>
       <PageNumber>5213</PageNumber>
     </MainItem>
     <SubItem>
@@ -138,7 +219,10 @@
       <Key>Balfour</Key>
       <Title>Sir</Title>
       <Forenames>Arthur</Forenames>
-      <Text>, K.B.E., Baronet</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>4622</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -155,7 +239,9 @@
     <MainItem>
       <Key>Bayford</Key>
       <Forenames>Robert Frederic</Forenames>
-      <Text>, O.B.E., K.C., Recorder of Portsmouth</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>5275</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -171,7 +257,9 @@
     <MainItem>
       <Key>Bennett</Key>
       <Forenames>Albert James</Forenames>
-      <Text>, Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>5144</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -179,7 +267,10 @@
     <MainItem>
       <Key>Betterton</Key>
       <Forenames>Henry Bucknall</Forenames>
-      <Text>, C.B.E., Baronet</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>5144</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -188,7 +279,9 @@
       <Key>Birchall</Key>
       <Title>Major</Title>
       <Forenames>John Dear-</Forenames>
-      <Text>man, T.D., Knight</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>4699</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -196,7 +289,9 @@
     <MainItem>
       <Key>Bird</Key>
       <Forenames>Charles Hayward</Forenames>
-      <Text>, C.B.E., Knight</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>4699</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -213,7 +308,9 @@
       <Key>Blackett</Key>
       <Title>Sir</Title>
       <Forenames>Basil Phillett</Forenames>
-      <Text>, K.C.B., K.CS.L, Member of the Court of the University of London</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+      </Text>
       <PageNumber>4434</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -222,7 +319,9 @@
       <Key>Bowyer</Key>
       <Title>Captain</Title>
       <Forenames>George Edward Wentworth</Forenames>
-      <Text>, M.C., Knight</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4699</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -239,7 +338,9 @@
     <MainItem>
       <Key>Brenan</Key>
       <Forenames>John Fitzgerald</Forenames>
-      <Text>, C.M.G., H.M. ConsulGeneral in China</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>5404</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -254,7 +355,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Buccleugh</Key>
-      <Text>and Queensberry, Captain the Duke of, K.T., Captain General, H.M. Body Guard for Scotland (Royal Company of Archers)</Text>
+      <Text>
+        <Honour>K.T.</Honour>
+      </Text>
       <PageNumber>4765</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -271,7 +374,9 @@
       <Key>Butt</Key>
       <Title>Sir</Title>
       <Forenames>Alfred</Forenames>
-      <Text>, Kt., Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>5143</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -280,7 +385,10 @@
       <Key>Buzzard</Key>
       <Title>Sir</Title>
       <Forenames>Edward Farquhar</Forenames>
-      <Text>, K.C.V.O., Baronet</Text>
+      <Text>
+        <Honour>K.C.V.O.</Honour>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>4622</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -314,7 +422,12 @@
       <Key>Cavan</Key>
       <Title>Gen.</Title>
       <Forenames>Frederick Rudolph</Forenames>
-      <Text>, Earl of, K.P., G. C.B., G.C.M.G., G.C.V.O., G.B.E., Captain of the Honourable Corps of Gentleman-at-Arms</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>G.C.M.G.</Honour>
+        <Honour>G.C.V.O.</Honour>
+        <Honour>G.B.E.</Honour>
+      </Text>
       <PageNumber>4849</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -329,7 +442,13 @@
   <ItemGroup>
     <MainItem>
       <Key>Clayton</Key>
-      <Text>. Brig.-Gen. Sir Gilbert Falkingham, K.C.M.G., K.B.E., C.B., H.M. ConsulGeneral at Baghdad</Text>
+      <Title>Brig.-Gen. Sir</Title>
+      <Forenames>Gilbert Falkingham</Forenames>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>K.B.E.</Honour>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>4922</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -378,7 +497,10 @@
       <Key>Cornwallis</Key>
       <Title>Colonel</Title>
       <Forenames>Kinahan</Forenames>
-      <Text>, C. M.G., C.B.E., D.S.O</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>4700</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -394,7 +516,10 @@
     <MainItem>
       <Key>Cran</Key>
       <Forenames>James</Forenames>
-      <Text>, M.D., O.B.E., V.D., Member of Executive Council of Colony of British Honduras</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>5773</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -436,14 +561,16 @@
     <MainItem>
       <Key>Dawson</Key>
       <Forenames>Benjamin</Forenames>
-      <Text>, Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>4622</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>La Warr</Forenames>
+      <Key>De La</Key>
+      <Forenames>Warr</Forenames>
       <Text>, Herbrand Edward Dundonald Brassey, Earl, Lord in Waiting in Ordinary</Text>
       <PageNumber>4849</PageNumber>
     </MainItem>
@@ -452,7 +579,9 @@
     <MainItem>
       <Key>Demetriou</Key>
       <Forenames>Demetrios Nicolas</Forenames>
-      <Text>, O.B.E., Additional Member, of the Executive Council of Cyprus</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>5214</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -500,9 +629,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Elles</Key>
-      <Title>Major</Title>
+      <Title>Major-</Title>
       <Forenames>General</Forenames>
-      <Text>Sir Hugh Jamieson, K.C.M.G., C.B., D. S.O., Knight Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>D. S.O.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4761</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -560,7 +694,10 @@
       <Key>Fletcher</Key>
       <Title>Sir</Title>
       <Forenames>Arthur George Murchison</Forenames>
-      <Text>, Kt., C.M.G., C.B.E., Governor and Com mander in Chief of Fiji and H.M. High Commissioner for Western Pacific</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>4926</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -26,7 +26,9 @@
       <Key>Avent</Key>
       <Title>Capt.</Title>
       <Forenames>J. G.</Forenames>
-      <Text>, M.C. (retirement) -</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9187</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -193,8 +195,11 @@
     <MainItem>
       <Key>Barnard</Key>
       <Title>Capt.</Title>
-      <Forenames>R. P. St</Forenames>
-      <Text>. V., D.S.O., M.P. (M*j.)</Text>
+      <Forenames>R. P. St. V</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>8881</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -210,7 +215,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Barter</Key>
-      <Text>. apt. F., V.C.M.C. (retiremt-nt)</Text>
+      <Text>
+        <Honour>V.C</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7542</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -226,7 +234,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Bartlett</Key>
-      <Text>. Lt. A. C. (tem|.. Maj. while Special Reserve Officer)</Text>
+      <Title>Lt.</Title>
+      <Forenames>A. C.</Forenames>
+      <Text>(tem|.. Maj. while Special Reserve Officer)</Text>
       <PageNumber>7541</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -273,7 +283,9 @@
       <Key>Batten</Key>
       <Title>Capt.</Title>
       <Forenames>E. F.</Forenames>
-      <Text>,O.B.E. (resigns commn. and granted rank of Maj )</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>8882</PageNumber>
     </MainItem>
     <SubItem>
@@ -323,7 +335,9 @@
       <Key>Beales</Key>
       <Title>Capt.</Title>
       <Forenames>W. L</Forenames>
-      <Text>, D.S.O. (retirement)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8118</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -450,7 +464,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Black</Key>
-      <Text>. Capt. J. M. (retirement)</Text>
+      <Title>Capt.</Title>
+      <Forenames>J. M.</Forenames>
+      <Text>(retirement)</Text>
       <PageNumber>9187</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -556,7 +572,9 @@
       <Key>Brady</Key>
       <Title>Capt.</Title>
       <Forenames>R. M. E.</Forenames>
-      <Text>, M.C. (resigns commn.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7050</PageNumber>
     </MainItem>
     <SubItem>
@@ -641,7 +659,9 @@
       <Key>Brown</Key>
       <Title>Capt.</Title>
       <Forenames>A. E.</Forenames>
-      <Text>, M.C. (retirement)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8118</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -716,7 +736,9 @@
       <Key>Bruce</Key>
       <Title>Maj.</Title>
       <Forenames>J.</Forenames>
-      <Text>, O.B.E. (Lt, Col.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>8116</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -752,7 +774,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Bull</Key>
-      <Text>. Lt. Col. G. H. (awarded Good Service Pension)... ._</Text>
+      <Title>Lt. Col.</Title>
+      <Forenames>G. H.</Forenames>
+      <Text>(awarded Good Service Pension)... ._</Text>
       <PageNumber>8725</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -796,7 +820,9 @@
       <Key>Butcher</Key>
       <Title>Capt.</Title>
       <Forenames>W. H.</Forenames>
-      <Text>, M.C. (resigns commn. and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8117</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -821,7 +847,9 @@
       <Key>Buttress</Key>
       <Title>Lt.</Title>
       <Forenames>E. S.</Forenames>
-      <Text>, M.B.E. (resigns commn. and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>8527</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -853,7 +881,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Calvert</Key>
-      <Text>. Capt. F. E. R. (resigns eonimn. and retains rank of Capt.)</Text>
+      <Title>Capt.</Title>
+      <Forenames>F. E. R.</Forenames>
+      <Text>(resigns eonimn. and retains rank of Capt.)</Text>
       <PageNumber>8117</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -880,7 +910,9 @@
       <Key>Carn</Key>
       <Title>Lt.</Title>
       <Forenames>A. T.</Forenames>
-      <Text>, M.M. (resigns commn. and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>8527</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -963,7 +995,9 @@
       <Key>Cattell</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>G. S.</Forenames>
-      <Text>, D.S.O. (transfer to Supery. List), on completion of ten years in civil employ)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7050</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -972,7 +1006,9 @@
       <Key>Catty</Key>
       <Title>Maj. and Bt. Lt.-Col.</Title>
       <Forenames>T. C</Forenames>
-      <Text>, C-M.G., D.S.O. (Lt.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8526</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -996,7 +1032,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Chai</Key>
-      <Text>.ter, Maj. A. D. (retirement)</Text>
+      <Text>ter, Maj. A. D. (retirement)</Text>
       <PageNumber>7951</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1049,7 +1085,9 @@
       <Key>Chivers</Key>
       <Title>Capt.</Title>
       <Forenames>N. M.</Forenames>
-      <Text>, M.C. (retirement)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9187</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1114,7 +1152,9 @@
       <Key>Claridge</Key>
       <Title>Capt.</Title>
       <Forenames>J. W. L.</Forenames>
-      <Text>, M.B.E. (resigns commn. and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>8117</PageNumber>
     </MainItem>
   </ItemGroup>

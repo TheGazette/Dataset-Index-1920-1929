@@ -33,7 +33,9 @@
     <MainItem>
       <Key>Pepperall</Key>
       <Forenames>R. A.</Forenames>
-      <Text>, M.C. (corr. of date of promn.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6603</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -217,7 +219,9 @@
     <MainItem>
       <Key>Spence</Key>
       <Forenames>J.</Forenames>
-      <Text>, M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>7460</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -525,9 +529,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Ciooke</Key>
-      <Title>St.</Title>
-      <Forenames>F. W. M.</Forenames>
-      <Text>, M.M. (whilst comdg. a Co.)</Text>
+      <Title>St. F.</Title>
+      <Forenames>W. M.</Forenames>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>6947</PageNumber>
     </MainItem>
     <SubItem>
@@ -597,7 +603,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Falkenstein</Key>
-      <Text>. A. J. (whilst comdg, a Co.)</Text>
+      <Forenames>A. J.</Forenames>
+      <Text>(whilst comdg, a Co.)</Text>
       <PageNumber>6947</PageNumber>
     </MainItem>
     <SubItem>
@@ -815,7 +822,9 @@
       <Key>Mauld</Key>
       <Title>Lt.</Title>
       <Forenames>B. S.</Forenames>
-      <Text>, M.C. (whilst comdg. a Co.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6772</PageNumber>
       <PageNumber>7312</PageNumber>
     </MainItem>
@@ -914,7 +923,7 @@
       <PageNumber>7690</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Actg. Capt. whilst comdg, a Co</Text>
+      <Text>Actg. Capt. whilst comdg, a Co.</Text>
       <PageNumber>7690</PageNumber>
     </SubItem>
   </ItemGroup>

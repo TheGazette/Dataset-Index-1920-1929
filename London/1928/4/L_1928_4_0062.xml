@@ -56,7 +56,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Modern</Key>
-      <Forenames>Press</Forenames>
+      <Title>Press .</Title>
       <PageNumber>7850</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -108,7 +108,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Moston</Key>
-      <Text>. A. &amp; Co</Text>
+      <Forenames>A.</Forenames>
+      <Text>&amp; Co</Text>
       <PageNumber>7928</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -130,7 +131,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mundesley</Key>
-      <Forenames>Sanatorium</Forenames>
+      <Title>Sanatorium .</Title>
       <PageNumber>7261</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -247,7 +248,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Palmer</Key>
-      <Text>, Capt. (International Guest Agency)</Text>
+      <Title>Capt. (International Guest Agency)</Title>
       <PageNumber>7722</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -390,7 +391,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Princes</Key>
-      <Forenames>Studios</Forenames>
+      <Title>Studios .</Title>
       <PageNumber>7929</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -404,7 +405,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Priston</Key>
-      <Text>. A. &amp; E</Text>
+      <Forenames>A.</Forenames>
+      <Text>&amp; E</Text>
       <PageNumber>7049</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -471,7 +473,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rayworth</Key>
-      <Text>A Company</Text>
+      <Forenames>A</Forenames>
+      <Text>Company</Text>
       <PageNumber>8126</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -662,15 +665,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. James's Literary Agency</Text>
+      <Key>St. James</Key>
+      <Text>'s Literary Agency</Text>
       <PageNumber>6663</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. Martins Studio</Text>
+      <Key>St. Martins</Key>
+      <Forenames>Studio</Forenames>
       <PageNumber>7721</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -943,7 +946,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stephens</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>8209</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1023,14 +1026,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Taylor</Key>
-      <Forenames>Bros</Forenames>
+      <Title>Bros .</Title>
       <PageNumber>8558</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Templinskv</Key>
-      <Text>. S. &lt;fe J</Text>
+      <Forenames>S.</Forenames>
+      <Text>&lt;fe J</Text>
       <PageNumber>6458</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1103,7 +1107,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tonks</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>7506</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1132,7 +1136,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Travellers</Key>
-      <Forenames>Transport</Forenames>
+      <Title>Transport .</Title>
       <PageNumber>8019</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1190,7 +1194,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Turner</Key>
-      <Forenames>Brothers</Forenames>
+      <Title>Brothers .</Title>
       <PageNumber>8284</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1235,7 +1239,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Walker</Key>
-      <Text>, E, M. &amp; R</Text>
+      <Forenames>E</Forenames>
+      <Text>, M. &amp; R</Text>
       <PageNumber>7335</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1256,7 +1261,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ware</Key>
-      <Forenames>Bros</Forenames>
+      <Title>Bros.</Title>
       <PageNumber>8434</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1517,7 +1522,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Acton-Adams</Key>
-      <Forenames>William</Forenames>
+      <Title>William .</Title>
       <PageNumber>8562</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1596,7 +1601,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Allarton</Key>
-      <Text>. Florence Mary</Text>
+      <Forenames>Florence Mary</Forenames>
       <PageNumber>8515</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1621,7 +1626,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Jessie</Forenames>
+      <Title>Jessie .</Title>
       <PageNumber>6381</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1630,7 +1635,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Louisa</Forenames>
+      <Title>Louisa .</Title>
       <PageNumber>8366</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1639,21 +1644,21 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Sophia</Forenames>
+      <Title>Sophia .</Title>
       <PageNumber>6978</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Allman</Key>
-      <Text>. Kate</Text>
+      <Forenames>Kate</Forenames>
       <PageNumber>6592</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Alsop</Key>
-      <Text>. Arthur Richard</Text>
+      <Forenames>Arthur Richard</Forenames>
       <PageNumber>8020</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1672,8 +1677,8 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Forenames>Charles</Forenames>
-      <Text>... .;</Text>
+      <Title>Charles .</Title>
+      <Text>.. .;</Text>
       <PageNumber>7508</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1691,7 +1696,7 @@
       <Key>
         <KeyDitto>___ ___ -</KeyDitto>
       </Key>
-      <Forenames>Isabella</Forenames>
+      <Title>Isabella .</Title>
       <PageNumber>7600</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1709,7 +1714,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ -</KeyDitto>
       </Key>
-      <Forenames>Percy</Forenames>
+      <Title>Percy .</Title>
       <PageNumber>8129</PageNumber>
     </MainItem>
   </ItemGroup>

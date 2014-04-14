@@ -97,7 +97,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Forster</Key>
-      <Text>of Lepe, The Lord, Knight of Grace, St. John of Jerusalem</Text>
+      <Text>
+        <Honour>Knight of Grace, St. John of Jerusalem</Honour>
+      </Text>
       <PageNumber>11793</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -107,7 +109,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Rachel Cecily</Forenames>
-      <Text>, The Lady, Lady of Grace, St. John of Jerusalem</Text>
+      <Text>
+        <Honour>Lady of Grace, St. John of Jerusalem</Honour>
+      </Text>
       <PageNumber>11793</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -139,7 +143,9 @@
     <MainItem>
       <Key>Franks</Key>
       <Forenames>William Temple</Forenames>
-      <Text>, C.B., Member of the Royal Commission (extended powers) on Awards to Inventors</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>9807</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -178,7 +184,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>William</Forenames>
-      <Text>, Knight Comdr., Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>9986</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -246,7 +254,9 @@
       <Key>Garnett</Key>
       <Title>Capt.</Title>
       <Forenames>Abraham Lang-</Forenames>
-      <Text>horn, Esquire, St. John of Jerusalem</Text>
+      <Text>
+        <Honour>Esquire, St. John of Jerusalem</Honour>
+      </Text>
       <PageNumber>10407</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -316,7 +326,9 @@
     <MainItem>
       <Key>Gell</Key>
       <Forenames>Harry Dickson</Forenames>
-      <Text>, Esquire, St. John of Jerusalem</Text>
+      <Text>
+        <Honour>Esquire, St. John of Jerusalem</Honour>
+      </Text>
       <PageNumber>10407</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -334,7 +346,10 @@
       <Key>Gibb</Key>
       <Title>Capt.</Title>
       <Forenames>Allan</Forenames>
-      <Text>, D.C.M., Companion, D.S.O</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>11777</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -388,7 +403,9 @@
     <MainItem>
       <Key>Giovanetti</Key>
       <Forenames>Constantine William</Forenames>
-      <Text>, M.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>10098</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -480,7 +497,9 @@
       <Key>Goring</Key>
       <Title>Lt.</Title>
       <Forenames>Charles Hubert</Forenames>
-      <Text>, M.C., Companion, D.S.O</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10387</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -531,7 +550,10 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Rear-Adml</Forenames>
-      <Text>. Edmund Percy Fenwick George, C.B., Knight Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>9987</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -561,7 +583,9 @@
       <Key>Granville</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Bernard</Forenames>
-      <Text>, D.S.O., appointed to H.M. Body Guard of the Honourable Corps of Gentlemen-atArms</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>12292</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -595,7 +619,9 @@
     <MainItem>
       <Key>Greenwood</Key>
       <Forenames>William Frederick</Forenames>
-      <Text>, O.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>10095</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -603,7 +629,9 @@
     <MainItem>
       <Key>Greig</Key>
       <Forenames>Wing Cdr</Forenames>
-      <Text>. Louis, M.V.O., Comptroller to H.H. the Duke of York</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>11338</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -612,7 +640,9 @@
       <Key>Greville</Key>
       <Title>the Hon. Sir</Title>
       <Forenames>Sidney Robert</Forenames>
-      <Text>, K.C ., V.O., C.B., Groom in Waiting in Ordinary to H.M. the King</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>11793</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -629,7 +659,13 @@
       <Key>Grigg</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Edward William Macleay</Forenames>
-      <Text>, C.M.G., C.V.O., D.S.O., M.C., Knight Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>C.V.O.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>9987</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -700,7 +736,11 @@
     <MainItem>
       <Key>Halsey</Key>
       <Forenames>Rear-Adm</Forenames>
-      <Text>. Sir Lionel, G. C.V.O., K.C.M.G., C.B., Comptroller and Treasurer to H. R.H. the Prince of Wales</Text>
+      <Text>
+        <Honour>C.V.O.</Honour>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>9987</PageNumber>
       <PageNumber>11793</PageNumber>
     </MainItem>
@@ -732,7 +772,11 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Title>Capt.</Title>
-      <Text>the Lord Claud Nigel, D.S.O., M.V.O., Companion, St. Michael and St. George</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.V.O.</Honour>
+        <Honour>Companion, St. Michael and St. George</Honour>
+      </Text>
       <PageNumber>9986</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -743,7 +787,9 @@
       </Key>
       <Title>Mrs.</Title>
       <Forenames>H. B. Florence</Forenames>
-      <Text>, Lady of Grace, St. John of Jerusalem</Text>
+      <Text>
+        <Honour>Lady of Grace, St. John of Jeru-</Honour>
+      </Text>
       <PageNumber>11793</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -770,7 +816,9 @@
     <MainItem>
       <Key>Hanbury</Key>
       <Forenames>Lionel Henry</Forenames>
-      <Text>, C.M.G., V.D., Member of the Royal Commission (extended powers) on Awards to Inventors</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>9807</PageNumber>
     </MainItem>
   </ItemGroup>

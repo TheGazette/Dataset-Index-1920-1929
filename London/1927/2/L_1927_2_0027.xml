@@ -28,7 +28,9 @@
     <MainItem>
       <Key>Mann</Key>
       <Forenames>William Henry</Forenames>
-      <Text>, M.B.E., Commander, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>4040</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -53,7 +55,9 @@
     <MainItem>
       <Key>Marriott</Key>
       <Forenames>Hayes</Forenames>
-      <Text>; C.M.G., Knight Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>3617</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -69,7 +73,9 @@
     <MainItem>
       <Key>Martin</Key>
       <Forenames>Charles James</Forenames>
-      <Text>, C.M.G.. D.Sc., LL.D., D.C.L.; F.R.S., Knight</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>3004</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -86,8 +92,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mary</Key>
-      <Forenames>H.M. The</Forenames>
-      <Text>Queen, Dame Grand Cross, Order of St. John of Jerusalem</Text>
+      <Forenames>H.M.</Forenames>
+      <Text>The Queen, Dame Grand Cross, Order of St. John of Jerusalem</Text>
       <PageNumber>3836</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -95,7 +101,9 @@
     <MainItem>
       <Key>Matheson</Key>
       <Forenames>Donald Alexander</Forenames>
-      <Text>, Member, Royal Victorian Order .'</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3608</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -143,7 +151,9 @@
       <Key>Melba</Key>
       <Title>Dame</Title>
       <Forenames>Nellie</Forenames>
-      <Text>, D.B.E., Dame Grand Cross, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.B.E.</Honour>
+      </Text>
       <PageNumber>3616</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -168,7 +178,9 @@
       <Key>Mietcalfe</Key>
       <Title>Maj.</Title>
       <Forenames>Eric Debonnair Theophilus</Forenames>
-      <Text>, M.C.. Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3609</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -186,7 +198,12 @@
       <Key>Midwinter</Key>
       <Title>Captain</Title>
       <Forenames>Edward Colpoys</Forenames>
-      <Text>, C.B., C.M.G., C.B.E., D.S.O., Knight Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>C.B.E.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3615</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -194,7 +211,9 @@
     <MainItem>
       <Key>Mifsud</Key>
       <Forenames>Edward Robert</Forenames>
-      <Text>. M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3618</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -242,7 +261,9 @@
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Modlin</Forenames>
-      <Text>, Isaac Gibson, O.B.E., Mi.D., Commander, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4040</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -292,7 +313,9 @@
     <MainItem>
       <Key>Monro</Key>
       <Forenames>George</Forenames>
-      <Text>, M.B.E., Com-</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3608</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -347,7 +370,9 @@
     <MainItem>
       <Key>Morris</Key>
       <Title>Maj. and Brevet Lieut.</Title>
-      <Text>-Co). John Hugh, D.S.O., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3609</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -364,7 +389,11 @@
       <Key>Moynihan</Key>
       <Title>Sir</Title>
       <Forenames>Berkeley George Andrew</Forenames>
-      <Text>, Bt., K.C.M.G., C.B., P.R.C.S., Commander, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>4040</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -372,7 +401,9 @@
     <MainItem>
       <Key>Muhammad</Key>
       <Forenames>Habibullah Sahib Bahadur</Forenames>
-      <Text>, Khan Bahadur Sir, K.C.I.E., Knight Commander, Star of India</Text>
+      <Text>
+        <Honour>K.C.I.E.</Honour>
+      </Text>
       <PageNumber>3606</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -398,7 +429,9 @@
       <Key>Murray</Key>
       <Title>Colonel Sir</Title>
       <Forenames>Charles Wyndham</Forenames>
-      <Text>, K.C.B., Bailiff Grand Cross, Order of St. John of Jerusalem ... a</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+      </Text>
       <PageNumber>836</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -415,7 +448,9 @@
     <MainItem>
       <Key>Nana</Key>
       <Forenames>Ofori Atta</Forenames>
-      <Text>, C.B.E., Knight Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>3617</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -423,7 +458,10 @@
     <MainItem>
       <Key>Nash</Key>
       <Forenames>Vaughan</Forenames>
-      <Text>, C.B., C.V.O., Development Commissioner</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.V.O.</Honour>
+      </Text>
       <PageNumber>3123</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -440,7 +478,9 @@
       <Key>Neimeyer</Key>
       <Title>Sir</Title>
       <Forenames>Otto Ernst</Forenames>
-      <Text>, K.C.B., Knight Grand Cross, Order of the British Empire</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+      </Text>
       <PageNumber>3611</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -448,7 +488,10 @@
     <MainItem>
       <Key>Neville</Key>
       <Forenames>Reginald James Neville</Forenames>
-      <Text>, J.P., M.P., Baronet</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>3603</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -482,7 +525,9 @@
     <MainItem>
       <Key>Nicoils</Key>
       <Forenames>Edward Hugh Dyneley</Forenames>
-      <Text>, O.B.E.; A.M.I.C.E., Companion, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3607</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -504,8 +549,11 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, Charles Henry William, M.B.E., Imperial Service Order</Text>
+      <Key>O'Brien</Key>
+      <Forenames>Charles Henry William</Forenames>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3619</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -531,14 +579,20 @@
       <Key>Oliver</Key>
       <Title>Colonel</Title>
       <Forenames>Charles Pye</Forenames>
-      <Text>, C.M.G., T.D., M.D., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>T.D.</Honour>
+        <Honour>M.D.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3605</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Malley, Owen St. Clair, Companion, Order of St. Michael and St. George</Text>
+      <Key>O'Malley</Key>
+      <Forenames>Owen St. Clair</Forenames>
+      <Text>, Companion, Order of St. Michael and St. George</Text>
       <PageNumber>3607</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -581,7 +635,9 @@
       </Key>
       <Title>Major</Title>
       <Forenames>John</Forenames>
-      <Text>, M.D., Commander, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>4040</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -598,7 +654,10 @@
       <Key>Packe</Key>
       <Title>Lieut.-Col.</Title>
       <Forenames>Frederick Edward</Forenames>
-      <Text>, O.B.E., Member, Royal Victorian Order</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3608</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -631,7 +690,9 @@
     <MainItem>
       <Key>Page</Key>
       <Forenames>James</Forenames>
-      <Text>, M.B.E., Commander, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>4040</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -648,7 +709,9 @@
     <MainItem>
       <Key>Pakeman</Key>
       <Forenames>John Robert</Forenames>
-      <Text>, C.B.E., Knight</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>3604</PageNumber>
     </MainItem>
   </ItemGroup>

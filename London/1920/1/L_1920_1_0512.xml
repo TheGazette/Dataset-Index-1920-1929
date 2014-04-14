@@ -313,7 +313,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wallace</Key>
-      <Text>. H. C. (temp.)</Text>
+      <Forenames>H. C.</Forenames>
+      <Text>(temp.)</Text>
       <PageNumber>3318</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -540,7 +541,7 @@
   <ItemGroup>
     <MainItem>
       <Key>H</Key>
-      <Text>.indmarsh, E. A. C</Text>
+      <Text>indmarsh, E. A. C</Text>
       <PageNumber>1835</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -564,7 +565,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rix</Key>
-      <Text>. W. H. B</Text>
+      <Forenames>W. H. B</Forenames>
       <PageNumber>1104</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -915,8 +916,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, Nursing iSister Miss N. F. M. (resigns the Service)</Text>
+      <Key>O'Connor</Key>
+      <Forenames>Nursing</Forenames>
+      <Text>iSister Miss N. F. M. (resigns the Service)</Text>
       <PageNumber>2914</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1031,6 +1033,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Berry</Key>
+      <Forenames>T. A. L</Forenames>
+      <PageNumber>3680</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Dobson</Key>
       <Forenames>F</Forenames>
       <PageNumber>3680</PageNumber>
@@ -1079,7 +1088,9 @@
     <MainItem>
       <Key>Huddleston</Key>
       <Forenames>W. B.</Forenames>
-      <Text>, C.M.G</Text>
+      <Text>
+        <Honour>C.M.G</Honour>
+      </Text>
       <PageNumber>3680</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1087,7 +1098,9 @@
     <MainItem>
       <Key>Kendall</Key>
       <Forenames>C. J. C</Forenames>
-      <Text>, CLE., D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>1699</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1136,8 +1149,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Warden</Key>
-      <Title>St.</Title>
-      <Forenames>L. S.</Forenames>
+      <Title>St. L.</Title>
+      <Forenames>S.</Forenames>
       <Text>, O.B.E</Text>
       <PageNumber>3680</PageNumber>
     </MainItem>
@@ -1367,7 +1380,10 @@
       <Key>Bridgeman</Key>
       <Title>Adm. Sir</Title>
       <Forenames>Francis Charles Bridgeman</Forenames>
-      <Text>, G.C.B., G.C.V.O</Text>
+      <Text>
+        <Honour>G.C.B.</Honour>
+        <Honour>G.C.V.O</Honour>
+      </Text>
       <PageNumber>1824</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1376,7 +1392,11 @@
       <Key>Chatfield</Key>
       <Title>Sir</Title>
       <Forenames>A.</Forenames>
-      <Text>(E. M., K.C.M.G., C.V.O., C.B</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>C.V.O.</Honour>
+        <Honour>C.B</Honour>
+      </Text>
       <PageNumber>2189</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1392,7 +1412,9 @@
     <MainItem>
       <Key>Fitz-Maurice</Key>
       <Forenames>M. S.</Forenames>
-      <Text>, C.M.G</Text>
+      <Text>
+        <Honour>C.M.G</Honour>
+      </Text>
       <PageNumber>2760</PageNumber>
     </MainItem>
   </ItemGroup>

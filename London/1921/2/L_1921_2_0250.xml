@@ -102,7 +102,9 @@
     <MainItem>
       <Key>Sieveking</Key>
       <Title>Fit. Lt.</Title>
-      <Text>' L. de G., D.S.C. (restd. to active list for temp, duty)</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>3544</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -128,7 +130,9 @@
       <Key>Slessor</Key>
       <Title>Flight Lt.</Title>
       <Forenames>J. C</Forenames>
-      <Text>, M.C. (granted perm, commn.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3291</PageNumber>
     </MainItem>
     <SubItem>
@@ -140,7 +144,9 @@
     <MainItem>
       <Key>Smith</Key>
       <Forenames>C. H. C</Forenames>
-      <Text>, D.S.C. (resigns perm, commn., and granted rank of Maj.)</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>2572</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -239,7 +245,9 @@
     <MainItem>
       <Key>Smylie</Key>
       <Title>Fit. Lt.</Title>
-      <Text>_G._F., D.S.C. (restd. to active list for temp. duty)</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>3543</PageNumber>
     </MainItem>
     <SubItem>
@@ -277,7 +285,9 @@
         <KeyDitto>—</KeyDitto>
       </Key>
       <Forenames>Flying Offr</Forenames>
-      <Text>. R. R., D.S.C. (granted short serv. commn.)</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>3292</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -371,7 +381,9 @@
       <Key>Stapleton</Key>
       <Title>Lt. (Hon. Capt.) Sir</Title>
       <Forenames>M. T.</Forenames>
-      <Text>, Bt. (rel. temp, commn. on ceasing to be empld.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>2675</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -442,7 +454,9 @@
     <MainItem>
       <Key>Stevenson</Key>
       <Forenames>Flying Offr</Forenames>
-      <Text>. A. W., D.F.C. (restd. to active list for temp, duty)</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>3544</PageNumber>
     </MainItem>
     <SubItem>
@@ -483,7 +497,9 @@
     <MainItem>
       <Key>Stower</Key>
       <Forenames>Flying Offr</Forenames>
-      <Text>. L. A. W., M.C. (granted temp, commn. on prob. for Acct. duties)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4302</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -491,7 +507,11 @@
     <MainItem>
       <Key>Strange</Key>
       <Forenames>Wing Comdr</Forenames>
-      <Text>. L. A.. D.S.O., M.C., D.F.C. (placed on ret. list on acc. of ill-health contracted in the service, and retains rank of Lt.-Col.), Sub. Not</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>3440</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -552,7 +572,9 @@
     <MainItem>
       <Key>Symondson</Key>
       <Forenames>Flying Offr</Forenames>
-      <Text>. F. S., M.C. (restd. to active list for temp. duty)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3544</PageNumber>
     </MainItem>
     <SubItem>
@@ -563,7 +585,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Talbot</Key>
-      <Text>Flying Offr. John (rel. commn. on acc. of ill-health, and permitted to retain rank of Lt.)</Text>
+      <Forenames>Flying Offr</Forenames>
+      <Text>. John (rel. commn. on acc. of ill-health, and permitted to retain rank of Lt.)</Text>
       <PageNumber>5139</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -686,7 +709,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Toye</Key>
-      <Text>A. C. (Pilot Offr., on prob.) H. J. (granted short serv. commn.)</Text>
+      <Forenames>A. C.</Forenames>
+      <Text>(Pilot Offr., on prob.) H. J. (granted short serv. commn.)</Text>
       <PageNumber>4550</PageNumber>
     </MainItem>
   </ItemGroup>

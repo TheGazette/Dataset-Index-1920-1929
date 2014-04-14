@@ -40,7 +40,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>T.</Forenames>
-      <Text>/Capt. Robert Walpole, M.D., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>8051</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -65,7 +67,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Nathan</Key>
-      <Text>the (Right Hon. Sir Matthew, G.C.M.G., Governor of the State of Queensland and its Dependencies</Text>
+      <Text>
+        <Honour>G.C.M.G.</Honour>
+      </Text>
       <PageNumber>8711</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -82,7 +86,9 @@
     <MainItem>
       <Key>Nichols</Key>
       <Forenames>Philip Bouwerie Bowyer</Forenames>
-      <Text>, M.C., Third Secretary in H.M. Diplomatic Service</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7121</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -99,7 +105,9 @@
     <MainItem>
       <Key>Nilkanth</Key>
       <Forenames>Shriram Jatar</Forenames>
-      <Text>, D.S.O., Capt., Bar to D.S.O</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>9508</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -107,7 +115,9 @@
     <MainItem>
       <Key>Noble</Key>
       <Forenames>William</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>8861</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -116,7 +126,9 @@
       <Key>Norman</Key>
       <Title>Surg.</Title>
       <Forenames>Vice-Adm</Forenames>
-      <Text>. Sir William, K.C.B., Honorary Surgeon to H.M. the King</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+      </Text>
       <PageNumber>8408</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -133,14 +145,18 @@
     <MainItem>
       <Key>Norton</Key>
       <Forenames>Robert Frederick</Forenames>
-      <Text>, O.B.E., K.C., Member of the Royal Commission on Awards of Inventors</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>9520</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, Maj. Lennox Brett, Officer, Order of the British Empire)</Text>
+      <Key>O'Brien</Key>
+      <Title>Maj.</Title>
+      <Forenames>Lennox Brett</Forenames>
+      <Text>, Officer, Order of the British Empire)</Text>
       <PageNumber>7573</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -163,8 +179,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Malley, T./Capt. David Vincent, M.B., Officer, Order of the British Empire</Text>
+      <Key>O'Malley</Key>
+      <Forenames>T.</Forenames>
+      <Text>/Capt. David Vincent, M.B., Officer, Order of the British Empire</Text>
       <PageNumber>7758</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -204,7 +221,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Title>Lt.</Title>
-      <Text>-Comdr. Basil Wilberforce Longmore, Member, 4th Cl., Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>7852</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -220,7 +239,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Palmer</Key>
-      <Text>. 'Miss Rosa Jane, Member, Order of the British Empire (corr. of service)</Text>
+      <Text>'Miss Rosa Jane, Member, Order of the British Empire (corr. of service)</Text>
       <PageNumber>7854</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -263,7 +282,9 @@
     <MainItem>
       <Key>Pease</Key>
       <Forenames>Arthur Francis</Forenames>
-      <Text>, created Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>8860</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -272,7 +293,9 @@
       <Key>Peel</Key>
       <Title>Sir</Title>
       <Forenames>Arthur Robert</Forenames>
-      <Text>, K.C.M.G., H.M. Envoy, Extraordinary and Minister Plenipopentiary to H.M. the King of the Bulgarians</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+      </Text>
       <PageNumber>9365</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -344,7 +367,11 @@
       <Key>Percy</Key>
       <Title>Col. (T./Brig.-Gen.)</Title>
       <Forenames>John Samuel Jocelyn</Forenames>
-      <Text>, C.B., .C.M.G., D.S.O., Knight Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7673</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -360,7 +387,10 @@
     <MainItem>
       <Key>Perry</Key>
       <Forenames>William Payne</Forenames>
-      <Text>, C.B., Knighted</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>8861</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -394,7 +424,9 @@
       <Key>Phillimore</Key>
       <Title>Capt.</Title>
       <Forenames>Valentine Egerton Bagot</Forenames>
-      <Text>, D.S.O., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>9051</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -419,7 +451,11 @@
     <MainItem>
       <Key>Pitkeathly</Key>
       <Title>Maj.</Title>
-      <Text>'(T./Lt. Col.) James Scott, C.V.O.., O.B.E.. D.S.O., Companion, Order of the Indian Empire</Text>
+      <Text>
+        <Honour>C.V.O.</Honour>
+        <Honour>O.B.E.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8050</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -483,7 +519,9 @@
     <MainItem>
       <Key>Radclyffe</Key>
       <Forenames>T.</Forenames>
-      <Text>/Maj, (A./Lt.-Col.) Charles Raymond, D.S.O.. Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7573</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -593,7 +631,10 @@
     <MainItem>
       <Key>Roberts</Key>
       <Forenames>John</Forenames>
-      <Text>, C.M.G., Knighted</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>8861</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -628,7 +669,9 @@
     <MainItem>
       <Key>Roney</Key>
       <Forenames>Ernest</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>8861</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -654,7 +697,9 @@
       <Key>Rowlandson</Key>
       <Title>Maj. (T./Lt.-Col.)</Title>
       <Forenames>Herbert Wynyard</Forenames>
-      <Text>, O.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>7573</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -662,7 +707,9 @@
     <MainItem>
       <Key>Royle</Key>
       <Forenames>George</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>8861</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -695,7 +742,8 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>. John, Lt.-iCol. Henry Beauchamp, CLE., Commander, Order of the British Empire</Text>
+      <Forenames>John</Forenames>
+      <Text>, Lt.-iCol. Henry Beauchamp, CLE., Commander, Order of the British Empire</Text>
       <PageNumber>8050</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -710,7 +758,9 @@
     <MainItem>
       <Key>Sanderson</Key>
       <Forenames>Frank Bernard</Forenames>
-      <Text>, created Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>8860</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -718,7 +768,10 @@
     <MainItem>
       <Key>Sangeaunt</Key>
       <Forenames>Bertram Edward</Forenames>
-      <Text>, O.B.E., Member, 4th 01., Royal Victorian Order</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>7852</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -754,7 +807,9 @@
       <Key>Selim</Key>
       <Title>Izzeddiii.</Title>
       <Forenames>Bey</Forenames>
-      <Text>, M.B.E., Honorary 'Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>8709</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -779,7 +834,9 @@
     <MainItem>
       <Key>Sharp</Key>
       <Forenames>Milton Sheridan</Forenames>
-      <Text>, created) . Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>8960</PageNumber>
     </MainItem>
   </ItemGroup>

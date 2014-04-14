@@ -445,7 +445,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cowan</Key>
-      <Forenames>J. De B.</Forenames>
+      <Forenames>J. De B</Forenames>
       <PageNumber>5135</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -514,8 +514,8 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Title>St.</Title>
-      <Forenames>J. A</Forenames>
+      <Title>St. J.</Title>
+      <Forenames>A</Forenames>
       <PageNumber>4618</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -555,8 +555,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Oanbrook</Key>
-      <Forenames>The</Forenames>
-      <Text>Earl of</Text>
+      <Title>The Earl</Title>
+      <Text>of</Text>
       <PageNumber>4855</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -802,8 +802,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cuffe</Key>
-      <Forenames>W. P.</Forenames>
-      <Text>de L</Text>
+      <Forenames>W. P. de L</Forenames>
       <PageNumber>5630</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -817,7 +816,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Culverwell</Key>
-      <Text>E. R</Text>
+      <Forenames>E. R</Forenames>
       <PageNumber>6426</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -897,7 +896,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>E. F. E</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6276</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1218,18 +1219,38 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Chazal</Forenames>
-      <Text>, E. M</Text>
+      <Key>De Chazal</Key>
+      <Forenames>E. M</Forenames>
       <PageNumber>6135</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Forest</Forenames>
-      <Text>, J. W</Text>
+      <Key>De Forest</Key>
+      <Forenames>J. W</Forenames>
       <PageNumber>6135</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Lotbiniere</Key>
+      <Forenames>E.</Forenames>
+      <Text>.Toly, see Joly de Lotbiniere, E. de Moulin. G. A :</Text>
+      <PageNumber>5557</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Salis</Key>
+      <Text>13. A. A</Text>
+      <PageNumber>4787</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Smidt</Key>
+      <Forenames>A. G. C</Forenames>
+      <PageNumber>6498</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1585,8 +1606,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dracott</Key>
-      <Forenames>H. St</Forenames>
-      <Text>. E</Text>
+      <Forenames>H. St. E</Forenames>
       <PageNumber>5556</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1649,9 +1669,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Val</Forenames>
-      <Text>, B</Text>
+      <Key>Du Val</Key>
+      <Forenames>B.</Forenames>
       <PageNumber>4689</PageNumber>
     </MainItem>
   </ItemGroup>

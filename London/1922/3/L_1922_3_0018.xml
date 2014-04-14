@@ -4,7 +4,10 @@
     <MainItem>
       <Key>Lloyd</Key>
       <Title>Surgeon Lieut.</Title>
-      <Text>-Colonel John Daniel, M.B.E., M.R.C.S., L.R.C.P., Knight of Grace, St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+        <Honour>Knight of Grace, St. John of Jerusalem</Honour>
+      </Text>
       <PageNumber>5856</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -68,7 +71,10 @@
     <MainItem>
       <Key>Macpherson</Key>
       <Forenames>John</Forenames>
-      <Text>, C.B., M.D., F.R.C.P. (Edin.), knighted</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>5354</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -85,7 +91,9 @@
     <MainItem>
       <Key>Majlaiby-Deetey</Key>
       <Forenames>Harry Mallaby</Forenames>
-      <Text>, created Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>5593</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -102,7 +110,9 @@
       <Key>Marks</Key>
       <Title>Sir</Title>
       <Forenames>George Croydon</Forenames>
-      <Text>, Kt., O.B.E., Member of Royal Commission on Award of Honours</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>6747</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -120,7 +130,9 @@
       <Key>Metcalfe</Key>
       <Title>Capt.</Title>
       <Forenames>Edward Dudley</Forenames>
-      <Text>, M.C., Member, 4th CI., Royal Victorian; Order</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5187</PageNumber>
     </MainItem>
     <SubItem>
@@ -147,8 +159,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Monson</Key>
-      <Forenames>Edmund St</Forenames>
-      <Text>. John Debonnaire John&gt; Acting Counsellor of Embassy dn H.M. Diplomatic Service</Text>
+      <Forenames>Edmund St. John Debon-</Forenames>
+      <Text>naire John&gt; Acting Counsellor of Embassy dn H.M. Diplomatic Service</Text>
       <PageNumber>6769</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -164,7 +176,9 @@
     <MainItem>
       <Key>Montgomery</Key>
       <Forenames>Hugh Edmund Lang-</Forenames>
-      <Text>ton, M.C., Diplomatic Secretary, 3rd Grade</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6769</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -172,7 +186,10 @@
     <MainItem>
       <Key>Mountbatten</Key>
       <Forenames>Lieutenant</Forenames>
-      <Text>the Lord Louis Francis Albert Victor Nioholas, M.V.O., Knight Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>5353</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -181,7 +198,10 @@
       <Key>Moynihan</Key>
       <Title>Sir</Title>
       <Forenames>Berkeley George Andrew</Forenames>
-      <Text>, K.O.M.G., C.B., created Baronet</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>5593</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -204,7 +224,10 @@
   <ItemGroup>
     <MainItem>
       <Key>M</Key>
-      <Text>ewport, Surg.-Comdr. Alexander Charles William, M.V.O., Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>5187</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -212,7 +235,9 @@
     <MainItem>
       <Key>Neylan</Key>
       <Forenames>Daniel</Forenames>
-      <Text>, C.B.E., knighted</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>5354</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -229,7 +254,10 @@
       <Key>Norton-Griffiths</Key>
       <Title>Lt.-Col. Sir</Title>
       <Forenames>John</Forenames>
-      <Text>, K.C.R., D.S.O., created Baronet:</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Bar-</Honour>
+      </Text>
       <PageNumber>5593</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -245,7 +273,9 @@
     <MainItem>
       <Key>Nuttall</Key>
       <Forenames>Edmund</Forenames>
-      <Text>, created Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>5593</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -254,7 +284,9 @@
       <Key>Ogilvy</Key>
       <Title>Lt. the Hon.</Title>
       <Forenames>Bruce Arthur</Forenames>
-      <Text>lAshley, M.C, Member, 5th CI., Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>5187</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -262,7 +294,9 @@
     <MainItem>
       <Key>Osborne</Key>
       <Forenames>Richard Bourke</Forenames>
-      <Text>, M.C, Member. 4th CI., Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>5187</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -278,7 +312,209 @@
     <MainItem>
       <Key>Oxley</Key>
       <Forenames>Alfred James Rice</Forenames>
-      <Text>. C.B.E., M.D.. M.R.C.S., M.R.C.P., J.P., knighted</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
+      <PageNumber>5354</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Parkinson</Key>
+      <Forenames>Albert Lindsay</Forenames>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
+      <PageNumber>5354</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Peace</Key>
+      <Forenames>Joseph Gerald</Forenames>
+      <Text>, Deputy Umpire under Unemployment In-</Text>
+      <PageNumber>6079</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Peter</Key>
+      <Forenames>John Charles</Forenames>
+      <Text>, knighted</Text>
+      <PageNumber>5354</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Phillips</Key>
+      <Title>temp. Capt. (temp. Maj.)</Title>
+      <Forenames>Charles Keith</Forenames>
+      <Text>, Officer, Order ___ of the British Empire, correc-</Text>
+      <PageNumber>6894</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Plowman</Key>
+      <Forenames>Clifford Henry Fitzher</Forenames>
+      <PageNumber>5428</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Pollock</Key>
+      <Forenames>Edward James</Forenames>
+      <Text>, knighted</Text>
+      <PageNumber>5354</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Power</Key>
+      <Forenames>Samuel Murray</Forenames>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
+      <PageNumber>5354</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Pratt</Key>
+      <Forenames>Richard Septimus</Forenames>
+      <Text>, H.M. Vice-Consul in China</Text>
+      <PageNumber>5427</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Pulley</Key>
+      <Forenames>Charles Thornton</Forenames>
+      <Text>
+        <Honour>D.L.</Honour>
+      </Text>
+      <PageNumber>5354</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Rabino</Key>
+      <Forenames>Hyacinth Louis</Forenames>
+      <Text>, O.B.E H.M. Consul at Cairo</Text>
+      <PageNumber>5592</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Rae</Key>
+      <Forenames>Henry Norman</Forenames>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
+      <PageNumber>5354</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Rai</Key>
+      <Forenames>Onkar Mull Jatiia Bahadur</Forenames>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
+      <PageNumber>5355</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Ramsay</Key>
+      <Title>Hon.</Title>
+      <Forenames>Patrick William Maule</Forenames>
+      <Text>, Counsellor of Embassy in H.M. Diplomatic Service</Text>
+      <PageNumber>6769</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Rees</Key>
+      <Title>Major</Title>
+      <Forenames>Frederick Tavinor</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>Esquire, St. John of Jerusalem</Honour>
+      </Text>
+      <PageNumber>5856</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Reid</Key>
+      <Forenames>Alexander Moir</Forenames>
+      <Text>, Member of Executive Council of St. Chris topher and Nevis</Text>
+      <PageNumber>6374</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Roberts</Key>
+      <Title>Major</Title>
+      <Forenames>Richard Conan</Forenames>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>Knight of Grace, St. John of Jerusalem</Honour>
+      </Text>
+      <PageNumber>5856</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Robertson</Key>
+      <Forenames>Thomas Graham</Forenames>
+      <Text>, Counsel to His Majesty</Text>
+      <PageNumber>6018</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Robinson</Key>
+      <Forenames>Laurence Milner</Forenames>
+      <Text>, H.M. Consul at Munich</Text>
+      <PageNumber>6769</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Romer</Key>
+      <Title>the Hon. Mr.</Title>
+      <Forenames>Justice</Forenames>
+      <Text>(Mark), knighted</Text>
+      <PageNumber>5354</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Ross</Key>
+      <Title>Maj. (temp. Lt.-Col.)</Title>
+      <Forenames>Henry</Forenames>
+      <Text>, M.V., F.R.C.S.I., transferred to Military Division of the Order of the British Empire</Text>
+      <PageNumber>6893</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Rushton</Key>
+      <Forenames>Herbert Harvey</Forenames>
+      <Text>, Nominated Member of Legislative Council of Fiji</Text>
+      <PageNumber>7374</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Russell</Key>
+      <Forenames>Edward John</Forenames>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>5354</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -288,51 +524,186 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>William Fleming</Forenames>
-      <Text>, J.P. knighted .. Sansom, George Bailey, H.M. Con sul at Osaka</Text>
-      <PageNumber>5427</PageNumber>
+      <Text>, J.P. knighted</Text>
+      <PageNumber>5354</PageNumber>
     </MainItem>
   </ItemGroup>
-  <KeyDitto>___ ___</KeyDitto>
-  <KeyDitto>___ ___</KeyDitto>
+  <ItemGroup>
+    <MainItem>
+      <Key>Sansom</Key>
+      <Forenames>George Bailey</Forenames>
+      <Text>, H.M. Con sul at Osaka</Text>
+      <PageNumber>5427</PageNumber>
+      <PageNumber>6769</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Serjeant</Key>
+      <Forenames>David Maurice</Forenames>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
+      <PageNumber>5354</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Shand</Key>
+      <Forenames>Haddon Ferguson</Forenames>
+      <Text>, Unoffi oial Member of Executive Council of Montserrat</Text>
+      <PageNumber>5512</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Sharp</Key>
+      <Forenames>Edward</Forenames>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
+      <PageNumber>5593</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Stuart</Forenames>
-      <Text>, Sir Harold Arthur, 5354 K.C.S.I., K.C.M.G., K.C.V.O., Knight Grand. Cross, St. Michael and St. George</Text>
+      <Forenames>Henry</Forenames>
+      <Text>, C.S.L, C.I.E., knighted</Text>
+      <PageNumber>5355</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Sheldon</Key>
+      <Forenames>Mark</Forenames>
+      <Text>, knighted</Text>
+      <PageNumber>5354</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Shipstone</Key>
+      <Forenames>Thomas</Forenames>
+      <Text>, knighted</Text>
+      <PageNumber>5354</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Simnett</Key>
+      <Title>temp. Capt. (actg. Maj.)</Title>
+      <Forenames>William Edward</Forenames>
+      <Text>, Member, Order of the British Empire, correction of name</Text>
+      <PageNumber>6894</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Skinner</Key>
+      <Forenames>Sydney Martin</Forenames>
+      <Text>, knighted</Text>
+      <PageNumber>5354</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Sly</Key>
+      <Forenames>Henry Edward</Forenames>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
+      <PageNumber>5771</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Smallbones</Key>
+      <Forenames>Robert Townsend</Forenames>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
+      <PageNumber>6769</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Forenames>Montague Bentley Talbot Paske</Forenames>
+      <Text>, H.M. Vice-Consul at Kobe</Text>
+      <PageNumber>5427</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Smyth</Key>
+      <Forenames>Robert Middleton Watson</Forenames>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
+      <PageNumber>5593</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Stewart</Key>
+      <Forenames>Walter Annesley</Forenames>
+      <Text>, Counsellor of Embassy in H.M. Diplomatic Service</Text>
+      <PageNumber>5428</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Strover</Key>
+      <Title>Major</Title>
+      <Forenames>Wyndham George</Forenames>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
+      <PageNumber>5425</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <KeyDitto>___ ___</KeyDitto>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___</KeyDitto>
+      </Key>
+      <Forenames>William</Forenames>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>C.B.E.</Honour>
+        <Honour>Bt</Honour>
+      </Text>
+      <PageNumber>7</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <KeyDitto>___ ___ ___</KeyDitto>
+  <KeyDitto>___</KeyDitto>
+  <KeyDitto>___ ___</KeyDitto>
+  <KeyDitto>___ ___ ___</KeyDitto>
+  <SubSectionTitle>Establishments</SubSectionTitle>
+  <SubSectionTitle>Staff College</SubSectionTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Berkeley</Key>
+      <Title>Bt. Lt.-Col.</Title>
+      <Forenames>C. R.</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>O.B.E.</Honour>
+        <Honour>Bt</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D. S.O.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6153</PageNumber>
     </MainItem>
-    <SubItem>
-      <Text>Tallis, George, knighted</Text>
-      <PageNumber>5354</PageNumber>
-    </SubItem>
-    <SubItem>
-      <Text>Turrell, Harry Joseph, Recorder of Borough of Banbury</Text>
-      <PageNumber>6079</PageNumber>
-    </SubItem>
-    <SubItem>
-      <Text>Waring, Sir Samuel James, Bt., created Baron</Text>
-      <PageNumber>5355</PageNumber>
-    </SubItem>
-    <SubItem>
-      <Text>knighted</Text>
-      <PageNumber>5354</PageNumber>
-    </SubItem>
-    <SubItem>
-      <Text>___ Woolmer Rudolph Donati, created Baronet</Text>
-      <PageNumber>5593</PageNumber>
-    </SubItem>
-    <SubItem>
-      <Text>___ ___ Thomas William, Esquire, St. John of Jerusalem</Text>
-      <PageNumber>5856</PageNumber>
-    </SubItem>
-    <SubItem>
-      <Text>Woods, James Edward, M.A., J.P., knighted</Text>
-      <PageNumber>5354</PageNumber>
-    </SubItem>
   </ItemGroup>
-  <SubSectionTitle>6769 Establishments</SubSectionTitle>
-  <SubSectionTitle>5427 Staff College</SubSectionTitle>
 </Index>
 

@@ -271,7 +271,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Else</Key>
-      <Text>F. H</Text>
+      <Forenames>F. H .</Forenames>
       <PageNumber>6315</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -293,7 +293,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Evans</Key>
-      <Text>C. T</Text>
+      <Forenames>C. T .</Forenames>
       <PageNumber>6988</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1074,7 +1074,9 @@
       <PageNumber>8097</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>7380</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1128,8 +1130,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hamersley</Key>
-      <Forenames>A. H. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>A. H. St. G</Forenames>
       <PageNumber>6766</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1854,7 +1855,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hussey</Key>
-      <Text>de Burgh, U. F</Text>
+      <Forenames>de Burgh</Forenames>
+      <Text>, U. F</Text>
       <PageNumber>7941</PageNumber>
     </MainItem>
   </ItemGroup>

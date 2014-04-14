@@ -38,13 +38,6 @@
     </MainItem>
   </ItemGroup>
   <SubSectionTitle>Commissioned -Boatswains</SubSectionTitle>
-  <ItemGroup>
-    <MainItem>
-      <Key>Francis</Key>
-      <Forenames>W. H.</Forenames>
-      <PageNumber>7980</PageNumber>
-    </MainItem>
-  </ItemGroup>
   <SubSubSectionTitle>Retired List</SubSubSectionTitle>
   <ItemGroup>
     <MainItem>
@@ -651,7 +644,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mur</Key>
-      <Text>.phy, J. D</Text>
+      <Text>phy, J. D</Text>
       <PageNumber>7822</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -762,7 +755,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Nicholson</Key>
-      <Text>C.B</Text>
+      <Text>
+        <Honour>C.B</Honour>
+      </Text>
       <PageNumber>7742</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -824,14 +819,6 @@
       <Key>Johnston</Key>
       <Forenames>A. B.</Forenames>
       <PageNumber>6698</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Lloyd</Key>
-      <Forenames>F. J</Forenames>
-      <Text>;</Text>
-      <PageNumber>7665</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -982,7 +969,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sweny</Key>
-      <Text>., R. E. , '</Text>
+      <Text>, R. E. , '</Text>
       <PageNumber>7001</PageNumber>
     </MainItem>
   </ItemGroup>

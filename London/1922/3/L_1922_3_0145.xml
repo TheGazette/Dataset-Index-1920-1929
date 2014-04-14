@@ -73,7 +73,9 @@
     <MainItem>
       <Key>Morgan</Key>
       <Forenames>Harry</Forenames>
-      <Text>, D.S.C. (at own</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>6226</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -127,7 +129,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Henry C</Forenames>
-      <Text>, M.B.E</Text>
+      <Text>
+        <Honour>M.B.E</Honour>
+      </Text>
       <PageNumber>6093</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -137,7 +141,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>James B.</Forenames>
-      <Text>, O.B.E. ... own Newton, Christopher P. (at</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>5278</PageNumber>
     </MainItem>
     <SubItem>
@@ -168,14 +174,16 @@
     <MainItem>
       <Key>Nightingale</Key>
       <Forenames>William J. E.</Forenames>
-      <Text>, M.B.E. (at own request)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>5960</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, Patrick J</Text>
+      <Key>O'Connor</Key>
+      <Forenames>Patrick J</Forenames>
       <PageNumber>6093</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -207,8 +215,11 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Meara, Daniel J., M.B.E</Text>
+      <Key>O'Meara</Key>
+      <Forenames>Daniel J.</Forenames>
+      <Text>
+        <Honour>M.B.E</Honour>
+      </Text>
       <PageNumber>6093</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -318,7 +329,9 @@
     <MainItem>
       <Key>Peirson</Key>
       <Forenames>John J. E.</Forenames>
-      <Text>, D.S.C. (at own request)</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>6092</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -458,7 +471,9 @@
     <MainItem>
       <Key>Rhind</Key>
       <Forenames>William A.</Forenames>
-      <Text>, M.B.E</Text>
+      <Text>
+        <Honour>M.B.E</Honour>
+      </Text>
       <PageNumber>6093</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -759,7 +774,9 @@
         <KeyDitto>___ ..—</KeyDitto>
       </Key>
       <Forenames>Robert J.</Forenames>
-      <Text>, D.S.C</Text>
+      <Text>
+        <Honour>D.S.C</Honour>
+      </Text>
       <PageNumber>6093</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -870,7 +887,9 @@
       <Key>Twysden</Key>
       <Title>Sir</Title>
       <Forenames>Roger T.</Forenames>
-      <Text>, Bart, (at own request)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>5960</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -886,7 +905,9 @@
     <MainItem>
       <Key>Vaughan</Key>
       <Forenames>William</Forenames>
-      <Text>, M.B.E</Text>
+      <Text>
+        <Honour>M.B.E</Honour>
+      </Text>
       <PageNumber>6093</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1001,7 +1022,9 @@
     <MainItem>
       <Key>Wilder</Key>
       <Forenames>Edward H.</Forenames>
-      <Text>, M.B.E</Text>
+      <Text>
+        <Honour>M.B.E</Honour>
+      </Text>
       <PageNumber>6093</PageNumber>
     </MainItem>
   </ItemGroup>

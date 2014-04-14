@@ -5,7 +5,9 @@
       <Key>Bain</Key>
       <Title>Lt.</Title>
       <Forenames>A. A.</Forenames>
-      <Text>, M.C. (Lt., 26th (Highl.) Pack Bde., R.G.A., late R.G.A., T.A.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6581</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -14,7 +16,9 @@
       <Key>Baker</Key>
       <Title>Capt.</Title>
       <Forenames>A. F.</Forenames>
-      <Text>, O.B.E. (Capt., T.A. Res., Gen. List, R.A.S.C., from 44th H. Counties Divl</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>5208</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -45,7 +49,9 @@
       </Key>
       <Title>Lt.-Col.</Title>
       <Forenames>J. R. M.</Forenames>
-      <Text>, T.D. (resigns commn. with permission to retain rank of Lt. Col. and wear prescribed uniform)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>5711</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -149,7 +155,9 @@
       <Key>Barnett</Key>
       <Title>Capt.</Title>
       <Forenames>H. N.</Forenames>
-      <Text>, F.R.C.S. (re tired, having attained the age limit, and granted rank of Lt. Col.)</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>6233</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -220,12 +228,217 @@
     <MainItem>
       <Key>Bath</Key>
       <Title>Lt.-Col. and Hon. Col.</Title>
-      <Text>the Marquis of, K.G., C.B., T.D., Ret., T.F. (Hon. Col., 4th Bn., Somerset ill.)</Text>
+      <Text>
+        <Honour>K.G.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>5710</PageNumber>
     </MainItem>
   </ItemGroup>
-  <KeyDitto>___ ___</KeyDitto>
-  <KeyDitto>___ ___</KeyDitto>
+  <ItemGroup>
+    <MainItem>
+      <Key>Batt</Key>
+      <Title>Capt.</Title>
+      <Forenames>B. E. A.</Forenames>
+      <Text>, M.B. (resigns commn. and retains rank of Capt.)</Text>
+      <PageNumber>5711</PageNumber>
+    </MainItem>
+    <SubItem>
+      <Text>Capt., T.A. Res., Regtl. List, leo., from N. Somerset Yeo</Text>
+      <PageNumber>5364</PageNumber>
+    </SubItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Bawden</Key>
+      <Title>Lt.</Title>
+      <Forenames>P. R.</Forenames>
+      <Text>(apptd. to 4/5th Bn., D.C.L.I., from 4th Bn., D.C.L.I., and retains rank of Lt. and precedence)</Text>
+      <PageNumber>5970</PageNumber>
+    </MainItem>
+    <SubItem>
+      <Text>Date of precedence</Text>
+      <PageNumber>6099</PageNumber>
+    </SubItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Baxter</Key>
+      <Title>Capt.</Title>
+      <Forenames>A. R.</Forenames>
+      <Text>(Capt., T.A. Res., Kegtl. List, inly., 9th Bn., A: and S.H., from Active List)</Text>
+      <PageNumber>6844</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Title>Maj.</Title>
+      <Forenames>H. H.</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
+      <PageNumber>6299</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Title>Capt.</Title>
+      <Forenames>W. H.</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
+      <PageNumber>5970</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Beach</Key>
+      <Title>Maj.</Title>
+      <Forenames>G.</Forenames>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
+      <PageNumber>6382</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Beard</Key>
+      <Title>Capt.</Title>
+      <Forenames>G. R.</Forenames>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
+      <PageNumber>6444</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Beattie</Key>
+      <Title>2nd Lt.</Title>
+      <Forenames>J. A. N.</Forenames>
+      <Text>(Lt.)</Text>
+      <PageNumber>5711</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Beaufort</Key>
+      <Title>Col.</Title>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
+      <PageNumber>5966</PageNumber>
+    </MainItem>
+    <SubItem>
+      <Text>Date of precedence</Text>
+      <PageNumber>5966</PageNumber>
+    </SubItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Beaumont</Key>
+      <Title>Lt.</Title>
+      <Forenames>W. H.</Forenames>
+      <Text>(resigns commn.)</Text>
+      <PageNumber>6843</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Beckett</Key>
+      <Title>Lt.-Col. (Hon. Brig.-Gen.)</Title>
+      <Forenames>W. T. C</Forenames>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
+      <PageNumber>5968</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Beddow</Key>
+      <Title>Lt.</Title>
+      <Forenames>P. E.</Forenames>
+      <Text>(apptd. to 16th Bn., London R., from 15th Bn., London R., and retains rank of Lt. and precedence)</Text>
+      <PageNumber>5972</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Beddows</Key>
+      <Title>Lt.</Title>
+      <Forenames>A. C.</Forenames>
+      <Text>(Capt.)</Text>
+      <PageNumber>5781</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Bedford</Key>
+      <Title>Lt.</Title>
+      <Forenames>C. M.</Forenames>
+      <Text>(Capt.)</Text>
+      <PageNumber>5528</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Bee</Key>
+      <Title>Capt.</Title>
+      <Forenames>F. B. W.</Forenames>
+      <Text>(Maj.)</Text>
+      <PageNumber>5434</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Beilby</Key>
+      <Title>Capt.</Title>
+      <Forenames>R. E.</Forenames>
+      <Text>(rel. commn. and granted rank of Maj.)</Text>
+      <PageNumber>5207</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Belcher</Key>
+      <Title>Lt.</Title>
+      <Forenames>A. E. I.</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
+      <PageNumber>6778</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Belk</Key>
+      <Title>Lt.</Title>
+      <Forenames>T. B.</Forenames>
+      <Text>(Lt., T.A, ResGen. List, Arty., from 73rd (Northn) Bde. R.F.A.)</Text>
+      <PageNumber>6643</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Bell</Key>
+      <Title>Capt.</Title>
+      <Forenames>E.</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
+      <PageNumber>6513</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>
@@ -233,14 +446,68 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>W. B. M.</Forenames>
-      <Text>(resigns commn. and retains rank of Maj.) ... ... .:. ... Bell-Irving, Capt. J. (announcement in Gaz. of 21st Nov.,</Text>
-      <PageNumber>1921</PageNumber>
+      <Text>(resigns commn. and retains rank of Maj.) ... ... .:</Text>
+      <PageNumber>5434</PageNumber>
     </MainItem>
   </ItemGroup>
-  <KeyDitto>___ ___ ___</KeyDitto>
-  <KeyDitto>___ ___ ___</KeyDitto>
-  <KeyDitto>___ ___</KeyDitto>
-  <KeyDitto>___ ___ ___</KeyDitto>
+  <ItemGroup>
+    <MainItem>
+      <Key>Bell-Irving</Key>
+      <Title>Capt.</Title>
+      <Forenames>J.</Forenames>
+      <Text>(announcement in Gaz. of 21st Nov., 1921, cancelled)</Text>
+      <PageNumber>5527</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Bennett</Key>
+      <Title>Lt.</Title>
+      <Forenames>A. E. G.</Forenames>
+      <Text>(resigns commn. and retains rank of Lt.)</Text>
+      <PageNumber>5868</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___</KeyDitto>
+      </Key>
+      <Title>Lt.</Title>
+      <Forenames>C. R.</Forenames>
+      <Text>(Cant.)</Text>
+      <PageNumber>5710</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___</KeyDitto>
+      </Key>
+      <Text>(late Cadet L.?Cpl., St. Bees School Contet., Jun. Div., O.T.C.) Henrv Arthur (2nd Lt., 1st Bn., Mon. R.)</Text>
+      <PageNumber>5527</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Title>Lt.</Title>
+      <Forenames>J. P.</Forenames>
+      <Text>(Capt.), Sub. Not</Text>
+      <PageNumber>5967</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___</KeyDitto>
+      </Key>
+      <Text>2nd Lt, Robert Christie (2nd Lt., Doreet R.G.A., late Tank Corps)</Text>
+      <PageNumber>5282</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <KeyDitto>___ ___</KeyDitto>
   <ItemGroup>
     <MainItem>
@@ -248,225 +515,51 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Willmot</Forenames>
-      <Text>(2nd Lt., 1st Bn., Hereford R.) Benson, Capt. -B. H. (Capt., 'T.A. Res., Gen. List, R.A.V.C., from R.A.V.C.) Bentley, Frank (2nd Lt.. Gen. List, for service with Durham Univ. Cont., Sen. Div., O.T.C.) ... Benton, Cant. F. C. M.C. (apptd. to 6/7th Bn., Manch. R., from 6th Bn., Manch. R., and retains rank of Capt. and precedence)</Text>
-      <PageNumber>5711</PageNumber>
+      <Text>(2nd Lt., 1st Bn., Hereford R.)</Text>
+      <PageNumber>5612</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Benyon</Key>
-      <Title>Maj.</Title>
-      <Forenames>H. S.</Forenames>
-      <Text>, D.S.O., M.C. (Adjt., 25th (Northants Yeo.) Armoured Car Cos.)</Text>
-      <PageNumber>6098</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Berridge</Key>
+      <Key>Benson</Key>
       <Title>Capt.</Title>
-      <Forenames>F. R.</Forenames>
-      <Text>, D.S.O., M.C. (date of precedence)</Text>
-      <PageNumber>6381</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Berry</Key>
-      <Title>Capt.</Title>
-      <Forenames>D. W.</Forenames>
-      <Text>, M.C., M.B. (resigns commn. and granted rank of Maj.)</Text>
-      <PageNumber>6233</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <CategoryTitle>(H. Counties) Divl. Train) 5037</CategoryTitle>
-  <ItemGroup>
-    <MainItem>
-      <Key>Sevan</Key>
-      <Title>Capt.</Title>
-      <Forenames>J. H.</Forenames>
-      <Text>, M.C. (MJ-» T.A. Res., Gen. List, Infy., from Herts. R.)</Text>
+      <Text>
+        <Honour>V.C.</Honour>
+        <Honour>V.C.</Honour>
+      </Text>
       <PageNumber>6778</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Biddle</Key>
-      <Title>Capt.</Title>
-      <Forenames>R. P.</Forenames>
-      <Text>(apptd. to 5/7th Bn., Hamps. R., from 5th Bn., Hamps. R., and retains rank of Capt. and precedence)</Text>
-      <PageNumber>5970</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Biggs</Key>
-      <Title>Lt.-Col.</Title>
-      <Forenames>G. N.</Forenames>
-      <Text>, M.B. (resigns commn. and retains rank of Lt.Col.)</Text>
-      <PageNumber>5782</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___</KeyDitto>
-      </Key>
-      <Title>Maj.</Title>
-      <Forenames>J. J. E.</Forenames>
-      <Text>, O.B.E. (resigns commn. and retains rank of Maj.)</Text>
-      <PageNumber>5781</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Bingham</Key>
-      <Forenames>Joseph Alexander</Forenames>
-      <Text>(Lt., R.A.M.C., Sanitary Companies)</Text>
-      <PageNumber>57821</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Bintley</Key>
-      <Forenames>Bryan Noel</Forenames>
-      <Text>(2nd Lt., 42nd (East Lanes) Div. Sigs., R.C. of Sigs, late Cadet L./Cpl., Berkhampsted Sch. Cont., Jun. Div., O.T.C.)</Text>
-      <PageNumber>6098</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Birch</Key>
-      <Forenames>Lt</Forenames>
-      <Text>, J. (apptd. to 4/5th Bn., E. Lan. R., from 4th Bn., E. Lan. R., and retains rank of Lt. and precedence)</Text>
-      <PageNumber>5970</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Birrell</Key>
-      <Title>Lt.</Title>
-      <Forenames>J. E.</Forenames>
-      <Text>(trd. to T.A. Res., Regtl. List, Inf., from 9th Bn., A. and S.H.)</Text>
+      <Key>Bentley</Key>
+      <Forenames>Frank</Forenames>
+      <Text>(2nd Lt.. Gen. List, for service with Durham Univ. Cont., Sen. Div., O.T.C.)</Text>
       <PageNumber>5037</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Birtwistle</Key>
-      <Title>Maj.</Title>
-      <Forenames>F.</Forenames>
-      <Text>, T.D. (apptd. to 4/5th Bn., E. Lan. R., from 4th Bn., E. Lan. R., and retains rank of Maj. and precedence)</Text>
-      <PageNumber>5969</PageNumber>
+      <Key>Benton</Key>
+      <Title>Cant.</Title>
+      <Forenames>F. C.</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
+      <PageNumber>5971</PageNumber>
     </MainItem>
   </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Bittleston</Key>
-      <Title>Capt.</Title>
-      <Forenames>N. A.</Forenames>
-      <Text>(Adjt., Camb. R.)</Text>
-      <PageNumber>6909</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Black</Key>
-      <Title>Capt.</Title>
-      <Forenames>J. A.</Forenames>
-      <Text>(Capt., T.A. Res., Regtl. List, R.E., from 55th (W. Lanes.) Divl. Engrs.)</Text>
-      <PageNumber>5782</PageNumber>
-    </MainItem>
-  </ItemGroup>
+  <CategoryTitle>(H. Counties) Divl. Train)</CategoryTitle>
+  <KeyDitto>___ ___ ___</KeyDitto>
   <KeyDitto>___ ___</KeyDitto>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___</KeyDitto>
-      </Key>
-      <Title>Lt.</Title>
-      <Forenames>N.</Forenames>
-      <Text>(apDtd. to 4/5th Bn., Black Watch, from 4th Bn., Black Watch, and retains rank of Lt. and precedence)</Text>
-      <PageNumber>5970</PageNumber>
-    </MainItem>
-    <SubItem>
-      <Text>Capt., Prov</Text>
-      <PageNumber>5712</PageNumber>
-    </SubItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Blackett</Key>
-      <Forenames>Capt</Forenames>
-      <Text>, N. (apptd. to 4/5th Bn., E. Lan. R., from 4th Bn., E. Lan. R., and retains rank of Capt. and precedence)</Text>
-      <PageNumber>5969</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Blackhurst</Key>
-      <Title>2nd Lt.</Title>
-      <Forenames>W.</Forenames>
-      <Text>(2nd Lt., 4th Bn., Loyal R., late R.A.F.)</Text>
-      <PageNumber>6444</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Blair</Key>
-      <Title>Lt.-Col.</Title>
-      <Forenames>P. J.</Forenames>
-      <Text>. D.S.O. (apptd. to 7/9th Bn., R. Scot., from 9th. Bn., R. Scots, and retains rank of Lt.-Cbl. and precedence)</Text>
-      <PageNumber>5969</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Blakiston</Key>
-      <Title>Lt.</Title>
-      <Forenames>A. F.</Forenames>
-      <Text>, M.C. (resigns commn. and retains rank of Lt.)</Text>
-      <PageNumber>5713</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Blaksley</Key>
-      <Title>Lt.</Title>
-      <Forenames>J. H.</Forenames>
-      <Text>, M.C. (trd. to 94th (Somerset and Dorset) Yeo. Bde. (A.T.), R.F.A., from Dorset Yeo., and retains rank and precedence)</Text>
-      <PageNumber>5282</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Blomfield</Key>
-      <Title>Capt.</Title>
-      <Forenames>H. M.</Forenames>
-      <Text>{apptd. to 16th Bn,, Lond. R., from 15th Bn, London R., and retains rank of Capt. and precedence)</Text>
-      <PageNumber>5972</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Blow</Key>
-      <Title>Lt.</Title>
-      <Forenames>R. F.</Forenames>
-      <Text>(apptd. to 6th Bn., Welch R., from 7th Bn., Welch R., and retains rank of Lt. and precedence)</Text>
-      <PageNumber>5970</PageNumber>
-    </MainItem>
-    <SubItem>
-      <Text>Capt. T. A. Res., Regtl. List. Yeo., from N. Somerset Yeo</Text>
-      <PageNumber>5108</PageNumber>
-    </SubItem>
-  </ItemGroup>
+  <KeyDitto>___ ___ ___</KeyDitto>
   <ItemGroup>
     <MainItem>
       <Key>Boardman</Key>
       <Title>2nd Lt.</Title>
       <Forenames>C. E.</Forenames>
       <Text>(resigns commn.)</Text>
-      <PageNumber>5037</PageNumber>
+      <PageNumber>6098</PageNumber>
     </MainItem>
   </ItemGroup>
   <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>

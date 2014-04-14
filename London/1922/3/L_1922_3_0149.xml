@@ -71,7 +71,9 @@
     <MainItem>
       <Key>Allen</Key>
       <Forenames>Wing Comdr</Forenames>
-      <Text>. Dermott Lang, A.F.C. (placed on half pay, Scale A)</Text>
+      <Text>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>6778</PageNumber>
     </MainItem>
     <SubItem>
@@ -85,7 +87,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Flying Offr</Forenames>
-      <Text>. Laurence Wilfred, M.C. {trd. to Reserve, 01. A) !</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6582</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -170,7 +174,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Barbour</Key>
-      <Text>^ Plying Offr. Robert Lyle McKendrick, D.F.C. (placed on half pay, Scale B)</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>6445</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -292,7 +298,9 @@
       <Key>Bird</Key>
       <Title>Flight Lt.</Title>
       <Forenames>Augustus Wieland</Forenames>
-      <Text>, D.S.O. (resigns perm, commn., and granted rank of Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5208</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -339,7 +347,12 @@
     <MainItem>
       <Key>Borton</Key>
       <Forenames>Group</Forenames>
-      <Text>Capt. Amyas Eden, C.B., C.M.G., D.S.O., A.F.C. (actg. Air Commodore)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>6715</PageNumber>
     </MainItem>
     <SubItem>
@@ -351,7 +364,9 @@
     <MainItem>
       <Key>Bradley</Key>
       <Forenames>Wing Comdr</Forenames>
-      <Text>. Charles Raymond Strathern, O.B.E. (placed on h.p., Scale A)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>5364</PageNumber>
     </MainItem>
     <SubItem>
@@ -376,7 +391,7 @@
       <PageNumber>5208</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Not. of appt. to short serv. commn. in Gaz. 13 July, 1920, cancelled ... .:</Text>
+      <Text>Not. of appt. to short serv. commn. in Gaz. 13 July, 1920, cancelled ... .:.</Text>
       <PageNumber>5208</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -470,7 +485,9 @@
     <MainItem>
       <Key>Carruthers</Key>
       <Forenames>John Ferguson</Forenames>
-      <Text>, M.D. (granted temp, commn. as Sqdn. Leader)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>6163</PageNumber>
     </MainItem>
     <SubItem>
@@ -482,7 +499,9 @@
     <MainItem>
       <Key>Catchpole</Key>
       <Forenames>Flying Offr</Forenames>
-      <Text>. William, A.F.C. (placed on half pay, Scale B), Sub. Not</Text>
+      <Text>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>6910</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -45,14 +45,18 @@
     <MainItem>
       <Key>Leche</Key>
       <Forenames>John Hurleston</Forenames>
-      <Text>, O.B.E., Second Secretary, H.M. Diplomatic Service,</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>2570</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Lee</Key>
-      <Text>of Fareham, Rt. Hon. Arthur, Baron, G.B.E.j K.C.B., Commissioner, Board of the</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+      </Text>
       <PageNumber>2989</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -89,7 +93,10 @@
       </Key>
       <Title>Maj. and Bt. Col. (T./Brig.Gen.)</Title>
       <Forenames>Walter Stewart</Forenames>
-      <Text>, C.M.G., D.S.O., Com-</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4693</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -97,7 +104,9 @@
     <MainItem>
       <Key>Levick</Key>
       <Forenames>Thomas Henry Carlton</Forenames>
-      <Text>, O.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4821</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -105,7 +114,9 @@
     <MainItem>
       <Key>Lewis</Key>
       <Forenames>Alfred Edward</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>4531</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -115,7 +126,11 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Thomas</Forenames>
-      <Text>, C.B.E., M.D., F.R.C.P., D.Sc, F.R.S., Knighted</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>M.D.</Honour>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>4531</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -124,7 +139,10 @@
       <Key>Lindsay</Key>
       <Title>Col.</Title>
       <Forenames>Henry Arthur Pey-</Forenames>
-      <Text>ton, C.M.G., C.B.E., Com panion, Star of India</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>4693</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -182,7 +200,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Long</Key>
-      <Text>' Lt. Edward Ernest, O.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>2662</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -213,7 +233,10 @@
       <Key>Loraine</Key>
       <Title>Sir</Title>
       <Forenames>Percy Lyhan</Forenames>
-      <Text>, Bart,, Companion, St. Michael and St. George</Text>
+      <Text>
+        <Honour>Bart</Honour>
+        <Honour>Companion, St. Michael and St. George</Honour>
+      </Text>
       <PageNumber>4534</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -246,7 +269,12 @@
   <ItemGroup>
     <MainItem>
       <Key>Lucas</Key>
-      <Text>Col. (T./Brig.-Gen.) Frede ric George, C.B., C.S.I. D.S.O., Companion, Order of the. Indian Empire</Text>
+      <Title>Col. (T./Brig.-Gen.)</Title>
+      <Forenames>Frede</Forenames>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4694</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -255,7 +283,10 @@
       <Key>Lyon</Key>
       <Title>Col.</Title>
       <Forenames>Francis</Forenames>
-      <Text>, C.M.G., D.S.O., Companion, Order of Bath</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4532</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -273,7 +304,8 @@
   <ItemGroup>
     <MainItem>
       <Key>McAlpine</Key>
-      <Text>Thomas Malcolm, J.P., Knieht Commander, Order of the British Empire</Text>
+      <Forenames>Thomas Malcolm</Forenames>
+      <Text>, J.P., Knieht Commander, Order of the British Empire</Text>
       <PageNumber>4821</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -281,7 +313,9 @@
     <MainItem>
       <Key>McCall</Key>
       <Forenames>Robert Alfred</Forenames>
-      <Text>, K.C., Knight Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4535</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -314,7 +348,9 @@
     <MainItem>
       <Key>McKendrick</Key>
       <Forenames>Archibald</Forenames>
-      <Text>, F.R.C.S., D.P.H., Medical Referee under Workmen's Compensation Act</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>4725</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -365,7 +401,10 @@
       <Key>Macmullen</Key>
       <Title>Col.</Title>
       <Forenames>Cyril Norman</Forenames>
-      <Text>, C.M.G., CLE., D.S.O., Companion, Order of Bath</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4532</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -381,7 +420,9 @@
     <MainItem>
       <Key>Macphail</Key>
       <Forenames>Douglas Ross</Forenames>
-      <Text>, O.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4821</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -397,7 +438,9 @@
     <MainItem>
       <Key>Maflin</Key>
       <Forenames>T.</Forenames>
-      <Text>/Capt. (A./Maj.) Percy Hamilton, M.C., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4694</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -421,7 +464,9 @@
     <MainItem>
       <Key>Mallimon</Key>
       <Forenames>Dyson</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>4531</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -438,7 +483,9 @@
       <Key>Marnoch</Key>
       <Title>Professor</Title>
       <Forenames>John Marnoch</Forenames>
-      <Text>, C.V.O., M.B., CM., Medical Referee</Text>
+      <Text>
+        <Honour>C.V.O.</Honour>
+      </Text>
       <PageNumber>4823</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -447,7 +494,9 @@
       <Key>Marris</Key>
       <Title>Sir</Title>
       <Forenames>William Sinclair</Forenames>
-      <Text>, K.C.S.I., K.C.I.E., Governor of Assam</Text>
+      <Text>
+        <Honour>K.C.I.E.</Honour>
+      </Text>
       <PageNumber>2799</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -464,7 +513,10 @@
       <Key>Martel</Key>
       <Title>Brig.-Gen.</Title>
       <Forenames>Charles Philip</Forenames>
-      <Text>, C.B., Knighted</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>4531</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -482,7 +534,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Richard</Forenames>
-      <Text>, J.P., Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>4531</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -516,7 +570,9 @@
     <MainItem>
       <Key>Maxwell</Key>
       <Forenames>John</Forenames>
-      <Text>, Companion, St. Michael and St. George</Text>
+      <Text>
+        <Honour>Companion, St. Michael and St. George</Honour>
+      </Text>
       <PageNumber>4533</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -556,7 +612,9 @@
     <MainItem>
       <Key>Mellor</Key>
       <Forenames>George</Forenames>
-      <Text>, J.P., Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>4531</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -572,7 +630,10 @@
     <MainItem>
       <Key>Miller</Key>
       <Forenames>C. H.</Forenames>
-      <Text>, C.B.E., M.D., F. R.C.P., Consulting Staff, H.M. Convalescent Home for Officers, Osborne</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3298</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -600,7 +661,9 @@
       <Key>Mitchell</Key>
       <Title>The Hon.</Title>
       <Forenames>James</Forenames>
-      <Text>, C.M.G., Knight Commander, St. Michael and St. George</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>4533</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -610,7 +673,10 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>William Lane</Forenames>
-      <Text>, M.P. (See Lane-Mitchell, William, M.P.)</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4531</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -627,7 +693,9 @@
     <MainItem>
       <Key>Mohammadu</Key>
       <Forenames>Sultan</Forenames>
-      <Text>of Sokoto, Companion, St. Michael and St. George</Text>
+      <Text>
+        <Honour>Companion, St. Michael and St. George</Honour>
+      </Text>
       <PageNumber>4534</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -644,14 +712,21 @@
       <Key>Mond</Key>
       <Title>Rt. Hon. Sir</Title>
       <Forenames>Alfred Moritz</Forenames>
-      <Text>, Bt., M.P., Minister of Health</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>2660</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Moii</Key>
-      <Text>eypennv, Sir Frederick William, C.B.E., M.V.O., Knight of Grace, St. John of Jerusalem</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>M.V.O.</Honour>
+        <Honour>Knight of Grace, St. John of Jerusa-</Honour>
+      </Text>
       <PageNumber>2569</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -659,7 +734,10 @@
     <MainItem>
       <Key>Monro</Key>
       <Forenames>General</Forenames>
-      <Text>Sir Charles Carmichael, G.C.B., G.C.S.I., G. CM.G., created Baronet</Text>
+      <Text>
+        <Honour>G.C.B.</Honour>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>3846</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -675,7 +753,9 @@
     <MainItem>
       <Key>Moore</Key>
       <Forenames>T.</Forenames>
-      <Text>/Capt. George James, M.C., Officer, Order of the British Empire (corr. of rank)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4376</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -703,7 +783,11 @@
     <MainItem>
       <Key>Mount</Key>
       <Forenames>William Arthur</Forenames>
-      <Text>, C.B.E.. M.P., created Baronet</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>M.P.</Honour>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>4530</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -711,7 +795,10 @@
     <MainItem>
       <Key>Muhammad</Key>
       <Forenames>Ali Muhammad Khan Khan Bahadur</Forenames>
-      <Text>, Raja Sir, K.C.I.E., Raja of Mahmudabad, Companion, Star of India</Text>
+      <Text>
+        <Honour>K.C.I.E.</Honour>
+        <Honour>Companion, Star of India</Honour>
+      </Text>
       <PageNumber>4533</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -754,7 +841,10 @@
       <Key>Mulholland</Key>
       <Title>Capt. the Hon.</Title>
       <Forenames>Charles Henry George</Forenames>
-      <Text>, D.S.O., O.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3844</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -779,7 +869,10 @@
       <Key>Murray</Key>
       <Title>Lt.-Col. Sir</Title>
       <Forenames>Malcolm Donald</Forenames>
-      <Text>, K.C.V.O., C.B.. Companion, Order of the British Empire</Text>
+      <Text>
+        <Honour>K.C.V.O.</Honour>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>2660</PageNumber>
     </MainItem>
     <SubItem>
@@ -790,7 +883,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Myer</Key>
-      <Text>Horace Stuart.Officer, Order of the British Empire</Text>
+      <Forenames>Horace Stuart</Forenames>
+      <Text>.Officer, Order of the British Empire</Text>
       <PageNumber>4822</PageNumber>
     </MainItem>
   </ItemGroup>

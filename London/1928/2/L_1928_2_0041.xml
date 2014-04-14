@@ -18,8 +18,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pereira</Key>
-      <Forenames>B.</Forenames>
-      <Text>de H. ,</Text>
+      <Forenames>B. de H</Forenames>
+      <Text>. ,</Text>
       <PageNumber>2447</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -540,8 +540,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>Johnston, J. H</Text>
+      <Key>St. Johnston</Key>
+      <Forenames>J. H.</Forenames>
       <PageNumber>2976</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1054,7 +1054,9 @@
       <Key>Stirling</Key>
       <Title>Sir</Title>
       <Forenames>G. M. H.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4110</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1212,7 +1214,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Thin</Key>
-      <Text>T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>3338</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1513,7 +1515,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>Ian P. A. M.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4110</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1591,8 +1595,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Watson</Key>
-      <Forenames>H. St</Forenames>
-      <Text>. J. B</Text>
+      <Forenames>H. St. J</Forenames>
+      <Text>. B</Text>
       <PageNumber>3949</PageNumber>
     </MainItem>
   </ItemGroup>

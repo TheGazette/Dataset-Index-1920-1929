@@ -13,7 +13,9 @@
       <Key>Roberts</Key>
       <Title>Major</Title>
       <Forenames>Frederick Emilius</Forenames>
-      <Text>, D.S.O., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4413</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -24,7 +26,9 @@
       </Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Henry Gordon</Forenames>
-      <Text>, T.D., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>4413</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -41,7 +45,9 @@
       <Key>Robinson</Key>
       <Title>Quarmr. and Capt.</Title>
       <Forenames>James Robert</Forenames>
-      <Text>, T.D., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>4413</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -78,7 +84,10 @@
       <Key>Rolleston</Key>
       <Title>Sir</Title>
       <Forenames>Humphrey Davy</Forenames>
-      <Text>, K.C.B., M.A., M.D., D. C.L., LL.D., baronet</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>4407</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -98,7 +107,9 @@
       </Key>
       <Title>Lieut.-Col.</Title>
       <Forenames>Henry</Forenames>
-      <Text>, CLE., O.B.E., M.B., F.R.C.S.I., I.M.S., Esquire, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4430</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -106,7 +117,9 @@
     <MainItem>
       <Key>Rouget</Key>
       <Forenames>Francois Auguste</Forenames>
-      <Text>, M.D., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>4418</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -137,15 +150,18 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>Julian, Herbert Paul, Companion, Imperial Service Order</Text>
+      <Key>St. Julian</Key>
+      <Forenames>Herbert Paul</Forenames>
+      <Text>, Companion, Imperial Service Order</Text>
       <PageNumber>4420</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>Ledger, Commander William Henry, Member, Order of the British Empire</Text>
+      <Key>St. Ledger</Key>
+      <Title>Commander</Title>
+      <Forenames>William Henry</Forenames>
+      <Text>, Member, Order of the British Empire</Text>
       <PageNumber>4416</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -180,7 +196,9 @@
       <Key>Sanders</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Geoffrey Percival</Forenames>
-      <Text>, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>4305</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -191,7 +209,9 @@
       </Key>
       <Title>Temp. Major</Title>
       <Forenames>Reginald Ernest</Forenames>
-      <Text>, D.S.O., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4413</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -241,7 +261,9 @@
     <MainItem>
       <Key>Schiff</Key>
       <Forenames>Otto</Forenames>
-      <Text>, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>4415</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -285,7 +307,9 @@
     <MainItem>
       <Key>Selby</Key>
       <Title>Major and Brevet Lt.</Title>
-      <Text>Col. Charles Westrope, D.S.O., M.C, Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4412</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -326,7 +350,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Shaftesbury</Key>
-      <Forenames>The Countess</Forenames>
+      <Title>The</Title>
+      <Forenames>Countess</Forenames>
       <Text>of, Lady of Justice, Order of St. John of Jerusalem</Text>
       <PageNumber>4429</PageNumber>
     </MainItem>
@@ -371,7 +396,11 @@
       <Key>Sherrington</Key>
       <Title>Sir</Title>
       <Forenames>Charles Scott</Forenames>
-      <Text>, G.B.E., M.A., M.D., D.Sc., F.R.C.P., F.R.C.S., Order of Merit</Text>
+      <Text>
+        <Honour>G.B.E.</Honour>
+        <Honour>M.D.</Honour>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>4409</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -412,7 +441,9 @@
     <MainItem>
       <Key>Shyam</Key>
       <Forenames>Narain Singh</Forenames>
-      <Text>, Rai Bahadur, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>4417</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -452,7 +483,13 @@
   <ItemGroup>
     <MainItem>
       <Key>Singer</Key>
-      <Text>Col. Charles William, C.M.G., D.S.O.,Companion, Order of the Bath</Text>
+      <Title>Col.</Title>
+      <Forenames>Charles William</Forenames>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>4409</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -478,7 +515,9 @@
       <Key>Sleigh</Key>
       <Title>Rt. Hon.</Title>
       <Forenames>William Lowrie</Forenames>
-      <Text>, J.P., D.L., knighted,</Text>
+      <Text>
+        <Honour>D.L.</Honour>
+      </Text>
       <PageNumber>4407</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -544,7 +583,9 @@
       <Key>Soughton</Key>
       <Title>Regtl. Qrmr. Serg.</Title>
       <Forenames>William</Forenames>
-      <Text>, D.C.M., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>4413</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -561,7 +602,9 @@
       <Key>Spencer</Key>
       <Title>Major</Title>
       <Forenames>Herbert Eames</Forenames>
-      <Text>, O.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4415</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -569,7 +612,10 @@
     <MainItem>
       <Key>Sperling</Key>
       <Forenames>Rowland Arthur Charles</Forenames>
-      <Text>, C.M.G., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>4409</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -595,7 +641,9 @@
       <Key>Stamp</Key>
       <Title>Sir</Title>
       <Forenames>Josiah Charles</Forenames>
-      <Text>, K.B.E., D.Sc., F:S.S., Knight Grand Cross, Order of the British Empire</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+      </Text>
       <PageNumber>4414</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -603,7 +651,9 @@
     <MainItem>
       <Key>Stanley</Key>
       <Forenames>Herbert James</Forenames>
-      <Text>, C.M.G., Knight Commander, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>4410</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -612,7 +662,10 @@
       <Key>Stanyforth</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Edwin Wilfrid</Forenames>
-      <Text>, T.D., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>4409</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -621,7 +674,10 @@
       <Key>Staveley</Key>
       <Title>Capt.</Title>
       <Forenames>Cecil Minet</Forenames>
-      <Text>, C.M.G., R.N., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>4408</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -630,7 +686,10 @@
       <Key>Steavenson</Key>
       <Title>Col.</Title>
       <Forenames>Charles John</Forenames>
-      <Text>, C.M.G., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>4409</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -639,7 +698,9 @@
       <Key>Steenson</Key>
       <Title>Miss</Title>
       <Forenames>Margaret</Forenames>
-      <Text>, R.R.C. Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>R.R.C.</Honour>
+      </Text>
       <PageNumber>4412</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -648,7 +709,9 @@
       <Key>Stennett</Key>
       <Title>Col.</Title>
       <Forenames>Harry March</Forenames>
-      <Text>, C. B.E., D.S.O., Commander, Order of' the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4419</PageNumber>
     </MainItem>
     <SubItem>
@@ -669,7 +732,10 @@
       <Key>Stevenson</Key>
       <Title>Sir</Title>
       <Forenames>James</Forenames>
-      <Text>, Bart., G.C.M.G., Baron</Text>
+      <Text>
+        <Honour>Bart</Honour>
+        <Honour>G.C.M.G.</Honour>
+      </Text>
       <PageNumber>3295</PageNumber>
       <PageNumber>3735</PageNumber>
     </MainItem>
@@ -686,7 +752,9 @@
     <MainItem>
       <Key>Stewart</Key>
       <Forenames>Samuel Findlater</Forenames>
-      <Text>, CLE., Companion, Star of India</Text>
+      <Text>
+        <Honour>Companion, Star of India</Honour>
+      </Text>
       <PageNumber>4410</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -712,7 +780,9 @@
       <Key>Stockley</Key>
       <Title>Maj.</Title>
       <Forenames>Charles Hugh</Forenames>
-      <Text>, D. S.O., M.C, Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>D. S.O.</Honour>
+      </Text>
       <PageNumber>4300</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -177,7 +177,9 @@
       <Key>Auker</Key>
       <Title>Flight Lt.</Title>
       <Forenames>L.</Forenames>
-      <Text>, O.B.E. (Sqdn. Leader)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>12758</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -186,7 +188,9 @@
       <Key>Aylwin</Key>
       <Title>Flight Lt.</Title>
       <Forenames>W. E.</Forenames>
-      <Text>, O.B.E. (granted perm, commn.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>11119</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -354,7 +358,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>H. F.</Forenames>
-      <Text>, M.C. (trd. to unempld. list)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>11003</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -612,7 +618,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Flying Offr</Forenames>
-      <Text>. T., M.M. (granted perm, commn.)</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>11119</PageNumber>
     </MainItem>
     <SubItem>
@@ -634,7 +642,9 @@
       <Key>Benfield</Key>
       <Title>Lt.</Title>
       <Forenames>F. A.</Forenames>
-      <Text>, D.S.M. (Not. in Gaz., 14 Sept., 1920, cancelled)</Text>
+      <Text>
+        <Honour>D.S.M.</Honour>
+      </Text>
       <PageNumber>10307</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -858,7 +868,10 @@
     <MainItem>
       <Key>Board</Key>
       <Forenames>Wing Comdr</Forenames>
-      <Text>. A. G., C.M.G., D.S.O. (Group Capt.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>12757</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -947,7 +960,9 @@
     <MainItem>
       <Key>Borland</Key>
       <Forenames>Flying Offr</Forenames>
-      <Text>. (actg. Flight Lt.) Wm, M.B.E. (rel. actg. rank of Flight Lt.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>10861</PageNumber>
     </MainItem>
     <SubItem>
@@ -1037,7 +1052,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Bowhill</Key>
-      <Text>Wing Comdr. F. W., I C.M.G., D.S.O. (Group Capt.)</Text>
+      <Forenames>Wing Comdr</Forenames>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>12758</PageNumber>
     </MainItem>
   </ItemGroup>

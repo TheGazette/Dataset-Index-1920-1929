@@ -4,7 +4,9 @@
     <MainItem>
       <Key>King</Key>
       <Forenames>Charles Montague</Forenames>
-      <Text>, C.I.E., Companion, Star of India</Text>
+      <Text>
+        <Honour>Companion, Star of India</Honour>
+      </Text>
       <PageNumber>10714</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -21,7 +23,9 @@
     <MainItem>
       <Key>Kingsnorth</Key>
       <Forenames>Engineer Rear-</Forenames>
-      <Text>Admiral Arthur Frederick, C.B., Knight Commander, Order of the Bath</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>10712</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -44,7 +48,10 @@
     <MainItem>
       <Key>Knapp</Key>
       <Forenames>Arthur Rowland</Forenames>
-      <Text>, C.B.E., Companion, Star of India</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>Companion, Star of India</Honour>
+      </Text>
       <PageNumber>10714</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -61,7 +68,9 @@
       <Key>Lacy</Key>
       <Title>Sir</Title>
       <Forenames>Pierce Thomas</Forenames>
-      <Text>, Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>10486</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -78,7 +87,10 @@
       <Key>Lambert</Key>
       <Title>Sir</Title>
       <Forenames>Henry</Forenames>
-      <Text>, K.C.M.G., C.B./Senior Crown Agent for the Colonies</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>10264</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -86,7 +98,10 @@
     <MainItem>
       <Key>Lampson</Key>
       <Forenames>Miles Wedderburn</Forenames>
-      <Text>, M.V.O., Companion, St. Michael and St. George</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+        <Honour>Companion, St. Michael and St. George</Honour>
+      </Text>
       <PageNumber>10715</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -103,7 +118,10 @@
       <Key>Lea</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Edward Thomas</Forenames>
-      <Text>, T.D., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>10713</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -128,7 +146,9 @@
     <MainItem>
       <Key>Lennox</Key>
       <Forenames>George Charles Gordon</Forenames>
-      <Text>, see Gordon-Lennox, George Charles Lemmon, Lt.-Col. and Hon. Col. Thomas Warne, C.B., Knight Commander, Order of the Bath</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>10713</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -136,7 +156,9 @@
     <MainItem>
       <Key>Letts</Key>
       <Forenames>William Malesbury</Forenames>
-      <Text>, C.B.E., Knight Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>10716</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -168,7 +190,9 @@
     <MainItem>
       <Key>Llewellyn</Key>
       <Forenames>David Richard</Forenames>
-      <Text>, J.P., Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>10710</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -185,7 +209,10 @@
       <Key>Loraine</Key>
       <Title>Sir</Title>
       <Forenames>Percy Lyham</Forenames>
-      <Text>, Bt., C.M.G., H.M. Envoy Extraordinary and Minister Plenipotentiary to H.M. the Shah of Persia</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>8627</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -194,15 +221,21 @@
       <Key>Lubbock</Key>
       <Title>Maj.</Title>
       <Forenames>Merlin Gordon</Forenames>
-      <Text>, M.C., Companion, Distinguished Service Order</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>Companion, Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>9610</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Luce</Key>
-      <Forenames>Rear-</Forenames>
-      <Text>Admiral John, C.B., Member of the Nominated Council for Malta</Text>
+      <Title>Rear-Admiral</Title>
+      <Forenames>John</Forenames>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>10025</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -291,7 +324,10 @@
       <Key>McNeill</Key>
       <Title>Col.</Title>
       <Forenames>Angus John</Forenames>
-      <Text>, D.S.O., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>10713</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -305,7 +341,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Macrea</Key>
-      <Text>. Maj. Colin William, D.L., J.P., Companion, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.L.</Honour>
+      </Text>
       <PageNumber>10716</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -314,7 +352,10 @@
       <Key>McRobert</Key>
       <Title>Sir</Title>
       <Forenames>Alexander</Forenames>
-      <Text>, K.B.E., LL.D., F.R.G.S., Baronet</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>10710</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -322,7 +363,9 @@
     <MainItem>
       <Key>McShme</Key>
       <Forenames>Arthur</Forenames>
-      <Text>, Hutton, M.D., Unofficial Member of the Legislative Council of the Colony of Trinidad and Tobago</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>10637</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -330,7 +373,9 @@
     <MainItem>
       <Key>Maddock</Key>
       <Forenames>Simon William</Forenames>
-      <Text>, D.L., J.P., knighthoodconferred on</Text>
+      <Text>
+        <Honour>D.L.</Honour>
+      </Text>
       <PageNumber>10712</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -345,7 +390,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Manifold</Key>
-      <Text>~Maj.-Gen. Courtenay Clarke, C.B., C.M.G., M.B., K.H.P;, Knight Commander, Order of the Bath</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>10713</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -360,7 +408,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Marj</Key>
-      <Text>on banks, JNorman Edward, C.I.E., Companion, Star of India</Text>
+      <Text>
+        <Honour>Companion, Star of India</Honour>
+      </Text>
       <PageNumber>10714</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -369,7 +419,10 @@
       <Key>Markham</Key>
       <Title>Sir</Title>
       <Forenames>Charles</Forenames>
-      <Text>, Bt., Esquire, St. John of Jerusalem</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>Esquire, St. John of Jerusa-</Honour>
+      </Text>
       <PageNumber>8828</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -377,7 +430,9 @@
     <MainItem>
       <Key>Marks</Key>
       <Forenames>Oliver</Forenames>
-      <Text>, Companion, St. Michael and St. George</Text>
+      <Text>
+        <Honour>Companion, St. Michael and St. George</Honour>
+      </Text>
       <PageNumber>10714</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -386,7 +441,13 @@
       <Key>Marling</Key>
       <Title>Sir</Title>
       <Forenames>Charles Murray</Forenames>
-      <Text>, K.C.M.G., C.B., H.M. Envoy Extraordinary and Minister Plenipotentiary to H.M. the Queen of the Netherlands ... Marsh, Edward Howard, C.B., C.M.G., Companion, Royal Victorian Order</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>10717</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -394,7 +455,10 @@
     <MainItem>
       <Key>Marshall</Key>
       <Title>Lt.</Title>
-      <Text>FVederic Adrian Joseph Evans, D.S.O., M.C., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9610</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -405,7 +469,9 @@
       </Key>
       <Title>Major</Title>
       <Forenames>William Edward</Forenames>
-      <Text>, M.C., H.M. Consul and Agent at Jeddah</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8627</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -416,7 +482,10 @@
       </Key>
       <Title>Col.</Title>
       <Forenames>Thomas Morgan</Forenames>
-      <Text>, C.M.G., Esquire, St. John of Jerusalem</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>Esquire, St. John of Jerusalem</Honour>
+      </Text>
       <PageNumber>8828</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -450,7 +519,9 @@
       <Key>Masters</Key>
       <Title>Rev.</Title>
       <Forenames>Thomas Heywood</Forenames>
-      <Text>, C.B.E.. M.A., Chaplain to H.M. the King</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>8291</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -546,7 +617,9 @@
       <Key>Molloy</Key>
       <Title>Major</Title>
       <Forenames>Leonard Greenham Starr</Forenames>
-      <Text>, D.S.O., M.D</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>9887</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -555,7 +628,9 @@
       <Key>Monro</Key>
       <Title>Sir</Title>
       <Forenames>Horace Cecil</Forenames>
-      <Text>, K.C.B., Member of the Royal Commission for Alterations in the Local Government of the County of London</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+      </Text>
       <PageNumber>8364</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -571,7 +646,9 @@
     <MainItem>
       <Key>Moss</Key>
       <Forenames>Wilfred</Forenames>
-      <Text>, M.B.E., Companion, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>10716</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -588,7 +665,10 @@
       <Key>Mount</Key>
       <Title>Sir</Title>
       <Forenames>William Arthur</Forenames>
-      <Text>, C.B.E., Baronet</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>10486</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -597,7 +677,9 @@
       <Key>Mountain</Key>
       <Title>Sir</Title>
       <Forenames>Edward Mortimer</Forenames>
-      <Text>, Baronet ... .:</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>10710</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -621,7 +703,9 @@
     <MainItem>
       <Key>Murray</Key>
       <Forenames>Charles</Forenames>
-      <Text>, LL.D., Companion, St. Michael and St. George</Text>
+      <Text>
+        <Honour>Companion, St. Michael and St. George</Honour>
+      </Text>
       <PageNumber>10714</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -630,7 +714,10 @@
       <Key>Muspratt</Key>
       <Title>Colonel</Title>
       <Forenames>Sydney Fred-</Forenames>
-      <Text>erick, CLE., D.S.O., Companion, Star of India</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Star of India</Honour>
+      </Text>
       <PageNumber>10714</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -662,7 +749,9 @@
     <MainItem>
       <Key>Narendra</Key>
       <Forenames>Sah</Forenames>
-      <Text>, Captain His Highness Raja, Raja of Tehri, Companion, Star of India</Text>
+      <Text>
+        <Honour>Companion, Star of India</Honour>
+      </Text>
       <PageNumber>10714</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -693,7 +782,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Newbolt</Key>
-      <Text>. Sir , Henry, M.A., LL.D., D.Litt., Member. Order of the Companions of Honour</Text>
+      <Title>Sir</Title>
+      <Text>, Henry, M.A., LL.D., D.Litt., Member. Order of the Companions of Honour</Text>
       <PageNumber>10716</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -701,7 +791,9 @@
     <MainItem>
       <Key>Newland</Key>
       <Forenames>Simpson</Forenames>
-      <Text>, Companion, St. Michael and St. George</Text>
+      <Text>
+        <Honour>Companion, St. Michael and St. George</Honour>
+      </Text>
       <PageNumber>10714</PageNumber>
     </MainItem>
   </ItemGroup>

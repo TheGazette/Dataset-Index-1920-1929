@@ -107,7 +107,9 @@
         <KeyDitto>___</KeyDitto>
       </Key>
       <Forenames>Wing Comdr</Forenames>
-      <Text>. H., D.S.O., B.A. (granted perm. commn.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7458</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -216,7 +218,10 @@
       <Key>Courtney</Key>
       <Title>Lt. Col.</Title>
       <Forenames>C. L.</Forenames>
-      <Text>C.B.E., D.S.O. (temp. Dep. Dir. ao Air Ministry)</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7355</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -268,7 +273,9 @@
       <Key>Craig</Key>
       <Title>Flight Lt.</Title>
       <Forenames>E. W.</Forenames>
-      <Text>, M.C., M.B. (granted perm, cornmn.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7458</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -325,7 +332,9 @@
       <Key>Crook</Key>
       <Title>Flight Lt. (actg. Sqdn. Leader)</Title>
       <Forenames>A.</Forenames>
-      <Text>, O.B.E. (rel. temp. R.A.F. cominn. on return to Army dnty), Sub. Not</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>7460</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -382,7 +391,10 @@
       <Key>Crowe</Key>
       <Title>Capt.</Title>
       <Forenames>C. M.</Forenames>
-      <Text>, M.C., D.F.C. (trd to unempld. list), Sut&gt;. Not</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>7668</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -429,7 +441,9 @@
     <MainItem>
       <Key>Dalgleish</Key>
       <Forenames>Wing Comdr</Forenames>
-      <Text>. J. W, O., O.B.E. irestd. to active list)..:</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>7868</PageNumber>
     </MainItem>
     <SubItem>
@@ -449,7 +463,10 @@
     <MainItem>
       <Key>Daly</Key>
       <Forenames>Flying Offr</Forenames>
-      <Text>. (A) R. H., D.S.C., D.F.C. (granted short serv. column.)</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>8278</PageNumber>
     </MainItem>
     <SubItem>
@@ -472,7 +489,7 @@
       <PageNumber>7459</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Ottr.) Trd. to unempld. list, Sub.</Text>
+      <Text>Ottr.) Trd. to unempld. list, Sub</Text>
       <PageNumber>7580</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -717,6 +734,15 @@
       <Text>, Cadet N (Hon! 2nd Lt.)</Text>
       <PageNumber>9225</PageNumber>
     </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Sarigny</Key>
+      <Title>Lt.</Title>
+      <Forenames>V. M. C. B.</Forenames>
+      <Text>(rel. R.A.F. commn. on appt. to a commn. in Army)</Text>
+      <PageNumber>8409</PageNumber>
+    </MainItem>
     <SubItem>
       <Text>Not. in Gaz. 21 May, 1920, to stand</Text>
       <PageNumber>8409</PageNumber>
@@ -774,7 +800,9 @@
       <Key>Dey</Key>
       <Title>Rev.</Title>
       <Forenames>J.</Forenames>
-      <Text>, D.S.O.' (relative rank as Wing Comdr. with rank of Group Capt. whilst Staff Chapln.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8410</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -782,7 +810,9 @@
     <MainItem>
       <Key>Dickson</Key>
       <Forenames>Flying Offr</Forenames>
-      <Text>. (A) C. N. C, A.F.C. (granted short serv. commn.)</Text>
+      <Text>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>8278</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -808,7 +838,9 @@
     <MainItem>
       <Key>Dimmock</Key>
       <Forenames>Flying Offr</Forenames>
-      <Text>. (A) N. H., A.F.C., (granted short serv. cominn.)</Text>
+      <Text>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>7776</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -904,7 +936,7 @@
       <PageNumber>7669</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Trd. to unempld. list, Sub. Not.</Text>
+      <Text>Trd. to unempld. list, Sub. Not</Text>
       <PageNumber>7778</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1003,7 +1035,9 @@
     <MainItem>
       <Key>Dudding</Key>
       <Forenames>Flying Offr</Forenames>
-      <Text>. (A. &amp; S.) M.C. (granted short sery. commn.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7777</PageNumber>
     </MainItem>
   </ItemGroup>

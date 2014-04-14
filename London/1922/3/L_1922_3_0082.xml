@@ -4,7 +4,9 @@
     <MainItem>
       <Key>Rees</Key>
       <Forenames>Lt-</Forenames>
-      <Text>Col. B. T., O.B.E. (1st Bn., Mon. R.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>5436</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -43,7 +45,12 @@
   <ItemGroup>
     <MainItem>
       <Key>Reid</Key>
-      <Text>Capt. A. W. (Capt. R.A.V.C., lateR.A.V.C, T.F.)</Text>
+      <Title>Capt.</Title>
+      <Forenames>A. W.</Forenames>
+      <Text>
+        <Honour>V.C.</Honour>
+        <Honour>V.C</Honour>
+      </Text>
       <PageNumber>6445</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -94,7 +101,9 @@
       <Key>Reynolds</Key>
       <Title>Capt.</Title>
       <Forenames>H. J. B.</Forenames>
-      <Text>, O.B.E. (Maj., T.A. Res., Gen. List, R.A.S.C., from42nd(E. Lanes) Divl. Train)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>6909</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -136,7 +145,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>H. E. S.</Forenames>
-      <Text>. M.C. (Maj. and rems. seed.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5037</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -147,7 +158,10 @@
       </Key>
       <Title>Capt. (Bt. Maj.)</Title>
       <Forenames>R.</Forenames>
-      <Text>, M.C. (Capt., Bt. Maj. T. A., Res. Regtl. List from 4th Bn., R.W. Fus.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>5207</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -199,7 +213,10 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>W. S.</Forenames>
-      <Text>, F.R.C.S. &lt;Maj., T.A. Res., Gen. List, R.A.M.C., from Gen. List)</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5713</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -282,38 +299,77 @@
   <KeyDitto>___ ___ ___ ___</KeyDitto>
   <KeyDitto>___ ___ ___</KeyDitto>
   <KeyDitto>___ ___ ___</KeyDitto>
+  <KeyDitto>— ___ ___ ___ ___</KeyDitto>
+  <KeyDitto>___ ___ ___</KeyDitto>
+  <KeyDitto>___ ___</KeyDitto>
+  <KeyDitto>___ ___</KeyDitto>
+  <KeyDitto>___ ___</KeyDitto>
+  <KeyDitto>___ ___</KeyDitto>
+  <KeyDitto>___ ___ ___</KeyDitto>
+  <KeyDitto>___ ___ ___</KeyDitto>
+  <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
+  <CategoryTitle>H. Counties Division,</CategoryTitle>
+  <KeyDitto>___ ___</KeyDitto>
+  <KeyDitto>___ ___ ___ ___</KeyDitto>
+  <KeyDitto>___ ___ ___</KeyDitto>
+  <KeyDitto>___ ___</KeyDitto>
+  <KeyDitto>___ ___</KeyDitto>
+  <KeyDitto>___ ___ ___ ___</KeyDitto>
+  <KeyDitto>___ ___ ___</KeyDitto>
+  <KeyDitto>___ ___</KeyDitto>
   <ItemGroup>
     <MainItem>
       <Key>
-        <KeyDitto>— ___ ___ ___ ___</KeyDitto>
+        <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Title>Lt.</Title>
-      <Forenames>W.</Forenames>
-      <Text>, M.C. (Lt., 7th Bn., R.W. Fus., late this Bn.) Rol ertson, 2nd Lt. A. F. (Lt.)</Text>
-      <PageNumber>6099</PageNumber>
+      <Title>Qrmr. and Capt.</Title>
+      <Forenames>G. D.</Forenames>
+      <Text>(rel. commn. and retains rank of Capt.) ,</Text>
+      <PageNumber>6381</PageNumber>
     </MainItem>
-    <KeyDitto>___ ___ ___</KeyDitto>
-    <KeyDitto>___ ___</KeyDitto>
-    <KeyDitto>___ ___</KeyDitto>
-    <KeyDitto>___ ___</KeyDitto>
-    <KeyDitto>___ ___</KeyDitto>
-    <KeyDitto>___ ___ ___</KeyDitto>
-    <KeyDitto>___ ___ ___</KeyDitto>
-    <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
-    <CategoryTitle>H. Counties Division,</CategoryTitle>
-    <KeyDitto>___ ___</KeyDitto>
-    <KeyDitto>___ ___ ___ ___</KeyDitto>
-    <KeyDitto>___ ___ ___</KeyDitto>
-    <KeyDitto>___ ___</KeyDitto>
-    <KeyDitto>___ ___</KeyDitto>
-    <KeyDitto>___ ___ ___ ___</KeyDitto>
-    <KeyDitto>___ ___ ___</KeyDitto>
-    <KeyDitto>___ ___</KeyDitto>
-    <KeyDitto>___ ___</KeyDitto>
+    <SubItem>
+      <Text>
+        <PageNumber>5969</PageNumber>
+      </Text>
+      <PageNumber>5781</PageNumber>
+    </SubItem>
+  </ItemGroup>
+  <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
+  <KeyDitto>___ ___</KeyDitto>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___</KeyDitto>
+      </Key>
+      <Title>2nd Lt.</Title>
+      <Forenames>W. C. J.</Forenames>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
+      <PageNumber>_</PageNumber>
+    </MainItem>
     <SubItem>
       <Text>Date of precedence {f</Text>
       <PageNumber>6161</PageNumber>
     </SubItem>
+  </ItemGroup>
+  <KeyDitto>—___ ___</KeyDitto>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Forenames>Lt-</Forenames>
+      <Text>
+        <Honour>M.D.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
+      <PageNumber>___ ___ ___ ___ ___ ___ ___</PageNumber>
+    </MainItem>
   </ItemGroup>
   <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
 </Index>

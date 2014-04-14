@@ -105,7 +105,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>C</Forenames>
-      <Text>, M.B.E. (resigns commn., and retains rank of</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>6717</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -186,7 +188,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>E. E.</Forenames>
-      <Text>, M.C. (resigns commn., and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6386</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -259,11 +263,13 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>G. W.</Forenames>
-      <Text>, D.S.O. (temp. Lt.-Col. without pay, allces. or gratuity of that rank while Dep. Field Cont. of</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5040</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Mil. Accts.) Temp. Lt.-Col. without pay, allces. or gratuity of that rank whale Dep. Fin. Adviser, Mil. Fin</Text>
+      <Text>Mil. Accts.) Temp. Lt.-Col. without pay, allces. or gratuity of that rank whale Dep. Fin. Adviser, Mil. Fin.</Text>
       <PageNumber>5040</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -415,7 +421,9 @@
       <Key>Rountree</Key>
       <Title>Lt.</Title>
       <Forenames>A. F.</Forenames>
-      <Text>, O.B.E. (resigns commn., and granted rank of Capt</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>6318</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -592,7 +600,10 @@
       <Key>Ruffle</Key>
       <Title>Capt.</Title>
       <Forenames>C. F. Scott-</Forenames>
-      <Text>, M.C., see Scott-Ruffle, Capt. C. F., M.C. Rule, Lt. D. D. P. (resigns commn., and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6781</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -620,8 +631,8 @@
     <MainItem>
       <Key>Rundlett</Key>
       <Title>Lt.</Title>
-      <Forenames>L. St</Forenames>
-      <Text>. C. (resigns commn. and retains rank of Lt.)</Text>
+      <Forenames>L. St. C</Forenames>
+      <Text>. (resigns commn. and retains rank of Lt.)</Text>
       <PageNumber>6389</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -756,7 +767,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>R. T.</Forenames>
-      <Text>, D.S.O. (resigns commn., and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6386</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -857,7 +870,9 @@
     <MainItem>
       <Key>Eyves</Key>
       <Title>2nd Lt.</Title>
-      <Text>C.H. (resigns commn., and' retains rank of 2nd Lt.)</Text>
+      <Text>
+        <Honour>C.H.</Honour>
+      </Text>
       <PageNumber>6584</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -888,15 +903,17 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>Clair Lee, Lt. G., see Lee, Lt. G. St. Clair. St. Clair Miller, Lt. B. L. (resigns coinmn, and retains rank of Lt.)</Text>
+      <Key>St. Clair</Key>
+      <Forenames>Lee</Forenames>
+      <Text>, Lt. G., see Lee, Lt. G. St. Clair. St. Clair Miller, Lt. B. L. (resigns coinmn, and retains rank of Lt.)</Text>
       <PageNumber>6388</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>John, Lt. C. E. (resigns commn., and retains ranklof Lt.)</Text>
+      <Forenames>John</Forenames>
+      <Text>, Lt. C. E. (resigns commn., and retains ranklof Lt.)</Text>
       <PageNumber>6717</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -913,22 +930,29 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>John Farnon, Lt. L. E., see Farnon, Lt. L. E. St. John. St. John Ives, Capt. C, see Ives, Capt. C. St. John. St. John Mungavin, Capt. H., see Mungavin, Capt. H. St. John. St. John Smith, Capt. B., see Smith, Capt. B. St. John. St. Pourcain, 2nd Lt. E. A. (resigns commn. and retains rank of 2nd Lt.)</Text>
+      <Key>St. John</Key>
+      <Forenames>Farnon</Forenames>
+      <Text>, Lt. L. E., see Farnon, Lt. L. E. St. John. St. John Ives, Capt. C, see Ives, Capt. C. St. John. St. John Mungavin, Capt. H., see Mungavin, Capt. H. St. John. St. John Smith, Capt. B., see Smith, Capt. B. St. John. St. Pourcain, 2nd Lt. E. A. (resigns commn. and retains rank of 2nd Lt.)</Text>
       <PageNumber>6585</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>Eomaine, Lt. E. C. (resigns ci)inmn..and retains rank of Lt</Text>
+      <Key>St. Eomaine</Key>
+      <Title>Lt.</Title>
+      <Forenames>E. C.</Forenames>
+      <Text>(resigns ci)inmn..and retains rank of Lt</Text>
       <PageNumber>6387</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>Ruth, Capt. G. H. B., M.C. (retirement)</Text>
+      <Key>St. Ruth</Key>
+      <Title>Capt.</Title>
+      <Forenames>G. H. B.</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6101</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -949,7 +973,9 @@
       <Key>Salberg</Key>
       <Title>Capt.</Title>
       <Forenames>F. J.</Forenames>
-      <Text>, M.B.E. (resigns commn., and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>6384</PageNumber>
     </MainItem>
   </ItemGroup>

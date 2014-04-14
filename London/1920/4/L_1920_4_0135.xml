@@ -41,7 +41,12 @@
   <ItemGroup>
     <MainItem>
       <Key>JFarman</Key>
-      <Text>Ali Khan, Sardar Bahadur, Subadar-Maj., M.C., I.O.M., I.D.S.M. (Hon. Capt.)</Text>
+      <Forenames>Ali Khan</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>O.M.</Honour>
+        <Honour>D.S.M.</Honour>
+      </Text>
       <PageNumber>11210</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -95,7 +100,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>H. O.</Forenames>
-      <Text>, M.C. (rel. commn. , and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10936</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -209,7 +216,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Farquhar</Key>
-      <Text>2pd Lt. D. (ceases to be empld. with M.G.C., Motor)</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>9882</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -220,7 +229,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>H. L.</Forenames>
-      <Text>, M.C. (ceases to be empld. with Army. Sig. . Service)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>12118</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -231,7 +242,9 @@
       </Key>
       <Title>Lt.-Col.</Title>
       <Forenames>J.</Forenames>
-      <Text>, D.S.O. (placed on h.p. list on completion of four years' service as Regtl. Lt.-Col. and retains present appt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>12808</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -273,7 +286,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>M. G.</Forenames>
-      <Text>, M.C. (rel. commn. and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10177</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -346,7 +361,9 @@
         <KeyDitto>___ ___ .</KeyDitto>
       </Key>
       <Title>temp.</Title>
-      <Text>2nd Lt, P., M.C. (rel. commn. on completion of sei-vice,' and' retains rank of 2nd Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>12387</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -435,7 +452,9 @@
       <Key>Farrall</Key>
       <Title>Lt.</Title>
       <Forenames>S. A. R.</Forenames>
-      <Text>, M.C. (rel. commn. and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10602</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -543,7 +562,9 @@
       <Key>Farrer</Key>
       <Title>Lt.</Title>
       <Forenames>E. R. B.</Forenames>
-      <Text>, O.B.E,, M.C. (rel. commn. and granted rank of Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9871</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -583,7 +604,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>J. E.</Forenames>
-      <Text>, M.C. (rel. temp, rank of Maj., and retains appt. as Adjt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9669</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -620,7 +643,9 @@
       <Key>Faulkner</Key>
       <Title>Lt.</Title>
       <Forenames>A. C</Forenames>
-      <Text>, M.C. (rel. commn. and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10935</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -629,7 +654,9 @@
       <Key>Faulkner</Key>
       <Title>temp. Lt.</Title>
       <Forenames>H. G.</Forenames>
-      <Text>, M.C. (rel. oomnp. on completion of, service, arid granted rank of. Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10736</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -671,7 +698,10 @@
       <Key>Faunthorpe</Key>
       <Title>temp. Capt.</Title>
       <Forenames>J. C</Forenames>
-      <Text>, C.B.E., M.C., V.D. (rel, commn. on completion of service, and granted rank of Lt.Col.). :</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10708</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -715,7 +745,7 @@
       <PageNumber>10921</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Rel. commn. and retains rank of Lt</Text>
+      <Text>Rel. commn. and retains rank of Lt.</Text>
       <PageNumber>11784</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -725,8 +755,8 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Title>temp. Lt.</Title>
-      <Forenames>J. F. St</Forenames>
-      <Text>. A. (rel. commn. on completion of service, and retains rank of Lt.)</Text>
+      <Forenames>J. F. St. A</Forenames>
+      <Text>. (rel. commn. on completion of service, and retains rank of Lt.)</Text>
       <PageNumber>11208</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -815,7 +845,10 @@
       <Key>Fearenside</Key>
       <Title>temp. Maj.</Title>
       <Forenames>E.</Forenames>
-      <Text>, D.S.O., O.B.E. (rel. commn. on completion of service, and granted rank of Lt.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>10187</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -875,7 +908,9 @@
       </Key>
       <Title>temp.</Title>
       <Forenames>CaptS</Forenames>
-      <Text>, D.S.O. (trd. to Gen. List whilst spec, empld., from R.E.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>12265</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -937,7 +972,9 @@
       <Key>Feaviour</Key>
       <Title>temp. 2nd Lt.</Title>
       <Forenames>F.</Forenames>
-      <Text>, M.M. (rel. commn. on completion of service, and retains ' rank of 2nd Lt.) ... '-</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>12125</PageNumber>
     </MainItem>
   </ItemGroup>

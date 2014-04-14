@@ -16,7 +16,9 @@
     </MainItem>
     <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
     <SubItem>
-      <Text>Howard John Thomas, D.S.C. (granted short serv. commn. as Flying Offr.)</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>2517</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -24,7 +26,11 @@
     <MainItem>
       <Key>Salmond</Key>
       <Forenames>Air Vice Marshal</Forenames>
-      <Text>Sir William Geoffrey Hanson, K.C.M.G.,C.B., D.S.O. (Director General of Supply and Research, Air Ministry)</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>2048</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -32,7 +38,9 @@
     <MainItem>
       <Key>Sanderson</Key>
       <Forenames>Flying Offr</Forenames>
-      <Text>. Alfred Clifford, D.F.C. (granted perm. commn.)</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>1505</PageNumber>
     </MainItem>
     <SubItem>
@@ -70,7 +78,9 @@
     <MainItem>
       <Key>Sharman</Key>
       <Forenames>Pilot Offr</Forenames>
-      <Text>. on prob. Donald Risborough, M.C. (confd.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>729</PageNumber>
     </MainItem>
     <SubItem>
@@ -121,7 +131,9 @@
     <MainItem>
       <Key>Sievekiog</Key>
       <Forenames>Lancelot</Forenames>
-      <Text>de Giberne, D.S.C. (granted short' serv. commn. as Flying Offr.)</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>469</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -130,11 +142,17 @@
       <Key>Slatter</Key>
       <Title>Ilt. Lt.</Title>
       <Forenames>Leonard Horatio</Forenames>
-      <Text>, O.B.E., D.S.C., D.F.C. (placed on half pay, scale B.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>D.S.C.</Honour>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>375</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Fit. Cadet George Christopher Bernard Bernard, see Bernard-Smith, Fit. Cadet George Christopher Bernard. Observer Offr. Harold, D.F.C. (removed from R.A.F.)</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>553</PageNumber>
     </SubItem>
     <SubItem>
@@ -258,7 +276,10 @@
     <MainItem>
       <Key>Swann</Key>
       <Forenames>Air Commodore Oliver</Forenames>
-      <Text>, C.B., C.B.E. (Director of Personnel, Air Ministry)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>469</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -344,7 +365,9 @@
     <MainItem>
       <Key>Trapagna</Key>
       <Forenames>Leroy</Forenames>
-      <Text>, Flying Offr. Marcel Gustave Louis, A.F.C. (granted perm, commn.)</Text>
+      <Text>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>842</PageNumber>
     </MainItem>
     <SubItem>
@@ -368,7 +391,9 @@
     <MainItem>
       <Key>Vautier</Key>
       <Forenames>Arthur Egbert</Forenames>
-      <Text>, M.C. .(granted short serv. commn. for Accountant duties as Flying Offr. on prob.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2330</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -422,7 +447,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Berwick</Key>
-      <Text>: Hope, Col. Charles, V.D. ... London : Ackland, Charles Addis, Sir Charles Stewart, Kt. Aird, Sir John, Bt Aldenham, Alban George Henry, Lord ... ... ... Algar, Claudius George ... Alliston, Paul ... Anderson, Sir Alan Garrett, K.C.B.E Arbuthnot, Charles George ... Ashdown, Sir Curtis George, Kt Asher, Samuel Garcia ... Baddeley, Sir John James, Kt. Bailey, Sir Abe, Bt., K.C.M.G. ... ... ... ___ ___ ___ ___</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>Bt</Honour>
+        <Honour>K.C.M.G.</Honour>
+      </Text>
       <PageNumber>842</PageNumber>
     </MainItem>
   </ItemGroup>

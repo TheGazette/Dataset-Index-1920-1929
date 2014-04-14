@@ -10,8 +10,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dobson</Key>
-      <Forenames>G.</Forenames>
-      <Text>de S</Text>
+      <Forenames>G. de S</Forenames>
       <PageNumber>135</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -182,7 +181,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dutton</Key>
-      <Text>. A. C</Text>
+      <Forenames>A. C .</Forenames>
       <PageNumber>1051</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -557,7 +556,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gascoigne</Key>
-      <Text>. A. E. S</Text>
+      <Forenames>A. E. S.</Forenames>
       <PageNumber>1295</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1165,7 +1164,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hickman</Key>
-      <Text>. Sir A. E</Text>
+      <Title>Sir</Title>
+      <Forenames>A. E.</Forenames>
       <PageNumber>2134</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1352,7 +1352,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Horwill</Key>
-      <Text>. F. G</Text>
+      <Forenames>F. G .</Forenames>
       <PageNumber>1140</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1729,7 +1729,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kent-Jones</Key>
-      <Text>. L. J</Text>
+      <Forenames>L. J.</Forenames>
       <PageNumber>370</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1766,7 +1766,7 @@
   <ItemGroup>
     <MainItem>
       <Key>King</Key>
-      <Text>. A. C</Text>
+      <Forenames>A. C.</Forenames>
       <PageNumber>443</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1796,7 +1796,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kite</Key>
-      <Text>. C. M. B</Text>
+      <Forenames>C. M. B .</Forenames>
       <PageNumber>1496</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1824,7 +1824,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lace</Key>
-      <Text>. A. F</Text>
+      <Forenames>A. F.</Forenames>
       <PageNumber>2022</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1883,7 +1883,9 @@
       <Key>Larcom</Key>
       <Title>Sir</Title>
       <Forenames>T. P.</Forenames>
-      <Text>. Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>47</PageNumber>
     </MainItem>
   </ItemGroup>

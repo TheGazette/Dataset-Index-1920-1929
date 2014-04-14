@@ -5,7 +5,9 @@
       <Key>Gearing</Key>
       <Title>Comd. Bosn.</Title>
       <Forenames>Ernest H.</Forenames>
-      <Text>, M.B.E. (at own request)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>2420</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -340,8 +342,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Leeds</Key>
-      <Forenames>Reginald A. St</Forenames>
-      <Text>. J. (at own request) '</Text>
+      <Forenames>Reginald A. St. J</Forenames>
+      <Text>. (at own request) '</Text>
       <PageNumber>1227</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -598,8 +600,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Conor, Edmond H. (at own request)</Text>
+      <Key>O'Conor</Key>
+      <Forenames>Edmond H.</Forenames>
+      <Text>(at own request)</Text>
       <PageNumber>1818</PageNumber>
     </MainItem>
     <SubItem>
@@ -699,15 +702,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Rich</Key>
-      <Forenames>Charles R. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>Charles R. St. J</Forenames>
       <PageNumber>2317</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Richards</Key>
-      <Text>.Robert J. (at own request)</Text>
+      <Forenames>Robert J.</Forenames>
+      <Text>(at own request)</Text>
       <PageNumber>302</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1145,8 +1148,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan, Comd. Eng. Wallace (at own request)</Text>
+      <Key>O'Sullivan</Key>
+      <Title>Comd. Eng.</Title>
+      <Forenames>Wallace</Forenames>
+      <Text>(at own request)</Text>
       <PageNumber>907</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1246,8 +1251,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bond</Key>
-      <Forenames>Reginald St</Forenames>
-      <Text>. G. S., M.B.,</Text>
+      <Forenames>Reginald St. G</Forenames>
+      <Text>. S., M.B.,</Text>
       <PageNumber>14</PageNumber>
     </MainItem>
     <SubItem>
@@ -1259,7 +1264,9 @@
     <MainItem>
       <Key>Clark</Key>
       <Forenames>Richard F.</Forenames>
-      <Text>, D.P.H. MacKeown, Robert J., O.B.E.,</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>14</PageNumber>
     </MainItem>
     <SubItem>

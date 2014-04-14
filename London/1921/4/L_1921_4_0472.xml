@@ -4,7 +4,9 @@
     <MainItem>
       <Key>Robinson</Key>
       <Forenames>Capt</Forenames>
-      <Text>, H. L. (trd. to T.A. Res., Gen. List, R.A.M.C., from 1st Lond (C. of L.) San. Co.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9140</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -71,7 +73,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>J. D.</Forenames>
-      <Text>, M.C. (rel. commn. and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10572</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -269,7 +273,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>R. W. G.</Forenames>
-      <Text>, M.C. (trd! to T.A. Res., Regtl List, Infy., from 5th Bn. Durham L.I.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8706</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -491,7 +497,9 @@
       <Key>Robotham</Key>
       <Title>Lt.</Title>
       <Forenames>G. B.</Forenames>
-      <Text>, D.F.C. (rel. commn. and granted rank of</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>10345</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -511,7 +519,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>A.</Forenames>
-      <Text>, O.B.E. (9th Bn., Hamps. R.) (rel. commn</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>10212</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -675,7 +685,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>W.</Forenames>
-      <Text>, T.D. (50th (Northn) Divl. Engrs.) resigns commn. and retains rank of Maj., with permission to wear prescribed uniform)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>7755</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -772,7 +784,10 @@
       <Key>Roddick</Key>
       <Title>Lt.</Title>
       <Forenames>J. A.</Forenames>
-      <Text>, D.S.O., M.C. (rel. commn. and granted rank ox Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10006</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -923,7 +938,10 @@
       <Key>Rodwell</Key>
       <Title>Maj.</Title>
       <Forenames>F. J.</Forenames>
-      <Text>, O.B.E., T.D. (rel. commn. and retains rank of Maj., with permis, sion to wear prescribed uniform)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>10578</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -933,14 +951,18 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Title>Ca.</Title>
-      <Text>pt. H., M.C. (rel. commn. and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10216</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Roe</Key>
-      <Text>. Lt. A. (rel. commn. and retains rank of Lt.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>A.</Forenames>
+      <Text>(rel. commn. and retains rank of Lt.)</Text>
       <PageNumber>10209</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -992,7 +1014,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Roeber</Key>
-      <Text>. Capt. W. C. T., C.B.E., M.iC. (rel. commn. and retains rank of Capt.)</Text>
+      <Title>Capt.</Title>
+      <Forenames>W. C. T.</Forenames>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>10703</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1010,7 +1036,9 @@
       <Key>Roffey</Key>
       <Title>Lt.</Title>
       <Forenames>J. S.</Forenames>
-      <Text>, M.C. (rel. commn. and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10343</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1057,7 +1085,9 @@
       <Key>Rogers</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>A. E.</Forenames>
-      <Text>, T.D. (rel. commn. and retains rank of Lt.-Col., with permission to wear prescribed uniform)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>10701</PageNumber>
     </MainItem>
   </ItemGroup>

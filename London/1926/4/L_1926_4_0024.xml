@@ -564,6 +564,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Gaury</Key>
+      <Forenames>G. S. H. R. V.</Forenames>
+      <PageNumber>6295</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>De</Key>
       <Text>la Bere, I</Text>
       <PageNumber>7407</PageNumber>
@@ -583,6 +590,20 @@
       <Forenames>Rinzy</Forenames>
       <Text>, N. L. C</Text>
       <PageNumber>6616</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Smidt</Key>
+      <Forenames>E. M.</Forenames>
+      <PageNumber>6887</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Stacpoole</Key>
+      <Forenames>E. H. M.</Forenames>
+      <PageNumber>6546</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -633,7 +654,9 @@
       <Key>Devitt</Key>
       <Title>Sir</Title>
       <Forenames>T. G.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>7048</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -758,6 +781,14 @@
       <Forenames>Buisson</Forenames>
       <Text>, T. G</Text>
       <PageNumber>7327</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>du Cros</Key>
+      <Forenames>E. H</Forenames>
+      <PageNumber>6887</PageNumber>
+      <PageNumber>8184</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1720,7 +1751,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Greenway</Key>
-      <Text>A. P. C K</Text>
+      <Forenames>A. P. C</Forenames>
+      <Text>K</Text>
       <PageNumber>7908</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1757,7 +1789,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Griffith</Key>
-      <Text>L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>6370</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1795,7 +1827,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gueterbock</Key>
-      <Text>E. A.I,</Text>
+      <Forenames>E. A.I</Forenames>
+      <Text>,</Text>
       <PageNumber>8341</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1865,7 +1898,9 @@
       <Key>Haggerston</Key>
       <Title>Sir</Title>
       <Forenames>H. C.</Forenames>
-      <Text>de M., Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>7680</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1927,7 +1962,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hallinan</Key>
-      <Text>E. V</Text>
+      <Forenames>E. V .</Forenames>
       <PageNumber>7477</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1957,7 +1992,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hamilton</Key>
-      <Text>G</Text>
+      <Forenames>G.</Forenames>
       <PageNumber>6888</PageNumber>
     </MainItem>
   </ItemGroup>

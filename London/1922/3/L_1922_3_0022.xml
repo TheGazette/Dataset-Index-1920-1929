@@ -5,7 +5,11 @@
       <Key>Strickland</Key>
       <Title>Maj.-Gen. Sir</Title>
       <Forenames>E. P.</Forenames>
-      <Text>, K.C.B., C.M.G., D.S.O. (corr. of date of relg. appt. as Gen. Offr. Comdg. and temp, rank of Lt.-Gen.)</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6228</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -14,7 +18,16 @@
       <Key>Stuart</Key>
       <Title>Maj.-Gen.</Title>
       <Forenames>J. T. Burnett</Forenames>
-      <Text>, C.B., C.M.G., D.S.O., see Burnett-Stuart, Maj.-Gen. J. T., C.B., C.M.G., D.S.O. Sullivan, Bt. Lt.-Col. G. A., D.S.O. (temp. Dep. Prov. Marshal, CI. BB, attd. to Hd.-Qr. Units, from CI. X)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Bt</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5776</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -23,7 +36,20 @@
       <Key>Swabey</Key>
       <Title>Col.</Title>
       <Forenames>W. S.</Forenames>
-      <Text>, C.B., C.M.G., C.B.E. (Asst. Dir. of Supplies and Trans., from a Dep. Dir. of Supplies and Trans., CI. T) 5705 Taggart, temp. Lt. G. Scott, see Scott-Taggart, temp. Lt. G. Terry, Capt. W. E. C. (rel. appt. as Staff Capt.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
+      <PageNumber>5705</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Taggart</Key>
+      <Title>temp. Lt.</Title>
+      <Forenames>G. Scott</Forenames>
+      <Text>, see Scott-Taggart, temp. Lt. G. Terry, Capt. W. E. C. (rel. appt. as Staff Capt.)</Text>
       <PageNumber>5203</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -40,7 +66,9 @@
     <MainItem>
       <Key>Thomson</Key>
       <Title>Maj</Title>
-      <Text>^ A. R., M.C. (rel. appt. of Brig. Maj. attd. to Hd.-Qr. Units)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5608</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -49,7 +77,9 @@
       <Key>Tremellen</Key>
       <Title>Lt.</Title>
       <Forenames>L.</Forenames>
-      <Text>(rel. appt. as A.D.C. to the Gov. and C. in-C. Tanganyika Territory), Sub. Not</Text>
+      <Text>
+        <Honour>A.D.C.</Honour>
+      </Text>
       <PageNumber>5278</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -58,7 +88,12 @@
       <Key>Trench</Key>
       <Title>Bt. Maj.</Title>
       <Forenames>J. F. Chenevix</Forenames>
-      <Text>, D. S.O., see Chenevix-Trench, Bt. Maj. J. F., D.S.O. Tweedie, Lt.-Col. W. J. B., C.M.G. (Offr. i./c. of a Record Office)</Text>
+      <Text>
+        <Honour>D. S.O.</Honour>
+        <Honour>Bt</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>6228</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -67,7 +102,10 @@
       <Key>Twidale</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>W. C. E.</Forenames>
-      <Text>, C.M.G., D.S.O. (rel. spec, appt., CI. X)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5523</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -76,11 +114,13 @@
       <Key>Twinberrow</Key>
       <Title>Capt.</Title>
       <Forenames>J. D.</Forenames>
-      <Text>, M.C. (rel. appt. as Asst. Emb. Staff Offr., CI. FF, Hd.-Qrs. for Embarkation Duties)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5032</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Temp. appt. of Staff Capt</Text>
+      <Text>Temp. appt. of Staff Capt.</Text>
       <PageNumber>6638</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -96,7 +136,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Vickers</Key>
-      <Text>.Capt. W. G. H., O.B.E. (temp. Brig. Maj. attd. to Hd.-Qr. Unit)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>5104</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -123,7 +165,9 @@
       <Key>Walker</Key>
       <Title>Qrmr. and Capt.</Title>
       <Forenames>A.</Forenames>
-      <Text>, O.B.E. (rel. temp. appt. of Staff Capt. at War Office and temp, rank of Capt.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>6638</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -132,7 +176,9 @@
       <Key>Wallace</Key>
       <Title>Bt. Lt.-Col.</Title>
       <Forenames>R. F. H.</Forenames>
-      <Text>, C.M.G. (rel. temp. appt. of Officer i./c. of a Record Office and temp, rank of Lt.-Col.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>6773</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -141,7 +187,10 @@
       <Key>Waller</Key>
       <Title>Maj.</Title>
       <Forenames>H. W. L.</Forenames>
-      <Text>, D.S.O., M.C. i(rel. temp. appt. as Brig. Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5962</PageNumber>
     </MainItem>
     <SubItem>
@@ -162,7 +211,10 @@
     <MainItem>
       <Key>Watts</Key>
       <Title>Ord. Off., 1st CI.</Title>
-      <Text>, and Col. (temp. Col. on the Staff) C. D. R., C.B., C.M.G. (Inspr. of Army Ord. Stores at War Office from Dep. Dir. of Equipment and Ord. Stores, and retains temp, rank of Col. on the Staff)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>6839</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -171,11 +223,14 @@
       <Key>Wauchope</Key>
       <Title>Bt. Col.</Title>
       <Forenames>A. G.</Forenames>
-      <Text>, C.M.G., C.I.E., D.S.O. (rel. appt. as Brig. Comdr., attd. to Hd.-Qr. Unite and temp, rank of Col. Comdt.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5961</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Corr. of date of relinquishment of appt. of Brig. Comdr. and temp, rank of Col. Comdt</Text>
+      <Text>Corr. of date of relinquishment of appt. of Brig. Comdr. and temp, rank of Col. Comdt.</Text>
       <PageNumber>6441</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -193,7 +248,9 @@
       <Key>Wilberforce</Key>
       <Title>Capt.</Title>
       <Forenames>A. R. G.</Forenames>
-      <Text>, O.B.E. (rel. temp. appt. as Dep. Asst. Dir. at War Office and. temp, rank of Maj.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>5705</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -201,7 +258,11 @@
     <MainItem>
       <Key>Willcocks</Key>
       <Forenames>Gen</Forenames>
-      <Text>(Col., Loyal R.) Sir J., G.C.B., G.C.M.G., K.C.S.I., D.S.O. (rel. appt. as G.O.C.-in-C., Bermuda)</Text>
+      <Text>
+        <Honour>G.C.B.</Honour>
+        <Honour>G.C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6228</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -210,7 +271,9 @@
       <Key>Williams</Key>
       <Title>Bt. Maj.</Title>
       <Forenames>K. G.</Forenames>
-      <Text>, O.B.E. (rel. appt. of Brig. Maj. attd. to Hd.-Qr. Units), Sub. Not</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>5864</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -228,7 +291,10 @@
       <Key>Winterbotham</Key>
       <Title>Bt. Lt.-Col.</Title>
       <Forenames>H. St</Forenames>
-      <Text>. J. L., C.M.G., D.S.O. (G.S.O., 1st Grade, at War Office)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6440</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -266,7 +332,9 @@
       <Key>Woodward</Key>
       <Title>Lt.</Title>
       <Forenames>F. W.</Forenames>
-      <Text>, O.B.E. (rel. temp. appt. of Staff Capt.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>6710</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -275,7 +343,9 @@
       <Key>Yearsley</Key>
       <Title>Capt.</Title>
       <Forenames>K. D.</Forenames>
-      <Text>, M.C. (Staff Capt. at War Office)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5032</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -306,7 +376,9 @@
       <Key>Acton</Key>
       <Title>Capt.</Title>
       <Forenames>E. L. L.</Forenames>
-      <Text>, M.C. (Capt., E. Surrey R., from Leinster E.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6376</PageNumber>
     </MainItem>
     <SubItem>
@@ -321,7 +393,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>W. M.</Forenames>
-      <Text>, D.S.O. (placed on h p. list on acc. of illhealth)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5431</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -342,8 +416,8 @@
     <MainItem>
       <Key>Adams</Key>
       <Title>Lt.</Title>
-      <Forenames>A. E. St</Forenames>
-      <Text>. J. (rel. rank of Lt.) '</Text>
+      <Forenames>A. E. St. J</Forenames>
+      <Text>. (rel. rank of Lt.) '</Text>
       <PageNumber>5280</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -365,7 +439,9 @@
       </Key>
       <Title>Qrmr. and Capt.</Title>
       <Forenames>R. F.</Forenames>
-      <Text>, M.B.E. (retires on ret. pay)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>6713</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -397,7 +473,9 @@
     <MainItem>
       <Key>Adyle-Curran</Key>
       <Forenames>L</Forenames>
-      <Text>|t.-Co]. William J. P., O.B.E. (retires on ret. pay on acc. of ill-health contracted on active service), Sub. Not</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>6512</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -405,8 +483,10 @@
     <MainItem>
       <Key>Agate</Key>
       <Title>temp. Maj.</Title>
-      <Forenames>Henry St</Forenames>
-      <Text>. A., M.C. (rel. commn. and retains rank of Maj.)</Text>
+      <Forenames>Henry St. A</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5525</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -428,7 +508,7 @@
       <PageNumber>5609</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Restd. to estabt</Text>
+      <Text>Restd. to estabt.</Text>
       <PageNumber>5609</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -446,11 +526,13 @@
       <Key>Alden</Key>
       <Title>Supern. Lt.</Title>
       <Forenames>H.</Forenames>
-      <Text>, M.M. (restd. to estabt.)</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>5033</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Retires, receiving a gratuity and granted rank of Capt</Text>
+      <Text>Retires, receiving a gratuity and granted rank of Capt.</Text>
       <PageNumber>6019</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -470,7 +552,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>N. G. A.</Forenames>
-      <Text>, M.C. (seed, for service under the Colonial Office), Sub. Not</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5033</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -481,7 +565,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>W. A.</Forenames>
-      <Text>, T.D. (Maj., Reg. Army Res. of Off., Gen. List, Intelligence, late Dor set Yeo.)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>5708</PageNumber>
     </MainItem>
     <SubItem>
@@ -499,7 +585,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Title>Lt.</Title>
-      <Text>-Col (ret. pay) W. D. D. S.O. (Lt.-Col., Reg. Army Res. of Off., Regtl. List, E. G.A.) „</Text>
+      <Text>
+        <Honour>D. S.O.</Honour>
+      </Text>
       <PageNumber>5526</PageNumber>
     </MainItem>
     <SubItem>
@@ -514,11 +602,13 @@
       </Key>
       <Title>Lt.-Col.</Title>
       <Forenames>W. N. S.</Forenames>
-      <Text>, D.S.O. (Lt.Col., Foresters, from Conn. Eangers)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5963</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>. Date of seniority</Text>
+      <Text>. Date of seniority.</Text>
       <PageNumber>5963</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -527,7 +617,10 @@
       <Key>Allardvce</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>J. G. B.</Forenames>
-      <Text>, C.M.G., D.S.O. (placed on h.p. list on completion of 4 years' service as Regtl. Lt.-Col.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5033</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -545,7 +638,9 @@
       <Key>Allen</Key>
       <Title>Maj. (ret.)</Title>
       <Forenames>D. F.</Forenames>
-      <Text>, M.C. (Maj., Eeg. Army Res. of Offrs., Regtl. List, R.H. arid E.F.A.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5611</PageNumber>
     </MainItem>
     <SubItem>
@@ -571,7 +666,9 @@
       </Key>
       <Title>Capt. and Bt. Maj.</Title>
       <Forenames>H. A.</Forenames>
-      <Text>, D. S.O. (Adjt., Inn. Fus.)</Text>
+      <Text>
+        <Honour>D. S.O.</Honour>
+      </Text>
       <PageNumber>6905</PageNumber>
     </MainItem>
     <KeyDitto>___ ___ ___ .</KeyDitto>

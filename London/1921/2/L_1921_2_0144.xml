@@ -43,7 +43,9 @@
     <MainItem>
       <Key>Squire</Key>
       <Title>Qr.</Title>
-      <Text>-Mr. and Capt. H. O. (seed, whilst empld. with M.G.C.)</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>3982</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -122,7 +124,9 @@
       </Key>
       <Title>Capt. and Bt. Maj.</Title>
       <Forenames>J.</Forenames>
-      <Text>BT., M.C. (Adjt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3522</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -182,7 +186,9 @@
       <Key>Stallard</Key>
       <Title>Capt.</Title>
       <Forenames>R. H.</Forenames>
-      <Text>, O.B.E. (temp. Maj. whilst D.A.D. of Rly. Trans.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>2984</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -200,7 +206,9 @@
       <Key>Stamer</Key>
       <Title>Capt.</Title>
       <Forenames>W. D.</Forenames>
-      <Text>, M.C. (rel. temp, rank of Lt.-Col.), Sub. Not ... ... -</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2772</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -229,7 +237,9 @@
       <Key>Stanford</Key>
       <Title>temp. Lt.</Title>
       <Forenames>F. E.</Forenames>
-      <Text>, M.C. (rel. comnin. on completion of service, and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4386</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -240,7 +250,9 @@
       </Key>
       <Title>temp. Maj.</Title>
       <Forenames>F. O.</Forenames>
-      <Text>, O.B.E. (rel. commn: on completion of service, and retains rank of Maj.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3987</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -252,7 +264,9 @@
       </Key>
       <Title>temp. Maj.</Title>
       <Forenames>W.</Forenames>
-      <Text>, O.B.E. (rel. . commn. on completion of service, and retains rank of Maj.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>5082</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -270,7 +284,9 @@
       <Key>Stanley</Key>
       <Title>Lt.-Col. the Hon.</Title>
       <Forenames>A. F.</Forenames>
-      <Text>, D.S.O. (placed on h.p. list on completing period of service in comd.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4976</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -281,7 +297,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>A. W. W.</Forenames>
-      <Text>, M.C. (resigns commn.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3178</PageNumber>
     </MainItem>
     <SubItem>
@@ -295,7 +313,10 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Title>temp. Maj.</Title>
-      <Text>(Capt. and Bt. Lt.Col., Res. of Off., 10th H., and Maj., Lan. Hfs. Yeo., T.F.) the Hon. F. W., D.S.O. (rel. temp, commn. on ceasing to be empld., and retains rank of Maj.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4256</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -306,7 +327,9 @@
       </Key>
       <Title>Lt.-Col. the Hon.</Title>
       <Forenames>G. F.</Forenames>
-      <Text>C.M.G. (h.p. list, retires on . ret. pay)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>4794</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -328,7 +351,9 @@
       </Key>
       <Title>temp. Maj.</Title>
       <Forenames>J.</Forenames>
-      <Text>, O.B.E. (rel. commn. on completion of service, and retains rank of Maj.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>5212</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -346,7 +371,9 @@
       <Key>Stanton</Key>
       <Title>Maj.</Title>
       <Forenames>H. A. S.</Forenames>
-      <Text>, D.S.O. (placed on h.p. list on acc. of ill-health on ceasing to be empld. in a Record Office)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3161</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -364,7 +391,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Stan</Key>
-      <Text>way, Capt. and Bt. Lt.-Col. W. H., D.S.O., M.C. (seed, for service as Adjt., Ind. Vols.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5206</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -429,7 +460,9 @@
       </Key>
       <Title>temp. Capt.</Title>
       <Forenames>J. R.</Forenames>
-      <Text>, M.C. (rel. commn. on appt. to I.A.R.O.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5219</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -496,7 +529,9 @@
       <Key>Stebbing</Key>
       <Title>Lt. (on prob.)</Title>
       <Forenames>T. H. L.</Forenames>
-      <Text>, M.C. (date of commn. for purposes of seniority only)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4801</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -505,7 +540,9 @@
       <Key>Stedman</Key>
       <Title>temp. Lt.</Title>
       <Forenames>L. G.</Forenames>
-      <Text>, M.C. (rel. .commn. on acc. of illhealth caused . by wounds, and granted rank of Capt.), Sub. Not ..,</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3162</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -598,7 +635,9 @@
       <Key>Steen</Key>
       <Title>temp. Capt.</Title>
       <Forenames>R. D.</Forenames>
-      <Text>, M.B.E. (corr. of date of relg. temp. . rank of Maj.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>4257</PageNumber>
     </MainItem>
     <SubItem>
@@ -620,7 +659,9 @@
       <Key>Steevens</Key>
       <Title>Capt. and Bt. Maj.</Title>
       <Forenames>D</Forenames>
-      <Text>\ J., M.C. (Adjt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2968</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -629,7 +670,9 @@
       <Key>Stelfox</Key>
       <Title>temp. Lt.</Title>
       <Forenames>W.</Forenames>
-      <Text>, M.C. (rel. commn. on completion of service, and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2767</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -658,7 +701,9 @@
       <Key>Stephen</Key>
       <Title>temp. Capt.</Title>
       <Forenames>A. M.</Forenames>
-      <Text>, M.C. (rel. commn. on completion of service, and granted rank of Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4068</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -756,7 +801,9 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>F. D.</Forenames>
-      <Text>, M.C. (rel. commn. on coriipletion of service, and granted rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3986</PageNumber>
     </MainItem>
   </ItemGroup>

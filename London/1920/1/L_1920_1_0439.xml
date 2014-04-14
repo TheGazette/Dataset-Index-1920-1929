@@ -3,7 +3,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Stephenson</Key>
-      <Text>2nd Lt H., M.M. (Lt.)</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>190</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -121,7 +123,11 @@
       <Key>Stidston</Key>
       <Title>Maj.</Title>
       <Forenames>C. A.</Forenames>
-      <Text>, D.S.O., M.D. (Maj., R.A.M.C., T.F., 3rd N. Midland Field Amlb.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.D.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3754</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -154,7 +160,10 @@
       </Key>
       <Title>Capt. (Bt. Lt.-Col.) Sir</Title>
       <Forenames>H. J.</Forenames>
-      <Text>, K.B.E., M.B., F.R.C.S. (Col., T.F.R.)</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>1370</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -192,7 +201,9 @@
       <Key>Stockman</Key>
       <Title>Lt.</Title>
       <Forenames>C. W.</Forenames>
-      <Text>, T.D. (rel. commn. on ceasing to be empld., and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>1914</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -239,11 +250,13 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>F. R.</Forenames>
-      <Text>, M.C. (aotg. Capt., comdg. a Co., A. of 0.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1196</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Rel. actg. rank of Capt. on ceasing to comd. a Co., Hamps. R., A. of O</Text>
+      <Text>Rel. actg. rank of Capt. on ceasing to comd. a Co., Hamps. R., A. of O.</Text>
       <PageNumber>2272</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -292,7 +305,9 @@
       <Key>Stoop</Key>
       <Title>Lt. (actg. Capt.)</Title>
       <Forenames>A. D.</Forenames>
-      <Text>, M.C. (rel. actg. rank of Capt. on ceasing to be empld.) ... €</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>14</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -312,7 +327,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>M. G. N.</Forenames>
-      <Text>, M.C. (Adjt,)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3626</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -328,7 +345,9 @@
       <Key>Storrar</Key>
       <Title>Maj.</Title>
       <Forenames>D. M.</Forenames>
-      <Text>, F.R.C.V.S., T.D. (having attained age limit, retires, and retains rank of Maj., with permission to wear prescribed uniform)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>4012</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -339,7 +358,9 @@
       </Key>
       <Title>Lt. (actg. Capt.)</Title>
       <Forenames>J. S.</Forenames>
-      <Text>, M.C. (rel. actg. .rank cf Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1553</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -385,7 +406,9 @@
     <MainItem>
       <Key>Strachan</Key>
       <Title>Ca.</Title>
-      <Text>pt. (a*,tg. Maj.) C. G., M.C., M.B. (rel. actg. rank of Maj. on ceasing to be spec, empld.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1067</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -393,7 +416,11 @@
     <MainItem>
       <Key>Stradbroke</Key>
       <Forenames>C</Forenames>
-      <Text>&gt;1 G. E. J. M., The Earl of, C.B. C.V.O., C.B.E., V.D., A.D.C. to The King (to comd. the Brigade with rank and precedence in T.F. as in Vol. Force.) Sub. Not</Text>
+      <Text>
+        <Honour>C.B. C.V.O.</Honour>
+        <Honour>C.B.E.</Honour>
+        <Honour>A.D.C.</Honour>
+      </Text>
       <PageNumber>541</PageNumber>
     </MainItem>
     <SubItem>
@@ -493,7 +520,10 @@
       <Key>Strevens</Key>
       <Title>Capt. (Bt. Maj,)</Title>
       <Forenames>H.</Forenames>
-      <Text>, D.S.O., M.C. (Adjt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3145</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -575,7 +605,10 @@
       <Key>Sturrock</Key>
       <Title>Capt.</Title>
       <Forenames>W. D.</Forenames>
-      <Text>, D.S.O., M.D. (Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>2856</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -584,7 +617,9 @@
       <Key>Sullivan</Key>
       <Title>Lt.</Title>
       <Forenames>S. F.</Forenames>
-      <Text>, M.C. (resigns commn., and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2055</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -673,7 +708,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Surridge</Key>
-      <Text>. Lt. S. O'ft,, M.C. (seed, for serv. . with Giggleswick Sch. Contingent. O.TiC.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>S. O</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>299</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -796,7 +835,9 @@
       <Key>Swayne</Key>
       <Title>Maj. (Bt. Lt.-Col.)</Title>
       <Forenames>O. R.</Forenames>
-      <Text>, D.S.O. (Adjt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3617</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -853,7 +894,9 @@
     <MainItem>
       <Key>Sydenham</Key>
       <Title>Maj.</Title>
-      <Text>IE. V., D.S.O. T.D. (Lt.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O. T.D.</Honour>
+      </Text>
       <PageNumber>2273</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -862,7 +905,9 @@
       <Key>Sydney</Key>
       <Title>temp. Lt.-Col. (Ma]., Northd Yeo.)</Title>
       <Forenames>H.</Forenames>
-      <Text>, D.S.O. (rel. temp, rank of Lt.-Col. on ceasing to comd. the 2/4th Bn., A; of O.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1086</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -905,7 +950,9 @@
       <Key>Tabberer</Key>
       <Title>Lt.</Title>
       <Forenames>C.</Forenames>
-      <Text>p., M.C. (Local Capt. whilst aittd. ito Lancing Coll. Contingent, Jun. Div.. O.T.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>800</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -914,7 +961,9 @@
       <Key>Tabor</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>J. C</Forenames>
-      <Text>, T.D. (Col.)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>3739</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -956,7 +1005,7 @@
       <PageNumber>2445</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Rel. actg. rank of Capt. on ceasing to comd. a Sqdn</Text>
+      <Text>Rel. actg. rank of Capt. on ceasing to comd. a Sqdn.</Text>
       <PageNumber>3625</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -992,7 +1041,9 @@
       <Key>Tatlow</Key>
       <Title>2nd Lt.</Title>
       <Forenames>W. B.</Forenames>
-      <Text>(Lt., and rem. seed., M.G.C.) ' ,</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>2157</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1012,7 +1063,10 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>W</Forenames>
-      <Text>„ O.B.E., T.D. (resigns commn.,. and granted rank of Lt -Col. with permission to wear uniform)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>3741</PageNumber>
     </MainItem>
   </ItemGroup>

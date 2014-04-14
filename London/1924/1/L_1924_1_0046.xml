@@ -4,7 +4,9 @@
     <MainItem>
       <Key>Atholl</Key>
       <Forenames>Katherine Marjory</Forenames>
-      <Text>, Duchess of, M.P. for Kinrose</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>369</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -12,7 +14,9 @@
     <MainItem>
       <Key>Attlee</Key>
       <Forenames>Clement Richard</Forenames>
-      <Text>, M.P. for Limehouse</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>366</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -36,7 +40,9 @@
     <MainItem>
       <Key>Avles</Key>
       <Forenames>Walter Henry</Forenames>
-      <Text>, M.P. for Bristol, North</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>359</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -44,7 +50,9 @@
     <MainItem>
       <Key>Bailev</Key>
       <Forenames>Frederick James</Forenames>
-      <Text>, Member of the Fifth Class of the ' Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>6</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -53,7 +61,11 @@
       <Key>Bainbridge</Key>
       <Title>Col.</Title>
       <Forenames>William Frank</Forenames>
-      <Text>, C.M.G., C.B.E., D.S.O., Companion of the Order of the Bath</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>C.B.E.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -62,7 +74,10 @@
       <Key>Baird</Key>
       <Title>Rt. Hon. Sir</Title>
       <Forenames>John Law-</Forenames>
-      <Text>rence, Bart, M.P. for Ayr, Burghs</Text>
+      <Text>
+        <Honour>Bart</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>368</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -70,7 +85,9 @@
     <MainItem>
       <Key>Baker</Key>
       <Forenames>Walter John</Forenames>
-      <Text>, M.P. for Bristol, East</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>359</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -79,7 +96,9 @@
       <Key>Baldwin</Key>
       <Title>Rt. Hon.</Title>
       <Forenames>Stanley</Forenames>
-      <Text>, M.P. for Bewdley</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>367</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -87,7 +106,9 @@
     <MainItem>
       <Key>Balfour</Key>
       <Forenames>George</Forenames>
-      <Text>, M.P. for Hampstead</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>361</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -105,11 +126,16 @@
       <Key>Banbury</Key>
       <Title>the Right Hon. Sir</Title>
       <Forenames>Frederick George</Forenames>
-      <Text>, Bart., M.P., Baron</Text>
+      <Text>
+        <Honour>Bart</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>1</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>M.P. for London</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>359</PageNumber>
     </SubItem>
     <SubItem>
@@ -121,7 +147,9 @@
     <MainItem>
       <Key>Banks</Key>
       <Forenames>Reginald Mitchell</Forenames>
-      <Text>, K.C., M.P. for Swindon</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>367</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -130,7 +158,9 @@
       <Key>Banner</Key>
       <Title>Sir</Title>
       <Forenames>John Sutherland Harmood</Forenames>
-      <Text>, see HarmoodBanner, Sir John Sutherland. Banton, George, M.P. for Leicester, E</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>363</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -138,7 +168,9 @@
     <MainItem>
       <Key>Barber</Key>
       <Forenames>William Henry</Forenames>
-      <Text>, Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>1261</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -146,7 +178,9 @@
     <MainItem>
       <Key>Barclay</Key>
       <Forenames>Robert Noton</Forenames>
-      <Text>, M.P. for Manchester, Exchange</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>363</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -154,7 +188,9 @@
     <MainItem>
       <Key>Barclay-Harvey</Key>
       <Forenames>Charles Mal-</Forenames>
-      <Text>colm, M.P. for Kincardine</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>368</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -162,14 +198,20 @@
     <MainItem>
       <Key>Barker</Key>
       <Forenames>George</Forenames>
-      <Text>, M.P. for Aber. tillery</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>364</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Barlow</Key>
-      <Text>the Rt. Hon. Sir Clement Anderson Montague, K.B.E., LL.D., M.P., Baronet</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+        <Honour>M.P.</Honour>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>1262</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -186,7 +228,9 @@
       <Key>Barnett</Key>
       <Title>Major</Title>
       <Forenames>Richard Whiel-</Forenames>
-      <Text>don, M.P. for St. Pancras, S.W</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>365</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -195,7 +239,10 @@
       <Key>Barrie</Key>
       <Title>Sir</Title>
       <Forenames>Charles Coupar</Forenames>
-      <Text>, K.B.E.. M.P. for Banff</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>368</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -203,7 +250,9 @@
     <MainItem>
       <Key>Batey</Key>
       <Forenames>Joseph</Forenames>
-      <Text>, M.P. for Spennymoor</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>360</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -219,7 +268,12 @@
   <ItemGroup>
     <MainItem>
       <Key>Bathurst</Key>
-      <Text>. Allen Algernon, D.S.O.. M.C. (Lord Apsley), M.P. for Southampton</Text>
+      <Forenames>Allen Algernon</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>366</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -252,201 +306,46 @@
     <MainItem>
       <Key>Becker</Key>
       <Forenames>Harry Thomas Alfred</Forenames>
-      <Text>, M.P. for Richmond</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>365</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Beckett</Key>
-      <Text>. Sir Gervase William, Bart., M.P for Leeds, N</Text>
+      <Title>Sir</Title>
+      <Forenames>Gervase William</Forenames>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>363</PageNumber>
     </MainItem>
   </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Behari</Key>
-      <Forenames>Lai Dhingra</Forenames>
-      <Text>, M.D., Companion of the Order of the Indian Empire</Text>
-      <PageNumber>5</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Beit</Key>
-      <Title>Sir</Title>
-      <Forenames>Otto John</Forenames>
-      <Text>, K.C.M.G., LL.D. (Hon.), Baronet</Text>
-      <PageNumber>1202</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Belisha</Key>
-      <Forenames>Leslie Hore</Forenames>
-      <Text>, M.P. for Devon port</Text>
-      <PageNumber>365</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Bell</Key>
-      <Title>Major Sir</Title>
-      <Forenames>Arthur Clive Morrison</Forenames>
-      <Text>, see MorrisonBell, Major Sir Arthur Clive. Bellairs, Cdr. Carlyon, M.P. for Maidstone</Text>
-      <PageNumber>362</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Bencraft</Key>
-      <Forenames>Henry William Russell</Forenames>
-      <Text>, L.R.C.P.. (Edin.), M.R.C.S., J.P., Knight</Text>
-      <PageNumber>2</PageNumber>
-      <PageNumber>1922</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Benn</Key>
-      <Title>Sir</Title>
-      <Forenames>Arthur Shirley</Forenames>
-      <Text>, K.B.E., M.P. for Drake</Text>
-      <PageNumber>365</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___ ___</KeyDitto>
-      </Key>
-      <Title>Capt.</Title>
-      <Forenames>Wedgewood</Forenames>
-      <Text>, D.S.O., D.F.C., M.P. for Leith</Text>
-      <PageNumber>369</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Bennett</Key>
-      <Forenames>Andrew Percy</Forenames>
-      <Text>, His Majesty's Envoy and Minister Plenipotentiary to the United States of Venezuela</Text>
-      <PageNumber>44</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Bontinck</Key>
-      <Forenames>Henry Cavendish</Forenames>
-      <Text>, M.P. for Nottingham, S</Text>
-      <PageNumber>364</PageNumber>
-    </MainItem>
-  </ItemGroup>
+  <KeyDitto>___ ___ ___ ___</KeyDitto>
   <ItemGroup>
     <MainItem>
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>William Arthur Henry Cavendish</Forenames>
-      <Text>(Marquess of Titchfield), M.P. for Newark</Text>
-      <PageNumber>364</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Berkeley</Key>
-      <Forenames>Reginald Cheyne</Forenames>
-      <Text>, M.P. for Nottingham Central</Text>
-      <PageNumber>364</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Berry</Key>
-      <Title>Sir</Title>
-      <Forenames>George Andreas</Forenames>
-      <Text>, M.P. for Universities of St. Andrew, Glasgow, Aberdeen and Edinburgh</Text>
-      <PageNumber>369</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Betterton</Key>
-      <Forenames>Henrv Buckna</Forenames>
-      <Text>.II, .M.P. for Rushcliffe</Text>
-      <PageNumber>364</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Bhupendra</Key>
-      <Forenames>Nath Mitra</Forenames>
-      <Text>, CLE., C.B.E., Knight Commander of the Order of the Indian Empire</Text>
-      <PageNumber>5</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Bijay</Key>
-      <Forenames>Chand Mahtab</Forenames>
-      <Text>, Maharajadhiraja Sir. Bahadur, K.O.S.I., K.C.I.E.. T.O.M., Knight Grand Commander of the Order of the Indian Empire</Text>
-      <PageNumber>5</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Bion</Key>
-      <Forenames>Frederick Fleetwood</Forenames>
-      <Text>, Companion of the Order of the Indian Empire</Text>
-      <PageNumber>5</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Birchall</Key>
-      <Forenames>John Dearman</Forenames>
-      <Text>, M.P. for Leeds, N-.E</Text>
-      <PageNumber>363</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Bird</Key>
-      <Title>Sir</Title>
-      <Forenames>Robert Bland</Forenames>
-      <Text>, Bart., M.P. for Wolverhampton, AV</Text>
-      <PageNumber>367</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Birkett</Key>
-      <Text>. AAilIiam Norman, M.P. for Nottingham, E</Text>
-      <PageNumber>364</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Black</Key>
-      <Text>. John Wycliffc, M.P. for Harborough</Text>
-      <PageNumber>363</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Blades</Key>
-      <Title>Sir</Title>
-      <Forenames>George Rowland</Forenames>
-      <Text>, Bart., M.P. for Epsom</Text>
-      <PageNumber>366</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Blakewav</Key>
-      <Title>Lieut.-Col.</Title>
-      <Forenames>Denys Brooke</Forenames>
-      <Text>, CLE.. Knight</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+        <Honour>M.P.</Honour>
+        <Honour>M.P.</Honour>
+        <Honour>M.P.</Honour>
+        <Honour>C.B.E.</Honour>
+        <Honour>K.C.I.E.</Honour>
+        <Honour>O.M.</Honour>
+        <Honour>M.P.</Honour>
+        <Honour>Bart</Honour>
+        <Honour>M.P.</Honour>
+        <Honour>M.P.</Honour>
+        <Honour>M.P.</Honour>
+        <Honour>Bart</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
       <PageNumber>1022</PageNumber>
     </MainItem>
@@ -454,64 +353,18 @@
   <ItemGroup>
     <MainItem>
       <Key>Bland-Sutton</Key>
-      <Text>. Lieut.-Col. Sir John. P.R.C.S.. LL.D.. R.A.M.S. (T.F.). Knight of Grace, Order of St. John of Jerusalem</Text>
-      <PageNumber>1921</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Blanesburgh</Key>
-      <Text>. Rt. Hon. Lord, G.B.E., Chairman of the Royal Commission of Inquiry on Mining Subsidence</Text>
-      <PageNumber>2321</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Blundell</Key>
-      <Forenames>Francis Nicholas</Forenames>
-      <Text>, M.P. for Ormskirk</Text>
-      <PageNumber>362</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Blythswood</Key>
-      <Forenames>Archibald Douglas</Forenames>
-      <Text>, Baron, M.A^.O.. Knight Commander of the Royal Victorian Order</Text>
-      <PageNumber>6</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Bondfield</Key>
-      <Forenames>Margaret Grace</Forenames>
-      <Text>, M.P. for Northampton</Text>
-      <PageNumber>364</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Bonwick</Key>
-      <Forenames>Alfred James</Forenames>
-      <Text>, M.P. 'for Chippenham</Text>
-      <PageNumber>367</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Bosanquet</Key>
-      <Forenames>Vivian Henry Courthope</Forenames>
-      <Text>, H.M. ConsulGeneral at Frankfort-onthe-Main</Text>
-      <PageNumber>2020</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Bowater</Key>
-      <Title>Sir</Title>
-      <Forenames>Thomas Vansittart</Forenames>
-      <Text>, Bart.., M.P. for City of London</Text>
-      <PageNumber>1057</PageNumber>
+      <Title>Lieut.-Col. Sir John.</Title>
+      <Forenames>P.R.C.S.</Forenames>
+      <Text>
+        <Honour>G.B.E.</Honour>
+        <Honour>M.P.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+        <Honour>M.P.</Honour>
+        <Honour>M.P.</Honour>
+        <Honour>Bart</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
+      <PageNumber>5</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -519,239 +372,19 @@
       <Key>Bowerman</Key>
       <Title>Rt. Hon.</Title>
       <Forenames>Charles William</Forenames>
-      <Text>, M.P. for Deptford</Text>
-      <PageNumber>360</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Bowyer</Key>
-      <Title>Captain</Title>
-      <Forenames>George Edward Wentworth</Forenames>
-      <Text>, M.P. for Buckingham</Text>
-      <PageNumber>359</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Boyle</Key>
-      <Forenames>Rear-</Forenames>
-      <Text>Admiral the Hon. Algernon Douglas Edward Harry, C.B., C.M.G., M.A.O., Knight Commander of the Order of the Bath</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+        <Honour>M.P.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
     </MainItem>
   </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Brabant</Key>
-      <Forenames>William Henry</Forenames>
-      <Text>, Member of the Legislative Council of Fiji</Text>
-      <PageNumber>1824</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Brabazon</Key>
-      <Forenames>John Theodore Cuth-</Forenames>
-      <Text>bert Moore, see MooreBrabazon, John Theodore Cut!) bert. Bradnev, Colonel Joseph Alfred, C.B., T.D., Knight</Text>
-      <PageNumber>2</PageNumber>
-      <PageNumber>1922</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Bramsdon</Key>
-      <Title>Sir</Title>
-      <Forenames>Thomas Arthur</Forenames>
-      <Text>, M.P. for Portsmouth Central</Text>
-      <PageNumber>365</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Bramwell</Key>
-      <Forenames>Bvrom</Forenames>
-      <Text>, M.D., LL.D., F.R.C.P., F.R.S.E., Knight</Text>
-      <PageNumber>2</PageNumber>
-    </MainItem>
-    <SubItem>
-      <Text>,</Text>
-      <PageNumber>1922</PageNumber>
-    </SubItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Brass</Key>
-      <Title>William.</Title>
-      <Text>M.P. for Clitheroe</Text>
-      <PageNumber>362</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Brassey</Key>
-      <Text>' Sir Henry Leonard Campbell, Bart., M.P. for Peterborough</Text>
-      <PageNumber>364</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Bremner</Key>
-      <Forenames>Walter Sidney</Forenames>
-      <Text>, Companion of the Order of the Indian Empire</Text>
-      <PageNumber>5</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Briant</Key>
-      <Forenames>Frank</Forenames>
-      <Text>, M.P. for Lambeth, N</Text>
-      <PageNumber>362</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Bridgeman</Key>
-      <Forenames>Caroline Beatrix</Forenames>
-      <Text>, Mrs., Dame Commander, Order of the British Empire</Text>
-      <PageNumber>1263</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___</KeyDitto>
-      </Key>
-      <Title>Rt.</Title>
-      <Forenames>Hon William Clive</Forenames>
-      <Text>, M.P. for Oswestry</Text>
-      <PageNumber>365</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Bridges</Key>
-      <Title>Col.</Title>
-      <Forenames>Arthur Holroyd</Forenames>
-      <Text>, CLE., D.S.O., Companion of the Order of the Bath</Text>
-      <PageNumber>3</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Briscoe</Key>
-      <Text>. Richard George, M.P. for Cambridge, Countv</Text>
-      <PageNumber>359</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Brittain</Key>
-      <Text>. Sir Harrv, K/B.E., M.P. for Acton</Text>
-      <PageNumber>364</PageNumber>
-    </MainItem>
-    <SubItem>
-      <Text>Companion. St. Michael and St. George</Text>
-      <PageNumber>1263</PageNumber>
-    </SubItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Broad</Key>
-      <Forenames>Francis Alfred</Forenames>
-      <Text>. M.P. for Edmonton</Text>
-      <PageNumber>360</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Bromfield</Key>
-      <Text>. AVilliam. M.P. for Leek</Text>
-      <PageNumber>366</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Bromlev</Key>
-      <Text>Davenport. Col. AVilliani, C.B.. C.M.G., C.B.E., D.S.O.. T.D., Knight Commander of the Order of the Bath</Text>
-      <PageNumber>3</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Brooke</Key>
-      <Text>. Captain Basil Vernon, C.V.O., R.N. (Retired), Comptroller and Equerrv to H.R.H. the Duke of York</Text>
-      <PageNumber>1921</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Brown</Key>
-      <Forenames>Alfred Ernest</Forenames>
-      <Text>, M.P. for Rugby</Text>
-      <PageNumber>367</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___</KeyDitto>
-      </Key>
-      <Forenames>James</Forenames>
-      <Text>, M.P. for Ayrshire, S</Text>
-      <PageNumber>368</PageNumber>
-    </MainItem>
-    <SubItem>
-      <Text>H.M. High Commissioner to the Ceneral Assembly of the Church of Scotland</Text>
-      <PageNumber>2607</PageNumber>
-    </SubItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Brunner</Key>
-      <Title>Sir</Title>
-      <Forenames>John Fowler</Forenames>
-      <Text>, M.P. for Southport</Text>
-      <PageNumber>366</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Buchanan</Key>
-      <Text>. George, M.P. for Corbals</Text>
-      <PageNumber>369</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Buckingham</Key>
-      <Text>. Sir Henrv Cecil,. Kt., C.B.E., M.P. for Guildford</Text>
-      <PageNumber>366</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Buckle</Key>
-      <Text>. John, M.P. for Eccles</Text>
-      <PageNumber>360</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Bull</Key>
-      <Forenames>Rt</Forenames>
-      <Text>, Hon. Sir AAHlliam James, Bart., M.P. for Hammersmith. S</Text>
-      <PageNumber>361</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Bullock</Key>
-      <Forenames>Malcolm</Forenames>
-      <Text>, M.P. for Waterloo</Text>
-      <PageNumber>362</PageNumber>
-    </MainItem>
-  </ItemGroup>
+  <KeyDitto>___</KeyDitto>
+  <KeyDitto>___ ___ ___</KeyDitto>
   <ItemGroup>
     <MainItem>
       <Key>
@@ -759,24 +392,17 @@
       </Key>
       <Title>Willoughby.</Title>
       <Forenames>Member</Forenames>
-      <Text>of Legislative Council, Bahama Islands</Text>
-      <PageNumber>1823</PageNumber>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
+      <PageNumber>360</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Burgess</Key>
-      <Forenames>Percy Pierpoint</Forenames>
-      <Text>, Knight of Grace, Order of St. John of Jerusalem</Text>
+    <SubItem>
+      <Text>
+        <PageNumber>3</PageNumber>
+      </Text>
       <PageNumber>1921</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Burnia</Key>
-      <Text>.li. Jolin Bedford, M.P. for Duddeston</Text>
-      <PageNumber>368</PageNumber>
-    </MainItem>
+    </SubItem>
   </ItemGroup>
 </Index>
 

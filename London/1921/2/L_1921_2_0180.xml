@@ -32,7 +32,9 @@
       <Key>MacFarlan</Key>
       <Title>Maj. (temp. Lt.-Col.) (now Lt.-Col.)</Title>
       <Forenames>J. B.</Forenames>
-      <Text>, D.S.O. (rel. temp, rank of Lt.-Col. in T.F., on ceasing to comd. the 1st (Highl.) Med. Bde.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4259</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -41,7 +43,9 @@
       <Key>Macfarlane</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>P. C</Forenames>
-      <Text>, T.D. (retired on completion of tenure of comd., and retains rank of Lt.-Col., with permission to wear prescribed uniform)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>4896</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -92,7 +96,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>K. H.</Forenames>
-      <Text>, M.C. (resigns commn. and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5214</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -128,7 +134,9 @@
       <Key>Mclndoe</Key>
       <Title>Lt.</Title>
       <Forenames>W.</Forenames>
-      <Text>, M.C. (restd. to T.F.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5098</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -206,7 +214,11 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>J.</Forenames>
-      <Text>, M.C., M.B. (Capt., R.A.M.C., Gen. List, late R.A.M.C., S.R.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3266</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -215,7 +227,9 @@
       <Key>Mackay</Key>
       <Title>Capt.</Title>
       <Forenames>R. W.</Forenames>
-      <Text>, O.B.E. (retired, having attained the age limit, and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4260</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -233,7 +247,10 @@
       <Key>MacKelvie</Key>
       <Title>Maj.</Title>
       <Forenames>T.</Forenames>
-      <Text>, C.M.G., T.D. (retired, having attained the age limit, and retains rank of Maj., with permission to wear</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>4616</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -242,7 +259,9 @@
       <Key>Mackenzie</Key>
       <Title>Capt.</Title>
       <Forenames>A.</Forenames>
-      <Text>, O.B.E (R.A.V.C.) (resigns commn,</Text>
+      <Text>
+        <Honour>V.C.</Honour>
+      </Text>
       <PageNumber>3993</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -264,7 +283,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>D.</Forenames>
-      <Text>, M.M. (R. Corps of Signals (corr. of date of</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>2869</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -297,7 +318,9 @@
       <Key>Mackenzie</Key>
       <Title>Capt.</Title>
       <Forenames>L. A.</Forenames>
-      <Text>, M.C.,</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2769</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -314,7 +337,9 @@
       <Key>Mackenzie</Key>
       <Title>Maj.</Title>
       <Forenames>T. G.</Forenames>
-      <Text>, M.C. (trd. to T.F.R., Infy., from 5th Bn., K.O.Y.L.I.), Sub. Not</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4392</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -377,7 +402,9 @@
       <Key>McLaren</Key>
       <Title>Lt.</Title>
       <Forenames>J. A.</Forenames>
-      <Text>, M.C. (resigns commn. and granted rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3647</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -449,7 +476,9 @@
       <Key>McMaster</Key>
       <Title>Maj.</Title>
       <Forenames>W.</Forenames>
-      <Text>, M.C. (Adjt., 5th (Pembroke) Bde.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4902</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -483,14 +512,22 @@
   <ItemGroup>
     <MainItem>
       <Key>Macnair</Key>
-      <Text>Maj. P. S., T.D. (resigns commn. and retains rank of Maj., with permission to wear prescribed uniform)</Text>
+      <Title>Maj.</Title>
+      <Forenames>P. S.</Forenames>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>4902</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>McNeill</Key>
-      <Text>Lt. J., M.C. (Maj., T.F.R., Art., from 4th Lowland Bde.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>J.</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2639</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -546,7 +583,9 @@
       <Key>Macrory</Key>
       <Title>Lt.</Title>
       <Forenames>A. J. C</Forenames>
-      <Text>, M.B.E. (resigns commn. and retains rank of Lt,)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>5097</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -625,7 +664,9 @@
       <Key>Main</Key>
       <Title>Capt. (Capt., ret., T.F.)</Title>
       <Forenames>D. M.</Forenames>
-      <Text>, T.D. (reverts to retd. list, having attained the age limit, and retains rank of Capt., with permission to wear prescribed uniform)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>4621</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -634,7 +675,9 @@
       <Key>Maitland</Key>
       <Title>Maj. (Bt. Lt.-Col.)</Title>
       <Forenames>C. A. S.</Forenames>
-      <Text>, D.S.O. (vacates appt. of Adjt., 9th Bn., A. and S.H.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>2769</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -643,7 +686,11 @@
       <Key>Major</Key>
       <Title>Capt.</Title>
       <Forenames>E. H. Reynolds</Forenames>
-      <Text>, T.D. (See Reynolds-Major, Capt. E. H., T.D.) Malcolm, Maj. A., T.D. (retired, having attained the age limit, and retains rank of Maj., with permission to wear prescribed uniform) .:</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+        <Honour>T.D.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>4175</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -670,7 +717,10 @@
       <Key>Manning</Key>
       <Title>Maj.</Title>
       <Forenames>N. S.</Forenames>
-      <Text>, O.B.E., T.D. (resigns commn. and retains rank of Maj., .with permission to wear prescribed uniform)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>3255</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -728,7 +778,10 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>W. F.</Forenames>
-      <Text>, O.B.E., T.D. (retired, having attained the age limit, and retains rank of Capt., with permission to wear prescribed uniform)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>4526</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -737,7 +790,9 @@
       <Key>Margetson</Key>
       <Title>Lt.</Title>
       <Forenames>E.</Forenames>
-      <Text>, M.C. (resigns rank of Lt. granted in Gaz. of 23rd Nov., 1920)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3377</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -781,7 +836,9 @@
       <Key>Marryat</Key>
       <Title>Maj. (temp. Lt.-Col.)</Title>
       <Forenames>R.</Forenames>
-      <Text>, D.S.O. (rel. temp, rank of Lt.Col. in T.F. on ceasing to commd. 64th (Lond.) Bde. R.F.A.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3376</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -811,7 +868,9 @@
       </Key>
       <Title>Kt.</Title>
       <Forenames>G. D.</Forenames>
-      <Text>, M.C. (resigns commn. and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2882</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -831,7 +890,10 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>F. D.</Forenames>
-      <Text>, M.C. (trd. to R.A.M.C., Gen, List, from 1st S. General Hosp.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3367</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -883,7 +945,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>J. W.</Forenames>
-      <Text>, T.D. (resigns commn. at his own request)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>3923</PageNumber>
     </MainItem>
   </ItemGroup>

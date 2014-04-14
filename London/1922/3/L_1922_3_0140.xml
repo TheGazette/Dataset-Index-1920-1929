@@ -124,7 +124,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>L. F. G. S.</Forenames>
-      <Text>, O.B.E. (temp. Lt.-Col. without pay, allces. or. gratuity of that rank while Cont. of Mil. Accts.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>5040</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -185,7 +187,11 @@
       <Key>Younghnsband</Key>
       <Title>Maj.-Gen. (ret.) Sir</Title>
       <Forenames>G. J.</Forenames>
-      <Text>, K.C.M.G., K.C.I.E., C.B. (granted Good Service Pension)</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>K.C.I.E.</Honour>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>6320</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -229,7 +235,9 @@
       <Key>Zra</Key>
       <Title>Lt.</Title>
       <Forenames>E. E.</Forenames>
-      <Text>, M.B.E. (resigns commn. and granted rank of Capt.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>6316</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -291,7 +299,9 @@
       <Key>Barker</Key>
       <Title>Capt.</Title>
       <Forenames>H. L.</Forenames>
-      <Text>, M.D. (trd. to temp, non-effective list)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>5209</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -316,7 +326,9 @@
     <MainItem>
       <Key>Bharat</Key>
       <Forenames>Chandra Ghosh</Forenames>
-      <Text>, F.R.C.S., Capt. (rel. temp, commn.)</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>5041</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -325,7 +337,10 @@
       <Key>Bharucha</Key>
       <Title>Capt.</Title>
       <Forenames>P. B.</Forenames>
-      <Text>, D.S.O., O.B.E., F.R:C.S. (actg. Lt.Col. while comdg. an Ind. Gen. Hosp.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>5972</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -366,7 +381,9 @@
       <Key>Courtney</Key>
       <Title>Sen. Asst.</Title>
       <Forenames>Surg</Forenames>
-      <Text>, and Maj. M., I.S.O. (retirement)</Text>
+      <Text>
+        <Honour>I.S.O</Honour>
+      </Text>
       <PageNumber>5870</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -431,14 +448,28 @@
       <Key>Davis</Key>
       <Title>Capt.</Title>
       <Forenames>C. Newton</Forenames>
-      <Text>, M.C, M.B., see Newton-Davis, Capt. C, M.C., M.B. de Silva, Capt. Appu Hennedige Theodore (rel. temp, commn. and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6101</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Souza</Key>
+      <Forenames>Joseph Francis</Forenames>
+      <Text>(granted rank of Capt. on retirement)</Text>
+      <PageNumber>5624</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Dick</Key>
-      <Text>Capt. A. McD., O.B.E., M.B., F:R.C.S. (date of promn. to Maj.)</Text>
+      <Title>Capt.</Title>
+      <Forenames>A.</Forenames>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>5283</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -540,7 +571,7 @@
       <PageNumber>5041</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Granted rank of Capt. on retirement ,</Text>
+      <Text>Granted rank of Capt. on retirement ,.</Text>
       <PageNumber>6101</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -578,7 +609,9 @@
       <Key>Granger</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>T. A.</Forenames>
-      <Text>, C.M.G., M.B. (Col.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>5625</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -596,7 +629,10 @@
       <Key>Hamilton</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>J. A.</Forenames>
-      <Text>, C.M.G., D.S.O., F.R.C.S.E. (retirement)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5870</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -643,7 +679,9 @@
       <Key>Hughes</Key>
       <Title>Capt. (Bt. Maj.)</Title>
       <Forenames>T. A.</Forenames>
-      <Text>, M.D. {Maj.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>5972</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -652,7 +690,11 @@
       <Key>Hugo</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>E. V.</Forenames>
-      <Text>, C.M.G., M.D., F.R.C.S. (retirement)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>M.D.</Honour>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>5437</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -716,14 +758,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Jollv</Key>
-      <Text>Maj. G. A., M.B., F.R.C.S.E. (Lt.-Col.)</Text>
+      <Title>Maj.</Title>
+      <Forenames>G. A.</Forenames>
+      <Text>, M.B., F.R.C.S.E. (Lt.-Col.)</Text>
       <PageNumber>6715</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Khatanmal</Key>
-      <Text>Teckchand Thadani, Capt. (rel. temp, commn. and retains rank of Capt.)</Text>
+      <Forenames>Teckchand Thadani</Forenames>
+      <Text>, Capt. (rel. temp, commn. and retains rank of Capt.)</Text>
       <PageNumber>5437</PageNumber>
     </MainItem>
   </ItemGroup>

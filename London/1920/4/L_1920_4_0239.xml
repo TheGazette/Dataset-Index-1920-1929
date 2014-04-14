@@ -71,7 +71,9 @@
       <Key>Pickthom</Key>
       <Title>Lt.</Title>
       <Forenames>C. E. M.</Forenames>
-      <Text>, M.C. (rel. commn., and retains rank of Lt.) :</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9871</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -87,7 +89,9 @@
       <Key>Picton</Key>
       <Title>Col.</Title>
       <Forenames>R. E.</Forenames>
-      <Text>, C.B.E. (retires on an Indian pension, having reached the age fixed for compulsory retirement)</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>12697</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -103,7 +107,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>temp: Lt: H. J., M.C. (rel. commn. on completion of service, and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10938</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -153,7 +159,10 @@
       <Key>Pidsley</Key>
       <Title>Capt.</Title>
       <Forenames>W. G.</Forenames>
-      <Text>, D.S.O., M.C. (Lt., and retains staff and graded appt. as G.S.O., 3rd Gr., from 21st Lond. R., T.F.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>12265</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -191,7 +200,9 @@
       <Key>Pierson</Key>
       <Title>Capt.</Title>
       <Forenames>J. E. M.</Forenames>
-      <Text>, M.C. (rel. commn. and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>12373</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -309,7 +320,9 @@
       <Key>Pike</Key>
       <Title>temp. Capt.</Title>
       <Forenames>A. J.</Forenames>
-      <Text>, M.C. (rel. commn. on completion of service and retains . rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>11201</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -389,7 +402,9 @@
       <Key>Pilcher</Key>
       <Title>Lt.</Title>
       <Forenames>A. H.</Forenames>
-      <Text>, M.C. (rel. commn. and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>11767</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -511,7 +526,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Piillers</Key>
-      <Text>temp. Capt. A. W. N., F.R.C.V.S. (rel. oommn. on completion of service and. retains rank of Capt.)</Text>
+      <Title>temp. Capt.</Title>
+      <Forenames>A. W. N.</Forenames>
+      <Text>, F.R.C.V.S. (rel. oommn. on completion of service and. retains rank of Capt.)</Text>
       <PageNumber>11563</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -520,7 +537,9 @@
       <Key>Pilling</Key>
       <Title>Lt.</Title>
       <Forenames>J. L.</Forenames>
-      <Text>, M.C. (rel. commn. and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>11784</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -536,7 +555,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Pinoher</Key>
-      <Text>Lt. R. C. (temp. Capt. whilst Asst. Supt., Physical Trg.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>R. C.</Forenames>
+      <Text>(temp. Capt. whilst Asst. Supt., Physical Trg.)</Text>
       <PageNumber>10263</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -578,7 +599,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>H. S.</Forenames>
-      <Text>(Bt. Maj.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>11777</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -792,7 +815,9 @@
       <Key>Pirrie</Key>
       <Title>temp. Capt.</Title>
       <Forenames>Robert R.</Forenames>
-      <Text>, M.D. (rel. commri. and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>10365</PageNumber>
     </MainItem>
     <SubItem>
@@ -821,7 +846,9 @@
       <Key>Pitbouse</Key>
       <Title>temp. Lt.</Title>
       <Forenames>W.</Forenames>
-      <Text>. M.C. (rel. commn. on completion of service and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>11203</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -830,14 +857,20 @@
       <Key>Pitkeathlv</Key>
       <Title>temp. Maj.</Title>
       <Forenames>J. S.</Forenames>
-      <Text>, C.V.O., C.B.E.. D.S.O. (temp. Col. whilst Dep. Dir. of Works in India)</Text>
+      <Text>
+        <Honour>C.V.O.</Honour>
+        <Honour>C.B.E.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>11577</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Pitman</Key>
-      <Text>Lt.-Col. A. C. (h.p. list, retires on ret. pay)</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>A. C.</Forenames>
+      <Text>(h.p. list, retires on ret. pay)</Text>
       <PageNumber>12697</PageNumber>
     </MainItem>
   </ItemGroup>

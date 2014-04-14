@@ -72,7 +72,9 @@
     <MainItem>
       <Key>Burn</Key>
       <Forenames>E. M.</Forenames>
-      <Text>, O.B.E., V.D</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>376</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -164,8 +166,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Berrill</Key>
-      <Forenames>C. St</Forenames>
-      <Text>. J. (retains rank of Lt.)</Text>
+      <Forenames>C. St. J</Forenames>
+      <Text>. (retains rank of Lt.)</Text>
       <PageNumber>1832</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -382,7 +384,9 @@
     <MainItem>
       <Key>Finnis</Key>
       <Forenames>G. H.</Forenames>
-      <Text>, C.B.E. (temp, whilst holding appt. as officiating Presidency Port Offr., Madras)</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>174</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -398,7 +402,9 @@
     <MainItem>
       <Key>La</Key>
       <Forenames>Touche</Forenames>
-      <Text>, Capt, G. H. S., O.B.E</Text>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>2622</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -498,7 +504,9 @@
       <Key>Campbell</Key>
       <Title>Gen. Sir</Title>
       <Forenames>Frederick</Forenames>
-      <Text>, K.C.B., D.S.O</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+      </Text>
       <PageNumber>731</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -506,7 +514,9 @@
     <MainItem>
       <Key>Stewart</Key>
       <Title>Maj.</Title>
-      <Text>Gen. sir J. M., K.C.M.G., C.B</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+      </Text>
       <PageNumber>1832</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -517,7 +527,9 @@
     <MainItem>
       <Key>Waller</Key>
       <Forenames>Arthur Craig</Forenames>
-      <Text>, C.B. (at own request)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>2517</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -534,7 +546,9 @@
     <MainItem>
       <Key>McLaurin</Key>
       <Forenames>John</Forenames>
-      <Text>, C.B</Text>
+      <Text>
+        <Honour>C.B</Honour>
+      </Text>
       <PageNumber>1201</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -543,7 +557,9 @@
     <MainItem>
       <Key>Beckett</Key>
       <Forenames>William H.</Forenames>
-      <Text>, C.B</Text>
+      <Text>
+        <Honour>C.B</Honour>
+      </Text>
       <PageNumber>284</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -551,7 +567,9 @@
     <MainItem>
       <Key>Grant</Key>
       <Forenames>Arthur R.</Forenames>
-      <Text>, C.B.E. (at own request) .„</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>963</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -568,7 +586,9 @@
     <MainItem>
       <Key>Underhill</Key>
       <Title>Geo.</Title>
-      <Text>, D.S.C. (on aco. of -</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>172</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -577,7 +597,10 @@
     <MainItem>
       <Key>Coode</Key>
       <Forenames>Charles P. R.</Forenames>
-      <Text>, C.B., D.S.O. (at own request)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>2138</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -585,7 +608,9 @@
     <MainItem>
       <Key>Gregory</Key>
       <Forenames>Ernest F.</Forenames>
-      <Text>, C.B.E. (at own request)</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>284</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -641,7 +666,9 @@
     <MainItem>
       <Key>Kitching</Key>
       <Forenames>Henry W.</Forenames>
-      <Text>, D.S.O. (at own request)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1831</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -665,7 +692,9 @@
     <MainItem>
       <Key>Saunders</Key>
       <Forenames>Alfred</Forenames>
-      <Text>, D.S.O. (at own request) ... „</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>642</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -701,7 +730,9 @@
       <Key>Cochrane</Key>
       <Title>the Hon.</Title>
       <Forenames>Archibald D.</Forenames>
-      <Text>, D.S.O. (at own request)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1610</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -716,14 +747,19 @@
   <ItemGroup>
     <MainItem>
       <Key>Harris-St</Key>
-      <Text>. John, Raymond J., D.S.O, (at own request)</Text>
+      <Forenames>John</Forenames>
+      <Text>, Raymond J., D.S.O, (at own request)</Text>
       <PageNumber>284</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>. John, Raymond J. Harris, D.S.O., see Harris-St.-John, Raymond J., D.S.O. Tennyson, Sydney H. (at own request)</Text>
+      <Forenames>John</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1831</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -738,7 +774,9 @@
     <MainItem>
       <Key>Way</Key>
       <Forenames>Robert L.</Forenames>
-      <Text>, O.B.E</Text>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>2434</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -840,7 +878,10 @@
     <MainItem>
       <Key>Harman</Key>
       <Forenames>Robert D.</Forenames>
-      <Text>King, D.S.C.,see King-Harman, Robert D., D.S.C. Hill, Laurence B</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>1414</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -848,7 +889,9 @@
     <MainItem>
       <Key>Hooper</Key>
       <Forenames>Geoffrey W. W.</Forenames>
-      <Text>, O.B.E</Text>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>1414</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -870,7 +913,9 @@
     <MainItem>
       <Key>King-Harman</Key>
       <Forenames>Robert D.</Forenames>
-      <Text>, D.S.C</Text>
+      <Text>
+        <Honour>D.S.C</Honour>
+      </Text>
       <PageNumber>1414</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -923,7 +968,9 @@
     <MainItem>
       <Key>Mackness</Key>
       <Forenames>George J.</Forenames>
-      <Text>, D.S.C</Text>
+      <Text>
+        <Honour>D.S.C</Honour>
+      </Text>
       <PageNumber>2603</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -968,7 +1015,9 @@
     <MainItem>
       <Key>Studd</Key>
       <Forenames>Ronald G.</Forenames>
-      <Text>, D.S.O. (at own request) .„</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>642</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -985,7 +1034,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Knox</Key>
-      <Text>RobertG., O.B.E. .„</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>839</PageNumber>
     </MainItem>
   </ItemGroup>

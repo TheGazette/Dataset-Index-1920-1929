@@ -134,7 +134,9 @@
       <Key>Henderson-Scott</Key>
       <Title>Capt. and Bt. Maj.</Title>
       <Forenames>A. M.</Forenames>
-      <Text>, C.B.E. (retires on ret. pay and granted rank of Lt.-Col.)</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>616</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -256,7 +258,10 @@
       <Key>Heneage</Key>
       <Title>Maj. (ret. pay)</Title>
       <Forenames>G. C. W.</Forenames>
-      <Text>, D.S.O., M.V.O. (ceases to belong to Res. of Off., having attained the age limit of liability to recall)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>123</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -276,7 +281,10 @@
       <Key>Henley</Key>
       <Title>Capt. (Bt. Col.) (Hon. Brig.-Gen.) (Capt. and Bt. Col. ret pay) The Hon.</Title>
       <Forenames>A. M.</Forenames>
-      <Text>, C.M.G., D.S.O. (Col. Reg. Army Res. of Off., Gen. List, from 5th L., and retains hon. rank of Brig.-Gen.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1796</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -452,7 +460,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Henstridge</Key>
-      <Text>. temp. Qrmr. and Capt. H. J. (rel. commn. on completion of service and retains rank of Capt.)</Text>
+      <Title>temp. Qrmr. and Capt.</Title>
+      <Forenames>H. J.</Forenames>
+      <Text>(rel. commn. on completion of service and retains rank of Capt.)</Text>
       <PageNumber>539</PageNumber>
     </MainItem>
   </ItemGroup>

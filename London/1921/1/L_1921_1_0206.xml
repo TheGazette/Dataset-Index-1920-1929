@@ -19,7 +19,9 @@
     <MainItem>
       <Key>Day</Key>
       <Title>Lt.</Title>
-      <Text>CP. (trd. to 6th Bn., N. Staffordshire R., late M.G.C.)</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>766</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -30,7 +32,9 @@
       </Key>
       <Title>Lt.-Col.</Title>
       <Forenames>C. R. L.</Forenames>
-      <Text>, T.D. (trd. to ' T.F.R. Infy., from 6th Bn., Hampshire R.)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>2376</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -55,21 +59,79 @@
       <Text>(resigns commn. at his own request)</Text>
       <PageNumber>1547</PageNumber>
     </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Cologan</Key>
+      <Title>Maj.</Title>
+      <Forenames>A. T. B.</Forenames>
+      <Text>(trd. to T.F.R. Infy., from 5th Bn., Lond. R.)</Text>
+      <PageNumber>1253</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Courcy</Key>
+      <Title>2nd Lt.</Title>
+      <Forenames>Charles</Forenames>
+      <Text>(Lt.)</Text>
+      <PageNumber>21</PageNumber>
+    </MainItem>
     <SubItem>
       <Text>Trd. to 42nd (East Lanes) Divl. Ord. Co., from 9th Bn., Manch. R</Text>
       <PageNumber>554</PageNumber>
     </SubItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Frece</Key>
+      <Title>Sir</Title>
+      <Forenames>Walter</Forenames>
+      <Text>, Kt. (Hon. Col.)</Text>
+      <PageNumber>1775</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Glanville</Key>
+      <Title>Capt.</Title>
+      <Forenames>Lionel Richard Gethin</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
+      <PageNumber>22</PageNumber>
+    </MainItem>
     <SubItem>
-      <Text>Lt., R.A.M.C., Gen. List, and rel. rank of Capt., corr. of surname (Sub. ' NotJ</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>348</PageNumber>
     </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>La Mare</Forenames>
+      <Key>De La</Key>
+      <Forenames>Mare</Forenames>
       <Text>, Maj. L. S. (Lt.-Col., T.F.R. Infy.)</Text>
       <PageNumber>1539</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Mauny</Key>
+      <Title>Lt.</Title>
+      <Forenames>L. J.</Forenames>
+      <Text>(trd. to T.F;R. Infy., from 5th Bn., Foresters)</Text>
+      <PageNumber>1548</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Pass</Key>
+      <Title>Lt.</Title>
+      <Forenames>R. D.</Forenames>
+      <Text>(resigns commn. in T.F., on appt. to temp, commn. in Ind. Army and retains rank of Lt.)</Text>
+      <PageNumber>1263</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -144,7 +206,9 @@
       <Key>Deedes</Key>
       <Title>Capt.</Title>
       <Forenames>J. G.</Forenames>
-      <Text>, M.B.E. (Adjt. 47th (London) Divl. Sigs., from Adjt., R.E., T.F.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>1045</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -162,7 +226,9 @@
       <Key>Demel</Key>
       <Title>Lt.</Title>
       <Forenames>W. H.</Forenames>
-      <Text>, D.F.C. (restd. to unit)</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>1970</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -239,7 +305,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>H. W.</Forenames>
-      <Text>, M.C. (Capt., T.F.R. Infy.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>148</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -279,7 +347,9 @@
       <Key>Denny</Key>
       <Title>Maj.</Title>
       <Forenames>A. C</Forenames>
-      <Text>, T.D. (Lt.-Col., T.F.R. Infy., from 9th Bn., A. and S.H.)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>1653</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -323,7 +393,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>W. B. V.</Forenames>
-      <Text>, M.B.E. (resigns commn. and granted rank of Maj.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>767</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -340,7 +412,11 @@
     <MainItem>
       <Key>Derby</Key>
       <Title>Hon. Col.</Title>
-      <Text>the Rt. Hon. E. . G. V., The Earl of, K.G., G.C.B., G.C.V.O. (Hon. Col., Lanes and Cheshire)</Text>
+      <Text>
+        <Honour>K.G.</Honour>
+        <Honour>G.C.B.</Honour>
+        <Honour>G.C.V.O.</Honour>
+      </Text>
       <PageNumber>1652</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -364,7 +440,9 @@
       <Key>Desmond</Key>
       <Title>Lt.</Title>
       <Forenames>Arthur Edward</Forenames>
-      <Text>, M.B.E. (trd. to 47th (London) Divl. Sigs., from R.E., T.F.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>756</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -373,7 +451,9 @@
       <Key>Deverell</Key>
       <Title>Capt.</Title>
       <Forenames>F.</Forenames>
-      <Text>, M.C. (resigns commn. and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>542</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -444,7 +524,9 @@
       <Key>Dewhurst</Key>
       <Title>Capt.</Title>
       <Forenames>R. C</Forenames>
-      <Text>, M.C. (trd. to 6th Bn., Manch. R., late Gen. List)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>274</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -473,7 +555,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>H. T. L.</Forenames>
-      <Text>, M.C. (resigns commn. and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>21</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -533,7 +617,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>J. W. T.</Forenames>
-      <Text>, M.C. (resigns commn. and granted rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>775</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -617,7 +703,9 @@
       </Key>
       <Title>Qrmr. and Capt.</Title>
       <Forenames>J</Forenames>
-      <Text>; E., T.D. (retires having' attained the aee limit for retirement and retains rank)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>1136</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -781,7 +869,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>T.</Forenames>
-      <Text>, M.C. (trd. from 5th Bn., to 4th Bn., King's Own R.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2385</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -800,7 +890,9 @@
       <Key>Dobson</Key>
       <Title>Lt.</Title>
       <Forenames>J.</Forenames>
-      <Text>, M.C. (Cameronians) (resigns commn. and granted rank of Capt.) :</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>756</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -837,7 +929,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>R. W.</Forenames>
-      <Text>, M.C. (resigns commn. and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2180</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -857,7 +951,9 @@
       <Key>Dockerv</Key>
       <Title>2nd Lt.</Title>
       <Forenames>J. C</Forenames>
-      <Text>, M.M. (Lt.)</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>776</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -903,7 +999,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>W. T.</Forenames>
-      <Text>. D.S.O. (trd. to 2nd Western Corps Sigs., A.T., from R.E.. T.F.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>2169</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -928,7 +1026,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Dolben</Key>
-      <Text>. Lt. A. C. (resigns commn. and retains rank of Lt.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>A. C.</Forenames>
+      <Text>(resigns commn. and retains rank of Lt.)</Text>
       <PageNumber>1146</PageNumber>
     </MainItem>
   </ItemGroup>

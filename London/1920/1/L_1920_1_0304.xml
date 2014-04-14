@@ -27,7 +27,9 @@
       </Key>
       <Title>temp. Lt. (actg. Capt.)</Title>
       <Forenames>P. L.</Forenames>
-      <Text>, M.C. (actg. Maj. comdg. a Batt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>669</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -75,7 +77,9 @@
       </Key>
       <Title>temp. 2nd Lt.</Title>
       <Forenames>R. A.</Forenames>
-      <Text>, M.C. (R. Fus.) (temp. Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2328</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -358,7 +362,9 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>W. F.</Forenames>
-      <Text>, M.C. (actg. Capt. comdg. a Co., A. of O.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3397</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -376,7 +382,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Jo</Key>
-      <Text>ies, Lt.-Col. W. Howel, C.M.G., D.S.O. (R.G.A.) (retires on ret. pay)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1190</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -409,7 +418,9 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>W. J.</Forenames>
-      <Text>(K.R.R.C.) (rel. commn. on completion of service and retains rank ofLt.)</Text>
+      <Text>
+        <Honour>R.R.C.</Honour>
+      </Text>
       <PageNumber>151</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -567,7 +578,7 @@
       <PageNumber>1536</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Rel. commn. on completion of service and granted rank of Capt</Text>
+      <Text>Rel. commn. on completion of service and granted rank of Capt.</Text>
       <PageNumber>1536</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -609,7 +620,9 @@
       <Key>Jordeson</Key>
       <Title>Lt.</Title>
       <Forenames>J. H.</Forenames>
-      <Text>, M.C. (restd. to estabt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1775</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -649,7 +662,9 @@
       <Key>Joslen</Key>
       <Title>temp. Capt.</Title>
       <Forenames>H.</Forenames>
-      <Text>, M.D. (Not. in Gaz., 26th November, 1919, cancelled)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>910</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -684,7 +699,7 @@
       <PageNumber>670</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Corr. of date of promn. to Lt</Text>
+      <Text>Corr. of date of promn. to Lt.</Text>
       <PageNumber>816</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -704,7 +719,9 @@
       <Key>Jourdain</Key>
       <Title>Maj.</Title>
       <Forenames>H. F. N.</Forenames>
-      <Text>, C.M.G. (Lt.-Col.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>3509</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -733,8 +750,10 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Title>temp. Capt. (Lt., E. Afr. Mtd. Rif.)</Title>
-      <Forenames>F. H.</Forenames>
-      <Text>de V., M.C. (rel. commn. on completion of service and granted rank of Maj.), Sub. Not</Text>
+      <Forenames>F. H. de V</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>314</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -778,7 +797,10 @@
       </Key>
       <Title>temp. Maj.</Title>
       <Forenames>J.</Forenames>
-      <Text>,. D.S.O., M.C. (actg. Lt.-Col. comdg. a Bn.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>691</PageNumber>
     </MainItem>
     <SubItem>
@@ -831,7 +853,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>L.</Forenames>
-      <Text>, M.C. (resigns commn. and granted rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3622</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -950,7 +974,10 @@
       <Key>Karslake</Key>
       <Title>Bt. Col.</Title>
       <Forenames>H.</Forenames>
-      <Text>, C.M.G., D. S.O. (temp. Lt.-Col. whilst a G.S.O., 1st Gr.), Sub. Not</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D. S.O.</Honour>
+      </Text>
       <PageNumber>3422</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -971,7 +998,12 @@
     <MainItem>
       <Key>Kavanagh</Key>
       <Title>Ma.</Title>
-      <Text>-Gen. Sir C. T. McM., K.C.B., K.C.M.G., C.V.O., D.S.O. (retires on ret. pay and granted Hon. rank of Lt.-Gen.)</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>C.V.O.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3735</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -982,7 +1014,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>H. R.</Forenames>
-      <Text>, M.B.E. (seed. for service with R.A.F.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>2045</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -31,7 +31,7 @@
       <PageNumber>4446</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Resigns commn., and re tains rank of Lt</Text>
+      <Text>Resigns commn., and re tains rank of Lt.</Text>
       <PageNumber>5818</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -133,7 +133,10 @@
       </Key>
       <Title>Lt.-Col. the Hon.</Title>
       <Forenames>R.</Forenames>
-      <Text>H-, C.M.G., D.S.O. (retires on ret. pay</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5207</PageNumber>
     </MainItem>
     <SubItem>
@@ -168,7 +171,10 @@
       <Key>Collinson</Key>
       <Title>Lt.</Title>
       <Forenames>E. H.</Forenames>
-      <Text>, M.C. (rel. actg. rank of Maj. on ceasing to comd. a Co., M.G.C., Infy.), Sub. Not</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>6983</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -188,7 +194,9 @@
       <Key>Collas</Key>
       <Title>2nd Lt.</Title>
       <Forenames>H. C. C</Forenames>
-      <Text>, M.C. (Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4028</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -219,7 +227,9 @@
       <Key>Collison</Key>
       <Title>Lt.-Col. (Bt. Col.)</Title>
       <Forenames>C. S.</Forenames>
-      <Text>, D.S.O. (Col., Spec. Res. of Offrs.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5818</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -227,7 +237,9 @@
     <MainItem>
       <Key>Collisson</Key>
       <Forenames>V. L.</Forenames>
-      <Text>, O.B.E. (rel. relative precedence as Maj.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>6980</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -349,7 +361,9 @@
       <Key>
         <KeyDitto>___ ___ —</KeyDitto>
       </Key>
-      <Text>^___ ___ Capt. J. C, D.S.O. (Maj.Gen., Res. of Offrs.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4674</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -388,7 +402,12 @@
     <MainItem>
       <Key>Colston</Key>
       <Title>Maj.</Title>
-      <Text>and Bt, Lt.-Col. the Hon. E. M., C.M.G., D.S.O., M.V.O. (Lt.-Col.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>5816</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -429,7 +448,7 @@
       <PageNumber>6965</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Rel. commn. on completion of service and retains rank of lit</Text>
+      <Text>Rel. commn. on completion of service and retains rank of lit.</Text>
       <PageNumber>5438</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -449,14 +468,18 @@
       <Key>Colvile</Key>
       <Title>Maj.</Title>
       <Forenames>A. M.</Forenames>
-      <Text>, D.S.O. (Tel. actg. rank of I.-t.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5558</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Colville</Key>
-      <Text>-&gt;±aj. and Hon. Brig.-Gen. G. N., D.S.O. (Lt.-Col., Gen. Res. of Offrs.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6156</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -496,7 +519,11 @@
       <Key>Oomlbs</Key>
       <Title>Capt.</Title>
       <Forenames>H. V.</Forenames>
-      <Text>, D.S.O., M.C. (rel. temp, rank of Maj. on ceasing to be empld. with M.G.C., Infy.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>6565</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -505,7 +532,9 @@
       <Key>Comins</Key>
       <Title>Capt.</Title>
       <Forenames>D.</Forenames>
-      <Text>M.C. (placed temip. on h.p. list on acc. of ill-healith caused by wounds)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4958</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -513,7 +542,9 @@
     <MainItem>
       <Key>Oomimon</Key>
       <Title>temp. Lt.</Title>
-      <Text>j. E., M.C. (actg. Capt. comdg. a Co. A. of O.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4566</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -531,7 +562,9 @@
       <Key>Comyn</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>E. W.</Forenames>
-      <Text>, O.M.G., D.S.O. (retires on ret. pay)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5194</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -567,7 +600,9 @@
       <Key>Condon</Key>
       <Title>temp. Maj.</Title>
       <Forenames>G. H. E.</Forenames>
-      <Text>, O.B.E. (rel. commn. on completion of stsrvice.and retains rank of &lt;Maj.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>5924</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -577,7 +612,9 @@
         <KeyDitto>___</KeyDitto>
       </Key>
       <Forenames>U. J. E. S.</Forenames>
-      <Text>, M.C. (rel. commn. and granted rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6309</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -605,7 +642,9 @@
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Conibeer</Forenames>
-      <Text>, temp. 2nd Lt. R. W„ . M.C. (rel. commn. on acc. of ill-health caused 'by wounds and retains rank of 2nd Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5458</PageNumber>
     </MainItem>
     <SubItem>
@@ -668,7 +707,7 @@
       <PageNumber>5207</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Retires, receiving a giraftuity, and 'granted rank of Capt</Text>
+      <Text>Retires, receiving a giraftuity, and 'granted rank of Capt.</Text>
       <PageNumber>6415</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -719,7 +758,7 @@
       <PageNumber>5575</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>Lt., Stub. Not</Text>
+      <Text>Lt., Stub. Not.</Text>
       <PageNumber>5351</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -730,7 +769,9 @@
       </Key>
       <Title>Lt.-Col. and Bt.</Title>
       <Forenames>Col J. C</Forenames>
-      <Text>, C.M.G., M-B. (rel. actg. rank of Col.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>5572</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -768,11 +809,13 @@
       <Key>Considine</Key>
       <Title>temp. Lt.</Title>
       <Forenames>A. E.</Forenames>
-      <Text>„ M.C. (rel. aotg. rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4211</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Rel. commn. on completion! of service and granted rank of Capt</Text>
+      <Text>Rel. commn. on completion! of service and granted rank of Capt.</Text>
       <PageNumber>5714</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -856,14 +899,18 @@
       <Key>Ooogan</Key>
       <Title>Lt.</Title>
       <Forenames>M.</Forenames>
-      <Text>, M.C. (rel. commn,, and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6419</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Cook</Key>
-      <Text>temp. Capt. (Lt., T.F. Res.) A. E., M.C (rel. temp, commn. on ceasins; to be empld.)</Text>
+      <Title>temp. Capt. (Lt., T.F. Res.)</Title>
+      <Forenames>A. E.</Forenames>
+      <Text>, M.C (rel. temp, commn. on ceasins; to be empld.)</Text>
       <PageNumber>4206</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -885,7 +932,9 @@
       </Key>
       <Title>temp. Capt.</Title>
       <Forenames>B. W.</Forenames>
-      <Text>, M.C. (rel. oommn. on completion . s of service and granited rank of Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5559</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -28,14 +28,17 @@
     <MainItem>
       <Key>Roberto</Key>
       <Forenames>F. C</Forenames>
-      <Text>, M.C. '(Capt,)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>987</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Robertson</Key>
-      <Text>. A. L. (Lt,)</Text>
+      <Forenames>A. L.</Forenames>
+      <Text>(Lt,)</Text>
       <PageNumber>1267</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -102,8 +105,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rundlett</Key>
-      <Forenames>L. St</Forenames>
-      <Text>. O. '(Lt.)</Text>
+      <Forenames>L. St. O</Forenames>
+      <Text>. '(Lt.)</Text>
       <PageNumber>3679</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -132,8 +135,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. Jdhin, S. L. (temp. 2nd Lt.)</Text>
+      <Key>St. Jdhin</Key>
+      <Forenames>S. L.</Forenames>
+      <Text>(temp. 2nd Lt.)</Text>
       <PageNumber>206</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -182,7 +186,9 @@
     <MainItem>
       <Key>Scott</Key>
       <Forenames>E. A.</Forenames>
-      <Text>, O.B.E. (Lt.) Searle, H. F. (rel. actg. rank of Capt.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>566</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -299,7 +305,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Slatter</Key>
-      <Text>. C. B. {Lt,) Smart, 2nd Lt. K. de IB. (resigns in consequence of ill-health, corr.), Sub. Not</Text>
+      <Forenames>C. B.</Forenames>
+      <Text>{Lt,) Smart, 2nd Lt. K. de IB. (resigns in consequence of ill-health, corr.), Sub. Not</Text>
       <PageNumber>2476</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -990,7 +997,9 @@
     <MainItem>
       <Key>Wigley</Key>
       <Forenames>A.</Forenames>
-      <Text>M.C. '(Oa.pt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1105</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1185,7 +1194,10 @@
     <MainItem>
       <Key>Hehir</Key>
       <Forenames>P.</Forenames>
-      <Text>, CJB., C.M.G., CLE., M.D., FJRC.S. Edin</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>1699</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1194,7 +1206,9 @@
     <MainItem>
       <Key>Foulkes</Key>
       <Forenames>T. H.</Forenames>
-      <Text>, F.R.C.S. (whilst Asst Dir., Med. Servs.)</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>988</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1202,7 +1216,10 @@
     <MainItem>
       <Key>Kennedy</Key>
       <Forenames>R.</Forenames>
-      <Text>D.S.O., M.C</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>2076</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1227,7 +1244,10 @@
     <MainItem>
       <Key>Goppinger</Key>
       <Forenames>W. V.</Forenames>
-      <Text>, D.S.O., M.D., F.R.O.SJ</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3315</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1243,7 +1263,9 @@
     <MainItem>
       <Key>Godkin</Key>
       <Forenames>S. R.</Forenames>
-      <Text>, D.S.O., F.R.C.S.I</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3315</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1282,7 +1304,9 @@
     <MainItem>
       <Key>Keys</Key>
       <Forenames>W. D. A.</Forenames>
-      <Text>, C.LiE., M.D</Text>
+      <Text>
+        <Honour>M.D</Honour>
+      </Text>
       <PageNumber>3315</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1322,7 +1346,9 @@
     <MainItem>
       <Key>Sprawson</Key>
       <Forenames>O. A.</Forenames>
-      <Text>, C.I.E., M.D., F.R.C.P:</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3315</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1344,8 +1370,11 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Gormau, P. W., C.M.G</Text>
+      <Key>O'Gormau</Key>
+      <Forenames>P. W.</Forenames>
+      <Text>
+        <Honour>C.M.G</Honour>
+      </Text>
       <PageNumber>569</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1433,7 +1462,9 @@
     <MainItem>
       <Key>Gibson</Key>
       <Forenames>H. R. B.</Forenames>
-      <Text>, M.B. ,(Bt.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>1379</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1483,8 +1514,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fawcett</Key>
-      <Forenames>F. O</Forenames>
-      <Text>'D, (in consequence of ill-health)</Text>
+      <Forenames>F. O'D</Forenames>
+      <Text>, (in consequence of ill-health)</Text>
       <PageNumber>2914</PageNumber>
     </MainItem>
   </ItemGroup>

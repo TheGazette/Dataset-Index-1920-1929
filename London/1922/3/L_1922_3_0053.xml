@@ -3,34 +3,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Pike</Key>
-      <PageNumber>___ ___ ___ ___</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <KeyDitto>___ ___ ___ ___</KeyDitto>
-  <ItemGroup>
-    <MainItem>
-      <Key>Pirie</Key>
-      <PageNumber>___</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <KeyDitto>___</KeyDitto>
-  <ItemGroup>
-    <MainItem>
-      <Key>Pitt</Key>
-      <PageNumber>___ ___</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <KeyDitto>___ ___</KeyDitto>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto />
-      </Key>
       <Title>Lt.</Title>
       <Forenames>H. A.</Forenames>
       <Text>(Lt., Reg. Army Res. of Oft., Gen. List, late R.F.A.)</Text>
       <PageNumber>5708</PageNumber>
     </MainItem>
+    <SubItem>
+      <Text>Date of seniority</Text>
+      <PageNumber>5703</PageNumber>
+    </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
@@ -43,10 +24,12 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Pilkington</Key>
-      <Title>Capt.</Title>
-      <Forenames>A. W. MilborneSwinnerton-</Forenames>
-      <Text>, M.C., see Milborne-Swinnerton Pilkington, Capt. A. W., M.C. Gent. Cadet Richard William (2nd Lt., 9th L.)</Text>
+      <Key>
+        <KeyDitto>___ ___ ___</KeyDitto>
+      </Key>
+      <Title>Gent. Cadet</Title>
+      <Forenames>Richard William</Forenames>
+      <Text>(2nd Lt., 9th L.)</Text>
       <PageNumber>6379</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -88,23 +71,41 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___ .</KeyDitto>
+      </Key>
+      <Title>2nd Lt.</Title>
+      <Forenames>Horace</Forenames>
+      <Text>(2nd Lt., Reg. Army Res. of Off., Regt. List, Leic. R., late Serv. Bn.)</Text>
+      <PageNumber>5965</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Piper</Key>
       <Title>Capt.</Title>
       <Forenames>W.</Forenames>
       <Text>(placed on ret. pay having attained the age fixed for compulsory retirement)</Text>
       <PageNumber>6578</PageNumber>
     </MainItem>
-    <SubItem>
-      <Text>Capt. P. T., M.C. (seed, for service on the Staff), Sub. Not</Text>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Pirie</Key>
+      <Title>Capt.</Title>
+      <Forenames>P. T.</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5963</PageNumber>
-    </SubItem>
+    </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Pirrie</Key>
       <Title>Gent. Cadet</Title>
-      <Forenames>Ronald Evelyn</Forenames>
-      <Text>de Salis (2nd Lt., Gordons)</Text>
+      <Forenames>Ronald Evelyn de Salis</Forenames>
+      <Text>(2nd Lt., Gordons)</Text>
       <PageNumber>6380</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -120,8 +121,23 @@
       <Key>Pitcher</Key>
       <Title>Capt.</Title>
       <Forenames>H. P.</Forenames>
-      <Text>, M.C. (retires on ret. pay)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5963</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Title>Capt.</Title>
+      <Forenames>Walker Henry Blythe</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
+      <PageNumber>6378</PageNumber>
     </MainItem>
     <SubItem>
       <Text>Date of seniority</Text>
@@ -136,10 +152,15 @@
       <Text>(Maj.)</Text>
       <PageNumber>6840</PageNumber>
     </MainItem>
-    <SubItem>
-      <Text>temp. 2nd Lt. B. (rel. commn. on completion of service and retains rank of 2nd Lt.)</Text>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Pitt</Key>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>B.</Forenames>
+      <Text>(rel. commn. on completion of service and retains rank of 2nd Lt.)</Text>
       <PageNumber>5359</PageNumber>
-    </SubItem>
+    </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
@@ -162,8 +183,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Plevins</Key>
-      <Title>2nd Lt. (on prob.) St.</Title>
-      <Forenames>John T.</Forenames>
+      <Title>2nd Lt. (on prob.)</Title>
+      <Forenames>St. John T.</Forenames>
       <Text>(confd. in appt.)</Text>
       <PageNumber>5527</PageNumber>
     </MainItem>
@@ -185,6 +206,17 @@
       <Text>(corr. of name)</Text>
       <PageNumber>5205</PageNumber>
     </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___</KeyDitto>
+      </Key>
+      <Title>Lt.</Title>
+      <Forenames>P. S.</Forenames>
+      <Text>(Lt., The Greys, from 17th L.)</Text>
+      <PageNumber>6711</PageNumber>
+    </MainItem>
     <SubItem>
       <Text>Date of seniority</Text>
       <PageNumber>6711</PageNumber>
@@ -195,7 +227,9 @@
       <Key>Plummer</Key>
       <Title>Lt.</Title>
       <Forenames>G. H.</Forenames>
-      <Text>, M.C. (seed. for service with R.C of Sigs.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6511</PageNumber>
     </MainItem>
     <SubItem>
@@ -210,16 +244,18 @@
       <Key>Pooock</Key>
       <Title>Capt.</Title>
       <Forenames>J. C.</Forenames>
-      <Text>O.B.E. (Maj.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>6843</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Poingdestre</Key>
-      <Title>Capt.</Title>
-      <Forenames>X</Forenames>
-      <Text>H. (retires, receiving a gratuity and granted rank of Maj.)</Text>
+      <Key>
+        <KeyDitto />
+      </Key>
+      <Text>rank of Maj.)</Text>
       <PageNumber>6096</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -280,7 +316,9 @@
       <Key>Poole</Key>
       <Title>Lt.</Title>
       <Forenames>A. F.</Forenames>
-      <Text>, M.C. (Lt., Reg. Army Res. of Off., Gen. Ijist, Machine Gun, late M.G. Corps)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6641</PageNumber>
     </MainItem>
     <SubItem>
@@ -295,7 +333,10 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>F. G.</Forenames>
-      <Text>, D.S.O., O.B.E. (placed on ret. pay on acc. of ill-health caused by Mil. Service), Sub. Not</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>6377</PageNumber>
     </MainItem>
     <SubItem>
@@ -318,7 +359,10 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>E. L. Valle-</Forenames>
-      <Text>, see VallePope, Lt. E. L. Popham, Maj. and Bt. Lt.-Col. E. L., D.S.O. (Col.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6579</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -385,7 +429,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Portman</Key>
-      <Text>Capt. the Hon. G B. (resigns commn. and retains rank of Capt.)</Text>
+      <Title>Capt. the Hon.</Title>
+      <Forenames>G</Forenames>
+      <Text>B. (resigns commn. and retains rank of Capt.)</Text>
       <PageNumber>5708</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -394,7 +440,9 @@
       <Key>Potter</Key>
       <Title>Lt. (seed. Staff)</Title>
       <Forenames>G. E.</Forenames>
-      <Text>, M.C. (placed on ret. pay, having attained the age fixed for compulsory retirement, and granted rank of Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6510</PageNumber>
     </MainItem>
     <SubItem>
@@ -409,7 +457,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>Thomas J.</Forenames>
-      <Text>, O.B.E. (placed on h.p. list on acc. of ill-health contracted on active service)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>6774</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -453,7 +503,9 @@
       </Key>
       <Title>temp. Lt. (Lt., ret.)</Title>
       <Forenames>W. M.</Forenames>
-      <Text>, M.B.E. (rel. commn. on completion of service and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>6905</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -489,7 +541,9 @@
       <Key>Pratt</Key>
       <Title>Capt.</Title>
       <Forenames>A. B.</Forenames>
-      <Text>, M.C. (retires receiving a gratuity)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6377</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -587,7 +641,10 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Title>Lt.-Col. (Hon. Brig.-Gen.)</Title>
-      <Text>ret. pay) T. H.-F., C.M.G., D.S.O. (Col., Reg. Army Res. of Off., Gen. List, from D. C.L.I., and retains bon. rank of Brig.-Gen.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6906</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -596,7 +653,9 @@
       <Key>Prichard</Key>
       <Title>Capt.</Title>
       <Forenames>L. E.</Forenames>
-      <Text>, O.B.E. (seed, for serv. with Egyptian Army)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>5105</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -605,7 +664,10 @@
       <Key>Prickett</Key>
       <Title>Lt.</Title>
       <Forenames>F. C</Forenames>
-      <Text>, O.B.E., M.C. (seed, for service under the Colonial Office)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6639</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -656,7 +718,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>J. M.</Forenames>
-      <Text>, O.B.E. (placed on h.p. list on acc. of illhealth)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>6904</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -692,7 +756,10 @@
       <Key>Purdy</Key>
       <Title>temp.</Title>
       <Forenames>I.</Forenames>
-      <Text>O.M., 2nd CI., &amp; Capt. T. H. (rel. actg. grading of I.O.M., 1st CI., and rank of Maj. on ceasing to be so empld.)</Text>
+      <Text>
+        <Honour>O.M.</Honour>
+        <Honour>O.M.</Honour>
+      </Text>
       <PageNumber>5281</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -783,7 +850,9 @@
       <Key>Rainy</Key>
       <Title>Capt. and Bt. Maj.</Title>
       <Forenames>A. R.</Forenames>
-      <Text>, M.C. (placed on h.p. list on acc. of ill-health)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6019</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -820,7 +889,9 @@
       <Key>Ramsay-Hill</Key>
       <Title>Maj.</Title>
       <Forenames>Cyril Seys</Forenames>
-      <Text>, M.C. (Maj., Reg. Army, Res. of Off., Regtl. List, 17th H., late Spec. Res.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5204</PageNumber>
     </MainItem>
     <SubItem>
@@ -828,5 +899,6 @@
       <PageNumber>5204</PageNumber>
     </SubItem>
   </ItemGroup>
+  <KeyDitto>___ ___ ___ ___</KeyDitto>
 </Index>
 

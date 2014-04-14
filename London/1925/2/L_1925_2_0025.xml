@@ -4,7 +4,10 @@
     <MainItem>
       <Key>Gregory</Key>
       <Forenames>John Duncan</Forenames>
-      <Text>, C.M.G., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3770</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -12,7 +15,9 @@
     <MainItem>
       <Key>Griffin</Key>
       <Forenames>Eugene Patrick</Forenames>
-      <Text>, M.B.E. Companion, Imperial Service Order</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3781</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -38,7 +43,10 @@
     <MainItem>
       <Key>Guise-Moores</Key>
       <Title>Maj .</Title>
-      <Text>-Gen. Sir Samuel, K.C.B., C.M.G., M.R.C.S., L.R.C.P.,Knight of Grace, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>4193</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -80,7 +88,9 @@
       <Key>Haigh</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Claude Henry</Forenames>
-      <Text>, D.S.O., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3773</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -133,7 +143,11 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Vice-Adm</Forenames>
-      <Text>. Sir William Reginald, K.C.M.G., C.B., M.P. Eastbourne</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4194</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -199,7 +213,10 @@
       <Key>Hardinge</Key>
       <Title>Capt. the Hon.</Title>
       <Forenames>Alex-</Forenames>
-      <Text>ander, Henry Louis, M.C., Member, Royal Victorian Order</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3772</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -222,7 +239,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Harrison</Key>
-      <Text>. Miss Jane Ellen Leslie, Member, Order of the British Empire</Text>
+      <Title>Miss</Title>
+      <Forenames>Jane Ellen Les-</Forenames>
+      <Text>lie, Member, Order of the British Empire</Text>
       <PageNumber>3777</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -281,7 +300,9 @@
     <MainItem>
       <Key>Heath</Key>
       <Forenames>Cuthbert Eden</Forenames>
-      <Text>, O.B.E., Knight of Grace, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4193</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -289,7 +310,9 @@
     <MainItem>
       <Key>Helm</Key>
       <Forenames>Alexander Knox</Forenames>
-      <Text>, O.B.E., H.M. Vice-Consul in the Levant Consular Service</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3025</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -298,7 +321,11 @@
       <Key>Henderson</Key>
       <Title>Col.</Title>
       <Forenames>Harry</Forenames>
-      <Text>/ Dalton, D.S.O., V.D., T.D., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>T.D.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3770</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -309,7 +336,9 @@
       </Key>
       <Title>Lt. Commdr.</Title>
       <Forenames>Oscar</Forenames>
-      <Text>, D.S.O., Commander,' Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3775</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -318,7 +347,9 @@
       <Key>Henley</Key>
       <Title>Capt.</Title>
       <Forenames>Joseph Charles Walrond</Forenames>
-      <Text>, R.N., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3769</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -336,7 +367,9 @@
       <Key>Hewett</Key>
       <Title>Sir</Title>
       <Forenames>John Prescott</Forenames>
-      <Text>, G.C.S.I., K.B.E., C.I.E., Bailiff of Egle, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+      </Text>
       <PageNumber>4193</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -353,7 +386,11 @@
       <Key>Higgins</Key>
       <Title>Air Vice-Marshal</Title>
       <Forenames>John Frederick Andrews</Forenames>
-      <Text>, C.B., D.S.O., A.F.C., Knight Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>3774</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -395,7 +432,9 @@
       <Key>Hingston</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Clayton Alexander Francis</Forenames>
-      <Text>, O.B.E., Companion, Order of the Indian Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3772</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -403,7 +442,9 @@
     <MainItem>
       <Key>Hirst</Key>
       <Forenames>Hugo</Forenames>
-      <Text>, Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>3767</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -429,7 +470,11 @@
     <MainItem>
       <Key>Hodges</Key>
       <Forenames>Vice</Forenames>
-      <Text>Admiral Michael Henry, C.B., C.M.G., M.V.O., Knight Commander, Order of the Bath</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>3769</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -438,7 +483,9 @@
       <Key>Hodgins</Key>
       <Title>Miss</Title>
       <Forenames>Florence May</Forenames>
-      <Text>, R.R.C., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>R.R.C.</Honour>
+      </Text>
       <PageNumber>3773</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -446,7 +493,9 @@
     <MainItem>
       <Key>Hodgson</Key>
       <Forenames>Robert</Forenames>
-      <Text>MacLeod, C.M.G., Knight Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>3777</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -463,7 +512,11 @@
       <Key>Holbrooke</Key>
       <Title>Col.</Title>
       <Forenames>Philip Lance-</Forenames>
-      <Text>lot, C.M.G., D.S.O., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3769</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -512,7 +565,9 @@
     <MainItem>
       <Key>Horniman</Key>
       <Forenames>Rear</Forenames>
-      <Text>Admiral Henry, C.B., Keeper of Virginia Water</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>3787</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -553,7 +608,10 @@
       <Key>Howard</Key>
       <Title>Maj.</Title>
       <Forenames>Algar Henry Stafford</Forenames>
-      <Text>, M.C., T.D., Esquire, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>4193</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -562,7 +620,12 @@
       <Key>Huddleston</Key>
       <Title>Col.</Title>
       <Forenames>Hubert Jer-</Forenames>
-      <Text>voise, C.M.G., D.S.O., M.C., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3769</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -579,7 +642,9 @@
       <Key>Huggins</Key>
       <Title>George .</Title>
       <Forenames>Frederick</Forenames>
-      <Text>, O.B.E., Unofficial Member of the Legislative Council of Trinidad and Tobago</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>2601</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -595,7 +660,9 @@
       <Key>Hughes-Morgan</Key>
       <Title>Maj. Sir</Title>
       <Forenames>David</Forenames>
-      <Text>, J.P., Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>3767</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -646,7 +713,9 @@
     <MainItem>
       <Key>Humphreys</Key>
       <Forenames>Albert</Forenames>
-      <Text>, M.B.E., M.Inst.C.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3776</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -672,7 +741,9 @@
       <Key>Hurndall</Key>
       <Title>Lieut.-Col.</Title>
       <Forenames>Frank Brereton</Forenames>
-      <Text>, M.C., Esquire, Order of St. John of Jerusalem ,</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4194</PageNumber>
     </MainItem>
   </ItemGroup>

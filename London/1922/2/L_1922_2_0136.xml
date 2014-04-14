@@ -33,7 +33,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Dorset</Key>
-      <Text>. Digby, Maj. Frederick James Bosworth Wingfield, D.S.O</Text>
+      <Forenames>Digby</Forenames>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>2818</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -47,16 +50,23 @@
   <ItemGroup>
     <MainItem>
       <Key>Gloucester</Key>
-      <Text>: Cripps, Maj. Frederick William Beresford, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>3342</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Darell, Maj. Sir Lionel Edward Hamilton Marm iduke, Bart., D.SO</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>3342</PageNumber>
     </SubItem>
     <SubItem>
       <Text>
+        <Honour>T.D.</Honour>
         <PageNumber>3342</PageNumber>
+        <Honour>D.S.O.</Honour>
+        <Honour>T.D.</Honour>
       </Text>
       <PageNumber>3342</PageNumber>
     </SubItem>
@@ -65,7 +75,10 @@
       <PageNumber>3796</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>Young, Col. James, T.D., M.D.</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+        <Honour>M.D</Honour>
+      </Text>
       <PageNumber>3342</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -90,7 +103,9 @@
   <ItemGroup>
     <MainItem>
       <Key>London</Key>
-      <Text>: Gibbons, Lt-Col. Sir Walter, K.B.E</Text>
+      <Text>
+        <Honour>K.B.E</Honour>
+      </Text>
       <PageNumber>3961</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -102,12 +117,17 @@
     </MainItem>
     <SubItem>
       <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>O.B.E.</Honour>
         <PageNumber>4648</PageNumber>
       </Text>
       <PageNumber>4928</PageNumber>
     </SubItem>
     <SubItem>
       <Text>
+        <Honour>CB</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.D.</Honour>
         <PageNumber>4648</PageNumber>
       </Text>
       <PageNumber>4648</PageNumber>
@@ -123,14 +143,18 @@
   <ItemGroup>
     <MainItem>
       <Key>Sussex</Key>
-      <Text>: Camden, Col. John Charles Marquess, T.D. (resign commn.)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>3342</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Warwick</Key>
-      <Text>: Lowe, Sir Francis W., Bart., M.P</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>3342</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -141,7 +165,9 @@
       <PageNumber>4478</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Musgrave, Sir Richard George Bt. (resigns commn)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>3626</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -149,7 +175,10 @@
     <MainItem>
       <Key>West</Key>
       <Forenames>Riding</Forenames>
-      <Text>: Stephenson, Lt,.Col Henry Kenyon,D.S.O., V.D., M.D</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.D</Honour>
+      </Text>
       <PageNumber>2728</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -168,7 +197,9 @@
       <PageNumber>3091</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Fry, Sir John Pease, Bt. (resigns eommn.) _</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>3091</PageNumber>
     </SubItem>
   </ItemGroup>

@@ -10,7 +10,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stanley</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>7768</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -568,8 +568,8 @@
   <ItemGroup>
     <MainItem>
       <Key>AVintour</Key>
-      <Title>St.</Title>
-      <Forenames>J. F.</Forenames>
+      <Title>St. J.</Title>
+      <Forenames>F.</Forenames>
       <PageNumber>8452</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -719,7 +719,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Buckingham</Key>
-      <Text>: Lincolnshire, the Most Hon. Charles Robert, Marquess of, K.G., P.C., K.C.M.G</Text>
+      <Text>
+        <Honour>K.G.</Honour>
+        <Honour>P.C.</Honour>
+        <Honour>K.C.M.G</Honour>
+      </Text>
       <PageNumber>8330</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -731,6 +735,7 @@
     </MainItem>
     <SubItem>
       <Text>
+        <Honour>Bt</Honour>
         <PageNumber>7857</PageNumber>
       </Text>
       <PageNumber>7857</PageNumber>
@@ -739,7 +744,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Edinburgh</Key>
-      <Text>: Hutchison, Sir Thomas, Bart</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>8724</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -753,23 +760,37 @@
       <Text>
         <PageNumber>7768</PageNumber>
         <PageNumber>7768</PageNumber>
+        <Honour>K.T.</Honour>
+        <Honour>G.C.B.</Honour>
+        <Honour>O.M.</Honour>
+        <Honour>G.C.V.O.</Honour>
+        <Honour>K.C.I.E.</Honour>
+        <PageNumber>7768</PageNumber>
+        <Honour>K.B.E.</Honour>
         <PageNumber>7768</PageNumber>
         <PageNumber>7768</PageNumber>
+        <Honour>K.C.B.</Honour>
         <PageNumber>7768</PageNumber>
         <PageNumber>7768</PageNumber>
-        <PageNumber>7768</PageNumber>
+        <Honour>Bt</Honour>
       </Text>
       <PageNumber>7768</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>Walker, Alexander, C.B.E., J.P.</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>7768</PageNumber>
     </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Gloucester</Key>
-      <Text>: Bathurst, Allen Algernon Lord Apsley, D.S.O., M.C., M.P</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>M.P</Honour>
+      </Text>
       <PageNumber>7215</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -783,203 +804,32 @@
   <ItemGroup>
     <MainItem>
       <Key>Salop</Key>
-      <Text>: Acton, the Rt. Hon. Richard Maximilian, Baron, K.C.V.O</Text>
-      <PageNumber>7305</PageNumber>
-    </MainItem>
-    <SubItem>
-      <Text>Bridgeman, the Rt. Hon. AVilliam Clive, M.P</Text>
-      <PageNumber>7305</PageNumber>
-    </SubItem>
-    <SubItem>
-      <Text>Donaldson-Hudson, Lt.-Col. Ralph Charles, D.S.0</Text>
-      <PageNumber>7305</PageNumber>
-    </SubItem>
-    <SubItem>
-      <Text>Garrett, Col. Arthur New. son Bruff, C.B.E</Text>
-      <PageNumber>7305</PageNumber>
-    </SubItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Salop</Key>
-      <Title>(cuiti.)</Title>
-      <Text>: Maximilian, the Rt. Hon. Richard</Text>
+      <Text>
+        <Honour>K.C.V.O</Honour>
+      </Text>
       <PageNumber>7305</PageNumber>
     </MainItem>
     <SubItem>
       <Text>
+        <Honour>M.P.</Honour>
+        <PageNumber>7305</PageNumber>
+        <Honour>G.C.B.</Honour>
+        <Honour>G.C.V.O.</Honour>
+        <Honour>C.M.G.</Honour>
         <PageNumber>7305</PageNumber>
       </Text>
       <PageNumber>7305</PageNumber>
     </SubItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Surrey</Key>
-      <Text>: Borwick, Lt.-Col. George Oldroyd, D.S.O., T.D</Text>
-      <PageNumber>8066</PageNumber>
-    </MainItem>
     <SubItem>
       <Text>
-        <PageNumber>8066</PageNumber>
-        <PageNumber>8060</PageNumber>
+        <Honour>C.B.E</Honour>
       </Text>
-      <PageNumber>8066</PageNumber>
+      <PageNumber>7305</PageNumber>
     </SubItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>York</Key>
-      <Text>: ' Fife, Lt.-Col. Ronald DArcy, C.M.G., D.S.O</Text>
-      <PageNumber>8724</PageNumber>
-    </MainItem>
+    <SubSectionTitle>Vice-Lieutenants</SubSectionTitle>
     <SubItem>
-      <Text>Johnson, Lt.-Col. AValter Lyulph</Text>
-      <PageNumber>8724</PageNumber>
-    </SubItem>
-    <SubItem>
-      <Text>Southampton, Lt.-Col. the Rt. Hon. Lord, O.B.E.</Text>
-      <PageNumber>8724</PageNumber>
-    </SubItem>
-  </ItemGroup>
-  <SubSectionTitle>Vice-Lieutenants</SubSectionTitle>
-  <ItemGroup>
-    <MainItem>
-      <Key>Banff</Key>
-      <Text>: Findlay, Sir John Ritchie, K.B.E</Text>
-      <PageNumber>7300</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Cumberland</Key>
-      <Text>: Lewthwaite, William</Text>
-      <PageNumber>8936</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Essex</Key>
-      <Text>: Colvin, Brig.-Gen. Richard Beale, C.B. ... ..!</Text>
-      <PageNumber>8818</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Abertillery</Key>
-      <Forenames>Town Association Football Club</Forenames>
-      <Text>and Institute, cancelling of registry</Text>
-      <PageNumber>8394</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Alcock</Key>
-      <Forenames>Henry Cecil</Forenames>
-      <Text>, change of name by deed poll to H. C. Allport</Text>
-      <PageNumber>8158</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Amalgamated</Key>
-      <Forenames>Sales Organisa-</Forenames>
-      <Text>. tion, notice</Text>
-      <PageNumber>8510</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Andrews</Key>
-      <Forenames>Edward</Forenames>
-      <Text>(inquiry)</Text>
-      <PageNumber>8509</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Angelbeck</Key>
-      <Forenames>Harry</Forenames>
-      <Text>AValker, . change of name bv deed poll to H. Walker</Text>
-      <PageNumber>8878</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Ardpiore</Key>
-      <Forenames>Trust</Forenames>
-      <Text>, Ltd., notice</Text>
-      <PageNumber>7183</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Arensberg</Key>
-      <Forenames>Maurice</Forenames>
-      <Text>, change of name by deed poll to M. Arnold</Text>
-      <PageNumber>8612</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Argentine</Key>
-      <Forenames>Iron</Forenames>
-      <Text>and Steel Company (Pedro Vasena e Hijos) (account)</Text>
-      <PageNumber>8510</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Arksey</Key>
-      <Forenames>Arillage</Forenames>
-      <Text>AVorking Men's Club and Institute Society, cancelling-of registry</Text>
-      <PageNumber>8380</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Armature</Key>
-      <Forenames>Repairing</Forenames>
-      <Text>and Supply Co., notice</Text>
-      <PageNumber>8613</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Ar</Key>
-      <Text>17 Doris May, change of name by deed poll to D. M. Thorn</Text>
-      <PageNumber>8272</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Arundel</Key>
-      <Forenames>Manufacturing Com-</Forenames>
-      <Text>pany, notice</Text>
-      <PageNumber>8879</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Atkinson</Key>
-      <Forenames>Richard</Forenames>
-      <Text>(inquiry)</Text>
-      <PageNumber>7730</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Auctions</Key>
-      <Text>: Cardiff, certain leasehold hereditaments (Trevor v. Trevor)</Text>
-      <PageNumber>7822</PageNumber>
-    </MainItem>
-    <SubItem>
-      <Text>.Goodwill of Turner Drug and Galenical Company, Ltd., freehold factory, plant, etc. (Fogden v. Turner Drug and Galenical Companv)</Text>
-      <PageNumber>8692</PageNumber>
-    </SubItem>
-    <SubItem>
-      <Text>Leeds, Cyclops Foundry, Newton-street, Burley , Road (Beckett v. C. H. . Taylor and Son, Ltd.)</Text>
-      <PageNumber>7822</PageNumber>
+      <Text>, Town Lane (Hardaker v. Brown) Leeds, Cyclops Foundry, Newton-street, Burley , Road (Beckett v. C. H. . Taylor and Son, Ltd.)</Text>
+      <PageNumber>7305</PageNumber>
     </SubItem>
   </ItemGroup>
   <KeyDitto>___ ___</KeyDitto>

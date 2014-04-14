@@ -92,7 +92,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Bayley</Key>
-      <Text>. Cadet H. (Hon. 2nd Lt.)</Text>
+      <Title>Cadet</Title>
+      <Forenames>H.</Forenames>
+      <Text>(Hon. 2nd Lt.)</Text>
       <PageNumber>7993</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -101,7 +103,9 @@
       <Key>Bayly</Key>
       <Title>Capt.</Title>
       <Forenames>L. J.</Forenames>
-      <Text>, M.C., (corr. of initials)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8092</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -127,7 +131,9 @@
     <MainItem>
       <Key>Beauehamp</Key>
       <Title>Rev.</Title>
-      <Text>tt., M.C. (rel. rank as Sqdn. Leader)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8410</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -136,7 +142,9 @@
       <Key>Beaver</Key>
       <Title>Lt.</Title>
       <Forenames>W.</Forenames>
-      <Text>, M.C. (trd. to unempld list)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7580</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -255,7 +263,12 @@
     <MainItem>
       <Key>Belt</Key>
       <Title>Capt.</Title>
-      <Text>C.B., M.B.E., M.C., D.C.M. (trd. to unempld. list)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>M.B.E.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>7777</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -273,7 +286,9 @@
       <Key>Benfleld</Key>
       <Title>Lt.</Title>
       <Forenames>F. A.</Forenames>
-      <Text>, D.S.M. (trd. to unempld. list)</Text>
+      <Text>
+        <Honour>D.S.M.</Honour>
+      </Text>
       <PageNumber>9224</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -322,7 +337,9 @@
       <PageNumber>8410</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>. Lt. K. C., D.F.C. (trd. to anempid. list)</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>7355</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -338,7 +355,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Benstead</Key>
-      <Text>. Flying Offr. F. E. C. (granted short serv. commn.) .,</Text>
+      <Forenames>Flying Offr</Forenames>
+      <Text>. F. E. C. (granted short serv. commn.) .,</Text>
       <PageNumber>9223</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -378,7 +396,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Best</Key>
-      <Text>. Cadet V. H. (Hon. 2nd Lt.)</Text>
+      <Title>Cadet</Title>
+      <Forenames>V. H.</Forenames>
+      <Text>(Hon. 2nd Lt.)</Text>
       <PageNumber>8887</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -414,7 +434,9 @@
       <Key>Biggs</Key>
       <Title>Flight Lt.</Title>
       <Forenames>K.</Forenames>
-      <Text>, M.C. (granted perm, commn)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7458</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -474,7 +496,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Bishop</Key>
-      <Text>. Rev. A. S. (rel. commn. a.id to be Hon. Chapln. to R.A.F.)</Text>
+      <Title>Rev.</Title>
+      <Forenames>A. S.</Forenames>
+      <Text>(rel. commn. a.id to be Hon. Chapln. to R.A.F.)</Text>
       <PageNumber>8093</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -597,7 +621,9 @@
       <Key>Bolsby</Key>
       <Title>Lt.</Title>
       <Forenames>C. S.</Forenames>
-      <Text>. D.F.C. (trd. to unempld. list)</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>7777</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -630,7 +656,9 @@
       <Key>Bonnyman</Key>
       <Title>2nd Lt. (Hon. Lt.)</Title>
       <Forenames>J. A.</Forenames>
-      <Text>, M.B.E. (rel. R.A.F. commn on appt. to T.F. and retains rank)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>9224</PageNumber>
     </MainItem>
     <SubItem>
@@ -697,7 +725,9 @@
       <Key>Bowdler</Key>
       <Title>Capt. (A/Lt.-Col.)</Title>
       <Forenames>A. P.</Forenames>
-      <Text>v O.B.E., M.A., M.B. (trd. to unempld. list)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>8976</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -843,7 +873,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Wing Comdr</Forenames>
-      <Text>. R. A., C.M.G. (retired from Army and rel. R.A.F. commn. retaining rank of Lt.-Col.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>8886</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1031,7 +1063,7 @@
       <PageNumber>7355</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Placed on h.p. list Scale A.</Text>
+      <Text>Placed on h.p. list Scale A</Text>
       <PageNumber>7355</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1042,7 +1074,9 @@
       </Key>
       <Title>2nd Lt. (Hon. Cant )</Title>
       <Forenames>S.</Forenames>
-      <Text>, M.C. (trd. to unemold. list)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8409</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1089,7 +1123,9 @@
     <MainItem>
       <Key>Broughall</Key>
       <Forenames>Flying Offr</Forenames>
-      <Text>. (A.) H. S., M.C. (granted short serv. commn.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8793</PageNumber>
     </MainItem>
   </ItemGroup>

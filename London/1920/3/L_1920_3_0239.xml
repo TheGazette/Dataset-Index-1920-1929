@@ -56,7 +56,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>E. Z. C</Forenames>
-      <Text>, M.C. (resigns commin. and retains rank of Lt,)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7419</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -77,7 +79,9 @@
         <KeyDitto>___ ——.</KeyDitto>
       </Key>
       <Forenames>Lt</Forenames>
-      <Text>, T. (resltd. to estabt. on ceasing to ibe empld. with M.G.C.)</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>7453</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -120,7 +124,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>W. E.</Forenames>
-      <Text>(resigns commn. and retains rank of Lt,) Pease, Capt. E. M., O.B.E. (resigns commn. and retains rank of</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>8684</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -194,14 +200,19 @@
         <KeyDitto>— ___ ___ ___</KeyDitto>
       </Key>
       <Title>Ga.</Title>
-      <Text>pt. (Bt. Maj.) R., O.B.E. (trd., to T.F.R.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>81155</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Peele</Key>
-      <Text>. Capt. H. (Maj. and apptd. D.A.D.V.S. of a Division)</Text>
+      <Title>Capt.</Title>
+      <Forenames>H.</Forenames>
+      <Text>(Maj. and apptd. D.A.D.V.S. of a Division)</Text>
       <PageNumber>8686</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -264,7 +275,9 @@
       <Key>Pendlebiury</Key>
       <Title>Lt.</Title>
       <Forenames>C. L.</Forenames>
-      <Text>, M.C. (trd. from 6th Bn., Glo'ster Regt. to 7th Bn., Welch R.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8168</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -273,7 +286,9 @@
       <Key>Penman</Key>
       <Title>Capt.</Title>
       <Forenames>J. B.</Forenames>
-      <Text>, M.C. (trd. to T.F.R.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7843</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -310,8 +325,10 @@
       <Title>Lt.-Col.</Title>
       <Forenames>P. G.</Forenames>
       <Text>, D.S.O</Text>
-      <PageNumber>8356</PageNumber>
     </MainItem>
+    <Honour>
+      <PageNumber>8356</PageNumber>
+    </Honour>
     <SubItem>
       <Text>T.D. (resigns commn. and retains rank of Lt.-Col., with permission to wear prescribed uni-</Text>
       <PageNumber>9503</PageNumber>
@@ -353,7 +370,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>L. E.</Forenames>
-      <Text>, M.C. (Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8952</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -410,7 +429,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>L. A.</Forenames>
-      <Text>, M.B.E. (rel. commn. on oeasing to be empld., and granted rank of Capt.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>7571</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -463,7 +484,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>Samuel Thomas James</Forenames>
-      <Text>, M.C. (trd. from 9th Bn., Lpool R., to West Lanes. Divl. Engrs.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8259</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -527,7 +550,9 @@
       <Key>Peto</Key>
       <Title>Capt.</Title>
       <Forenames>G. K.</Forenames>
-      <Text>, C.B.E. (resigns commn. and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>8473</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -555,7 +580,9 @@
       <Key>Pettigrew</Key>
       <Title>Lt.</Title>
       <Forenames>C. H.</Forenames>
-      <Text>, M.C. (resigns commn. and granted rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8143</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -564,7 +591,9 @@
       <Key>Pettitt</Key>
       <Title>Lt.</Title>
       <Forenames>J. E.</Forenames>
-      <Text>(restd. to estabt. on ceasing to be empld. with M.G.C.)</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>7096</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -580,7 +609,12 @@
   <ItemGroup>
     <MainItem>
       <Key>Peyton</Key>
-      <Text>. Capf, T. H., D.S.O., M.C., M.D. (resigns commn. and granted rank of Lt.-Col.)</Text>
+      <Forenames>Capf</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>8771</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -609,14 +643,18 @@
       <Key>Philcox</Key>
       <Title>Lt.</Title>
       <Forenames>C. L.</Forenames>
-      <Text>, D.F.C. (resigns commn. and granted rank of Capt.)</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>8563</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Philip</Key>
-      <Text>. Lt. A. J. (trd. to T.F.R.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>A. J.</Forenames>
+      <Text>(trd. to T.F.R.)</Text>
       <PageNumber>8156</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -625,7 +663,9 @@
       <Key>Phillimore</Key>
       <Title>Capt. the Hon.</Title>
       <Forenames>G. W.</Forenames>
-      <Text>, M.C. (trd. from 3rd Bn., High. L.I., to 4th Bn., Oxfordshire and Bucks. L.I.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8168</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -667,7 +707,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>D. M. P.</Forenames>
-      <Text>(restd. to estabt. on ceasing to be empld. with M.G.C.)</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>7439</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -737,7 +779,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>R. E.</Forenames>
-      <Text>, V.C. (trd. from Service Bn., R. War. Regt., to 6th Bn., Gloucestershire Regt.)</Text>
+      <Text>
+        <Honour>V.C.</Honour>
+      </Text>
       <PageNumber>8168</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -748,7 +792,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>R. F.</Forenames>
-      <Text>, M.C. (trd. to 5th Bn., Cornwall L.I.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7842</PageNumber>
     </MainItem>
     <SubItem>
@@ -857,7 +903,10 @@
       <Key>Pickford</Key>
       <Title>Capt.</Title>
       <Forenames>P.</Forenames>
-      <Text>, D.S.O., M.C</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>9594</PageNumber>
     </MainItem>
     <SubItem>
@@ -966,7 +1015,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Pinhey</Key>
-      <Text>. Lt. H. T. (resigns commn</Text>
+      <Title>Lt.</Title>
+      <Forenames>H. T.</Forenames>
+      <Text>(resigns commn</Text>
       <PageNumber>8770</PageNumber>
     </MainItem>
     <SubItem>
@@ -979,8 +1030,8 @@
     <MainItem>
       <Key>Pinto</Key>
       <Title>Lt.</Title>
-      <Forenames>V.</Forenames>
-      <Text>de S. (resigns commn</Text>
+      <Forenames>V. de S</Forenames>
+      <Text>. (resigns commn</Text>
       <PageNumber>7561</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1031,7 +1082,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Pite</Key>
-      <Text>. Lt. A. G, M.C. (Capt., T.F.R.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>A. G</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7831</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1040,7 +1095,9 @@
       <Key>Pittam</Key>
       <Title>Lt.</Title>
       <Forenames>A. P.</Forenames>
-      <Text>, M.C. (resigns commn. and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8944</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1065,7 +1122,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Plaskitt</Key>
-      <Text>. Lt. R. H. J. (restd. to estabt. on ceasing to be empld</Text>
+      <Title>Lt.</Title>
+      <Forenames>R. H. J.</Forenames>
+      <Text>(restd. to estabt. on ceasing to be empld</Text>
       <PageNumber>7571</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -5,7 +5,10 @@
     <MainItem>
       <Key>Bharucha</Key>
       <Forenames>P. B.</Forenames>
-      <Text>, D.S.O., F.R.C.S</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>F.R.C.S</Honour>
+      </Text>
       <PageNumber>9147</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -108,7 +111,9 @@
     <MainItem>
       <Key>Burjori</Key>
       <Forenames>Hormasji Kamakaka</Forenames>
-      <Text>, M.C. (temp.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7129</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -549,9 +554,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Bousa</Forenames>
-      <Text>, P. J. granted rank of Capt.)</Text>
+      <Key>De Bousa</Key>
+      <Forenames>P. J.</Forenames>
+      <Text>granted rank of Capt.)</Text>
       <PageNumber>9452</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -559,7 +564,9 @@
     <MainItem>
       <Key>Gadgil</Key>
       <Forenames>S. B.</Forenames>
-      <Text>, F.R.C.S. (granted rank of Capt., corr.)</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>8187</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -743,6 +750,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Sirva</Key>
+      <Forenames>A. H. T.</Forenames>
+      <Text>(temp.) (corr. of date)</Text>
+      <PageNumber>9452</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Felix</Key>
       <Forenames>J. E.</Forenames>
       <Text>(temp.) (corr. of date)</Text>
@@ -809,7 +824,9 @@
     <MainItem>
       <Key>Ram</Key>
       <Forenames>Nath Bhandari</Forenames>
-      <Text>, M.D. (temp.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>7671</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -874,9 +891,8 @@
   <SubSubSectionTitle>Retired List</SubSubSectionTitle>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Souza</Forenames>
-      <Text>, C. M</Text>
+      <Key>De Souza</Key>
+      <Forenames>C. M .</Forenames>
       <PageNumber>8631</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1120,7 +1136,9 @@
     <MainItem>
       <Key>Evans</Key>
       <Forenames>G. H.</Forenames>
-      <Text>, CLE., CB.E. (rel. temp, rank)</Text>
+      <Text>
+        <Honour>CB</Honour>
+      </Text>
       <PageNumber>8633</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1177,7 +1195,9 @@
     <MainItem>
       <Key>Lee</Key>
       <Forenames>F. R.</Forenames>
-      <Text>, M.B.E., V.D. (granted hon. rank of Lt.JObl.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>8187</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1192,7 +1212,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Scott</Key>
-      <Text>., H. L. (rel. commn.)</Text>
+      <Text>, H. L. (rel. commn.)</Text>
       <PageNumber>7870</PageNumber>
     </MainItem>
   </ItemGroup>

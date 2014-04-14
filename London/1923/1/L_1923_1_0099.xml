@@ -4,7 +4,10 @@
     <MainItem>
       <Key>Worgan</Key>
       <Title>Maj.</Title>
-      <Text>and T,t. Lt.-Col. (temp. Brig.-Gen.) (now Col) B. B., C.S.L, C.V.O., D.S.O. (Bde. Comdr. Waziristan Field Force)</Text>
+      <Text>
+        <Honour>C.V.O.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>811</PageNumber>
     </MainItem>
     <SubItem>
@@ -99,7 +102,9 @@
       <Key>Aldis</Key>
       <Title>Capt.</Title>
       <Forenames>A. Fisk-</Forenames>
-      <Text>, see FiskAldis, Capt. A. Ali Beg, Subadar-Maj., I.D.S.M. (Hon. Lt,)</Text>
+      <Text>
+        <Honour>D.S.M.</Honour>
+      </Text>
       <PageNumber>1000</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -107,7 +112,9 @@
     <MainItem>
       <Key>Ali</Key>
       <Forenames>Dost</Forenames>
-      <Text>, Sardar Bahadur, I.D.S.M., Subadar-Maj. (Hon. Lt.)</Text>
+      <Text>
+        <Honour>D.S.M.</Honour>
+      </Text>
       <PageNumber>1000</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -116,14 +123,19 @@
       <Key>Allanson</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>C. J. L</Forenames>
-      <Text>, C.M.G., C.I.E., D.S.O. (since ret.) (Col.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>2166</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Allen</Key>
-      <Text>. Capt. J. S. (retirement)</Text>
+      <Title>Capt.</Title>
+      <Forenames>J. S.</Forenames>
+      <Text>(retirement)</Text>
       <PageNumber>1307</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -143,7 +155,9 @@
       <Key>Allfrey</Key>
       <Title>Lt.</Title>
       <Forenames>E. M.</Forenames>
-      <Text>, M.C. (rel. temp, commn.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2421</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -199,8 +213,8 @@
     <MainItem>
       <Key>Arbuthnot</Key>
       <Title>Lt.</Title>
-      <Forenames>J. St</Forenames>
-      <Text>. C. (retirement)</Text>
+      <Forenames>J. St. C</Forenames>
+      <Text>. (retirement)</Text>
       <PageNumber>1308</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -237,7 +251,9 @@
       <Key>Armytage</Key>
       <Title>Maj.</Title>
       <Forenames>P. D. Green-</Forenames>
-      <Text>, see Green-Armytage, Major P. D. Arnold, Lt. V. D., M.C. (retirement)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1308</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -431,7 +447,9 @@
     <MainItem>
       <Key>Bailow</Key>
       <Forenames>Alfred Edmui</Forenames>
-      <Text>d, M.C. (promotion to Capt. antedated) ... S</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>99</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -538,7 +556,9 @@
       <Key>Batterbury</Key>
       <Title>Lt.</Title>
       <Forenames>G. H.</Forenames>
-      <Text>, M.B.E. (resigns commn. and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>308</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -742,7 +762,9 @@
       <Key>Birkmyre</Key>
       <Title>Capt. the Hon. Sir</Title>
       <Forenames>Aichibald</Forenames>
-      <Text>, Kt., CB.E. (rel. temp, comnin. and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>CB</Honour>
+      </Text>
       <PageNumber>459</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -804,7 +826,9 @@
       <Key>Boal</Key>
       <Title>Lt.</Title>
       <Forenames>Robert</Forenames>
-      <Text>, D.S.O. (trd. to R.E., Ind. Army, from R.E, (Siipp. List), and piomoted to Capt) _</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>810</PageNumber>
     </MainItem>
     <SubItem>
@@ -848,7 +872,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bowden</Key>
-      <Text>.John Henry (corr. of name)</Text>
+      <Forenames>John Henry</Forenames>
+      <Text>(corr. of name)</Text>
       <PageNumber>1498</PageNumber>
     </MainItem>
   </ItemGroup>

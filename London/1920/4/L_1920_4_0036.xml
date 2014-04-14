@@ -8,7 +8,9 @@
       <PageNumber>10170</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Teague, Capt. J., M.C. (corr.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10170</PageNumber>
     </SubItem>
     <SubItem>
@@ -16,7 +18,9 @@
       <PageNumber>10170</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>Tytler, Brig.-Gen. H. C, C. M.G., D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>10170</PageNumber>
       <PageNumber>12141</PageNumber>
     </SubItem>
@@ -28,15 +32,20 @@
       <Text>
         <PageNumber>10170</PageNumber>
         <PageNumber>11778</PageNumber>
+        <Honour>D. S.O.</Honour>
         <PageNumber>10170</PageNumber>
         <PageNumber>10170</PageNumber>
         <PageNumber>10170</PageNumber>
         <PageNumber>11778</PageNumber>
+        <Honour>D.S.O.</Honour>
         <PageNumber>10170</PageNumber>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
         <PageNumber>10170</PageNumber>
         <PageNumber>11778</PageNumber>
         <PageNumber>10170</PageNumber>
         <PageNumber>10170</PageNumber>
+        <Honour>M.C.</Honour>
         <PageNumber>10170</PageNumber>
         <PageNumber>10170</PageNumber>
       </Text>
@@ -218,7 +227,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Addison</Key>
-      <Text>DIArcv Wentworth, I.S.O.,* Member. 5th CI., Royal Victorian Order</Text>
+      <Text>
+        <Honour>I.S.O</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>9987</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -347,7 +359,10 @@
       <Key>Antrobus</Key>
       <Title>Sir</Title>
       <Forenames>Reginald Laurence</Forenames>
-      <Text>, K.C.M.G., C.B., Gentleman Usher of the Blue Rod of the Order of Saint Michael and Saint George</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>9683</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -356,7 +371,9 @@
       <Key>Armitage</Key>
       <Title>Capt.</Title>
       <Forenames>Cecil Hamilton</Forenames>
-      <Text>, C;M.G., D.S.O., Governor and Commander-in-Chief of the Colony, of Gambia</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>10620</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -471,7 +488,9 @@
       <Key>Barne</Key>
       <Title>Maj. (T./Lt.-Col.)</Title>
       <Forenames>Wil-</Forenames>
-      <Text>liam Bradley Gosset, D.S.O., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>10165</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -5,7 +5,10 @@
       <Key>Challenor</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Edward Lacy</Forenames>
-      <Text>, C. B., C.M.G., D.S.O., Commander, Order of the British Empire ... Chalmers, Alexander, Inspector of Factories and Workshops</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>300</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -14,7 +17,9 @@
       <Key>Chamberlain</Key>
       <Title>Bt. Hon.</Title>
       <Forenames>Arthur Neville</Forenames>
-      <Text>, M.P., Minister of Health</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>1975</PageNumber>
     </MainItem>
     <SubItem>
@@ -37,15 +42,10 @@
       <Key>Chaplin</Key>
       <Title>Lt.-Col. and Bt. Col.</Title>
       <Forenames>James Graham</Forenames>
-      <Text>, D.S.O., Commander, Order of the British Empire Chappell, Lt. Percy Edgar Eyres, D. C.M., Member, Order of the British Empire Charles, Sir Richard Havelock, G.C.V.O., Knight Commander, Order of the 'Star of India ... Charter, Arthur Ernest, Officer, Order of the British Empire</Text>
-      <PageNumber>11</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Chaube</Key>
-      <Forenames>Raghunath Das</Forenames>
-      <Text>, Dewan Bahadur, C.S.I., knighthood conferred on Chauncy, Lt.-Col. Charles Henry Kemble, Commander, Order of the British Empire .. Chetpat Pattabherama Ramaswami Ayyar, Member of Executive Council of the Governor of Madras</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>G.C.V.O.</Honour>
+      </Text>
       <PageNumber>2335</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -68,7 +68,11 @@
     <MainItem>
       <Key>Clayton</Key>
       <Forenames>Edward Miles</Forenames>
-      <Text>, Companion, Order of the Bath ... Clifford, Stephen, Member, Order of the British Empire Colebatch, the Hon. Hal Pateshall, Companion, St. Michael and St. George Cook, Edward Mntchener, CLE., Companion, Order of the Star of India Cooper, Edward, H.M. Consul at Conception</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+        <Honour>Companion, St. Michael and St. George</Honour>
+        <Honour>Companion, Order of the Star of India</Honour>
+      </Text>
       <PageNumber>2070</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -78,57 +82,190 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Thomas Edwin</Forenames>
-      <Text>, knighthood conferred on ... Corner, Capt. Edgar Alan, Officer, Order of the British Empire ... Courtney, Maj. Michael, I.S.O., Officer, Order of the British Empire</Text>
-      <PageNumber>10</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Coutts</Key>
-      <Forenames>Francis James Henderson</Forenames>
-      <Text>, M.D., B.Sc. Companion, Order of the Bath Coventry, the Honourable Reginald William, K.C., knighthood conferred on ... Cowdray, the Viscount, Order of Mercy</Text>
+      <Text>
+        <Honour>I.S.O</Honour>
+        <Honour>M.D.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>374</PageNumber>
     </MainItem>
+    <SubItem>
+      <Text>
+        <PageNumber>7</PageNumber>
+      </Text>
+      <PageNumber>2415</PageNumber>
+    </SubItem>
   </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Crawford</Key>
-      <Forenames>Francis Colomb</Forenames>
-      <Text>, Officer, Order of the British Empire</Text>
-      <PageNumber>11</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Creedy</Key>
-      <Text>. Sir Herbert James, K.C.B., C.V.O.. Knight Commander, Royal Victorian Order Crewe, the Most Honourable the Marquis of. K.G., H.M. Ambassador Extraordinary and Plenipotentiary to the French Republic</Text>
-      <PageNumber>50</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <KeyDitto>___</KeyDitto>
   <ItemGroup>
     <MainItem>
       <Key>Dyke</Key>
       <Forenames>Arthur James</Forenames>
-      <Text>, C.B.E., Companion, Order of the Bath ... Eagle, Capt. Richard, Member, Order of the British Empire ... Eagleston, Arthur John, Com11 mander, Royal Victorian Order Eales, Shirley, Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>11</PageNumber>
     </MainItem>
-    <SubItem>
-      <Text>Eastwood, Lt. John Francis, Officer, Order of the British Empire Ede, James Chuter, M.P. for Mitcham Division</Text>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Easton</Key>
+      <Title>Mrs.</Title>
+      <Forenames>F.</Forenames>
+      <Text>, Order of Mercy</Text>
+      <PageNumber>374</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Eastwood</Key>
+      <Title>Lt.</Title>
+      <Forenames>John Francis</Forenames>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>1907</PageNumber>
-    </SubItem>
-    <SubItem>
-      <Text>Fawcus, George Ernest, Officer, Order of the British Empire</Text>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Edwards</Key>
+      <Title>Major-</Title>
+      <Forenames>General</Forenames>
+      <Text>
+        <Honour>K.C.I.E.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>M.D.</Honour>
+        <Honour>K.H.P.</Honour>
+        <Honour>I.S.O</Honour>
+        <Honour>O.B.E.</Honour>
+        <Honour>C.B.E.</Honour>
+        <Honour>D. S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
+      <PageNumber>2415</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Elphinstone-Dalrymple</Key>
+      <Title>Maj. and Bt. Lt.-Col. Sir</Title>
+      <Forenames>Francis Napier</Forenames>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>10</PageNumber>
-    </SubItem>
-    <SubItem>
-      <Text>Ferguson, Miss, Order of Mercy</Text>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Ensor</Key>
+      <Forenames>Lieutenant-</Forenames>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>374</PageNumber>
-    </SubItem>
-    <SubItem>
-      <Text>Finch, Miss Essex</Text>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Forenames>John William</Forenames>
+      <Text>, D.Sc, LL.B., F.R.S., Commander, Order of the British Empire</Text>
+      <PageNumber>11</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Fagan</Key>
+      <Title>Col. (tempy. Col. Commandant)</Title>
+      <Forenames>Edward Arthur</Forenames>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>374</PageNumber>
-    </SubItem>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Farwell</Key>
+      <Forenames>Christopher John Wickens</Forenames>
+      <Text>, King's Counsel</Text>
+      <PageNumber>1065</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Fawcus</Key>
+      <Forenames>George Ernest</Forenames>
+      <Text>, Officer, Order of the British Empire</Text>
+      <PageNumber>10</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Feilden</Key>
+      <Title>Maj.-Gen.</Title>
+      <Forenames>Henry Broom</Forenames>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>Companion, St. Michael and St. George</Honour>
+      </Text>
+      <PageNumber>4</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Ferguson</Key>
+      <Title>Miss</Title>
+      <Text>, Order of Mercy</Text>
+      <PageNumber>374</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Fernando</Key>
+      <Forenames>Hilarion Marcus</Forenames>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
+      <PageNumber>1148</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Field</Key>
+      <Title>Rear-Admiral</Title>
+      <Forenames>Frederick Laurence</Forenames>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
+      <PageNumber>2</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Finch</Key>
+      <Title>Miss</Title>
+      <Forenames>Essex</Forenames>
+      <PageNumber>374</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Finnimore</Key>
+      <Forenames>George</Forenames>
+      <Text>, Officer, Order of the British Empire</Text>
+      <PageNumber>11</PageNumber>
+    </MainItem>
   </ItemGroup>
 </Index>
 

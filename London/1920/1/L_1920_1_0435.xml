@@ -13,7 +13,9 @@
     <MainItem>
       <Key>Procter</Key>
       <Title>Ca.</Title>
-      <Text>pt. R G., T.D. (rel. commn., and retains rank)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>1213</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -62,7 +64,10 @@
       <Key>Pugh</Key>
       <Title>Lt.-Col. (Maj., ret., T.F.)</Title>
       <Forenames>D</Forenames>
-      <Text>, C, D.S.O., T.D. (reverts to retd. list, having attained the age limit, and retains rank with permission to wear uniform)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>1797</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -92,7 +97,10 @@
     <MainItem>
       <Key>Purser</Key>
       <Forenames>F.C.</Forenames>
-      <Text>, O.B.E., M.D. (Capt., for serv. with Med. Unit, R. Coll. of Surgeons, Ireland, O.T.C.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>1067</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -119,7 +127,9 @@
       <Key>Puttick</Key>
       <Title>Maj.</Title>
       <Forenames>W.</Forenames>
-      <Text>, T.D. (restd. to estabt. of R.G.A., T.F.)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>1541</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -182,7 +192,9 @@
       <Key>Rattray</Key>
       <Title>Capt.</Title>
       <Forenames>P. M.</Forenames>
-      <Text>, D.S.O. (rel. commn. on acc. of ill-health caused by wounds, and granted rank of Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>309</PageNumber>
     </MainItem>
     <SubItem>
@@ -355,7 +367,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>P. H.</Forenames>
-      <Text>, T.D. (trd. to T.F.R.)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>3146</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -395,7 +409,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>C. O.</Forenames>
-      <Text>, M.C. (Adjt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3626</PageNumber>
     </MainItem>
     <SubItem>
@@ -441,7 +457,9 @@
       </Key>
       <Title>Maj. (actg. Lt.-Col.)</Title>
       <Forenames>A. W.</Forenames>
-      <Text>. M.C. (rel. actg. rank of Lt.-Col. on alteration in posting)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>310</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -474,7 +492,9 @@
       </Key>
       <Title>2nd Lt.</Title>
       <Forenames>R.</Forenames>
-      <Text>(Lt., and rem. seed., M.G.C.)</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>1781</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -492,7 +512,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Reis</Key>
-      <Text>. Maj. P. H. (trd. to T.F.R.), Sab. Not</Text>
+      <Title>Maj.</Title>
+      <Forenames>P. H.</Forenames>
+      <Text>(trd. to T.F.R.), Sab. Not</Text>
       <PageNumber>3398</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -506,7 +528,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Rennells</Key>
-      <Text>. 2nd Lt. F. C. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>F. C.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>4011</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -540,7 +564,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Repper</Key>
-      <Text>. 2nd Lt. W J. E. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>W</Forenames>
+      <Text>J. E. (Lt.)</Text>
       <PageNumber>3625</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -557,7 +583,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Rhodes</Key>
-      <Text>. 2nd Lt. G. A. S. fLt)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>G. A. S.</Forenames>
+      <Text>fLt)</Text>
       <PageNumber>54</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -567,14 +595,22 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Cant S.</Forenames>
-      <Text>, D.S.O., T.D. (LtCol.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>256</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Rice</Key>
-      <Text>. Maj. C. E.. C.B.E.. D.S.O. (trd. to T.F.R.. and granted hon. rank of Brig.-Oen.)</Text>
+      <Title>Maj.</Title>
+      <Forenames>C. E.</Forenames>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1554</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -618,7 +654,7 @@
       <PageNumber>324</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Aotg. Capt., comdg. a Co., W. York. R</Text>
+      <Text>Aotg. Capt., comdg. a Co., W. York. R.</Text>
       <PageNumber>1913</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -667,7 +703,7 @@
       <PageNumber>2737</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Rel. commn., and granted rank of Capt</Text>
+      <Text>Rel. commn., and granted rank of Capt.</Text>
       <PageNumber>3635</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -731,7 +767,9 @@
       <Key>Kigby-Jones</Key>
       <Title>Lt. (actg. Capt.)</Title>
       <Forenames>E.</Forenames>
-      <Text>, M.C. (rel. actg. rank of Capt. on alteration in posting), Sub. Not</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1212</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -740,7 +778,9 @@
       <Key>Rimmer</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>S.</Forenames>
-      <Text>. T.D. (trd. to 3rd West Lanes. Bde.)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>3145</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -776,7 +816,9 @@
       <Key>Ritson</Key>
       <Title>Maj.</Title>
       <Forenames>J. R.</Forenames>
-      <Text>, T.D. (Lt.-Col.)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>2576</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -875,7 +917,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Title>Ma.</Title>
-      <Text>j. G. F., O.B.E. (restd. to estabt of R.H. and R.F.A., T.F.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3000</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -941,7 +985,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>W. J.</Forenames>
-      <Text>, D.C.M. (restd. .to estabt.)</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>914</PageNumber>
     </MainItem>
   </ItemGroup>

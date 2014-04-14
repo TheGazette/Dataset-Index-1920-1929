@@ -5,7 +5,9 @@
       <Key>Orrell</Key>
       <Title>Lt.</Title>
       <Forenames>J.</Forenames>
-      <Text>, M.C. (retires, receiving a gratuity, and granted rank of Capt.), Sub. Not</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6026</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -13,7 +15,10 @@
     <MainItem>
       <Key>Orren</Key>
       <Forenames>T.</Forenames>
-      <Text>/I.O.M., 3rd CI., and Lt. R. N. (T./I.O.M., 2nd CI., with rank of Capt.)</Text>
+      <Text>
+        <Honour>O.M.</Honour>
+        <Honour>O.M.</Honour>
+      </Text>
       <PageNumber>7083</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -42,7 +47,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>H.</Forenames>
-      <Text>, M.C. (resigns commn. and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4336</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -130,7 +137,9 @@
       </Key>
       <Title>Bt. Maj.</Title>
       <Forenames>E. A.</Forenames>
-      <Text>, D.S.O. (temp. Maj. whilst G.S.O., 2nd Gr., from 17th Jan., 1917, to 2nd Jan., 1918, and from 3rd Feb. to 24th July, 1918)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6307</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -156,7 +165,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>G. F.</Forenames>
-      <Text>, M.C. (Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6416</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -167,7 +178,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>G. F. F.</Forenames>
-      <Text>, D.S.O. (retires on an Indian pension)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6764</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -189,7 +202,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>H. C</Forenames>
-      <Text>, M.C. (R.F.A.) (rel. commn. and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5196</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -239,15 +254,20 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Shaughnessy, Lt. C L., D.S.O. (rel. commn. and retains rank ofLt.)</Text>
+      <Key>O'Shaughnessy</Key>
+      <Title>Lt.</Title>
+      <Forenames>C</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6309</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Shea, Ernest George (temp. Lt. whilst a Dental Surg.)</Text>
+      <Key>O'Shea</Key>
+      <Forenames>Ernest George</Forenames>
+      <Text>(temp. Lt. whilst a Dental Surg.)</Text>
       <PageNumber>4552</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -296,7 +316,9 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>J. R.</Forenames>
-      <Text>, M.C. (rel. commn. on aec. of ill-health caused by wounds and retains rank of Lt.), Sub. Not</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4198</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -325,7 +347,9 @@
       <Key>Ost</Key>
       <Title>temp. Lt.</Title>
       <Forenames>H. J.</Forenames>
-      <Text>, M.B.E. (rel. commn. on completion of service and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>5341</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -336,18 +360,24 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>J.</Forenames>
-      <Text>(appt. to M.G.C. Infy.)</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>6668</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Seed, for service with M.G.C</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>6764</PageNumber>
     </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan, Lt. D. J. (rel. commn. and retains rank of Lt.)</Text>
+      <Key>O'Sullivan</Key>
+      <Title>Lt.</Title>
+      <Forenames>D. J.</Forenames>
+      <Text>(rel. commn. and retains rank of Lt.)</Text>
       <PageNumber>7081</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -432,8 +462,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Toole, Lt. A. H. (seed, for service on the Staff)</Text>
+      <Key>O'Toole</Key>
+      <Title>Lt.</Title>
+      <Forenames>A. H.</Forenames>
+      <Text>(seed, for service on the Staff)</Text>
       <PageNumber>4561</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -473,7 +505,9 @@
       <Key>Ottman</Key>
       <Title>Miss</Title>
       <Forenames>A. G.</Forenames>
-      <Text>, M.B.E., A.A. (Dep.Administrator,Q.M.A.A.C)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>4208</PageNumber>
     </MainItem>
     <SubItem>
@@ -497,7 +531,9 @@
       </Key>
       <Title>temp. 2nd Lt.</Title>
       <Forenames>L. A.</Forenames>
-      <Text>, M.C. (rel. commn. on completion of service and granted rank ofLt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4673</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -519,7 +555,9 @@
       <PageNumber>4029</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Ceases to be empld. with M.G.C. Infy</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>4029</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -555,7 +593,9 @@
       <Key>Ovey</Key>
       <Title>Maj. (now temp. Lt.-Col.)</Title>
       <Forenames>D.</Forenames>
-      <Text>, D.S.O. (temp. Maj. whilst G.S.O.,2ndGr.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6307</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -597,7 +637,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>D. C</Forenames>
-      <Text>, D.S.O. (Middx R.) (temp. Maj. whilst D.A.A. and Q.M.G. and D.A.A.G.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6307</PageNumber>
     </MainItem>
   </ItemGroup>

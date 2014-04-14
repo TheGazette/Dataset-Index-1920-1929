@@ -12,7 +12,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Sloman</Key>
-      <Text>temp: Lt. H. N. P., M.C. (rel. .commn. on completion of service, and retains rank of Lt.) '</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1438</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -21,7 +23,9 @@
       <Key>Sluman</Key>
       <Title>temp. Lt.</Title>
       <Forenames>A. J.</Forenames>
-      <Text>, M.C. (rel. commn. on completion of service, and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2549</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -37,7 +41,9 @@
       <Key>Smail</Key>
       <Title>temp.</Title>
       <Forenames>Capt</Forenames>
-      <Text>; G. S., M.C. (rel. actg. rank of Maj. on ceasing to be 2nd in comd. of a Bn.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1687</PageNumber>
     </MainItem>
     <SubItem>
@@ -262,7 +268,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>A. J. H.</Forenames>
-      <Text>, M.C. (rel. commn., and retains rank of . , Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1357</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -282,7 +290,10 @@
       </Key>
       <Title>temp. Capt.</Title>
       <Forenames>Alan R.</Forenames>
-      <Text>, O.B.E. (rel. temp, rank of Maj. on ceasing to be empld. with N.A.C.B.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>848</PageNumber>
     </MainItem>
     <SubItem>
@@ -297,7 +308,9 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>A. W.</Forenames>
-      <Text>, O.B.E. (rel. actg. rank of Capt. on ceasing to be empld. with Lab. Corps)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>1528</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -310,7 +323,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>C</Forenames>
-      <Text>, M.C. (retires on ret. pay)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>927</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -434,7 +449,10 @@
       </Key>
       <Title>Chapln., 4th CI., Rev.</Title>
       <Forenames>C. W.</Forenames>
-      <Text>, C.B.E., D.S.O. (Chapln., 2nd CI.)</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>679</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -456,7 +474,9 @@
       </Key>
       <Title>Qrmr. and Capt.</Title>
       <Forenames>C. W. G.</Forenames>
-      <Text>, M.B.E. (retires on ret. pay)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>2550</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -490,7 +510,9 @@
       </Key>
       <Title>temp. Maj.</Title>
       <Forenames>D. J.</Forenames>
-      <Text>, O.B.E. (R.A.S.C.) (rel. commn. on completion of service, and granted rank of Lt.-Col.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>563</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -511,7 +533,10 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Title>Capt. and Ord. Off., 4th CI., on prob.</Title>
-      <Text>, D. R., O.B.E., M.C. (rel. actg. grading of Ord. Off., 3rd CI., and actg. rank of Maj.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2164</PageNumber>
     </MainItem>
   </ItemGroup>

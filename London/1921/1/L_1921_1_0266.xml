@@ -107,7 +107,9 @@
       <Key>Newton</Key>
       <Title>Flight Lt.</Title>
       <Forenames>Thomas Henry</Forenames>
-      <Text>, D.S.C. (granted perm. commn.)</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>588</PageNumber>
     </MainItem>
     <SubItem>
@@ -188,8 +190,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donoughue, Lt. William (trd. to unempld. list), Sub. Not,</Text>
+      <Key>O'Donoughue</Key>
+      <Title>Lt.</Title>
+      <Forenames>William</Forenames>
+      <Text>(trd. to unempld. list), Sub. Not,</Text>
       <PageNumber>280</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -198,14 +202,18 @@
       <Key>Ogden</Key>
       <Title>Sqdn.</Title>
       <Forenames>Leader Charles Percy</Forenames>
-      <Text>, O.B.E. (granted perm. commn.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>589</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Kill, Lt. Edwin .George Thomas (rel. temp, commn. on appt. to T.F.R., and retains rank)</Text>
+      <Key>O'Kill</Key>
+      <Title>Lt. Edwin .</Title>
+      <Forenames>George Thomas</Forenames>
+      <Text>(rel. temp, commn. on appt. to T.F.R., and retains rank)</Text>
       <PageNumber>692</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -218,7 +226,7 @@
       <PageNumber>2407</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Not. of appt. to short serv. commn. in Gaz. 13 July, 1920, cancelled, Sub. Not.</Text>
+      <Text>Not. of appt. to short serv. commn. in Gaz. 13 July, 1920, cancelled, Sub. Not</Text>
       <PageNumber>781</PageNumber>
     </SubItem>
     <SubItem>
@@ -230,7 +238,9 @@
     <MainItem>
       <Key>Osborn</Key>
       <Forenames>Flying Offr</Forenames>
-      <Text>. F. A., M.M. (granted perm, commn., and retains isubst. rank) '</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>184</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -257,7 +267,9 @@
       <Key>Ovens</Key>
       <Title>Lt. (aotg. Capt.)</Title>
       <Forenames>Alexander Rutherford</Forenames>
-      <Text>, M.B.E. (trd. from S.O. to uneropld. list)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>1373</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -356,8 +368,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Payzant</Key>
-      <Title>Lt. St.</Title>
-      <Forenames>George Charles</Forenames>
+      <Title>Lt.</Title>
+      <Forenames>St. George Charles</Forenames>
       <Text>(trd. to unempld. list)</Text>
       <PageNumber>1063</PageNumber>
     </MainItem>
@@ -421,7 +433,10 @@
       <Key>Peck</Key>
       <Title>Flight Lt.</Title>
       <Forenames>A. H.</Forenames>
-      <Text>, D.S.O., M.C. (granted perm, commn.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>184</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -440,7 +455,9 @@
     <MainItem>
       <Key>Peek</Key>
       <Forenames>John Harold</Forenames>
-      <Text>, M.D., Ch.B., D.P.H. (granted short serv. conimn. as Sqdn. Leader for a period of two years)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>2304</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -465,7 +482,9 @@
     <MainItem>
       <Key>Pendred</Key>
       <Forenames>Flying Offr</Forenames>
-      <Text>. Lawrence Fleming, D.F.C. (granted perm. oommn., retaining present rank and seniority)</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>949</PageNumber>
     </MainItem>
     <SubItem>
@@ -539,7 +558,9 @@
       <Key>Phillips</Key>
       <Title>Flight Lt.</Title>
       <Forenames>Algernon Wynn Pendennis</Forenames>
-      <Text>, O.B.E. (granted short serv. commn.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>2095</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -683,7 +704,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>William Henry</Forenames>
-      <Text>, D.C.M. (trd. to unempld. list)</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>186</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -840,7 +863,9 @@
       <Key>Reed</Key>
       <Title>Lt. (actg. Capt.)</Title>
       <Forenames>William Ernest</Forenames>
-      <Text>, D.F.C. (rel. temp, commn. on appt. to T.F., and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>2407</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -858,7 +883,9 @@
       <Key>Reynolds</Key>
       <Title>Lt. (actg. Capt., Hon. Maj.)</Title>
       <Forenames>Louis George Stanley</Forenames>
-      <Text>, O.B.E. (rel. temp, commn. on sppt. to T.F.R., and retains rank of Maj.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>1283</PageNumber>
     </MainItem>
   </ItemGroup>

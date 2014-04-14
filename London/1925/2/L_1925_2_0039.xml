@@ -30,8 +30,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, F. J</Text>
+      <Key>O'Brien</Key>
+      <Forenames>F. J</Forenames>
       <PageNumber>3298</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1194,7 +1194,9 @@
       <Key>Salomons</Key>
       <Title>Sir</Title>
       <Forenames>D. L. G. S.</Forenames>
-      <Text>. Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>2685</PageNumber>
       <PageNumber>3123</PageNumber>
     </MainItem>

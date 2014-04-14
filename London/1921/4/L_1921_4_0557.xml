@@ -13,7 +13,10 @@
     <MainItem>
       <Key>Warrington-Morris</Key>
       <Forenames>Wing Cdr</Forenames>
-      <Text>. Alfred Drummond, C.M.G., O.B.E. (Group Capt.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>10719</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -29,7 +32,9 @@
     <MainItem>
       <Key>Weare</Key>
       <Forenames>Flying Offr</Forenames>
-      <Text>. Frank Gerald Craven, M.C..(Fit. Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10720</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -37,7 +42,9 @@
     <MainItem>
       <Key>Webster</Key>
       <Forenames>Flying Offr</Forenames>
-      <Text>. Eric John, D.F.C. (Fit. Lt.)</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>10720</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -56,7 +63,10 @@
     <MainItem>
       <Key>Welsh</Key>
       <Forenames>Squad Leader William Lawrie</Forenames>
-      <Text>, D.S.C., A.F.C. (Wing Cdr.)</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>10720</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -97,7 +107,9 @@
       <Key>Wilberforce</Key>
       <Title>Sqadn.</Title>
       <Forenames>Leader Ernest Victor Samuel</Forenames>
-      <Text>, A.F.C. (resigns commn. and granted rank of Lt.-Col.)</Text>
+      <Text>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>7765</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -116,7 +128,10 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Flying Offr</Forenames>
-      <Text>. Frederick, M.C., D.F.C. (placed on retd. list on acc. of illhealth contracted in the Service and granted rank of Capt.}</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>9891</PageNumber>
     </MainItem>
     <SubItem>
@@ -151,7 +166,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Flying Offr</Forenames>
-      <Text>. Walter Travis Swire, D.S.C. (Fit. Lt.)</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>10720</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -170,7 +187,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Flying Offr</Forenames>
-      <Text>. James John, A.F.C. (Fit. Lt.)</Text>
+      <Text>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>10720</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -205,7 +224,9 @@
       </Key>
       <Title>Fit. Lt.</Title>
       <Forenames>William Fothergill</Forenames>
-      <Text>, M.C., M.B. (granted perm, commn., retaining present substantive rank and seniority)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10374</PageNumber>
     </MainItem>
     <SubItem>
@@ -224,14 +245,19 @@
   <ItemGroup>
     <MainItem>
       <Key>Windle</Key>
-      <Text>. Beresford Cooper Webb, D.F.C. (granted short serv. commn. as Flying Officer)</Text>
+      <Forenames>Beresford Cooper Webb</Forenames>
+      <Text>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>8844</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Wiseman</Key>
-      <Text>. Miss Mildred Grace (confd. as Staf nurse)</Text>
+      <Title>Miss</Title>
+      <Forenames>Mildred Grace</Forenames>
+      <Text>(confd. as Staf nurse)</Text>
       <PageNumber>9674</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -377,6 +403,7 @@
     <SubItem>
       <Text>
         <PageNumber>8942</PageNumber>
+        <Honour>Bt</Honour>
       </Text>
       <PageNumber>8942</PageNumber>
     </SubItem>
@@ -391,7 +418,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Devon</Key>
-      <Text>: Curry, Brig.-Gen. Montagu Creighton, C.B., C.B.E., D.S.O</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.B.E.</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>8459</PageNumber>
     </MainItem>
     <SubItem>
@@ -403,7 +434,9 @@
     <MainItem>
       <Key>East</Key>
       <Forenames>Lothian</Forenames>
-      <Text>: Hall, Col. Sir John Richard, Bart, (resigns commn.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>9257</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -422,7 +455,9 @@
       <PageNumber>8942</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>Stuart, Sir Simeon Henry Letchmere, Bart, (resigns commn.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>8942</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -441,7 +476,9 @@
     </MainItem>
     <SubItem>
       <Text>
+        <Honour>C.B.E.</Honour>
         <PageNumber>10655</PageNumber>
+        <Honour>D.S.O.</Honour>
         <PageNumber>10655</PageNumber>
       </Text>
       <PageNumber>10142</PageNumber>
@@ -466,14 +503,19 @@
   <ItemGroup>
     <MainItem>
       <Key>Hertfordshire</Key>
-      <Text>: Mitchell-Innes, Maj. Edward Alfred, C.B.E., K.C</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>10373</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Lancaster</Key>
-      <Text>: Clynes, The Rt. Hon. John Robert, P.C., M.P. (resigns commn.)</Text>
+      <Text>
+        <Honour>P.C.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>8205</PageNumber>
     </MainItem>
     <SubItem>
@@ -481,7 +523,9 @@
       <PageNumber>10025</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>Hornby, Sir William Henry, Bt. (resigns commn.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>8205</PageNumber>
     </SubItem>
     <SubItem>

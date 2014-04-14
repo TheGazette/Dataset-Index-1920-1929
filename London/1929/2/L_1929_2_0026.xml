@@ -92,7 +92,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Sheppard</Key>
-      <Text>Rev. Hugh Richard Lawrie, C.H., M.A., D.D., presented to Deanery of Cathedral and Metropolitical Church of Christ in Canterbury</Text>
+      <Title>Rev.</Title>
+      <Forenames>Hugh Richard Lawrie</Forenames>
+      <Text>
+        <Honour>C.H.</Honour>
+      </Text>
       <PageNumber>4189</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -110,7 +114,9 @@
       <Key>Smith</Key>
       <Title>Rev.</Title>
       <Forenames>Guy Vernon</Forenames>
-      <Text>, M.C., M.A., nominated Bishop Suffragan of Willesden</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2849</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -160,7 +166,11 @@
     <MainItem>
       <Key>Acland-Troyte</Key>
       <Forenames>Lt-</Forenames>
-      <Text>^Colonel Gilt bert John, C.M.G., D.S.O., M.P. for Tiverton</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4108</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -201,7 +211,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>William</Forenames>
-      <Text>, M.P. for Fife, Western</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4117</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -211,7 +223,9 @@
         <KeyDitto>___</KeyDitto>
       </Key>
       <Forenames>William Murdoch</Forenames>
-      <Text>, M.P. for Cannock</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4114</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -220,7 +234,9 @@
       <Key>Addison</Key>
       <Title>Rt. Hon.</Title>
       <Forenames>Christopher</Forenames>
-      <Text>, M.P. for Swindon</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4115</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -251,7 +267,9 @@
     <MainItem>
       <Key>Ainsworth</Key>
       <Title>Lt.</Title>
-      <Text>-Colonel Charles, M.P. for Bury</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4107</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -270,7 +288,9 @@
       <Key>Aird</Key>
       <Title>Capt.</Title>
       <Forenames>J. R.</Forenames>
-      <Text>, M.C., Temporary Equerry to H.R.H. the Prince of Wales</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2433</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -285,7 +305,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Ala</Key>
-      <Text>' Iddin Sulaiman, Shah, His Highness, K.C.M.G., Honorary Knight Grand Cross, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+      </Text>
       <PageNumber>3669</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -293,7 +315,9 @@
     <MainItem>
       <Key>Albery</Key>
       <Forenames>Irving James</Forenames>
-      <Text>, M.P. for Gravesend</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4110</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -314,7 +338,9 @@
       <PageNumber>3856</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>M.P. for Hillsborough</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4114</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -324,7 +350,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Cyril Wilson</Forenames>
-      <Text>, C.M.G., Lieutenant-Governor in the Protectorate of Nigeria</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>3858</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -334,14 +362,22 @@
         <KeyDitto>___</KeyDitto>
       </Key>
       <Title>Brig.</Title>
-      <Text>-General Sir William, K.B.E., C.B., C.M.G., D.S.O., M.P for Glasgow Central</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4117</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Ali</Key>
-      <Text>bin Salim, Sheikh, C.M.G., C.B.E., Honorary Knight Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>3679</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -356,8 +392,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Allen</Key>
-      <Forenames>Paymaster Rear-</Forenames>
-      <Text>Admiral ' Bertram Cowles, C.B., M.V.O., Knight Commander, Order of the Bath</Text>
+      <Forenames>Paymaster</Forenames>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>3667</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -379,7 +418,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>John Sandeman</Forenames>
-      <Text>, M.P. for West Derby, Liver pool</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4111</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -389,7 +430,9 @@
         <KeyDitto>___</KeyDitto>
       </Key>
       <Forenames>William Edward David</Forenames>
-      <Text>, M.P. for West Belfast</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4118</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -399,7 +442,10 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Title>Lt.</Title>
-      <Text>-Colonel Sir William James, K.B.E D.S.O., M.P. for Armagh</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4118</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -407,7 +453,9 @@
     <MainItem>
       <Key>Alpass</Key>
       <Forenames>Joseph Herbert</Forenames>
-      <Text>, M.P. for Bristol Central</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4107</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -416,7 +464,9 @@
       <Key>Alston</Key>
       <Title>The Rt. Hon. Sir</Title>
       <Forenames>Beilby Francis</Forenames>
-      <Text>, K.C.M.G., O.B., Knight Grand Cross, Order of the British Empire</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+      </Text>
       <PageNumber>3677</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -433,7 +483,9 @@
       <Key>Amery</Key>
       <Title>Rt. Hon.</Title>
       <Forenames>Leopold Charles Maurice Stennett</Forenames>
-      <Text>, M.P. for Sparkbrook Division, Birmingham</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4106</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -441,7 +493,9 @@
     <MainItem>
       <Key>Ammon</Key>
       <Forenames>Charles George</Forenames>
-      <Text>, M.P. for Camberwell North</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4107</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -450,7 +504,9 @@
       <Key>Anderson</Key>
       <Title>Capt.</Title>
       <Forenames>Maxwell Hendry</Forenames>
-      <Text>, O.B.E., K.C., R.N. (retd.), Chief Justice of the Supreme Court of Fiji and Judicial Commissioner for the Western Pacific</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3858</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -466,14 +522,16 @@
     <MainItem>
       <Key>Angell</Key>
       <Forenames>Ralph Norman</Forenames>
-      <Text>, M.P. for Bradford North</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4107</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Annaly</Key>
-      <Title>Lady, Lady</Title>
+      <Title>Lady, Lady-in-waiting</Title>
       <Text>to the Duchess of York</Text>
       <PageNumber>3940</PageNumber>
     </MainItem>
@@ -481,7 +539,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Anstruther</Key>
-      <Text>Gough Calthorpe, Capt. Fitzroy Hamilton, Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>3666</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -498,7 +558,9 @@
       <Key>Anwyl-Passingham</Key>
       <Title>Colonel</Title>
       <Forenames>Augustus Mervyn Owen</Forenames>
-      <Text>, O.B.E., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4267</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -506,7 +568,9 @@
     <MainItem>
       <Key>Archer</Key>
       <Forenames>Henry Allan Fairfax Best</Forenames>
-      <Text>, O.B.E., H.M. ViceConsul in China</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3311</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -516,7 +580,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>John</Forenames>
-      <Text>, D.C.M., Member,' Order of the British Empire</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>3679</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -539,7 +605,9 @@
     <MainItem>
       <Key>Arnott</Key>
       <Forenames>John</Forenames>
-      <Text>, M.P. for Kingston-upon-Hull, SouthWest</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4110</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -571,7 +639,9 @@
     <MainItem>
       <Key>Ashley</Key>
       <Title>Lt.</Title>
-      <Text>-Colonel Rt. Hon. Wilfrid William, M.P. for New Forest and Christchurch</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4109</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -588,7 +658,9 @@
       <Key>Aske</Key>
       <Title>Sir</Title>
       <Forenames>William Robert</Forenames>
-      <Text>, Bt., M;P. for Nawcastle-uponTyne East</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4112</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -605,7 +677,9 @@
       <Key>Astor</Key>
       <Title>Major (the Hon.) John .</Title>
       <Forenames>Jacob</Forenames>
-      <Text>, M.P. for Dover</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4110</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -614,8 +688,10 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Nancy Witcher Vis-</Forenames>
-      <Text>countess,, M.P. for Sutton, Plymouth</Text>
+      <Forenames>Nancy Witcher</Forenames>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4113</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -623,7 +699,9 @@
     <MainItem>
       <Key>Atholl</Key>
       <Forenames>Katharine Marjory</Forenames>
-      <Text>Duchess of, M.P. for Kinross and Western Division of Perth and Kinross</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4117</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -631,7 +709,9 @@
     <MainItem>
       <Key>Atkey</Key>
       <Forenames>Oliver Francis Haynes</Forenames>
-      <Text>, M.B., F.R.C.S., Companion, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>3670</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -648,7 +728,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Cyril</Forenames>
-      <Text>, K.C., M.P. for for Altrincham</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4107</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -666,7 +748,9 @@
     <MainItem>
       <Key>Attlee</Key>
       <Forenames>Clement Richard</Forenames>
-      <Text>, M.P. for Limehouse</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4114</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -675,7 +759,9 @@
       <Key>Aveling</Key>
       <Title>Major</Title>
       <Forenames>Thomas Clifford</Forenames>
-      <Text>, M.Inst.C.E., M.Inst.A.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>A.E.</Honour>
+      </Text>
       <PageNumber>3675</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -683,7 +769,9 @@
     <MainItem>
       <Key>Aykroyd</Key>
       <Forenames>Frederic Alfred</Forenames>
-      <Text>, Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>2235</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -691,7 +779,9 @@
     <MainItem>
       <Key>Ayles</Key>
       <Forenames>Walter Henry</Forenames>
-      <Text>, M.P. for Bristol North</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4107</PageNumber>
     </MainItem>
   </ItemGroup>

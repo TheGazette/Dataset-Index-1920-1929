@@ -26,7 +26,9 @@
       </Key>
       <Title>temp. Capt.</Title>
       <Forenames>R. C</Forenames>
-      <Text>, M.C. (Tank Corps) (rel. commin. on completion of service and retains rank of Ca.pt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4212</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -60,7 +62,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>W. G. P.</Forenames>
-      <Text>, O.B.E. (rel, commn. on appt. to commn. in R.A.F.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>6853</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -69,8 +73,8 @@
       <Key>
         <KeyDitto>___ ___ ___ — .</KeyDitto>
       </Key>
-      <Forenames>Lt W. L. R.</Forenames>
-      <Text>de B. (h.p. list, resigns commn.)</Text>
+      <Forenames>Lt W. L. R. de B</Forenames>
+      <Text>. (h.p. list, resigns commn.)</Text>
       <PageNumber>4817</PageNumber>
     </MainItem>
     <SubItem>
@@ -101,7 +105,12 @@
   <ItemGroup>
     <MainItem>
       <Key>Yuill</Key>
-      <Text>temp. Maj. H. H.. D.S.O., M.C. (rel. actg. rank of Lt.-Col.)</Text>
+      <Title>temp. Maj.</Title>
+      <Forenames>H. H.</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5083</PageNumber>
     </MainItem>
     <SubItem>
@@ -113,7 +122,9 @@
     <MainItem>
       <Key>Yule</Key>
       <Title>Ma.</Title>
-      <Text>j. G. U., D.S.O. (temp. Lt.-Col. whilst spec, empld.) (graded as an A.Q.M.G.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4219</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -146,7 +157,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>W.</Forenames>
-      <Text>, M.C. (date of rank and precedence as Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6756</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -155,7 +168,9 @@
       <Key>Zieger</Key>
       <Title>temp. Capt.</Title>
       <Forenames>G.</Forenames>
-      <Text>.G., M.C. (rel. commn. on completion of service and retains rank of Capt,)'</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6029</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -204,7 +219,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Ahem</Key>
-      <Text>temp. Lt. W. P.. M.C. rel. actg.' rank of Capt. on ceasing to be empld. with a Truck Kitchen Bn.) '</Text>
+      <Title>temp. Lt.</Title>
+      <Forenames>W. P.</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4222</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -220,28 +239,39 @@
   <ItemGroup>
     <MainItem>
       <Key>Allason</Key>
-      <Text>Maj. (Bt. Lt.-Col.) W., D.S.O. (rel. temp, rank of Lt.Col.) W.. D.S.O. (rel. temp, rank of Lt.-Col. on ceasing to comd. the 51st Serv. Bn., Bedf and Herts. R.)</Text>
+      <Title>Maj. (Bt. Lt.-Col.)</Title>
+      <Forenames>W.</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4566</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Anderson</Key>
-      <Text>Lt. J. (actg. Capt. comdg. Lab. Co.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>J.</Forenames>
+      <Text>(actg. Capt. comdg. Lab. Co.)</Text>
       <PageNumber>5353</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Andrews</Key>
-      <Text>Lt. R. ,T. W. (actg. Capt, comder. T.ab. Co.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>R.</Forenames>
+      <Text>,T. W. (actg. Capt, comder. T.ab. Co.)</Text>
       <PageNumber>4449</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Anstrnther</Key>
-      <Text>Capt. R. E.. M.C, (rel. temp, rank of Lt.-Col on ceasing to comd. the 8th Serv. Bn., R. Highrs.)</Text>
+      <Title>Capt.</Title>
+      <Forenames>R. E.</Forenames>
+      <Text>. M.C, (rel. temp, rank of Lt.-Col on ceasing to comd. the 8th Serv. Bn., R. Highrs.)</Text>
       <PageNumber>6677</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -250,7 +280,10 @@
       <Key>Ashburner</Key>
       <Title>Maj. (Bt. Lt.-Col.)</Title>
       <Forenames>L. F.</Forenames>
-      <Text>, D.S.O., M.V.O. (rel. temp, rank of Lt.-Col. on ceasing to comd. the 23rd Serv. Bn., R. Fus.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>6031</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -259,7 +292,9 @@
       <Key>Bascombe</Key>
       <Title>temp. Lt. (actg. Capt.)</Title>
       <Forenames>W. S.</Forenames>
-      <Text>, M.M. (Adjt., and retains actg. rank)</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>4213</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -268,7 +303,9 @@
       <Key>Batty</Key>
       <Title>temp. Lt.</Title>
       <Forenames>T. H.</Forenames>
-      <Text>, M.C. (actg. Capt., comdg. a Co., L;ib. Corps)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6984</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -277,7 +314,9 @@
       <Key>Becher</Key>
       <Title>Maj</Title>
       <Forenames>C. M. L.</Forenames>
-      <Text>, C.M.G. (rel. temp, rank of Lt.-Col. on ceasing to comd. the 51st .Serv. Bn., Leic. R.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>5078</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -286,7 +325,10 @@
       <Key>Bellingham</Key>
       <Title>Maj. (Bt. Lt.-Col.)</Title>
       <Forenames>E. H. C. P.</Forenames>
-      <Text>, C.M.G., D.S.O. (rel. temp, rank of Lt.-Col. on ceasing to comd. the 52nd Serv. Bn.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5211</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -295,7 +337,9 @@
       <Key>Betty</Key>
       <Title>Lt.</Title>
       <Forenames>G.</Forenames>
-      <Text>MacM., M.C. (actg. Capt. comdg. a Co.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4222</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -322,7 +366,9 @@
       <Key>Bingham</Key>
       <Title>Capt.</Title>
       <Forenames>D. A.</Forenames>
-      <Text>, D.S.O. (rel. temp, rank of Lt.-Col. on ceasing to comd. the 8th Serv. Bn., Oxf. and Bucks. L.I.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6169</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -408,7 +454,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Cary</Key>
-      <Text>Lt. J. (rel. actg. rank of Capt. on ceasing to be Adjt., Welch R.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>J.</Forenames>
+      <Text>(rel. actg. rank of Capt. on ceasing to be Adjt., Welch R.)</Text>
       <PageNumber>5472</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -417,7 +465,9 @@
       <Key>Castle</Key>
       <Title>Capt.</Title>
       <Forenames>G. S.</Forenames>
-      <Text>,. M.C. (rel. temp, rank of Lt.-Col. on ceasing to comd. the 20th Serv. Bn.. Hamps. R.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4449</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -426,7 +476,11 @@
       <Key>Chadwick</Key>
       <Title>Lt.</Title>
       <Forenames>F.</Forenames>
-      <Text>, D.S.O., M.C. (rel. actg. rank of Maj. on ceasing to be 2nd in enmd. of the 13th Serv. Bn., K.R.R.C.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>R.R.C.</Honour>
+      </Text>
       <PageNumber>4824</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -462,7 +516,10 @@
       <Key>Clark</Key>
       <Title>Lt.</Title>
       <Forenames>C. A.</Forenames>
-      <Text>, D.S.O., M.C. (rel. temp, rank of Maj. on ceasing to be emrild. with Serv. Bns., Northd Fns.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4556</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -477,14 +534,20 @@
   <ItemGroup>
     <MainItem>
       <Key>Collas</Key>
-      <Text>Maj. (Bt,. Lt.-Col.) W. J. .T.. D.S.O. (rel. temp, rank of Lt.Col. on ceasing to comd. the 51st Serv. Bn.. Devon. R.)</Text>
+      <Title>Maj. (Bt,. Lt.-Col.)</Title>
+      <Forenames>W. J.</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5222</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Colson</Key>
-      <Text>temp. Lt.-Col. R. J. (rel. commn. on completion of service, and rptains rank of Lt.Col., A. of O.)</Text>
+      <Title>temp. Lt.-Col.</Title>
+      <Forenames>R. J.</Forenames>
+      <Text>(rel. commn. on completion of service, and rptains rank of Lt.Col., A. of O.)</Text>
       <PageNumber>4556</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -493,7 +556,9 @@
       <Key>Common</Key>
       <Title>temp.</Title>
       <Forenames>Lt</Forenames>
-      <Text>, ,T. E.. M.C. (actg. Capt., comdg. a Co.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4566</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -502,7 +567,28 @@
       <Key>Connolly</Key>
       <Title>temp. Lt.</Title>
       <Forenames>T. P.</Forenames>
-      <Text>(rel. actg. rank of Capt. on ceasing to comd. a Co..) Cooper. Lt. G. (actg. Capt., comdg. Lai). Co.) Corfe, temp. Lt.-Col. A. C, D.S.O. (rel. commn. on completion of service, and retains rank of Lt.Col.) Cotton, temp. Lt.-Col. A. E., D.S.O. (rel. commn. on completion of service, and retains rank of Lt.Col.) Coward, temp. Lt. F. A., M.C. (Tel. actg. ran* of Capt.) Crake, Lt. J. W. (Tel. actg. rank of Capt. on ceasing to comd. a Co.) Crump, Lt.-Col. J. A.. D.S.O. (vacates comd. of the 13th Serv. Bn., Norf. R.) Dane, temp. Lt. B. S., M.C. (actg. Capt., comdg. Lab. Co.) . ... Dann, Maj. (Bt. Lt.-Col.)W. R. H., D.S.O. (rel. temp, rank of Lt.-Col. on ceasing to comd. the 52nd Serv. Bn., Bedf. &amp; Herts. R.) Dashfield, Lt. E. S. (rel. actg. rank of Capt. on ceasing to comd. a Co.) Dennis, temp. Lt. B. E. (actg: Capt., comdg. Area Emplt. Co.) Denton, Lt. N. C. (rel. actg.' Tank of Capt. on ceasing to oomd. a Co.) Devlin, temp. Capt. G. (rel. actg. rank of Maj. on ceasing to be 2nd in comd. of the 52nd Serv. Bn.. Manch. R.). Dewar, Lt. R,, D.S.O. (actg. Capt., comdg. P. of W. Co.) ... Actg. Capt., comdg. Chinese Lab. Co Dickinson, Lt. J. (aotg. Capt., comdg. a Co., Yorks. L.I., corr. of rank) Dillon. Maj. (Bt. Lt.-Col.) E. Fitz G., C.M.G., D.S.O. (rel. temp, rank of Lt.-Col. on ceasing to comd. the 17th Serv. Bn., R.W. Surr. R.) Rel. temp, rank of Lt.-Col. on ceasing to comd. the 17th Serv. Bn., R.W. Surr. R, Dilnutt, temp. Lt. E. J. (rel. actg. rank of Capt. on ceasing to comd. a Co.) Dudgeon. Ma.j. (Bt. Lt.-Col.) R, M.. D.S.O., M.C. (rel. actg. rank of Lt.-Col. on ceasing to comd. the 51st Serv. Bn., Gord. Highrs' Dunbar, Lt. D. J. G. (rel. actg. rank of Capt. on ceasing to comd. a Co.) Actg. Capt., comdg. a Co. ... Rel. actg. rank of Copt, on . ceasing to comd. a Co., R. War. R. Dunn, temp. Capt. J. B., D.S.O. (rel. temp, rank of Lt.-Col. on ceasing to comd. the 12th Serv. Bn., N. Lan. R.) Edsell, Capt. 'G. L. (rel. actg. rank of Maj. on ceasing to be 2nd in comd. of the 52nd Serv. Bn., Durh. L.I.) Ellis, temp. Lt. E. W., M.C. . (Adjt., Hamps. R.) Rel. appt. of Adljt., Hamps. Regt. .. ' Ferguson, temp. Lt. R. M. (Adjt., Sco. Rif.) Fish. temp. Lt. F. J.. M.C. (trd. from Rif. Bde. to R, Suss. R.) Sub. Not Fitzgerald, temp. Lt.-Col. A. S., D.S.O. (rel. commn. on completion of service, and retains rank of Lt.-Col.) .., Foord, Maj. (Bt. Lt.-Col.) W. P. S., D.S.O. (rel. temp; Tank of Lt.-Uol. on ceasing to comd. the 51st Serv. Bn., Northd Fus</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>Bt</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Bt</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Bt</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Bt</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5578</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -21,7 +21,11 @@
       <Key>Wilson</Key>
       <Title>Brigadier</Title>
       <Forenames>General</Forenames>
-      <Text>Sir Samuel Herbert, K.C.M.G., K.B.E., C.B., Captain General and Governor-inChief of the Island of Jamaica and its Dependencies</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>K.B.E.</Honour>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>6779</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -46,7 +50,9 @@
       <Key>Worley</Key>
       <Title>Sir</Title>
       <Forenames>Arthur</Forenames>
-      <Text>, Kt., C.B.E., Member, Royal Commission on National Health Insurance</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>5400</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -105,7 +111,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bent</Key>
-      <Text>. A. M</Text>
+      <Forenames>A. M</Forenames>
       <PageNumber>6497</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -199,7 +205,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Grossman</Key>
-      <Text>. F. L. M</Text>
+      <Forenames>F. L. M.</Forenames>
       <PageNumber>5955</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -631,7 +637,9 @@
       <Key>Wake</Key>
       <Title>Sir</Title>
       <Forenames>H.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6272</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -788,8 +796,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dyson</Key>
-      <Forenames>G. St</Forenames>
-      <Text>. J. A</Text>
+      <Forenames>G. St. J</Forenames>
+      <Text>. A</Text>
       <PageNumber>6847</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -810,8 +818,8 @@
   <SubSectionTitle>Boys Technical School</SubSectionTitle>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donovan, J. C. M. T</Text>
+      <Key>O'Donovan</Key>
+      <Forenames>J. C. M. T.</Forenames>
       <PageNumber>5085</PageNumber>
     </MainItem>
   </ItemGroup>

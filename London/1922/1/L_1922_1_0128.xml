@@ -27,7 +27,7 @@
       <PageNumber>447</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Qrmr. and Lt., Reg. Armv Res. of Off., Gen. List, late temp. Qrmr. and Lt</Text>
+      <Text>Qrmr. and Lt., Reg. Armv Res. of Off., Gen. List, late temp. Qrmr. and Lt.</Text>
       <PageNumber>1793</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -339,7 +339,9 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>H. J.</Forenames>
-      <Text>, M.C. (Rif. Bde.) (rel. commn. on completion of service and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>267</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -350,7 +352,9 @@
       </Key>
       <Title>temp. 2nd Lt.</Title>
       <Forenames>H. J.</Forenames>
-      <Text>, M.C. (Welch R.) (rel.' commn. on completion of service and retains rank of 2nd Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>439</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -433,8 +437,11 @@
     <MainItem>
       <Key>Hazard</Key>
       <Title>temp. Capt.</Title>
-      <Forenames>J.</Forenames>
-      <Text>de Van, M.C., see de Van Hazard, temp. Capt. J.. M.C. Hazel, temp. 2nd Lt. E. R. (rel. commn. on completion of service and retains rank of 2nd Lt.)</Text>
+      <Forenames>J. de Van</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>713</PageNumber>
     </MainItem>
   </ItemGroup>

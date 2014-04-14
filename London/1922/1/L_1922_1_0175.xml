@@ -12,7 +12,9 @@
   <ItemGroup>
     <MainItem>
       <Key>MacPherson</Key>
-      <Text>. Lt. S., M.C. (seed, whilst empld. as Adjt. and Qrmr., Small Arms Sch., India)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1565</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -168,7 +170,9 @@
       <Key>McTaggart</Key>
       <Title>Maj. and Bt. Lt.-Col.</Title>
       <Forenames>M. F.</Forenames>
-      <Text>, D.S.O. (Lt.-Col. on the h.p. list from 5th L.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1177</PageNumber>
     </MainItem>
     <SubItem>
@@ -190,7 +194,11 @@
       <Key>McVicker</Key>
       <Title>Capt.</Title>
       <Forenames>Daniel</Forenames>
-      <Text>, M.C., M.B. (Capt., R.A.M.C., late Capt,, R.A.M.C.), Sub. Not</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>528</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -228,7 +236,9 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>T. B.</Forenames>
-      <Text>, M.C. (rel. commn. on completion of service and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>360</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -286,11 +296,13 @@
       <Key>Madden</Key>
       <Title>temp. Capt. (Lt., 3rd Bn., Somerset L.I.)</Title>
       <Forenames>C. H.</Forenames>
-      <Text>, M.C. (rel. rank of temp. Capt. on ceasing to be empld. with New Armies)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2130</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Rel. commn. and granted rank of Capt</Text>
+      <Text>Rel. commn. and granted rank of Capt.</Text>
       <PageNumber>1919</PageNumber>
     </SubItem>
   </ItemGroup>

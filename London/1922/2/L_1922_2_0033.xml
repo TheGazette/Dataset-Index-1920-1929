@@ -23,7 +23,9 @@
       <Key>Argo</Key>
       <Title>Capt.</Title>
       <Forenames>Galvin A. E.</Forenames>
-      <Text>, M.C., M.B. (actg. Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3692</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -45,7 +47,11 @@
       <Key>Armitage</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>C. C</Forenames>
-      <Text>, C.M.G., D.S.O. (Bt. Col.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4924</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -68,7 +74,11 @@
       <Key>Armytage</Key>
       <Title>Col. Sir</Title>
       <Forenames>George A.</Forenames>
-      <Text>, Bt., C.M.G., D.S.O. (retires on ret. pay and granted hon. rank of Brig.-Gen.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4924</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -79,7 +89,11 @@
       </Key>
       <Title>Lt.-Col. (temp. Col.) Sir</Title>
       <Forenames>G. A.</Forenames>
-      <Text>, Bt., C.M.G., D.S.O. (CoL, late K.R,R.C)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4030</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -90,11 +104,13 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>H. W. H.</Forenames>
-      <Text>, M.C. (rel. appt. as Adjt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4022</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Adjt.</Text>
+      <Text>Adjt</Text>
       <PageNumber>4721</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -137,7 +153,9 @@
     <MainItem>
       <Key>Arnott</Key>
       <Title>Lt.</Title>
-      <Text>'J. F., M.C. (rel. commn. and granted rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2794</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -159,7 +177,9 @@
       <Key>Ashby</Key>
       <Title>Lt.</Title>
       <Forenames>G. W.</Forenames>
-      <Text>, M.C. (placed on h.p. list on acc. of ill-health)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4552</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -217,7 +237,7 @@
       <PageNumber>4250</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Rel. commn. on completion of service and retains rank of Lt.</Text>
+      <Text>Rel. commn. on completion of service and retains rank of Lt</Text>
       <PageNumber>4249</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -234,7 +254,9 @@
     <MainItem>
       <Key>Aston</Key>
       <Title>Lt.</Title>
-      <Text>-Gol. R. G., O.B.E. (Lt.Col., Reg. Army Res. of Off., Regtl. List, R.E., late R.E.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3005</PageNumber>
     </MainItem>
     <SubItem>
@@ -338,7 +360,9 @@
       </Key>
       <Title>temp. 2nd Lt.</Title>
       <Forenames>H. W.</Forenames>
-      <Text>, M.M. (rel. commn. on completion of service and retains rank of 2nd Lt.)</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>4023</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -376,7 +400,9 @@
       </Key>
       <Title>Maj. and Bt. Lt.-Col.</Title>
       <Forenames>C. R. K.</Forenames>
-      <Text>, O.B.E. (retires on ret. pay on completing ten years' service with Egyptian Army)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3494</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -407,7 +433,9 @@
       <Key>Badger</Key>
       <Title>Maj.</Title>
       <Forenames>T. R.</Forenames>
-      <Text>, O.B.E. (h.p. list, retires on ret. pay on acc. of ill-health caused by wounds and granted rank of Lt.-Col.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4924</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -451,7 +479,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>T.</Forenames>
-      <Text>, M.C. (retires, receiving a gratuity)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4401</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -519,7 +549,10 @@
       <Key>Baker</Key>
       <Title>2nd Lt.</Title>
       <Forenames>G. H.</Forenames>
-      <Text>, M.C., M.M. (Lt., Reg. Army Res. of Off., Regtl. List, Inf., Leic. R.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>3213</PageNumber>
     </MainItem>
     <SubItem>
@@ -559,7 +592,10 @@
         <KeyDitto>___ ___ .</KeyDitto>
       </Key>
       <Title>Ord. Off., 3rd CI.</Title>
-      <Text>, and Maj. (Bt. Lt.-Col.) (actg. Ord. Off., 2nd CI., and Lt.-Col.) J., C.B.E. (Ord. Off., 2nd CI., and Lt.-Col.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>3620</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -581,7 +617,9 @@
       </Key>
       <Title>Lt. (h.p. list, late Somerset L.I.)</Title>
       <Forenames>W. G.</Forenames>
-      <Text>, M.C. (retires on ret. pay on account of ill-health contracted on active service and granted rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4148</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -601,7 +639,9 @@
       <Key>Balding</Key>
       <Title>Lt.</Title>
       <Forenames>A. S.</Forenames>
-      <Text>, M.C. (retires, receiving a gratuity)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4401</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -636,7 +676,9 @@
       </Key>
       <Title>Lt.-Col.</Title>
       <Forenames>R. H.</Forenames>
-      <Text>, D.S.O. (retires on ret. pay)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4401</PageNumber>
     </MainItem>
     <SubItem>
@@ -721,7 +763,9 @@
       <Key>Ballard</Key>
       <Title>Capt.</Title>
       <Forenames>G. A.</Forenames>
-      <Text>, O.B.E. (Capt., Reg. Army Res. of Off., Regtl. List, R.E., late R.E.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3005</PageNumber>
     </MainItem>
     <SubItem>
@@ -743,7 +787,9 @@
       <Key>Bamford</Key>
       <Title>Maj.</Title>
       <Forenames>Robert Cecil</Forenames>
-      <Text>, D.S.O., (Maj., Reg. Army Res. of Off., Regtl. List, W. York. R., late Serv. Bn.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3123</PageNumber>
     </MainItem>
     <SubItem>
@@ -756,7 +802,9 @@
       <Key>Bankier</Key>
       <Title>Lt.</Title>
       <Forenames>A. M.</Forenames>
-      <Text>, D.S.O., M.C (Adjt., W. Gds.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3950</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -805,7 +853,9 @@
       <Key>Barber</Key>
       <Title>Sister Miss</Title>
       <Forenames>E.</Forenames>
-      <Text>, R.R.C. (actg. Matron, Q.A.I.M.N.S.)</Text>
+      <Text>
+        <Honour>R.R.C.</Honour>
+      </Text>
       <PageNumber>4644</PageNumber>
     </MainItem>
   </ItemGroup>

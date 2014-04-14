@@ -245,7 +245,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Rawcliffe</Key>
-      <Text>. temp. Chapln., 4th CI., the Rev. E. B. (rel. commn. and apptd. Hon. Chapln., 3rd CI.)</Text>
+      <Title>temp. Chapln., 4th CI., the Rev.</Title>
+      <Forenames>E. B.</Forenames>
+      <Text>(rel. commn. and apptd. Hon. Chapln., 3rd CI.)</Text>
       <PageNumber>9757</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -256,7 +258,9 @@
       </Key>
       <Title>temp.</Title>
       <Forenames>Lt</Forenames>
-      <Text>, T. W., M.C. (rel. commn. on completion of service and granted rank of Capt;) „</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8051</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -283,7 +287,9 @@
       <Key>Rawle</Key>
       <Title>temp. 2nd Lt.</Title>
       <Forenames>J.</Forenames>
-      <Text>, M.C. (rel. comnin. on completion of service, and retains rank of 2nd Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9617</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -323,7 +329,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>S. B.</Forenames>
-      <Text>, M.C. (seed, for service under the Colonial Office)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8690</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -331,7 +339,10 @@
     <MainItem>
       <Key>Rawlinson</Key>
       <Title>temp. Chapln.</Title>
-      <Text>, 4th €1., the Rev. B. S., C.M.G., O.B.E. (rel. commn., and apptd. Hon. Chapln., 1st Cl)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>9757</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -532,7 +543,9 @@
       <Key>Reid</Key>
       <Title>temp. Lt.</Title>
       <Forenames>A. E. F.</Forenames>
-      <Text>, M.C. (rel. commn. on completion of service and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9745</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -619,7 +632,9 @@
       </Key>
       <Title>temp.</Title>
       <Forenames>Lt</Forenames>
-      <Text>, H. M., M.C. (rel. commn. on completion of service and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9452</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -703,7 +718,9 @@
       <Key>Reader</Key>
       <Title>temp. Lt.</Title>
       <Forenames>C. H. A.</Forenames>
-      <Text>, M.C. (rel. commn. on completion of service and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9987</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -759,7 +776,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Reardon</Key>
-      <Text>. temp. Chapln., 4th Cl., the Rev. J. (rel. eommn.)</Text>
+      <Title>temp. Chapln.</Title>
+      <Text>, 4th Cl., the Rev. J. (rel. eommn.)</Text>
       <PageNumber>9757</PageNumber>
     </MainItem>
   </ItemGroup>

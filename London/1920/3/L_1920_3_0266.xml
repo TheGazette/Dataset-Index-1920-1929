@@ -131,7 +131,9 @@
     <MainItem>
       <Key>Heaton</Key>
       <Forenames>A. D.</Forenames>
-      <Text>, M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>7462</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -161,7 +163,9 @@
     <MainItem>
       <Key>Hiidick-Smifch</Key>
       <Forenames>J. N.</Forenames>
-      <Text>, M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>7130</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -197,8 +201,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hourihane</Key>
-      <Forenames>G. O</Forenames>
-      <Text>'B</Text>
+      <Forenames>G. O'B</Forenames>
       <PageNumber>9452</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -283,7 +286,9 @@
     <MainItem>
       <Key>Kerridge</Key>
       <Forenames>S. C</Forenames>
-      <Text>, M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>7130</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -347,7 +352,9 @@
     <MainItem>
       <Key>Lester-Garland</Key>
       <Forenames>A. G.</Forenames>
-      <Text>, M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>7870</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -369,7 +376,8 @@
   <ItemGroup>
     <MainItem>
       <Key>MoOlenaghan</Key>
-      <Text>. H. E. St, G</Text>
+      <Forenames>H. E. St</Forenames>
+      <Text>, G</Text>
       <PageNumber>7671</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -377,7 +385,9 @@
     <MainItem>
       <Key>McOliuskey</Key>
       <Forenames>J. J. P.</Forenames>
-      <Text>, M.M</Text>
+      <Text>
+        <Honour>M.M</Honour>
+      </Text>
       <PageNumber>7870</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -747,7 +757,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Salt</Key>
-      <Text>. R. F</Text>
+      <Forenames>R. F</Forenames>
       <PageNumber>7130</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1069,7 +1079,9 @@
     <MainItem>
       <Key>Walkinshaw</Key>
       <Forenames>I.</Forenames>
-      <Text>to, M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>7462</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1359,7 +1371,9 @@
     <MainItem>
       <Key>Bispham</Key>
       <Forenames>G.</Forenames>
-      <Text>, C.B.E. (ICapt.)</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>9301</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1367,7 +1381,9 @@
     <MainItem>
       <Key>Boatswain</Key>
       <Forenames>A.</Forenames>
-      <Text>, M.C. (temp, Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8633</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1455,7 +1471,9 @@
     <MainItem>
       <Key>Bubterworth</Key>
       <Forenames>A.</Forenames>
-      <Text>OEL, M.C. (temp. Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9303</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1494,7 +1512,9 @@
     <MainItem>
       <Key>Chapman</Key>
       <Forenames>C. W.</Forenames>
-      <Text>, D.C.M. (Capt.)</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>7670</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1523,7 +1543,7 @@
       <PageNumber>8633</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>temp. Capt.</Text>
+      <Text>temp. Capt</Text>
       <PageNumber>9451</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1611,7 +1631,10 @@
     <MainItem>
       <Key>Crampton</Key>
       <Forenames>J.</Forenames>
-      <Text>, D.S.O., M.C. (temp. Lt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9303</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1767,7 +1790,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ellison</Key>
-      <Text>. E. J. K. (temp. Capt.)</Text>
+      <Forenames>E. J. K.</Forenames>
+      <Text>(temp. Capt.)</Text>
       <PageNumber>9303</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1834,7 +1858,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fitzratrlck</Key>
-      <Text>. Lt, C. P. (rel. commn.)</Text>
+      <Forenames>Lt</Forenames>
+      <Text>, C. P. (rel. commn.)</Text>
       <PageNumber>7462</PageNumber>
     </MainItem>
   </ItemGroup>

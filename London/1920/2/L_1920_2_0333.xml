@@ -173,7 +173,11 @@
     <MainItem>
       <Key>Chester</Key>
       <Forenames>City</Forenames>
-      <Text>and County : Bromley-Davenport, Col. William, C.M.G., C.B.E., D.S.O</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>C.B.E.</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>4452</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -193,6 +197,8 @@
     </MainItem>
     <SubItem>
       <Text>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O.</Honour>
         <PageNumber>6879</PageNumber>
       </Text>
       <PageNumber>6879</PageNumber>
@@ -206,7 +212,9 @@
       <PageNumber>6879</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>Neish, Maj. Colin Graham, O.B.E</Text>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>6879</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -227,7 +235,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Orkney</Key>
-      <Text>and Shetland: Nicolson, Sir Arthur John Frederick William, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>5250</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -251,7 +261,9 @@
       <PageNumber>5362</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Burney, Adm. Sir Cecil, C;M.G., K.C.B</Text>
+      <Text>
+        <Honour>K.C.B</Honour>
+      </Text>
       <PageNumber>5362</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -266,7 +278,11 @@
       <PageNumber>5487</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>Scudamore, Brig.-Gen. Charles Philip, C.B., C.M.G., D.S.O</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5487</PageNumber>
     </SubItem>
     <SubItem>
@@ -278,7 +294,9 @@
     <MainItem>
       <Key>Yorkshire</Key>
       <Forenames>East Riding</Forenames>
-      <Text>and Kingston-upon-Hull: Wright, Lt.-Col. Alfred George William, T.D</Text>
+      <Text>
+        <Honour>T.D</Honour>
+      </Text>
       <PageNumber>6189</PageNumber>
     </MainItem>
   </ItemGroup>

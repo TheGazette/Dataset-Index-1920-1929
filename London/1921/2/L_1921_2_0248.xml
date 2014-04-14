@@ -77,7 +77,10 @@
       <Key>Matheson</Key>
       <Title>Fit. Lt.</Title>
       <Forenames>I. M.</Forenames>
-      <Text>, M.C., A.F.C. (restd. to active list for temp, duty)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>3545</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -133,7 +136,9 @@
     <MainItem>
       <Key>Mayer</Key>
       <Forenames>Flying Offr</Forenames>
-      <Text>. J. L., D.F.C. (restd. .to active list for temp. duty)</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>3544</PageNumber>
     </MainItem>
     <SubItem>
@@ -163,7 +168,9 @@
       <Key>Medcalf</Key>
       <Title>Capt.</Title>
       <Forenames>H.</Forenames>
-      <Text>, M.B.E. (rel. temp. R.A.F, commn. and retains rank)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>5015</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -213,7 +220,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Messer</Key>
-      <Text>Miss M. C. (Staff Nurse)</Text>
+      <Title>Miss</Title>
+      <Forenames>M. C.</Forenames>
+      <Text>(Staff Nurse)</Text>
       <PageNumber>4550</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -268,7 +277,9 @@
       </Key>
       <Title>Sqdn.</Title>
       <Forenames>Leader E. L.</Forenames>
-      <Text>, M.B.E. (placed on ret. list on acc. of ill-health contracted in the Service), Sub. Not,</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>5014</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -413,8 +424,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Molloy-O</Key>
-      <Text>'Neill, Flying Offr. G. L. (granted short serv. oommn.)</Text>
+      <Key>Molloy-O'Neill</Key>
+      <Forenames>Flying Offr</Forenames>
+      <Text>. G. L. (granted short serv. oommn.)</Text>
       <PageNumber>4737</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -432,7 +444,9 @@
       <Key>Monahan</Key>
       <Title>Flight Lt.</Title>
       <Forenames>R. J.</Forenames>
-      <Text>, M.D. (granted temp, commn.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3292</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -467,7 +481,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Moore</Key>
-      <Text>Miss C. M. (Sister)</Text>
+      <Title>Miss</Title>
+      <Forenames>C. M.</Forenames>
+      <Text>(Sister)</Text>
       <PageNumber>4550</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -526,14 +542,18 @@
   <ItemGroup>
     <MainItem>
       <Key>Morton</Key>
-      <Text>Flight Lit. T. C. St. C, M.B. (date of appt. to permanent commn.)</Text>
+      <Title>Flight Lit.</Title>
+      <Forenames>T. C. St. C</Forenames>
+      <Text>, M.B. (date of appt. to permanent commn.)</Text>
       <PageNumber>5015</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Moses</Key>
-      <Text>Cadet E. D. (Not. in Gaz., 10 June, 1919, cancelled)</Text>
+      <Title>Cadet</Title>
+      <Forenames>E. D.</Forenames>
+      <Text>(Not. in Gaz., 10 June, 1919, cancelled)</Text>
       <PageNumber>2799</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -639,7 +659,9 @@
       <Key>Nevill</Key>
       <Title>Sqdn.</Title>
       <Forenames>Leader S. H.</Forenames>
-      <Text>, O.B.E. (trd. to unempld. list), Sub. .Not</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3853</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -657,7 +679,9 @@
       <Key>Nicholson</Key>
       <Title>Miss</Title>
       <Forenames>G.</Forenames>
-      <Text>, A.R.R.C. (Matron)</Text>
+      <Text>
+        <Honour>A.R.R.C.</Honour>
+      </Text>
       <PageNumber>4550</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -694,7 +718,12 @@
   <ItemGroup>
     <MainItem>
       <Key>Norton</Key>
-      <Text>Flight Lt. J. H., M.C., D.F.C. (resigns commn. and retains rank of Capt.), Sub. Not,</Text>
+      <Title>Flight Lt.</Title>
+      <Forenames>J. H.</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>4099</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -710,7 +739,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Oades</Key>
-      <Text>^ Flyingoffr.'s. A., M.C.' (restd. to active list for temp. duty)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3544</PageNumber>
     </MainItem>
     <SubItem>
@@ -757,15 +788,18 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, Flying Offr. G. L. Molloy. (See Miolloy-O'Neill. Flying Offr. G. L.) Openshaw, 2nd Lt. F. E. (trd. to unempld. list)</Text>
+      <Key>O'Neill</Key>
+      <Forenames>Flying Offr</Forenames>
+      <Text>. G. L. Molloy. (See Miolloy-O'Neill. Flying Offr. G. L.) Openshaw, 2nd Lt. F. E. (trd. to unempld. list)</Text>
       <PageNumber>3292</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Orchard</Key>
-      <Text>2nd Lt. R. R. (rel. temp, commn, on ceasing to be empld.), Sub. Not</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>R. R.</Forenames>
+      <Text>(rel. temp, commn, on ceasing to be empld.), Sub. Not</Text>
       <PageNumber>4302</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -774,7 +808,9 @@
       <Key>Outram</Key>
       <Title>Capt. (actg. Lt.-Col.)</Title>
       <Forenames>H. W</Forenames>
-      <Text>S.. C.B.E. (rel. temp, oommn. on ceasing to be empld. and retains rank of Lt.-Col.)</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>4550</PageNumber>
     </MainItem>
     <SubItem>
@@ -785,7 +821,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Owen</Key>
-      <Text>Lt. E. E. (trd. to unempld. list)</Text>
+      <Title>Lt.</Title>
+      <Forenames>E. E.</Forenames>
+      <Text>(trd. to unempld. list)</Text>
       <PageNumber>5015</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -810,7 +848,10 @@
       <Key>Paine</Key>
       <Title>Flight Lt.</Title>
       <Forenames>L. P. Scott</Forenames>
-      <Text>, D.S.C. (See Scott Paine. Flight Lt. L. P., D.S.O.) Palmer, Flying Offr. A. L. (eranted temipi. commn. on prob. fpir Acct. duties)</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3543</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -828,7 +869,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Partner</Key>
-      <Text>Pil. Offr. A. H. (restd. to active list for temp, dutv)</Text>
+      <Title>Pil. Offr.</Title>
+      <Forenames>A. H.</Forenames>
+      <Text>(restd. to active list for temp, dutv)</Text>
       <PageNumber>3543</PageNumber>
     </MainItem>
     <SubItem>

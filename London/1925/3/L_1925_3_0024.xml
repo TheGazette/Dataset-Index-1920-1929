@@ -1058,7 +1058,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kirby</Key>
-      <Text>A. ..:</Text>
+      <Forenames>A.</Forenames>
+      <Text>..:</Text>
       <PageNumber>5916</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1136,8 +1137,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lambert</Key>
-      <Title>St.</Title>
-      <Forenames>J. M</Forenames>
+      <Title>St. J.</Title>
+      <Forenames>M</Forenames>
       <PageNumber>5217</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1298,7 +1299,9 @@
       <Key>Leighton</Key>
       <Title>Sir</Title>
       <Forenames>R. T.</Forenames>
-      <Text>Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4954</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1362,7 +1365,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Loch</Key>
-      <Text>C. A. R</Text>
+      <Forenames>C. A. R.</Forenames>
       <PageNumber>6030</PageNumber>
     </MainItem>
   </ItemGroup>

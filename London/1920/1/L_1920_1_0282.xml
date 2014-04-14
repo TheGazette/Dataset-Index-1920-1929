@@ -5,7 +5,9 @@
       <Key>Hall</Key>
       <Title>Capt.</Title>
       <Forenames>G. L.</Forenames>
-      <Text>, M.C. (Adjt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>653</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -60,7 +62,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>H. W.</Forenames>
-      <Text>, M.C. (retires, receiving a gratuity)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>908</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -218,7 +222,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>R. V.</Forenames>
-      <Text>, M.C. (actg. Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2160</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -320,7 +326,7 @@
       <PageNumber>183</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Rel. commn. on completion oi service and granted rank of Capt</Text>
+      <Text>Rel. commn. on completion oi service and granted rank of Capt.</Text>
       <PageNumber>321</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -331,7 +337,9 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>H. H. L.</Forenames>
-      <Text>, M.C. (actg. Capt. comdg. a Co., A. of O.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2311</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -414,7 +422,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hall</Key>
-      <Text>ward, Lt. B. M., D.S.O. (rel. temp, rank of Capt. on ceasing to be spec, empld.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>688</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -452,7 +462,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Halton</Key>
-      <Text>. Lt. W., M.C. (restd. to estabt.) -</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1519</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -470,7 +482,9 @@
       <Key>Hambling</Key>
       <Title>Lt.</Title>
       <Forenames>L.</Forenames>
-      <Text>, M.C. (resigns commn. and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1811</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -510,7 +524,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>M.</Forenames>
-      <Text>, M.C. (retires, receiving a gratuity)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>487</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -540,8 +556,8 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Title>Capt.</Title>
-      <Forenames>C.</Forenames>
-      <Text>de C. (rel. appt. of Adjt.)</Text>
+      <Forenames>C. de C</Forenames>
+      <Text>. (rel. appt. of Adjt.)</Text>
       <PageNumber>1907</PageNumber>
     </MainItem>
     <SubItem>
@@ -569,7 +585,9 @@
       </Key>
       <Title>Surpern. Lt.-Col.</Title>
       <Forenames>C. L. C</Forenames>
-      <Text>, C. M.G., D.S.O. (restd. to estabt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>804</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -580,7 +598,10 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>C. S. P.</Forenames>
-      <Text>, D.S.O. (Bt. Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>1379</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -591,7 +612,9 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>D. J.</Forenames>
-      <Text>, M.C. (rel, actg. rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2573</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -612,7 +635,10 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Title>Bt. Lt.</Title>
-      <Text>-Cot. E. G., C.MG., D. S.O., M.C. (temp. Maj. whilst G.S.O., 2nd Gr.)</Text>
+      <Text>
+        <Honour>D. S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>183</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -638,7 +664,7 @@
       <PageNumber>809</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Rel. commn. on completion of service and granted rank of Capt</Text>
+      <Text>Rel. commn. on completion of service and granted rank of Capt.</Text>
       <PageNumber>1552</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -686,7 +712,11 @@
       </Key>
       <Title>Gen. Sir</Title>
       <Forenames>I. S. M.</Forenames>
-      <Text>, G.C.B., G.C.M.G., D.S.O. (retires on ret. pay)</Text>
+      <Text>
+        <Honour>G.C.B.</Honour>
+        <Honour>G.C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>954</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -697,7 +727,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>J. D.</Forenames>
-      <Text>, M.C. (rel. actg. rank of Capt. on ceasing to comd. a Co., Middx. R., A. of O.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4008</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -759,7 +791,12 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>N.</Forenames>
-      <Text>, M.B.E.(resigns commn. and retains rank of Lt.) .. Hanbury-Sparrow, Capt. and Bt. Maj. A. A. H., D.S.O., M.C. (restd. to estabt.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+        <Honour>Bt</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>147</PageNumber>
     </MainItem>
   </ItemGroup>

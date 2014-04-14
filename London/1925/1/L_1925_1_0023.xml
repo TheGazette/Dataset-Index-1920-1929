@@ -4,7 +4,9 @@
     <MainItem>
       <Key>Tej</Key>
       <Forenames>Shumshere Jung</Forenames>
-      <Text>, Genera] Sir, Bahadur Rana, K.C.I.E., Hon. Knight Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>K.C.I.E.</Honour>
+      </Text>
       <PageNumber>129</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -21,7 +23,9 @@
     <MainItem>
       <Key>Tilok</Key>
       <Forenames>Sing Sauntiyal</Forenames>
-      <Text>, Sub. Maj., I. .O.M., Member of the Order of the British Empire</Text>
+      <Text>
+        <Honour>O.M.</Honour>
+      </Text>
       <PageNumber>1768</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -29,7 +33,10 @@
     <MainItem>
       <Key>Tiruvenkata</Key>
       <Forenames>Rangachariar</Forenames>
-      <Text>, Diwan Bahadur, Companion, Order of the Indian Empire Todd, Miss Constance Elizabeth, R.R.C., M.M., Lady of Grace, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>R.R.C.</Honour>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>47</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -57,7 +64,9 @@
     <MainItem>
       <Key>U</Key>
       <Forenames>Me</Forenames>
-      <Text>, I.S.O., Companion, Order of the Indian Empire</Text>
+      <Text>
+        <Honour>I.S.O</Honour>
+      </Text>
       <PageNumber>5</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -74,7 +83,9 @@
       <Key>Vaughan</Key>
       <Title>Lieut.-Col.</Title>
       <Forenames>Joseph Charles Stoelke</Forenames>
-      <Text>, Companion, Order of the Indian Empire Venning, Col. Francis Esmond Wingate, D.S.O., Commander of the Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1768</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -82,7 +93,9 @@
     <MainItem>
       <Key>Villiers-Stuart</Key>
       <Forenames>William Des-</Forenames>
-      <Text>mond, C.B.E., Distin'. guished Service Order</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>1768</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -90,7 +103,9 @@
     <MainItem>
       <Key>Volume</Key>
       <Forenames>David Alexander</Forenames>
-      <Text>, M.D., Official Member of Executive Council of Presidency of Virgin Islands</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>1234</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -115,7 +130,10 @@
     <MainItem>
       <Key>Ware</Key>
       <Forenames>Arthur Maitland</Forenames>
-      <Text>, M.D., F.R.C.S., Esquire, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>47</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -123,7 +141,9 @@
     <MainItem>
       <Key>AVaring</Key>
       <Forenames>Holburt Jacob</Forenames>
-      <Text>, C.B.E., M.S., B.Sc., F.R.C.S,, Knight</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
       <PageNumber>1070</PageNumber>
     </MainItem>
@@ -140,7 +160,11 @@
     <MainItem>
       <Key>Watson</Key>
       <Forenames>Engineer Rear-</Forenames>
-      <Text>Admiral Lewis Jones, O.B.E., Companion, Order of the Bath Waugh, Alexander Telford, C.M.G., H.M. ConsulGeneral at Constantinople</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>449</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -157,7 +181,10 @@
       <Key>Webb</Key>
       <Title>Sir</Title>
       <Forenames>Aston</Forenames>
-      <Text>, K.C.V.O., . . C.B., Knight Grand Cross, &gt;„.—i; „j.r\TAor</Text>
+      <Text>
+        <Honour>K.C.V.O.</Honour>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>5</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -166,7 +193,9 @@
       <Key>Whitestone</Key>
       <Title>Gapt.</Title>
       <Forenames>Berkeley Frederic</Forenames>
-      <Text>, M.C., Member of the Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1768</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -175,7 +204,10 @@
       <Key>Williams</Key>
       <Title>Col.</Title>
       <Forenames>George Mostyn</Forenames>
-      <Text>, C.M.G., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -192,8 +224,8 @@
     <MainItem>
       <Key>Wright</Key>
       <Title>Maj.</Title>
-      <Forenames>Arthur St</Forenames>
-      <Text>. John, Officer of the Order of the British Empire</Text>
+      <Forenames>Arthur St. John</Forenames>
+      <Text>, Officer of the Order of the British Empire</Text>
       <PageNumber>1768</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -249,7 +281,9 @@
       <Key>Berney</Key>
       <Title>Sir</Title>
       <Forenames>T. R.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>991</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -258,7 +292,9 @@
       <Key>Birdwood</Key>
       <Title>Sir</Title>
       <Forenames>W. R.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>1954</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -322,7 +358,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Currey</Key>
-      <Text>. H. P</Text>
+      <Forenames>H. P</Forenames>
       <PageNumber>1607</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -336,16 +372,16 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Chair</Forenames>
-      <Text>, G. H. B. ... '</Text>
+      <Key>De Chair</Key>
+      <Forenames>G. H. B.</Forenames>
+      <Text>... '</Text>
       <PageNumber>517</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>La Bere</Forenames>
+      <Key>De La</Key>
+      <Forenames>Bere</Forenames>
       <Text>, I. ...'</Text>
       <PageNumber>853</PageNumber>
     </MainItem>
@@ -586,8 +622,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Long</Key>
-      <Forenames>A.</Forenames>
-      <Text>de L</Text>
+      <Forenames>A. de L</Forenames>
       <PageNumber>1606</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -818,7 +853,7 @@
   <ItemGroup>
     <MainItem>
       <Key>R</Key>
-      <Text>.ansome, A. L. ... -</Text>
+      <Text>ansome, A. L. ... -</Text>
       <PageNumber>517</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -932,7 +967,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Trevor</Key>
-      <Text>. H. E. ... '</Text>
+      <Forenames>H. E.</Forenames>
+      <Text>... '</Text>
       <PageNumber>220</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1016,7 +1052,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Willoughby</Key>
-      <Text>de Broke, Lord</Text>
+      <Forenames>de Broke</Forenames>
+      <Text>, Lord</Text>
       <PageNumber>53</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1148,7 +1185,7 @@
   <ItemGroup>
     <MainItem>
       <Key>H</Key>
-      <Text>.aszard, .G. F</Text>
+      <Text>aszard, .G. F</Text>
       <PageNumber>854</PageNumber>
     </MainItem>
   </ItemGroup>

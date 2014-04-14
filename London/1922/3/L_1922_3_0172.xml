@@ -158,7 +158,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Heaton</Key>
-      <Forenames>Elen</Forenames>
+      <Title>Elen .</Title>
       <PageNumber>5561</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -193,7 +193,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hentsch</Key>
-      <Text>(Inch), Frederick Alfred</Text>
+      <Title>(Inch)</Title>
+      <Text>, Frederick Alfred</Text>
       <PageNumber>5745</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -207,7 +208,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hunt</Key>
-      <Forenames>Emily</Forenames>
+      <Title>Emily .</Title>
       <PageNumber>5395</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -443,7 +444,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Jessop</Key>
-      <Forenames>Alfred</Forenames>
+      <Title>Alfred .</Title>
       <PageNumber>5748</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -487,7 +488,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Johns</Key>
-      <Forenames>Wiljiam</Forenames>
+      <Title>Wiljiam .</Title>
       <PageNumber>5743</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -546,7 +547,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Eleanor</Forenames>
+      <Title>Eleanor .</Title>
       <PageNumber>5073</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -659,7 +660,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Jones-Williams</Key>
-      <Text>. Thomas John</Text>
+      <Forenames>Thomas John</Forenames>
       <PageNumber>6549</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -702,7 +703,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kay</Key>
-      <Forenames>Betsey</Forenames>
+      <Title>Betsey .</Title>
       <PageNumber>5747</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -907,7 +908,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Krimmel</Key>
-      <Forenames>Leopold</Forenames>
+      <Title>Leopold .</Title>
       <PageNumber>6806</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -988,14 +989,14 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>William</Forenames>
+      <Title>William .</Title>
       <PageNumber>6541</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Langdon</Key>
-      <Forenames>Florence</Forenames>
+      <Title>Florence .</Title>
       <PageNumber>6415</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1037,7 +1038,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lawton</Key>
-      <Forenames>Robert</Forenames>
+      <Title>Robert .</Title>
       <PageNumber>5993</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1051,7 +1052,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lee</Key>
-      <Forenames>George</Forenames>
+      <Title>George .</Title>
       <PageNumber>6276</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1141,8 +1142,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Lucie</Forenames>
-      <Text>... ... .-</Text>
+      <Title>Lucie .</Title>
+      <Text>.. ... .-</Text>
       <PageNumber>6275</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1203,9 +1204,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Littlejohns</Key>
-      <Title>Engr.</Title>
-      <Forenames>Rear-</Forenames>
-      <Text>Admiral William George, C.B</Text>
+      <Title>Engr. Rear-Admiral</Title>
+      <Forenames>William George</Forenames>
+      <Text>
+        <Honour>C.B</Honour>
+      </Text>
       <PageNumber>5660</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1219,7 +1222,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lockwood</Key>
-      <Forenames>Isabella</Forenames>
+      <Title>Isabella .</Title>
       <PageNumber>6874</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1247,7 +1250,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Long</Key>
-      <Forenames>Emily</Forenames>
+      <Title>Emily .</Title>
       <PageNumber>5566</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1289,8 +1292,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lugard</Key>
-      <Title>Dame</Title>
-      <Forenames>Martha</Forenames>
+      <Title>Dame Martha .</Title>
       <PageNumber>5485</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1350,21 +1352,21 @@
   <ItemGroup>
     <MainItem>
       <Key>McAree</Key>
-      <Forenames>James</Forenames>
+      <Title>James .</Title>
       <PageNumber>5317</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>McCormick</Key>
-      <Forenames>Isabella</Forenames>
+      <Title>Isabella .</Title>
       <PageNumber>5159</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>McCulloch</Key>
-      <Forenames>James</Forenames>
+      <Title>James .</Title>
       <PageNumber>6802</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1465,7 +1467,9 @@
     <MainItem>
       <Key>Mahon</Key>
       <Forenames>Henry Pakenham</Forenames>
-      <Text>, Esq., D.L</Text>
+      <Text>
+        <Honour>D.L</Honour>
+      </Text>
       <PageNumber>5323</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -11,7 +11,8 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>. Scott,</Text>
+      <Forenames>Scott</Forenames>
+      <Text>,</Text>
       <PageNumber>___ ___ . ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -30,7 +31,10 @@
       <Key>Ruttledge</Key>
       <Title>Maj.</Title>
       <Forenames>T. G.</Forenames>
-      <Text>, O.B.E., M.C. (temp. Dep. Prov.-Marshal, Cl. X, attd. to Hd.-Qr. Unit, from Cl. BB, and retains temp, rank of Lt.-Col.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6929</PageNumber>
     </MainItem>
     <SubItem>
@@ -38,7 +42,11 @@
       <PageNumber>6749</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>Leger, Col. S. E., C.M.G., C.V.O., D.S.O. (rel. temp, appt. as Asst. Dir. of Mobilization and Recruiting at War Office)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>C.V.O.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7743</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -56,7 +64,10 @@
       <Key>Savile</Key>
       <Title>Maj.</Title>
       <Forenames>C. R. U.</Forenames>
-      <Text>, D.S.O., O.B.E. (temp. Dep. Asst., Mil. Sec, at War Office)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>6159</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -127,7 +138,10 @@
       <Key>Shearman</Key>
       <Title>Capt.</Title>
       <Forenames>C. E. G.</Forenames>
-      <Text>, D.S.O., M.C. (temp. Brig.-Maj., from a Staff Capt)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7041</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -185,7 +199,9 @@
       <Key>Skeats</Key>
       <Title>Qrmr. and Lt.-Col.</Title>
       <Forenames>T. G.</Forenames>
-      <Text>, O.B.E. (rel. temp. appt. as G.S.O., 3rd Gr., at War Office, and temp, rank of Maj.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>5315</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -207,7 +223,9 @@
       </Key>
       <Title>temp.</Title>
       <Forenames>Lt</Forenames>
-      <Text>, J. A., M.B.E. (rel; emplt. under D&gt;recte. of Graves Registration and Enquiries. Cl. FF, A.G.'s ana Q.M.G.'s Staff)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>7435</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -219,14 +237,24 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>L. C. L.</Forenames>
-      <Text>(rel. appt. as Staff Capt., attd. to Hd.-Qr. Unit, and temp, rank of Capt.) Smythe, Lt, C. St, G. Lyster. sec Lyster-Smythe, Lt. C. St. G. Snelling, Lt. P. (rel. appt. as Rly. Trans. Officer, Cl. HH, Hd.-Qrs. Admin. Servs. and Depts.) Solano, Capt. B. A. (rel. appt. as Brig. Maj., attd. to Hd.-Qr. Unit) Somerset, Lt. I., M.C. (rel. appt. as Staff Capt,, attd. to Hd.-Qr. Unit) ... . ___ ___ Capt.. R, G., M.C. (temp, Staff Capt,, attd. to Hd.-Qr. Unit) Souchon. Lt. G. H. (rel. appt. as G. S.O., 3rd Gr., General Staff, and temp, rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5447</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Sparrow</Key>
-      <Text>Bt, Maj. A. A. H. Hanbury, D.S.O., M.C., see Hanbury-Sparrow, Bt, Maj. A. A. H. , D.S.O., M.C. Spencer, Capt, E. A. (temp. G.S.O., 3rd Gr., at War Offioe)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>Bt</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6651</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -236,7 +264,10 @@
       <Key>Stone</Key>
       <Title>temp. Lt.</Title>
       <Forenames>A. E. B.</Forenames>
-      <Text>(corr. of date of relg. spec. appt. Cl. HH) Stonor, Bt, Lt.-Col. W. G., M.C. (rel. appt. as Comdt., Cl. X, attd. to Hd.-Qr. Unit) Storey-Cooper, Lt, E. S. (rel. appt. as Rly. Traffic Offr., Cl. FF, Hd.-Qrs. of Admin. Servs. and Depts.) Temp. Comdt., attd. to Hd.Qr. Unit Strange, Lt. J. R. (rel. temp. spec. appt,, Cl. HH, as Cipher Offr.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6150</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -245,7 +276,9 @@
       <Key>Street</Key>
       <Title>Bt. Lt.-Col.</Title>
       <Forenames>H.</Forenames>
-      <Text>, D.S.O. (rel. temp, appt, as Dep. Asst. Mil. Sec, Cl. H, at War Office)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6651</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -254,7 +287,13 @@
       <Key>Studdert</Key>
       <Title>Bt. Maj.</Title>
       <Forenames>R. H.</Forenames>
-      <Text>, D.S.O., M.C. (corr. of date of relg. appt. as G.S.O., 2nd Gr., General Staff, and temp, rank of Maj.) Sykes, Maj. G. A., O.B.E. (rel. appt, as D.A.Q.M.G.,.-A.G.'s and Q.M.G.'s Staff) I ___ ___ ___ ___ Lt. N. C. M., M.C. (A.D.C.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>A.D.C.</Honour>
+      </Text>
       <PageNumber>5701</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -272,7 +311,10 @@
       <Key>Tancred</Key>
       <Title>Maj.-Gen.</Title>
       <Forenames>T. A.</Forenames>
-      <Text>, C.B., C. M.G., D.S.O. (rel. appt. of Col., R.A., on promotion)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7511</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -286,7 +328,10 @@
     </MainItem>
     <SectionTitle>see Meysev-Thompson, Lt. 0</SectionTitle>
     <SubItem>
-      <Text>Traill, Capt. C. J., M.C. (A.D.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>A.D.C.</Honour>
+      </Text>
       <PageNumber>5621</PageNumber>
     </SubItem>
   </ItemGroup>

@@ -232,7 +232,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Scha</Key>
-      <Text>.fer, E. Scott, G. C</Text>
+      <Text>fer, E. Scott, G. C</Text>
       <PageNumber>8130</PageNumber>
       <PageNumber>8130</PageNumber>
     </MainItem>
@@ -267,7 +267,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Senior</Key>
-      <Text>. E. H</Text>
+      <Forenames>E. H.</Forenames>
       <PageNumber>7808</PageNumber>
       <PageNumber>8200</PageNumber>
     </MainItem>
@@ -318,7 +318,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sharpe</Key>
-      <Text>. E. E</Text>
+      <Forenames>E. E.</Forenames>
       <PageNumber>7705</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -361,7 +361,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Shepard</Key>
-      <Text>. D. C. A</Text>
+      <Forenames>D. C. A.</Forenames>
       <PageNumber>6997</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -397,14 +397,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Shorthose</Key>
-      <Text>. AV. J. T</Text>
+      <Text>AV. J. T</Text>
       <PageNumber>6774</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Shoulder</Key>
-      <Text>. H</Text>
+      <Forenames>H.</Forenames>
       <PageNumber>7808</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -536,14 +536,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Smurtliwnite</Key>
-      <Text>. .A. S. -I</Text>
+      <Text>.A. S. -I</Text>
       <PageNumber>6615</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Smvth</Key>
-      <Text>. Sir N. M, ,</Text>
+      <Title>Sir</Title>
+      <Forenames>N. M</Forenames>
+      <Text>, ,</Text>
       <PageNumber>6841</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -557,7 +559,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Somerset</Key>
-      <Text>. I</Text>
+      <Forenames>I.</Forenames>
       <PageNumber>7162</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -779,7 +781,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sullivan</Key>
-      <Text>. R. T</Text>
+      <Forenames>R. T.</Forenames>
       <PageNumber>7426</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -911,8 +913,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Thorn</Key>
-      <Forenames>G. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>G. St. C</Forenames>
       <PageNumber>7162</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -961,7 +962,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Thurgood</Key>
-      <Text>. L. C</Text>
+      <Forenames>L. C.</Forenames>
       <PageNumber>7356</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -975,14 +976,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Thurston</Key>
-      <Text>. H. S</Text>
+      <Forenames>H. S</Forenames>
       <PageNumber>6997</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Thwavtes</Key>
-      <Text>. R, C. G</Text>
+      <Forenames>R</Forenames>
+      <Text>, C. G</Text>
       <PageNumber>7161</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1018,28 +1020,28 @@
   <ItemGroup>
     <MainItem>
       <Key>Tindal-Atkinson</Key>
-      <Text>. J. F</Text>
+      <Forenames>J. F.</Forenames>
       <PageNumber>7511</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Tobias</Key>
-      <Text>. AV. O</Text>
+      <Text>AV. O</Text>
       <PageNumber>8035</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Todd</Key>
-      <Text>. A. G</Text>
+      <Forenames>A. G</Forenames>
       <PageNumber>7952</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Tomlinson</Key>
-      <Text>. F. K</Text>
+      <Forenames>F. K.</Forenames>
       <PageNumber>6346</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1054,7 +1056,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Topham</Key>
-      <Text>. C</Text>
+      <Forenames>C.</Forenames>
       <PageNumber>7160</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1069,29 +1071,28 @@
   <ItemGroup>
     <MainItem>
       <Key>Toye</Key>
-      <Text>. A. M</Text>
+      <Forenames>A. M.</Forenames>
       <PageNumber>8199</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Traill</Key>
-      <Forenames>A. O</Forenames>
-      <Text>'B</Text>
+      <Forenames>A. O'B</Forenames>
       <PageNumber>7607</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Trappes-Lomax</Key>
-      <Text>. T. B</Text>
+      <Forenames>T. B.</Forenames>
       <PageNumber>8034</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Tredennick</Key>
-      <Text>. J. P</Text>
+      <Forenames>J. P.</Forenames>
       <PageNumber>6694</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1105,21 +1106,21 @@
   <ItemGroup>
     <MainItem>
       <Key>Trent</Key>
-      <Text>. G. A</Text>
+      <Forenames>G. A.</Forenames>
       <PageNumber>7807</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Trevor</Key>
-      <Text>. H. E</Text>
+      <Forenames>H. E</Forenames>
       <PageNumber>6842</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Trundle</Key>
-      <Text>. A. L</Text>
+      <Forenames>A. L</Forenames>
       <PageNumber>6997</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1420,7 +1421,7 @@
   <ItemGroup>
     <MainItem>
       <Key>AVebb-Peploe</Key>
-      <Text>. H. M</Text>
+      <Forenames>H. M</Forenames>
       <PageNumber>8035</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1444,7 +1445,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Weldon</Key>
-      <Text>. E. S S</Text>
+      <Forenames>E. S</Forenames>
+      <Text>S</Text>
       <PageNumber>643</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1473,7 +1475,7 @@
   <ItemGroup>
     <MainItem>
       <Key>AVestlake</Key>
-      <Text>. H. J. M</Text>
+      <Forenames>H. J. M.</Forenames>
       <PageNumber>7162</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1642,7 +1644,7 @@
   <ItemGroup>
     <MainItem>
       <Key>AVillcox</Key>
-      <Text>. J. M</Text>
+      <Forenames>J. M.</Forenames>
       <PageNumber>7952</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1710,7 +1712,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Willoughhv</Key>
-      <Text>de Broke. Lord</Text>
+      <Title>de Broke. Lord</Title>
       <PageNumber>7355</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1725,7 +1727,7 @@
   <ItemGroup>
     <MainItem>
       <Key>AVilson</Key>
-      <Text>. A. L</Text>
+      <Forenames>A. L.</Forenames>
       <PageNumber>6347</PageNumber>
     </MainItem>
   </ItemGroup>

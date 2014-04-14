@@ -29,7 +29,9 @@
     <MainItem>
       <Key>Hewlett</Key>
       <Forenames>Wing Com</Forenames>
-      <Text>dr. Francis Esme Theodore, D.S.O., O.B.E, (placed on half-pay, Scale A)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8218</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -102,7 +104,10 @@
     <MainItem>
       <Key>Holt</Key>
       <Forenames>Group</Forenames>
-      <Text>Capt. Felton Vesey, C.M.G., D.S.O. (ceases to be seed, for duty with Chinese Govt.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7794</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -144,7 +149,9 @@
       <Key>Howe</Key>
       <Title>Flight Lt.</Title>
       <Forenames>Thomas Edward Barham</Forenames>
-      <Text>, A.F.C. (granted perm, commn. and retains present substantive rank and seniority)</Text>
+      <Text>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>8038</PageNumber>
     </MainItem>
     <SubItem>
@@ -166,14 +173,17 @@
       <Key>Huffam</Key>
       <Title>Lt. (Duke of Wellington's Regt.)</Title>
       <Forenames>James Palmer</Forenames>
-      <Text>, V.C. (granted temp. . commn. as Flying Offr. on seconding for four yearsduty) ... .:</Text>
+      <Text>
+        <Honour>V.C.</Honour>
+      </Text>
       <PageNumber>7466</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hugh-Jones</Key>
-      <Text>. Pilot Offr. David Jasper (Flying Offr.)</Text>
+      <Forenames>Pilot Offr</Forenames>
+      <Text>. David Jasper (Flying Offr.)</Text>
       <PageNumber>8416</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -190,7 +200,9 @@
       <Key>Humphreys</Key>
       <Title>Flight Lt.</Title>
       <Forenames>William Rowland Spottiswoode</Forenames>
-      <Text>, A.F.C. (trd. to Reserve, Class A)</Text>
+      <Text>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>8616</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -199,7 +211,9 @@
       <Key>Hunter</Key>
       <Title>Flight Lt.</Title>
       <Forenames>Albert</Forenames>
-      <Text>, O.B.E. (placed on retd. list on account of ill-health and granted rank . of Maj.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>9120</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -272,7 +286,9 @@
     <MainItem>
       <Key>Jamison</Key>
       <Forenames>Flying Offr</Forenames>
-      <Text>. Robert McKinley, D.F.C. (trd. to Reserve, Class A.)</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>9120</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -350,7 +366,9 @@
     <MainItem>
       <Key>Junor</Key>
       <Forenames>Hugh Robert</Forenames>
-      <Text>, D.F.C. (granted perm commn. as Frying Offr.)</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>8799</PageNumber>
     </MainItem>
     <SubItem>
@@ -387,7 +405,10 @@
     <MainItem>
       <Key>Kingston-McClonghry</Key>
       <Forenames>Edgar James</Forenames>
-      <Text>, D.S.O., D.F.C. (granted short service commn. as Flying Offr.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>8799</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -444,7 +465,11 @@
     <MainItem>
       <Key>Lanibe</Key>
       <Forenames>Air Commodore Charles Laverock</Forenames>
-      <Text>, C.B., C.M.G., D.S.O. (placed on half pay, Scale.A)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7794</PageNumber>
     </MainItem>
     <SubItem>
@@ -493,7 +518,9 @@
     <MainItem>
       <Key>Lindsay</Key>
       <Forenames>Pilot Offr</Forenames>
-      <Text>. John Clyde, M.C. (short service commn. terminated on cessation of duty)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7874</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -525,7 +552,9 @@
     <MainItem>
       <Key>Lock</Key>
       <Forenames>Flying Offr</Forenames>
-      <Text>. Henry George, D.F.C. (granted perm, commn.)</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>9119</PageNumber>
     </MainItem>
     <SubItem>
@@ -598,7 +627,12 @@
     <MainItem>
       <Key>McCloughry</Key>
       <Forenames>Edgar James King-</Forenames>
-      <Text>ston-, 'D.S.O., D.F.C., see Kingston-McClonghry, Edgar James, D.S.O., D.F.C. McCullagh, Richard George James (granted short service tommn. as Flight Lt.) _</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>D.F.C.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>7300</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -617,7 +651,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Somerled Douglas</Forenames>
-      <Text>, D.F.C. (granted perm, commn. as Flying Offr.)</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>8799</PageNumber>
     </MainItem>
     <SubItem>
@@ -673,7 +709,9 @@
       <Key>Mackenzie</Key>
       <Title>Flight Lt.</Title>
       <Forenames>William Herbert</Forenames>
-      <Text>, A.F.C. (granted perm. commn. and retains present substantive rank and seniority)</Text>
+      <Text>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>8038</PageNumber>
     </MainItem>
     <SubItem>

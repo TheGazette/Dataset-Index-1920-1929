@@ -3,7 +3,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bruce</Key>
-      <Text>. Alexander, Member, Order of the British. Empire</Text>
+      <Forenames>Alexander</Forenames>
+      <Text>, Member, Order of the British. Empire</Text>
       <PageNumber>3819</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -34,7 +35,10 @@
         <KeyDitto>—.— ___ ___</KeyDitto>
       </Key>
       <Forenames>Rear-Adlmi</Forenames>
-      <Text>. Hienrv Haxvev. C.B., M.V.O.,' Knight Onm.man.der. Order the Hath</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -54,7 +58,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Mary Elizabeth</Forenames>
-      <Text>. Lady, R.R.C., Officer. Order of the British Empire</Text>
+      <Text>
+        <Honour>R.R.C.</Honour>
+      </Text>
       <PageNumber>3778</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -107,7 +113,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Bryant</Key>
-      <Text>. Miss Mary Louisa, Member, Order of the British Empire</Text>
+      <Title>Miss</Title>
+      <Forenames>Mary Louisa</Forenames>
+      <Text>, Member, Order of the British Empire</Text>
       <PageNumber>3819</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -146,14 +154,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Bitbh</Key>
-      <Text>. Charles Henrv. L.D.S.. R.C.S., Officer. Order of the British Empire</Text>
+      <Forenames>Charles Henrv</Forenames>
+      <Text>. L.D.S.. R.C.S., Officer. Order of the British Empire</Text>
       <PageNumber>1238</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Buchan</Key>
-      <Text>. William. Member, Order of the British Empire</Text>
+      <Title>William.</Title>
+      <Forenames>Member</Forenames>
+      <Text>, Order of the British Empire</Text>
       <PageNumber>3819</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -182,7 +193,9 @@
       </Key>
       <Title>James.</Title>
       <Forenames>J.P.</Forenames>
-      <Text>. created Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
       <PageNumber>3432</PageNumber>
     </MainItem>
@@ -203,7 +216,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Joseph Andrew Williams</Forenames>
-      <Text>, O.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3762</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -220,14 +235,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Buck</Key>
-      <Text>. Edward Horace, Member, Order of the British Empire</Text>
+      <Forenames>Edward Horace</Forenames>
+      <Text>, Member, Order of the British Empire</Text>
       <PageNumber>3819</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Buckingham</Key>
-      <Text>. Sir Henry Cecil. Commander. Order of the British Empire</Text>
+      <Title>Sir</Title>
+      <Forenames>Henry Cecil</Forenames>
+      <Text>. Commander. Order of the British Empire</Text>
       <PageNumber>3762</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -244,7 +262,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rockland</Key>
-      <Text>. Isabel Maud, Mrs., Member. Order of the British Empire</Text>
+      <Forenames>Isabel Maud</Forenames>
+      <Text>, Mrs., Member. Order of the British Empire</Text>
       <PageNumber>3819</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -378,7 +397,9 @@
     <MainItem>
       <Key>Burleigh</Key>
       <Forenames>Cecil Charles</Forenames>
-      <Text>, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3779</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -394,7 +415,9 @@
     <MainItem>
       <Key>Burn</Key>
       <Forenames>Joseph</Forenames>
-      <Text>, C.B.E., Knigh/t Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>3758</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -506,7 +529,9 @@
     <MainItem>
       <Key>Rurrowes</Key>
       <Forenames>Henry Ambrose</Forenames>
-      <Text>, M.D., J.l., Member, Order of tih« British Empire</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3820</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -542,7 +567,11 @@
     <MainItem>
       <Key>Burt</Key>
       <Title>Lt.-Col. (T./Brig.-Gen)</Title>
-      <Text>. Alfred, C.M.G., D.S.O.. Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>1377</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -607,7 +636,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bury</Key>
-      <Text>. Ernest, Officer, Order of the 'British Empire</Text>
+      <Forenames>Ernest</Forenames>
+      <Text>, Officer, Order of the 'British Empire</Text>
       <PageNumber>3779</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -640,7 +670,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Butcher</Key>
-      <Text>. Miss Doris Ruth, Member, Order of the British Empire</Text>
+      <Title>Miss</Title>
+      <Forenames>Doris Ruth</Forenames>
+      <Text>, Member, Order of the British Empire</Text>
       <PageNumber>3820</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -681,7 +713,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Harold Branson</Forenames>
-      <Text>, F.R.C.S., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>3820</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -49,7 +49,10 @@
       </Key>
       <Title>Gapt.</Title>
       <Forenames>M.</Forenames>
-      <Text>MeK., O.B.E. (rel. commn. on being elected . M.P.), Sub. Not</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>2193</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -59,7 +62,9 @@
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Group</Forenames>
-      <Text>Capt. T. B., C.M.G. (rel. temp. R.A.F. commn. on return to Army duty)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>1103</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -79,7 +84,9 @@
       <Key>Woodhead</Key>
       <Title>Capt.</Title>
       <Forenames>N. H.</Forenames>
-      <Text>, D.S.C. (trd. to unenipld. list)</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>3436</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -164,7 +171,9 @@
       <Key>Woolfe</Key>
       <Title>Capt.</Title>
       <Forenames>F. A.</Forenames>
-      <Text>, M.B.E. (trd. to unempld. list)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>1266</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -218,7 +227,9 @@
     <MainItem>
       <Key>Worrall</Key>
       <Forenames>Flying Offr</Forenames>
-      <Text>. A. E., M.C. (rel. temp. R.A.F. commn. on return to Army duty)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2339</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -262,7 +273,9 @@
       <Key>Wright</Key>
       <Title>Lt.</Title>
       <Forenames>A. O. K.</Forenames>
-      <Text>, A.F.C. (trd. to unempld. list)</Text>
+      <Text>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>3189</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -304,7 +317,9 @@
       </Key>
       <Title>2nd Lt.</Title>
       <Forenames>F. V.</Forenames>
-      <Text>, D.C.M. (resigns commn.) '.. . ,.. .. '</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>986</PageNumber>
     </MainItem>
     <SubItem>
@@ -417,7 +432,9 @@
       </Key>
       <Title>Sqdn.</Title>
       <Forenames>Leader</Forenames>
-      <Text>(A.P., T.) M. E. A., A.F.C. (corr. of date of appt. to short serv. commn.)</Text>
+      <Text>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>1946</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -487,7 +504,9 @@
       <Key>Wylie</Key>
       <Title>Maj.</Title>
       <Forenames>H. N.</Forenames>
-      <Text>, M.B.E. (trd. to unempld. list)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>1949</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -595,7 +614,9 @@
       <Key>Young</Key>
       <Title>Lt. (actg. ' Capt.)</Title>
       <Forenames>C. H.</Forenames>
-      <Text>, M.B.E. (trd. to unempld. list)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>1833</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -654,7 +675,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>H. N.</Forenames>
-      <Text>, D.F.C. (trd. to unempld. list)</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>2465</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -719,7 +742,9 @@
       </Key>
       <Title>2nd Lt.</Title>
       <Forenames>S. G.</Forenames>
-      <Text>, M.B.E. (trd. to . unempld. list)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3311</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -755,7 +780,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>W. E.</Forenames>
-      <Text>, D.F.C. (trd. to unempld. list)</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>2465</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -779,21 +806,27 @@
   <ItemGroup>
     <MainItem>
       <Key>Lanarkshire</Key>
-      <Text>: Stewart, Col. Sir Robert King, K.B.E</Text>
+      <Text>
+        <Honour>K.B.E</Honour>
+      </Text>
       <PageNumber>3534</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Northumberland</Key>
-      <Text>: Blake, Sir Francis Dougla9,Bt., C. B. (during the absence of the Duke of Northumberland)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>1258</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Yorkshire</Key>
-      <Text>* North Riding : * Zetland, the Most Hon. the Marquess of, K.T</Text>
+      <Text>
+        <Honour>K.T</Honour>
+      </Text>
       <PageNumber>2336</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -821,11 +854,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Dorsetshire</Key>
-      <Text>: Baker, Lt.-Col. Sir Randolph x Littlehales, Bt., D.S.O</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>1426</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Parke, Bt.-Col. Lawrence</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>1264</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -847,7 +885,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Essex</Key>
-      <Text>: Buxton, Maj. Anthony, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>2338</PageNumber>
     </MainItem>
     <SubItem>

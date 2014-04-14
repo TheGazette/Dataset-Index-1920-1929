@@ -27,7 +27,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>M. E. S.</Forenames>
-      <Text>, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>7794</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -48,8 +50,8 @@
     <MainItem>
       <Key>Johnston</Key>
       <Title>Lt.</Title>
-      <Forenames>M. St</Forenames>
-      <Text>. U. C. (retirement)</Text>
+      <Forenames>M. St. U</Forenames>
+      <Text>. C. (retirement)</Text>
       <PageNumber>9187</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -80,7 +82,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>R. T.</Forenames>
-      <Text>, M.C. (resigns commn., and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8117</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -138,7 +142,9 @@
       <Key>Kelly</Key>
       <Title>Capt.</Title>
       <Forenames>P. A.</Forenames>
-      <Text>, O.B.E. (resigns commn., and retains rank ot Capt)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>8117</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -270,7 +276,9 @@
       <Key>Lakin</Key>
       <Title>Capt.</Title>
       <Forenames>C. A.</Forenames>
-      <Text>, O.B.E. (resigns commn., and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>8117</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -463,7 +471,9 @@
       <Key>Lowther</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>H.</Forenames>
-      <Text>(retirement) Lyall, Maj. R. A., D.S.O. (Lt.-Col. Supery.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8116</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -508,8 +518,7 @@
     <MainItem>
       <Key>McClenaghan</Key>
       <Title>Capt.</Title>
-      <Forenames>H. E. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>H. E. St. G</Forenames>
       <PageNumber>8303</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -518,7 +527,9 @@
       <Key>McCluskey</Key>
       <Title>Lt.</Title>
       <Forenames>J. J. P.</Forenames>
-      <Text>, M.M. (retirement)</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>8304</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -534,7 +545,11 @@
   <ItemGroup>
     <MainItem>
       <Key>McEnery</Key>
-      <Text>. Maj. (now Lt.-Col.) R. T., O.B.E. (temp. Lt.-Col. while Asst. Dir. of Transport)</Text>
+      <Title>Maj. (now Lt.-Col.)</Title>
+      <Forenames>R. T.</Forenames>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>9186</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -623,7 +638,9 @@
       <Key>McLeod</Key>
       <Title>Capt. (now Maj.)</Title>
       <Forenames>D. K.</Forenames>
-      <Text>, D.S.O. (temp. Maj. whie G.S.O. 2nd Grade)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7794</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -773,7 +790,9 @@
       <Key>Matson</Key>
       <Title>Maj. (temp. Lt.-Col)</Title>
       <Forenames>J.</Forenames>
-      <Text>O.B.E. (lemp. Lt.-Col. while Asst. Dir. of Dairy Farms)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>7794</PageNumber>
     </MainItem>
     <SubItem>
@@ -806,14 +825,17 @@
       <Key>Maturin</Key>
       <Title>Maj.</Title>
       <Forenames>H</Forenames>
-      <Text>G., O.B.E. (retirement)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>7795</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Mannd</Key>
-      <Text>.T, Capt. G. H. (retirement)</Text>
+      <Forenames>T</Forenames>
+      <Text>, Capt. G. H. (retirement)</Text>
       <PageNumber>8118</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -903,7 +925,9 @@
       <Key>Mayne</Key>
       <Title>Capt. and Bt. Maj.</Title>
       <Forenames>A.G.</Forenames>
-      <Text>, O. M., D.S.O. (temp. Maj. while D.A.Q.M.G.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8116</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -973,7 +997,10 @@
       <Key>Metcalfe</Key>
       <Title>Capt.</Title>
       <Forenames>E. D.</Forenames>
-      <Text>, M.V.O., M.C. (Maj., Prov.)</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7794</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1053,7 +1080,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Mitchell</Key>
-      <Text>. Capt. R. P. J. (Maj.)</Text>
+      <Title>Capt.</Title>
+      <Forenames>R. P. J.</Forenames>
+      <Text>(Maj.)</Text>
       <PageNumber>8881</PageNumber>
     </MainItem>
   </ItemGroup>

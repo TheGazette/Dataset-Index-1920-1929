@@ -2,29 +2,6 @@
 <Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="032" pageID="https://www.thegazette.co.uk/id/London/index/year/1929/volume/3/page/032" pagePDF="https://www.thegazette.co.uk/London/index/year/1929/volume/3/page/032" pageRDF="https://www.thegazette.co.uk/London/index/year/1929/volume/3/page/032?view=linked-data" type="index" volume="3" year="1929">
   <ItemGroup>
     <MainItem>
-      <Key>Sehvay</Key>
-      <Forenames>A. D.</Forenames>
-      <PageNumber>4544</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Seymour-Hosley</Key>
-      <Forenames>E. W. Sharman</Forenames>
-      <Text>, D. R</Text>
-      <PageNumber>4855</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Sharp</Key>
-      <Forenames>A. C</Forenames>
-      <Text>H</Text>
-      <PageNumber>5855</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
@@ -454,7 +431,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tope</Key>
-      <Text>. W. R</Text>
+      <Forenames>W. R .</Forenames>
       <PageNumber>5855</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -586,8 +563,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Vihtras</Key>
-      <Forenames>R. E.</Forenames>
-      <Text>de T</Text>
+      <Forenames>R. E. de T</Forenames>
       <PageNumber>4544</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1047,7 +1023,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Cambridge</Key>
-      <Text>: Cutlack, Lt.-Col. (Bt. Col.) William Philip, T.D</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>T.D</Honour>
+      </Text>
       <PageNumber>6103</PageNumber>
     </MainItem>
     <SubItem>
@@ -1062,7 +1041,9 @@
       <PageNumber>4365</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Davies-Evans, Lt.-Colonel Delme William Campbell, D.S.O., J.P</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4365</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1075,7 +1056,9 @@
     </MainItem>
     <SubItem>
       <Text>
+        <Honour>C.B.</Honour>
         <PageNumber>4365</PageNumber>
+        <Honour>D.S.O.</Honour>
         <PageNumber>4365</PageNumber>
       </Text>
       <PageNumber>4365</PageNumber>
@@ -1084,37 +1067,157 @@
   <ItemGroup>
     <MainItem>
       <Key>Dorset</Key>
-      <Text>: Dauntesey, Lt. Col. William Bathurst, C.B., C. B.E</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>4854</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Le Breton, Lt.-Col. Edward Philip Lees, Lt.-Col. Sir John Victor Elliott, Bt., D. S.O., M.C</Text>
+      <Text>Le Breton, Lt.-Col. Edward Philip</Text>
+      <PageNumber>4854</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>Livingstone Learmonth, Col. Francis Leger Christian, O.M.G</Text>
       <PageNumber>4854</PageNumber>
     </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Durham</Key>
-      <Forenames>John Henry Bacon Forster Edinburgh</Forenames>
-      <Text>, Lt.-Col. Alexander Stevenson Blair C.M.G., T.D., W. S Essex, Capt. Frederick James Osbaldeston Montagu, O.B.E., M.C Glasgow: Cooper, Lieut.-Col. David, J.P. Mechan, Sir Henry, J.P., LL.D. Pettigrew, Sir Andrew Hislop, J.P., LL.D</Text>
+      <Forenames>John Henry Bacon Forster</Forenames>
+      <PageNumber>5719</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Edinburgh</Key>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Alexander Stevenson Blair</Forenames>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
+      <PageNumber>6103</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Essex</Key>
+      <Title>Capt.</Title>
+      <Forenames>Frederick James Osbaldeston Montagu</Forenames>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
+      <PageNumber>5494</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Glasgow</Key>
+      <Text>: Cooper, Lieut.-Col. David, J.P</Text>
       <PageNumber>5278</PageNumber>
     </MainItem>
+    <SubItem>
+      <Text>
+        <PageNumber>5278</PageNumber>
+        <PageNumber>5278</PageNumber>
+        <Honour>M.B.E.</Honour>
+      </Text>
+      <PageNumber>5278</PageNumber>
+    </SubItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>North</Key>
+      <Forenames>Riding</Forenames>
+      <Text>of Yorkshire, Capt. William James Coates</Text>
+      <PageNumber>6035</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Stafford</Key>
+      <Title>Captain</Title>
+      <Forenames>Edward Unwin</Forenames>
+      <Text>
+        <Honour>V.C.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
+      <PageNumber>5855</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Surrey</Key>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>T.D</Honour>
+      </Text>
+      <PageNumber>4769</PageNumber>
+    </MainItem>
+    <SubItem>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <PageNumber>4769</PageNumber>
+      </Text>
+      <PageNumber>4769</PageNumber>
+    </SubItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Worcester</Key>
+      <Text>
+        <Honour>TD</Honour>
+      </Text>
+      <PageNumber>4929</PageNumber>
+    </MainItem>
+    <SubItem>
+      <Text>Doverdale, Oswald, Baron</Text>
+      <PageNumber>4929</PageNumber>
+    </SubItem>
   </ItemGroup>
   <SectionTitle>Vice-Lieutenants</SectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Aberystwyth</Key>
       <Forenames>Farmers Mart</Forenames>
-      <Text>, cancelling of registry ... Absalom, F. R., notice Alston, Basil Evelyn, change of name by deed poll to B. E. Murray-Alston Alvarez, Leah, change of name by deed poll to Lill King Ancient Order of Foresters Juvenile Sick and Funeral Society, 284 Barnsley, cancelling of registry Annells, Alfred William Henry, change of name by deed poll to A. W. H. McMahon Anstruther, Sir Windham Frederick Carmichael, creditors</Text>
-      <PageNumber>4854</PageNumber>
+      <Text>, cancelling of registry</Text>
+      <PageNumber>4661</PageNumber>
     </MainItem>
-    <SubItem>
-      <Text>
-        <PageNumber>5253</PageNumber>
-        <PageNumber>5377</PageNumber>
-      </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Alston</Key>
+      <Forenames>Basil Evelyn</Forenames>
+      <Text>, change of name by deed poll to B. E. Murray-Alston</Text>
+      <PageNumber>5253</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Alvarez</Key>
+      <Forenames>Leah</Forenames>
+      <Text>, change of name by deed poll to Lill King</Text>
+      <PageNumber>5377</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Ancient</Key>
+      <Forenames>Order</Forenames>
+      <Text>of Foresters Juvenile Sick and Funeral Society, 284 Barnsley, cancelling of registry</Text>
       <PageNumber>5736</PageNumber>
-    </SubItem>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Anstruther</Key>
+      <Title>Sir</Title>
+      <Forenames>Windham Frederick Carmichael</Forenames>
+      <Text>, creditors</Text>
+      <PageNumber>4895</PageNumber>
+    </MainItem>
   </ItemGroup>
 </Index>
 

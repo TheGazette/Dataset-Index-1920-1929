@@ -572,27 +572,6 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Goble</Key>
-      <Forenames>A. B .</Forenames>
-      <PageNumber>4350</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Godfrey</Key>
-      <Forenames>R .</Forenames>
-      <PageNumber>2566</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Godfrey-Faussett</Key>
-      <Forenames>E. G.</Forenames>
-      <PageNumber>3615</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
       <Key>Gold</Key>
       <Forenames>N</Forenames>
       <Text>P</Text>
@@ -970,7 +949,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Grimwood</Key>
-      <Text>P. L. ... Groom, H. L. R. J. Groves, E. W. H</Text>
+      <Forenames>P. L.</Forenames>
+      <Text>... Groom, H. L. R. J. Groves, E. W. H</Text>
       <PageNumber>2649</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1024,7 +1004,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Haddon</Key>
-      <Text>D. A. R</Text>
+      <Forenames>D. A. R.</Forenames>
       <PageNumber>2517</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1038,7 +1018,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hague</Key>
-      <Text>W. T</Text>
+      <Forenames>W. T.</Forenames>
       <PageNumber>3459</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1097,14 +1077,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Hallett</Key>
-      <Text>A. G</Text>
+      <Forenames>A. G.</Forenames>
       <PageNumber>4064</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Halse</Key>
-      <Text>R. C. '</Text>
+      <Forenames>R. C.</Forenames>
+      <Text>'</Text>
       <PageNumber>3220</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1122,7 +1103,7 @@
       <PageNumber>2567</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>;</Text>
+      <Text>;.</Text>
       <PageNumber>2890</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1147,7 +1128,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hardcastle</Key>
-      <Text>A. E. L</Text>
+      <Forenames>A. E. L.</Forenames>
       <PageNumber>2730</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1170,7 +1151,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Harnden</Key>
-      <Text>E. E</Text>
+      <Forenames>E. E.</Forenames>
       <PageNumber>4279</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1295,8 +1276,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>J. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>J. St. C</Forenames>
       <PageNumber>2566</PageNumber>
     </MainItem>
   </ItemGroup>

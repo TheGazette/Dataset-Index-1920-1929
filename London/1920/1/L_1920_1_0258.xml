@@ -5,7 +5,9 @@
       <Key>Dresser</Key>
       <Title>Maj.</Title>
       <Forenames>P. B.</Forenames>
-      <Text>, D.S.O. (Adjt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>2307</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -34,7 +36,10 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>C. D.</Forenames>
-      <Text>, D.S.O. (Bt. Lt.Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>1376</PageNumber>
     </MainItem>
     <SubItem>
@@ -170,7 +175,9 @@
       </Key>
       <Title>temp. Capt.</Title>
       <Forenames>F. B. H.</Forenames>
-      <Text>, M.C. (corr. of date of relg. commn.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1548</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -218,7 +225,11 @@
       </Key>
       <Title>Maj.-Gen.</Title>
       <Forenames>L. G.</Forenames>
-      <Text>, C.B., C.B.E., M.V.O. (retires on ret. pay)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.B.E.</Honour>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>1192</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -240,7 +251,10 @@
       </Key>
       <Title>Bt. Lt.-Col. the Hon.</Title>
       <Forenames>M. C. A.</Forenames>
-      <Text>, C.M.G., D.S.O. (temp. Maj. whilst a D.A.A.G.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>2048</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -251,7 +265,9 @@
       </Key>
       <Title>Qrmr. and Capt.</Title>
       <Forenames>W.</Forenames>
-      <Text>, M.C. (retires on ret. pay), Sub. Not</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>958</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -271,7 +287,10 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>K. K.</Forenames>
-      <Text>, M.C., M.D. (rel. actg. rank of Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>955</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -349,33 +368,49 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Boulay</Forenames>
-      <Text>, temp. Lt. R. F. H. (rel. commn. on completion of service and retains rank of Lt.)</Text>
+      <Key>Du Boulay</Key>
+      <Title>temp. Lt.</Title>
+      <Forenames>R. F. H.</Forenames>
+      <Text>(rel. commn. on completion of service and retains rank of Lt.)</Text>
       <PageNumber>169</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>May</Forenames>
-      <Text>, temp. 2nd Lt. V. A. (rel. commn. on completion of service and retains rank of 2nd Lt.)</Text>
+      <Key>du Cros</Key>
+      <Title>Lt.</Title>
+      <Forenames>P. H.</Forenames>
+      <Text>(resigns commn. and retains rank of Lt:) .,</Text>
+      <PageNumber>3424</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Du May</Key>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>V. A.</Forenames>
+      <Text>(rel. commn. on completion of service and retains rank of 2nd Lt.)</Text>
       <PageNumber>674</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Moulin-Browne</Forenames>
-      <Text>, temp. Chapln., 4th Cl., Rev. J. H., M.C. (rel. commn. and to be Hon. Chapln., 4th Cl.)</Text>
+      <Key>Du Moulin-Browne</Key>
+      <Title>temp. Chapln.</Title>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3621</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Port</Forenames>
-      <Text>, Maj. and Bt. Lt.-Col. (late temp. Lt.-Col.) O.C.C., D.S.O. (Lt.-Col., Gen. Res. of Offrs.)</Text>
+      <Key>Du Port</Key>
+      <Title>Maj. and Bt. Lt.-Col. (late temp. Lt.-Col.)</Title>
+      <Forenames>O.C.C.</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>184</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -392,7 +427,9 @@
     <MainItem>
       <Key>Dubs</Key>
       <Title>Capt. and Bt. Maj</Title>
-      <Text>; G. R., M.C. (resfcd. to estabt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1519</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -414,7 +451,9 @@
       <Key>Duck</Key>
       <Title>Capt.</Title>
       <Forenames>F. P.</Forenames>
-      <Text>, D.S.O. (restd. to estabt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>2889</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -423,7 +462,9 @@
       <Key>Duckett</Key>
       <Title>Capt. (late temp. Lt.-Col.)</Title>
       <Forenames>J. S.</Forenames>
-      <Text>, D.S.O. (Lt.-Col., Gen. Res. of Offrs.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>171</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -445,7 +486,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>W. K.</Forenames>
-      <Text>, M.B.E. (rel. actg. rank of Maj.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3733</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -472,7 +515,9 @@
       <Key>Dudley-Ward</Key>
       <Title>Lt.</Title>
       <Forenames>C. H.</Forenames>
-      <Text>, D.S.O., M.O. (resigns commn. and granted rank of Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>2986</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -536,7 +581,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>J. S.</Forenames>
-      <Text>, M.C. (rel. temp. rank of ,Capt. on ceasing to be empld. with Serv. Bn.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1537</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -547,7 +594,9 @@
       </Key>
       <Title>temp. Capt.</Title>
       <Forenames>S. H.</Forenames>
-      <Text>, M.C. (rel. commn. on completion of service and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1194</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -565,7 +614,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Dufferin</Key>
-      <Text>and Ava, Capt. (Capt. Res. of Offr.) F. T., Marq. of, D. S.O. (resigns commn. and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>D. S.O.</Honour>
+      </Text>
       <PageNumber>1812</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -587,7 +638,7 @@
       <PageNumber>185</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Retires, receiving a gratuity and granted rank of Capt</Text>
+      <Text>Retires, receiving a gratuity and granted rank of Capt.</Text>
       <PageNumber>1204</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -622,14 +673,18 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>W. M.</Forenames>
-      <Text>, M.C. (retires, receiving a gratuity)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1057</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Duff</Key>
-      <Text>us, Lt.-Col. F. F., C.M.G. (placed on h.p. list on completion of five years' service as Regtl. Lt.-Col.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>2267</PageNumber>
     </MainItem>
   </ItemGroup>

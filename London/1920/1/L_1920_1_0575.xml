@@ -110,7 +110,7 @@
       <PageNumber>3904</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Rel. commn., Sub. Not</Text>
+      <Text>Rel. commn., Sub. Not.</Text>
       <PageNumber>3315</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -130,7 +130,9 @@
       </Key>
       <Title>Sqdn.</Title>
       <Forenames>Leader P. C</Forenames>
-      <Text>, M.C. (placed on h.p. list)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1691</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -156,7 +158,9 @@
       <Key>Sheiwin</Key>
       <Title>Capt.</Title>
       <Forenames>C. E.</Forenames>
-      <Text>, M.C. (trd. to unempld. list)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3530</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -269,7 +273,9 @@
       <Key>Shirley</Key>
       <Title>Capt. (S.O.)</Title>
       <Forenames>F. L. S.</Forenames>
-      <Text>, M.C. (corr. of classification)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>561</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -536,7 +542,9 @@
       <Key>Simmons</Key>
       <Title>2nd Lt. (Hon. Lt.)</Title>
       <Forenames>H. E.</Forenames>
-      <Text>, M.C. (trd. to unempld. list)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>724</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -607,7 +615,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>W. O</Forenames>
-      <Text>, D.F.C. (trd. to unempld. list)</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>2760</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -855,7 +865,9 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Flying Offr</Forenames>
-      <Text>. (A.)F. W., D.F.C. (granted short serv. commn.)</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>3900</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1096,7 +1108,10 @@
     <MainItem>
       <Key>Sladden</Key>
       <Forenames>Flying Offr</Forenames>
-      <Text>. R. J., M.B.E., D.C.M. (rel. grading for pay and allces as Flight Lt. Gr. A.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>2908</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1130,7 +1145,9 @@
       <Key>Slessor</Key>
       <Title>Flight Lt. (A.)</Title>
       <Forenames>J. C</Forenames>
-      <Text>, M.C. (granted short serv. commn.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2906</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1146,7 +1163,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sloane</Key>
-      <Text>.Canadian Cadet W. R. (Hon. 2nd Lt.)</Text>
+      <Forenames>Canadian</Forenames>
+      <Text>Cadet W. R. (Hon. 2nd Lt.)</Text>
       <PageNumber>3905</PageNumber>
     </MainItem>
   </ItemGroup>

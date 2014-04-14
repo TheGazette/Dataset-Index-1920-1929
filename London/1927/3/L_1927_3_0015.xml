@@ -1,14 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="015" pageID="https://www.thegazette.co.uk/id/London/index/year/1927/volume/3/page/015" pagePDF="https://www.thegazette.co.uk/London/index/year/1927/volume/3/page/015" pageRDF="https://www.thegazette.co.uk/London/index/year/1927/volume/3/page/015?view=linked-data" type="index" volume="3" year="1927">
-  <SubItem>
-    <Text>Paper Box (Great Britain)</Text>
-    <PageNumber>5331</PageNumber>
-    <PageNumber>5332</PageNumber>
-  </SubItem>
-  <SubItem>
-    <Text>Rope, Twine and Net (Great Britain)</Text>
-    <PageNumber>5332</PageNumber>
-  </SubItem>
+  <ItemGroup>
+    <MainItem>
+      <Key>Trade</Key>
+      <Forenames>Board</Forenames>
+      <Text>of (cont.): South Yorkshire Mines Drainage Scheme</Text>
+      <PageNumber>4234</PageNumber>
+    </MainItem>
+    <SubItem>
+      <Text>Trading with the Enemy Amendment Act, Orders</Text>
+      <PageNumber>5784</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>Fur (Great Britain)</Text>
+      <PageNumber>4323</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>Paper Box (Great Britain)</Text>
+      <PageNumber>5331</PageNumber>
+      <PageNumber>5332</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>Rope, Twine and Net (Great Britain)</Text>
+      <PageNumber>5332</PageNumber>
+    </SubItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Transport</Key>
@@ -321,7 +337,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Addison</Key>
-      <Text>DArcy Wentworth, I.S.O., M.V.O., Member Royal Victorian Order, fourth class</Text>
+      <Text>
+        <Honour>I.S.O</Honour>
+        <Honour>M.V.O.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4404</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -338,7 +358,9 @@
     <MainItem>
       <Key>Allison</Key>
       <Forenames>Richard John</Forenames>
-      <Text>, C.B E F.R.I.B.A, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>4233</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -37,7 +37,9 @@
     <MainItem>
       <Key>Wollaston</Key>
       <Forenames>Gerald Woods</Forenames>
-      <Text>, M.V.O., Commander, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>4041</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -78,9 +80,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Wray</Key>
-      <Title>Brigadier</Title>
+      <Title>Brigadier-</Title>
       <Forenames>General John Cecil</Forenames>
-      <Text>, C.B., C.M.G., M.V.O., Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>M.V.O.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3608</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -88,7 +95,9 @@
     <MainItem>
       <Key>AVynn</Key>
       <Forenames>Frederick Rowland Williams</Forenames>
-      <Text>, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3606</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -103,8 +112,8 @@
   <ItemGroup>
     <MainItem>
       <Key>York</Key>
-      <Forenames>His Grace The Arch-</Forenames>
-      <Text>bishop, Bailiff Grand Cross, Order of St. John of Jerusalem (Prelate)</Text>
+      <Forenames>His Grace</Forenames>
+      <Text>The Archbishop, Bailiff Grand Cross, Order of St. John of Jerusalem (Prelate)</Text>
       <PageNumber>3836</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -113,9 +122,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Title>H.R.H.</Title>
-      <Forenames>The</Forenames>
-      <Text>Duchess of, Dame Grand Cross, Order of St. John of J erusalem ... .;</Text>
+      <Title>H.R.H. The Duchess</Title>
+      <Text>of, Dame Grand Cross, Order of St. John of J erusalem ... .;</Text>
       <PageNumber>3936</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -124,9 +132,12 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Title>Colonel H.R.H.</Title>
-      <Forenames>The</Forenames>
-      <Text>Duke of, K.G.. K.T., G.C.V.O., &amp;c, Bailiff Grand Cross, Order of St. John of Jerusalem</Text>
+      <Title>Colonel H.R.H. The Duke</Title>
+      <Text>
+        <Honour>K.G.</Honour>
+        <Honour>K.T.</Honour>
+        <Honour>G.C.V.O.</Honour>
+      </Text>
       <PageNumber>3836</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -135,7 +146,11 @@
       <Key>Young</Key>
       <Title>The Rt. Hon. Sir</Title>
       <Forenames>Ed-</Forenames>
-      <Text>ward Hilton, D.S.O., D.S.C., M.P.. Knight Grand Cross of the Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>D.S.C.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>3612</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -263,7 +278,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Broad</Key>
-      <Text>. C. N. F</Text>
+      <Forenames>C. N. F .</Forenames>
       <PageNumber>2125</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -306,8 +321,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cazenove</Key>
-      <Forenames>A.</Forenames>
-      <Text>de L</Text>
+      <Forenames>A. de L</Forenames>
       <PageNumber>2311</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -391,9 +405,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Cane</Forenames>
-      <Text>, J. P</Text>
+      <Key>Du Cane</Key>
+      <Forenames>J. P .</Forenames>
       <PageNumber>3207</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -442,8 +455,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Glover</Key>
-      <Forenames>G.</Forenames>
-      <Text>de C</Text>
+      <Forenames>G. de C</Forenames>
       <PageNumber>2960</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -922,8 +934,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Turner</Key>
-      <Forenames>A. F. St</Forenames>
-      <Text>. A</Text>
+      <Forenames>A. F. St. A</Forenames>
       <PageNumber>2875</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -936,9 +947,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Straubenzee</Forenames>
-      <Text>, C. C</Text>
+      <Key>Van Straubenzee</Key>
+      <Forenames>C. C.</Forenames>
       <PageNumber>2960</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1120,8 +1130,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kirke</Key>
-      <Forenames>E. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>E. St. G</Forenames>
       <PageNumber>3125</PageNumber>
     </MainItem>
   </ItemGroup>

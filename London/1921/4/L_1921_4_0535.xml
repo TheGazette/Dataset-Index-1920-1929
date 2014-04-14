@@ -99,7 +99,9 @@
       <Key>McCay</Key>
       <Title>Maj.</Title>
       <Forenames>Ross Cairns</Forenames>
-      <Text>, D.S.O. (corr. of date-of appt. to I. A. on prob.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8725</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -150,8 +152,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan, F. W. (resigns commn.)</Text>
+      <Key>O'Sullivan</Key>
+      <Forenames>F. W.</Forenames>
+      <Text>(resigns commn.)</Text>
       <PageNumber>9152</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -268,7 +271,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>F. C</Forenames>
-      <Text>, M.B.E. (and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>8294</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -316,7 +321,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>W. G.</Forenames>
-      <Text>, M.C. (on completion of service and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9470</PageNumber>
     </MainItem>
   </ItemGroup>

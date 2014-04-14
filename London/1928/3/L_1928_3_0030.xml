@@ -514,7 +514,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Thomson</Key>
-      <Text>P. G</Text>
+      <Forenames>P. G.</Forenames>
       <PageNumber>4502</PageNumber>
       <PageNumber>6097</PageNumber>
       <PageNumber>6098</PageNumber>
@@ -996,33 +996,45 @@
   <ItemGroup>
     <MainItem>
       <Key>Devon</Key>
-      <Text>and Exeter, Rt. Hon. Francis Bingham, T.D., Baron Mildmay of Flete</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>4570</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Banff</Key>
-      <Forenames>Lieut-</Forenames>
-      <Text>Colonel (Brevet Colonel) Sir George William Abercromby, Bt., D.S.O</Text>
+      <Title>Lieut-Colonel (Brevet Colonel) Sir</Title>
+      <Forenames>George William Abercromby</Forenames>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>5049</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Dundee</Key>
-      <Text>: Barrie, Sir Charles Coupar, K.B.E., J.P</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+      </Text>
       <PageNumber>4577</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Irvine, Sir James Colquhoun, Kt.. C.B.E</Text>
+      <Text>
+        <Honour>C.B.E</Honour>
+      </Text>
       <PageNumber>4577</PageNumber>
     </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>London</Key>
-      <Text>; Sir John William Thomson-Walter, O.B.E., F.R.C.S (</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>6161</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1030,7 +1042,10 @@
     <MainItem>
       <Key>North</Key>
       <Forenames>Riding</Forenames>
-      <Text>, Colonel Charles William Ernest Duncombe, O.B.E., T.D., H.P</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>5217</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1038,7 +1053,10 @@
     <MainItem>
       <Key>Warwick</Key>
       <Title>Lieut.</Title>
-      <Text>-Colonel (Brevet Colonel) John Leslie Mellor, M.C., T.D</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>T.D</Honour>
+      </Text>
       <PageNumber>4577</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -13,7 +13,9 @@
       <Key>Lloyd</Key>
       <Title>Lt.</Title>
       <Forenames>P. G. W.</Forenames>
-      <Text>, M.C. (rel. oommn.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>863</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -73,7 +75,9 @@
     <MainItem>
       <Key>McKinley</Key>
       <Forenames>H. L.</Forenames>
-      <Text>, M.C. (temp. Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2097</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -126,7 +130,9 @@
     <MainItem>
       <Key>Marlow</Key>
       <Forenames>W.</Forenames>
-      <Text>, M.C. (Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>281</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -196,7 +202,9 @@
         <KeyDitto>—— ___ ___</KeyDitto>
       </Key>
       <Forenames>R. L.</Forenames>
-      <Text>, O.B.E. (Capt.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>1702</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -229,8 +237,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Dwyer, John Chevalier (corr. of name)</Text>
+      <Key>O'Dwyer</Key>
+      <Forenames>John Chevalier</Forenames>
+      <Text>(corr. of name)</Text>
       <PageNumber>187</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -307,7 +316,9 @@
     <MainItem>
       <Key>Priestley</Key>
       <Forenames>H. E. B.</Forenames>
-      <Text>, 'M.C. (Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>862</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -322,7 +333,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Reed</Key>
-      <Text>. G. S.. O.B K. M.O. (Capt,)</Text>
+      <Forenames>G. S.</Forenames>
+      <Text>. O.B K. M.O. (Capt,)</Text>
       <PageNumber>187</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -332,7 +344,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>W. L. L.</Forenames>
-      <Text>, O.B.E., V.D</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>187</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -365,7 +379,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Roberts</Key>
-      <Text>. Lt. C. R. J. (rel. commn. and granted rank of Lt.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>C. R. J.</Forenames>
+      <Text>(rel. commn. and granted rank of Lt.)</Text>
       <PageNumber>2228</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -384,7 +400,9 @@
       <Key>Robertson</Key>
       <Title>Lt.</Title>
       <Forenames>A.</Forenames>
-      <Text>MacL., M.C. (resigns)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2307</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -407,7 +425,9 @@
     <MainItem>
       <Key>Sharman</Key>
       <Forenames>D. R.</Forenames>
-      <Text>, M.C. (temp. Capt.) .-</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>862</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -461,7 +481,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stevens</Key>
-      <Text>. E. AC. (temp. Capt,)</Text>
+      <Forenames>E.</Forenames>
+      <Text>AC. (temp. Capt,)</Text>
       <PageNumber>1901</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -522,7 +543,9 @@
       <Key>Thorogood</Key>
       <Title>Capt.</Title>
       <Forenames>P. W.</Forenames>
-      <Text>, O.B.E. (resigns on transfer to T.F.R., and granted rank of Capt.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>2307</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -571,7 +594,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wescott</Key>
-      <Text>. Lt, H. (rel. oommn.)</Text>
+      <Forenames>Lt</Forenames>
+      <Text>, H. (rel. oommn.)</Text>
       <PageNumber>863</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -651,7 +675,9 @@
     <MainItem>
       <Key>Smith</Key>
       <Forenames>J. B.</Forenames>
-      <Text>, C.B., M.B</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>1701</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -669,7 +695,9 @@
     <MainItem>
       <Key>Johnston</Key>
       <Forenames>C. A.</Forenames>
-      <Text>, C.B., D.S:0., M.B. (corr.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>2099</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -700,7 +728,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Johnston</Key>
-      <Text>. C A., C.B., D.S.O., M.B</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>2098</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -800,8 +831,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Moses</Key>
-      <Forenames>O. St</Forenames>
-      <Text>. J., M.D., F.R.C.S.E</Text>
+      <Forenames>O. St. J</Forenames>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>2305</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -809,7 +842,9 @@
     <MainItem>
       <Key>Murphy</Key>
       <Forenames>A.</Forenames>
-      <Text>, O.B.E., M.B</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>2305</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -817,14 +852,18 @@
     <MainItem>
       <Key>Nutt</Key>
       <Forenames>H. R.</Forenames>
-      <Text>, M.D., F.R.C.S</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+        <Honour>F.R.C.S</Honour>
+      </Text>
       <PageNumber>2305</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, P. L., CLE</Text>
+      <Key>O'Neill</Key>
+      <Forenames>P. L.</Forenames>
+      <Text>, CLE</Text>
       <PageNumber>2305</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -848,7 +887,9 @@
     <MainItem>
       <Key>Southon</Key>
       <Forenames>C</Forenames>
-      <Text>E., O.B.E., M.B</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>2305</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -896,7 +937,9 @@
     <MainItem>
       <Key>Clemesha</Key>
       <Forenames>W. W.</Forenames>
-      <Text>, CLE., M.D</Text>
+      <Text>
+        <Honour>M.D</Honour>
+      </Text>
       <PageNumber>1703</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -904,7 +947,9 @@
     <MainItem>
       <Key>Crawford</Key>
       <Forenames>J. M.</Forenames>
-      <Text>, O.B.E., M.B</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>863</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -967,7 +1012,9 @@
     <MainItem>
       <Key>Street</Key>
       <Forenames>A.</Forenames>
-      <Text>, M.B., F.R.C.S</Text>
+      <Text>
+        <Honour>F.R.C.S</Honour>
+      </Text>
       <PageNumber>2228</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -984,7 +1031,9 @@
     <MainItem>
       <Key>Raghavendra</Key>
       <Forenames>Row</Forenames>
-      <Text>, M.D. (rel. commn.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>2098</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1001,7 +1050,9 @@
     <MainItem>
       <Key>Gilbert</Key>
       <Forenames>L. E.</Forenames>
-      <Text>, CLE., M.D</Text>
+      <Text>
+        <Honour>M.D</Honour>
+      </Text>
       <PageNumber>1065</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1044,7 +1095,9 @@
     <MainItem>
       <Key>Nesfield</Key>
       <Forenames>V. B.</Forenames>
-      <Text>, F.R.C.S. (cow: of date of retirement)</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>2099</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1062,7 +1115,9 @@
     <MainItem>
       <Key>Ardeshir</Key>
       <Forenames>Koyaji Contractor</Forenames>
-      <Text>, M.D</Text>
+      <Text>
+        <Honour>M.D</Honour>
+      </Text>
       <PageNumber>2098</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1078,7 +1133,10 @@
     <MainItem>
       <Key>Gopal</Key>
       <Forenames>Vinayak Deshmukh</Forenames>
-      <Text>, M.D., F.R.C.S</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+        <Honour>F.R.C.S</Honour>
+      </Text>
       <PageNumber>2098</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1093,7 +1151,9 @@
     <MainItem>
       <Key>Judah</Key>
       <Forenames>David</Forenames>
-      <Text>, M.D</Text>
+      <Text>
+        <Honour>M.D</Honour>
+      </Text>
       <PageNumber>2098</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1101,7 +1161,9 @@
     <MainItem>
       <Key>Manchereha</Key>
       <Forenames>Dhanjibhai Dorabji</Forenames>
-      <Text>„. Gilder, M.D., F.R.CS</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>2098</PageNumber>
     </MainItem>
   </ItemGroup>

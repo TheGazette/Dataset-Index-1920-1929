@@ -61,7 +61,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Burnett</Key>
-      <Text>. Sir J. L. G</Text>
+      <Title>Sir</Title>
+      <Forenames>J. L. G</Forenames>
       <PageNumber>296</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -88,9 +89,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Chair</Forenames>
-      <Text>, G. H. B</Text>
+      <Key>De Chair</Key>
+      <Forenames>G. H. B</Forenames>
       <PageNumber>2134</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -195,8 +195,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Martelli</Key>
-      <Forenames>H.</Forenames>
-      <Text>de C</Text>
+      <Forenames>H. de C</Forenames>
       <PageNumber>763</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -238,7 +237,8 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>. Aubyn, E. G</Text>
+      <Forenames>Aubyn</Forenames>
+      <Text>, E. G</Text>
       <PageNumber>1860</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -267,8 +267,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Warde-Aldam</Key>
-      <Forenames>W. St</Forenames>
-      <Text>. A</Text>
+      <Forenames>W. St. A</Forenames>
       <PageNumber>225</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -453,7 +452,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Angus</Key>
-      <Text>. K. B. G</Text>
+      <Forenames>K. B. G</Forenames>
       <PageNumber>2134</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -610,7 +609,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Balderstone</Key>
-      <Text>. J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>2021</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -970,7 +969,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bolton</Key>
-      <Text>. G. G. H</Text>
+      <Forenames>G. G. H.</Forenames>
       <PageNumber>443</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1062,7 +1061,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brayshaw</Key>
-      <Text>. C. E</Text>
+      <Forenames>C. E.</Forenames>
       <PageNumber>2343</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1091,21 +1090,21 @@
   <ItemGroup>
     <MainItem>
       <Key>Brondhurst</Key>
-      <Text>. H</Text>
+      <Forenames>H .</Forenames>
       <PageNumber>1296</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Brooke</Key>
-      <Text>. C. A</Text>
+      <Forenames>C. A .</Forenames>
       <PageNumber>1051</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Brown</Key>
-      <Text>. C. C</Text>
+      <Forenames>C. C .</Forenames>
       <PageNumber>2022</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1152,7 +1151,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bndge</Key>
-      <Text>. A. W. C</Text>
+      <Forenames>A. W. C.</Forenames>
       <PageNumber>1934</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1168,7 +1167,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Buller</Key>
-      <Text>. C E. A</Text>
+      <Forenames>C</Forenames>
+      <Text>E. A</Text>
       <PageNumber>955</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1189,7 +1189,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Burke</Key>
-      <Text>. TT B</Text>
+      <Text>TT B</Text>
       <PageNumber>767</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1210,7 +1210,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Burness</Key>
-      <Text>. A. G</Text>
+      <Forenames>A. G.</Forenames>
       <PageNumber>2021</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1238,7 +1238,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Buxton</Key>
-      <Text>. E. N</Text>
+      <Forenames>E. N.</Forenames>
       <PageNumber>606</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1558,7 +1558,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Collis</Key>
-      <Text>. J. C</Text>
+      <Forenames>J. C</Forenames>
       <PageNumber>1496</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1822,7 +1822,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Davies</Key>
-      <Text>. J. A</Text>
+      <Forenames>J. A.</Forenames>
       <PageNumber>369</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1846,6 +1846,13 @@
       <Forenames>Smith</Forenames>
       <Text>, P. W</Text>
       <PageNumber>686</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Loriol</Key>
+      <Forenames>P. G. L .</Forenames>
+      <PageNumber>1051</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1879,7 +1886,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dickinson</Key>
-      <Text>. E</Text>
+      <Forenames>E .</Forenames>
       <PageNumber>227</PageNumber>
     </MainItem>
   </ItemGroup>

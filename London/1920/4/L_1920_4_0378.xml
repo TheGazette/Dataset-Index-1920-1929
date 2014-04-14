@@ -11,7 +11,9 @@
     <MainItem>
       <Key>Wassawa</Key>
       <Forenames>Singh</Forenames>
-      <Text>, Sardar Bahadur, I.O.M., l.D.S.M</Text>
+      <Text>
+        <Honour>O.M.</Honour>
+      </Text>
       <PageNumber>12489</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -34,7 +36,9 @@
     <MainItem>
       <Key>Zaman</Key>
       <Forenames>Khan</Forenames>
-      <Text>, Bahadur, M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>11329</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -358,6 +362,13 @@
       <Forenames>P. S.</Forenames>
       <Text>, M.M</Text>
       <PageNumber>9697</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Wilton</Key>
+      <Forenames>C. S</Forenames>
+      <PageNumber>9698</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1027,7 +1038,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sherwood</Key>
-      <Text>L. V. S</Text>
+      <Forenames>L. V. S</Forenames>
       <PageNumber>9698</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1099,7 +1110,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tomkins</Key>
-      <Text>L. H</Text>
+      <Forenames>L. H</Forenames>
       <PageNumber>9698</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1188,7 +1199,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Webb</Key>
-      <Text>W. B. S Wheeler, L. G</Text>
+      <Forenames>W. B. S</Forenames>
+      <Text>Wheeler, L. G</Text>
       <PageNumber>9895</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1611,7 +1623,10 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>W. J. C</Forenames>
-      <Text>, D.S.O., M.C</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>9697</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1684,7 +1699,10 @@
     <MainItem>
       <Key>Fleming</Key>
       <Forenames>J. G. G.</Forenames>
-      <Text>, D.S.O., M.C</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>10756</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1699,7 +1717,9 @@
     <MainItem>
       <Key>Freeland</Key>
       <Forenames>R. A. B.</Forenames>
-      <Text>, M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>9895</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -4,8 +4,11 @@
     <MainItem>
       <Key>Frederick</Key>
       <Title>Capt. Sir</Title>
-      <Forenames>C. E. St</Forenames>
-      <Text>. J., Bt., O.B.E. (rel. commn., and retains rank of Capt.)</Text>
+      <Forenames>C. E. St. J</Forenames>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>6454</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -74,7 +77,11 @@
       <Key>Fry</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>P. G.</Forenames>
-      <Text>, C.M.G., D.S.O., T.D. (trd. to T.F.R. Regtl. List, R.E., from 43rd Wessex Divl. Engrs.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>7040</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -84,7 +91,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Title>Lt.</Title>
-      <Text>-C61. W. H., T.D. (retired, having attained the age limit, and retains rank of Lt.-Col., with permission to wear prescribed uniform)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>7635</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -147,7 +156,11 @@
       <Key>Gabriel</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>E. V.</Forenames>
-      <Text>, C.S.I., C.M.G.. C.B.E., C.V.O. (trd. to T.F.R, Gen. List, R.E., late Ind. Def. Force)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>C.B.E.</Honour>
+        <Honour>C.V.O.</Honour>
+      </Text>
       <PageNumber>7116</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -243,7 +256,9 @@
     <MainItem>
       <Key>Gamage</Key>
       <Forenames>Lt</Forenames>
-      <Text>, C. M., M.B.E. (resigns commn., and granted rank of Capt.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>6155</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -269,7 +284,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Gange</Key>
-      <Text>. 2nd Lt. C. E. J. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>C. E. J.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>7050</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -388,7 +405,9 @@
       <Key>Garrard</Key>
       <Title>Lt.</Title>
       <Forenames>P. C.</Forenames>
-      <Text>(Lt., 7th Bn., Lan. Fus., late Canadian M.G.C.)</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>6919</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -406,7 +425,9 @@
       <Key>Garrett</Key>
       <Title>Capt.</Title>
       <Forenames>F. A.</Forenames>
-      <Text>, M.C. (resigns commn., and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7518</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -435,7 +456,10 @@
       <Key>Gaskell</Key>
       <Title>Maj.</Title>
       <Forenames>E. Milnes</Forenames>
-      <Text>, T.D., see Milnes-Gaskell, Maj. E., T.D. Gathercole, Lt. A. (Capt,, 10th Bn., Lond. R., late Serv. Bn., Beds, and Herts. R.)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>7378</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -444,7 +468,10 @@
       <Key>Gaud</Key>
       <Title>Lt.</Title>
       <Forenames>E. H.</Forenames>
-      <Text>, M.C., M.M. (resigns commn., and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>6000</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -464,7 +491,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>J. P.</Forenames>
-      <Text>, M.C. (resigns commn., and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5711</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -543,7 +572,9 @@
     <MainItem>
       <Key>Gibbins</Key>
       <Forenames>Lt</Forenames>
-      <Text>, P. H., M.C. (resigns commn., and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6368</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -625,7 +656,10 @@
       <Key>Gibson</Key>
       <Title>Maj.</Title>
       <Forenames>Alexander John</Forenames>
-      <Text>, D.S.O., M.B. (Capt., R.A.M.C Gen. List, late R.A.M.C. Spec; Res., and rel. rank of Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7121</PageNumber>
     </MainItem>
   </ItemGroup>

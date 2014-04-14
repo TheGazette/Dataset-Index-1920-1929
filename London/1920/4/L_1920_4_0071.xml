@@ -67,7 +67,7 @@
       <PageNumber>10060</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>H. P. list, retires on ret. pay, and granted rank of Maj</Text>
+      <Text>H. P. list, retires on ret. pay, and granted rank of Maj.</Text>
       <PageNumber>10935</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -146,7 +146,9 @@
     <MainItem>
       <Key>Bahadur</Key>
       <Forenames>Khan</Forenames>
-      <Text>, Bahadur, Subadar, I. O.M. (Hon. Lt.)</Text>
+      <Text>
+        <Honour>O.M.</Honour>
+      </Text>
       <PageNumber>11329</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -154,11 +156,13 @@
     <MainItem>
       <Key>Bahadur</Key>
       <Forenames>Singh</Forenames>
-      <Text>, Sardar Bahadur, Risaldar-Maj., I.O.M. (Hon. Capt.)</Text>
+      <Text>
+        <Honour>O.M.</Honour>
+      </Text>
       <PageNumber>11210</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Hon. Capt., Sub. Not</Text>
+      <Text>Hon. Capt., Sub. Not.</Text>
       <PageNumber>11328</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -230,7 +234,10 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>D. B.</Forenames>
-      <Text>, M.C., D.C.M. (rel. actg. rank of Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>10706</PageNumber>
     </MainItem>
     <SubItem>
@@ -249,7 +256,7 @@
       <PageNumber>10837</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Rel. commn. and retains rank of Lt</Text>
+      <Text>Rel. commn. and retains rank of Lt.</Text>
       <PageNumber>12042</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -322,7 +329,9 @@
     <MainItem>
       <Key>Bailey</Key>
       <Title>temp.</Title>
-      <Text>'Oa.pt. K. H., M.C. (rel. conumn. on completion of service, and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10279</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -398,7 +407,10 @@
       </Key>
       <Title>Maj. and Bt. Lt.-Col.</Title>
       <Forenames>V. T.</Forenames>
-      <Text>, C.M.G., D.S.O. (rel. temp, rank of Lt.-Col. on vacating appt.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>12697</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -442,7 +454,9 @@
       </Key>
       <Title>Capt. and Bt. Maj. the Hon.</Title>
       <Forenames>W. R.</Forenames>
-      <Text>, D.S.O. (rel. temp, rank of Lt.Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>10944</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -564,7 +578,10 @@
       </Key>
       <Title>Col.</Title>
       <Forenames>P. A.</Forenames>
-      <Text>, C.B., C.M.G. (temp. Brig.-Gen. whilst empld. as Dir. of Equipment and Ord. Servs. in India)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>10708</PageNumber>
     </MainItem>
     <SubItem>
@@ -649,7 +666,10 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Title>Lt.</Title>
-      <Text>^Col. H. B. D , C.M.G., CLE., D.S.O. (temp. Brig.-Gen. whilst a Brig.Gen., General Staff in India)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>9677</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -711,7 +731,9 @@
       <Key>Baker</Key>
       <Title>temp. Lt.</Title>
       <Forenames>A. C</Forenames>
-      <Text>, M.C. (rel. commn. on completion of service, and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>11084</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -722,7 +744,9 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>A. G.</Forenames>
-      <Text>, M.C. (rel. commn. on completion of service, and granted rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10841</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -734,7 +758,9 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>A. H.</Forenames>
-      <Text>, M.C. (Tank Corps) (rel.. commn. on completion of service, and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10939</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -770,7 +796,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>E. G.</Forenames>
-      <Text>, M.C. (rel. commn. and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10054</PageNumber>
     </MainItem>
   </ItemGroup>

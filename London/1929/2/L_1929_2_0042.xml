@@ -4,7 +4,9 @@
     <MainItem>
       <Key>Westwood</Key>
       <Forenames>Joseph</Forenames>
-      <Text>, M.P. for Peebles and . Southern Division</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4117</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -21,7 +23,9 @@
       <Key>Wheatley</Key>
       <Title>Rt. Hon.</Title>
       <Forenames>John</Forenames>
-      <Text>, M.P. for Shettleston</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4117</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -29,7 +33,10 @@
     <MainItem>
       <Key>Whitby</Key>
       <Forenames>Lionel Ernest Howard</Forenames>
-      <Text>, M.O., M.D., Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3671</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -37,7 +44,9 @@
     <MainItem>
       <Key>White</Key>
       <Forenames>Frank George</Forenames>
-      <Text>, M.B.E., Serving Brother, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>4267</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -47,7 +56,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Henry Graham</Forenames>
-      <Text>, M.P. for Birkenhead East</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4106</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -83,7 +94,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Wilfrid</Forenames>
-      <Text>, M.P. for Ladywood Division, Birmingham</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4106</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -93,7 +106,9 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>William</Forenames>
-      <Text>, M.P. for Blaydon</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4108</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -102,7 +117,9 @@
       <Key>Whiteside</Key>
       <Title>Surgeon</Title>
       <Forenames>Rear-</Forenames>
-      <Text>Admiral Henry Cadman, M.R.C.S., L.R.C.P., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3667</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -160,7 +177,9 @@
     <MainItem>
       <Key>Wilkinson</Key>
       <Forenames>Ellen Cicely</Forenames>
-      <Text>, M.P. for Middlesbrough East</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4112</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -180,7 +199,11 @@
       <Key>Willcox</Key>
       <Title>Sir</Title>
       <Forenames>W. H.</Forenames>
-      <Text>, K.C.I.E., C.B., C.M.G., F.R.C.P., Consulting Staff of King Edward VII's Convalescent Home for Officers at Osborne, Isle of Wight</Text>
+      <Text>
+        <Honour>K.C.I.E.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>3517</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -189,7 +212,10 @@
       <Key>Williams</Key>
       <Title>Capt.</Title>
       <Forenames>Arthur Stuart</Forenames>
-      <Text>, O.B.E., Member, 4th class, Royal Victorian Order</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3671</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -199,7 +225,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Charles</Forenames>
-      <Text>, M.P. for Torquay</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4108</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -219,7 +247,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>David</Forenames>
-      <Text>, M.P. for Swansea East</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4115</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -239,7 +269,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>John Henry</Forenames>
-      <Text>, M.P. for Llanelly</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4107</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -249,7 +281,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Thomas</Forenames>
-      <Text>, M.P. for Don Valley</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4116</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -266,8 +300,12 @@
   <ItemGroup>
     <MainItem>
       <Key>Willis</Key>
-      <Forenames>Major-General Edward Henry</Forenames>
-      <Text>, C.B., C.M.G., Lieutenant Governor of Jersey</Text>
+      <Title>Major-</Title>
+      <Forenames>General Edward Henry</Forenames>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>3312</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -276,7 +314,10 @@
       <Key>Wills</Key>
       <Title>Sir</Title>
       <Forenames>Gilbert Alan Hamil-</Forenames>
-      <Text>ton, Bt., O.B.E., J.P., Baron</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4353</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -284,7 +325,9 @@
     <MainItem>
       <Key>Wilson</Key>
       <Forenames>Cecil Henry</Forenames>
-      <Text>, M.P. for Attercliffe</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4113</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -315,7 +358,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Godfrey Harold Alfred</Forenames>
-      <Text>, M.P. for Cambridge University</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4107</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -325,7 +370,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>James</Forenames>
-      <Text>, M.P. for Oldham</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4113</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -345,7 +392,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Robert John</Forenames>
-      <Text>, M.P. for Jarrow</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4108</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -370,7 +419,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Windsor</Key>
-      <Text>Clive, Lieut.-ColonelGeorge, C.M.G., M.P. for Ludlow</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4113</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -378,7 +430,9 @@
     <MainItem>
       <Key>Wingfield</Key>
       <Forenames>Charles John FitzRoy Rhys</Forenames>
-      <Text>, C.M.G., H.M. Envoy Extraordinary and Minister Plenipotentiary to H.M. the King of Siam</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>2848</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -387,7 +441,9 @@
       <Key>Winterton</Key>
       <Title>Rt. Hon.</Title>
       <Forenames>Edward</Forenames>
-      <Text>Earl, M.P. for Horsham and Worthing</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4115</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -397,7 +453,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>George Ernest</Forenames>
-      <Text>, M.P. for Loughborough</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4111</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -405,7 +463,9 @@
     <MainItem>
       <Key>Wise</Key>
       <Forenames>Edward Frank</Forenames>
-      <Text>, M.P. for Leicester, East</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4111</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -413,11 +473,16 @@
     <MainItem>
       <Key>Withers</Key>
       <Forenames>John James</Forenames>
-      <Text>, C.B.E., M.A., M.P., Knight</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4354</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>M.P. for Cambridge University</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4107</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -425,7 +490,9 @@
     <MainItem>
       <Key>Wolmer</Key>
       <Forenames>Roundell Cecil Palmer</Forenames>
-      <Text>, Viscount, M.P. for Aldershot</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4109</PageNumber>
     </MainItem>
     <SubItem>
@@ -437,7 +504,9 @@
     <MainItem>
       <Key>Womersley</Key>
       <Forenames>Walter James</Forenames>
-      <Text>, M.P. for Grimsby</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4109</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -456,7 +525,9 @@
       </Key>
       <Title>Capr.</Title>
       <Forenames>Frederick William</Forenames>
-      <Text>, Member,' 4th Class, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3671</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -477,7 +548,9 @@
       </Key>
       <Title>Rt. Hon. Sir</Title>
       <Forenames>Howard Kingsley</Forenames>
-      <Text>, Kt., M.P. for Woolwich, West</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4115</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -487,7 +560,10 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Murdoch</Forenames>
-      <Text>McKenzie, O.B.E., M.P. for Banffshire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4116</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -514,7 +590,9 @@
     <MainItem>
       <Key>Woods</Key>
       <Forenames>Robert Stanton</Forenames>
-      <Text>, M.D., M . R . C . P . , M.R.C.S., Knight</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3667</PageNumber>
       <PageNumber>4028</PageNumber>
     </MainItem>
@@ -535,7 +613,11 @@
       <Key>Worthington-Evans</Key>
       <Title>Rt. Hon. Sir</Title>
       <Forenames>Laming</Forenames>
-      <Text>, Bt., G.B.E., M.P. for St. George's Division, Westminster</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>G.B.E.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4115</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -553,7 +635,10 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Title>Brig.</Title>
-      <Text>General Wallace Duffield, V.C., M.P. for Tavistock</Text>
+      <Text>
+        <Honour>V.C.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4108</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -630,7 +715,9 @@
       <Key>Young</Key>
       <Title>Rt. Hon. Sir</Title>
       <Forenames>Edward Hilton</Forenames>
-      <Text>, M.P. for Sevenoaks</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4110</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -640,7 +727,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Reginald Stanley</Forenames>
-      <Text>, M.P. for Islington, North</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4110</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -650,7 +739,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Robert</Forenames>
-      <Text>, M.P. for Newton</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4111</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -365,8 +365,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Julius</Key>
-      <Forenames>S.</Forenames>
-      <Text>de V. A</Text>
+      <Forenames>S. de V</Forenames>
+      <Text>. A</Text>
       <PageNumber>2241</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -588,14 +588,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Knowles</Key>
-      <Text>. R. E</Text>
+      <Forenames>R. E.</Forenames>
       <PageNumber>603</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Knox</Key>
-      <Text>. G. S</Text>
+      <Forenames>G. S.</Forenames>
       <PageNumber>765</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -656,7 +656,9 @@
       <Key>Larcom</Key>
       <Title>Sir</Title>
       <Forenames>T. P.</Forenames>
-      <Text>Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>683</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1094,7 +1096,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Machell</Key>
-      <Text>. L. J</Text>
+      <Forenames>L. J .</Forenames>
       <PageNumber>764</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1146,7 +1148,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McLennan</Key>
-      <Text>. K. A. T</Text>
+      <Forenames>K. A. T.</Forenames>
       <PageNumber>441</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1186,7 +1188,7 @@
   <ItemGroup>
     <MainItem>
       <Key>MacMunn</Key>
-      <Text>. G. A</Text>
+      <Forenames>G. A.</Forenames>
       <PageNumber>765</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1214,7 +1216,7 @@
   <ItemGroup>
     <MainItem>
       <Key>MacSwine</Key>
-      <Text>.v, E. V. F</Text>
+      <Text>v, E. V. F</Text>
       <PageNumber>296</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1607,7 +1609,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Michell</Key>
-      <Text>. R. R</Text>
+      <Forenames>R. R</Forenames>
       <PageNumber>1859</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1635,7 +1637,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Miles</Key>
-      <Text>. A. F 19</Text>
+      <Forenames>A. F</Forenames>
+      <Text>19</Text>
       <PageNumber>33</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1781,7 +1784,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Monier-AVilliams</Key>
-      <Text>. H. B</Text>
+      <Forenames>H. B.</Forenames>
       <PageNumber>766</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1872,7 +1875,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Aiorris</Key>
-      <Text>. G. M</Text>
+      <Forenames>G. M.</Forenames>
       <PageNumber>1495</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1894,7 +1897,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mott</Key>
-      <Text>. S. F</Text>
+      <Forenames>S. F.</Forenames>
       <PageNumber>1494</PageNumber>
     </MainItem>
   </ItemGroup>

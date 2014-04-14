@@ -66,7 +66,9 @@
       <Key>Clark</Key>
       <Title>Hon. Col.</Title>
       <Forenames>A. M.</Forenames>
-      <Text>, V.D., A.D.C</Text>
+      <Text>
+        <Honour>A.D.C</Honour>
+      </Text>
       <PageNumber>5736</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -83,6 +85,14 @@
       <Forenames>F. G. Royal</Forenames>
       <Text>, V.D. (and retains rank)</Text>
       <PageNumber>6177</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Rhe</Key>
+      <Forenames>Phillipe</Forenames>
+      <Text>, G. W. V</Text>
+      <PageNumber>7140</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -113,7 +123,10 @@
     <MainItem>
       <Key>Mitchell</Key>
       <Forenames>H. A. G.</Forenames>
-      <Text>, O.B.E., A.D.C. (and retains rank of Lt.-Col.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>A.D.C.</Honour>
+      </Text>
       <PageNumber>7312</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -138,7 +151,9 @@
     <MainItem>
       <Key>Tyrie</Key>
       <Title>(Hon. Col.)</Title>
-      <Text>, D. A., V.D., A.D.C. (and retains rank)</Text>
+      <Text>
+        <Honour>A.D.C.</Honour>
+      </Text>
       <PageNumber>5563</PageNumber>
     </MainItem>
     <SubItem>
@@ -237,7 +252,9 @@
     <MainItem>
       <Key>Lomas</Key>
       <Forenames>H. A.</Forenames>
-      <Text>, O.B.E</Text>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>6035</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -268,7 +285,9 @@
     <MainItem>
       <Key>Morin</Key>
       <Forenames>A. H.</Forenames>
-      <Text>, D.S.O., V.D</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6036</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -290,8 +309,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Robertson</Key>
-      <Forenames>F. A.</Forenames>
-      <Text>de Vere, V.D</Text>
+      <Forenames>F. A. de Vere</Forenames>
+      <Text>, V.D</Text>
       <PageNumber>5736</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -347,7 +366,9 @@
     <MainItem>
       <Key>Campbell</Key>
       <Forenames>A. Y. G.</Forenames>
-      <Text>, CLE., C.B.E</Text>
+      <Text>
+        <Honour>C.B.E</Honour>
+      </Text>
       <PageNumber>6036</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -380,7 +401,9 @@
     <MainItem>
       <Key>Ashford</Key>
       <Forenames>J.</Forenames>
-      <Text>, O.B.E. (temp.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>6177</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -510,7 +533,9 @@
     <MainItem>
       <Key>Ferguson</Key>
       <Forenames>J. A.</Forenames>
-      <Text>, O.B.E. (and retains rank)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>6773</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -582,7 +607,10 @@
     <MainItem>
       <Key>Johnston</Key>
       <Forenames>J. Wilson</Forenames>
-      <Text>, C.B.E., see Wilson-Johnston, J., C.B.E. Johnstone, D. L. (and retains rank)</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>5360</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -779,7 +807,9 @@
     <MainItem>
       <Key>Wilson-Johnston</Key>
       <Forenames>J.</Forenames>
-      <Text>, CB.E</Text>
+      <Text>
+        <Honour>CB</Honour>
+      </Text>
       <PageNumber>6773</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -948,7 +978,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Coombs</Key>
-      <Text>. E. E. ... ... .:. '</Text>
+      <Forenames>E. E.</Forenames>
+      <Text>... ... .:. '</Text>
       <PageNumber>7140</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1459,7 +1490,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dodwell</Key>
-      <Text>. H. H</Text>
+      <Forenames>H. H.</Forenames>
       <PageNumber>6773</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1494,8 +1525,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gebbie</Key>
-      <Forenames>F. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>F. St. J</Forenames>
       <PageNumber>6036</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1561,7 +1591,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Leonard</Key>
-      <Text>. P. F. ... '*</Text>
+      <Forenames>P. F.</Forenames>
+      <Text>... '*</Text>
       <PageNumber>57</PageNumber>
     </MainItem>
   </ItemGroup>

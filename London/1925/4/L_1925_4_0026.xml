@@ -5,7 +5,9 @@
       <Key>Coupcr</Key>
       <Title>Maj.</Title>
       <Forenames>James Robert</Forenames>
-      <Text>, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>0773</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -21,7 +23,10 @@
     <MainItem>
       <Key>Cummins</Key>
       <Forenames>Herbert Asley Canard</Forenames>
-      <Text>, C.M.G., O.B.E., H.M. Consul at Pernambuco</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>6342</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -29,7 +34,9 @@
     <MainItem>
       <Key>Cunningham</Key>
       <Title>Eng.</Title>
-      <Text>-Cdr. John Edward Greig, R.N., Member, 4th Class, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>7350</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -45,7 +52,9 @@
     <MainItem>
       <Key>Downer</Key>
       <Forenames>Harold George</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>7247</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -54,7 +63,10 @@
       <Key>Dunlop</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Robert William Layard</Forenames>
-      <Text>, CLE., D.S.O., Knighted</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>6841</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -95,7 +107,10 @@
     <MainItem>
       <Key>FitzMaurice</Key>
       <Forenames>Rear</Forenames>
-      <Text>Adm. Maurice Swinfen, C.B., C. M.G., Knight Commander, Royal Victorian Order '</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>7350</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -135,7 +150,9 @@
     <MainItem>
       <Key>Fremantle</Key>
       <Forenames>Selwyn Howe</Forenames>
-      <Text>, C.S.I., CLE., V.D., Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>6841</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -152,7 +169,9 @@
       <Key>Gallagher</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Albert Ernest</Forenames>
-      <Text>, D.S.O., dominated Official Member, Legislative Council of Cyprus</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7949</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -183,7 +202,9 @@
     <MainItem>
       <Key>Gil</Key>
       <Forenames>I</Forenames>
-      <Text>an, Bt.-Maj. George Van Baerle, H.M. ConsulGeneral at Kashgar</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6840</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -209,7 +230,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>M.P. for Bury St. Edmunds</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>8027</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -220,15 +243,470 @@
       <Text>, Member, . Executive Council for Saint Vincent</Text>
       <PageNumber>8279</PageNumber>
     </MainItem>
-    <KeyDitto>___</KeyDitto>
-    <SubItem>
-      <Text>___ Capt. Humphrey Clifford, . M.C., Gentleman Usher in Ordinary to H.M</Text>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Halsey</Key>
+      <Forenames>Vice</Forenames>
+      <Text>
+        <Honour>G.C.V.O.</Honour>
+        <Honour>K.C.I.E.</Honour>
+        <Honour>C.B.</Honour>
+      </Text>
+      <PageNumber>7350</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Hammond</Key>
+      <Forenames>Egbert Laurie Lucas</Forenames>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
+      <PageNumber>6437</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Handley-Derry</Key>
+      <Forenames>Henry Forster</Forenames>
+      <Text>, H.M. Consul in China</Text>
+      <PageNumber>6342</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Harding</Key>
+      <Forenames>Harold Ivan</Forenames>
+      <Text>, H.M. Consul in China</Text>
+      <PageNumber>6840</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Hargreaves</Key>
+      <Title>Capt.</Title>
+      <Forenames>Reginald Cornwallis</Forenames>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
+      <PageNumber>7350</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Hart-Davis</Key>
+      <Forenames>Charles Henry</Forenames>
+      <Text>, Nominated Official Member, Legislative Council of Cyprus</Text>
+      <PageNumber>7949</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Hawkins</Key>
+      <Title>Lt.</Title>
+      <Text>
+        <Honour>D.S.C.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
+      <PageNumber>7350</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Hay</Key>
+      <Title>Hon.</Title>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>6502</PageNumber>
-    </SubItem>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Hayes</Key>
+      <Forenames>Robert Turnley</Forenames>
+      <Text>, H.M. Consul at St. Michael's</Text>
+      <PageNumber>6840</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Henderson</Key>
+      <Forenames>James Thvne</Forenames>
+      <Text>, Third Secretary in H.M. Diplomatic Service</Text>
+      <PageNumber>8028</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Hennessy</Key>
+      <Title>Major</Title>
+      <Forenames>George Richard James</Forenames>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
+      <PageNumber>8277</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Hills</Key>
+      <Title>Major</Title>
+      <Forenames>John Waller</Forenames>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
+      <PageNumber>8196</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Hobson</Key>
+      <Forenames>Henry Arthur</Forenames>
+      <Text>, H.M. Consul at Caracas</Text>
+      <PageNumber>6342</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Hole</Key>
+      <Forenames>Edwin Cecil</Forenames>
+      <Text>, H.M. Consul at Corfu</Text>
+      <PageNumber>6840</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Hope</Key>
+      <Title>Capt.</Title>
+      <Forenames>Herbert Willes Webley</Forenames>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
+      <PageNumber>7350</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___</KeyDitto>
+      </Key>
+      <Forenames>John Owen Webley</Forenames>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
+      <PageNumber>6342</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Howe</Key>
+      <Forenames>Richard George Penn</Forenames>
+      <Text>
+        <Honour>G.C.V.O.</Honour>
+      </Text>
+      <PageNumber>8475</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Hovland</Key>
+      <Forenames>Harold Allan Dilke</Forenames>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
+      <PageNumber>6840</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Jackson</Key>
+      <Forenames>Joseph Cooksey</Forenames>
+      <Text>, K.C, Recorder of Bolton</Text>
+      <PageNumber>7247</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Jaganneth</Key>
+      <Forenames>Bhavanishanker Pandya</Forenames>
+      <Text>, Nominated Indian Unofficial Member of the Legislative Council of Kenya</Text>
+      <PageNumber>7159</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>James</Key>
+      <Title>Maj.-Gen.</Title>
+      <Forenames>William Bernard</Forenames>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>M.V.O.</Honour>
+        <Honour>Knighted</Honour>
+      </Text>
+      <PageNumber>6841</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Kerr</Key>
+      <Forenames>Archibald John KenClark</Forenames>
+      <Text>, Counsellor in H.M. Diplomatic Service</Text>
+      <PageNumber>6993</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>King</Key>
+      <Title>Cdr.</Title>
+      <Forenames>Edward Leigh Stuart</Forenames>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
+      <PageNumber>7350</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Kohan</Key>
+      <Forenames>Robert Mendel</Forenames>
+      <Text>, H.M. Consul at Bremen</Text>
+      <PageNumber>6993</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Lander</Key>
+      <Forenames>Edward Lee</Forenames>
+      <Text>, Member of the Executive Council of St. Helena</Text>
+      <PageNumber>7159</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Legh</Key>
+      <Title>Maj. the Hon.</Title>
+      <Forenames>Piers Walter</Forenames>
+      <Text>
+        <Honour>M.V.O.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
+      <PageNumber>7350</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Leigh-Smith</Key>
+      <Forenames>Philip</Forenames>
+      <Text>, First Secretary in H.M Diplo-</Text>
+      <PageNumber>6993</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Lewis</Key>
+      <Forenames>Andrew</Forenames>
+      <Text>, Lieutenant</Text>
+      <PageNumber>8128</PageNumber>
+    </MainItem>
     <SubItem>
-      <Text>Mackenzie, William Lvon, K.C., Sheriff of Ayrshire</Text>
-      <PageNumber>8388</PageNumber>
+      <Text>Baron</Text>
+      <PageNumber>7509</PageNumber>
     </SubItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___</KeyDitto>
+      </Key>
+      <Title>Capt.</Title>
+      <Forenames>Humphrey Clifford</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
+      <PageNumber>6502</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___</KeyDitto>
+      </Key>
+      <Title>Col.</Title>
+      <Forenames>Wilford Neville</Forenames>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>M.V.O.</Honour>
+      </Text>
+      <PageNumber>6613</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Low</Key>
+      <Forenames>Alexander</Forenames>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
+      <PageNumber>6504</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>McDonald</Key>
+      <Forenames>Finest Eldred</Forenames>
+      <Text>, Nominated Official Member, Legislative Council of Cyprus '</Text>
+      <PageNumber>7949</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Mackenzie</Key>
+      <Forenames>William Lvon</Forenames>
+      <Text>, K.C., Sheriff of Ayrshire</Text>
+      <PageNumber>8388</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Macpherson</Key>
+      <Title>Cd. Guu.</Title>
+      <Forenames>John</Forenames>
+      <Text>' Smith, R.N., Members, 5th Class, Roval Victorian Order</Text>
+      <PageNumber>7350</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Manibhai</Key>
+      <Forenames>Ambelal Desai</Forenames>
+      <Text>, Nominated Indian Unofficial Member of the Legislative Council of Kenya</Text>
+      <PageNumber>7159</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Marten</Key>
+      <Forenames>John Thomas</Forenames>
+      <Text>, Member of the Executive Council of the Governor of the Central Provinces</Text>
+      <PageNumber>6924</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Martin</Key>
+      <Forenames>Arthur John</Forenames>
+      <Text>. H.M. Vice-Consul in China</Text>
+      <PageNumber>6840</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Maxwell</Key>
+      <Title>Rt. Hon. Sir</Title>
+      <Forenames>Herbert Eustace</Forenames>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
+      <PageNumber>6841</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Mohamed</Key>
+      <Forenames>Kassim</Forenames>
+      <Text>, Nominated Indian Unofficial Member of the Legislative Council of Kenya</Text>
+      <PageNumber>7159</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Moritz</Key>
+      <Forenames>Rudoloh</Forenames>
+      <Text>, H.M. Counsel</Text>
+      <PageNumber>6689</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Morrison</Key>
+      <Forenames>Archibald C</Forenames>
+      <Text>, Clerk to the Justices of the Peace of Aberdeen</Text>
+      <PageNumber>8567</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Muhammad</Key>
+      <Forenames>Ahmad Said Khan</Forenames>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
+      <PageNumber>6924</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Nicholls</Key>
+      <Forenames>Henry Alfred Alford</Forenames>
+      <Text>
+        <Honour>M.D.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
+      <PageNumber>6692</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Novar</Key>
+      <Title>Rt. Hon.</Title>
+      <Text>
+        <Honour>G.C.M.G.</Honour>
+      </Text>
+      <PageNumber>7949</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>O'Donnell</Key>
+      <Title>Lt.</Title>
+      <Forenames>Bertram Wal-</Forenames>
+      <Text>ton, R.M., Member 5th Class, Roval ' Victorian Order '</Text>
+      <PageNumber>7350</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Otter</Key>
+      <Forenames>Robert Edward</Forenames>
+      <Text>, M.O.. Judge, High Court of Judicature, Rangoon</Text>
+      <PageNumber>7955</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Oxford</Key>
+      <Title>Rt. Rev.</Title>
+      <Forenames>Thomas Banks Strong</Forenames>
+      <Text>, Bishop of. Clerk of the Closet in Ordinary to H.M. King</Text>
+      <PageNumber>7245</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Paley</Key>
+      <Title>Col.</Title>
+      <Forenames>Alan Thomas</Forenames>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
+      <PageNumber>6992</PageNumber>
+    </MainItem>
   </ItemGroup>
   <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
 </Index>

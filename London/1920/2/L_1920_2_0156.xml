@@ -3,7 +3,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Lake</Key>
-      <Text>Lt. W. V. C. (rel. commn. and retains rank of Lt.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>W. V. C.</Forenames>
+      <Text>(rel. commn. and retains rank of Lt.)</Text>
       <PageNumber>6553</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -54,7 +56,9 @@
       </Key>
       <Title>temp. Col. Sir</Title>
       <Forenames>H. H.</Forenames>
-      <Text>, K.C.M.G. (rel. commn. on completion of service and retains rank of Col.)</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+      </Text>
       <PageNumber>6416</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -160,7 +164,9 @@
       </Key>
       <Title>temp. Maj. (Capt. Yeo., T.F.)</Title>
       <Forenames>T. E.</Forenames>
-      <Text>, O.B.E. (rel. temp, commn.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4673</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -182,7 +188,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>W. P.</Forenames>
-      <Text>, M.C. (rel. commn. and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6418</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -200,7 +208,9 @@
       <Key>Lambeth</Key>
       <Title>temp. Lt.</Title>
       <Forenames>O</Forenames>
-      <Text>, M.C. (rel. commn. on completion of service and granted rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4972</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -221,7 +231,9 @@
       <Key>Lamming</Key>
       <Title>2nd Lt.</Title>
       <Forenames>S. D.</Forenames>
-      <Text>, M.C. (Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4210</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -230,7 +242,10 @@
       <Key>Lamond</Key>
       <Title>Lt.</Title>
       <Forenames>J.</Forenames>
-      <Text>, D.S.O., M.C. (seed. for service as Adjt., T.F.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4551</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -306,7 +321,9 @@
       </Key>
       <Title>temp. Lt. (actg. Capt.)</Title>
       <Forenames>F. G.</Forenames>
-      <Text>, M.C. (rel. commn. on completion of service and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5905</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -324,7 +341,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Lancaster</Key>
-      <Text>temp, Lt. H. J., M.C. (rel. commn. on completion of service and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4317</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -379,7 +398,9 @@
       <Key>Landale</Key>
       <Title>Lt.</Title>
       <Forenames>F. B.</Forenames>
-      <Text>, M.C. (rel. commn. and granted rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6684</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -399,7 +420,9 @@
       <Key>Landau</Key>
       <Title>temp. Capt.</Title>
       <Forenames>H.</Forenames>
-      <Text>, O.B.E. (rel. commn. on completion of service and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4561</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -519,7 +542,9 @@
       </Key>
       <Title>temp. Capt.</Title>
       <Forenames>H. A.</Forenames>
-      <Text>(R.A.M.C.) (rel. commn. and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5572</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -530,7 +555,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>H. D.</Forenames>
-      <Text>, M.C. (rel. actg. rank of Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6673</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -541,7 +568,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>H. M.</Forenames>
-      <Text>, MX!., D.C.M. (rel. commn. and retains rank ofLt.) .. '</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>5698</PageNumber>
     </MainItem>
   </ItemGroup>

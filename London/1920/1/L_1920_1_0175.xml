@@ -53,7 +53,9 @@
       <Key>Wynter</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Charles Philip</Forenames>
-      <Text>, Companion, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>1802</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -72,7 +74,9 @@
     <MainItem>
       <Key>Wyse</Key>
       <Forenames>Richard</Forenames>
-      <Text>, M.D., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>1239</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -96,7 +100,9 @@
       <Key>
         <KeyDitto>___ ___ —— ___ ___ ___</KeyDitto>
       </Key>
-      <Text>the Earl of, P.C., Knight of Justice, St. John of Jerusalem</Text>
+      <Text>
+        <Honour>P.C.</Honour>
+      </Text>
       <PageNumber>1684</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -170,7 +176,9 @@
       <Key>Yencken</Key>
       <Title>Maj.</Title>
       <Forenames>Arthur Ferdinand</Forenames>
-      <Text>, M.C., Third Secretary in H.M. Diplomatic Service -</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>328</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -194,7 +202,9 @@
     <MainItem>
       <Key>Yerburgh-Bonsey</Key>
       <Forenames>Harold Robert</Forenames>
-      <Text>, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3777</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -247,7 +257,10 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>Charles Alban</Forenames>
-      <Text>, K.C.M.G., M.V.O., H.M. Envoy Extraordinary and Minister Plenipotentiary to the King of the Serbs, Croats and Slovenes</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>2454</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -267,7 +280,9 @@
         <KeyDitto>___ ___ —— ___ ___</KeyDitto>
       </Key>
       <Forenames>Edward Willie</Forenames>
-      <Text>, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3812</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -356,7 +371,9 @@
         <KeyDitto>___ ___ —— ___ ___</KeyDitto>
       </Key>
       <Forenames>Robert Arthur</Forenames>
-      <Text>, M.D., F.R.C.P., Commander,' Order of the British Empire</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>1237</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -452,7 +469,10 @@
       <Key>Abercrombie</Key>
       <Title>temp. Lt.-Col.</Title>
       <Forenames>C. M.</Forenames>
-      <Text>, C.M.G., C.B.E. (rel. appt. as Comdr., Cl. X, attd. to Hd.-Qr. Unit, and temp, rank of Col.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>3508</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -510,7 +530,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Acland-Hood</Key>
-      <Text>. Capt. F. P., M.C. (rel. temp. appt. as Staff Capt.)</Text>
+      <Title>Capt.</Title>
+      <Forenames>F. P.</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>816</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -541,7 +565,9 @@
       </Key>
       <Title>temp. Capt.</Title>
       <Forenames>J. C</Forenames>
-      <Text>, O.B.E. (rel. temp. appt. as Staff Capt. at War Office)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>804</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -552,7 +578,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>R. E. C</Forenames>
-      <Text>, M.C. (rel. appt. as Brig Maj. attd. to Hd.. Qr. Unit) C</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>86</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -568,7 +596,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Ades</Key>
-      <Text>. Lt. (temp Capt.) S. (corr. of date of appt. as Staff Capt. attd. to Hd.-Qr Unit)</Text>
+      <Title>Lt. (temp Capt.)</Title>
+      <Forenames>S.</Forenames>
+      <Text>(corr. of date of appt. as Staff Capt. attd. to Hd.-Qr Unit)</Text>
       <PageNumber>306</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -586,7 +616,10 @@
       <Key>Airey</Key>
       <Title>Maj.</Title>
       <Forenames>R. M.</Forenames>
-      <Text>, O.B.E., M.C. (rel. temp. appt. as Dep. Asst. Dir. of Trans, at War Office)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1788</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -604,7 +637,9 @@
       <Key>Alderman</Key>
       <Title>Capt.</Title>
       <Forenames>R. E.</Forenames>
-      <Text>, CLE., O.B.E. (rel. appt as Dep. Dir. of lab., Cl. T, and temp, rank of Col.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>2439</PageNumber>
     </MainItem>
   </ItemGroup>

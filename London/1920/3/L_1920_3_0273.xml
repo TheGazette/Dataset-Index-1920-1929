@@ -60,7 +60,9 @@
     <MainItem>
       <Key>Ford</Key>
       <Title>Payr. Lt.</Title>
-      <Text>-Odt. B. B., O.B.E</Text>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>7978</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -69,7 +71,9 @@
       <Key>Fortier</Key>
       <Title>Actg. Cdr.</Title>
       <Forenames>B. L.</Forenames>
-      <Text>, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>7978</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -135,7 +139,9 @@
       <Key>Matheson</Key>
       <Title>Aetg. Cdr.</Title>
       <Forenames>C. G.</Forenames>
-      <Text>, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>7978</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -160,7 +166,9 @@
       <Key>Banken</Key>
       <Title>Odr.</Title>
       <Forenames>F. J.</Forenames>
-      <Text>, O.B.E</Text>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>9144</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -176,7 +184,9 @@
     <MainItem>
       <Key>Stuart</Key>
       <Title>Lt.</Title>
-      <Text>--Cdr. C. J., O.B.E</Text>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>7978</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -201,7 +211,9 @@
       <Key>Vaughan</Key>
       <Title>Lt. Cdr.</Title>
       <Forenames>P. B.</Forenames>
-      <Text>, D.S.C</Text>
+      <Text>
+        <Honour>D.S.C</Honour>
+      </Text>
       <PageNumber>9144</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -300,7 +312,9 @@
       <Key>Hanker</Key>
       <Title>Surg. Cdr.</Title>
       <Forenames>W. E.</Forenames>
-      <Text>, O.B.E., MiD</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>8409</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -338,7 +352,9 @@
     <MainItem>
       <Key>Johnstone</Key>
       <Forenames>J. R.</Forenames>
-      <Text>, C.B. (Maj.-Gen.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>9300</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -502,7 +518,10 @@
       <Key>Bourne</Key>
       <Title>Maj.</Title>
       <Forenames>A. G. B.</Forenames>
-      <Text>, D.S.O., M.V.O. (absorbed in estabt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>9055</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -510,7 +529,9 @@
     <MainItem>
       <Key>Brooke</Key>
       <Title>Lt.</Title>
-      <Text>*G)l. C. L., C.B. (absorbed in estabt.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>8091</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -519,7 +540,9 @@
       <Key>Conway-Gordon</Key>
       <Title>Col. Oomdt.</Title>
       <Forenames>L.</Forenames>
-      <Text>, C.B. (A.D.O. to H..M. the King)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>8792</PageNumber>
     </MainItem>
     <SubItem>
@@ -541,7 +564,9 @@
       <Key>Harris</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>G. N. A.</Forenames>
-      <Text>, O.B.E. . (placed on Retd. List on reaching age for retirement)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>8629</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -558,7 +583,9 @@
       <Key>Jollye</Key>
       <Title>Maj.</Title>
       <Forenames>G. H.</Forenames>
-      <Text>, O.B.E. (placed on Retd. List and apptd. to Res. of Offrs., R.M., in rank last held on active list)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>9221</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -602,7 +629,9 @@
       <Key>Osmaston</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>C. A. F.</Forenames>
-      <Text>, C.B., C. B.E. (absorbed in estabt.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>8091</PageNumber>
     </MainItem>
     <SubItem>
@@ -615,7 +644,9 @@
       <Key>Paterson</Key>
       <Title>Maj.</Title>
       <Forenames>R. O.</Forenames>
-      <Text>, O.B.E. (absorbed in estabt.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>8277</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -624,7 +655,10 @@
       <Key>Poole</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>G. R.</Forenames>
-      <Text>, C.M.G., D. S.O. (Col. 2nd Comd.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D. S.O.</Honour>
+      </Text>
       <PageNumber>8091</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -642,7 +676,9 @@
       <Key>Raikes</Key>
       <Title>Maj.</Title>
       <Forenames>G. L.</Forenames>
-      <Text>, D.S.C. (seed. for service with the Army)</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>8792</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -659,11 +695,13 @@
     <MainItem>
       <Key>Temple</Key>
       <Title>Maj. (Supy.) and Bt. Lt.</Title>
-      <Text>Col. (R. C, O.B.E. (absorbed in estabt,)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>7866</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Lt.-Col.</Text>
+      <Text>Lt.-Col</Text>
       <PageNumber>8629</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -681,7 +719,10 @@
       <Key>Tripp</Key>
       <Title>Maj.</Title>
       <Forenames>W. H. L.</Forenames>
-      <Text>, D.S.O., M.C. (absorbed in estabt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9055</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -727,7 +768,9 @@
     <MainItem>
       <Key>Campbell</Key>
       <Forenames>G. M.</Forenames>
-      <Text>, C.B., A/D.C. {Adjt. Gen.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>7776</PageNumber>
     </MainItem>
     <SubItem>
@@ -784,7 +827,9 @@
       <Key>Bewes</Key>
       <Title>Maj. and Bt. Lt.-Col.</Title>
       <Forenames>A. E.</Forenames>
-      <Text>, C.M.G. 'placed on Retd. List on acc. of medical unfitness)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>7866</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -820,7 +865,9 @@
       <Key>Cator</Key>
       <Title>Maj. and Bt. Lt.-Col.</Title>
       <Forenames>B.</Forenames>
-      <Text>, O.B.E. (placed on, Retd. List and apptd. to Res. of Offrs. in rank last held on Active List)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>8091</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -838,7 +885,9 @@
       <Key>Cooke</Key>
       <Title>Capt. and Bt. Maj.</Title>
       <Forenames>T. F. V.</Forenames>
-      <Text>, D.S.O. (absorbed in estabt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7354</PageNumber>
     </MainItem>
   </ItemGroup>

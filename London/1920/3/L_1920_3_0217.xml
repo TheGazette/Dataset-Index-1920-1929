@@ -81,7 +81,9 @@
     <MainItem>
       <Key>Duff</Key>
       <Title>Capt.</Title>
-      <Text>' C. G., M.C. (resigns commn. and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7829</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -110,7 +112,9 @@
       <Key>Dugdale</Key>
       <Title>Lt.</Title>
       <Forenames>N.</Forenames>
-      <Text>, M.C. (trd. from Dur. R.G.A., to 3rd Nortihum forian Med. Bde.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8770</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -193,7 +197,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>H. S.</Forenames>
-      <Text>, M.C. (trd. from 4tlh to 2nd West Riding Bde.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7418</PageNumber>
     </MainItem>
     <SubItem>
@@ -257,7 +263,9 @@
       <Key>Dunkerley</Key>
       <Title>Lt.</Title>
       <Forenames>W.</Forenames>
-      <Text>, M.C. (resigns commn. and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7439</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -360,7 +368,9 @@
       <Key>Durling</Key>
       <Title>Lt.</Title>
       <Forenames>T.</Forenames>
-      <Text>)H. (restd. to estabt. on ceasing to be empld. with M.G.C.)</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>7549</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -378,7 +388,9 @@
       <Key>Dutton</Key>
       <Title>2nd Lt.</Title>
       <Forenames>A. C</Forenames>
-      <Text>, D.F.C. (ILt.)</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>7561</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -425,7 +437,9 @@
     <MainItem>
       <Key>iDymiore</Key>
       <Forenames>Harry</Forenames>
-      <Text>, M.C. (.Qrmr. and Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8046</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -472,7 +486,9 @@
       <Key>Eager</Key>
       <Title>Capt. (late temp.Capt,, R.A.M.O.)</Title>
       <Forenames>Gurth</Forenames>
-      <Text>(Lt., R.A.M.C.,, Gen. List, and rel. rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8853</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -483,7 +499,10 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>R.</Forenames>
-      <Text>, O.B.E., M.D. (Maj.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>7218</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -492,7 +511,10 @@
       <Key>Eames</Key>
       <Title>Oapfc.</Title>
       <Forenames>C. W.</Forenames>
-      <Text>, D.S.O., M.D. (Lt.-Col., T.F.R.) '</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>7844</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -501,7 +523,9 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>^— ___ ___ ___ Capt. S. H. W., M.C. (trd. to T.F.R., Infy.) ..:</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8686</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -571,7 +595,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>O. A. M.</Forenames>
-      <Text>, M.C. (trd. to T.F.R.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8156</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -580,7 +606,9 @@
       <Key>Ebbels</Key>
       <Title>Lt.</Title>
       <Forenames>J.</Forenames>
-      <Text>iK. (restd. to estabt. on oeasing to be empld. with M.G.C.)</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>8694</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -617,7 +645,9 @@
       <Key>Echlin</Key>
       <Title>Lt.</Title>
       <Forenames>John Patrick</Forenames>
-      <Text>, M.C. (trd. to 1st Bn., East Lanes. Divl. Engrs.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7656</PageNumber>
     </MainItem>
     <SubItem>
@@ -659,14 +689,20 @@
   <ItemGroup>
     <MainItem>
       <Key>Eden</Key>
-      <Text>. Cant. R, A., M.C. (trd. to 6th Bn., Durh. L.I. as Lb. and rel. rank of Capt.)</Text>
+      <Title>Cant.</Title>
+      <Forenames>R</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8779</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Edgar</Key>
-      <Text>. Lt. A. (trd. to T.F.R., Infy., from 9th Bn., R. Scots)</Text>
+      <Title>Lt.</Title>
+      <Forenames>A.</Forenames>
+      <Text>(trd. to T.F.R., Infy., from 9th Bn., R. Scots)</Text>
       <PageNumber>9604</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -675,7 +711,9 @@
       <Key>Edgar</Key>
       <Title>Lt.</Title>
       <Forenames>A. C</Forenames>
-      <Text>, M.C. commh .and granted rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8563</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -704,7 +742,10 @@
       <Key>Eiinborough</Key>
       <Title>Capt.</Title>
       <Forenames>S. B.</Forenames>
-      <Text>., D.S.O., M.C. (trd. to 4th Bn., Lines. Regt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8464</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -730,7 +771,9 @@
       <Key>Edmonds</Key>
       <Title>Lt.</Title>
       <Forenames>J.</Forenames>
-      <Text>, M.C. (trd. to T.F.R.., Infy., from 21st Bn., London R.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9362</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -779,7 +822,9 @@
       <Key>Edwards</Key>
       <Title>Maj.</Title>
       <Forenames>C. W.</Forenames>
-      <Text>_, D.S.O. (Adjt., Ist London Div. Train, R.A.S.C., T.F.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8143</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -790,7 +835,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>G. B.</Forenames>
-      <Text>, M.C. (Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7438</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -855,7 +902,9 @@
       <Key>Eeles</Key>
       <Title>Maj.</Title>
       <Forenames>C. A.</Forenames>
-      <Text>, D.S.O. (Adjt., 13th (Sussex) Bde.) '</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7940</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -864,7 +913,9 @@
       <Key>Egerton</Key>
       <Title>Lt.</Title>
       <Forenames>H. T.</Forenames>
-      <Text>(restd. toestabt. oh ceasing to be empld. with M.G.C.)</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>7754</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -893,14 +944,18 @@
       <Key>Eglinton</Key>
       <Title>2nd Lt.</Title>
       <Forenames>A. R.</Forenames>
-      <Text>, D.C.M. (resigns commn. and retains rank of 2nd Lt.)</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>7419</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Eglinton</Key>
-      <Text>and Winton, Maj. A. S., Earl of (trd. from Gds. M.G.C. Regt. to Ayrshire Yeo.)</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>7570</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -909,7 +964,9 @@
       <Key>Eills</Key>
       <Title>Capt.</Title>
       <Forenames>C.</Forenames>
-      <Text>(restd. to estabt. on ceasing to be empld. with M.G.C.)</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>8684</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -926,7 +983,9 @@
     <MainItem>
       <Key>Eliot</Key>
       <Forenames>Chaplain</Forenames>
-      <Text>, 4th CI., Rev. E. F. W., M.C. (resigns commn. and to be Hon. Chaplain, 4th CI.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8779</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -944,7 +1003,9 @@
       <Key>Elkington</Key>
       <Title>Capt.</Title>
       <Forenames>A. D.</Forenames>
-      <Text>(restd. to estaibt.. on ceasing to be empld. with M.G.C.)</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>8143</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -955,7 +1016,9 @@
       </Key>
       <Title>Cant.</Title>
       <Forenames>C. G.</Forenames>
-      <Text>. D.S.O. (trd. to 7th Bn., Worcester. R.}</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7753</PageNumber>
     </MainItem>
     <SubItem>
@@ -976,14 +1039,19 @@
   <ItemGroup>
     <MainItem>
       <Key>Elliot</Key>
-      <Text>. Gilbprt Pei-cv (2nd Lt,)</Text>
+      <Forenames>Gilbprt Pei-cv</Forenames>
+      <Text>(2nd Lt,)</Text>
       <PageNumber>9048</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Elliott</Key>
-      <Text>. Maj. B. C. T.D. (resigns commn. and retains rank of Maj. with r&gt;f«-TM;sston to wear prescribed uniform)</Text>
+      <Title>Maj.</Title>
+      <Forenames>B. C.</Forenames>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>8562</PageNumber>
     </MainItem>
   </ItemGroup>

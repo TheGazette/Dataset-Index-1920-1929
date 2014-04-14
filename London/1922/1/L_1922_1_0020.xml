@@ -5,7 +5,9 @@
       <Key>Clapham</Key>
       <Title>Dr.</Title>
       <Forenames>J. H.</Forenames>
-      <Text>, C.B.E., Chairman, Gold and Aluminium Bronze Powders Committee under Safeguarding of Industries Act</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>958</PageNumber>
       <PageNumber>1080</PageNumber>
     </MainItem>
@@ -13,7 +15,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Connaught</Key>
-      <Text>and Strathearn, H.B.H. Arthur William Patrick Albert, Duke of, K.G., K.T., etc., Member of the Royal Patriotic Fund Corporation</Text>
+      <Text>
+        <Honour>K.G.</Honour>
+        <Honour>K.T.</Honour>
+      </Text>
       <PageNumber>151</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -21,7 +26,10 @@
     <MainItem>
       <Key>Constable</Key>
       <Forenames>Andrew Henderson Briggs</Forenames>
-      <Text>, C.B.E., M.C., H.M. Solicitor-General for Scotland</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2325</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -49,7 +57,9 @@
       <Key>Cubitt</Key>
       <Title>Sir</Title>
       <Forenames>Bertram Blakiston</Forenames>
-      <Text>. K.C.B., Member of Royal Patriotic Fund Corporation</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+      </Text>
       <PageNumber>151</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -58,7 +68,9 @@
       <Key>Cudworth</Key>
       <Title>Miss</Title>
       <Forenames>Margaret</Forenames>
-      <Text>, Lady of Grace, St. John of Jerusalem</Text>
+      <Text>
+        <Honour>Lady of Grace, St. John of Jerusalem</Honour>
+      </Text>
       <PageNumber>1189</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -75,7 +87,9 @@
       <Key>Cust</Key>
       <Title>Capt.</Title>
       <Forenames>Lionel George Archer</Forenames>
-      <Text>, R.A., Esquire, St. John of Jerusalem</Text>
+      <Text>
+        <Honour>Esquire, St. John of Jerusalem</Honour>
+      </Text>
       <PageNumber>1189</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -85,8 +99,23 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Lionel Henry</Forenames>
-      <Text>, C.V.O., Litt.D., Knight of Grace, St. John of Jerusalem</Text>
+      <Text>
+        <Honour>C.V.O.</Honour>
+        <Honour>Knight of Grace, St. John of Jerusalem</Honour>
+      </Text>
       <PageNumber>1189</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Burgh</Key>
+      <Title>Col.</Title>
+      <Forenames>Ulick George Camp-</Forenames>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>Knight of Grace, St. John of Jerusalem</Honour>
+      </Text>
+      <PageNumber>275</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -118,7 +147,10 @@
       <Key>Esher</Key>
       <Title>Rt. Hon.</Title>
       <Forenames>Reginald Baliol</Forenames>
-      <Text>, Viscount, G.C.B., B.C.V.O., sworn of H.M. Privy Council</Text>
+      <Text>
+        <Honour>G.C.B.</Honour>
+        <Honour>C.V.O.</Honour>
+      </Text>
       <PageNumber>1073</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -134,7 +166,13 @@
   <ItemGroup>
     <MainItem>
       <Key>Fane</Key>
-      <Text>. Maj.-Gen. Sir Vere Bonamy. K.C.B., K.C.I.E., Knight of Grace, St. John of Jerusalem</Text>
+      <Title>Maj.-Gen. Sir</Title>
+      <Forenames>Vere Bonamy</Forenames>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>K.C.I.E.</Honour>
+        <Honour>Knight of Grace, St. John of Jerusalem</Honour>
+      </Text>
       <PageNumber>1189</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -143,7 +181,13 @@
       <Key>Feilding</Key>
       <Title>Maj.-Gen. Sir</Title>
       <Forenames>Geoffrey Percv Thvnne</Forenames>
-      <Text>. K.C.B., K.C.V.O.. C.M.G., D.S.O.. Knight of Grace, St. John of Jerusalem</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>K.C.V.O.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Knight of Grace, St. John of Jerusalem</Honour>
+      </Text>
       <PageNumber>1721</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -174,14 +218,18 @@
   <ItemGroup>
     <MainItem>
       <Key>Geddes</Key>
-      <Text>. Rt. Hon. Sir E.. Steward and Bailiff of the Manor of Northstead</Text>
+      <Title>Rt. Hon. Sir</Title>
+      <Forenames>E.</Forenames>
+      <Text>. Steward and Bailiff of the Manor of Northstead</Text>
       <PageNumber>1588</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Gillman</Key>
-      <Text>. Warren. Officer, Order of the British Empire</Text>
+      <Title>Warren.</Title>
+      <Forenames>Officer</Forenames>
+      <Text>, Order of the British Empire</Text>
       <PageNumber>2428</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -196,7 +244,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Grant</Key>
-      <Text>. Lewis Russell. Unofficial Member of Legislative Council of British Honduras</Text>
+      <Forenames>Lewis Russell</Forenames>
+      <Text>. Unofficial Member of Legislative Council of British Honduras</Text>
       <PageNumber>958</PageNumber>
     </MainItem>
     <SubItem>
@@ -207,14 +256,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Green</Key>
-      <Text>. Wilfrid Arthur, Counsel to ' His Maj est v</Text>
+      <Forenames>Wilfrid Arthur</Forenames>
+      <Text>, Counsel to ' His Maj est v</Text>
       <PageNumber>2233</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Greg</Key>
-      <Text>. Robert Hyde, H.M. Envoy Extraordinary and Minister Plenipotentiary to Siairi</Text>
+      <Forenames>Robert Hyde</Forenames>
+      <Text>, H.M. Envoy Extraordinary and Minister Plenipotentiary to Siairi</Text>
       <PageNumber>1817</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -238,7 +289,10 @@
     <MainItem>
       <Key>Harewood</Key>
       <Forenames>Henry Ulick</Forenames>
-      <Text>, Earl of, K.C.V.O., Knight Grand Cross, Royal Victorian Order</Text>
+      <Text>
+        <Honour>K.C.V.O.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>1949</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -265,7 +319,12 @@
       <Key>Healey</Key>
       <Title>Sir</Title>
       <Forenames>Gerald Edward Ghad-</Forenames>
-      <Text>wyck, Bt., C.B.E., see Chadwyck Healey, Sir Gerald Edward Bt., C.B.E. Heard, William Beauchamp; H.M. Consul for the Nile and Upper Egypt, at Cairo</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>C.B.E.</Honour>
+        <Honour>Bt</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>368</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -295,7 +354,9 @@
       <Key>Hill</Key>
       <Title>Surg. Cmdr.</Title>
       <Forenames>Horace Bryden</Forenames>
-      <Text>, R.N., Esquire, St. John of Jerusalem</Text>
+      <Text>
+        <Honour>Esquire, St. John of Jerusalem</Honour>
+      </Text>
       <PageNumber>275</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -319,7 +380,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Hope</Key>
-      <Text>. James Fitzalan, M.P., sworn of H.M. Privy Council</Text>
+      <Forenames>James Fitzalan</Forenames>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>1073</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -354,7 +418,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Wilfrid Edward Francis</Forenames>
-      <Text>, C.M.G., Member of Legislative Council of Island of Barbados</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>153</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -372,7 +438,9 @@
       <Key>Johnson</Key>
       <Title>Col.</Title>
       <Forenames>R. A.</Forenames>
-      <Text>, C.B.E., Deputy Master and Comptroller of Royal Mint and exofficio Engraver of H.M.'s Seals</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>44</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -387,14 +455,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Kent</Key>
-      <Text>. Charles Weller, Counsel to His Majesty</Text>
+      <Forenames>Charles Weller</Forenames>
+      <Text>, Counsel to His Majesty</Text>
       <PageNumber>2233</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Knights</Key>
-      <Text>. H. Newton. Steward and Bailiff of the Chiltern Hundreds</Text>
+      <Forenames>H. Newton</Forenames>
+      <Text>. Steward and Bailiff of the Chiltern Hundreds</Text>
       <PageNumber>276</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -402,7 +472,9 @@
     <MainItem>
       <Key>Lalanne</Key>
       <Forenames>Francois Prosper Loustau</Forenames>
-      <Text>, «ee Loustau-Lalanne, Francois Prosper. Lascelles, Henry George Charles. Viscount, D.S.O., Knight of the Garter</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1817</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -425,14 +497,19 @@
   <ItemGroup>
     <MainItem>
       <Key>Lee</Key>
-      <Text>of Fareham. the Lady. Lady of Grace, St. John of Jerusalem</Text>
+      <Text>
+        <Honour>Lady of Grace, St. John of Jerusalem</Honour>
+      </Text>
       <PageNumber>1721</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Lees</Key>
-      <Text>. James Ferguson, M.D., C.M., Commander, Order of the British Empire</Text>
+      <Forenames>James Ferguson</Forenames>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>2428</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -440,7 +517,9 @@
     <MainItem>
       <Key>Lemmon</Key>
       <Title>Lt.-Col. and Hon. Col. (Hon. Col. in the Armv) Thomas .Warne.</Title>
-      <Text>C.B., Knight Commander of Bath (corr.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>2137</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -449,14 +528,20 @@
       <Key>Lloyd</Key>
       <Title>Still. Miss</Title>
       <Forenames>Alicia Frances Jane</Forenames>
-      <Text>, C.B.E.. R.R.C.. Lady of Gran&lt;\ St. John of Jerusalem</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>R.R.C.</Honour>
+      </Text>
       <PageNumber>1189</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Logan</Key>
-      <Text>. William Malcolm, M.B.E. (Officer. Order of the British Emoire)</Text>
+      <Forenames>William Malcolm</Forenames>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>2428</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -480,7 +565,9 @@
     <MainItem>
       <Key>Lynam</Key>
       <Title>temp. Maj.</Title>
-      <Text>(Charles Gabriel Joseph, M.C., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2582</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -501,7 +588,9 @@
     <MainItem>
       <Key>MoBarnet</Key>
       <Forenames>Alexander Cockburn</Forenames>
-      <Text>, O.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>2428</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -509,7 +598,9 @@
     <MainItem>
       <Key>Macdonald</Key>
       <Forenames>George</Forenames>
-      <Text>, C.B., F.B.A., LL.D., Secretary to Committee of Council on Education in Scotland</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>805</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -517,7 +608,9 @@
     <MainItem>
       <Key>MacDonell</Key>
       <Forenames>Edgar Errol Napier</Forenames>
-      <Text>, C.M.G., H.M. Consul-General at Rio de Janeiro</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>368</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -561,7 +654,9 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Herbert</Forenames>
-      <Text>, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>2428</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -577,7 +672,9 @@
     <MainItem>
       <Key>Matthew</Key>
       <Forenames>Charles James</Forenames>
-      <Text>, C.B.E., Member of Royal Patriotic Fund Corporation</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>151</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -621,7 +718,11 @@
       </Key>
       <Title>Col.</Title>
       <Forenames>George Abraham</Forenames>
-      <Text>, C:M.G., D.S.O., M.D., Knight of Grace, St. John of Jerusalem</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.D.</Honour>
+        <Honour>Knight of Grace, St. John of Jerusalem</Honour>
+      </Text>
       <PageNumber>1189</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -642,7 +743,9 @@
     <MainItem>
       <Key>Moss</Key>
       <Forenames>Wilfred</Forenames>
-      <Text>, M.B.E., Commander, Order of British Empire (corr.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>275</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -650,7 +753,10 @@
     <MainItem>
       <Key>Murray</Key>
       <Forenames>Charles David</Forenames>
-      <Text>. C.M.G., K.C., M.P., H.M. Advocate for Scotland</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>2037</PageNumber>
     </MainItem>
     <SubItem>
@@ -664,7 +770,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>J. W.</Forenames>
-      <Text>, D.L., Member of Gold and Aluminium Bronze Powders Committee under Safeguarding of Industries ,</Text>
+      <Text>
+        <Honour>D.L.</Honour>
+      </Text>
       <PageNumber>958</PageNumber>
       <PageNumber>1080</PageNumber>
     </MainItem>
@@ -682,7 +790,9 @@
     <MainItem>
       <Key>Newton</Key>
       <Title>Sir Douglas.</Title>
-      <Text>K.B.E., Member of Committee under Safeguarding of Industries Act, 1921</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+      </Text>
       <PageNumber>551</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -691,7 +801,9 @@
       <Key>Nivison</Key>
       <Title>Sir</Title>
       <Forenames>Robert</Forenames>
-      <Text>, Bt., Baron (Baron Glendyne of Sanqnhar)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>954</PageNumber>
     </MainItem>
   </ItemGroup>

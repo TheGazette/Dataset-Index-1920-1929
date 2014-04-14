@@ -943,8 +943,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hoysted</Key>
-      <Forenames>D. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>D. St. J</Forenames>
       <PageNumber>866</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1237,8 +1236,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Jago</Key>
-      <Forenames>T.</Forenames>
-      <Text>de F</Text>
+      <Forenames>T. de F</Forenames>
       <PageNumber>771</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1263,7 +1261,9 @@
       <Key>Jardine</Key>
       <Title>Sir</Title>
       <Forenames>O. A.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>463</PageNumber>
     </MainItem>
   </ItemGroup>

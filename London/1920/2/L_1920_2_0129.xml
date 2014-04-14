@@ -4,7 +4,9 @@
     <MainItem>
       <Key>Halting</Key>
       <Title>Lt.</Title>
-      <Text>-Gen. Sir R. C. B., K.C.B., K.CM.G. (G.O.C. Plebiscite Area)</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+      </Text>
       <PageNumber>4335</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -13,7 +15,10 @@
       <Key>Halahan</Key>
       <Title>Capt.</Title>
       <Forenames>J. C</Forenames>
-      <Text>, O.B.E., A.F.C. (rel. commit, on appt. to a commn. in R.A.F.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>6765</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -51,7 +56,9 @@
       </Key>
       <Title>Rev.</Title>
       <Forenames>J. P.</Forenames>
-      <Text>, D.S.O. (rel. oommn. as temp. Ohapln., 2nd OI., and reverts to Ohapln. to T.F.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5218</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -98,7 +105,10 @@
       </Key>
       <Title>Lt.-Col.</Title>
       <Forenames>M. F.</Forenames>
-      <Text>, O.B.E. (temp. Lt.-Col. whilst A.A. and Q.M.C.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5453</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -139,7 +149,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>B. J. L.</Forenames>
-      <Text>, M.B.E. (rel. aotg. rank of Capt.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>5083</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -194,7 +206,9 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>D. M.</Forenames>
-      <Text>, M.C. (rel. commn. on completion of service and retains rank of Lt.) ... '</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6755</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -205,7 +219,9 @@
       </Key>
       <Title>Col.</Title>
       <Forenames>E. F.</Forenames>
-      <Text>, C.M.G. (retires on ret. pay), Sub. Not</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>5218</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -280,7 +296,10 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>H. R.</Forenames>
-      <Text>, D.S.O., M.C. (rel. aidtg. mank of Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5571</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -423,7 +442,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>R. N.</Forenames>
-      <Text>, M.C. (rel. commn. and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5917</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -434,7 +455,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>R. V.</Forenames>
-      <Text>, M.C. (rel. commn. and granted rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6419</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -467,11 +490,13 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>W. H.</Forenames>
-      <Text>, M.C. (rel. actg. rank of Capt. on ceasing to comd. a Co., 10th Bn., E. York. R.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4447</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Rel. commn. on completion of service and granted rank of Capt</Text>
+      <Text>Rel. commn. on completion of service and granted rank of Capt.</Text>
       <PageNumber>4677</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -617,7 +642,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>J. W.</Forenames>
-      <Text>, M.C. (seed, for service on the Staff)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5467</PageNumber>
     </MainItem>
     <SubItem>
@@ -641,7 +668,9 @@
       <Key>Hallward</Key>
       <Title>Lt.</Title>
       <Forenames>B. M.</Forenames>
-      <Text>,. D.S.O. (rel. commn. and granted rank of Capt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7081</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -699,7 +728,9 @@
       <Key>Halward</Key>
       <Title>temp. Lt.</Title>
       <Forenames>N. V.</Forenames>
-      <Text>, M.C. (rel. commn. on completion of service and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4953</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -725,8 +756,10 @@
     <MainItem>
       <Key>Hamersley</Key>
       <Title>Maj.</Title>
-      <Forenames>H. St</Forenames>
-      <Text>. G., D.S.O. (rel. actg. rank of Lt.-Col.)</Text>
+      <Forenames>H. St. G</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5558</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -753,7 +786,9 @@
       <Key>Hamilton</Key>
       <Title>temp. Capt.</Title>
       <Forenames>A.</Forenames>
-      <Text>, O.B.E. (R.A.S.C.) (rel. commn. on completion of service and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>6305</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -812,7 +847,7 @@
       <PageNumber>5561</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Rel. commn. and retains rank of Lt., Sub. Not</Text>
+      <Text>Rel. commn. and retains rank of Lt., Sub. Not.</Text>
       <PageNumber>7072</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -823,7 +858,10 @@
       </Key>
       <Title>Gen. Sir</Title>
       <Forenames>B. M.</Forenames>
-      <Text>, G.C.B., K.C.V.O. (retires on ret. pay)</Text>
+      <Text>
+        <Honour>G.C.B.</Honour>
+        <Honour>K.C.V.O.</Honour>
+      </Text>
       <PageNumber>4663</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -833,8 +871,8 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Title>Capt.</Title>
-      <Forenames>C.</Forenames>
-      <Text>de C. (seed, for service as Adjt. of Bermuda Mila. Art.)</Text>
+      <Forenames>C. de C</Forenames>
+      <Text>. (seed, for service as Adjt. of Bermuda Mila. Art.)</Text>
       <PageNumber>4672</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -943,7 +981,9 @@
       </Key>
       <Title>Supern. Maj. and Bt. Lt.-Col.</Title>
       <Forenames>G. T.</Forenames>
-      <Text>, D.S.O. (restd. to estabt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5336</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -976,7 +1016,9 @@
       </Key>
       <Title>Bt. Maj.</Title>
       <Forenames>J. M.</Forenames>
-      <Text>, D.S.O. (temp. Maj. whilst G.S.O., 2nd Gr.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6306</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1008,8 +1050,8 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Title>Lt. (temp. Capt.)</Title>
-      <Forenames>M. St</Forenames>
-      <Text>. C. (Capt.)</Text>
+      <Forenames>M. St. C</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>6027</PageNumber>
     </MainItem>
   </ItemGroup>

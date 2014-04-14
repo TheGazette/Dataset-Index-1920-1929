@@ -5,7 +5,9 @@
       <Key>French</Key>
       <Title>Capt.</Title>
       <Forenames>Houston</Forenames>
-      <Text>, C.V.O., Knight</Text>
+      <Text>
+        <Honour>C.V.O.</Honour>
+      </Text>
       <PageNumber>4402</PageNumber>
       <PageNumber>4708</PageNumber>
     </MainItem>
@@ -61,7 +63,11 @@
       </Key>
       <Title>Col. (temp. Col. Comdt.)</Title>
       <Forenames>Outhbert Graham</Forenames>
-      <Text>, C.M.G., D.S.O., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>4403</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -72,7 +78,9 @@
       </Key>
       <Title>Col.</Title>
       <Forenames>John Frederic Charles</Forenames>
-      <Text>, D.S.O., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4407</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -180,7 +188,9 @@
       <Key>Gifford</Key>
       <Title>Lt.</Title>
       <Forenames>Jack Ross</Forenames>
-      <Text>, M.C., Member Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4408</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -196,7 +206,10 @@
     <MainItem>
       <Key>Gilmour</Key>
       <Title>Lt.-Col.</Title>
-      <Text>the Rt. Hon. Sir John, Bt., D.S.O., Secretary of State for Scotland</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4939</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -204,7 +217,9 @@
     <MainItem>
       <Key>Girja</Key>
       <Forenames>Shankar Bajpai</Forenames>
-      <Text>, C.B.E., Companion, Order of the Indian Empire</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>4406</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -254,7 +269,10 @@
       <Key>Gordon</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Granville Cecil Douglas</Forenames>
-      <Text>, D.S.O., Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4406</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -262,7 +280,13 @@
     <MainItem>
       <Key>Gordon-Gilmour</Key>
       <Title>Brig.</Title>
-      <Text>Gen. Robert Gordon of Liberton and Craigmillar, C.B., C.V.O., D.S.O., J.P., D.L., Baronet</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.V.O.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>D.L.</Honour>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>4401</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -278,7 +302,9 @@
     <MainItem>
       <Key>Gowers</Key>
       <Forenames>Ernest Arthur</Forenames>
-      <Text>, C.B., Knight Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>4410</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -318,14 +344,19 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Title>H.E.</Title>
-      <Text>the Rt. Hon. Sir Ronald William, G.C.V.O., K.C.M.G., C. B., Knight Grand Cross, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>G.C.V.O.</Honour>
+        <Honour>K.C.M.G.</Honour>
+      </Text>
       <PageNumber>4405</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Graham</Key>
-      <Text>Harrison, William Montagu, C.B., Knight Commander, Order of the Bath</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>4404</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -333,7 +364,9 @@
     <MainItem>
       <Key>Grannum</Key>
       <Forenames>Edward Allan</Forenames>
-      <Text>, C. M.G., Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>4403</PageNumber>
       <PageNumber>5698</PageNumber>
     </MainItem>
@@ -343,7 +376,10 @@
       <Key>Grant</Key>
       <Title>the Rev. Canon</Title>
       <Forenames>Arthur Rowland Harry</Forenames>
-      <Text>, M.V.O., D. D., Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4406</PageNumber>
     </MainItem>
     <SubItem>
@@ -367,7 +403,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Henry David</Forenames>
-      <Text>, M.C., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4416</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -377,7 +415,9 @@
         <KeyDitto>___ —— ___</KeyDitto>
       </Key>
       <Forenames>James Augustus</Forenames>
-      <Text>, J.P., D. L., M P., Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>4402</PageNumber>
       <PageNumber>5371</PageNumber>
     </MainItem>
@@ -397,7 +437,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>William</Forenames>
-      <Text>, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>4413</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -422,7 +464,10 @@
       <Key>Gretton</Key>
       <Title>Col.</Title>
       <Forenames>John</Forenames>
-      <Text>, C.B.E., J.P. M.P., Member of H.M. Privy Council</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4401</PageNumber>
       <PageNumber>4939</PageNumber>
     </MainItem>
@@ -441,7 +486,9 @@
       <Key>Griffith</Key>
       <Title>Lt.</Title>
       <Forenames>Francis Gordon</Forenames>
-      <Text>, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>4407</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -517,7 +564,9 @@
       <Key>Hammond</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Frederic Snowden</Forenames>
-      <Text>, D.S.O., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4407</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -535,7 +584,12 @@
     <MainItem>
       <Key>Hanbury-Williams</Key>
       <Title>Maj .</Title>
-      <Text>-Gen. Sir John, K.C.B., K.C.V.O., C.M.G., Knight Grand Cross, Royal Victorian Order</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>K.C.V.O.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4406</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -544,7 +598,11 @@
       <Key>Hannay</Key>
       <Title>Maj.-Gen.</Title>
       <Forenames>Robert Strickland</Forenames>
-      <Text>, C.M.G., D.S.O., K.H.S., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>4403</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -562,7 +620,9 @@
       <Key>Harold</Key>
       <Title>Maj.</Title>
       <Forenames>Charles Henry Hasler</Forenames>
-      <Text>, M.D., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>4407</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -570,7 +630,9 @@
     <MainItem>
       <Key>Harper</Key>
       <Forenames>Rear</Forenames>
-      <Text>Admiral John Ernest Troyte, M.V.O., Companion Order of the Bath</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>4403</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -595,7 +657,9 @@
       <Key>Harvey</Key>
       <Title>Capt.</Title>
       <Forenames>Frank Gowland</Forenames>
-      <Text>, T.D., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>4408</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -646,7 +710,9 @@
     <MainItem>
       <Key>Hawkins</Key>
       <Forenames>Thomas Shirley</Forenames>
-      <Text>, M.B.E., M.Inst.C.E., Member of the Commission to enquire into Conditions of Mining and Drainage in the Doncaster area</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>4318</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -655,7 +721,10 @@
       <Key>Hay</Key>
       <Title>Maj. the Hon.</Title>
       <Forenames>Arthur</Forenames>
-      <Text>, M.V.O., Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4406</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -690,7 +759,9 @@
       <Key>Hearn</Key>
       <Title>Col.</Title>
       <Forenames>Gordon Risley</Forenames>
-      <Text>, C.I.E., D.S.O., Knight</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4402</PageNumber>
       <PageNumber>4708</PageNumber>
     </MainItem>
@@ -700,7 +771,9 @@
       <Key>Heath</Key>
       <Title>Qrmr. and Lt.-Col.</Title>
       <Forenames>Thomas Arthur</Forenames>
-      <Text>, M.B.E. Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>4407</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -709,7 +782,10 @@
       <Key>Heaton-Ellis</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Charles Henry Brabazon</Forenames>
-      <Text>, C.B.E., J.P., D.L. Knight</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>D.L.</Honour>
+      </Text>
       <PageNumber>4402</PageNumber>
       <PageNumber>470</PageNumber>
     </MainItem>
@@ -718,7 +794,10 @@
     <MainItem>
       <Key>Hedges</Key>
       <Forenames>Warrant Offr</Forenames>
-      <Text>., CI. I, « Regtl. Sergt. Maj. Frank, M.C., D.C.M., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>4408</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -241,7 +241,9 @@
       <PageNumber>6780</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Capt. (now Maj.) A. C. L. O.B.E. (temp. Maj., while D.A.A. and Q.M.G.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>6779</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -250,7 +252,9 @@
       <Key>Tysoe-Smith</Key>
       <Title>Capt.</Title>
       <Forenames>C</Forenames>
-      <Text>, O.B.E. (resigns commn. and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>6780</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -377,9 +381,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Langenberg</Forenames>
-      <Text>, 2nd Lt. J. F. (resigns commn. and retains rank of 2nd Lt.)</Text>
+      <Key>Van Langenberg</Key>
+      <Title>2nd Lt.</Title>
+      <Forenames>J. F.</Forenames>
+      <Text>(resigns commn. and retains rank of 2nd Lt.)</Text>
       <PageNumber>6584</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -460,8 +465,8 @@
     <MainItem>
       <Key>Veale</Key>
       <Title>Lt.</Title>
-      <Forenames>R.</Forenames>
-      <Text>de S. M. (resigns commn. andretains,rankof Lt.)</Text>
+      <Forenames>R. de S</Forenames>
+      <Text>. M. (resigns commn. andretains,rankof Lt.)</Text>
       <PageNumber>6718</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -470,7 +475,9 @@
       <Key>Venables</Key>
       <Title>Capt.</Title>
       <Forenames>A. V.</Forenames>
-      <Text>, M.C. (resigns commn. and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6384</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -499,7 +506,9 @@
       <Key>Venn</Key>
       <Title>Capt.</Title>
       <Forenames>T. W</Forenames>
-      <Text>,, M.B.E. (resigns commn. and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>6384</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -689,17 +698,17 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Von</Key>
-      <Forenames>Hogh</Forenames>
-      <Text>,' 2nd Lt. A. L. (resigns commn. and retains rank of 2nd Lt.)</Text>
+      <Key>Von Hogh</Key>
+      <Text>' 2nd Lt. A. L. (resigns commn. and retains rank of 2nd Lt.)</Text>
       <PageNumber>6585</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Von</Key>
-      <Forenames>Morde</Forenames>
-      <Text>, Lt. R. W. (resigns commn. and granted rank of Capt.)</Text>
+      <Key>Von Morde</Key>
+      <Title>Lt.</Title>
+      <Forenames>R. W.</Forenames>
+      <Text>(resigns commn. and granted rank of Capt.)</Text>
       <PageNumber>6318</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -958,7 +967,9 @@
       </Key>
       <Title>Capt. (now Bt, Lt.-Col.)</Title>
       <Forenames>C. W. G.</Forenames>
-      <Text>, D.S.O. (temp. Maj</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6100</PageNumber>
     </MainItem>
     <SubItem>
@@ -1006,7 +1017,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>G. B.</Forenames>
-      <Text>, M.C. (Maj.,</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6583</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1017,7 +1030,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>G. D.</Forenames>
-      <Text>, M.B.E. (resigns commn. and retains rank of</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>6386</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -90,7 +90,7 @@
       <PageNumber>9057</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>corr. of name, Sub. Not.</Text>
+      <Text>corr. of name, Sub. Not</Text>
       <PageNumber>7992</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -242,7 +242,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Richardson</Key>
-      <Text>)Wing Comdr. A. V. J., O.B.E., M.B., B.A. (granted</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>7458</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -273,7 +275,9 @@
       <Key>Rippon</Key>
       <Title>Sqdn.</Title>
       <Forenames>Leader T. S.</Forenames>
-      <Text>, O.B.E</Text>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>7458</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -281,11 +285,13 @@
     <MainItem>
       <Key>Ritchie</Key>
       <Forenames>Flying Offr</Forenames>
-      <Text>. (A.) A. P.,. A.F.C. (granted short serv</Text>
+      <Text>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>8278</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>commn.) Lt. (actg. Capt.) A. P. (trd.</Text>
+      <Text>commn.) Lt. (actg. Capt.) A. P. (trd</Text>
       <PageNumber>7355</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -372,7 +378,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>B. K. D.</Forenames>
-      <Text>, A.F.C. (trd. to anempid. list)</Text>
+      <Text>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>7128</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -381,7 +389,9 @@
       <Key>Robinson</Key>
       <Title>Rev.</Title>
       <Forenames>G. L.</Forenames>
-      <Text>D.S.O. (relative rank as Sqdn. Leader)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8410</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -468,7 +478,9 @@
       <Key>Roe</Key>
       <Title>Sqdn.</Title>
       <Forenames>Leader R.</Forenames>
-      <Text>LI., O.B.E. M.B. (granted short serv. commn.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>7458</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -493,7 +505,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Rooke</Key>
-      <Text>. Lt. Col. C, P., D.S.O. (rel. R.A.F. cominn.) Sub. Not</Text>
+      <Title>Lt. Col.</Title>
+      <Forenames>C</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7669</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -518,7 +534,9 @@
     <MainItem>
       <Key>Rough</Key>
       <Forenames>Flying Offr</Forenames>
-      <Text>. H. L., D.F.C. (Placed on h.p. list, Scale A.)</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>9056</PageNumber>
     </MainItem>
     <SubItem>
@@ -622,8 +640,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. George, Overseas Cadet R. A. (Hon. 2nd Lt.)</Text>
+      <Key>St. George</Key>
+      <Forenames>Overseas</Forenames>
+      <Text>Cadet R. A. (Hon. 2nd Lt.)</Text>
       <PageNumber>7231</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -671,7 +690,9 @@
     <MainItem>
       <Key>Sandesson</Key>
       <Forenames>Flying Offr</Forenames>
-      <Text>. (A.) A. C, D.F.C. (granted short serv. commn.) Sub. Not</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>8278</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -679,7 +700,9 @@
     <MainItem>
       <Key>Sandford</Key>
       <Title>Sqdn.</Title>
-      <Text>i.eader (A. and S.) F. E., A.F.C. (restd. to Active List)</Text>
+      <Text>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>7128</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -749,7 +772,9 @@
     <MainItem>
       <Key>Scambler</Key>
       <Forenames>Flying Offr</Forenames>
-      <Text>. J. R. I. A.F.C. (granted temp, commn. as Flying Offr. on re-seedg. to R. A. F. for four years)</Text>
+      <Text>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>9223</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -767,7 +792,9 @@
       <Key>Scott</Key>
       <Title>Lt.</Title>
       <Forenames>Alfred</Forenames>
-      <Text>, M.C. (trd. to unempld. list), Sub. Not</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8092</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -830,7 +857,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Seabrooke</Key>
-      <Text>. Lt. G. S. (trd. to unempld. list.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>G. S.</Forenames>
+      <Text>(trd. to unempld. list.)</Text>
       <PageNumber>7356</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -893,7 +922,9 @@
       <Key>Seward</Key>
       <Title>Capt.</Title>
       <Forenames>W. E. L.</Forenames>
-      <Text>, M.C., (trd. to unempld. list)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7230</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -933,11 +964,13 @@
       <Key>Sharpe</Key>
       <Title>Lt. (actg, Capt.)</Title>
       <Forenames>W.</Forenames>
-      <Text>, A.F.C., (Not. in Gaz. 29th June, 1920, cancelled)</Text>
+      <Text>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>7128</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Rel. temp. R.A.F. commn. on retirement, from Army . and retains rank of Cape.</Text>
+      <Text>Rel. temp. R.A.F. commn. on retirement, from Army . and retains rank of Cape</Text>
       <PageNumber>7128</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1046,7 +1079,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Shield</Key>
-      <Text>. Flight Lt. H. S., M.C. (granted short serv. commn.)</Text>
+      <Title>Flight Lt.</Title>
+      <Forenames>H. S.</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9223</PageNumber>
     </MainItem>
     <SubItem>
@@ -1097,7 +1134,9 @@
       <Key>Shorten</Key>
       <Title>Sqdn.</Title>
       <Forenames>Leader W. W.</Forenames>
-      <Text>, F.R.C.S. (granted perm. commn.) :</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>7458</PageNumber>
     </MainItem>
   </ItemGroup>

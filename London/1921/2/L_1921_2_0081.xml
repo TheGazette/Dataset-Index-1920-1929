@@ -25,7 +25,9 @@
       <Key>Fox</Key>
       <Title>temp. Capt.</Title>
       <Forenames>A.</Forenames>
-      <Text>, M.C. (rel. commn. on completion of service, and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3370</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -58,7 +60,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>E. C</Forenames>
-      <Text>, M.C. (h.p. list, retires on acc. of ill-health caused by wounds, receiving a gratuity)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4078</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -80,7 +84,9 @@
       </Key>
       <Title>temp. Capt.</Title>
       <Forenames>R. H.</Forenames>
-      <Text>, M.C. (rel. commn. on completion of service, and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4520</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -173,7 +179,10 @@
       </Key>
       <Title>Col.</Title>
       <Forenames>H. S. E.</Forenames>
-      <Text>, C.M.G., D.S.O. (date of promn. to Col.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>2969</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -193,7 +202,9 @@
       <Key>Franks</Key>
       <Title>temp. Capt.</Title>
       <Forenames>D. P. C</Forenames>
-      <Text>, M.C. (rel. commn. on completion of service, and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5094</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -202,7 +213,9 @@
       <Key>Fraser</Key>
       <Title>temp. Capt.</Title>
       <Forenames>A. A.</Forenames>
-      <Text>, M.C. (rel. commn. on completion of e-ervice, and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5054</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -213,7 +226,9 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>A. J.</Forenames>
-      <Text>, M.C. (rei. commn. on completion of service, and granted rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2628</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -246,7 +261,10 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>F. H.</Forenames>
-      <Text>, D.S.O.. M.C. (Capt. and rem. seed.), Sub. Not</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4256</PageNumber>
     </MainItem>
     <KeyDitto>___</KeyDitto>
@@ -283,7 +301,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>J.</Forenames>
-      <Text>(ceases to be empld. with M.G.C., Inf.)</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>2880</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -294,7 +314,10 @@
       </Key>
       <Title>Capt. and Bt. Maj.</Title>
       <Forenames>J. A.</Forenames>
-      <Text>, D.S.O., D.C.M. (seed, whilst empld. as Adjt., Belfast O.l. C.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>5083</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -368,7 +391,9 @@
       <Key>Frazer</Key>
       <Title>temp.</Title>
       <Forenames>Cant</Forenames>
-      <Text>, and Bt. Maj. T. H. (rel. commn. on completion of service, and granted rank of Maj.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>3838</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -445,7 +470,9 @@
   <ItemGroup>
     <MainItem>
       <Key>French</Key>
-      <Text>2nd Lt. J. A. (rel. commn.j and retains rank of 2nd Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>J. A.</Forenames>
+      <Text>(rel. commn.j and retains rank of 2nd Lt.)</Text>
       <PageNumber>2774</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -472,7 +499,12 @@
   <ItemGroup>
     <MainItem>
       <Key>Freyberg</Key>
-      <Text>Capt. and Bt. Lt.-Col B. C, V.C., C.M.G., D.S.O. (seed, for service on the Staff)</Text>
+      <Title>Capt. and Bt. Lt.</Title>
+      <Text>
+        <Honour>V.C.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3064</PageNumber>
     </MainItem>
     <SubItem>
@@ -485,7 +517,9 @@
       <Key>Friend</Key>
       <Title>Capt.</Title>
       <Forenames>A. L. I.</Forenames>
-      <Text>, M.C. (Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4610</PageNumber>
     </MainItem>
   </ItemGroup>

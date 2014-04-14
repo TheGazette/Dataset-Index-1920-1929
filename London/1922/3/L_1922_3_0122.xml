@@ -142,8 +142,8 @@
     <MainItem>
       <Key>Moriarty</Key>
       <Title>2nd Lt.</Title>
-      <Forenames>Gerald Ruadh O</Forenames>
-      <Text>'Neil (2nd Lt., I.A., from</Text>
+      <Forenames>Gerald Ruadh O'Neil</Forenames>
+      <Text>(2nd Lt., I.A., from</Text>
       <PageNumber>5624</PageNumber>
     </MainItem>
     <SubItem>
@@ -178,7 +178,9 @@
       <Key>Morkam</Key>
       <Title>temp.</Title>
       <Forenames>Capt</Forenames>
-      <Text>, J. P., D.F.C</Text>
+      <Text>
+        <Honour>D.F.C</Honour>
+      </Text>
       <PageNumber>5041</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -329,8 +331,8 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Title>Lt.</Title>
-      <Forenames>A. O</Forenames>
-      <Text>'H. (resigns commn., and granted rank of Capt.)</Text>
+      <Forenames>A. O'H</Forenames>
+      <Text>. (resigns commn., and granted rank of Capt.)</Text>
       <PageNumber>6317</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -372,7 +374,9 @@
       <Key>Morrow</Key>
       <Title>Asst. Commy. and Lt.</Title>
       <Forenames>C. T.</Forenames>
-      <Text>, M.B.E. (corr. of date of retirement)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>6389</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -512,7 +516,10 @@
       <Key>Mouaf</Key>
       <Title>Lt.</Title>
       <Forenames>C. G. Key-</Forenames>
-      <Text>, O.B.E., see Key-Mouat, Lt. C. G., O.B.E. Mould, Capt. A. E. (resigns commn., and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>6384</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -581,7 +588,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>R. F.</Forenames>
-      <Text>, O.B.E. (resigns commn., and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>6314</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -719,8 +728,8 @@
     <MainItem>
       <Key>Mungavin</Key>
       <Title>Capt.</Title>
-      <Forenames>H. St</Forenames>
-      <Text>. John (resigns commn., and retains rank of Capt.)</Text>
+      <Forenames>H. St. John</Forenames>
+      <Text>(resigns commn., and retains rank of Capt.)</Text>
       <PageNumber>6385</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -892,7 +901,9 @@
       <Key>Murray</Key>
       <Title>Lt.</Title>
       <Forenames>A. E.</Forenames>
-      <Text>, M.C. (resigns commn., and granted rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6316</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1011,7 +1022,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>W. G. P.</Forenames>
-      <Text>, D.S.O. (retirement)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5625</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1071,7 +1084,9 @@
       <Key>Myers</Key>
       <Title>Lt.</Title>
       <Forenames>N. C</Forenames>
-      <Text>, M.B.E. (resigns commri., and granted rank of Capt.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>6317</PageNumber>
     </MainItem>
   </ItemGroup>

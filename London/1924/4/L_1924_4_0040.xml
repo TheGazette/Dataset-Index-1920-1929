@@ -280,7 +280,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Scott</Key>
-      <Text>A. G. O'C</Text>
+      <Forenames>A. G. O'C</Forenames>
       <PageNumber>8979</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -391,8 +391,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Shaw</Key>
-      <Forenames>E. St</Forenames>
-      <Text>. L</Text>
+      <Forenames>E. St. L</Forenames>
       <PageNumber>8168</PageNumber>
       <PageNumber>9073</PageNumber>
     </MainItem>
@@ -639,7 +638,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Smvth</Key>
-      <Text>F. G. A</Text>
+      <Forenames>F. G. A.</Forenames>
       <PageNumber>8780</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -739,7 +738,9 @@
       <Key>Stanier</Key>
       <Title>Sir</Title>
       <Forenames>A. B. G.</Forenames>
-      <Text>, Bt. Statham, J. J</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>9073</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -775,7 +776,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stewart</Key>
-      <Text>K. E. S</Text>
+      <Forenames>K. E. S.</Forenames>
       <PageNumber>7747</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1262,9 +1263,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Straubenzee</Forenames>
-      <Text>, A. B</Text>
+      <Key>Van Straubenzee</Key>
+      <Forenames>A. B.</Forenames>
       <PageNumber>8167</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -107,7 +107,9 @@
       <Key>Nottingham</Key>
       <Title>temp. 2nd Lt.</Title>
       <Forenames>A.</Forenames>
-      <Text>, D.C.M. (rel. commn. on completion of service and retains rank of 2nd Lt.)</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>10470</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -165,7 +167,9 @@
       <Key>Nulty</Key>
       <Title>temp. Lt.</Title>
       <Forenames>J. J.</Forenames>
-      <Text>, M.C. (rel. commn. on completion of service and granted rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9223</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -192,7 +196,9 @@
       <Key>Nurse</Key>
       <Title>temp. Lt.</Title>
       <Forenames>E. R.</Forenames>
-      <Text>, M.C. (rel. commn. on completion of service and granted rank of Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8178</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -230,7 +236,9 @@
       </Key>
       <Title>temp. Maj.</Title>
       <Forenames>N. H.</Forenames>
-      <Text>, D.S.O. (rel. commn. on completion of service and retains rank of Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8178</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -250,7 +258,9 @@
       <Key>Nutt</Key>
       <Title>temp. Lt.</Title>
       <Forenames>W. H.</Forenames>
-      <Text>, M.M. (rel. temp, rank of Capt. on ceasing to be Adjt.)</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>8700</PageNumber>
     </MainItem>
     <SubItem>
@@ -274,7 +284,9 @@
       </Key>
       <Title>Lt.-Col.</Title>
       <Forenames>C. M.</Forenames>
-      <Text>, D.S.O. (Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8037</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -361,7 +373,9 @@
       <Key>Oakes</Key>
       <Title>Lt.</Title>
       <Forenames>A. P.</Forenames>
-      <Text>, M.M. (seed, for service under Colonial Office)</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>8348</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -392,7 +406,9 @@
       <Key>Oakes-Jones</Key>
       <Title>temp. Capt.</Title>
       <Forenames>H.</Forenames>
-      <Text>, M.B.E. (rel. commn. on completion of service and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>10472</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -483,7 +499,9 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>A. H.</Forenames>
-      <Text>, M.C. (rel. commn. on completion of service and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8909</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -521,8 +539,12 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, Lt. G. W., M.C. (date of promn. to Capt.)</Text>
+      <Key>O'Brien</Key>
+      <Title>Lt.</Title>
+      <Forenames>G. W.</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9429</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -566,14 +588,17 @@
       </Key>
       <Title>temp. Chapln., 4th CI., Rev.</Title>
       <Forenames>T. F.</Forenames>
-      <Text>, O.B.E. (rel. commn. and to be Hon. Chapln., 4th CI.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>9018</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Bryen, John Gibson Patrick (temp. 2nd Lt.)</Text>
+      <Key>O'Bryen</Key>
+      <Forenames>John Gibson Patrick</Forenames>
+      <Text>(temp. 2nd Lt.)</Text>
       <PageNumber>10338</PageNumber>
     </MainItem>
     <SubItem>
@@ -583,22 +608,30 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Callaghan, temp. Chapln., 4th CI., Rev. J., O.B.E. (rel. commn. and to be Hon. Chapln., 4th CI.)</Text>
+      <Key>O'Callaghan</Key>
+      <Title>temp. Chapln., 4th CI., Rev.</Title>
+      <Forenames>J.</Forenames>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>9443</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Carroll, temp. Lt. C. St. J. (rel. commn. on completion of service and retains rank of Lt.)</Text>
+      <Key>O'Carroll</Key>
+      <Title>temp. Lt.</Title>
+      <Forenames>C. St. J</Forenames>
+      <Text>. (rel. commn. on completion of service and retains rank of Lt.)</Text>
       <PageNumber>8900</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connell, temp. 2nd Lt. J. (temp. Lt.)</Text>
+      <Key>O'Connell</Key>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>J.</Forenames>
+      <Text>(temp. Lt.)</Text>
       <PageNumber>7855</PageNumber>
     </MainItem>
     <SubItem>
@@ -630,8 +663,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, temp..2nd Lt. C. A. (rel. commn. on completion of service and retains rank of 2nd Lt.)</Text>
+      <Key>O'Connor</Key>
+      <Title>temp.</Title>
+      <Text>.2nd Lt. C. A. (rel. commn. on completion of service and retains rank of 2nd Lt.)</Text>
       <PageNumber>10340</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -642,7 +676,9 @@
       </Key>
       <Title>temp. Capt.</Title>
       <Forenames>C. B.</Forenames>
-      <Text>, D.S.O. (rel. temp, rank of Maj. on ceasing to be empld. as D.A.A. and Q.M.G. in India)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>9615</PageNumber>
     </MainItem>
     <SubItem>
@@ -667,8 +703,8 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Title>Capt.</Title>
-      <Forenames>D. H. St</Forenames>
-      <Text>. J. (placed on h.p. list on reduction of estabt.)</Text>
+      <Forenames>D. H. St. J</Forenames>
+      <Text>. (placed on h.p. list on reduction of estabt.)</Text>
       <PageNumber>9427</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -701,7 +737,10 @@
       </Key>
       <Title>temp. Maj.</Title>
       <Forenames>J. L.</Forenames>
-      <Text>, D.S.O., O.B.E. (rel. commn. on completion of service and granted rank of Lt.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>8174</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -712,7 +751,9 @@
       </Key>
       <Title>temp. Capt. and Bt. Maj.</Title>
       <Forenames>M.</Forenames>
-      <Text>(rel. commn. on completion tion of service and retains Bt. rank of Maj.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>10220</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -739,8 +780,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Crowley, temp. Lt. J. F. (rel. commn. on completion of service and retains rank of Lt.)</Text>
+      <Key>O'Crowley</Key>
+      <Title>temp. Lt.</Title>
+      <Forenames>J. F.</Forenames>
+      <Text>(rel. commn. on completion of service and retains rank of Lt.)</Text>
       <PageNumber>9772</PageNumber>
     </MainItem>
   </ItemGroup>

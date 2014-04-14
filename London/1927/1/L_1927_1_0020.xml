@@ -12,7 +12,9 @@
     <MainItem>
       <Key>Watson</Key>
       <Forenames>David Milne</Forenames>
-      <Text>, LL.D., D.L., Knight</Text>
+      <Text>
+        <Honour>D.L.</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
       <PageNumber>1111</PageNumber>
     </MainItem>
@@ -57,7 +59,9 @@
     <MainItem>
       <Key>Williams</Key>
       <Forenames>George Harry</Forenames>
-      <Text>, Member, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>6</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -65,7 +69,9 @@
     <MainItem>
       <Key>Williamson</Key>
       <Forenames>Walter James Franklin</Forenames>
-      <Text>, C.M.G., Knight</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -284,7 +290,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Burnett</Key>
-      <Text>of Leys, Sir J. L. G., Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>1523</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -352,6 +360,13 @@
       <Key>Daly</Key>
       <Forenames>T. D</Forenames>
       <PageNumber>1763</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Putron</Key>
+      <Forenames>C.</Forenames>
+      <PageNumber>1358</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -437,7 +452,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hallifax</Key>
-      <Text>. F. P Harrington, A. M. S</Text>
+      <Forenames>F. P</Forenames>
+      <Text>Harrington, A. M. S</Text>
       <PageNumber>1523</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -674,7 +690,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Price-D</Key>
-      <Text>.avies, L. A. E</Text>
+      <Text>avies, L. A. E</Text>
       <PageNumber>1522</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -898,7 +914,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Williams</Key>
-      <Text>. G. C</Text>
+      <Forenames>G. C</Forenames>
       <PageNumber>730</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1183,7 +1199,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Elsdale</Key>
-      <Text>. R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>1435</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1212,7 +1228,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Browning</Key>
-      <Text>. G. W</Text>
+      <Forenames>G. W.</Forenames>
       <PageNumber>119</PageNumber>
     </MainItem>
   </ItemGroup>

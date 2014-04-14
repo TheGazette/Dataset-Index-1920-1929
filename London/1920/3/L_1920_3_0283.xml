@@ -155,8 +155,8 @@
     <MainItem>
       <Key>Morton</Key>
       <Title>Flight Lt.</Title>
-      <Forenames>T. C. St</Forenames>
-      <Text>. C, M.B., (granted perm, commn.)</Text>
+      <Forenames>T. C. St. C</Forenames>
+      <Text>, M.B., (granted perm, commn.)</Text>
       <PageNumber>7458</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -227,7 +227,9 @@
     <MainItem>
       <Key>Munden</Key>
       <Forenames>Flying Offr</Forenames>
-      <Text>. H., D.F.C., (rel. temp. R.A.F. commn. on return to Army duty)</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>7230</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -293,8 +295,8 @@
     <MainItem>
       <Key>Nepean</Key>
       <Title>Lt.</Title>
-      <Forenames>L. P. St</Forenames>
-      <Text>. V. (trd. to unempld. list) Sub. nor,</Text>
+      <Forenames>L. P. St. V</Forenames>
+      <Text>. (trd. to unempld. list) Sub. nor,</Text>
       <PageNumber>8886</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -403,7 +405,9 @@
       <Key>Norton</Key>
       <Title>Fit. Lt.</Title>
       <Forenames>J. H.</Forenames>
-      <Text>, M.C. (resigns perm, commn.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9300</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -416,29 +420,37 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Farrell, Sqdn. Leader E. H. M. (retired from the Army and rel. R.A.F. commn. retaining rank of Lt.-Col.)</Text>
+      <Key>O'Farrell</Key>
+      <Title>Sqdn.</Title>
+      <Forenames>Leader E. H. M.</Forenames>
+      <Text>(retired from the Army and rel. R.A.F. commn. retaining rank of Lt.-Col.)</Text>
       <PageNumber>7459</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Flaherty, Cadet A. (Hon. 2nd Lt.)</Text>
+      <Key>O'Flaherty</Key>
+      <Title>Cadet</Title>
+      <Forenames>A.</Forenames>
+      <Text>(Hon. 2nd Lt.)</Text>
       <PageNumber>7231</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Gorman, Flight Lt. E. G., M.B. (granted short serv. commn.)</Text>
+      <Key>O'Gorman</Key>
+      <Title>Flight Lt.</Title>
+      <Forenames>E. G.</Forenames>
+      <Text>, M.B. (granted short serv. commn.)</Text>
       <PageNumber>7458</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hara, Lt. T. J. Q. (Flying Offr)</Text>
+      <Key>O'Hara</Key>
+      <Title>Lt.</Title>
+      <Forenames>T. J. Q.</Forenames>
+      <Text>(Flying Offr)</Text>
       <PageNumber>9372</PageNumber>
     </MainItem>
     <SubItem>
@@ -456,15 +468,18 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Mullane, Flight Lt. JJ., M.B. (granted short serv. coinmn,)</Text>
+      <Key>O'Mullane</Key>
+      <Title>Flight Lt.</Title>
+      <Text>JJ., M.B. (granted short serv. coinmn,)</Text>
       <PageNumber>7458</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, Flight Lt. C. T., M.B., (granted perm, commn.)</Text>
+      <Key>O'Neill</Key>
+      <Title>Flight Lt.</Title>
+      <Forenames>C. T.</Forenames>
+      <Text>, M.B., (granted perm, commn.)</Text>
       <PageNumber>7458</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -680,7 +695,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Payne</Key>
-      <Text>. Cadet C. G. (Not. in Gaz. 18th Mav 1920cancelled\</Text>
+      <Title>Cadet</Title>
+      <Forenames>C. G.</Forenames>
+      <Text>(Not. in Gaz. 18th Mav 1920cancelled\</Text>
       <PageNumber>7669</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -763,7 +780,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Pern</Key>
-      <Text>; Lt to, A.F.C., (trd. to unempld. list)</Text>
+      <Text>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>7777</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -786,7 +805,9 @@
       <Key>Piercey</Key>
       <Title>Lt.</Title>
       <Forenames>M. W.</Forenames>
-      <Text>, A.F.C., (rel. commn. on retiring with gratuity and retails rank) Sub. Not</Text>
+      <Text>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>7992</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -830,7 +851,9 @@
       <Key>Playne</Key>
       <Title>Sqdn.</Title>
       <Forenames>Leader B. A.</Forenames>
-      <Text>, D.S.O., M.B., B A., (granted perm, commn.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7458</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -848,7 +871,9 @@
       <Key>Poland</Key>
       <Title>Lt.</Title>
       <Forenames>T. G.</Forenames>
-      <Text>, M.C. (trd. to unempld. list)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7668</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -904,7 +929,9 @@
       </Key>
       <Title>Flight Lt. (Med.)</Title>
       <Forenames>J. H.</Forenames>
-      <Text>, M.C. M.B.(granted perm.conimn.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7458</PageNumber>
     </MainItem>
     <SubItem>
@@ -916,7 +943,9 @@
     <MainItem>
       <Key>Postlethwaite</Key>
       <Forenames>Lt</Forenames>
-      <Text>, F. H., M.B.E., (trd. to unempld, list)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>7668</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -951,7 +980,9 @@
       <Key>Power</Key>
       <Title>Flight Lt.</Title>
       <Forenames>D.A.</Forenames>
-      <Text>, M.C. (granted perm, commn.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7458</PageNumber>
     </MainItem>
   </ItemGroup>

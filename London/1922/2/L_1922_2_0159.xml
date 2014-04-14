@@ -99,8 +99,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sheppard</Key>
-      <Title>Rev.</Title>
-      <Forenames>Canon James Edgar</Forenames>
+      <Title>Rev. Canon</Title>
+      <Forenames>James Edgar</Forenames>
       <PageNumber>4877</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -246,7 +246,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sixsmith</Key>
-      <Text>Anne</Text>
+      <Forenames>Anne</Forenames>
       <PageNumber>4761</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -260,14 +260,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Rkues</Key>
-      <Text>Frederick Mackenzie</Text>
+      <Forenames>Frederick Mackenzie</Forenames>
       <PageNumber>3659</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Slack</Key>
-      <Text>Thomas ?</Text>
+      <Forenames>Thomas</Forenames>
+      <Text>?</Text>
       <PageNumber>831</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -276,7 +277,8 @@
       <Key>
         <KeyDitto>___ ___ ___ .</KeyDitto>
       </Key>
-      <Text>V/illiam Valentine</Text>
+      <Forenames>V</Forenames>
+      <Text>/illiam Valentine</Text>
       <PageNumber>4201</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -290,7 +292,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Slater</Key>
-      <Text>John Thomas</Text>
+      <Forenames>John Thomas</Forenames>
       <PageNumber>2878</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -360,7 +362,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Smith</Key>
-      <Text>Amy Jane</Text>
+      <Forenames>Amy Jane</Forenames>
       <PageNumber>3196</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -536,14 +538,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Soffp</Key>
-      <Text>Ootha. (sometimes called Georee Soffe)</Text>
+      <Title>Ootha. (sometimes called Georee Soffe)</Title>
       <PageNumber>4761</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Solano</Key>
-      <Text>Enrique John</Text>
+      <Forenames>Enrique John</Forenames>
       <PageNumber>3917</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -557,7 +559,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Solly</Key>
-      <Forenames>John</Forenames>
+      <Title>John .</Title>
       <PageNumber>3835</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -595,7 +597,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sowler</Key>
-      <Text>Frank</Text>
+      <Forenames>Frank</Forenames>
       <PageNumber>4285</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -612,7 +614,9 @@
       <Key>Spearman</Key>
       <Title>Sir</Title>
       <Forenames>Joseph Layton Elmes</Forenames>
-      <Text>. Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>3919</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -646,7 +650,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Marv</Forenames>
+      <Title>Marv .</Title>
       <PageNumber>3923</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -839,7 +843,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rwann</Key>
-      <Text>Edward Beilbv</Text>
+      <Forenames>Edward Beilbv</Forenames>
       <PageNumber>3754</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1260,17 +1264,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Gruisen</Forenames>
-      <Text>, Horace John</Text>
+      <Key>Van Gruisen</Key>
+      <Forenames>Horace John</Forenames>
       <PageNumber>3752</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Ulsen</Forenames>
-      <Text>, Dirk</Text>
+      <Key>Van Ulsen</Key>
+      <Forenames>Dirk</Forenames>
       <PageNumber>4598</PageNumber>
     </MainItem>
   </ItemGroup>

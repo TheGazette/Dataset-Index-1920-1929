@@ -22,7 +22,10 @@
       <Key>Beynon</Key>
       <Title>Sir</Title>
       <Forenames>John Wyndham</Forenames>
-      <Text>, Bt., C.B.E., Commander, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>4040</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -39,14 +42,21 @@
       <Key>Biddulph</Key>
       <Title>Colonel</Title>
       <Forenames>Harry</Forenames>
-      <Text>, C. M.G., D.S.O., Companion, Older of the Bath</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3605</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Bird</Key>
-      <Text>wood, Field Marshal Sir William Riddell, Bt., G.C.B., G.C.M.G., K.C.S.I.,_ C.I.E., D.S.O., LL.D., Knight of Grace, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>G.C.B.</Honour>
+        <Honour>G.C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4040</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -72,7 +82,9 @@
       <Key>Blakelv</Key>
       <Title>Matron Miss</Title>
       <Forenames>Maud Mary</Forenames>
-      <Text>, R.R.C., Officer, Order . of the British Empire</Text>
+      <Text>
+        <Honour>R.R.C.</Honour>
+      </Text>
       <PageNumber>3609</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -96,7 +108,11 @@
     <MainItem>
       <Key>Bols</Key>
       <Title>Lieut.</Title>
-      <Text>-General Sir Louis Jean, K.C.B., K.C.M.G., D. S.O., Governor and Commander-in-Chief of the Bermudas or Soiners Islands</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>D. S.O.</Honour>
+      </Text>
       <PageNumber>2310</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -128,7 +144,9 @@
     <MainItem>
       <Key>Bovenschen</Key>
       <Forenames>Frederick Carl</Forenames>
-      <Text>, B.A., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3606</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -162,7 +180,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Bovs</Key>
-      <Text>. Henry Cecil, M.B.E., Officer, Order of the British Empire</Text>
+      <Forenames>Henry Cecil</Forenames>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3612</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -186,7 +207,11 @@
     <MainItem>
       <Key>Brand</Key>
       <Forenames>Vice-</Forenames>
-      <Text>Admiral the Hon. Sir Hubert George, K.C.M.G., K.C.V.O., C.B., Knight Commander, Order of the Bath</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>K.C.V.O.</Honour>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>3605</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -229,7 +254,9 @@
       <Key>Brickwood</Key>
       <Title>Sir</Title>
       <Forenames>John</Forenames>
-      <Text>, Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>3603</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -252,8 +279,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Bromley</Key>
-      <Forenames>Rear-</Forenames>
-      <Text>Admiral Arthur, C. M.G., Gentleman Usher in Ordinary to H.M. King</Text>
+      <Title>Rear-Admiral</Title>
+      <Forenames>Arthur</Forenames>
+      <Text>, C. M.G., Gentleman Usher in Ordinary to H.M. King</Text>
       <PageNumber>2951</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -270,7 +298,12 @@
     <MainItem>
       <Key>Brooke-Popham</Key>
       <Forenames>Air ViceMarshall Henry Robert Moore</Forenames>
-      <Text>, C.B.. ' C.M.G., D. S.O., A.F.C., Knight Commander, Order of the Bath</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D. S.O.</Honour>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>3605</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -335,7 +368,9 @@
     <MainItem>
       <Key>Burnett</Key>
       <Forenames>Henry William</Forenames>
-      <Text>, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3615</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -362,7 +397,9 @@
       <Key>Burns</Key>
       <Title>The Rev.</Title>
       <Forenames>Thomas</Forenames>
-      <Text>, D.D., T.D., J.P., F.R.S.E., F.C.T.B., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>3612</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -388,7 +425,9 @@
     <MainItem>
       <Key>Butler</Key>
       <Forenames>Quartermaster</Forenames>
-      <Text>and Captain Ernest George, M.C., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3609</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -440,7 +479,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Ewen</Forenames>
-      <Text>, M.C., Member, ' Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3615</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -451,7 +492,9 @@
       </Key>
       <Title>Lieut.-Col. and Brevet Colonel Ian .</Title>
       <Forenames>Maxwell</Forenames>
-      <Text>, T.D., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>3609</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -459,7 +502,9 @@
     <MainItem>
       <Key>Carisbrooke</Key>
       <Forenames>Alexander Albert</Forenames>
-      <Text>, Marquess of, G.C.V.O., Knight Grand Cross, Order of the Bath</Text>
+      <Text>
+        <Honour>G.C.V.O.</Honour>
+      </Text>
       <PageNumber>3605</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -491,7 +536,9 @@
     <MainItem>
       <Key>Carson</Key>
       <Forenames>Charles William Char-</Forenames>
-      <Text>ten's, O.B.E., Companion, Order of the Indian Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3607</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -527,14 +574,16 @@
       <Key>Case</Key>
       <Title>Lieut.-Col.</Title>
       <Forenames>Horace Akroyd</Forenames>
-      <Text>, C-M.G., D.S.O., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3609</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Cassels</Key>
-      <Title>Major</Title>
+      <Title>Major-</Title>
       <Forenames>General Robert Archibald</Forenames>
       <Text>, C:B., C.S.I., D. R.O.,Knight Commander, Order of the Bath</Text>
       <PageNumber>3605</PageNumber>

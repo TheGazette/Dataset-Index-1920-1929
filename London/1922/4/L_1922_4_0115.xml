@@ -4,7 +4,10 @@
     <MainItem>
       <Key>Metcalfe</Key>
       <Title>Lt.</Title>
-      <Text>-Cdr. G. N., O.B.E., D.S.C. (temp. Cdr. while comdg. R.I.M.S. Nearchus, but without pay of rank)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>7796</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -74,7 +77,9 @@
       <Key>Hotham</Key>
       <Title>Capt.</Title>
       <Forenames>Alan G.</Forenames>
-      <Text>, C.M.G</Text>
+      <Text>
+        <Honour>C.M.G</Honour>
+      </Text>
       <PageNumber>8411</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -93,7 +98,10 @@
       <Key>Tudor</Key>
       <Title>Sir</Title>
       <Forenames>Frederick C. T.</Forenames>
-      <Text>, K.C.B., K.C.M.G. (at own request)</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>K.C.M.G.</Honour>
+      </Text>
       <PageNumber>8213</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -102,14 +110,18 @@
     <MainItem>
       <Key>Bernard</Key>
       <Forenames>Vivian H. G.</Forenames>
-      <Text>, C.B.,</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>8213</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Bruen</Key>
-      <Text>tdward F., C.B Green, Sir John F. E., K.C.M.G., C.B</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+      </Text>
       <PageNumber>7873</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -118,7 +130,9 @@
     <MainItem>
       <Key>Bernard</Key>
       <Forenames>Vivian H. G.</Forenames>
-      <Text>, C.B.,</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>8213</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -127,7 +141,11 @@
       <Key>Halsey</Key>
       <Title>Sir</Title>
       <Forenames>Lionel</Forenames>
-      <Text>, JG.C.V.O., KC.M.G.,*K.C.I.E., C.B. (at own request)</Text>
+      <Text>
+        <Honour>C.V.O.</Honour>
+        <Honour>K.C.I.E.</Honour>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>7872</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -153,7 +171,9 @@
     <MainItem>
       <Key>Fisher</Key>
       <Forenames>William W.</Forenames>
-      <Text>, C.B , M.V.O</Text>
+      <Text>
+        <Honour>M.V.O</Honour>
+      </Text>
       <PageNumber>7873</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -161,7 +181,9 @@
     <MainItem>
       <Key>Thesiger</Key>
       <Forenames>Bertram S.</Forenames>
-      <Text>, C.B,, C.M.G., ADC</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>8213</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -176,7 +198,10 @@
     <MainItem>
       <Key>Wills</Key>
       <Forenames>Charles S.</Forenames>
-      <Text>, C.M.G., D.S.O</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>8213</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -185,7 +210,10 @@
     <MainItem>
       <Key>Corbett</Key>
       <Forenames>Charles F.</Forenames>
-      <Text>, C.B., M.V.O. (at own request)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>7535</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -201,7 +229,10 @@
     <MainItem>
       <Key>Wills</Key>
       <Forenames>Charles S.</Forenames>
-      <Text>, C.M.G., D.S.O</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>8213</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -210,7 +241,9 @@
     <MainItem>
       <Key>Mountfield</Key>
       <Forenames>James</Forenames>
-      <Text>, C.B.E</Text>
+      <Text>
+        <Honour>C.B.E</Honour>
+      </Text>
       <PageNumber>8520</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -219,7 +252,9 @@
     <MainItem>
       <Key>Bone</Key>
       <Forenames>Howard</Forenames>
-      <Text>, C.B. (at own request)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>8295</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -238,14 +273,20 @@
       <Key>Ballard</Key>
       <Title>Cdr.</Title>
       <Forenames>George N.</Forenames>
-      <Text>, C.B.E. (at own request)</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>7371</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Barne</Key>
-      <Text>. Cdr. (reW ) Michael, D.S.O</Text>
+      <Title>Cdr. (reW )</Title>
+      <Forenames>Michael</Forenames>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>7371</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -261,7 +302,9 @@
     <MainItem>
       <Key>Bromley</Key>
       <Forenames>Arthur</Forenames>
-      <Text>, C.M.G. (at own request)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>8034</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -269,7 +312,9 @@
     <MainItem>
       <Key>Bush</Key>
       <Forenames>James T.</Forenames>
-      <Text>, C.B.E. (at own request)</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>8034</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -292,7 +337,9 @@
     <MainItem>
       <Key>Dundas</Key>
       <Forenames>Lawrence L.</Forenames>
-      <Text>, C.M.G</Text>
+      <Text>
+        <Honour>C.M.G</Honour>
+      </Text>
       <PageNumber>8295</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -300,7 +347,9 @@
     <MainItem>
       <Key>Ellison</Key>
       <Forenames>Alfred A.</Forenames>
-      <Text>, C.B. (at own request)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>8213</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -370,7 +419,9 @@
     <MainItem>
       <Key>Sulivan</Key>
       <Forenames>Harold E.</Forenames>
-      <Text>, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>7371</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -379,7 +430,9 @@
       <Key>Way</Key>
       <Title>Cdr.</Title>
       <Forenames>Robert L.</Forenames>
-      <Text>, O.B.E</Text>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>7129</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -406,7 +459,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Constable</Key>
-      <Text>. Eng. Cdr. James S., O.B.E. (at own request)</Text>
+      <Title>Eng. Cdr.</Title>
+      <Forenames>James S.</Forenames>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>8611</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -461,7 +518,9 @@
       <Key>Rosevere</Key>
       <Title>Eng. Cdr.</Title>
       <Forenames>Edward J.</Forenames>
-      <Text>, O.B.E. (at own request)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>8795</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -527,7 +586,10 @@
       <Key>Acheson</Key>
       <Title>the Hon.</Title>
       <Forenames>Patrick G. E. C.</Forenames>
-      <Text>D.S.O., M.V.O. (at own request)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>7044</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -559,7 +621,9 @@
     <MainItem>
       <Key>Beattie</Key>
       <Forenames>Kenneth A.</Forenames>
-      <Text>, D.S.O. (at own request) _</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6984</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -583,7 +647,9 @@
     <MainItem>
       <Key>Blackwood</Key>
       <Forenames>Maurice B. R.</Forenames>
-      <Text>, D.S.O. (at own request)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6984</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -591,7 +657,9 @@
     <MainItem>
       <Key>Bond</Key>
       <Forenames>Arthur G. H.</Forenames>
-      <Text>, O.B.E. (at own request)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>7788</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -615,7 +683,9 @@
     <MainItem>
       <Key>Briggs</Key>
       <Forenames>Herbert G.</Forenames>
-      <Text>, D.S.O. (at own request) ... _</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7044</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -623,7 +693,9 @@
     <MainItem>
       <Key>Campbell</Key>
       <Forenames>Harold G.</Forenames>
-      <Text>, D.S.O. (at own request)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7459</PageNumber>
     </MainItem>
     <SubItem>
@@ -635,7 +707,9 @@
     <MainItem>
       <Key>Carter</Key>
       <Forenames>Thomas G.</Forenames>
-      <Text>, O.B.E. (at own request)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>7939</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -643,7 +717,9 @@
     <MainItem>
       <Key>Champion</Key>
       <Forenames>John P.</Forenames>
-      <Text>, D.S.O. (at own request)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8875</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -651,7 +727,9 @@
     <MainItem>
       <Key>Clark</Key>
       <Forenames>James L. C</Forenames>
-      <Text>, D.S.O. (at own request)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8295</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -682,7 +760,9 @@
     <MainItem>
       <Key>England</Key>
       <Forenames>Richard B.</Forenames>
-      <Text>, D.S.O. (at own request)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7939</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -713,7 +793,9 @@
     <MainItem>
       <Key>Gibson</Key>
       <Forenames>Frederick J. B.</Forenames>
-      <Text>, O.B.E. (at own request)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>7939</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -784,7 +866,9 @@
     <MainItem>
       <Key>Lloyd</Key>
       <Forenames>Robin W. M.</Forenames>
-      <Text>, D.S.O. (at own request!</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7939</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -840,7 +924,9 @@
     <MainItem>
       <Key>Noakes</Key>
       <Forenames>Cyril J. L.</Forenames>
-      <Text>, D.S.O. (atown request)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7939</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -887,7 +973,9 @@
     <MainItem>
       <Key>Ridley</Key>
       <Forenames>John J. C</Forenames>
-      <Text>, D.S.O. (at own request)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7873</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -910,7 +998,9 @@
     <MainItem>
       <Key>Russell</Key>
       <Forenames>Edward H.</Forenames>
-      <Text>, O.B.E. (at own request)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>7788</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -957,7 +1047,10 @@
     <MainItem>
       <Key>Stanley</Key>
       <Forenames>Edmond A. B.</Forenames>
-      <Text>, D.S.O., M.V.O. (at own request)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>7873</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -965,7 +1058,9 @@
     <MainItem>
       <Key>Sworder</Key>
       <Forenames>Kenneth F.</Forenames>
-      <Text>, D.S.O. (at own request)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7873</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -973,7 +1068,9 @@
     <MainItem>
       <Key>Tudor</Key>
       <Forenames>Edward O.</Forenames>
-      <Text>, D.S.O. (at own request)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8213</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -981,7 +1078,9 @@
     <MainItem>
       <Key>Villiers</Key>
       <Forenames>Gerald B.</Forenames>
-      <Text>, O.B.E. (at own request) „</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>7873</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1060,8 +1159,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Dogherty, Henry B</Text>
+      <Key>O'Dogherty</Key>
+      <Forenames>Henry B</Forenames>
       <PageNumber>9168</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1077,7 +1176,9 @@
     <MainItem>
       <Key>Sanders</Key>
       <Forenames>George H. S.</Forenames>
-      <Text>, D.S.O. (at own request)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8955</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1131,7 +1232,10 @@
     <MainItem>
       <Key>Booth</Key>
       <Forenames>Reginald J. Brooke-</Forenames>
-      <Text>, D.S.C., see Brooke-Booth, Reginald J., D.S.C. Bovell, Henry C</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>6984</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1146,7 +1250,9 @@
     <MainItem>
       <Key>Brooke-Booth</Key>
       <Forenames>Reginald J.</Forenames>
-      <Text>, D.S.C</Text>
+      <Text>
+        <Honour>D.S.C</Honour>
+      </Text>
       <PageNumber>8411</PageNumber>
     </MainItem>
   </ItemGroup>

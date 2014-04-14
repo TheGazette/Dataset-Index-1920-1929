@@ -75,8 +75,8 @@
     <MainItem>
       <Key>Sadgrove</Key>
       <Title>temp. Lt.</Title>
-      <Forenames>K. H. O</Forenames>
-      <Text>'R. (rel. commn. on completion of service and retains rank of Lt.)</Text>
+      <Forenames>K. H. O'R</Forenames>
+      <Text>. (rel. commn. on completion of service and retains rank of Lt.)</Text>
       <PageNumber>5564</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -96,7 +96,10 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>H. K.</Forenames>
-      <Text>, D.S.O., M.C. (rel. actg. rank of Lt.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4971</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -150,22 +153,29 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>Aubyn, Capt. E. G., D.S.O. (Lt.Col., Gen. Res. of Offrs)</Text>
+      <Key>St. Aubyn</Key>
+      <Title>Capt.</Title>
+      <Forenames>E. G.</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6156</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>George, Lt. H. B. (resigns commn. and retains rank of Lt.)</Text>
+      <Forenames>George</Forenames>
+      <Text>, Lt. H. B. (resigns commn. and retains rank of Lt.)</Text>
       <PageNumber>4210</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>John, Lt. H. S. (rel. commn. and retains rank of Lt.)</Text>
+      <Key>St. John</Key>
+      <Title>Lt.</Title>
+      <Forenames>H. S.</Forenames>
+      <Text>(rel. commn. and retains rank of Lt.)</Text>
       <PageNumber>5469</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -183,7 +193,8 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>Ledger, temp. Lt. A. (rel. commn. on acc. of ill-health caused by wounds and retains rank of Lt.)</Text>
+      <Forenames>Ledger</Forenames>
+      <Text>, temp. Lt. A. (rel. commn. on acc. of ill-health caused by wounds and retains rank of Lt.)</Text>
       <PageNumber>5458</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -210,7 +221,9 @@
       <Key>Salier</Key>
       <Title>Capt. (Bt. Maj.)</Title>
       <Forenames>E. L.</Forenames>
-      <Text>, M.C. (ceases to be empld. with Tank Corps)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5908</PageNumber>
     </MainItem>
     <SubItem>
@@ -293,7 +306,12 @@
       <Key>Salmond</Key>
       <Title>Maj. and Bt. Col. Sir</Title>
       <Forenames>J. M.</Forenames>
-      <Text>, K.C.B., C.M.G., C.V.O., D.S.O. (resigns commn. on appt. to perm, commn. in.R.A.F.)</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>C.V.O.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5571</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -492,7 +510,9 @@
       <Key>Sandars</Key>
       <Title>Bt. Lt.-Col. (Comdt. Remt. Depdt)</Title>
       <Forenames>E. C</Forenames>
-      <Text>, C.M.G. (Dep. Asst. Dir. of Remts.), Sub. Not</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>4672</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -514,7 +534,10 @@
       </Key>
       <Title>Maj. (actg. Lt.-Col.)</Title>
       <Forenames>S. E.</Forenames>
-      <Text>, D.S.O., M.C. (placed on ret. list on acc. of ill-health caused by wounds and granted rank of Lt.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4209</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -565,7 +588,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>T. F.</Forenames>
-      <Text>, M.C. (seed, for service with T.F.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4444</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -585,7 +610,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>F.</Forenames>
-      <Text>, M.C., M.B. (rel. commn. and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5902</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -650,7 +677,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>J. M. B.</Forenames>
-      <Text>, M.C. (temp. . Lt.-Col. whilst Comdt., British Wing, Imperial Sch. oflnstrn.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7079</PageNumber>
     </MainItem>
   </ItemGroup>

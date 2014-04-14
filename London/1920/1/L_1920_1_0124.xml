@@ -75,7 +75,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>John Walter</Forenames>
-      <Text>, M.D., B.S., F.R.C.P., E.R.C.S., Oommander, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>1237</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -96,7 +98,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>William Theodore</Forenames>
-      <Text>, M.P., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>3765</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -121,7 +125,10 @@
     <MainItem>
       <Key>Carson</Key>
       <Forenames>T.</Forenames>
-      <Text>/Maj. Ernest Hope, M.C., Companion, D.S.O</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>1377</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -201,7 +208,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>William</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
       <PageNumber>3431</PageNumber>
     </MainItem>
@@ -220,7 +229,9 @@
       <Key>Cartwright</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Francis Len-</Forenames>
-      <Text>nox, D.S.O., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>664</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -280,7 +291,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cash</Key>
-      <Text>. Ernest William, Member, Order of the British Empire</Text>
+      <Forenames>Ernest William</Forenames>
+      <Text>, Member, Order of the British Empire</Text>
       <PageNumber>3821</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -297,7 +309,9 @@
     <MainItem>
       <Key>Cassel</Key>
       <Forenames>Felix</Forenames>
-      <Text>, K.C.. created Baronet</Text>
+      <Text>
+        <Honour>Bar-</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
       <PageNumber>3432</PageNumber>
     </MainItem>
@@ -307,7 +321,11 @@
       <Key>Cassiels</Key>
       <Title>Maj.-Gen.</Title>
       <Forenames>Robert Archi-</Forenames>
-      <Text>bald. C.M.G.. D.S.O.. Companion, Star of India</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Star of India</Honour>
+      </Text>
       <PageNumber>2060</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -376,7 +394,9 @@
     <MainItem>
       <Key>Caton</Key>
       <Forenames>Richard</Forenames>
-      <Text>, LL.D., F.R.C.P., M.D., Commander, Orderk&gt;f the British Empire</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3763</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -409,7 +429,11 @@
     <MainItem>
       <Key>Cavan</Key>
       <Title>Lt.</Title>
-      <Text>-Oen. Frederick Rudolph. Earl of. K.P.. G.C.M.G., K.C.B., M.V.O.. Lieutenant of the 'Tower of London</Text>
+      <Text>
+        <Honour>G.C.M.G.</Honour>
+        <Honour>K.C.B.</Honour>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>3533</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -434,18 +458,24 @@
     <MainItem>
       <Key>Cavendish</Key>
       <Title>Ca.</Title>
-      <Text>pt. (A./Maj.) Frederick George, M.C.. Companion.</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>___</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>D.S.O</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1375</PageNumber>
     </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Caw</Key>
-      <Text>. Miss Louisa Ranken. Roval Red Cross, '2ud Cl. '</Text>
+      <Title>Miss</Title>
+      <Forenames>Louisa Ranken</Forenames>
+      <Text>. Roval Red Cross, '2ud Cl. '</Text>
       <PageNumber>1918</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -462,7 +492,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cay</Key>
-      <Text>. Albert, J.P.. Member, Order of the British Empire</Text>
+      <Forenames>Albert</Forenames>
+      <Text>, J.P.. Member, Order of the British Empire</Text>
       <PageNumber>3821</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -470,14 +501,16 @@
     <MainItem>
       <Key>Cecil</Key>
       <Title>Mrs.</Title>
-      <Text>the. Hon. Alicia Margaret, M.B.E.. Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>6</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Chfl</Key>
-      <Text>.diw.ick, Miss Edith Caroline, Member. Order of the British Kmpire</Text>
+      <Text>diw.ick, Miss Edith Caroline, Member. Order of the British Kmpire</Text>
       <PageNumber>3821</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -495,7 +528,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Chaff</Key>
-      <Text>. Thomas Wavcott, M.R.C.S.. L.R.C.P.. Member, Order of the British Empire</Text>
+      <Forenames>Thomas Wavcott</Forenames>
+      <Text>, M.R.C.S.. L.R.C.P.. Member, Order of the British Empire</Text>
       <PageNumber>1238</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -510,7 +544,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Chn</Key>
-      <Text>.llice, Supt. Clerk Sydney. Member, Order of the ' British Empire (cbrr. of unit)</Text>
+      <Text>llice, Supt. Clerk Sydney. Member, Order of the ' British Empire (cbrr. of unit)</Text>
       <PageNumber>3999</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -589,7 +623,9 @@
       </Key>
       <Title>Miss</Title>
       <Forenames>Helen</Forenames>
-      <Text>, M.D.. B.S.. Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>1237</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -624,7 +660,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Chnmpneys</Key>
-      <Text>. Edith. Mrs.. Member, Order of the British Empire</Text>
+      <Title>Edith. Mrs.</Title>
+      <Text>. Member, Order of the British Empire</Text>
       <PageNumber>3821</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -765,7 +802,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Paul Morgan</Forenames>
-      <Text>, M.D., E.R.C.P., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>1238</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -786,7 +825,10 @@
         <KeyDitto>___</KeyDitto>
       </Key>
       <Forenames>Sydney John</Forenames>
-      <Text>, C.B., C.B.E., E.R.S., Knight Commander, Order of the Bath</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -815,7 +857,11 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>John Thomas Walter</Forenames>
-      <Text>, C.B., C.B.E., R.D., R.N.R., Knight Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.B.E.</Honour>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>3758</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -825,21 +871,24 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Noel Hughes Havelock</Forenames>
-      <Text>, M.C., Third' Secretary in H.M. Diplomatic Service</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>327</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Charleson</Key>
-      <Text>. Bruno Arthur. Officer, Order of the British Empire</Text>
+      <Forenames>Bruno Arthur</Forenames>
+      <Text>. Officer, Order of the British Empire</Text>
       <PageNumber>3780</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Cliui</Key>
-      <Text>.rlesworth, William Herbert Rudolph, Member, Order of the British Empire</Text>
+      <Text>rlesworth, William Herbert Rudolph, Member, Order of the British Empire</Text>
       <PageNumber>3821</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -863,7 +912,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Chase</Key>
-      <Text>. Miss Alice Eleanor, Member, Order of the British Empire</Text>
+      <Title>Miss</Title>
+      <Forenames>Alice Eleanor</Forenames>
+      <Text>, Member, Order of the British Empire</Text>
       <PageNumber>3822</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -871,7 +922,9 @@
     <MainItem>
       <Key>Chatfield</Key>
       <Title>Frederick.</Title>
-      <Text>.LP., D.L.. Member. Order of the British Empire</Text>
+      <Text>
+        <Honour>D.L.</Honour>
+      </Text>
       <PageNumber>3822</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -903,7 +956,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cna</Key>
-      <Text>.vasse. Frances Hannah. Lady. Member, Order of the British Empire</Text>
+      <Text>vasse. Frances Hannah. Lady. Member, Order of the British Empire</Text>
       <PageNumber>3822</PageNumber>
     </MainItem>
   </ItemGroup>

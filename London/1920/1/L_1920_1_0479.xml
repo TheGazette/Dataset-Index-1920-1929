@@ -157,22 +157,27 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Conneil, temp. Lt. J. IP. (rel. commn., and to b« Hon. (Lt.)</Text>
+      <Key>O'Conneil</Key>
+      <Title>temp. Lt.</Title>
+      <Forenames>J.</Forenames>
+      <Text>IP. (rel. commn., and to b« Hon. (Lt.)</Text>
       <PageNumber>2992</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, temp. Capt. and 2nd in comd. J. (rel. commn., and granted ihon. rank of Capt.)</Text>
+      <Key>O'Connor</Key>
+      <Title>temp. Capt.</Title>
+      <Text>and 2nd in comd. J. (rel. commn., and granted ihon. rank of Capt.)</Text>
       <PageNumber>156</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donogiiue, temp. Capt. T. G. (rel. commn., and to be Hon. Capt.)</Text>
+      <Key>O'Donogiiue</Key>
+      <Title>temp. Capt.</Title>
+      <Forenames>T. G.</Forenames>
+      <Text>(rel. commn., and to be Hon. Capt.)</Text>
       <PageNumber>1916</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -187,8 +192,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hanion, temp. iLt. W. S. (rel. commn., and to be Hon. Lt.)</Text>
+      <Key>O'Hanion</Key>
+      <Title>temp.</Title>
+      <Text>iLt. W. S. (rel. commn., and to be Hon. Lt.)</Text>
       <PageNumber>915</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -235,7 +241,9 @@
       <Key>Oliver</Key>
       <Title>temp. Maj.</Title>
       <Forenames>C.</Forenames>
-      <Text>IF., T.D. (rel. commn., and to be Hon. Maj.)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>3004</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -391,7 +399,9 @@
       <Key>Owen</Key>
       <Title>temp. Lt.-Col.</Title>
       <Forenames>C. W.</Forenames>
-      <Text>, C.M.G., CLE. (rel. commn., and to be Hon. Lt.-Col.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>3742</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -440,7 +450,9 @@
     <MainItem>
       <Key>Owtram</Key>
       <Title>temp. Lt.-Col.</Title>
-      <Text>and Group Comdt. H. H., O.B.E. (rel. commn., and granted hon. rank of Lt.-Col.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3755</PageNumber>
     </MainItem>
   </ItemGroup>

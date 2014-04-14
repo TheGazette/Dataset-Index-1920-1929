@@ -14,7 +14,9 @@
       <Key>Cadell</Key>
       <Title>Maj.</Title>
       <Forenames>J</Forenames>
-      <Text>G., D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>6715</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -220,7 +222,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>G. S.</Forenames>
-      <Text>, M.C. (resigns commn. and granted rank of Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6313</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -230,8 +234,8 @@
         <KeyDitto>___ ___ .</KeyDitto>
       </Key>
       <Title>Lt.</Title>
-      <Forenames>G. St</Forenames>
-      <Text>. Q. (resigns commn. and retains rank of Lt.)</Text>
+      <Forenames>G. St. Q</Forenames>
+      <Text>. (resigns commn. and retains rank of Lt.)</Text>
       <PageNumber>6386</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -273,7 +277,9 @@
       <Key>Campbell</Key>
       <Title>Lt.</Title>
       <Forenames>A.</Forenames>
-      <Text>, M.C. (resigns commn. and Iretains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6386</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -317,7 +323,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>F. C. C</Forenames>
-      <Text>, M.C. (Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5039</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -492,8 +500,8 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Title>Lt.</Title>
-      <Forenames>C. O</Forenames>
-      <Text>'D. (resigns commn. and retains rank of Lt.)</Text>
+      <Forenames>C. O'D</Forenames>
+      <Text>. (resigns commn. and retains rank of Lt.)</Text>
       <PageNumber>6388</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -569,7 +577,9 @@
       <Key>Carnac</Key>
       <Title>Lt.</Title>
       <Forenames>J. C. T. Rivett</Forenames>
-      <Text>, M.C, see Rivett-Carnac, Lt. J. C. T., M.C. Carpenter, Lt. E. C. (resigns commn. and ' retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6389</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -660,7 +670,10 @@
       </Key>
       <Title>Col. (now Hon. Brig.-Gen.)</Title>
       <Forenames>R. A.</Forenames>
-      <Text>, C.B., C.M.G. (retirement)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>5437</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -700,7 +713,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>F. G.</Forenames>
-      <Text>, O.B.E. (resigns commn. and granted rank of Maj.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>6313</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -875,7 +890,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>J.</Forenames>
-      <Text>, D.S.O. (retirement)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6389</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1082,8 +1099,10 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Title>Maj. (now Col.)</Title>
-      <Forenames>W. St</Forenames>
-      <Text>. G., O.B.E. (temp. Lt.-Col. while A.D. of S. and T.)</Text>
+      <Forenames>W. St. G</Forenames>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>5972</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1119,7 +1138,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Chance</Key>
-      <Text>Lt. P. V. (resigns commn. and granted rank of Cant.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>P. V.</Forenames>
+      <Text>(resigns commn. and granted rank of Cant.)</Text>
       <PageNumber>6316</PageNumber>
     </MainItem>
   </ItemGroup>

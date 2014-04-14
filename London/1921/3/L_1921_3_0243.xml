@@ -278,7 +278,9 @@
     <MainItem>
       <Key>Butterworth</Key>
       <Forenames>A. H.</Forenames>
-      <Text>, M.C. (temp. Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5735</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -560,7 +562,9 @@
     <MainItem>
       <Key>Cornes</Key>
       <Forenames>L. G.</Forenames>
-      <Text>, M.C. (temp. Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6176</PageNumber>
     </MainItem>
     <SubItem>
@@ -707,7 +711,9 @@
     <MainItem>
       <Key>Davis</Key>
       <Forenames>L. B.</Forenames>
-      <Text>, M.C. (temp. Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6034</PageNumber>
     </MainItem>
     <SubItem>
@@ -731,7 +737,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>W.</Forenames>
-      <Text>, O.B.E. (temp. Maj. whilst D.A.D. of Supplies)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>6034</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -783,7 +791,7 @@
       <PageNumber>7461</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Rel. commn</Text>
+      <Text>Rel. commn.</Text>
       <PageNumber>6035</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -791,7 +799,9 @@
     <MainItem>
       <Key>Dealtry</Key>
       <Forenames>P.</Forenames>
-      <Text>, M.C. (temp. Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5736</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -816,7 +826,9 @@
     <MainItem>
       <Key>Dickens</Key>
       <Forenames>W. S.</Forenames>
-      <Text>, M.B.E. (Capt.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>5736</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -836,7 +848,9 @@
     <MainItem>
       <Key>Dickinson</Key>
       <Forenames>A.</Forenames>
-      <Text>, M.C. (temp. Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7312</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -844,7 +858,9 @@
     <MainItem>
       <Key>Dicks</Key>
       <Forenames>N. E. V.</Forenames>
-      <Text>, M.C. (rel. commn.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6773</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -955,7 +971,9 @@
     <MainItem>
       <Key>Falgar</Key>
       <Forenames>R. J.</Forenames>
-      <Text>, M.B.E. (Capt.) ... Fawcett, Capt. H. E. M. (corr. of</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>7311</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1176,7 +1194,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Goodman</Key>
-      <Text>. J. A. (temp. Lt.)</Text>
+      <Forenames>J. A.</Forenames>
+      <Text>(temp. Lt.)</Text>
       <PageNumber>5736</PageNumber>
     </MainItem>
   </ItemGroup>

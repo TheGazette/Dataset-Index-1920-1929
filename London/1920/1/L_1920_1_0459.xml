@@ -244,7 +244,10 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Title>temp. Lt-.</Title>
-      <Text>-Obd. and County Comdt. W. O., C.B.. D.S.O. rel. commn., and to be Hon. Lit.-Cod.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>2446</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -342,7 +345,9 @@
     <MainItem>
       <Key>Doyle</Key>
       <Title>temp.</Title>
-      <Text>. Lt.-Col. 'and 'County Gamdfc. A. H. J. {Bt. God., ret. pay) (rei. comma, and granted bom. rank o.f Lt.-Ood )</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>3995</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -588,7 +593,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Duke</Key>
-      <Text>. temp. Lt.-Col. B., M.D. (rel. mmmn., and to be Horn. Lt.. Col.)</Text>
+      <Title>temp. Lt.-Col.</Title>
+      <Forenames>B.</Forenames>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>2030</PageNumber>
     </MainItem>
   </ItemGroup>

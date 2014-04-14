@@ -85,7 +85,9 @@
     <MainItem>
       <Key>Cam</Key>
       <Forenames>A. T.</Forenames>
-      <Text>, M.M. (Lt.)</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>4579</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -179,7 +181,7 @@
       <PageNumber>5491</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Capt</Text>
+      <Text>Capt.</Text>
       <PageNumber>7012</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -249,8 +251,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Croft</Key>
-      <Forenames>T.</Forenames>
-      <Text>de C. (Capt.)</Text>
+      <Forenames>T. de C</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>5963</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -351,7 +353,7 @@
       <PageNumber>4583</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Granted rank of Lt.,Sub. Not</Text>
+      <Text>Granted rank of Lt.,Sub. Not.</Text>
       <PageNumber>5965</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -576,7 +578,9 @@
     <MainItem>
       <Key>Holmes</Key>
       <Forenames>A. H. R.</Forenames>
-      <Text>, M.B.E. (Capt.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>6796</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -588,7 +592,7 @@
       <PageNumber>5491</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Capt</Text>
+      <Text>Capt.</Text>
       <PageNumber>4477</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -667,7 +671,9 @@
       <Key>Kearsey</Key>
       <Title>Lt.</Title>
       <Forenames>E. S.</Forenames>
-      <Text>(resigns commn.) Keeling, Capt. E. H., M.C. (retires in consequence of ill-health</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4479</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -676,7 +682,9 @@
     <MainItem>
       <Key>Keighley</Key>
       <Forenames>F. W.</Forenames>
-      <Text>, M.C. (CapV.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7012</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -921,8 +929,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, M. J</Text>
+      <Key>O'Brien</Key>
+      <Forenames>M. J</Forenames>
       <PageNumber>6346</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1224,9 +1232,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Ingen</Forenames>
-      <Text>, C. T. (Lt.)</Text>
+      <Key>Van Ingen</Key>
+      <Forenames>C. T.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>7012</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1371,7 +1379,9 @@
     <MainItem>
       <Key>Granger</Key>
       <Forenames>T. A.</Forenames>
-      <Text>, C.M.G. Tr~</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>6091</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1403,7 +1413,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Jennings</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>6347</PageNumber>
     </MainItem>
   </ItemGroup>

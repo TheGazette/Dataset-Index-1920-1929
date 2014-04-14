@@ -95,7 +95,7 @@
       <PageNumber>3794</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>H</Text>
+      <Text>H.</Text>
       <PageNumber>4200</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -386,8 +386,8 @@
   <ItemGroup>
     <MainItem>
       <Key>AVintour</Key>
-      <Title>St.</Title>
-      <Forenames>J. F.</Forenames>
+      <Title>St. J.</Title>
+      <Forenames>F.</Forenames>
       <PageNumber>3554</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -447,7 +447,9 @@
       <Key>Buckingham</Key>
       <Title>Col.</Title>
       <Forenames>Oswald Pearce Serocold</Forenames>
-      <Text>, C.M.G., V.D</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>4117</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -488,25 +490,33 @@
     <MainItem>
       <Key>Northumberland</Key>
       <Forenames>Sutherland</Forenames>
-      <Text>, Sir Arthur Munro, Bt., K.B.E</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4370</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Nottingham</Key>
-      <Text>: Burn-Murdoch, Maj .-Gen. John Francis, C.B., C.M.G., O.B.E</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>2375</PageNumber>
     </MainItem>
     <SubItem>
       <Text>
+        <Honour>D.S.O.</Honour>
         <PageNumber>2375</PageNumber>
         <PageNumber>2375</PageNumber>
       </Text>
       <PageNumber>2375</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>Le Marchant, Brig.-Gen. Sir Edward Thomas, Bt., C.B.E</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>2375</PageNumber>
     </SubItem>
     <SubItem>
@@ -537,6 +547,7 @@
     </MainItem>
     <SubItem>
       <Text>
+        <Honour>M.C.</Honour>
         <PageNumber>3382</PageNumber>
       </Text>
       <PageNumber>3224</PageNumber>
@@ -574,6 +585,16 @@
       <Forenames>Abraham Adrian</Forenames>
       <Text>, change of name by deed poll to Adrian Anderson</Text>
       <PageNumber>2652</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___</KeyDitto>
+      </Key>
+      <Forenames>Barnett Salmon</Forenames>
+      <Text>, change name by deed poll to Barry S. Anderson'</Text>
+      <PageNumber>2969</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -627,7 +648,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Allsop</Key>
-      <Text>. Ernest, change of name bv deed poll to E. Allsop Thraves</Text>
+      <Forenames>Ernest</Forenames>
+      <Text>, change of name bv deed poll to E. Allsop Thraves</Text>
       <PageNumber>3681</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -701,7 +723,8 @@
   <ItemGroup>
     <MainItem>
       <Key>B</Key>
-      <Text>. Z. Syndicate, notice</Text>
+      <Forenames>Z. Syndicate</Forenames>
+      <Text>, notice</Text>
       <PageNumber>3344</PageNumber>
     </MainItem>
   </ItemGroup>

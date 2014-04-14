@@ -1,26 +1,114 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="084" pageID="https://www.thegazette.co.uk/id/London/index/year/1922/volume/1/page/084" pagePDF="https://www.thegazette.co.uk/London/index/year/1922/volume/1/page/084" pageRDF="https://www.thegazette.co.uk/London/index/year/1922/volume/1/page/084?view=linked-data" type="index" volume="1" year="1922">
-  <SubItem>
-    <Text>Bel. commn</Text>
-    <PageNumber>1683</PageNumber>
-  </SubItem>
-  <SubItem>
-    <Text>Date of seniority</Text>
-    <PageNumber>2578</PageNumber>
-  </SubItem>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Ste</Key>
+      <Forenames>Croix</Forenames>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
+      <PageNumber>1161</PageNumber>
+    </MainItem>
+    <SubItem>
+      <Text>Bel. commn</Text>
+      <PageNumber>1683</PageNumber>
+    </SubItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Satge</Key>
+      <Title>2nd Lt. (on prob.)</Title>
+      <Forenames>M. V.</Forenames>
+      <Text>. (trd, to Beg. Army Bes. of Off., Supplementary List, S. Gds., from Spec. Res.)</Text>
+      <PageNumber>2578</PageNumber>
+    </MainItem>
+    <SubItem>
+      <Text>Date of seniority</Text>
+      <PageNumber>2578</PageNumber>
+    </SubItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Soissons</Key>
+      <Title>temp. Capt.</Title>
+      <Forenames>L. E. J. G. de S</Forenames>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
+      <PageNumber>2021</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Stacpoole</Key>
+      <Title>Capt.</Title>
+      <Forenames>E. H. M.</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
+      <PageNumber>1050</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Des</Key>
       <Forenames>Voeux</Forenames>
-      <Text>, Lt.-Col. (h.p. list) H. . B., C.M.G. (retires on ret. pay)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>1161</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Wardt</Forenames>
-      <Text>, temp. 2nd Lt. F. .(rel. commn. on completion of service and retains rank of 2nd Lt.)</Text>
+      <Key>de Val</Key>
+      <Title>temp. Lt.</Title>
+      <Forenames>T.</Forenames>
+      <Text>(rel. commn. on completion of service and granted rank of .Capt.)</Text>
+      <PageNumber>341</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Valda</Key>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>F. W.</Forenames>
+      <Text>(rel. commn. on completion of service and retains rank of Lt.)</Text>
+      <PageNumber>916</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Van</Key>
+      <Forenames>Hazard</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
+      <PageNumber>1564</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Villiers</Key>
+      <Title>Lt.</Title>
+      <Forenames>L.</Forenames>
+      <Text>dH. (ceases to be empld. with Machine Gun Corps (Infantry)) .:</Text>
+      <PageNumber>1585</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Visme</Key>
+      <Text>JIaj. R. F. J. (trd. to Res. from 1st Bn., R. Mila., I. of Jersey L.I.)</Text>
+      <PageNumber>1683</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Wardt</Key>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>F.</Forenames>
+      <Text>.(rel. commn. on completion of service and retains rank of 2nd Lt.)</Text>
       <PageNumber>268</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -56,7 +144,10 @@
       <Key>Dealy</Key>
       <Title>Col.</Title>
       <Forenames>J. A.</Forenames>
-      <Text>, C.M.G., C.I.E., D.S.O. (retires on Indian pension, having attained age fixed for . compulsory retirement and granted hon. rank of Brig.-Gen.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>2396</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -235,7 +326,8 @@
   <ItemGroup>
     <MainItem>
       <Key>DEathe</Key>
-      <Text>. temp. 2nd Lt, C. A. (rel. commn. on completion of service and retains rank of 2nd Lt.)</Text>
+      <Title>temp.</Title>
+      <Text>2nd Lt, C. A. (rel. commn. on completion of service and retains rank of 2nd Lt.)</Text>
       <PageNumber>1798</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -253,7 +345,10 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>2nd Lt, (now Lt.) G. A., D.S.O., M.C. (date of commn. for purposes of seniority)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2218</PageNumber>
     </MainItem>
     <SubItem>
@@ -266,7 +361,9 @@
       <Key>Debono</Key>
       <Title>temp.</Title>
       <Forenames>Lt</Forenames>
-      <Text>, G. P., M.C. (rei. commn. on completion of service and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>439</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -274,7 +371,9 @@
     <MainItem>
       <Key>Decies</Key>
       <Title>Lt.-Col. (Maj., ret. pay)</Title>
-      <Text>the Lord, D.S.O. (ceases to belong to Res. of Off., having attained the age limit of liability to recall)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>123</PageNumber>
     </MainItem>
   </ItemGroup>

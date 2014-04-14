@@ -4,7 +4,9 @@
     <MainItem>
       <Key>McKendam</Key>
       <Title>2nd Lt.</Title>
-      <Text>. J. F. (rel. commn. and retains rank of 2nd Lt.) Mackenzie, Capt. A. D., O.B.E. (rel. commn. and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>1058</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -15,11 +17,14 @@
       </Key>
       <Title>Lt.-Col. (Maj., ret. pay) (Bt. Col., ret., Spec. Res.)</Title>
       <Forenames>A. F.</Forenames>
-      <Text>, C.M.G., M.V.O. (retired on completion of tenure and retains rank, with permission to wear prescribed uniform)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>619</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Sub. Not</Text>
+      <Text>Sub. Not.</Text>
       <PageNumber>2019</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -57,7 +62,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>D. A.</Forenames>
-      <Text>, T.D. (rel. commn. and retains rank of Maj., with permission to wear prescribed uniform)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>11</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -69,7 +76,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>H. M.</Forenames>
-      <Text>, T.D. (rel. commn. and retains rank of Maj., with permission to wear prescribed uniform)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>449</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -138,7 +147,9 @@
       </Key>
       <Title>Col. Sir</Title>
       <Forenames>R. C</Forenames>
-      <Text>, K.B.E. C.B., V.D.. Hon. Col., 5th Bn,, H.L.I., late unattd. list, T.F.)</Text>
+      <Text>
+        <Honour>K.B.E. C.B.</Honour>
+      </Text>
       <PageNumber>1920</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -160,7 +171,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>T. G.</Forenames>
-      <Text>, M.C. (rel. oommn. and retains rank of Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>273</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -193,14 +206,21 @@
   <ItemGroup>
     <MainItem>
       <Key>McKerron</Key>
-      <Text>. Lt. C. (rel. commn. and retains rank of Lt.). Sub. Not</Text>
+      <Title>Lt.</Title>
+      <Forenames>C.</Forenames>
+      <Text>(rel. commn. and retains rank of Lt.). Sub. Not</Text>
       <PageNumber>2026</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Mackie</Key>
-      <Text>. Maj. David. M.C.. M.B. (Cant.. R.A.M.C.. and rel. rank of Maj., late R.A.M.C.. Spec. Res.)</Text>
+      <Title>Maj. David.</Title>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1172</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -229,7 +249,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Mackillop</Key>
-      <Text>. Lt.-Col. (Hon. Lt. in Army) (Maj., ret. T.F.) J., T.D. (rel. commn. and retains rank of Lt.-Col.. with permission to wear prescribed uniform)</Text>
+      <Title>Lt.-Col. (Hon. Lt. in Army) (Maj., ret. T.F.)</Title>
+      <Forenames>J.</Forenames>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>346</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -238,7 +262,9 @@
       <Key>Mackinlav</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>C.</Forenames>
-      <Text>T.D. (re), commn. and retains rank of Lt.-Col., .with permission to wear prescribed uniform)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>716</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -258,7 +284,10 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>M. A.</Forenames>
-      <Text>. M.C. (rel. commn. and retains rank of Maj.) ... Mackintosh, Capt. H. C, M.C. (trd. to T.A. Res., Regtl. List, Inf., fnom 7th Bn., Black Watch)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2506</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -312,7 +341,11 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>Philip Whiteside</Forenames>
-      <Text>, M.C. (Capt., R.A.M.C. Gen. List, late R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1494</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -328,7 +361,9 @@
       <Key>Maclaren</Key>
       <Title>Capt.</Title>
       <Forenames>D.</Forenames>
-      <Text>, T.D. (rel. commn. and retains Tanl&lt; of Capt., with permission to wear prescribed uniform)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>346</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -366,7 +401,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>J. W.</Forenames>
-      <Text>, M.B.E. (rel. commn. and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>365</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -399,21 +436,31 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>C. J.</Forenames>
-      <Text>, M.C. (rel. commn. and retains rank 67 Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1369</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Maclean</Key>
-      <Text>. Maj. (Bt. Lt.-Col.) E J., M.D. (Lt.-Col. comdg. 3rd W. Gen. Hosp.)</Text>
+      <Title>Maj. (Bt. Lt.-Col.)</Title>
+      <Forenames>E</Forenames>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>1495</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>McLean</Key>
-      <Text>. Lt. J. Y., M.C. (rel. commn. and granted rank of Capt.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>J. Y.</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>716</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -431,21 +478,32 @@
   <ItemGroup>
     <MainItem>
       <Key>Maclean</Key>
-      <Text>. Maj. R., T.D. (rel. commn. and retains rank of M»i. with permission to wear prescribed uniform)</Text>
+      <Title>Maj.</Title>
+      <Forenames>R.</Forenames>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>133</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>McLean</Key>
-      <Text>. Capt. W. (rel. commn. and retains rank of Capt.)</Text>
+      <Title>Capt.</Title>
+      <Forenames>W.</Forenames>
+      <Text>(rel. commn. and retains rank of Capt.)</Text>
       <PageNumber>356</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>McLellan</Key>
-      <Text>. Maj. J., D.S.O., M.C. (rel. commn. and retains rank of Maj.)</Text>
+      <Title>Maj.</Title>
+      <Forenames>J.</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>923</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -492,14 +550,18 @@
       <Key>Maclennan</Key>
       <Title>Lt.</Title>
       <Forenames>A. G.</Forenames>
-      <Text>. M.C. (rel. oommn. and granted rank of Capt,)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>363</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>MacLeod</Key>
-      <Text>. Lt. A. (T.A. Res.. Inf.) (rel. commn. and retains rank of Lt.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>A.</Forenames>
+      <Text>(T.A. Res.. Inf.) (rel. commn. and retains rank of Lt.)</Text>
       <PageNumber>348</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -528,7 +590,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Macmm</Key>
-      <Text>. Maj. B. (rel. commn. and retains rank of Maj.)</Text>
+      <Title>Maj.</Title>
+      <Forenames>B.</Forenames>
+      <Text>(rel. commn. and retains rank of Maj.)</Text>
       <PageNumber>706</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -540,14 +604,18 @@
       </Key>
       <Title>Qrmr. and Lt.</Title>
       <Forenames>W.</Forenames>
-      <Text>(rel. commn. and retains rank of Lt.) ... MacPherson, Lt. W. J. (rel. commn. and retains rank of , Lt.) Macqueen, 2nd Lt. A. McC. (rel. commn. and retains rank of 2nd Lt.) ... McQueen, Surg.-Maj. R. M. (rel. commn. and retains rank of Surg.-Maj., with permission to wear prescribed uniform) ... MacRae. Lt. J. D., M.M. (resigns commn. and. retains rank of Lt.) Macreight, Lt. R. H. (announcement in Gaz. of 19th Dec.,</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>1921</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Mahaffv</Key>
-      <Text>. Maj. R. P. (retired, having attained (he age limit, and retains rank of Maj.) Mail. Maj. M. E. (rel. commn. and retains rank of Maj.)</Text>
+      <Title>Maj.</Title>
+      <Forenames>R. P.</Forenames>
+      <Text>(retired, having attained (he age limit, and retains rank of Maj.) Mail. Maj. M. E. (rel. commn. and retains rank of Maj.)</Text>
       <PageNumber>11</PageNumber>
     </MainItem>
     <SubItem>

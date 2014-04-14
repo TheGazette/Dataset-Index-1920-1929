@@ -187,7 +187,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gillies</Key>
-      <Forenames>Alexander</Forenames>
+      <Title>Alexander .</Title>
       <PageNumber>6836</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -216,7 +216,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Globe</Key>
-      <Forenames>Thomas</Forenames>
+      <Title>Thomas .</Title>
       <PageNumber>4184</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -307,8 +307,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Grant</Key>
-      <Forenames>Rear-</Forenames>
-      <Text>Admiral Noel, C.B</Text>
+      <Title>Rear-Admiral</Title>
+      <Forenames>Noel</Forenames>
+      <Text>
+        <Honour>C.B</Honour>
+      </Text>
       <PageNumber>5997</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -374,7 +377,7 @@
       <Key>
         <KeyDitto>—.—</KeyDitto>
       </Key>
-      <Forenames>John</Forenames>
+      <Title>John .</Title>
       <PageNumber>5784</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -412,7 +415,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gregory</Key>
-      <Forenames>John</Forenames>
+      <Title>John .</Title>
       <PageNumber>6630</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -546,7 +549,9 @@
       </Key>
       <Title>Brig. Gen.</Title>
       <Forenames>Francis Henry</Forenames>
-      <Text>, C.B., C.VO</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>4619</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -561,7 +566,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hampton</Key>
-      <Forenames>Martha</Forenames>
+      <Title>Martha .</Title>
       <PageNumber>6277</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -613,7 +618,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Isabella</Forenames>
+      <Title>Isabella .</Title>
       <PageNumber>4772</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -676,8 +681,8 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. John Henry Gilbert</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>John Henry Gilbert</Forenames>
       <PageNumber>4075</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -702,7 +707,7 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Forenames>George</Forenames>
+      <Title>George .</Title>
       <PageNumber>5873</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -832,7 +837,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hebblethwaite</Key>
-      <Forenames>Clara</Forenames>
+      <Title>Clara .</Title>
       <PageNumber>4620</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -901,7 +906,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>Charles Solomon</Forenames>
-      <Text>, Bart</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>5042</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -958,7 +965,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hill</Key>
-      <Forenames>Elizabeth</Forenames>
+      <Title>Elizabeth .</Title>
       <PageNumber>6391</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1184,7 +1191,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Horsman</Key>
-      <Text>Llewellyn</Text>
+      <Forenames>Llewellyn</Forenames>
       <PageNumber>6736</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1310,7 +1317,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>William</Forenames>
+      <Title>William .</Title>
       <PageNumber>4919</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1374,7 +1381,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>James</Forenames>
+      <Title>James .</Title>
       <PageNumber>4079</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1571,8 +1578,9 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Forenames>The Rt</Forenames>
-      <Text>. Revd. Herbert Edward, Lord Bishop of Lewes</Text>
+      <Title>The Rt. Revd.</Title>
+      <Forenames>Herbert Edward</Forenames>
+      <Text>, Lord Bishop of Lewes</Text>
       <PageNumber>5303</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1617,8 +1625,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>William</Forenames>
-      <Text>._</Text>
+      <Title>William .</Title>
+      <Text>_</Text>
       <PageNumber>4077</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1640,7 +1648,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kelsall</Key>
-      <Forenames>John</Forenames>
+      <Title>John .</Title>
       <PageNumber>4292</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1697,7 +1705,14 @@
     <MainItem>
       <Key>Kershaw</Key>
       <Forenames>John</Forenames>
-      <Text>6117 , Kidd, Henry 6740 &gt; Kidston, Richard Logan</Text>
+      <PageNumber>6117</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Kidd</Key>
+      <Forenames>Henry</Forenames>
+      <Text>6740 &gt; Kidston, Richard Logan</Text>
       <PageNumber>5407</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1732,8 +1747,8 @@
       <Key>
         <KeyDitto>___ -.— ___ ___</KeyDitto>
       </Key>
-      <Forenames>John</Forenames>
-      <Text>._</Text>
+      <Title>John .</Title>
+      <Text>_</Text>
       <PageNumber>5301</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1932,7 +1947,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lang</Key>
-      <Forenames>Jonas</Forenames>
+      <Title>Jonas .</Title>
       <PageNumber>4386</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2022,7 +2037,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Leach</Key>
-      <Forenames>Michael</Forenames>
+      <Title>Michael .</Title>
       <PageNumber>4618</PageNumber>
     </MainItem>
   </ItemGroup>

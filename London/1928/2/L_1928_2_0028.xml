@@ -2,12 +2,12 @@
 <Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="028" pageID="https://www.thegazette.co.uk/id/London/index/year/1928/volume/2/page/028" pagePDF="https://www.thegazette.co.uk/London/index/year/1928/volume/2/page/028" pageRDF="https://www.thegazette.co.uk/London/index/year/1928/volume/2/page/028?view=linked-data" type="index" volume="2" year="1928">
   <ItemGroup>
     <MainItem>
-      <Key>
-        <PageNumber>___ ___ ___ ___ ___ ___ ___</PageNumber>
-        <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
-      </Key>
-      <Forenames>Lumley-Smith</Forenames>
-      <Text>, Major Thomas Gabriel Lumley, D.S.O., Officer, Order of St. John of Jerusalem</Text>
+      <Key>Lumley-Smith</Key>
+      <Title>Major</Title>
+      <Forenames>Thomas Gabriel Lumley</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4264</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -70,6 +70,19 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___ ___</KeyDitto>
+      </Key>
+      <Title>Matron Miss</Title>
+      <Forenames>Lilian Emily</Forenames>
+      <Text>
+        <Honour>R.R.C.</Honour>
+      </Text>
+      <PageNumber>3852</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>McKenna</Key>
       <Title>Rev.</Title>
       <Forenames>Joseph</Forenames>
@@ -87,9 +100,22 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>MacKinnon</Key>
-      <Forenames>Percy Graham</Forenames>
-      <Text>, Knight</Text>
+      <Key>
+        <KeyDitto>___ ___ ___</KeyDitto>
+      </Key>
+      <Forenames>Arthur Henderson</Forenames>
+      <Text>, Companion, Order of the Indian Empire</Text>
+      <PageNumber>3850</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___</KeyDitto>
+      </Key>
+      <Title>Rev.</Title>
+      <Forenames>Duncan Ross</Forenames>
+      <Text>, Unofficial Member of Legislative Council of Nyasaland Protectorate 281S MacKinnon, Percy Graham, Knight</Text>
       <PageNumber>3846</PageNumber>
       <PageNumber>4410</PageNumber>
     </MainItem>
@@ -132,7 +158,11 @@
       <Key>McNamara</Key>
       <Title>Colonel (temporary Brigadier)</Title>
       <Forenames>Arthur Edward</Forenames>
-      <Text>, C.M.G., D.S.O., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3848</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -157,7 +187,9 @@
       <Key>Macpherson</Key>
       <Title>Major</Title>
       <Forenames>Alexander Kilgour</Forenames>
-      <Text>, Member of the 4th Class, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3851</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -181,57 +213,81 @@
   <ItemGroup>
     <MainItem>
       <Key>Maitland</Key>
-      <Text>Heriot, William, Millar, Alexander, Commander, C.B.E., J.P., Knight ComOrder of the British mander, Order of the Empire</Text>
-      <PageNumber>3855</PageNumber>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
+      <PageNumber>3854</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Manasseh</Key>
       <Forenames>Emma Pauline</Forenames>
-      <Text>, British Vice-Consul in Mrs., Officer, Order of the China</Text>
-      <PageNumber>3865</PageNumber>
+      <Text>, Mrs., Officer, Order of the British Empire</Text>
+      <PageNumber>3860</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Mangaldas</Key>
+      <Forenames>Vijbhukhandas Mehta</Forenames>
+      <Text>, Officer, Order of the British Empire</Text>
+      <PageNumber>3859</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Mannath</Key>
       <Forenames>Krishnan Nyar Avargal</Forenames>
-      <Text>, Diwan Bahadur, Milnes, Miss Alice Eva Marion, Member of the Executive Officer, Order of the British Council of the Governor of Empire</Text>
-      <PageNumber>3856</PageNumber>
+      <Text>, Diwan Bahadur, Member of the Executive Council of the Governor of Madras</Text>
+      <PageNumber>2905</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Mansergh</Key>
       <Forenames>Nevile Southcote</Forenames>
-      <Text>, Officer, Order of the British Member, Order of the Empire</Text>
-      <PageNumber>3856</PageNumber>
+      <Text>, Member, Order of the British Empire</Text>
+      <PageNumber>3861</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Manson</Key>
       <Forenames>Henry James</Forenames>
-      <Text>, ComMember, Order of the panion, Order of Saint British Empire</Text>
-      <PageNumber>3861</PageNumber>
+      <Text>, Companion, Order of Saint Michael and Saint George</Text>
+      <PageNumber>3849</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Marie</Key>
       <Forenames>Louise</Forenames>
-      <Text>, H.H. Princess, Mitchell, Warrant Officer Class G.B.E., V.A., C.I., R.R.C., II, Company SergeantDame Grand Cross, Order Major (Acting Regimental of St. John of Jerusalem 4263 Sergeant-Major) George, Marnoch, John, C.V.O., D.C.M., Member, Order of Knight Commander, Royal the British Empire</Text>
-      <PageNumber>3853</PageNumber>
+      <Text>
+        <Honour>G.B.E.</Honour>
+        <Honour>R.R.C.</Honour>
+      </Text>
+      <PageNumber>4263</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Marnoch</Key>
+      <Forenames>John</Forenames>
+      <Text>
+        <Honour>C.V.O.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
+      <PageNumber>3851</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Marriott</Key>
       <Title>Colonel</Title>
-      <Forenames>Alfred SinOrder</Forenames>
-      <Text>of the British Empire</Text>
-      <PageNumber>3857</PageNumber>
+      <Forenames>Alfred Sin-</Forenames>
+      <Text>clair, Commander, Order of the British Empire</Text>
+      <PageNumber>3851</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -239,73 +295,217 @@
       <Key>Martelli</Key>
       <Title>Colonel</Title>
       <Forenames>Horace</Forenames>
-      <Text>de Officer, Order of the British Courcy, D.S.O., ComEmpire</Text>
-      <PageNumber>3852</PageNumber>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
+      <PageNumber>3848</PageNumber>
     </MainItem>
   </ItemGroup>
-  <KeyDitto>___ ___</KeyDitto>
+  <ItemGroup>
+    <MainItem>
+      <Key>Martin</Key>
+      <Forenames>Humphrey Trice</Forenames>
+      <Text>, Commander, Order of the British Empire</Text>
+      <PageNumber>3860</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Forenames>Joseph Antoine Maurice</Forenames>
+      <Text>, Commander, Order of the British Empire</Text>
+      <PageNumber>3860</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Marwood</Key>
+      <Title>Miss</Title>
+      <Forenames>Constance Mary</Forenames>
+      <Text>, Officer, Order of the British Empire</Text>
+      <PageNumber>3856</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Masterton</Key>
+      <Forenames>John</Forenames>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
+      <PageNumber>3856</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Matthews</Key>
       <Forenames>Arthur</Forenames>
-      <Text>, Member, of Saint Michael and Saint Order of the British George</Text>
-      <PageNumber>3849</PageNumber>
+      <Text>, Member, Order of the British Empire</Text>
+      <PageNumber>3859</PageNumber>
     </MainItem>
   </ItemGroup>
-  <KeyDitto>___ ___ ___ ___</KeyDitto>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___ ___</KeyDitto>
+      </Key>
+      <Forenames>Robert Lee</Forenames>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
+      <PageNumber>3855</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Maugham</Key>
       <Forenames>Frederick Herbert</Forenames>
-      <Text>, Ordinary to H.R.H. K.C., Justice of His Princess Beatrice</Text>
-      <PageNumber>4017</PageNumber>
+      <Text>, K.C., Justice of His Majesty's High Court of Justice</Text>
+      <PageNumber>2811</PageNumber>
     </MainItem>
+    <SubItem>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
+      <PageNumber>3332</PageNumber>
+    </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Maughan</Key>
       <Title>Warrant Officer</Title>
-      <Text>___ . Miss Katharine, Member, Class II, Quartermaster Order of the British Sergeant-Instructor John Empire ..;</Text>
-      <PageNumber>3857</PageNumber>
+      <Forenames>Class</Forenames>
+      <Text>II, Quartermaster Sergeant-Instructor John George, Member, Order of the British Empire</Text>
+      <PageNumber>3853</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>du Maurier</Key>
+      <Title>Sir</Title>
+      <Forenames>Gerald Hubert Edward Busson</Forenames>
+      <Text>, Officer, Order of St. John of Jerusalem</Text>
+      <PageNumber>4264</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Mavrogordato</Key>
       <Forenames>Arthur Stephen</Forenames>
-      <Text>, Morgan, Benjamin Howell, Officer, Order of the Knight</Text>
-      <PageNumber>3846</PageNumber>
+      <Text>, Officer, Order of the British Empire</Text>
+      <PageNumber>3860</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Maxwell</Key>
       <Forenames>John</Forenames>
-      <Text>, Officer, Order General at Smyrna</Text>
-      <PageNumber>2813</PageNumber>
+      <Text>, Officer, Order of St. John of Jerusalem</Text>
+      <PageNumber>4264</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Maybury</Key>
-      <Title>Brigadier</Title>
+      <Title>Brigadier-</Title>
       <Forenames>General</Forenames>
-      <Text>Sir George Herbert, J.P., ComHenry Percy, K.C.M.G., mander, Order of the C.B., M.Inst.C.E., J.P., British Empire</Text>
-      <PageNumber>3855</PageNumber>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>C.B.</Honour>
+      </Text>
+      <PageNumber>3854</PageNumber>
     </MainItem>
-    <SubItem>
-      <Text>Knight Grand Cross, Morris, Francis, J.P., Knight Order of the Brtish Empire 3854</Text>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Meinertzhagen</Key>
+      <Forenames>Ernest Louis</Forenames>
+      <Text>, J.P., Knight</Text>
       <PageNumber>3846</PageNumber>
       <PageNumber>4410</PageNumber>
-    </SubItem>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Meller</Key>
+      <Forenames>Joseph</Forenames>
+      <Text>, Officer, Order of the British Empire</Text>
+      <PageNumber>3856</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Melrose</Key>
+      <Forenames>John</Forenames>
+      <Text>, Knight</Text>
+      <PageNumber>3847</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Merriman</Key>
+      <Forenames>Frank Boyd</Forenames>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
+      <PageNumber>2443</PageNumber>
+    </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Mertz</Key>
       <Title>Miss</Title>
       <Forenames>Teresa</Forenames>
-      <Text>, J.P., Sadr-ul-Maham, Knight</Text>
-      <PageNumber>3847</PageNumber>
+      <Text>, J.P., Officer, Order of the British Empire</Text>
+      <PageNumber>3856</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Metcalfe</Key>
+      <Forenames>Herbert Aubrey Francis</Forenames>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
+      <PageNumber>3850</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Millar</Key>
+      <Forenames>Alexander</Forenames>
+      <Text>
+        <Honour>D.C.M.</Honour>
+        <Honour>Bt</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
+      <PageNumber>3845</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <KeyDitto>___ ___ ___ ___</KeyDitto>
+  <KeyDitto>___ .</KeyDitto>
+  <KeyDitto>___</KeyDitto>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___</KeyDitto>
+      </Key>
+      <Forenames>James</Forenames>
+      <Text>, H.M. ConsulGeneral at Smyrna ... Morrell, Emily Alicia, Mrs. George Herbert, J.P., Commander, Order of the British Empire Morris, Francis, J.P., Knight</Text>
+      <PageNumber>3846</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Muhammad</Key>
+      <Forenames>Ahmad Said Khan</Forenames>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
+      <PageNumber>3855</PageNumber>
     </MainItem>
   </ItemGroup>
 </Index>

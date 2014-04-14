@@ -82,7 +82,7 @@
       <PageNumber>5868</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Resigns commn. and granted rank of 2nd Lt</Text>
+      <Text>Resigns commn. and granted rank of 2nd Lt.</Text>
       <PageNumber>6642</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -111,7 +111,9 @@
       <Key>Harvey</Key>
       <Title>Lt.</Title>
       <Forenames>A. M.</Forenames>
-      <Text>, M.B.E. (rel. commn. and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>6381</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -133,7 +135,9 @@
       </Key>
       <Title>Lt.-Col. (since retd.)</Title>
       <Forenames>R. K.</Forenames>
-      <Text>, T.D. (Col.)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>6513</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -180,7 +184,10 @@
       <Key>Haslegrave</Key>
       <Title>Lt.-Col. (ret., T.A.)</Title>
       <Forenames>H. J.</Forenames>
-      <Text>, C.M.G., T.D. (Hon. Col., 4th Bn., K.O.Y.L.I.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>5967</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -189,7 +196,9 @@
       <Key>Hatchett</Key>
       <Title>Lt.</Title>
       <Forenames>B. D.</Forenames>
-      <Text>, M.C. (resigns commn. and granted rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6099</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -259,7 +268,10 @@
       <Key>Headlam</Key>
       <Title>Capt.</Title>
       <Forenames>C. M.</Forenames>
-      <Text>, D.S.O.. O.B.E. (Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>6581</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -281,11 +293,32 @@
       <PageNumber>6843</PageNumber>
     </MainItem>
   </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Heckford</Key>
+      <Title>Capt.</Title>
+      <Forenames>C. A. J</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
+      <PageNumber>5363</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <KeyDitto>___ ___ ___ ___</KeyDitto>
   <KeyDitto>___ ___ ___</KeyDitto>
   <KeyDitto>___ ___ ___</KeyDitto>
   <KeyDitto>___ ___ ___</KeyDitto>
-  <KeyDitto>___ ___ ___</KeyDitto>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___</KeyDitto>
+      </Key>
+      <Title>Hon. Chapln., 4th CI., Rev.</Title>
+      <Forenames>George Henry</Forenames>
+      <Text>, B.A. (Chapln., 4th CI., T.A. Res., Gen. List, R.A.C.D.)</Text>
+      <PageNumber>5436</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <KeyDitto>___ ___ ___</KeyDitto>
   <ItemGroup>
     <MainItem>
@@ -298,16 +331,28 @@
       <PageNumber>5970</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Hincklev, Lt. G. P. (2nd Lt., 4th Bn.j Y. and L.R., late M.G.C., and rel. rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
+      <PageNumber>6514</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>5781</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>Hobling. Maj. J. H.. T.D. (retired, having attained the age limit, and retains rank of Maj.)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>6233</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>Hodgson, Capt. A. G. O. (Capt., T.A. Res., Gen. List, Arty., from 1st Lond. Bde.. R.G.A.)... 6W</Text>
-      <PageNumber>0</PageNumber>
+      <Text>
+        <PageNumber>0</PageNumber>
+      </Text>
+      <PageNumber>6778</PageNumber>
     </SubItem>
     <SubItem>
       <Text>Holdsworth. Lt. M. E. (Lt., 48th (S. Mid.) Divl. Sigs., R.C. of Sigs., from T.A. Res.)</Text>
@@ -318,7 +363,10 @@
       <PageNumber>5713</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>Holrovde, Capt. George G. B., M.C. (Adjt.. 56th (1st Lond.) Div.. R.A.M.C.. T.A.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6445</PageNumber>
     </SubItem>
   </ItemGroup>

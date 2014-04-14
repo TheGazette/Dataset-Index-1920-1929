@@ -85,7 +85,9 @@
       <Key>Perkins</Key>
       <Title>Colonel</Title>
       <Forenames>Edwin</Forenames>
-      <Text>King, C.B.E., V.D</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>4700</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -118,7 +120,9 @@
     <MainItem>
       <Key>Pierce</Key>
       <Forenames>Bedford</Forenames>
-      <Text>, M.D., F.R.C.P., Commissioner under Mental Deficiency Act</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>4539</PageNumber>
       <PageNumber>4627</PageNumber>
     </MainItem>
@@ -128,7 +132,9 @@
       <Key>Pilditch</Key>
       <Title>Sir</Title>
       <Forenames>Philip Edward</Forenames>
-      <Text>, Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>4622</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -154,7 +160,10 @@
       <Key>Pratt</Key>
       <Title>Sir</Title>
       <Forenames>John Thomas</Forenames>
-      <Text>, K.B.E., C.M.G., Acting Counsellor of Embassy, . H. M. Diplomatic Service</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>5143</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -169,7 +178,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Rasch</Key>
-      <Text>Lieut. ^Colonel Sir Frederic Came, Bt., Member of H.M. Body Guard of the Honourable Corps of Gentlemen-at-Arms</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4621</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -185,7 +196,10 @@
     <MainItem>
       <Key>Richardson</Key>
       <Title>Lieut.</Title>
-      <Text>-Colonel Sir Philip Wigham, Kt., O.B.E., V.D., Baronet</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>5143</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -195,7 +209,9 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Robert</Forenames>
-      <Text>, M.P., Charity Commissioner for England and Wales</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4539</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -203,7 +219,9 @@
     <MainItem>
       <Key>Richmond</Key>
       <Forenames>Frederick Henry</Forenames>
-      <Text>, Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>4622</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -212,7 +230,10 @@
       <Key>Rigby</Key>
       <Title>Sir</Title>
       <Forenames>Hugh Mallinson</Forenames>
-      <Text>, K.C.V.O., Baronet</Text>
+      <Text>
+        <Honour>K.C.V.O.</Honour>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>4622</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -234,8 +255,11 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. Johnston, B. Lieut.-Colonel Thomas Reginald, C.M.G., Governor and Commanderin-Chief of the Leeward Islands</Text>
+      <Key>St. Johnston</Key>
+      <Forenames>B.</Forenames>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>4926</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -243,14 +267,18 @@
     <MainItem>
       <Key>Sandeman</Key>
       <Forenames>Alexander Nairne Stewart</Forenames>
-      <Text>, Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>4622</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Sankey</Key>
-      <Text>/Baron, G.B.E., Crown Office annuity</Text>
+      <Text>
+        <Honour>G.B.E.</Honour>
+      </Text>
       <PageNumber>4621</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -267,7 +295,9 @@
       <Key>Sassoon</Key>
       <Title>Sir</Title>
       <Forenames>Ellice Victor</Forenames>
-      <Text>, Bt., Member . of Royal , Commission on Labour Conditions in India</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4538</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -276,7 +306,11 @@
       <Key>Sassoon</Key>
       <Title>Sir</Title>
       <Forenames>Philip Albert Gustave David</Forenames>
-      <Text>, Bt., G.B.E., C.M.G., Member of H.M. Privy Council</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>G.B.E.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>4433</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -310,7 +344,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Phillip Cahill</Forenames>
-      <Text>, C.M.G., Knight</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>4700</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -327,7 +363,9 @@
     <MainItem>
       <Key>Smith</Key>
       <Forenames>Ben</Forenames>
-      <Text>, M.P., Treasurer' of H.M. Household</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4849</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -366,7 +404,10 @@
     <MainItem>
       <Key>Spender-Clay</Key>
       <Title>Lieut.</Title>
-      <Text>-Colonel Herbert Henry, C.M.G., M.C., Member of H.M. Privy Council</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4433</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -385,7 +426,9 @@
         <KeyDitto>___</KeyDitto>
       </Key>
       <Title>Lieut.</Title>
-      <Text>-Colonel Rt. Hon. George. Frederick, C.M.G., Governor of the Presidency of Madras</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>5218</PageNumber>
     </MainItem>
     <SubItem>
@@ -438,14 +481,19 @@
     <MainItem>
       <Key>Thomas</Key>
       <Forenames>Hugh Lloyd</Forenames>
-      <Text>, Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4761</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Tilley</Key>
-      <Text>. Rt. Hon. Sir John Anthony Cecil, G.C.M.G., C. B., Knight Grand Cross, Royal Victorian Order</Text>
+      <Text>
+        <Honour>G.C.M.G.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4761</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -469,7 +517,11 @@
       <Key>Tyrrell</Key>
       <Title>Rt. Hon. Sir</Title>
       <Forenames>William George</Forenames>
-      <Text>, G.C.M.G., K.C.B., K.C.V.O., Baron Tyrrell of Avon</Text>
+      <Text>
+        <Honour>G.C.M.G.</Honour>
+        <Honour>K.C.B.</Honour>
+        <Honour>K.C.V.O.</Honour>
+      </Text>
       <PageNumber>4923</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -478,7 +530,11 @@
       <Key>Tyrvvhitt</Key>
       <Title>Admiral Sir</Title>
       <Forenames>Reginald Yorke</Forenames>
-      <Text>, Bt., K.C.B., D.S.O., D. C.L. (Oxon), Knight Grand Cross, Order of the Bath</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>K.C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4988</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -494,7 +550,10 @@
     <MainItem>
       <Key>Ward</Key>
       <Forenames>Albert Lambert</Forenames>
-      <Text>, D.S.O. T.D., Baronet</Text>
+      <Text>
+        <Honour>D.S.O. T.D.</Honour>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>4622</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -503,7 +562,9 @@
       <Key>Wells</Key>
       <Title>Major</Title>
       <Forenames>John Stuart Kerr</Forenames>
-      <Text>, C.B.E., Unofficial.; Member of Legislative Council of Tanganyika Territory :</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>5565</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -545,7 +606,10 @@
       <Key>Wills</Key>
       <Title>Sir</Title>
       <Forenames>Gilbert Alan Ham-</Forenames>
-      <Text>ilton, Bt., O.B.E., Baron Dulverton of Batsford</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4762</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -561,7 +625,9 @@
     <MainItem>
       <Key>Withers</Key>
       <Forenames>John James</Forenames>
-      <Text>, C.B.E., M.A., Knight</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>4700</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -585,7 +651,9 @@
     <MainItem>
       <Key>Yencken</Key>
       <Forenames>Arthur Ferdinand</Forenames>
-      <Text>, ., M.C., First .Secretary, Diplomatic Service</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5565</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -600,9 +668,14 @@
   <ItemGroup>
     <MainItem>
       <Key>York</Key>
-      <Title>H.R.H.</Title>
-      <Forenames>The</Forenames>
-      <Text>Duke of, K.G., P.C., K.T.,G.C.M.G., G.C.V.O., H.M. High Commissioner to the General Assembly of the Church of Scotland</Text>
+      <Title>H.R.H. The Duke</Title>
+      <Text>
+        <Honour>K.G.</Honour>
+        <Honour>P.C.</Honour>
+        <Honour>K.T.</Honour>
+        <Honour>G.C.M.G.</Honour>
+        <Honour>G.C.V.O.</Honour>
+      </Text>
       <PageNumber>6032</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -823,8 +896,7 @@
   <ItemGroup>
     <MainItem>
       <Key>MacGregor</Key>
-      <Forenames>I. O</Forenames>
-      <Text>'B</Text>
+      <Forenames>I. O'B</Forenames>
       <PageNumber>5717</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -879,8 +951,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Callaghan, C. T.' :</Text>
+      <Key>O'Callaghan</Key>
+      <Forenames>C. T.</Forenames>
+      <Text>' :</Text>
       <PageNumber>5641</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -931,8 +1004,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>G. St</Forenames>
-      <Text>. G. ... '</Text>
+      <Forenames>G. St. G</Forenames>
+      <Text>. ... '</Text>
       <PageNumber>5774</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -954,7 +1027,9 @@
     <MainItem>
       <Key>Shiffner</Key>
       <Title>Sir</Title>
-      <Text>'H. B., Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>5338</PageNumber>
     </MainItem>
   </ItemGroup>

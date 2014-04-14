@@ -5,7 +5,9 @@
       <Key>Robey</Key>
       <Title>temp. Lt.</Title>
       <Forenames>G. E.</Forenames>
-      <Text>, C.B.E. (rel. commn., and granted hon. rank of Lt.)</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>8361</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -284,7 +286,9 @@
       <Key>Watts</Key>
       <Title>Hon. Col. (Hon. Col. ret. Spec. Res.) Sir</Title>
       <Forenames>W.</Forenames>
-      <Text>, K.C.B., V.D. (resigns commn. on ceasing to be empld., and retains rank, with permission to wear prescribed uniform) ,</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+      </Text>
       <PageNumber>10342</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -524,7 +528,9 @@
       <Key>Bensly</Key>
       <Title>temp. Maj. (Capt., Unattd. List, T.A.)</Title>
       <Forenames>W. J.</Forenames>
-      <Text>, D.S.O. (rel. temp, rank of Maj. on ceasing to be empld. with Serv. Bn., Br. W.I. R.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>9749</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -587,10 +593,20 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Lister</Forenames>
-      <Text>, temp. 2nd Lt. A. E. (rel. commn. on completion of service, and retains rank of 2nd Lt.)</Text>
+      <Key>De Lister</Key>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>A. E.</Forenames>
+      <Text>(rel. commn. on completion of service, and retains rank of 2nd Lt.)</Text>
       <PageNumber>10439</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Pass</Key>
+      <Title>temp. Lt. (2nd Lt., W. Indies Local Forces)</Title>
+      <Forenames>C. D.</Forenames>
+      <Text>(rel. commn. on completion of service, and retains rank of Lt.)</Text>
+      <PageNumber>10102</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -711,7 +727,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ha</Key>
-      <Text>.ll, temp. Lt. (2nd Lt., W. Indies Local Forces) C. L. (rel. cbmmn. on completion of service, and retains rank of Lt.)</Text>
+      <Text>ll, temp. Lt. (2nd Lt., W. Indies Local Forces) C. L. (rel. cbmmn. on completion of service, and retains rank of Lt.)</Text>
       <PageNumber>10203</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -720,7 +736,9 @@
       <Key>Hamper</Key>
       <Title>temp. Capt.</Title>
       <Forenames>J. R.</Forenames>
-      <Text>, M.B.E. (rel. commn. on completion of service, and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>10203</PageNumber>
     </MainItem>
   </ItemGroup>

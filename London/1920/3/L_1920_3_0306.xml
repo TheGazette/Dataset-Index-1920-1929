@@ -65,7 +65,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>Frederic Harding Anson</Forenames>
-      <Text>, Bt _</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>7278</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -96,7 +98,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hammack</Key>
-      <Forenames>Florence</Forenames>
+      <Title>Florence .</Title>
       <PageNumber>8242</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -117,7 +119,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Handcock</Key>
-      <Forenames>Eleanor</Forenames>
+      <Title>Eleanor .</Title>
       <PageNumber>9403</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -131,7 +133,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Harding</Key>
-      <Forenames>George</Forenames>
+      <Title>George .</Title>
       <PageNumber>8821</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -152,7 +154,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hargreaves</Key>
-      <Forenames>Joseph</Forenames>
+      <Title>Joseph.</Title>
       <PageNumber>9571</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -279,7 +281,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Haworth</Key>
-      <Forenames>Richard</Forenames>
+      <Title>Richard .</Title>
       <PageNumber>7812</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -300,14 +302,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Hayman</Key>
-      <Forenames>Max</Forenames>
+      <Title>Max .</Title>
       <PageNumber>7905</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Henly</Key>
-      <Forenames>Mary</Forenames>
+      <Title>Mary .</Title>
       <PageNumber>9575</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -330,7 +332,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Sayere</Forenames>
+      <Title>Sayere .</Title>
       <PageNumber>7625</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -469,8 +471,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hodge</Key>
-      <Forenames>Florence O</Forenames>
-      <Text>'Byren</Text>
+      <Forenames>Florence O'Byren</Forenames>
       <PageNumber>9400</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -604,7 +605,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Thomas</Forenames>
+      <Title>Thomas .</Title>
       <PageNumber>8328</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -669,7 +670,9 @@
       <Key>Ireland</Key>
       <Title>Sir</Title>
       <Forenames>Robert Megaw</Forenames>
-      <Text>, C.B., Leechman, George Barclay</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>7396</PageNumber>
     </MainItem>
   </ItemGroup>

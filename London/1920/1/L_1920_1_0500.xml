@@ -5,7 +5,9 @@
       <Key>Hamilton</Key>
       <Title>Maj.</Title>
       <Forenames>A. F.</Forenames>
-      <Text>, M.C. ..:</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2473</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -21,7 +23,9 @@
     <MainItem>
       <Key>Henderson</Key>
       <Forenames>K. D. M.</Forenames>
-      <Text>, M.C. (rel. actg. rank)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1268</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -178,14 +182,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Swayne</Key>
-      <Text>. Maj. F. G</Text>
+      <Title>Maj.</Title>
+      <Forenames>F. G</Forenames>
       <PageNumber>3543</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Todd</Key>
-      <Text>. R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>1268</PageNumber>
     </MainItem>
     <SubItem>
@@ -198,7 +203,11 @@
     <MainItem>
       <Key>Dewing</Key>
       <Forenames>R. H.</Forenames>
-      <Text>, D.S.O., M.C. (Bt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>1802</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -206,7 +215,10 @@
     <MainItem>
       <Key>Drew</Key>
       <Forenames>F. G.</Forenames>
-      <Text>, O.B.E. (Bt.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>1802</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -235,7 +247,9 @@
     <MainItem>
       <Key>Grace</Key>
       <Forenames>H. G.</Forenames>
-      <Text>, M.C. (promn. antedated, previous forfeited sen. having been restd. for good service in the field)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1104</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -328,7 +342,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilson</Key>
-      <Text>. T. K</Text>
+      <Forenames>T. K</Forenames>
       <PageNumber>565</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -348,14 +362,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Griffith</Key>
-      <Text>. W. R. C, M.C</Text>
+      <Forenames>W. R. C</Forenames>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>2476</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Skene</Key>
-      <Text>. J. G</Text>
+      <Forenames>J. G</Forenames>
       <PageNumber>1836</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -393,7 +410,9 @@
     <MainItem>
       <Key>Dyce</Key>
       <Forenames>H. L.</Forenames>
-      <Text>, M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>3319</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -422,7 +441,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ommanney</Key>
-      <Text>. A. H</Text>
+      <Forenames>A. H .</Forenames>
       <PageNumber>989</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -449,7 +468,9 @@
     <MainItem>
       <Key>Armstrong</Key>
       <Forenames>A. H. H.</Forenames>
-      <Text>, M.C. (whilst Senior S.S.O.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1698</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -619,7 +640,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Driver</Key>
-      <Text>. R. A</Text>
+      <Forenames>R. A.</Forenames>
       <PageNumber>1106</PageNumber>
     </MainItem>
     <SubItem>
@@ -631,7 +652,9 @@
     <MainItem>
       <Key>Drummond</Key>
       <Forenames>J. G. P.</Forenames>
-      <Text>, M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>3543</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -651,14 +674,17 @@
     <MainItem>
       <Key>Eales</Key>
       <Forenames>A.</Forenames>
-      <Text>C.H. A. (re!, actg. rank)</Text>
+      <Text>
+        <Honour>C.H.</Honour>
+      </Text>
       <PageNumber>1835</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Eccles</Key>
-      <Text>. M., M.C</Text>
+      <Forenames>M.</Forenames>
+      <Text>, M.C</Text>
       <PageNumber>2474</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -682,7 +708,9 @@
     <MainItem>
       <Key>Fitton</Key>
       <Forenames>C. V.</Forenames>
-      <Text>, M.C. (rel. actg. rank)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3316</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -716,7 +744,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gibson</Key>
-      <Text>. F. J. P. (rel. actg. rank)</Text>
+      <Forenames>F. J. P.</Forenames>
+      <Text>(rel. actg. rank)</Text>
       <PageNumber>1268</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -794,7 +823,9 @@
     <MainItem>
       <Key>Johnson</Key>
       <Forenames>G. S.</Forenames>
-      <Text>, M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>8473</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -865,7 +896,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lewis</Key>
-      <Text>. R. F</Text>
+      <Forenames>R. F</Forenames>
       <PageNumber>1104</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -998,7 +1029,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Morse</Key>
-      <Text>(L. 'H., M.C. .(retains octg. rank whilst Gonidt., Sag. Serv. Depot)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>205</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1024,7 +1057,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Nepea</Key>
-      <Text>.ii, H. ,D. H. Y., D.lS.O</Text>
+      <Text>ii, H. ,D. H. Y., D.lS.O</Text>
       <PageNumber>1107</PageNumber>
     </MainItem>
     <SubItem>
@@ -1071,8 +1104,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Leary, H. H ,</Text>
+      <Key>O'Leary</Key>
+      <Forenames>H. H</Forenames>
+      <Text>,</Text>
       <PageNumber>988</PageNumber>
     </MainItem>
     <SubItem>

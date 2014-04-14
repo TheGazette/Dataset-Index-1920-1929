@@ -43,7 +43,9 @@
     <MainItem>
       <Key>Roche</Key>
       <Forenames>Nelson J.</Forenames>
-      <Text>, O.B.E. (commn. termd. on transfer to R.A.F.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>8459</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -99,7 +101,9 @@
     <MainItem>
       <Key>Goss</Key>
       <Forenames>Leslie S.</Forenames>
-      <Text>, O.B.E</Text>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>9468</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -191,7 +195,9 @@
     <MainItem>
       <Key>Smith</Key>
       <Forenames>Neville H.</Forenames>
-      <Text>, D.S.C., B.A</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>10656</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -253,7 +259,10 @@
     <MainItem>
       <Key>Weekes</Key>
       <Forenames>Victor H. T.</Forenames>
-      <Text>, C.B., C.M.G. ,</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>10719</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -284,7 +293,9 @@
     <MainItem>
       <Key>Townend</Key>
       <Forenames>Alfred B. S.</Forenames>
-      <Text>, O.B.E</Text>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>10141</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -308,7 +319,9 @@
     <MainItem>
       <Key>Hawkesworth</Key>
       <Forenames>Richard A.</Forenames>
-      <Text>, O.B.E</Text>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>9257</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -522,7 +535,9 @@
     <MainItem>
       <Key>Fletcher</Key>
       <Forenames>Evelyn N. R.</Forenames>
-      <Text>, M.B.E</Text>
+      <Text>
+        <Honour>M.B.E</Honour>
+      </Text>
       <PageNumber>8843</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -557,8 +572,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gregory</Key>
-      <Forenames>Brian O</Forenames>
-      <Text>'F</Text>
+      <Forenames>Brian O'F</Forenames>
       <PageNumber>8843</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -732,7 +746,9 @@
     <MainItem>
       <Key>Morrissey</Key>
       <Forenames>Patrick H.</Forenames>
-      <Text>, M.B.E</Text>
+      <Text>
+        <Honour>M.B.E</Honour>
+      </Text>
       <PageNumber>8843</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -782,7 +798,9 @@
     <MainItem>
       <Key>Pertwee</Key>
       <Forenames>Herbert G.</Forenames>
-      <Text>, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>8843</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -936,7 +954,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Townsend</Key>
-      <Text>. Edward R</Text>
+      <Forenames>Edward R</Forenames>
       <PageNumber>8844</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -950,7 +968,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Underdown</Key>
-      <Text>. John B</Text>
+      <Forenames>John B.</Forenames>
       <PageNumber>8843</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -958,7 +976,9 @@
     <MainItem>
       <Key>Wareham</Key>
       <Forenames>Stuart W.</Forenames>
-      <Text>, O.B.E. ... Waters, Geoffrey M</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>10141</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -981,7 +1001,9 @@
     <MainItem>
       <Key>Woolley</Key>
       <Forenames>Herbert G. A.</Forenames>
-      <Text>, D.S.C</Text>
+      <Text>
+        <Honour>D.S.C</Honour>
+      </Text>
       <PageNumber>8843</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1060,7 +1082,11 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Charles A.</Forenames>
-      <Text>, C.B., C.B.E., R.D. (granted rank of Commodore on Retd. List)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.B.E.</Honour>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>8204</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1076,7 +1102,9 @@
     <MainItem>
       <Key>Bullock</Key>
       <Title>Lt.</Title>
-      <Text>-Cdr. Charles A., O.B.E. (placed on Retd. List with rank of Comdr.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>9257</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1084,7 +1112,9 @@
     <MainItem>
       <Key>Cain</Key>
       <Forenames>Alan Ernest</Forenames>
-      <Text>, D.S.C. (trd: from New Zealand Branch of R.A.N.R. in rank of Act. Lt.Cdr.) ... ... ,</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>10580</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1093,7 +1123,9 @@
       <Key>Carter</Key>
       <Title>Chas.</Title>
       <Forenames>W.</Forenames>
-      <Text>R.D. (Payr. Comdr., retd.)</Text>
+      <Text>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>9151</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1101,7 +1133,9 @@
     <MainItem>
       <Key>Clarke</Key>
       <Forenames>Henry E.</Forenames>
-      <Text>R.D. (Payr. Comdr., retd.)</Text>
+      <Text>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>9151</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1109,7 +1143,9 @@
     <MainItem>
       <Key>Craven</Key>
       <Title>Payr. Lt.</Title>
-      <Text>-Cdr. George E. P., R.D. (placed on Retd. List with rank of Payr. Comdr.)</Text>
+      <Text>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>8292</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1117,7 +1153,9 @@
     <MainItem>
       <Key>Cullum</Key>
       <Title>Payr. Cdr.</Title>
-      <Text>(Registrar Thomas E., R.D. (placed on . Retd. List)</Text>
+      <Text>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>8634</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1126,7 +1164,9 @@
       <Key>Davies</Key>
       <Title>Payr. Cdr. (Registrar)</Title>
       <Forenames>William M.</Forenames>
-      <Text>, R.D. (placed on Retd. List)</Text>
+      <Text>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>8634</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1142,7 +1182,9 @@
     <MainItem>
       <Key>Dunn</Key>
       <Title>Payr. Lt.</Title>
-      <Text>-Cdr. (Registrar) Charles A., R.D. (placed on Retd. List)</Text>
+      <Text>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>8634</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1158,7 +1200,9 @@
     <MainItem>
       <Key>Edkin</Key>
       <Forenames>Ernest</Forenames>
-      <Text>, R.D. (Cdr.)</Text>
+      <Text>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>10719</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1174,7 +1218,9 @@
     <MainItem>
       <Key>Fiddes</Key>
       <Title>Wm.</Title>
-      <Text>, R.D. (Payr. Comdr., retd.)</Text>
+      <Text>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>9151</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1182,7 +1228,9 @@
     <MainItem>
       <Key>Foster</Key>
       <Forenames>Charles F.</Forenames>
-      <Text>, R.D. (Payr. Comdr., retd.)</Text>
+      <Text>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>9151</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1207,7 +1255,9 @@
     <MainItem>
       <Key>Giles</Key>
       <Title>Payr. Lt.</Title>
-      <Text>-Cdr. William F., R.D. (placed on Retd. List with rank of Payr. Comdr.)</Text>
+      <Text>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>8292</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1223,7 +1273,10 @@
     <MainItem>
       <Key>Gordon</Key>
       <Title>Payr. Lt.</Title>
-      <Text>-Cdr. Walter, H., O.B.E., R.D. (placed on Retd. List with rank of Payr. Comdr.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>10580</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1255,7 +1308,9 @@
     <MainItem>
       <Key>Hastings</Key>
       <Forenames>Samuel C</Forenames>
-      <Text>, R.D. (Payr. Comdr., retd.)</Text>
+      <Text>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>9151</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1288,7 +1343,10 @@
   <ItemGroup>
     <MainItem>
       <Key>How</Key>
-      <Text>.snn, Cdr. John, C.B.E., R.D. (placed on Retd. List)</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>10276</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1321,14 +1379,19 @@
     <MainItem>
       <Key>Loder</Key>
       <Forenames>Albert E.</Forenames>
-      <Text>, R.D. (Payr. Comdr., retd.)</Text>
+      <Text>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>9151</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Lutt</Key>
-      <Text>. Payr. Lt.-Cdr. Harold E. W. R.D. (placed on Retd. List with-rank of Payr. Cdr.)</Text>
+      <Title>Payr. Lt.</Title>
+      <Text>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>10025</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1336,7 +1399,9 @@
     <MainItem>
       <Key>Mackay</Key>
       <Forenames>Alexander S.</Forenames>
-      <Text>, R.D. (Cdr.)</Text>
+      <Text>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>10719</PageNumber>
     </MainItem>
   </ItemGroup>

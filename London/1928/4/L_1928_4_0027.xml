@@ -28,7 +28,10 @@
     <MainItem>
       <Key>Londonderry</Key>
       <Forenames>Most</Forenames>
-      <Text>Hon. Charles Stewart Henry, Marquess of, K.G., M.V.O., First Commissioner of Works and Public Builds ings</Text>
+      <Text>
+        <Honour>K.G.</Honour>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>7089</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -36,7 +39,10 @@
     <MainItem>
       <Key>Lonsdale</Key>
       <Forenames>Hugh Cecil</Forenames>
-      <Text>, Earl of, G. C.V.O., T.D., Knight, Order of the Garter</Text>
+      <Text>
+        <Honour>C.V.O.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>6557</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -85,7 +91,9 @@
       <Key>Macnaghten</Key>
       <Title>Hon. Sir</Title>
       <Forenames>Mal-</Forenames>
-      <Text>colm Martin, K.B.E., K.C., Justice of H.M. High Court of Justice</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+      </Text>
       <PageNumber>8325</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -117,7 +125,10 @@
       <Key>Middleton</Key>
       <Title>Sir</Title>
       <Forenames>John</Forenames>
-      <Text>, K.B.E., C.M.G., Governor and Commander in Chief of Newfoundland and its Dependencies</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>6345</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -145,7 +156,11 @@
     <MainItem>
       <Key>Milne</Key>
       <Forenames>Field</Forenames>
-      <Text>Marshal Sir George Francis, G.C.B., G.C.M.G., D.S.O., D.C.L., LL.D., Member of H.M. Council</Text>
+      <Text>
+        <Honour>G.C.B.</Honour>
+        <Honour>G.C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8537</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -161,7 +176,9 @@
     <MainItem>
       <Key>Mitchell-Innes</Key>
       <Forenames>Edward Alfred</Forenames>
-      <Text>, C.B.E., K.C., Recorder of Leeds</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>6410</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -169,7 +186,9 @@
     <MainItem>
       <Key>Morley</Key>
       <Forenames>Arthur</Forenames>
-      <Text>, O.B.E., Recorder of Huddersfield</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>8399</PageNumber>
     </MainItem>
     <SubItem>
@@ -237,7 +256,9 @@
     <MainItem>
       <Key>Peters</Key>
       <Forenames>William</Forenames>
-      <Text>, C.M.G., Commercial Secretary, First Grado, to H.M. Legation at Stockholm</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>7645</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -261,7 +282,9 @@
     <MainItem>
       <Key>Power</Key>
       <Forenames>James Aloysius</Forenames>
-      <Text>, M.C., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8169</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -286,7 +309,9 @@
     <MainItem>
       <Key>Reyntiens</Key>
       <Forenames>Nicholas Serge</Forenames>
-      <Text>, O.B.E., Commercial Secretary, First Grade, of Embassy in H.M.'s Diplomatic Service</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>6558</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -303,7 +328,9 @@
       <Key>Rodwell</Key>
       <Title>Sir</Title>
       <Forenames>Cecil Hunter</Forenames>
-      <Text>, K.C.M.G., Governor and Commander in Chief of Southern Rhodesia</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+      </Text>
       <PageNumber>6345</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -353,7 +380,9 @@
     <MainItem>
       <Key>Sigurdsson</Key>
       <Forenames>Asgeir</Forenames>
-      <Text>, O.B.E., H.M. ConsuL-General at Reykjavik</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>7769</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -390,7 +419,10 @@
       <Key>Sterry</Key>
       <Title>Sir</Title>
       <Forenames>Wasey</Forenames>
-      <Text>, Knight Bachelor, O.B.E., Judge of H.M. Supreme Court for Egypt</Text>
+      <Text>
+        <Honour>Knight Bachelor</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>7896</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -413,7 +445,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Strathmoie</Key>
-      <Text>and Kinghorne, Claude George, Earl of, G.C.V.O., T.D., Knight, Order of the Thistle</Text>
+      <Text>
+        <Honour>G.C.V.O.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>6557</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -430,7 +465,12 @@
     <MainItem>
       <Key>Sykes</Key>
       <Title>Major</Title>
-      <Text>General Sir Frederick Hugh, G.B.E., K.C.B., C.M.G., M.P., Governor of Bombay</Text>
+      <Text>
+        <Honour>G.B.E.</Honour>
+        <Honour>K.C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>6856</PageNumber>
     </MainItem>
     <SubItem>
@@ -458,7 +498,9 @@
     <MainItem>
       <Key>Turner</Key>
       <Forenames>Richard Males Arundel</Forenames>
-      <Text>, O.B.E., Commercial Secretary, First Grade, to H.M. Residency at Cairo</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>7014</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -466,7 +508,9 @@
     <MainItem>
       <Key>Waller</Key>
       <Forenames>Maurice Lyndham</Forenames>
-      <Text>, C.B., Knight</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>7124</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -506,7 +550,10 @@
     <MainItem>
       <Key>Worthington</Key>
       <Forenames>Evans</Forenames>
-      <Text>, Rt. Hon. Sir Laming, Bart., G.B.E., President of H.Mi. Council</Text>
+      <Text>
+        <Honour>Bart</Honour>
+        <Honour>G.B.E.</Honour>
+      </Text>
       <PageNumber>8537</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -515,7 +562,9 @@
       <Key>Wright</Key>
       <Title>Sir</Title>
       <Forenames>Alexander Kemp</Forenames>
-      <Text>, K.B.E., Commissioner for the purposes of the Educational Endowments (Scotland) Act, 1928</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+      </Text>
       <PageNumber>7771</PageNumber>
     </MainItem>
   </ItemGroup>

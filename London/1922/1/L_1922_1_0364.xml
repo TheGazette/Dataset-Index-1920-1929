@@ -161,7 +161,9 @@
     <MainItem>
       <Key>Collingwood</Key>
       <Forenames>Alfred Ernest</Forenames>
-      <Text>, change of name by deed poll to A.E. Collingwood Hall</Text>
+      <Text>
+        <Honour>A.E.</Honour>
+      </Text>
       <PageNumber>1137</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -465,10 +467,26 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Pret</Forenames>
-      <Text>, Marion Barbara, chanpe of name by deed poll to M. B. Carstairs</Text>
+      <Key>de Langue</Key>
+      <Forenames>Oscar Gerard</Forenames>
+      <Text>, change of name by deed poll to O. G. de Langue-Querfeldt von der Seedeck</Text>
+      <PageNumber>1764</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Pret</Key>
+      <Forenames>Marion Barbara</Forenames>
+      <Text>, chanpe of name by deed poll to M. B. Carstairs</Text>
       <PageNumber>1652</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Tink</Key>
+      <Forenames>Sarah Ann Newbould</Forenames>
+      <Text>(creditors)</Text>
+      <PageNumber>2675</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

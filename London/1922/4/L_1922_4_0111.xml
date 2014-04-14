@@ -320,7 +320,9 @@
       <Key>Norris</Key>
       <Title>Capt.</Title>
       <Forenames>W. A.</Forenames>
-      <Text>, M.B.E. (rel. temp, commn.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>7209</PageNumber>
     </MainItem>
     <SubItem>
@@ -381,15 +383,19 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, Lt. M. M. (rel. temp. commn.)</Text>
+      <Key>O'Brien</Key>
+      <Title>Lt.</Title>
+      <Forenames>M. M.</Forenames>
+      <Text>(rel. temp. commn.)</Text>
       <PageNumber>8303</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Gornian, Lt. A. R. (resigns commn. and retains rank of Lt.)</Text>
+      <Key>O'Gornian</Key>
+      <Title>Lt.</Title>
+      <Forenames>A. R.</Forenames>
+      <Text>(resigns commn. and retains rank of Lt.)</Text>
       <PageNumber>8527</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -411,8 +417,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Toole, Capt. N. D. G. (resigns commn. and retains rank of Capt.)</Text>
+      <Key>O'Toole</Key>
+      <Title>Capt.</Title>
+      <Forenames>N. D. G.</Forenames>
+      <Text>(resigns commn. and retains rank of Capt.)</Text>
       <PageNumber>8117</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -466,7 +474,9 @@
       <Key>Parks</Key>
       <Title>Lt.</Title>
       <Forenames>H. J.</Forenames>
-      <Text>, M.M. (retirement)</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>7796</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -515,7 +525,9 @@
       <Key>Peck</Key>
       <Title>Capt.</Title>
       <Forenames>L. J.</Forenames>
-      <Text>, M.C. (corr. of title)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8527</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -700,7 +712,9 @@
       <Key>Pogson</Key>
       <Title>Lt. (on prob.)</Title>
       <Forenames>L. V. J.</Forenames>
-      <Text>, M.C. (rel. temp, commn.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7951</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -953,7 +967,9 @@
     <MainItem>
       <Key>Rayne</Key>
       <Title>Capt.</Title>
-      <Text>PC(retirement)</Text>
+      <Text>
+        <Honour>PC-</Honour>
+      </Text>
       <PageNumber>7051</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -978,7 +994,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Reed</Key>
-      <Text>tapt. G. S., O.B.E. (resigns commn. and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>8117</PageNumber>
     </MainItem>
   </ItemGroup>

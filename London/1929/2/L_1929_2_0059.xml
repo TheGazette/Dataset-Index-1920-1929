@@ -207,8 +207,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hara, 0. J</Text>
+      <Key>O'Hara</Key>
+      <Text>0. J</Text>
       <PageNumber>2766</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -221,8 +221,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, C. T :</Text>
+      <Key>O'Neill</Key>
+      <Forenames>C. T</Forenames>
+      <Text>:</Text>
       <PageNumber>3694</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1288,7 +1289,9 @@
       <Key>Radnor</Key>
       <Title>Sir</Title>
       <Forenames>Charles Leyshon Dillwyn-Venables-Llewelyn</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4118</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1296,7 +1299,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Essex</Key>
-      <Text>: Gibbons, Colonel Thomas, D.S.O., T.D</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>2437</PageNumber>
     </MainItem>
     <SubItem>
@@ -1341,7 +1346,9 @@
     </MainItem>
     <SubItem>
       <Text>
+        <Honour>M.C.</Honour>
         <PageNumber>3520</PageNumber>
+        <Honour>D. S.O.</Honour>
       </Text>
       <PageNumber>3520</PageNumber>
     </SubItem>
@@ -1349,7 +1356,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Norfolk</Key>
-      <Text>: Ailwyn, Lt.-Col. Ronald Townshend, Baron, D.S.O., M.C</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>2597</PageNumber>
     </MainItem>
     <SubItem>
@@ -1360,7 +1370,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Radnor</Key>
-      <Text>: Evans, Brig. General Horatio James, C.M.G. J.P</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>2364</PageNumber>
     </MainItem>
     <SubItem>

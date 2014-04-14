@@ -56,7 +56,9 @@
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Pe</Forenames>
-      <Text>»y, M.B.E., Officer, Order ol the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3807</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -78,7 +80,9 @@
       </Key>
       <Title>Lt. (T./Capt.)</Title>
       <Forenames>Robert Allan Grant</Forenames>
-      <Text>, M.C., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>13</PageNumber>
       <PageNumber>78</PageNumber>
     </MainItem>
@@ -183,7 +187,9 @@
       <Key>Teo</Key>
       <Title>Capt. (T. /Maj.)</Title>
       <Forenames>Charles Cliff</Forenames>
-      <Text>ord, M.C.. Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1378</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -218,7 +224,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Temperler</Key>
-      <Text>. Charles, M.B.E., Officer, Order of the British Empire</Text>
+      <Forenames>Charles</Forenames>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3807</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -245,7 +254,9 @@
     <MainItem>
       <Key>Temple</Key>
       <Forenames>Alfred George</Forenames>
-      <Text>, F.S.A.,Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>3</PageNumber>
       <PageNumber>3432</PageNumber>
     </MainItem>
@@ -356,7 +367,12 @@
   <ItemGroup>
     <MainItem>
       <Key>Thorn</Key>
-      <Text>. Col. George St. Clair, C.B., C.M.G.,^ M.B., Commander, Order of the British Empire</Text>
+      <Title>Col.</Title>
+      <Forenames>George St. Clair</Forenames>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>1374</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -414,7 +430,9 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Edward George</Forenames>
-      <Text>, M.D., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>1238</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -487,7 +505,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>Peter David</Forenames>
-      <Text>, M.V.O., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>3773</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -549,7 +569,9 @@
       </Key>
       <Title>Professor</Title>
       <Forenames>William Thelwall</Forenames>
-      <Text>, F.R.C.S., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>1239</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -579,7 +601,9 @@
       </Key>
       <Title>Miss</Title>
       <Forenames>Edith Marie</Forenames>
-      <Text>, O.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>2261</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -641,7 +665,9 @@
       </Key>
       <Title>Lt. Cdr. (A./Comdr.)</Title>
       <Forenames>James</Forenames>
-      <Text>, O.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3773</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -742,7 +768,9 @@
     <MainItem>
       <Key>Thompson</Key>
       <Forenames>Percy</Forenames>
-      <Text>, C.B., Knight Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>3760</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -948,7 +976,10 @@
     <MainItem>
       <Key>Thornhill</Key>
       <Title>Maj.</Title>
-      <Text>&amp; Bt. Lt.-Col. (T./Lt.-Col.) (Local Col.) Cudbert John Massy, D.S.O., Companion, St. Michael St. George</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1373</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -976,7 +1007,9 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Reginald Ernest</Forenames>
-      <Text>, M.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3773</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -998,7 +1031,9 @@
       <PageNumber>4</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Commander, Royal Victorian Order .. .. .»</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>6</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1009,7 +1044,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>Robert Lawrence</Forenames>
-      <Text>, D.L., J.P., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.L.</Honour>
+      </Text>
       <PageNumber>3773</PageNumber>
     </MainItem>
   </ItemGroup>

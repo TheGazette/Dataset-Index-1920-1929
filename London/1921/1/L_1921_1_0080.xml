@@ -3,7 +3,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Davies</Key>
-      <Text>. Capt. Evan S. (rel. commn. and retains rank of Capt.)</Text>
+      <Title>Capt.</Title>
+      <Forenames>Evan S.</Forenames>
+      <Text>(rel. commn. and retains rank of Capt.)</Text>
       <PageNumber>1259</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -29,7 +31,7 @@
       <PageNumber>1032</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Bel. commn. and retains rank of Lt.</Text>
+      <Text>Bel. commn. and retains rank of Lt</Text>
       <PageNumber>2166</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -80,7 +82,9 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>Herbert Rosser</Forenames>
-      <Text>, M.C. (rel. commn. on completion of service and retains rank.of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>265</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -113,7 +117,9 @@
       </Key>
       <Title>temp. Capt.</Title>
       <Forenames>J. D.</Forenames>
-      <Text>, M.C. (rel. commn. on completion of service and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1765</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -161,7 +167,9 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>J. M.</Forenames>
-      <Text>, M.C. (rel. commn. on completion of service, and retains rank of . Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1544</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -255,7 +263,9 @@
       </Key>
       <Title>temp. Capt.</Title>
       <Forenames>R. L.</Forenames>
-      <Text>, M.B.E. (rel. commn. on completion of service, and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>1763</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -286,7 +296,10 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>temn. Capt. (Lt., T.F.) T. H., D.S.O., M.C. (rel. temp. commn.) .'</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2545</PageNumber>
     </MainItem>
   </ItemGroup>

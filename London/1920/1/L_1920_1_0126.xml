@@ -28,7 +28,9 @@
       <Key>Colchester-Wemyss</Key>
       <Title>Capt.</Title>
       <Forenames>Maynard Francis</Forenames>
-      <Text>, C.B.E., Knight Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>37150</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -86,7 +88,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Harold William</Forenames>
-      <Text>, O.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3763</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -157,7 +161,10 @@
       <Key>Cole-Hamilton</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Claud George</Forenames>
-      <Text>, C.M.G., D.S.O., Bar to D.S.O</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1218</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -273,8 +280,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>The</Forenames>
-      <Text>Lady Evelyn Anne, Officer, Order of the British Empire</Text>
+      <Title>The Lady</Title>
+      <Forenames>Evelyn Anne</Forenames>
+      <Text>, Officer, Order of the British Empire</Text>
       <PageNumber>3781</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -407,7 +415,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Colt</Key>
-      <Text>. Thomas Archer, L.R.C.P., M.R.C.S., Officer, Order of the British Empire</Text>
+      <Forenames>Thomas Archer</Forenames>
+      <Text>, L.R.C.P., M.R.C.S., Officer, Order of the British Empire</Text>
       <PageNumber>3781</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -423,7 +432,9 @@
     <MainItem>
       <Key>Coltman-Rogers</Key>
       <Forenames>Muriel Augusta</Forenames>
-      <Text>^ Gillian, Mrs., O.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3771</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -431,7 +442,9 @@
     <MainItem>
       <Key>Colyer</Key>
       <Forenames>James Frank</Forenames>
-      <Text>, F.R.C.S., Knight Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>1237</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -457,7 +470,9 @@
     <MainItem>
       <Key>Comber</Key>
       <Forenames>Charles Thomas Thornton</Forenames>
-      <Text>, M.D., M.R.C.S., L.R.C.P., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>1238</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -680,7 +695,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>Frank Alexander</Forenames>
-      <Text>,D.C.M., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>3823</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -896,8 +913,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>The Revd</Forenames>
-      <Text>. William Henry Hewlett, Member, Order of the British Empire</Text>
+      <Title>The Revd.</Title>
+      <Forenames>William Henry Hewlett</Forenames>
+      <Text>, Member, Order of the British Empire</Text>
       <PageNumber>3823</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -912,7 +930,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Corfield</Key>
-      <Text>. The Hon. Mary Hay. Mrs.. Officer, Order of the British Empire</Text>
+      <Title>The Hon.</Title>
+      <Forenames>Mary Hay</Forenames>
+      <Text>. Mrs.. Officer, Order of the British Empire</Text>
       <PageNumber>3781</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -920,7 +940,9 @@
     <MainItem>
       <Key>Corkhill</Key>
       <Forenames>Percy Fullerton</Forenames>
-      <Text>, O.B.E., Commander; Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3763</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -961,7 +983,9 @@
     <MainItem>
       <Key>Cornwall</Key>
       <Forenames>T.</Forenames>
-      <Text>/Maj. Charles Ernest, Companion, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>1218</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1001,7 +1025,13 @@
   <ItemGroup>
     <MainItem>
       <Key>Costello</Key>
-      <Text>.Brig.-Gen.EdmundWillian . V.C., C.M.G., D.S.O., Conmander, Royal Victorian Order</Text>
+      <Title>Brig.</Title>
+      <Text>
+        <Honour>V.C.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>6</PageNumber>
     </MainItem>
   </ItemGroup>

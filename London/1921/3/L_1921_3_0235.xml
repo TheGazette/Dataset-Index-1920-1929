@@ -15,7 +15,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Capt</Forenames>
-      <Text>, G. O. De R., M.C. (rel. appt, as G.S.O., 2nd Gr., Baluchistan Dist.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6775</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -32,7 +34,10 @@
       <Key>Charteris</Key>
       <Title>Col. (T./Col. on Staff)</Title>
       <Forenames>J.</Forenames>
-      <Text>, C.M.G., D.S.O. (D.A. and Q.M.G., E. Comd.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6774</PageNumber>
     </MainItem>
     <SubItem>
@@ -45,7 +50,9 @@
       <Key>Chatterton</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>G. D. L.</Forenames>
-      <Text>, D.S.O. (Admve. Comdt., graded as A.Q.M.G.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5836</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -54,7 +61,9 @@
       <Key>Chesney</Key>
       <Title>Maj. (temp. Lt.-Col.)</Title>
       <Forenames>C. H. R.</Forenames>
-      <Text>, D.S.O. (Asst. Dir. of Works)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5838</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -80,7 +89,9 @@
       <Key>Chopping</Key>
       <Title>Lt.-Col. and Bt. Col.</Title>
       <Forenames>A.</Forenames>
-      <Text>, C. B., C.M.G. (Asst. Dir. of Medical Servs.) .'</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>5839</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -128,7 +139,10 @@
       <Key>Climo</Key>
       <Title>Maj.-Gen.</Title>
       <Forenames>S.</Forenames>
-      <Text>' H., C.B., D. S.O. (Comdg. Waziristan Force)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>D. S.O.</Honour>
+      </Text>
       <PageNumber>5833</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -150,7 +164,9 @@
       <Key>Cobb</Key>
       <Title>Maj.</Title>
       <Forenames>C</Forenames>
-      <Text>, O.B.E. (rel. appt. as D.A.Q.M.G.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>6775</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -194,7 +210,12 @@
     <MainItem>
       <Key>Collins</Key>
       <Forenames>Capt</Forenames>
-      <Text>, G. Edward, M.C., see Edward-Collins, Capt. G., M.C. Coningham, Lt.-Col. F. E., C.M.G., D.S.O. (G.S.O., 2nd Gr.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5834</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -219,11 +240,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Cornish</Key>
-      <Text>. Maj. A. W. D., D.S.O., M.C. (Asst. Mil. Secy.)</Text>
+      <Title>Maj.</Title>
+      <Forenames>A. W. D.</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5841</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Camp. Comdt</Text>
+      <Text>Camp. Comdt.</Text>
       <PageNumber>5841</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -241,7 +267,10 @@
       <Key>Cox</Key>
       <Title>Capt.</Title>
       <Forenames>S. J. Somers</Forenames>
-      <Text>, M.C., see Somers-Cox, Capt. S. J., M.C. Craddock, Capt. A. B. (Staff Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5835</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -250,7 +279,9 @@
       <Key>Craig</Key>
       <Title>Lt.</Title>
       <Forenames>C. C.</Forenames>
-      <Text>(A.D.C.)</Text>
+      <Text>
+        <Honour>A.D.C.</Honour>
+      </Text>
       <PageNumber>5841</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -268,7 +299,10 @@
       <Key>Craster</Key>
       <Title>Maj. (temp. Lt.-Col.)</Title>
       <Forenames>G.</Forenames>
-      <Text>, 'D.S.O., O.B.E. . ,(A.A. and Q.M.G. to I.G. of Communications)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>5836</PageNumber>
     </MainItem>
     <SubItem>
@@ -417,10 +451,24 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Burgh</Key>
+      <Title>Maj. and Bt. Lt.-Col.</Title>
+      <Forenames>E.</Forenames>
+      <Text>
+        <Honour>D. S.O.</Honour>
+      </Text>
+      <PageNumber>5834</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Dealy</Key>
       <Title>Col. (temp. Brig.-Gen.)</Title>
       <Forenames>J. A.</Forenames>
-      <Text>, C.M.G., D.S.O. (Brig.Gen., R.E.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5836</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -429,7 +477,9 @@
       <Key>Deane</Key>
       <Title>Lt.</Title>
       <Forenames>J.</Forenames>
-      <Text>, D.C.M. (G.S.O., 3rd Gr., Rawalpindi Dist.)</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>6774</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -438,7 +488,9 @@
       <Key>Dennys</Key>
       <Title>Capt. (temp. Maj.)</Title>
       <Forenames>L. E.</Forenames>
-      <Text>, M.C. (Intelligence Offr., graded as G.S.O., 2nd Gr.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5840</PageNumber>
     </MainItem>
     <SubItem>
@@ -491,7 +543,9 @@
       <Key>Douglas</Key>
       <Title>Col.</Title>
       <Forenames>A. P.</Forenames>
-      <Text>, C.M.G. (Dep. Dir. of Ordnance Services)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>5838</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -509,7 +563,9 @@
       <Key>Drayson</Key>
       <Title>Capt. (temp. Major)</Title>
       <Forenames>F. A.</Forenames>
-      <Text>, M.C. (Dep. Asst. Dir. of Army Signals)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5837</PageNumber>
     </MainItem>
     <SubItem>
@@ -531,7 +587,10 @@
       <Key>Duncan</Key>
       <Title>Lt. (temp. Capt.)</Title>
       <Forenames>W. J. C</Forenames>
-      <Text>, D. S.O., M.C. (Staff Capt.)</Text>
+      <Text>
+        <Honour>D. S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5835</PageNumber>
       <PageNumber>6774</PageNumber>
     </MainItem>
@@ -541,7 +600,9 @@
       <Key>Dunlop</Key>
       <Title>Maj. and Bt. Lt.-Col.</Title>
       <Forenames>W. B.</Forenames>
-      <Text>, D.S.O. (Asst. Dir. of Supplies and Transport)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5837</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -568,7 +629,10 @@
       <Key>Earle</Key>
       <Title>Maj. and Bt. Lt.-Col. (temp. Col.)</Title>
       <Forenames>R. G.</Forenames>
-      <Text>, C.M.G., D.S.O. (Dep. Dir. of Army Signals)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5837</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -586,7 +650,9 @@
       <Key>Edward-Collins</Key>
       <Title>Capt.</Title>
       <Forenames>G.</Forenames>
-      <Text>, M.C. (G.S.O., 2nd Gr., Kohat Dist.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6773</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -595,7 +661,9 @@
       <Key>Edwards</Key>
       <Title>Lt. (temp. Capt.)</Title>
       <Forenames>A. L.</Forenames>
-      <Text>, M.C. (Staff Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5835</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -604,7 +672,10 @@
       <Key>Egerton</Key>
       <Title>Capt. (temp. Maj.)</Title>
       <Forenames>C. H.</Forenames>
-      <Text>, D.S.O., M.C. (Dep. Asst. Dir. of Works)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5838</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -624,7 +695,9 @@
       <Key>Elsmie</Key>
       <Title>Maj.-Gen.</Title>
       <Forenames>A. M. S.</Forenames>
-      <Text>, C.B., C. M.G. (rel. appt. as G.O. comdg. 17th Ind. Inf. Bde.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>6774</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -633,7 +706,9 @@
       <Key>Errington</Key>
       <Title>Capt. (temp. Maj.)</Title>
       <Forenames>J. P.</Forenames>
-      <Text>, O.B.E. (D.A.A.G.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>5835</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -651,7 +726,9 @@
       <Key>Etheridge</Key>
       <Title>Maj. (temp. Lt.-Col.)</Title>
       <Forenames>F.</Forenames>
-      <Text>, D.S.O. (A.A. and Q.M.G.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5834</PageNumber>
     </MainItem>
     <SubItem>
@@ -666,7 +743,10 @@
       <Key>Eustace</Key>
       <Title>Maj.-Gen.</Title>
       <Forenames>A. H.</Forenames>
-      <Text>, C.B., C. B.E., D.S.O. (Brig. Comdr.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5833</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -684,7 +764,10 @@
       <Key>Fagan</Key>
       <Title>Lt.-Col. and Bt. Col. (temp. Brig.-Gen.)</Title>
       <Forenames>E. A.</Forenames>
-      <Text>, C.M.G., D. S.O. (Brig. Comdr.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D. S.O.</Honour>
+      </Text>
       <PageNumber>5833</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -711,7 +794,9 @@
       <Key>Fenton</Key>
       <Title>Maj. (temp. Lt.-Col.)</Title>
       <Forenames>G. C. V.</Forenames>
-      <Text>, D.S.O. (Asst. Dir. of Works)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5838</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -728,7 +813,9 @@
       <Key>Finlay</Key>
       <Title>Maj. (temp. Lt.-Col.)</Title>
       <Forenames>R. F.</Forenames>
-      <Text>, D.S.O. (G.S.O., 1st Gr.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5833</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -757,7 +844,10 @@
       <Key>Fisher</Key>
       <Title>Capt. (temp. Maj.)</Title>
       <Forenames>C. J.</Forenames>
-      <Text>, D. S.O., O.B.E. (D.A.A. and Q.M:G.)</Text>
+      <Text>
+        <Honour>D. S.O.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>5834</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -840,7 +930,9 @@
       <Key>Foulkes</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>T. H.</Forenames>
-      <Text>, F.R.C.S. (Asst. Dir. of Med. Servs.)</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>5839</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -849,7 +941,10 @@
       <Key>Franklin</Key>
       <Title>Maj. and Bt. Lt.-Col.</Title>
       <Forenames>H. S. E.</Forenames>
-      <Text>, C.M.G., D.S.O. (Dep. Dir. of Army Signals)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5836</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -857,7 +952,9 @@
     <MainItem>
       <Key>Fraser</Key>
       <Title>Maj.</Title>
-      <Text>. A. N., D.S.O., M.B. (Dep. Asst. Dir. of Medical Services)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5839</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -877,7 +974,9 @@
       <Key>Free</Key>
       <Title>Capt.</Title>
       <Forenames>C. W.</Forenames>
-      <Text>, M.C. (Staff Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6774</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -889,7 +988,7 @@
       <PageNumber>5834</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Rel. appt, as G.S.O., 3rd Gr</Text>
+      <Text>Rel. appt, as G.S.O., 3rd Gr.</Text>
       <PageNumber>6775</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -898,7 +997,9 @@
       <Key>Gain</Key>
       <Title>Capt. (temp. Maj.)</Title>
       <Forenames>J. C</Forenames>
-      <Text>, M.C. (Dep. Asst. Dir. of Supplies and Transport)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5837</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -938,7 +1039,9 @@
       <Key>Gibbs</Key>
       <Title>Maj.</Title>
       <Forenames>H. E.</Forenames>
-      <Text>, D.S.O. (Asst. Dir. of Vety. Servs.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5839</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -947,7 +1050,10 @@
       <Key>Gill</Key>
       <Title>Bt. Lt.-Col.</Title>
       <Forenames>G. H.</Forenames>
-      <Text>, C.M.G., D.S.O. (D.A.Q.M.G., S. Comd.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6774</PageNumber>
     </MainItem>
   </ItemGroup>

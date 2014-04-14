@@ -182,8 +182,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Norman</Key>
-      <Forenames>H. N. St</Forenames>
-      <Text>. V, F. C</Text>
+      <Forenames>H. N. St. V</Forenames>
+      <Text>, F. C</Text>
       <PageNumber>371</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -203,8 +203,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien-Saint, J. T</Text>
+      <Key>O'Brien-Saint</Key>
+      <Forenames>J. T.</Forenames>
       <PageNumber>1052</PageNumber>
     </MainItem>
     <KeyDitto>___ ___ ___ ...</KeyDitto>
@@ -229,15 +229,16 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Grady, S. C</Text>
+      <Key>O'Grady</Key>
+      <Forenames>S. C.</Forenames>
       <PageNumber>606</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Malley, C. J. S. ^</Text>
+      <Key>O'Malley</Key>
+      <Forenames>C. J. S.</Forenames>
+      <Text>^</Text>
       <PageNumber>47</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -775,7 +776,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Smith</Key>
-      <Text>.B. 'F.O.'</Text>
+      <Forenames>B.</Forenames>
+      <Text>'F.O.'</Text>
       <PageNumber>1413</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -929,7 +931,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stonehouse</Key>
-      <Text>. A. D</Text>
+      <Forenames>A. D.</Forenames>
       <PageNumber>2244</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1449,7 +1451,10 @@
     <MainItem>
       <Key>Denbigh</Key>
       <Forenames>Williams</Forenames>
-      <Text>Wynn, Colonel Robert William Herbert Watkin, C.B., D.S.O., T.D</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1571</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1483,14 +1488,18 @@
     <MainItem>
       <Key>Carnarvon</Key>
       <Forenames>Travers</Forenames>
-      <Text>, Brig. Gen. Jonas Hamilton du Boulav, C. B., C.M.G</Text>
+      <Text>
+        <Honour>C.M.G</Honour>
+      </Text>
       <PageNumber>47</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Edinburgh</Key>
-      <Text>McCrae, Sir George, D. S.O., resignation of commission with permission to wear uniform</Text>
+      <Text>
+        <Honour>D. S.O.</Honour>
+      </Text>
       <PageNumber>686</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1498,7 +1507,9 @@
     <MainItem>
       <Key>Lancaster</Key>
       <Forenames>Hollins</Forenames>
-      <Text>, Sir Arthur Meyrick, Bart</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>1141</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1510,7 +1521,10 @@
       <PageNumber>38</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Plender, Sir William, Bt., G.B.E., J.P</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>G.B.E.</Honour>
+      </Text>
       <PageNumber>538</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1541,7 +1555,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Westmorland</Key>
-      <Text>. Wvnne, Gen. Sir Arthur Singleton, G.C.B.,</Text>
+      <Forenames>Wvnne</Forenames>
+      <Text>
+        <Honour>G.C.B.</Honour>
+      </Text>
       <PageNumber>444</PageNumber>
     </MainItem>
     <SubItem>

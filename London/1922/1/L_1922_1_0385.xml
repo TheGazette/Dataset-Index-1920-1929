@@ -304,7 +304,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hgtton</Key>
-      <Text>Gnorge Daniel Finch Hawkins, Hester Lucretia Eliza</Text>
+      <Forenames>Gnorge Daniel Finch Hawkins</Forenames>
+      <Text>, Hester Lucretia Eliza</Text>
       <PageNumber>1243</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -405,7 +406,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Henstock</Key>
-      <Forenames>Lucy</Forenames>
+      <Title>Lucy .</Title>
       <PageNumber>1337</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -426,7 +427,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Herbert</Key>
-      <Forenames>Charlotte</Forenames>
+      <Title>Charlotte .</Title>
       <PageNumber>503</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -442,7 +443,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Herz</Key>
-      <Forenames>Albert</Forenames>
+      <Title>Albert .</Title>
       <PageNumber>2467</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -458,8 +459,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hewett</Key>
-      <Forenames>Anne</Forenames>
-      <Text>... —</Text>
+      <Title>Anne.</Title>
+      <Text>.. —</Text>
       <PageNumber>1238</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -468,8 +469,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Robert</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Robert</Forenames>
       <PageNumber>100</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -519,7 +520,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Higgins</Key>
-      <Text>Jacob, Mrs, Charlotte Emma</Text>
+      <Forenames>Jacob</Forenames>
+      <Text>, Mrs, Charlotte Emma</Text>
       <PageNumber>2466</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -533,8 +535,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hill</Key>
-      <Title>Mrs.</Title>
-      <Forenames>Annie</Forenames>
+      <Title>Mrs. Annie .</Title>
       <PageNumber>2093</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -543,8 +544,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Arthur Lloyd St</Forenames>
-      <Text>. Leger</Text>
+      <Forenames>Arthur Lloyd St. Leger</Forenames>
       <PageNumber>876</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -560,14 +560,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Hilliard</Key>
-      <Forenames>Ephraim</Forenames>
+      <Title>Ephraim .</Title>
       <PageNumber>1645</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hills</Key>
-      <Forenames>George</Forenames>
+      <Title>George .</Title>
       <PageNumber>1991</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -609,8 +609,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hiscock</Key>
-      <Forenames>John</Forenames>
-      <Text>._</Text>
+      <Title>John .</Title>
+      <Text>_</Text>
       <PageNumber>1849</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1217,8 +1217,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Sarah</Forenames>
-      <Text>... -</Text>
+      <Title>Sarah .</Title>
+      <Text>.. -</Text>
       <PageNumber>1881</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1376,8 +1376,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ —</KeyDitto>
       </Key>
-      <Forenames>Ann</Forenames>
-      <Text>.„</Text>
+      <Title>Ann .</Title>
+      <Text>„</Text>
       <PageNumber>1244</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1518,7 +1518,7 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Forenames>Janet</Forenames>
+      <Title>Janet .</Title>
       <PageNumber>2276</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1593,8 +1593,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Percival</Forenames>
-      <Text>de Courcy</Text>
+      <Forenames>Percival de Courcy</Forenames>
       <PageNumber>502</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2014,7 +2013,9 @@
       <Key>Lamb</Key>
       <Title>Sir</Title>
       <Forenames>Archibald</Forenames>
-      <Text>, Bart</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>95</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2030,8 +2031,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lambert</Key>
-      <Forenames>Alfred</Forenames>
-      <Text>... .-</Text>
+      <Title>Alfred .</Title>
+      <Text>.. .-</Text>
       <PageNumber>319</PageNumber>
     </MainItem>
   </ItemGroup>

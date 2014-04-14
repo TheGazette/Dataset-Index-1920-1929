@@ -3,7 +3,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Nicol</Key>
-      <Text>LI. I. S., M.C. (rel. comma, and re-tains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9286</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -85,7 +87,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>J. E. H.</Forenames>
-      <Text>, M.C. (apptd. to Tank Corps)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7095</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -130,7 +134,10 @@
       <Key>Nisbet</Key>
       <Title>Maj. (now Bt. Lt.-Col.)</Title>
       <Forenames>T.</Forenames>
-      <Text>, C.M.G., D.S.O. (retains temp, rank as Lt.-Col. whilst A.A. and Q.M.G. in India)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8840</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -146,8 +153,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Nitch</Key>
-      <Title>Lt. St.</Title>
-      <Forenames>J. B.</Forenames>
+      <Title>Lt. St. J.</Title>
+      <Forenames>B.</Forenames>
       <Text>(rel. commn. and retains rank of Lt.)</Text>
       <PageNumber>8152</PageNumber>
     </MainItem>
@@ -263,7 +270,9 @@
       <Key>Noaks</Key>
       <Title>Lt.</Title>
       <Forenames>S. H.</Forenames>
-      <Text>, M.C. (rel. conimn. and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8043</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -298,21 +307,29 @@
       </Key>
       <Title>temp. Capt.</Title>
       <Forenames>J. G. G.</Forenames>
-      <Text>, M.C. (rel. commn, on ceasing to be empld. and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7338</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Noblet</Key>
-      <Text>temrj. Chapln.. 4th CI., Rev. J. J., D.S.O. (rel. comnin. and to be Hon. Chanln.. 2nd CI.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>9600</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Noblett</Key>
-      <Text>. Lt. G. H.. M.C. (rel. commn. and granted rank of Capt.) -</Text>
+      <Title>Lt.</Title>
+      <Forenames>G. H.</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7557</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -332,7 +349,9 @@
       <Key>Noel</Key>
       <Title>Copt.</Title>
       <Forenames>J</Forenames>
-      <Text>B. L. (rel. temp, rank of Maj. on ceasing to be empld. with M.G.C. Infy.)</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>9602</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -359,7 +378,9 @@
       <Key>Norcock</Key>
       <Title>temp. Maj.</Title>
       <Forenames>H. L.</Forenames>
-      <Text>, D.S.O. (rel. commn. on completion of service and retains rank of Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7555</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -368,7 +389,9 @@
       <Key>Norman</Key>
       <Title>temp. Capt.</Title>
       <Forenames>A. C</Forenames>
-      <Text>, M.D. (rel. commn. and granted rank of Maj.) *</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>7544</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -401,7 +424,10 @@
       </Key>
       <Title>Maj. and Bt. Lt.-Col.</Title>
       <Forenames>C. C</Forenames>
-      <Text>, C.M.G., D.S.O. (Lt.-Col.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7211</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -435,7 +461,9 @@
       </Key>
       <Title>temp. Capt.</Title>
       <Forenames>H. L.</Forenames>
-      <Text>, M.C. (rel. commn. on completion of service and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7741</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -468,7 +496,9 @@
       </Key>
       <Title>temp.</Title>
       <Forenames>Lt</Forenames>
-      <Text>, R, D. S., M.C. (rel. actg. rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7936</PageNumber>
     </MainItem>
     <SubItem>
@@ -518,7 +548,7 @@
       <PageNumber>8956</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Rel. actg. Tank of Capt., Sab. Not.</Text>
+      <Text>Rel. actg. Tank of Capt., Sab. Not</Text>
       <PageNumber>9283</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -616,7 +646,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Northcote</Key>
-      <Text>. Lt. H. P.M.B.E. (rel. commn. and retains rank of Lt.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>H. P.</Forenames>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>8151</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -646,7 +680,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>H. J.</Forenames>
-      <Text>, O.B.E. (rel. conimn. and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>8569</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -739,7 +775,10 @@
       <Key>Norton-Griffiths</Key>
       <Title>Maj. Sir</Title>
       <Forenames>J.</Forenames>
-      <Text>, K.C.B., D.S.O. (rel. commn. and granted rank of Lt.-Col.)</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8362</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -748,7 +787,10 @@
       <Key>Nosworthy</Key>
       <Title>Bt. Maj.</Title>
       <Forenames>F. P.</Forenames>
-      <Text>, D.S.O., M.C. (temp. Maj. whilst a G.S.O., 2nd Gr.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9291</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -815,7 +857,9 @@
       <Key>Nugent</Key>
       <Title>Lt.</Title>
       <Forenames>C. E.</Forenames>
-      <Text>, M.C. (rel. commn. and granted rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8043</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -866,7 +910,9 @@
       <Key>Nunnerley</Key>
       <Title>Lt.</Title>
       <Forenames>M. T.</Forenames>
-      <Text>, M.C. (rel. commp. and granted rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7203</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -875,7 +921,9 @@
       <Key>Nurcombe</Key>
       <Title>Lt.</Title>
       <Forenames>F. C. J.</Forenames>
-      <Text>, M.C. (placed on ret. list on acc. of ill-health caused by wounds), Sub. Not</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7750</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -893,7 +941,9 @@
       <Key>Nutt</Key>
       <Title>temp. 2nd Lt.</Title>
       <Forenames>R. W.</Forenames>
-      <Text>(cashiered by sentence of a G.O.M.)</Text>
+      <Text>
+        <Honour>O.M.</Honour>
+      </Text>
       <PageNumber>7322</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -929,7 +979,9 @@
       <Key>Nye</Key>
       <Title>Lt.</Title>
       <Forenames>A. F.</Forenames>
-      <Text>, M.C. (rel. commn. and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9194</PageNumber>
     </MainItem>
   </ItemGroup>

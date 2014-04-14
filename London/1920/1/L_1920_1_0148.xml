@@ -29,7 +29,9 @@
     <MainItem>
       <Key>Xobnitz</Key>
       <Forenames>Frederick</Forenames>
-      <Text>, D.L., J.P., Knight Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.L.</Honour>
+      </Text>
       <PageNumber>3759</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -112,7 +114,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Thomas</Forenames>
-      <Text>, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>11</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -121,7 +125,9 @@
       <Key>Lomax</Key>
       <Title>Miss</Title>
       <Forenames>Edith Annie</Forenames>
-      <Text>, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3794</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -207,7 +213,9 @@
     <MainItem>
       <Key>Longdon</Key>
       <Forenames>Arthur Frederick</Forenames>
-      <Text>, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3795</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -266,7 +274,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Charles Lupton</Forenames>
-      <Text>, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3795</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -275,7 +285,9 @@
       <Key>Lord</Key>
       <Title>2nd Lt.</Title>
       <Forenames>Godfrey James</Forenames>
-      <Text>, M.M., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>1374</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -319,7 +331,9 @@
       <Key>Lovelock</Key>
       <Title>Maj.</Title>
       <Forenames>Charles Prior</Forenames>
-      <Text>, T.D., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>3845</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -359,7 +373,9 @@
     <MainItem>
       <Key>Lowry</Key>
       <Forenames>Thomas Martin</Forenames>
-      <Text>, O.B.E., D.Sc., F.R.S., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3768</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -392,7 +408,9 @@
       <Key>Luean</Key>
       <Title>Brig.-Gen.</Title>
       <Forenames>George Charles</Forenames>
-      <Text>, Earl of, C.B., Knight Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>3759</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -528,7 +546,11 @@
       <Key>Lugard</Key>
       <Title>Sir</Title>
       <Forenames>Frederick John Dealtry</Forenames>
-      <Text>, G.C.M.G., C.B., D.S.O., Member of H.M. Privy Council</Text>
+      <Text>
+        <Honour>G.C.M.G.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1</PageNumber>
       <PageNumber>969</PageNumber>
     </MainItem>
@@ -592,7 +614,9 @@
     <MainItem>
       <Key>Lund</Key>
       <Forenames>T.</Forenames>
-      <Text>/Lt. (A./Lt.-Col.) George Percy, M.C., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1374</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -679,7 +703,9 @@
       <Key>Lyle</Key>
       <Title>Capt.</Title>
       <Forenames>William James</Forenames>
-      <Text>, M.C, Companion, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>923</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -696,7 +722,9 @@
     <MainItem>
       <Key>Lyndon</Key>
       <Forenames>Arnold</Forenames>
-      <Text>, M.D., Officer.Order of the British Empire</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3795</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -732,7 +760,7 @@
       <PageNumber>1237</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Corr. of date of appt</Text>
+      <Text>Corr. of date of appt.</Text>
       <PageNumber>2060</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -765,7 +793,9 @@
     <MainItem>
       <Key>Macall</Key>
       <Forenames>William Neil</Forenames>
-      <Text>, M.D., CM., t Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3845</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -788,7 +818,9 @@
     <MainItem>
       <Key>Macardle</Key>
       <Forenames>Thomas Callan</Forenames>
-      <Text>, J.P., D.L., Knight Commander, Order of the British Empire ;</Text>
+      <Text>
+        <Honour>D.L.</Honour>
+      </Text>
       <PageNumber>3759</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -833,7 +865,9 @@
       <Key>McBride</Key>
       <Title>Capt.</Title>
       <Forenames>Stuart George</Forenames>
-      <Text>, M.C., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1374</PageNumber>
     </MainItem>
   </ItemGroup>

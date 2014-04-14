@@ -85,7 +85,9 @@
     <MainItem>
       <Key>Noble</Key>
       <Forenames>John Henry Brunei</Forenames>
-      <Text>, M.A., Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>4608</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -93,7 +95,9 @@
     <MainItem>
       <Key>Nolan</Key>
       <Forenames>Robert Howard</Forenames>
-      <Text>, C.B.E., Knight Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>3950</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -109,7 +113,9 @@
     <MainItem>
       <Key>Nugent</Key>
       <Forenames>Horace Dickinson</Forenames>
-      <Text>, C.M.G., Knight Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>3949</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -132,7 +138,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Ogilvie</Key>
-      <Text>Col. Walter Holland, C. ]VI.G.. M.B.. Companion, Order of the Bath</Text>
+      <Title>Col.</Title>
+      <Forenames>Walter Holland</Forenames>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3911</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -159,8 +169,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, Fit. Lt. Christopher Thomas. M.B., Officer, Order of the British Empire</Text>
+      <Key>O'Neill</Key>
+      <Title>Fit. Lt.</Title>
+      <Forenames>Christopher Thomas</Forenames>
+      <Text>. M.B., Officer, Order of the British Empire</Text>
       <PageNumber>3949</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -169,7 +181,9 @@
       <Key>Orr</Key>
       <Title>Col.</Title>
       <Forenames>Gerald Maxwell</Forenames>
-      <Text>, D. S.O., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>D. S.O.</Honour>
+      </Text>
       <PageNumber>2504</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -185,7 +199,9 @@
     <MainItem>
       <Key>Paddison</Key>
       <Forenames>George Frederick</Forenames>
-      <Text>, Companion, Star of India</Text>
+      <Text>
+        <Honour>Companion, Star of India</Honour>
+      </Text>
       <PageNumber>3945</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -202,21 +218,27 @@
     <MainItem>
       <Key>Papafio</Key>
       <Title>Benii.</Title>
-      <Text>min William Ouartey, M.D., see QuarteyPanafio, Benjamin William. M.D. Parr. Maj. Cecil William Chase, O.B.E.. Companion, St. Michael and St. George</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+        <Honour>M.D.</Honour>
+        <Honour>O.B.E.</Honour>
+        <Honour>Companion, St. Michael and St. George</Honour>
+      </Text>
       <PageNumber>3946</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Paxton</Key>
-      <Text>Thomas. Baronet</Text>
+      <Title>Thomas. Baronet .</Title>
       <PageNumber>2810</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Peake</Key>
-      <Text>Arthur Copson. LL.D., J.P.. Knighthood conferred on</Text>
+      <Forenames>Arthur Copson</Forenames>
+      <Text>. LL.D., J.P.. Knighthood conferred on</Text>
       <PageNumber>4606</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -242,7 +264,9 @@
     <MainItem>
       <Key>Pears</Key>
       <Forenames>Steuart Edmund</Forenames>
-      <Text>, CLE., Companion, Star of India</Text>
+      <Text>
+        <Honour>Companion, Star of India</Honour>
+      </Text>
       <PageNumber>3945</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -260,7 +284,9 @@
         <KeyDitto>___ —.—</KeyDitto>
       </Key>
       <Forenames>Louis Frederick</Forenames>
-      <Text>, C.B.E., Knighthood conferred on</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>4609</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -269,7 +295,9 @@
       <Key>Peel</Key>
       <Title>Maj.</Title>
       <Forenames>Basil Gerard</Forenames>
-      <Text>, D.S.O., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3949</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -289,14 +317,18 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Walter</Forenames>
-      <Text>, O.B.E., J.P., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4607</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Penn</Key>
-      <Text>fnspr. of Ord. Machinery 1st CI., and Maj. Bertie Howard, D.S.O., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3948</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -321,7 +353,10 @@
     <MainItem>
       <Key>Petrie</Key>
       <Forenames>David</Forenames>
-      <Text>, CLE., C.V.O., C.B.E., Member, Royal Commission Indian Civil Services</Text>
+      <Text>
+        <Honour>C.V.O.</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>4274</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -349,7 +384,9 @@
       <Key>Phillips</Key>
       <Title>Maj.</Title>
       <Forenames>Charles Keith</Forenames>
-      <Text>. O.B.E., Member, Royal Victorian OrcTer</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3522</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -358,7 +395,9 @@
       <Key>Pickard</Key>
       <Title>Qrmr. and Maj.</Title>
       <Forenames>Edward</Forenames>
-      <Text>, D.C.M., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>3948</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -400,7 +439,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Pitts</Key>
-      <Text>Miss Ada. Member, Order of the British Empire</Text>
+      <Title>Miss Ada.</Title>
+      <Forenames>Member</Forenames>
+      <Text>, Order of the British Empire</Text>
       <PageNumber>3951</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -409,7 +450,10 @@
       <Key>Plowman</Key>
       <Title>the Hon.</Title>
       <Forenames>George Thomas</Forenames>
-      <Text>, C.M.G.. Knighted</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>2640</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -432,14 +476,19 @@
   <ItemGroup>
     <MainItem>
       <Key>Power</Key>
-      <Text>Capt. (acts;. Maj.) Michael Patrick, M.C.. Officer, Order of the British Empire</Text>
+      <Title>Capt. (acts;. Maj.)</Title>
+      <Forenames>Michael Patrick</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2504</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Pratt</Key>
-      <Text>John William, Kniehted</Text>
+      <Forenames>John William</Forenames>
+      <Text>, Kniehted</Text>
       <PageNumber>2640</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -488,7 +537,9 @@
     <MainItem>
       <Key>Purshottamdas</Key>
       <Forenames>Thakurdas</Forenames>
-      <Text>, CLE., M.B.E., knighthood conferred on</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3013</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -496,7 +547,9 @@
     <MainItem>
       <Key>Quartey-Papafio</Key>
       <Forenames>Benjamin William</Forenames>
-      <Text>, M.D., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3951</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -521,7 +574,10 @@
       <Key>Raeburn</Key>
       <Title>Sir</Title>
       <Forenames>William Hannay</Forenames>
-      <Text>, M.P., Baronet</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>4608</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -545,7 +601,9 @@
     <MainItem>
       <Key>Rahimdad</Key>
       <Forenames>Khan</Forenames>
-      <Text>, Subadar, I.D.S.M., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.M.</Honour>
+      </Text>
       <PageNumber>2505</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -569,7 +627,9 @@
     <MainItem>
       <Key>Ranjitsinhji</Key>
       <Forenames>Vibhaji</Forenames>
-      <Text>, H.H., Lt.Col. Maharaja Shri Sir, G.B.E., K.C.S.I.. Maharaja Jam Sahib of Navanagar, Knight Grand Commander, Star of India</Text>
+      <Text>
+        <Honour>G.B.E.</Honour>
+      </Text>
       <PageNumber>3945</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -603,7 +663,11 @@
       <Key>Revnolds</Key>
       <Title>Lt.-Col. Sir</Title>
       <Forenames>James Philip</Forenames>
-      <Text>, D.S.O., T.D., Baronet</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>T.D.</Honour>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>2810</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -611,7 +675,9 @@
     <MainItem>
       <Key>Rhodes</Key>
       <Forenames>Campbell Ward</Forenames>
-      <Text>, O.B.E., to be dubbed at later date</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>2640</PageNumber>
     </MainItem>
     <SubItem>
@@ -640,7 +706,9 @@
       <Key>Rimmer</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Stanley</Forenames>
-      <Text>, T.D., Officer. Order of the British Empire</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>3948</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -657,7 +725,9 @@
       <Key>Ritsnn</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>John Ridlev</Forenames>
-      <Text>, T.D., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>3948</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -693,7 +763,9 @@
       <Key>Robinson</Key>
       <Title>Maj. Gen.</Title>
       <Forenames>Charles Walker</Forenames>
-      <Text>, C.B., Knisrht Commander, Order of the Bath</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>3944</PageNumber>
     </MainItem>
   </ItemGroup>

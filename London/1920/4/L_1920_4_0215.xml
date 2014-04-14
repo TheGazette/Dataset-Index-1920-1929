@@ -12,7 +12,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Mepsted</Key>
-      <Text>2nd Lit. (now Lt.) S., M.M. (corr. of surname)</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>10184</PageNumber>
     </MainItem>
     <SubItem>
@@ -77,7 +79,10 @@
       <Key>Merchant</Key>
       <Title>Capt.</Title>
       <Forenames>F. V.</Forenames>
-      <Text>, M.C., D.C.M. (retires on ret. pay and granted rank of Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>11188</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -113,7 +118,9 @@
       <Key>Meredith</Key>
       <Title>Capt.</Title>
       <Forenames>A. E.</Forenames>
-      <Text>, M.C. (retains temp, rank as Maj. whilst a Dep. Asst. Dir. of Army Sigs. in India)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>11593</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -183,7 +190,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>W. R.</Forenames>
-      <Text>, D.S.O. (temp. Maj. whilst G.S.O., 2nd Gr.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>9878</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -203,7 +212,9 @@
       <Key>Mereweather</Key>
       <Title>Lt.</Title>
       <Forenames>H.</Forenames>
-      <Text>MacC,, M.C. (rel. actg. rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10932</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -269,7 +280,9 @@
     </MainItem>
     <KeyDitto>___ ___</KeyDitto>
     <SubItem>
-      <Text>Lt., Manch. R., Infy., late Capt. and Bt. Maj., Serv. Bn., Welch R. ...£</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>12382</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -327,7 +340,9 @@
       <Key>Metcalfe</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>F. H.</Forenames>
-      <Text>, D.S.O. (h.p. list, retires on ret. pay and granted hon. rank of Brig.-Gen.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>11917</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -371,7 +386,10 @@
       </Key>
       <Title>Col.</Title>
       <Forenames>S. F.</Forenames>
-      <Text>, C.M.G.. D.S.O. (rel. temp, rank of Brig.Gen. and to be temp. Col. Comdt. whilst holding pre sent appt.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>12695</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -401,7 +419,10 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Lt</Forenames>
-      <Text>, L. H., O.B.E., M.C. (restd. to estabt.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9868</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -421,7 +442,9 @@
       <Key>Metters</Key>
       <Title>temp. Lt.</Title>
       <Forenames>H. H.</Forenames>
-      <Text>, M.C. (rel. commn. on completion of service and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>11082</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -561,8 +584,8 @@
         <KeyDitto>___</KeyDitto>
       </Key>
       <Title>temp. Lt.</Title>
-      <Forenames>T.</Forenames>
-      <Text>de W. (rel. commn. on completion of service and retains rank of Lt.)</Text>
+      <Forenames>T. de W</Forenames>
+      <Text>. (rel. commn. on completion of service and retains rank of Lt.)</Text>
       <PageNumber>12479</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -602,7 +625,9 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>J. K.</Forenames>
-      <Text>, M.C. (rel. commn. on completion of service and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>11334</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -613,7 +638,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>K. H.</Forenames>
-      <Text>, M.C. (rel. oommn. and granted rank of Maj.) 1191S Micholls, Capt. M. G. (retires on ret. pay and granted rank of Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>12026</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -633,7 +660,9 @@
       </Key>
       <Title>Lt.-Col. (Maj. ret., late R.E.)</Title>
       <Forenames>R.</Forenames>
-      <Text>, C.M.G. (temp. Maj. whilst D.A.D., War Office)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>9879</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -719,7 +748,7 @@
       <PageNumber>11893</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Rel. commn. and retains rank of Lt. ... ... .:</Text>
+      <Text>Rel. commn. and retains rank of Lt. ... ... .:.</Text>
       <PageNumber>12811</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -762,7 +791,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>E.</Forenames>
-      <Text>, M.B.E. (cashiered by sentence of a G.C.M.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>12122</PageNumber>
     </MainItem>
   </ItemGroup>

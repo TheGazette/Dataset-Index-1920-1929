@@ -52,7 +52,7 @@
       <PageNumber>2591</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Trd. tor.A.Kes.,Gen. List, Yeo.,fromWestCumb.Yeo</Text>
+      <Text>Trd. tor.A.Kes.,Gen. List, Yeo.,fromWestCumb.Yeo.</Text>
       <PageNumber>2591</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -68,7 +68,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Scrymgeonr</Key>
-      <Text>. Wedderbarn, L.t. -Col. (late Capt. Gord. Highrs.) H. (rel. commn. aud retains rank ofLt.-Col.)</Text>
+      <Forenames>Wedderbarn</Forenames>
+      <Text>, L.t. -Col. (late Capt. Gord. Highrs.) H. (rel. commn. aud retains rank ofLt.-Col.)</Text>
       <PageNumber>365</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -123,8 +124,8 @@
     <MainItem>
       <Key>Seeker</Key>
       <Title>Maj. (Capt. Res. of Off.)</Title>
-      <Forenames>J. St</Forenames>
-      <Text>. John (rel. commn. and retains rank of Maj. with permission to wear prescribed uniform)</Text>
+      <Forenames>J. St. John</Forenames>
+      <Text>(rel. commn. and retains rank of Maj. with permission to wear prescribed uniform)</Text>
       <PageNumber>556</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -236,7 +237,9 @@
       <Key>Sharid</Key>
       <Title>Lt.</Title>
       <Forenames>F. G.</Forenames>
-      <Text>, M.C. (rel. commn. and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>365</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -293,7 +296,10 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Capt</Forenames>
-      <Text>, (Bt. Maj.) VV., O.B.E. (Maj. T.A. Res., Regtl. List, R.E., from Tyne Elec. Engrs.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>2317</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -302,7 +308,9 @@
       <Key>Sharpe</Key>
       <Title>Lt.</Title>
       <Forenames>E. G.</Forenames>
-      <Text>, M.C. (rel. commn. aid granted rank of Capt) _</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>130</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -313,7 +321,12 @@
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Sharpe</Forenames>
-      <Text>, Qrmr., and Maj. Frederick William, M.B.E., D.C.M. (Qrmr., R.A.M.C., Gen. List and Capt. late R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+        <Honour>D.C.M.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1057</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -324,7 +337,9 @@
       </Key>
       <Title>Cant. (Bt. Maj.)</Title>
       <Forenames>U.</Forenames>
-      <Text>(R.A.M.C., Gen. List) (rel. commn. and retains rank)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1173</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -346,7 +361,9 @@
       </Key>
       <Title>Chapln., 2nd CI., Rev.</Title>
       <Forenames>H. E.</Forenames>
-      <Text>, . M A., T.D. (Chapln. 1st CI.)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>1270</PageNumber>
     </MainItem>
     <SubItem>
@@ -359,7 +376,9 @@
       <Key>Sharpies</Key>
       <Title>Capt.</Title>
       <Forenames>F. D.</Forenames>
-      <Text>, O.B.E. (rel. commn. and retains rank of Capt.) ... '</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>717</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -370,7 +389,9 @@
       </Key>
       <Title>Lt.-Col.</Title>
       <Forenames>W. E.</Forenames>
-      <Text>, T.D. (rel. ' commn. and retains rank of Lt.-Col., with permission to wear prescribed uniform)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>348</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -435,7 +456,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>R.</Forenames>
-      <Text>EL, M.D. (retired, having attaiuei the age limit and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>349</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -482,7 +505,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Shearburn</Key>
-      <Text>. Cadet Lance-Sjt. Victor George (2ud Lt., Gen. List for. service with Inf. Unit of Oxford Univ. Coat, Sen. Div., O.T.C.)</Text>
+      <Title>Cadet</Title>
+      <Forenames>Lance-</Forenames>
+      <Text>Sjt. Victor George (2ud Lt., Gen. List for. service with Inf. Unit of Oxford Univ. Coat, Sen. Div., O.T.C.)</Text>
       <PageNumber>532</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -569,7 +594,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sh</Key>
-      <Text>.ldon, Lt. H. S. (rel.commn. and . retains rank of Lt.)</Text>
+      <Text>ldon, Lt. H. S. (rel.commn. and . retains rank of Lt.)</Text>
       <PageNumber>347</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -607,7 +632,10 @@
       <Key>Shelmerdine</Key>
       <Title>Capt.</Title>
       <Forenames>H. N.</Forenames>
-      <Text>, M.B.E., M.C. (rel. coinmu. and retains lankofCapt.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>707</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -616,7 +644,9 @@
       <Key>Shepherd</Key>
       <Title>Lt.</Title>
       <Forenames>A.</Forenames>
-      <Text>, M.C. (trd. to 5th Bn. E. Staft. R. from 9th Bn. King's R.) Sub. Not</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>705</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -641,7 +671,11 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Title>Lt.</Title>
-      <Text>.CoL (Bt. Col.) W. C, O.B.E., T.D. (rel. commn. and retains rank with permission to wear prescribed uniform) ... ... ... Sheppard, Lt. W. H. L. (rel. commn. and retains rank of Lt.) ... Sheppee, 2nd Lt. H. V. (announcement in Gaz. of. 15th Dec</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>O.B.E.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>1921</PageNumber>
     </MainItem>
   </ItemGroup>

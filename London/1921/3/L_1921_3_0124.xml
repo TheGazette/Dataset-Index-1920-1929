@@ -16,7 +16,7 @@
       <PageNumber>6340</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Re!, commn. on completion of service, and retains rank of Lt</Text>
+      <Text>Re!, commn. on completion of service, and retains rank of Lt.</Text>
       <PageNumber>7044</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -27,7 +27,9 @@
       </Key>
       <Title>temp. Lt.-Col.</Title>
       <Forenames>W. S.</Forenames>
-      <Text>, C.M.G. (rel. commn. on completion of service, and granted rank of Col.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>6921</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -52,7 +54,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rickman</Key>
-      <Text>. J. (granted temp, rank as 2nd Lt. for services with Forces in E. Africa)</Text>
+      <Forenames>J.</Forenames>
+      <Text>(granted temp, rank as 2nd Lt. for services with Forces in E. Africa)</Text>
       <PageNumber>6342</PageNumber>
     </MainItem>
     <SubItem>
@@ -94,7 +97,9 @@
       </Key>
       <Title>Lt.-Col.</Title>
       <Forenames>R. B.</Forenames>
-      <Text>, D.S.O. (Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6546</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -103,7 +108,9 @@
       <Key>Riddell-Webster</Key>
       <Title>Capt. and Bt. Maj.</Title>
       <Forenames>T. S.</Forenames>
-      <Text>D.S.O. (seed, for service on the Staff)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7208</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -130,7 +137,9 @@
       <Key>Ridge-Jones</Key>
       <Title>late temp. Capt.</Title>
       <Forenames>Ivor</Forenames>
-      <Text>(temp. Capt,, R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>579</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -150,7 +159,9 @@
       </Key>
       <Title>Col. (tempt Brig.-Gen.)</Title>
       <Forenames>R. T. I.</Forenames>
-      <Text>, C.B. (temp. Maj.-Gen. whilst in comd. of Kohat Kurram Force)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>5460</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -182,7 +193,11 @@
       <Key>Ridout</Key>
       <Title>Col. Sir</Title>
       <Forenames>D</Forenames>
-      <Text>H., K.B.E., C.B., C.M.G. (Maj.-Gen.)</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>6545</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -270,7 +285,9 @@
       </Key>
       <Title>temp. 2nd Lt.</Title>
       <Forenames>W.</Forenames>
-      <Text>(rel. commn. on completion of service, and retains rank of 2nd Lt.) Robarts, Lt. (temp. Capt.) G. W., M.C. (rel. commn. and granted rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5316</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -290,7 +307,9 @@
       </Key>
       <Title>temp. Capt.</Title>
       <Forenames>W. R.</Forenames>
-      <Text>, M.C. (rel. commn. on completion of service, and retains rank of Capt,)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5628</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -344,7 +363,9 @@
       </Key>
       <Title>Lt. (now Capt.)</Title>
       <Forenames>A. W.</Forenames>
-      <Text>, M.C. (rems. seed, for service with R.C. of Sigs.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7362</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -354,7 +375,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>C. H. W.</Forenames>
-      <Text>, O.B.E. (granted temp, rank as Lt. for services with Forces in E. Africa)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>6338</PageNumber>
     </MainItem>
     <SubItem>
@@ -402,7 +425,9 @@
       </Key>
       <Title>temp. Capt.</Title>
       <Forenames>H.</Forenames>
-      <Text>, M.C. (rel. commn. on completion of service, and granted rank of Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6656</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -413,7 +438,9 @@
       </Key>
       <Title>Lt.-Col.</Title>
       <Forenames>H. B.</Forenames>
-      <Text>, O.B.E. (placed on h.p. list on acc. of illhealth on ceasing to be C.R.A., Malta)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>5709</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -424,7 +451,10 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>H. C</Forenames>
-      <Text>, D.S.O., M.V.O. Maj. Reg. Army Res. of Offrs., Ger_. List)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>6925</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -435,7 +465,9 @@
       </Key>
       <Title>temp.</Title>
       <Forenames>Lt</Forenames>
-      <Text>, H. C. W., M.C. (rel. commn. on completion of service, and granted rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7427</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -493,7 +525,9 @@
       </Key>
       <Title>temp. Capt.</Title>
       <Forenames>W.</Forenames>
-      <Text>, M.C. (rel. commn. on completion of service, and granted rank of Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7744</PageNumber>
     </MainItem>
   </ItemGroup>

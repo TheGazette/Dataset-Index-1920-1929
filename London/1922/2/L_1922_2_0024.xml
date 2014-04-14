@@ -5,7 +5,10 @@
       <Key>Muir</Key>
       <Title>Maj.</Title>
       <Forenames>Wingate Wemyss</Forenames>
-      <Text>, O.B.E., Member, 4th CL, Royal Victorian Order ... .,</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4715</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -13,7 +16,10 @@
     <MainItem>
       <Key>Miiller</Key>
       <Forenames>William Grenfell Max</Forenames>
-      <Text>, C.B., M.V.O., Knight Commander, St. Michael and St. George</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>4323</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -21,7 +27,9 @@
     <MainItem>
       <Key>Muthiah</Key>
       <Forenames>Chidambaram Muthiah Chettiyar Avargal</Forenames>
-      <Text>, M.R.Ry. Rao Sahib, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>2917</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -29,7 +37,9 @@
     <MainItem>
       <Key>Nelson</Key>
       <Forenames>Amos</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>2917</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -37,7 +47,9 @@
     <MainItem>
       <Key>Neylan</Key>
       <Forenames>Daniel</Forenames>
-      <Text>, C.B.E., to be dubbed at later date</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>2917</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -46,7 +58,10 @@
       <Key>Nicholson</Key>
       <Title>Col.</Title>
       <Forenames>Graham Henry Whalley</Forenames>
-      <Text>, C.M.G., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>4321</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -56,7 +71,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Walter Frederick</Forenames>
-      <Text>, C.B., Knight Commander, Order of the Bath</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>4322</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -65,7 +82,9 @@
       <Key>Nimmo</Key>
       <Title>Surg. Comdr.</Title>
       <Forenames>Frank Hutton</Forenames>
-      <Text>, R.N., Member, 4th CI., Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4324</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -73,7 +92,9 @@
     <MainItem>
       <Key>Nprmanby</Key>
       <Forenames>Gertrude Stansfield</Forenames>
-      <Text>, the . Marchioness of, Lady of Grace, St. John of Jerusalem</Text>
+      <Text>
+        <Honour>Lady of Grace, St. John of Jerusalem</Honour>
+      </Text>
       <PageNumber>4227</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -82,7 +103,11 @@
       <Key>North</Key>
       <Title>Capt.</Title>
       <Forenames>Dudley Burton Napier</Forenames>
-      <Text>, C.M.G., C.V.O., Companion, Star of India</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>C.V.O.</Honour>
+        <Honour>Companion, Star of India</Honour>
+      </Text>
       <PageNumber>4714</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -91,7 +116,12 @@
       <Key>Norton-Griffiths</Key>
       <Title>Lt.-Col. Sir</Title>
       <Forenames>John</Forenames>
-      <Text>, K.C.B., D.S.O., M.P., created Baronet</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.P.</Honour>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>4318</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -107,7 +137,9 @@
     <MainItem>
       <Key>Nuttall</Key>
       <Forenames>Edmund</Forenames>
-      <Text>, A.M.I.C.E., created Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>4318</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -116,7 +148,9 @@
       <Key>Oakes</Key>
       <Title>Hon.</Title>
       <Forenames>Charles William</Forenames>
-      <Text>, Companion, St. Michael and St. George</Text>
+      <Text>
+        <Honour>Companion, St. Michael and St. George</Honour>
+      </Text>
       <PageNumber>4323</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -131,22 +165,33 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, Lt.-Col. William Frederick Travers, C.I.E., Commander Royal Victorian Order</Text>
+      <Key>O'Connor</Key>
+      <Title>Lt.-Col.</Title>
+      <Forenames>William Fred-</Forenames>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4716</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donovan, John, M.V.O., Imperial Service Order</Text>
+      <Key>O'Donovan</Key>
+      <Forenames>John</Forenames>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>4325</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Kinealy, Lt.-Col. Frederick, CLE., Commander, Royal Victorian Order</Text>
+      <Key>O'Kinealy</Key>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Frederick</Forenames>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4715</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -154,7 +199,10 @@
     <MainItem>
       <Key>Onkar</Key>
       <Forenames>Mull Jatia Bahadur</Forenames>
-      <Text>, O.B.E., Rai, Knighted</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>4320</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -178,7 +226,12 @@
     <MainItem>
       <Key>Oxley</Key>
       <Forenames>Alfred James Rice</Forenames>
-      <Text>, C.B.E., , M.D., M.R.C.S., M.R.C.P., J.P., svc Rice-Oxlev, Alfred James. C.B.E.. M.Dj M.R.C.S., M.R.C.P., J.P. Packard, Edward. J.P.. Knighted</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>M.D.</Honour>
+        <Honour>C.B.E.</Honour>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>2917</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -186,8 +239,11 @@
     <MainItem>
       <Key>Palanpur</Key>
       <Title>Capt.</Title>
-      <Forenames>H. H. The Nawab</Forenames>
-      <Text>of, K.C.I.E., Knight Commander, Royal Victorian Order</Text>
+      <Forenames>H. H.</Forenames>
+      <Text>
+        <Honour>K.C.I.E.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4715</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -196,7 +252,9 @@
       <Key>Palmer</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Claude Bowes</Forenames>
-      <Text>, C.B.E., Knight, of Justice, St. John of Jerusalem</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>4227</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -205,14 +263,20 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>&gt; Herbert Richmond, Companion, St. Michael and St. George</Text>
+      <Text>
+        <Honour>Companion, St. Michael and St. George</Honour>
+      </Text>
       <PageNumber>4323</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Pank</Key>
-      <Text>John Lovell, D.L., J.P., Knighted</Text>
+      <Forenames>John Lovell</Forenames>
+      <Text>
+        <Honour>D.L.</Honour>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>2917</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -220,7 +284,9 @@
     <MainItem>
       <Key>Parker</Key>
       <Forenames>Owen</Forenames>
-      <Text>, C.B.E.. J.P., Member of the Glass Bottles Committee under the Safeguarding of Industries Act</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>3326</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -228,7 +294,10 @@
     <MainItem>
       <Key>Parkinson</Key>
       <Forenames>Albert Lindsay</Forenames>
-      <Text>, M.P., Knighted</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>4319</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -245,16 +314,23 @@
     <MainItem>
       <Key>Parsons</Key>
       <Forenames>John Herbert</Forenames>
-      <Text>, C.B.E., D. Sc, F.R.S., F.R.C.S., Knighted</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>F.R.C.S.</Honour>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>2917</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Patiala</Key>
-      <Title>Maj.-Gen. H.H.</Title>
-      <Forenames>The Maharaja</Forenames>
-      <Text>of, G.C.S.I., G.C.I.E,, G.B.E., Knight Grand Cross, Royal Victorian Order ..' ,.'</Text>
+      <Title>Maj.-Gen. H.H. The</Title>
+      <Forenames>Maharaja</Forenames>
+      <Text>
+        <Honour>G.B.E.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4715</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -262,7 +338,9 @@
     <MainItem>
       <Key>Paton</Key>
       <Forenames>Robert Thomson</Forenames>
-      <Text>, M.D., Companion of the Order of St. Michael and St. George, corr. of name</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3229</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -271,7 +349,9 @@
       <Key>Beacocke</Key>
       <Title>Col.</Title>
       <Forenames>Thomas George</Forenames>
-      <Text>, CLE., Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4716</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -288,7 +368,9 @@
       <Key>Peel</Key>
       <Title>Col.</Title>
       <Forenames>Robert Francis</Forenames>
-      <Text>, Companion, St. Michael and St. George</Text>
+      <Text>
+        <Honour>Companion, St. Michael and St. George</Honour>
+      </Text>
       <PageNumber>4323</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -296,7 +378,9 @@
     <MainItem>
       <Key>Peter</Key>
       <Forenames>John Charles</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>4320</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -304,7 +388,11 @@
     <MainItem>
       <Key>Petrie</Key>
       <Forenames>David</Forenames>
-      <Text>, CLE., C.B.E., M.V.O., Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>M.V.O.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4715</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -312,7 +400,10 @@
     <MainItem>
       <Key>Phipps</Key>
       <Forenames>Eric Cla</Forenames>
-      <Text>.re Edmund, C.M.G., Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3868</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -344,7 +435,9 @@
     <MainItem>
       <Key>Pollock</Key>
       <Forenames>Edward James</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>4319</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -353,7 +446,11 @@
       <Key>Poole</Key>
       <Title>Col. Comdt.</Title>
       <Forenames>Gerald Robert</Forenames>
-      <Text>, C.M.G., D.S.O., A.D.C, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>4321</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -369,7 +466,10 @@
     <MainItem>
       <Key>Power</Key>
       <Forenames>Samuel Murray</Forenames>
-      <Text>, C.B., Knighted</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>4319</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -378,7 +478,10 @@
       <Key>Poynder</Key>
       <Title>Capt.</Title>
       <Forenames>Frederick Sinclair</Forenames>
-      <Text>, M.V.O., M.C., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4716</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -387,7 +490,10 @@
       <Key>Prescott</Key>
       <Title>Maj.</Title>
       <Forenames>William Henry</Forenames>
-      <Text>, M.P., Knighted</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>2917</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -395,7 +501,9 @@
     <MainItem>
       <Key>Price</Key>
       <Forenames>Edward Lessware</Forenames>
-      <Text>, O.B.E., Companion of Order of Indian Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4323</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -415,7 +523,9 @@
     <MainItem>
       <Key>Pulley</Key>
       <Forenames>Charles Thornton</Forenames>
-      <Text>, D.L , Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>4319</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -423,7 +533,9 @@
     <MainItem>
       <Key>Rabino</Key>
       <Forenames>Hyacinth Louis</Forenames>
-      <Text>, O.B.E., H.M. Consul at Casablanca (Sub. Not.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>2915</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -431,7 +543,9 @@
     <MainItem>
       <Key>Radcliffe</Key>
       <Forenames>Frederick Morton</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>2917</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -439,7 +553,10 @@
     <MainItem>
       <Key>Rae</Key>
       <Forenames>Henry Norman</Forenames>
-      <Text>, M.P., Knighted</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>4319</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -459,14 +576,19 @@
       <Key>Raeburn</Key>
       <Title>Sir</Title>
       <Forenames>William Hannay</Forenames>
-      <Text>, M.P., Member of Board of Trustees for National Galleries of Scotland</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>2814</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Raghunatha</Key>
-      <Text>Rao Ramchandra Rao Avargal, M.R. Ry., Diwan Bahadur, Companion, Star of India</Text>
+      <Forenames>Rao Ramchandra Rao Avargal</Forenames>
+      <Text>
+        <Honour>Companion, Star of India</Honour>
+      </Text>
       <PageNumber>4322</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -482,16 +604,21 @@
     <MainItem>
       <Key>Rajendra</Key>
       <Forenames>Nath Mukharji</Forenames>
-      <Text>, K.C.I.E., Sir, Knight Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>K.C.I.E.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4324</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Ratlam</Key>
-      <Title>Col. H.H.</Title>
-      <Forenames>The Maharaja</Forenames>
-      <Text>of, K.G.S.I., Knight Commander, Royal Victorian Order</Text>
+      <Title>Col. H.H. The</Title>
+      <Forenames>Maharaja</Forenames>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4715</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -500,7 +627,9 @@
       <Key>Rattey</Key>
       <Title>Engr. Capt.</Title>
       <Forenames>William</Forenames>
-      <Text>, O.B.E., Companion, Order of Bath</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4321</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -508,7 +637,9 @@
     <MainItem>
       <Key>Readhead</Key>
       <Forenames>James</Forenames>
-      <Text>, Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>2916</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -517,7 +648,11 @@
       <Key>Reading</Key>
       <Title>Rt. Hon.</Title>
       <Forenames>Rufua Daniel</Forenames>
-      <Text>, Earl of, G.C.B., G.M.S.I., G.M.I.E., K.C.V.O., Knight Grand Cross, Royal Victorian Order</Text>
+      <Text>
+        <Honour>G.C.B.</Honour>
+        <Honour>K.C.V.O.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4324</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -525,7 +660,9 @@
     <MainItem>
       <Key>Reid</Key>
       <Forenames>Hugh</Forenames>
-      <Text>, CBIE., Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>2916</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -534,7 +671,9 @@
       <Key>Rew</Key>
       <Title>Sir</Title>
       <Forenames>R. Henry</Forenames>
-      <Text>, K.C.B., Chairman of the Optical and Other Scientific Instruments Committee under the Safeguarding of Industries Act</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+      </Text>
       <PageNumber>3326</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -543,7 +682,9 @@
       <Key>Rice</Key>
       <Title>Hon.</Title>
       <Forenames>Thomas Aubrey Spring Member</Forenames>
-      <Text>, 4th CI., Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3868</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -551,7 +692,11 @@
     <MainItem>
       <Key>Rice-Oxley</Key>
       <Forenames>Alfred James</Forenames>
-      <Text>, C.B.E., M.D., M.R.C.S., M.R.C.P., J.P., Knighted</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>M.D.</Honour>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>4319</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -567,7 +712,10 @@
     <MainItem>
       <Key>Richardson</Key>
       <Forenames>Alexander</Forenames>
-      <Text>, M.P., Knighted</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>2917</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -577,7 +725,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Thomas William</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>2917</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -585,7 +735,9 @@
     <MainItem>
       <Key>Risley</Key>
       <Forenames>John Shuckburgh</Forenames>
-      <Text>, K.C, C.B., Knight Commander, St. Michael and St. George</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>4322</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -593,7 +745,9 @@
     <MainItem>
       <Key>Robertson</Key>
       <Forenames>Robert Burns</Forenames>
-      <Text>, Member, 5th CI., Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4324</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -602,7 +756,9 @@
       <Key>Robinson</Key>
       <Title>Sir</Title>
       <Forenames>Joseph Benjamin</Forenames>
-      <Text>, Bart., created Baron</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>4317</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -612,7 +768,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Sydney Maddock</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>2917</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -628,7 +786,9 @@
     <MainItem>
       <Key>Ronald</Key>
       <Forenames>Landon</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>2917</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -655,7 +815,9 @@
     <MainItem>
       <Key>Ross</Key>
       <Forenames>John</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>2917</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -671,7 +833,10 @@
     <MainItem>
       <Key>Rowland</Key>
       <Forenames>John</Forenames>
-      <Text>, C.B.E., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>4322</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -707,7 +872,10 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Edward John</Forenames>
-      <Text>, O.B.E., D.S.C, F.R.S., Knighted</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>4320</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -717,14 +885,19 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>William Fleming</Forenames>
-      <Text>, J.P., Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>4320</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Ryder</Key>
-      <Text>CoL. Charles Henry Dudley, C.I.E., D.S.O., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>4321</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -732,7 +905,9 @@
     <MainItem>
       <Key>Salter</Key>
       <Forenames>James Arthur</Forenames>
-      <Text>, C.B., Knight Commander, Order of the Bath</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>4322</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -757,7 +932,9 @@
       <Key>Sampson</Key>
       <Title>Paymr. Lt. Cmdr.</Title>
       <Forenames>Leslie Norman</Forenames>
-      <Text>, R.N., Member, 4th CI., Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4324</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -773,7 +950,9 @@
     <MainItem>
       <Key>Saunders</Key>
       <Forenames>Leslie Harry</Forenames>
-      <Text>, Companion, Star of India '</Text>
+      <Text>
+        <Honour>Companion, Star of India</Honour>
+      </Text>
       <PageNumber>4322</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -781,7 +960,9 @@
     <MainItem>
       <Key>Schwabe</Key>
       <Forenames>Walter George Salis</Forenames>
-      <Text>, K.C., Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>2917</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -811,7 +992,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Robert Russell</Forenames>
-      <Text>, C.B., C.S.I., Knight Commander, Order of the Bath</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>4322</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -822,7 +1005,9 @@
       </Key>
       <Title>Lt.-Col.</Title>
       <Forenames>William Angel</Forenames>
-      <Text>, Member, 4th CL, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4324</PageNumber>
     </MainItem>
   </ItemGroup>

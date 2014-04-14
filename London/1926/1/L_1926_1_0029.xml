@@ -4,7 +4,9 @@
     <MainItem>
       <Key>Tegart</Key>
       <Forenames>Charles Augustus</Forenames>
-      <Text>, CLE., M.V.O., Knight</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -13,14 +15,18 @@
       <Key>Thoni</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>John Gibb</Forenames>
-      <Text>, D.S.O., M.C, Member of Parliament for Dumbarton</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>786</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Thompson</Key>
-      <Text>DArcy Wentworth, C.B., M.A., D.Litt., F.R.S., Member of Fishery Board for Scotland</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>786</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -36,7 +42,9 @@
     <MainItem>
       <Key>Tiruvalangudi</Key>
       <Forenames>Vijiaraghava Acharya Avargal</Forenames>
-      <Text>, M. R. Ry., Diwan Bahadur, M.B.E., Knight Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>453</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -68,7 +76,9 @@
     <MainItem>
       <Key>Tungku</Key>
       <Forenames>Ismail</Forenames>
-      <Text>, Hon. Companion, Saint Michael and Saint George</Text>
+      <Text>
+        <Honour>Companion, Saint Michael and Saint George</Honour>
+      </Text>
       <PageNumber>6</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -84,7 +94,11 @@
     <MainItem>
       <Key>Turton</Key>
       <Forenames>Edmund Russborough</Forenames>
-      <Text>, J.P., D.L., M.P., Baronet</Text>
+      <Text>
+        <Honour>D.L.</Honour>
+        <Honour>M.P.</Honour>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
       <PageNumber>982</PageNumber>
     </MainItem>
@@ -93,7 +107,10 @@
     <MainItem>
       <Key>Uniacke</Key>
       <Title>Lt.</Title>
-      <Text>-Gen. Sir Herbert Crofton Campbell, K.C.M.G., C.B., Knight Commander, Order of the Bath</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -126,7 +143,11 @@
       <Key>Vawdrey</Key>
       <Title>Col.</Title>
       <Forenames>George</Forenames>
-      <Text>, C.M.G., C.B.E., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>C.B.E.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -134,7 +155,9 @@
     <MainItem>
       <Key>Vincent</Key>
       <Forenames>Frank Arthur Money Hampe</Forenames>
-      <Text>, CLE., M.V.O., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>453</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -142,7 +165,11 @@
     <MainItem>
       <Key>Vivian</Key>
       <Title>Lt.</Title>
-      <Text>-Gol. Valentine, C.M.G., D.S.O., M.V.O., H.M. Body Guard of the Honourable Corps of Gentlemen-at-Arms</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>1917</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -159,7 +186,9 @@
       <Key>Warburg</Key>
       <Title>Capt.</Title>
       <Forenames>Oscar Emanuel</Forenames>
-      <Text>, O.B.E., J.P., Knight</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3</PageNumber>
       <PageNumber>982</PageNumber>
     </MainItem>
@@ -232,22 +261,31 @@
     <MainItem>
       <Key>Wilkinson</Key>
       <Forenames>Russell Facev</Forenames>
-      <Text>, M.V.O., M.R.C.S.. L.R.C.P., Esquire, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>40</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Willans</Key>
-      <Text>^ Frederic Jeune, « M.V.O., Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Williamson</Key>
-      <Forenames>The</Forenames>
-      <Text>Rt. Rev. Andrew Wallace, C.V.O., Knight Commander, Royal Victorian Order</Text>
+      <Title>The Rt. Rev.</Title>
+      <Forenames>Andrew Wallace</Forenames>
+      <Text>
+        <Honour>C.V.O.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>1337</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -262,7 +300,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilson</Key>
-      <Text>Johnston, Joseph, C.B.E., Companion, Order of the Indian Empire</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>6</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -288,7 +328,9 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Grace Eliza</Forenames>
-      <Text>, Mrs., M.B.E., . Lady of Grace, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>40</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -324,7 +366,9 @@
     <MainItem>
       <Key>Wortlev</Key>
       <Forenames>Edward Jocelyn</Forenames>
-      <Text>, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>454</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -343,7 +387,11 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Col Wallace Duffield</Forenames>
-      <Text>, V.C., O.M.G., D.S.O., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>V.C.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -366,7 +414,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Zetland</Key>
-      <Forenames>The Marchioness</Forenames>
+      <Title>The</Title>
+      <Forenames>Marchioness</Forenames>
       <Text>of, Lady of Grace, Order of St. John of Jerusalem</Text>
       <PageNumber>40</PageNumber>
     </MainItem>
@@ -462,7 +511,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cornish-Bowden</Key>
-      <Text>J. H. T</Text>
+      <Forenames>J. H. T.</Forenames>
       <PageNumber>1566</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -489,8 +538,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>La Bere</Forenames>
+      <Key>De La</Key>
+      <Forenames>Bere</Forenames>
       <Text>, I</Text>
       <PageNumber>461</PageNumber>
     </MainItem>
@@ -548,7 +597,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Firebrace</Key>
-      <Text>R. C. W. G</Text>
+      <Forenames>R. C. W. G.</Forenames>
       <PageNumber>788</PageNumber>
       <PageNumber>461</PageNumber>
     </MainItem>
@@ -570,14 +619,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Fuller</Key>
-      <Text>J. F. C</Text>
+      <Forenames>J. F. C.</Forenames>
       <PageNumber>1566</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Gallagher</Key>
-      <Text>H. N</Text>
+      <Forenames>H. N</Forenames>
       <PageNumber>44</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1021,7 +1070,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Montgomery</Key>
-      <Text>B. L</Text>
+      <Forenames>B. L.</Forenames>
       <PageNumber>691</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1042,7 +1091,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pownall</Key>
-      <Text>H. R</Text>
+      <Forenames>H. R.</Forenames>
       <PageNumber>299</PageNumber>
     </MainItem>
   </ItemGroup>

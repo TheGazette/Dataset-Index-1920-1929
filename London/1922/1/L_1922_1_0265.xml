@@ -4,7 +4,11 @@
     <MainItem>
       <Key>Wace</Key>
       <Title>Maj.</Title>
-      <Text>&amp; Bt. Lt.-Col. E. G., C.B., D.S.O. (Lt.-Col.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1714</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -22,7 +26,9 @@
       <Key>Waddell</Key>
       <Title>temp. 2nd Lt.</Title>
       <Forenames>A.</Forenames>
-      <Text>, D.C.M. (rel. commn. on completion of service and retains rank of 2nd Lt.)</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>1383</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -167,7 +173,9 @@
       <Key>Wagner</Key>
       <Title>temp. Lt.</Title>
       <Forenames>D. P.</Forenames>
-      <Text>, M.C. (rel. commn. on completion of service and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>353</PageNumber>
     </MainItem>
   </ItemGroup>

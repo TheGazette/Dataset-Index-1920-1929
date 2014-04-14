@@ -4,7 +4,10 @@
     <MainItem>
       <Key>Bell</Key>
       <Title>Maj.</Title>
-      <Text>and Bt, Col. E., C.M.G. (ceases to belong to Reg. Army Res. of Ofh-6., having attained the age limit of liability to recall)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>6726</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -96,7 +99,9 @@
       </Key>
       <Title>Supern. Capt.</Title>
       <Forenames>L. G. R. F. H.</Forenames>
-      <Text>. M.C. (restd. to estabt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5798</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -118,7 +123,9 @@
       </Key>
       <Title>2nd Lt.</Title>
       <Forenames>T.</Forenames>
-      <Text>, M.M. (resigns commn. on appt. to perm, commn. in R.A.F.)</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>7746</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -126,8 +133,8 @@
     <MainItem>
       <Key>Bellamy</Key>
       <Title>temp. Lt.</Title>
-      <Forenames>D. A.</Forenames>
-      <Text>de C. (rel. commn. on completion of service and retains rank of Lt.)</Text>
+      <Forenames>D. A. de C</Forenames>
+      <Text>. (rel. commn. on completion of service and retains rank of Lt.)</Text>
       <PageNumber>5996</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -201,7 +208,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Benfield</Key>
-      <Text>. Lt, T. F. Barker, M.C., see Barker-Benfield, Lt, T. F., M.C. Benjamin, 2nd Lt, E. F. (Lt,)</Text>
+      <Forenames>Lt</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5708</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -294,7 +305,9 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>T. C.</Forenames>
-      <Text>(rel. commn. on completion of service and retains rank of Lt.) ... Bernal. Gentleman Cadet Ralph Frederic (2nd Lt.) Bernays. temp. Chapln., 4th CI.. Rev. S. F. L., O.B.E. (rel commn., and to be Hon. Chapln., 4th CI.) Bernstein, Capt. M. H. (Capt., Reg. Army Res. of Offrs., Gen. List) ... Berrage-Moulton, temp. Lt. J. C. M. (rel. commn. on completion of service, and retains rank of Lt.) Berridge, Capt. H. H. (rel. actg. rank of Maj.) Berriesford, Miss Mary (Staff Nurse, Q.A.M.F.N.Si)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>5454</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -386,7 +399,9 @@
       <Key>Bessell</Key>
       <Title>Lt.</Title>
       <Forenames>J.</Forenames>
-      <Text>, M.C. (Adjt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7109</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -463,7 +478,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Beszant</Key>
-      <Text>. temp. Capt. G. W., M.B.E. (rel. commn. on completion of service, and retains rank of Capt.) Bethway, temp. Chapln., 4th CI., Rev. W. S. (rel. commn., and to be Hon. Chaplr.., 4th CI.)/</Text>
+      <Title>temp. Capt.</Title>
+      <Forenames>G. W.</Forenames>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>7622</PageNumber>
     </MainItem>
   </ItemGroup>

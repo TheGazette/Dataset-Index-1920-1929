@@ -4,7 +4,11 @@
     <MainItem>
       <Key>De</Key>
       <Forenames>Robeck</Forenames>
-      <Text>, Adml. Sir John Michael, Bart., G.C.M.G., K.C.B., Grand Cross Order of Bath</Text>
+      <Text>
+        <Honour>Bart</Honour>
+        <Honour>G.C.M.G.</Honour>
+        <Honour>K.C.B.</Honour>
+      </Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -18,9 +22,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Salis</Forenames>
-      <Text>, Cecil Fane, M.A., Member of the Royal Commission on Fire Brigades and Fire Prevention</Text>
+      <Key>De Salis</Key>
+      <Forenames>Cecil Fane</Forenames>
+      <Text>, M.A., Member of the Royal Commission on Fire Brigades and Fire Prevention</Text>
       <PageNumber>1051</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -36,7 +40,9 @@
     <MainItem>
       <Key>Denham</Key>
       <Forenames>Wilfred</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
       <PageNumber>1693</PageNumber>
     </MainItem>
@@ -46,7 +52,11 @@
       <Key>Daring</Key>
       <Title>Sir</Title>
       <Forenames>Herbert Guy</Forenames>
-      <Text>, K.C.M.G., K.C.I.E., M.V.O., H.M. Envoy Extraordinary and Minister Plenipotentiary to H.M. King of Roumania</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>K.C.I.E.</Honour>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>1691</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -55,7 +65,10 @@
       <Key>Dick-Cunyngham</Key>
       <Title>Lt.-Col. Sir</Title>
       <Forenames>William Stewart</Forenames>
-      <Text>, Bart., C.B., Member of H.M. Honourable Corps of Gentlemen-at-Arms (corr. of rank)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>177</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -71,7 +84,9 @@
     <MainItem>
       <Key>Diwan</Key>
       <Forenames>Bahadur Diwan Daulat Rai</Forenames>
-      <Text>, Companion, Order of the Indian Empire Dixon, Arthur Lewis, C.B.E., Member of the Fire Brigade Royal Commission</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>777</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -90,7 +105,9 @@
     <MainItem>
       <Key>Dobbs</Key>
       <Forenames>Henry Robert Conway</Forenames>
-      <Text>, C.S.I., CLE., Knight Commander, Order of the Indian Empire Dodds, Maj. James Hugh Hamilton, Companion, St. Michael and St. George</Text>
+      <Text>
+        <Honour>Companion, St. Michael and St. George</Honour>
+      </Text>
       <PageNumber>6</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -98,7 +115,9 @@
     <MainItem>
       <Key>Dods</Key>
       <Forenames>Alexander Waddell</Forenames>
-      <Text>, Companion,, Order of the Indian Empire Donald, Douglas, CLE., Companion, Star of India</Text>
+      <Text>
+        <Honour>Companion, Star of India</Honour>
+      </Text>
       <PageNumber>5</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -141,7 +160,9 @@
         <KeyDitto>___ ___ ___ —.—</KeyDitto>
       </Key>
       <Forenames>Reginald Franklyn Hare</Forenames>
-      <Text>, C.B.E., Commercial Secretary, First Grade, H.M. Diplomatic Service (Sub. Not.)</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>179</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -160,7 +181,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Andrew Rae</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
       <PageNumber>1693</PageNumber>
     </MainItem>
@@ -169,7 +192,9 @@
     <MainItem>
       <Key>Dunlop</Key>
       <Forenames>James Craufurd</Forenames>
-      <Text>, M.D., F.R..C.L, Registrar-General of Births, Deaths and Marriages in Scotland</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>941</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -177,7 +202,9 @@
     <MainItem>
       <Key>Dunn</Key>
       <Forenames>James Hamet</Forenames>
-      <Text>, created Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
       <PageNumber>2093</PageNumber>
     </MainItem>
@@ -187,7 +214,10 @@
       <Key>Dupree</Key>
       <Title>Col. Sir</Title>
       <Forenames>William Thomas</Forenames>
-      <Text>, J.P., D.L., created Baronet u,</Text>
+      <Text>
+        <Honour>D.L.</Honour>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>2092</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -214,7 +244,12 @@
       <Key>Earle</Key>
       <Title>Sir</Title>
       <Forenames>Lionel</Forenames>
-      <Text>, K.C.B., C.M.G., Knight Commander, Royal Victorian Order Edgcumbe, Richard John Frederick, Member, 4th CI., Royal Victorian Order Edwards, Mrs., Order of Mercy</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>178</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -222,7 +257,9 @@
     <MainItem>
       <Key>Eley</Key>
       <Forenames>Frederick</Forenames>
-      <Text>, created Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>2219</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -231,7 +268,9 @@
       <Key>Ellerman</Key>
       <Title>Sir</Title>
       <Forenames>John Reeves</Forenames>
-      <Text>, Bart., Member, Companion of Honour</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -244,19 +283,30 @@
       <PageNumber>2218</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Erskine, Hon. William Augustus Forbes, M.V.O., H.M. Envoy Extraordinary and Minister Plenipotentiary to Republic of Cuba, and Minister Plenipotentiary to the Republic of Hayti and the Dominican Republic Evans, Illtyd Buller Pole, B.Sc, Companion, St. Michael and St. George ... ... ... ___ ___ ___ Rt. Hon. Sir Worthington Laming Worthington. See Worthington-Evans. Everett, Mrs., Order of Mercy</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+        <Honour>Companion, St. Michael and St. George</Honour>
+      </Text>
       <PageNumber>178</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>Faber, Lt. Valdemar George, M.C., Officer, Order of the British Empire Corr. of name</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1363</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>Fane, Maj.-Gen. Sir Vere Bonamy, K.C.I.E., C.B., Knight Commander, Order of Bath ... Fell, Thomas Edward, C.M.G., Member of the Legislative Council of the Colony of Fiji</Text>
+      <Text>
+        <Honour>K.C.I.E.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>779</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>, Fox, John Charles, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
       <PageNumber>1693</PageNumber>
     </SubItem>
@@ -265,15 +315,21 @@
     <MainItem>
       <Key>Gibson</Key>
       <Forenames>George Herbert Rae</Forenames>
-      <Text>, D.S.O., C. de G., M.O., Ch.B., F. R.C.P. (Edin.), Deputy 4 Commissioner of the General Board of Control, Scotland</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>373</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Gokaldas Kahandas Parekh, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>3</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>Gopal Das Bhandari Rai Bahadur, M.B.E., Companion, Order of the Indian Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>7</PageNumber>
     </SubItem>
     <SubItem>
@@ -306,11 +362,15 @@
       <PageNumber>178</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>Hansell, Henry Peter, C.V.O.. Knight pf Grace, St. John of Jerusalem</Text>
+      <Text>
+        <Honour>C.V.O.</Honour>
+      </Text>
       <PageNumber>177</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>Hari Ram Goenkao Rai Bahadur, CLE.. Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>3</PageNumber>
     </SubItem>
     <SubItem>

@@ -75,7 +75,7 @@
       <PageNumber>5743</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Rel. commn</Text>
+      <Text>Rel. commn.</Text>
       <PageNumber>5743</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -84,7 +84,9 @@
       <Key>Paton</Key>
       <Title>2nd Lt.</Title>
       <Forenames>A. Y.</Forenames>
-      <Text>, D.C.M. (rol. commn. on ceasing to be empld.)</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>5104</PageNumber>
     </MainItem>
     <SubItem>
@@ -183,7 +185,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Flying Offr</Forenames>
-      <Text>. T. S., M.C. (rel. temp. R.A.F. commn. on return to Army duty)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5488</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -311,7 +315,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Perrin</Key>
-      <Text>FUght Lt. (S.O.) E. C, O.B.E. (Flight Lt. Admin.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4347</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -704,7 +710,9 @@
         <KeyDitto>___ — ___ ___</KeyDitto>
       </Key>
       <Forenames>Flying Offr</Forenames>
-      <Text>. (A.) R. P., D.F.C. (re-secd. to R.A.F.)</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>4851</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -823,7 +831,9 @@
       </Key>
       <Title>Flight Lt. (A.)</Title>
       <Forenames>F. J.</Forenames>
-      <Text>, M.C. (granted short serv. commn.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6587</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -943,7 +953,9 @@
       </Key>
       <Title>2nd Lt.</Title>
       <Forenames>W. H.</Forenames>
-      <Text>, D.C.M. (Lfc. witho it pay &amp; allces.)</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>4140</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1039,8 +1051,8 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Title>Capt.</Title>
-      <Forenames>S. H. De G.</Forenames>
-      <Text>(trd. to unempld. list)</Text>
+      <Forenames>S. H. De G</Forenames>
+      <Text>. (trd. to unempld. list)</Text>
       <PageNumber>6589</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1061,7 +1073,9 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Title>Wm.</Title>
-      <Text>, M.C. granted temp.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4239</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1069,7 +1083,9 @@
     <MainItem>
       <Key>Pritt</Key>
       <Forenames>Flying Offr</Forenames>
-      <Text>. (A.), W. A., M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>5104</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1100,7 +1116,10 @@
       <Key>Prouse</Key>
       <Title>Cadet</Title>
       <Forenames>L. W.</Forenames>
-      <Text>(Hon. 2nd Lt.) Pryce, Sqdn. Leader (T.) W. J. D., O.B.E., D.C.M. (re-secd. to</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>4850</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1262,7 +1281,9 @@
       <Key>Rapp</Key>
       <Title>Capt. (actg. Maj.)</Title>
       <Forenames>T. C</Forenames>
-      <Text>, M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>4347</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -460,7 +460,10 @@
     <MainItem>
       <Key>Lambton</Key>
       <Title>temp. Lt.-Col.</Title>
-      <Text>and Group Comd. (Bt. Col., ret. pay) the Hon. C, D.S.O. (rel. commn., and granted hon. rank of Lt.Col.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3755</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -479,7 +482,10 @@
     <MainItem>
       <Key>Lamington</Key>
       <Title>temp. Lt.-Col.</Title>
-      <Text>and County iComdt. C. W. A. N., Lord, G.C.M.G., G.C.I.E., T.D. (rel. commn., and granted hon. rank of Lt.-Col.)</Text>
+      <Text>
+        <Honour>G.C.M.G.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>2577</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -532,7 +538,9 @@
       <Key>Langford</Key>
       <Title>temp. Maj.</Title>
       <Forenames>F. C</Forenames>
-      <Text>, M.D. (rel. commn., and to be Hon. Maj.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>1527</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -641,7 +649,9 @@
       </Key>
       <Title>temp. Maj.</Title>
       <Forenames>J. Macpherson</Forenames>
-      <Text>, M.D. (rel. commn., and to be Hon. Maj.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>2900</PageNumber>
     </MainItem>
   </ItemGroup>

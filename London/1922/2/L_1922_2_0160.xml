@@ -453,7 +453,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Augustus Ottiwell</Forenames>
-      <Text>, C.B.E</Text>
+      <Text>
+        <Honour>C.B.E</Honour>
+      </Text>
       <PageNumber>3583</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1142,14 +1144,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Wild</Key>
-      <Forenames>William</Forenames>
+      <Title>William .</Title>
       <PageNumber>2886</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Wilkinson</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>3394</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1277,7 +1279,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Chappell</Key>
-      <Text>Claude Milton</Text>
+      <Forenames>Claude Milton</Forenames>
       <PageNumber>3113</PageNumber>
       <PageNumber>3764</PageNumber>
     </MainItem>
@@ -1321,7 +1323,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dating</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>3279</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1415,7 +1417,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hillman</Key>
-      <Forenames>Reg</Forenames>
+      <Title>Reg.</Title>
       <PageNumber>3279</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1443,7 +1445,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Jacobs</Key>
-      <Forenames>Raymond</Forenames>
+      <Title>Raymond .</Title>
       <PageNumber>4602</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1510,8 +1512,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Miuland</Key>
-      <Forenames>Glass Co</Forenames>
-      <Text>.. see Lloyd, L. Millen, Samuel Robert, and Chrisfield, Frederick</Text>
+      <Forenames>Glass</Forenames>
+      <Text>Co.. see Lloyd, L. Millen, Samuel Robert, and Chrisfield, Frederick</Text>
       <PageNumber>3279</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1540,7 +1542,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Northern</Key>
-      <Forenames>Manufacturing Co</Forenames>
+      <Forenames>Manufacturing</Forenames>
+      <Text>Co</Text>
       <PageNumber>4602</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1619,8 +1622,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stewart</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. J. E</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>J. E</Forenames>
       <PageNumber>4448</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1643,8 +1646,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Swan</Key>
-      <Forenames>O. St</Forenames>
-      <Text>. John</Text>
+      <Forenames>O. St. John</Forenames>
       <PageNumber>4522</PageNumber>
     </MainItem>
   </ItemGroup>

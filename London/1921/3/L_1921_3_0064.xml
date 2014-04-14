@@ -36,7 +36,10 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>H. E.</Forenames>
-      <Text>, D.S.O., M.V.O. (attd. for service with R.C. of Sigs.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>6560</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -47,7 +50,9 @@
       </Key>
       <Title>Maj. (Bt. Lt.-Col.)</Title>
       <Forenames>J.</Forenames>
-      <Text>, D.S.O. (attd. for tervice with R.C. of Sigs.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6560</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -114,9 +119,18 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Jager</Forenames>
-      <Text>, H. (granted temp, rank as Maj. for services with Forces in E. Africa)</Text>
+      <Key>de Havilland</Key>
+      <Title>temp. Lt.</Title>
+      <Forenames>G.</Forenames>
+      <Text>de V. (rel. commn. on completion of service and retains rank of Lt.)</Text>
+      <PageNumber>7507</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Jager</Key>
+      <Forenames>H.</Forenames>
+      <Text>(granted temp, rank as Maj. for services with Forces in E. Africa)</Text>
       <PageNumber>6331</PageNumber>
     </MainItem>
     <SubItem>
@@ -141,16 +155,20 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Laporte</Forenames>
-      <Text>, temp. 2nd Lt. A. V. (rel. commn. on completion of service and retains rank of 2nd Lt.)</Text>
+      <Key>De Laporte</Key>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>A. V.</Forenames>
+      <Text>(rel. commn. on completion of service and retains rank of 2nd Lt.)</Text>
       <PageNumber>6269</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>De</Key>
-      <Text>la Prvme. Maj. and Bt. Lt.Col. P. C. D.S.O. (Lt.-Col.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7042</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -172,7 +190,9 @@
         <KeyDitto>___ ___ .</KeyDitto>
       </Key>
       <Forenames>L. T.</Forenames>
-      <Text>. M.B.E. (granted temp. rank as Lt., for services with Forces in E. Africa)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>6338</PageNumber>
     </MainItem>
     <SubItem>
@@ -185,7 +205,9 @@
       <Key>Maisrni</Key>
       <Title>Rev.</Title>
       <Forenames>L. F.</Forenames>
-      <Text>, M.C. (granted temp, rank as Capt. for services with Forces in E. Africa)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6337</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -211,7 +233,9 @@
       <Key>Pret</Key>
       <Title>Capt.</Title>
       <Forenames>J.</Forenames>
-      <Text>, M.C. (Not. of seconding in Gaz., 2 May, 1921, cancelled)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6912</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -226,10 +250,32 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Rouet</Forenames>
-      <Text>, temp. Capt. C. W. (rel. commn. on completion of service and retains rank of Capt.)</Text>
+      <Key>de Reuter</Key>
+      <Title>Lt.</Title>
+      <Forenames>Ronald Carl George</Forenames>
+      <Text>(Lt., Gren. Gds., late Gren. Gds., Spec. Res.)</Text>
+      <PageNumber>7362</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Rouet</Key>
+      <Title>temp. Capt.</Title>
+      <Forenames>C. W.</Forenames>
+      <Text>(rel. commn. on completion of service and retains rank of Capt.)</Text>
       <PageNumber>5622</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Rusett</Key>
+      <Forenames>T.</Forenames>
+      <Text>
+        <Honour>O.M.</Honour>
+        <Honour>O.M.</Honour>
+        <Honour>O.M.</Honour>
+      </Text>
+      <PageNumber>5312</PageNumber>
     </MainItem>
     <SubItem>
       <Text>Corr. of surname</Text>
@@ -247,17 +293,36 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Villiers</Forenames>
-      <Text>, J. H. (granted temp, rank as Lt. for service with Forces in E. Africa)</Text>
+      <Key>de Trafford</Key>
+      <Title>Capt.</Title>
+      <Forenames>R. E.</Forenames>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
+      <PageNumber>7111</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Villiers</Key>
+      <Forenames>J. H.</Forenames>
+      <Text>(granted temp, rank as Lt. for service with Forces in E. Africa)</Text>
       <PageNumber>6338</PageNumber>
     </MainItem>
     <SubItem>
       <Text>Temp. Capt, for service with Forces in E. Africa</Text>
       <PageNumber>6657</PageNumber>
     </SubItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Visnes</Key>
+      <Forenames>de Ponthieu</Forenames>
+      <Text>(temp. 2nd Lt. (now temp. Lt.) L. A. M. R. (corr. of name)</Text>
+      <PageNumber>5915</PageNumber>
+    </MainItem>
     <SubItem>
-      <Text>Rel. commn. on completion of .service and retains rank of Lt</Text>
+      <Text>Rel. commn. on completion of .service and retains rank of Lt.</Text>
       <PageNumber>6923</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -278,7 +343,9 @@
       <Key>Deacon</Key>
       <Title>Lt.</Title>
       <Forenames>D.</Forenames>
-      <Text>, M.C. (retires on ret. pay)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7362</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -317,7 +384,18 @@
         <KeyDitto>—___ ___</KeyDitto>
       </Key>
       <Forenames>Lt</Forenames>
-      <Text>, J., D.C.M. (seed, for service on the Staff) Deane, Lt. W. P. (date of promn. to Capt,) Deans, Lt. Samuel, M.C. (Lt., Reg. Army Res. of Offrs., late temp. Lt,, R.U. Rif.) Dearden, Maj. J. A. (retires on ret. pay) Dearing, temp. Lt. S. A., M.B.E. (rel. commn. on completion of service and granted rank of Capt,) Deary, Lt. L. V. (rel. commn. and retains rank of Lt.) Decies, Maj. (Lt.-Col. ret., Spec. Res.) J. G. H., D.S.O. (Lt.Col., Reg. Army Res. of Offrs.) Dee, temp. Lt G. S. (rel. commn. on completion of service and retains rank of Lt.) Deed, Maj. S. C, M.C. (Maj., Reg. Army Res. of Offrs., Gen. List) Delacroix, temp. Hon. Capt. Arthur C. (rel. commn. and retains hon. rank of Capt.) Delamere, the Rt. Hon. Hugh Cholmondeley, Lord (granted temp, rank as Lt. for service with Forces in E. Africa and retains rank of Lt. on ceasing to be empld.), Sub. Not. ... Delme-Radcliffe, Col. Sir C, K.C.M.G., C.B., C.V.O. (h.p. list, placed on ret. pay on attaining the age fixed for compulsory retirement and granted hon. rank of Brig.-Gen.) Delves, temp. Lt, S. H. (rel. commn. on completion of service and retains rank of Lt.' Dempsey, Lt. M. C, M.C. (dateof promn. to rank of Capt.) ... Dench, L. J. E. (granted temp, rank as 2nd Lt. for services with Forces in E. Africa) Granted temp, rank as Capt. for services with Forces in E. Africa. Rel. commn. on completion of service and retains rank of Capt Denman, Lt. R. P. G. (rems. seed. for service with R.C. of Sigs.) Denness, temp. Lt. T. (rel. actg. rank of Capt.) Rel. commn. on completion of service and granted rank of Capt Dennis, Thomas (Capt.. Reg. Army Res. of Offrs., late Lt.. R.F.A.) Denniss, 2nd Lt. R. H. (Lt.) ... Denny, temp. Capt. A. ,T. G. (rel. commn. on completion of service and retains rank of Cant.) ___ ___ Edward Mavnard Coningsby, M.C. (Capt., Reg. Arniy Res. of Offrs., late temp. Capt., Serv. Bn., D.C.L.I.)</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>M.B.E.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>C.V.O.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7304</PageNumber>
     </MainItem>
   </ItemGroup>

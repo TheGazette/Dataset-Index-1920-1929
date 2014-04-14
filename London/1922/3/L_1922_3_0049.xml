@@ -86,7 +86,9 @@
       <Key>Mocatta</Key>
       <Title>Maj.</Title>
       <Forenames>V. E.</Forenames>
-      <Text>, O.B.E. (Maj. 14th/20th H., from 14th H.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>5865</PageNumber>
     </MainItem>
     <SubItem>
@@ -108,7 +110,10 @@
       <Key>Modera</Key>
       <Title>Capt. and Bt. Maj.</Title>
       <Forenames>F. S.</Forenames>
-      <Text>, D.S.O., M.C. (trd. to Lan. Fus., from R. Fus., and rem. seed.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5360</PageNumber>
     </MainItem>
     <SubItem>
@@ -153,7 +158,10 @@
       <Key>Mogg</Key>
       <Title>Vet. Maj.</Title>
       <Forenames>G. B. C. Rees</Forenames>
-      <Text>, O.B.E., see Rees-Mogg, Vet. Maj. G. B. C, O.B.E. Mogridge, Qrmr. and Capt. J. (retires on ret. pay)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>6713</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -173,7 +181,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>W. E.</Forenames>
-      <Text>, M.C. (Capt., R. Sussex R., from R. Mun. Fus.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6578</PageNumber>
     </MainItem>
     <SubItem>
@@ -208,7 +218,9 @@
       <Key>Momber</Key>
       <Title>2nd Lt.</Title>
       <Forenames>A. T. M. E.</Forenames>
-      <Text>(Lt.) 5359 Money, Maj. R., O.B.E. (retires on ret. pay)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>6774</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -241,7 +253,10 @@
       <Key>Montefiore</Key>
       <Title>Supern. Maj.</Title>
       <Forenames>T. H. Sebag</Forenames>
-      <Text>, see Sebag-Montefiore, Supern. Maj. T. H. Monteith, Capt. Hugh G., D.S.O., O.B.E. (Maj., and rem. seed.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>6964</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -259,7 +274,11 @@
       <Key>Mood</Key>
       <Title>Capt.</Title>
       <Forenames>J. M.</Forenames>
-      <Text>, O.B.E., M.C. (Capt., E. York R., from R.D. Fus.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>6229</PageNumber>
     </MainItem>
     <SubItem>
@@ -331,7 +350,10 @@
       <Key>Moorhouse</Key>
       <Title>Lt.-Col. (ret. pay)</Title>
       <Forenames>H. C</Forenames>
-      <Text>, C.M.G., D.S.O. (Lt.-Col., Reg. Army Res. of Off., Regtl List, R.G.A.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5526</PageNumber>
     </MainItem>
     <SubItem>
@@ -359,7 +381,7 @@
       <PageNumber>5431</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Rel. commn. on completion of service, and granted rank of Capt</Text>
+      <Text>Rel. commn. on completion of service, and granted rank of Capt.</Text>
       <PageNumber>5431</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -394,7 +416,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>T.</Forenames>
-      <Text>, M.B.E. (Lt., Reg. Army Res. of Offrs., Gen. List, Intelligence, late Serv. Bn., Camerons)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>5106</PageNumber>
     </MainItem>
     <SubItem>
@@ -453,7 +477,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>M. E.</Forenames>
-      <Text>, M.C. (Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6840</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -546,7 +572,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>J</Forenames>
-      <Text>, M.C. (rel. temp. grading as Acct. Offr., 5th CI., on ceasing to be empld. with Corps of Mil. Acctts.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6097</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -578,7 +606,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Title>Capt.</Title>
-      <Text>-R, J., D.S.O. (retires, receiving a gratuity, and granted rank of Lt.-Col.), Sub. Not</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5360</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -604,94 +634,9 @@
       <PageNumber>5524</PageNumber>
     </MainItem>
   </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Morrison</Key>
-      <Title>Gent. Cadet</Title>
-      <Forenames>Albert Edward</Forenames>
-      <Text>(2nd Lt., R.G.A.)</Text>
-      <PageNumber>6379</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___ .</KeyDitto>
-      </Key>
-      <Title>Lt.</Title>
-      <Forenames>C. E.</Forenames>
-      <Text>, M.C. (Adjt.)</Text>
-      <PageNumber>6020</PageNumber>
-    </MainItem>
-    <SubItem>
-      <Text>Date of seniority</Text>
-      <PageNumber>5362</PageNumber>
-    </SubItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Morrogh</Key>
-      <Title>Capt.</Title>
-      <Forenames>W. F.</Forenames>
-      <Text>, M.C. (trd. to E. York. R., from Leinster R.)</Text>
-      <PageNumber>5777</PageNumber>
-    </MainItem>
-    <SubItem>
-      <Text>Date of seniority</Text>
-      <PageNumber>5777</PageNumber>
-    </SubItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Morrogh-Bernard</Key>
-      <Title>Lt.</Title>
-      <Forenames>J. G.</Forenames>
-      <Text>(Lt., E. York. R., from R. Mun. Fus.)</Text>
-      <PageNumber>6513</PageNumber>
-    </MainItem>
-    <SubItem>
-      <Text>Date of seniority</Text>
-      <PageNumber>6510</PageNumber>
-    </SubItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Mortimer</Key>
-      <Text>©, Lt. A. G. (retires on ret. pay)</Text>
-      <PageNumber>6712</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Morton</Key>
-      <Title>Gent. Cadet</Title>
-      <Forenames>Boyce Edward Rowland</Forenames>
-      <Text>(2nd Lt., Glo'ster R.)</Text>
-      <PageNumber>6380</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___</KeyDitto>
-      </Key>
-      <Title>Maj. and Bt. Lt.-Col. (ret. pay)</Title>
-      <Forenames>E.</Forenames>
-      <Text>, C.B.E. (Col., Reg. Army Res. of Off., Gen. List, from Cheshire R., and granted hon. rank of Brig.Gen.)</Text>
-      <PageNumber>5280</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>— ___ ___</KeyDitto>
-      </Key>
-      <Title>Supern. Capt.</Title>
-      <Forenames>E. R. M.</Forenames>
-      <Text>, O.B.E. (restd. to estabt.)</Text>
-      <PageNumber>5963</PageNumber>
-    </MainItem>
-  </ItemGroup>
+  <KeyDitto>___ ___ ___ .</KeyDitto>
+  <KeyDitto>___ ___ ___</KeyDitto>
+  <KeyDitto>— ___ ___</KeyDitto>
   <ItemGroup>
     <MainItem>
       <Key>
@@ -699,170 +644,18 @@
       </Key>
       <Title>Lt. (h.p. list)</Title>
       <Forenames>G. B.</Forenames>
-      <Text>, M.B.E. (retires on ret. pay on acc. of ill-health contracted on active service, and granted rank of Capt.)</Text>
-      <PageNumber>5106</PageNumber>
+      <Text>
+        <Honour>M.B.E.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>C.B.E.</Honour>
+        <Honour>M.M.</Honour>
+        <Honour>R.D.</Honour>
+      </Text>
+      <PageNumber>6379</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Moseley</Key>
-      <Title>Univ.</Title>
-      <Forenames>Candidate Roger Bright</Forenames>
-      <Text>(2nd Lt., The Royals, late Lt., R.N.)</Text>
-      <PageNumber>6713</PageNumber>
-    </MainItem>
-    <SubItem>
-      <Text>Date of seniority</Text>
-      <PageNumber>6713</PageNumber>
-    </SubItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Moses</Key>
-      <Title>Lt.</Title>
-      <Forenames>C. J. A.</Forenames>
-      <Text>(retires, receiving a gratuity)</Text>
-      <PageNumber>5707</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Mosley</Key>
-      <Title>Maj. (h.p. list, late Wilts R.)</Title>
-      <Forenames>W. H.</Forenames>
-      <Text>, D.S.O., M.C. (retires on ret. pay on acc. of ill-health contracted on active service, and granted rank of Lt.-Col.)</Text>
-      <PageNumber>6021</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Moss</Key>
-      <Title>Lt.</Title>
-      <Forenames>J. W.</Forenames>
-      <Text>, M.C. (retires, receiving a gratuity, and granted rank' of Capt.)</Text>
-      <PageNumber>6639</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Mossop</Key>
-      <Title>temp. Capt.</Title>
-      <Forenames>F. H.</Forenames>
-      <Text>(rel. commn. on completion of service, and retains rank of Capt.)</Text>
-      <PageNumber>6096</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Motard</Key>
-      <Title>Gent. Cadet</Title>
-      <Forenames>Alexander Hugh</Forenames>
-      <Text>(2nd Lt., Glo'ster R., from R. Mil. Coll.)</Text>
-      <PageNumber>6907</PageNumber>
-    </MainItem>
-    <SubItem>
-      <Text>Seniority</Text>
-      <PageNumber>6907</PageNumber>
-    </SubItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Moubray</Key>
-      <Forenames>Capt</Forenames>
-      <Text>, R. (Capt., 16th/ 5th L., from 16th L.)</Text>
-      <PageNumber>6510</PageNumber>
-    </MainItem>
-    <SubItem>
-      <Text>Date of seniority</Text>
-      <PageNumber>6510</PageNumber>
-    </SubItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Mould</Key>
-      <Title>Col.</Title>
-      <Forenames>William T.</Forenames>
-      <Text>, C.M.G. (ceases to belong to Res. of Off., having attained the age limit of liability to recall)</Text>
-      <PageNumber>5526</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Mount</Key>
-      <Title>Maj. (now ret. pay)</Title>
-      <Forenames>A. H</Forenames>
-      <Text>L., C.B.E. '(rel. temp, rank of Lt.-Col. on ceasing to be empld. as Dep. Chief Ely. Constrn. Engineer)</Text>
-      <PageNumber>5525</PageNumber>
-    </MainItem>
-    <SubItem>
-      <Text>Eetires on ret. pay, and granted rank of Lt.-Col. (Sub. Not.)</Text>
-      <PageNumber>5610</PageNumber>
-    </SubItem>
-    <SubItem>
-      <Text>Date of seniority</Text>
-      <PageNumber>6097</PageNumber>
-    </SubItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Mowforth</Key>
-      <Title>temp. Chapln.</Title>
-      <Text>to the Forces, 4th CI., Rev. S. E. (rel. commn., and apptd. Hon. Chapln. to the Forces, 4th Ci</Text>
-      <PageNumber>5431</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Mudford</Key>
-      <Title>Lt.</Title>
-      <Forenames>H. E.</Forenames>
-      <Text>(retires, receiv ing a gratuity, and granted rank of Capt.)</Text>
-      <PageNumber>6840</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Muir</Key>
-      <Title>Gent. Cadet</Title>
-      <Forenames>James Errol Ross</Forenames>
-      <Text>(2nd Lt., Cameronians)</Text>
-      <PageNumber>6380</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Muirhead</Key>
-      <Title>2nd Lt.</Title>
-      <Forenames>Gavin</Forenames>
-      <Text>, M.M. (2nd Lt., Reg. Army Res. of Off., Regtl. List, Seaforth, late Serv. Bn.)</Text>
-      <PageNumber>5709</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Mulholland</Key>
-      <Title>Lt.</Title>
-      <Forenames>G. F.</Forenames>
-      <Text>(Lt., R. Warwick. R., from R.D. Fus., and to rem. seed.)</Text>
-      <PageNumber>6711</PageNumber>
-    </MainItem>
-    <SubItem>
-      <Text>Date of seniority</Text>
-      <PageNumber>6711</PageNumber>
-    </SubItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Mulligan</Key>
-      <Title>Lt.</Title>
-      <Forenames>A. D.</Forenames>
-      <Text>(Lt., K.O.Y. L.I., from Conn. Rangers)</Text>
-      <PageNumber>6578</PageNumber>
-    </MainItem>
-    <SubItem>
-      <Text>Date of seniority</Text>
-      <PageNumber>6578</PageNumber>
-    </SubItem>
   </ItemGroup>
 </Index>
 

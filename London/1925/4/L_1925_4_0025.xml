@@ -1,16 +1,109 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="025" pageID="https://www.thegazette.co.uk/id/London/index/year/1925/volume/4/page/025" pagePDF="https://www.thegazette.co.uk/London/index/year/1925/volume/4/page/025" pageRDF="https://www.thegazette.co.uk/London/index/year/1925/volume/4/page/025?view=linked-data" type="index" volume="4" year="1925">
+  <SubItem>
+    <Text>at Hong Kong, Lvnn AV. Franklin</Text>
+    <PageNumber>8042</PageNumber>
+  </SubItem>
+  <SubItem>
+    <Text>at Leeds, Stillman W. Eclls</Text>
+    <PageNumber>6919</PageNumber>
+  </SubItem>
+  <SubItem>
+    <Text>at Malta, Philip Adams</Text>
+    <PageNumber>6919</PageNumber>
+  </SubItem>
+  <SubItem>
+    <Text>at Ottawa, Jack Dewey Hickerson</Text>
+    <PageNumber>6919</PageNumber>
+  </SubItem>
+  <SubItem>
+    <Text>at Sault Ste Marie, Ontario, William E. . Chapman</Text>
+    <PageNumber>6919</PageNumber>
+  </SubItem>
+  <SubItem>
+    <Text>V ice Consuls of : at Calcutta, Robert L. Buell</Text>
+    <PageNumber>8642</PageNumber>
+  </SubItem>
+  <SubItem>
+    <Text>u|t Montreal, Jam.es G. Finley</Text>
+    <PageNumber>8278</PageNumber>
+  </SubItem>
+  <ItemGroup>
+    <MainItem>
+      <Key>Universities</Key>
+      <Text>of Oxford and Cambridge Acts, statutes submittedunder</Text>
+      <PageNumber>6768</PageNumber>
+      <PageNumber>8195</PageNumber>
+      <PageNumber>8277</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Uruguay</Key>
+      <Title>Consuls .</Title>
+      <Text>of : at Calcutta, John Francis Barton</Text>
+      <PageNumber>8278</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Valotta</Key>
+      <Forenames>Malta</Forenames>
+      <Text>, Consul of Japan, Robert Howard</Text>
+      <PageNumber>8642</PageNumber>
+    </MainItem>
+    <SubItem>
+      <Text>of Salvador, E. T. Leveson</Text>
+      <PageNumber>8642</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>of Peru. N. Rigby Fisher '</Text>
+      <PageNumber>6920</PageNumber>
+    </SubItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Victoria</Key>
+      <Title>H.R.H. Princess</Title>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.V.O.</Honour>
+      </Text>
+      <PageNumber>8027</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Airgin</Key>
+      <Forenames>Islands</Forenames>
+      <Text>, Executive Council : Official Member, Thomas Forbes</Text>
+      <PageNumber>7949</PageNumber>
+    </MainItem>
+    <SubItem>
+      <Text>Unofficial Members : Georges. James Edward Wilkinson</Text>
+      <PageNumber>7940</PageNumber>
+    </SubItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Wales</Key>
       <Title>Prince</Title>
-      <Text>of, Extra Equerry, Brig.-Gen. Gerald Frederic Trotter, C.B., C.M.G., C.B.E., D.S.O., M.V.O</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>C.B.E.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8553</PageNumber>
     </MainItem>
-    <SubItem>
-      <Text>Office : Army Act, Rules of Procedure, 1907, Amendment</Text>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>War</Key>
+      <Forenames>Office</Forenames>
+      <Text>: Army Act, Rules of Procedure, 1907, Amendment</Text>
       <PageNumber>8282</PageNumber>
-    </SubItem>
+    </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
@@ -101,20 +194,34 @@
     <MainItem>
       <Key>Alexander</Key>
       <Title>Ma.</Title>
-      <Text>j. James Ulick Francis Canning, O.B.E.. Member, 4th Class. Roval Victorian Order</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>7350</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Alston</Key>
-      <Text>. Sir Beilbv Francis, K.C.M.G.. OB. Member of H.M. Privy Council</Text>
+      <Title>Sir</Title>
+      <Forenames>Beilbv Francis</Forenames>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+      </Text>
       <PageNumber>8359</PageNumber>
     </MainItem>
-    <SubItem>
-      <Text>Charles Ross, Knighted</Text>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Forenames>Charles Ross</Forenames>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>6841</PageNumber>
-    </SubItem>
+    </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
@@ -137,7 +244,9 @@
     <MainItem>
       <Key>Barthorpe</Key>
       <Forenames>Frederick James</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>7247</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -169,7 +278,9 @@
     <MainItem>
       <Key>Boucher</Key>
       <Forenames>Pay-Cdr</Forenames>
-      <Text>. Edward, R.N. Member, 4th Class, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>7350</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -178,7 +289,9 @@
       <Key>Bower</Key>
       <Title>Sir</Title>
       <Forenames>Alfred Louis</Forenames>
-      <Text>, Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>0840</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -211,7 +324,9 @@
       <Key>Bridges</Key>
       <Title>Capt.</Title>
       <Forenames>Henry Dalrymple</Forenames>
-      <Text>, D.S.O., R.N., C o m m a n d e r , Royal Aictorian Order</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7350</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -253,7 +368,10 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>John</Forenames>
-      <Text>, C.S.I., O.B.E., Knighted</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>6841</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -269,7 +387,9 @@
     <MainItem>
       <Key>Orrr</Key>
       <Forenames>Hubert Winch</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>6841</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -320,7 +440,10 @@
       <Key>Chancellor</Key>
       <Title>Lt.-Col. Sir</Title>
       <Forenames>John Robert</Forenames>
-      <Text>, G.C.M.G., D.S.O., Knight GrandCross, Royal Alctorian Order</Text>
+      <Text>
+        <Honour>G.C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7350</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -328,14 +451,20 @@
     <MainItem>
       <Key>Chunilal</Key>
       <Forenames>Vijbhukhamdas Mehta</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>6841</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Clark-Hall</Key>
-      <Text>. Air Comniodor Robert Hamilton, C.M.G., D.S.O.. Member. Nominated Council, for Malta</Text>
+      <Forenames>Air Comniodor Robert Hamilton</Forenames>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8279</PageNumber>
     </MainItem>
   </ItemGroup>

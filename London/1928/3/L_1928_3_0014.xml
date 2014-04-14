@@ -65,7 +65,9 @@
     <MainItem>
       <Key>Stewart</Key>
       <Title>Lieut.</Title>
-      <Text>-Colonel James Ernest, M.C., Knight, correction</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4569</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -73,7 +75,9 @@
     <MainItem>
       <Key>Stow</Key>
       <Forenames>Alexander Montagu</Forenames>
-      <Text>, O.B.E., Member of the Executive Council of the Governor of the Punjab</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>5238</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -82,7 +86,9 @@
       <Key>Talbot</Key>
       <Title>Dame</Title>
       <Forenames>Meriel Lucy</Forenames>
-      <Text>, D.O.B.E., Member, Royal Commission on Police powers and procedure</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>5765</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -100,7 +106,11 @@
       <Key>Tvrell</Key>
       <Title>Sir</Title>
       <Forenames>William George</Forenames>
-      <Text>, G.C.M.G., K.C.B., K.C.V.O., Member of H.M. Privy Council</Text>
+      <Text>
+        <Honour>G.C.M.G.</Honour>
+        <Honour>K.C.B.</Honour>
+        <Honour>K.C.V.O.</Honour>
+      </Text>
       <PageNumber>4721</PageNumber>
     </MainItem>
     <SubItem>
@@ -121,7 +131,9 @@
     <MainItem>
       <Key>Waller</Key>
       <Forenames>Maurice Lyndham</Forenames>
-      <Text>, C.B., Knight</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>5637</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -129,7 +141,9 @@
     <MainItem>
       <Key>Williams</Key>
       <Forenames>Robert</Forenames>
-      <Text>, Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>4495</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -146,7 +160,9 @@
     <MainItem>
       <Key>Wollaston</Key>
       <Forenames>Gerald Woods</Forenames>
-      <Text>, M.V.O., Norroy King of Arms and Principal Herald of the North part of England</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>5207</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -239,7 +255,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dendv</Key>
-      <Text>M. H</Text>
+      <Forenames>M. H</Forenames>
       <PageNumber>4575</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -725,8 +741,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dyson</Key>
-      <Forenames>G. St</Forenames>
-      <Text>. J. A</Text>
+      <Forenames>G. St. J</Forenames>
+      <Text>. A</Text>
       <PageNumber>6096</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -741,8 +757,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hamilton</Key>
-      <Forenames>C.</Forenames>
-      <Text>de C</Text>
+      <Forenames>C. de C</Forenames>
       <PageNumber>5896</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -927,8 +942,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, G. P</Text>
+      <Key>O'Brien</Key>
+      <Forenames>G. P .</Forenames>
       <PageNumber>4975</PageNumber>
     </MainItem>
   </ItemGroup>

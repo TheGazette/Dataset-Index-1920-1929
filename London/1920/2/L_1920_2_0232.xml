@@ -83,7 +83,9 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>tem-p. Lt. F. C, M.C. (rel. commn. on completion of service, and retains rank of it.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4666</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -111,7 +113,9 @@
       <Key>Vidler</Key>
       <Title>temp.</Title>
       <Forenames>Lt</Forenames>
-      <Text>, A. G. A., M.C. (rel. commn. on completion of service, and granted rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4564</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -119,7 +123,9 @@
     <MainItem>
       <Key>Vidot</Key>
       <Title>Capt.</Title>
-      <Text>'S., M.C. (rel. commn., and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5903</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -127,8 +133,8 @@
     <MainItem>
       <Key>Vignoles</Key>
       <Title>temp. Lt.</Title>
-      <Forenames>J. St</Forenames>
-      <Text>. L. B. &lt;rel. commn. on completion of service, and retains rank of Lt.J</Text>
+      <Forenames>J. St. L</Forenames>
+      <Text>. B. &lt;rel. commn. on completion of service, and retains rank of Lt.J</Text>
       <PageNumber>5199</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -137,7 +143,9 @@
       <Key>Villa</Key>
       <Title>Lt.</Title>
       <Forenames>J. E.</Forenames>
-      <Text>, M.C. (Tel. actg. rank of Maj.), Sub. iNot</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6860</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -155,7 +163,9 @@
       <Key>Vaiiers</Key>
       <Title>Capt.</Title>
       <Forenames>G.</Forenames>
-      <Text>, M.C. (rel. actg. rank of Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5466</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -206,7 +216,9 @@
         <KeyDitto>___ .</KeyDitto>
       </Key>
       <Forenames>Lt</Forenames>
-      <Text>, W., O.B.E., M.C! (rel. actg. rank of Lt.-Col.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>5192</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -248,14 +260,18 @@
   <ItemGroup>
     <MainItem>
       <Key>Vint</Key>
-      <Text>Lt. J. G. (rel. temp, rank of Ca*pt. on ceasing to be Ships' Adjt.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>J. G.</Forenames>
+      <Text>(rel. temp, rank of Ca*pt. on ceasing to be Ships' Adjt.)</Text>
       <PageNumber>6666</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Vinycomb</Key>
-      <Text>.temp. (Lt, T.' B., M.C. (rel. commn. on completion of service, and! granted Tank of Capt,)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4949</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -281,9 +297,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Von</Key>
-      <Forenames>Braun</Forenames>
-      <Text>, .temp. Capt. C. R. B. (actg. Maj.)</Text>
+      <Key>Von Braun</Key>
+      <Text>.temp. Capt. C. R. B. (actg. Maj.)</Text>
       <PageNumber>4686</PageNumber>
     </MainItem>
     <SubItem>
@@ -295,9 +310,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Von</Key>
-      <Forenames>Brockdorff</Forenames>
-      <Text>, temp. 2nd Lt. (Lt., K.O. Malta Regt. of Mila.) H. (rel. temp, commn. on completion of service)</Text>
+      <Key>Von Brockdorff</Key>
+      <Title>temp. 2nd Lt. (Lt., K.O. Malta Regt. of Mila.)</Title>
+      <Forenames>H.</Forenames>
+      <Text>(rel. temp, commn. on completion of service)</Text>
       <PageNumber>6457</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -324,7 +340,9 @@
       <Key>Vosper</Key>
       <Title>temp. Capt.</Title>
       <Forenames>N.</Forenames>
-      <Text>, M.C. (rel. commn. on completion of service, and granted rank of Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4659</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -390,7 +408,9 @@
         <KeyDitto>___ ___ .</KeyDitto>
       </Key>
       <Title>Capt.</Title>
-      <Text>iR. E., M.C. (seed, for duty with Army Sig. Serv.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4435</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -410,7 +430,10 @@
       <Key>Waoe</Key>
       <Title>Bt. Lt.-Col.</Title>
       <Forenames>E. G.</Forenames>
-      <Text>, C.B., D.S.O. (temp. Lt.-Col. whilst spec, empld.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6326</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -421,11 +444,15 @@
       </Key>
       <Title>2nd Lt. (now Lt.)</Title>
       <Forenames>R. C</Forenames>
-      <Text>, M.C. (seed, for service with M.G. Corps)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4313</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Actg. Maj. oomdg. a Co., M.G.C., Inly, .;</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>4667</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -443,7 +470,9 @@
       <Key>Waddell</Key>
       <Title>temp. Capt.</Title>
       <Forenames>C. D.</Forenames>
-      <Text>, M.C. (rel. commn. on completion of service, and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5192</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -474,7 +503,9 @@
       </Key>
       <Title>temp. Capt.</Title>
       <Forenames>G. G.</Forenames>
-      <Text>, M.C. (rel. actg. rank of Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4948</PageNumber>
     </MainItem>
     <SubItem>
@@ -572,7 +603,7 @@
       <PageNumber>5221</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Rel. commn. on completion of service, and retains rank of Lt</Text>
+      <Text>Rel. commn. on completion of service, and retains rank of Lt.</Text>
       <PageNumber>5221</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -582,7 +613,9 @@
         <KeyDitto>___</KeyDitto>
       </Key>
       <Title>Lt.</Title>
-      <Text>-Col: T. S. H., D.S.O. (Cbf.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6417</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -604,7 +637,13 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>T. M.</Forenames>
-      <Text>, D.S.O. (rel. actg. rank of Lt.-Col.) Wakeford, temp. 2nd Lt. E. G. (reL commn. on completion of service and retains rank of 2nd Lt.) Wakeling, Lt. S. C. (rel. actg. rank . of Capt.) Walby, Lt. H. C, D.S.O., M.C. (rel. commn. and granted rank of Capt.) Walch, Maj. J. C, D.S.O. (rel. actg. rank of Lt.-Col.) Walden, temp. Lt. H. A. (rel. commn. on completion of service and granted rank of Capt.) Waldman, 2nd Lt. W. H. (Lt.f ... Waldron, temp. Maj. (Qrmr. and Maj., ret. pay) C-, M.B.E. (rel. temp, commn. on ceasing to be empld., and granted rank of Maj.) Walduck, temp. Lt. S. A. (rel. (commn. on completion of service and retains rank of Lt.) ... Wale, temp. Lt. A. H. (rel. actg. rank of Capt.) ... Rel. commn. on completion of service and retains rank of Lt Wales, Lt. (temp. Capt.) A. H. (temp. Maj. whilstD.A.D.R.T.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>5454</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -615,7 +654,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>C. E.</Forenames>
-      <Text>, M.C. (resigns commn. and granted rank of Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5350</PageNumber>
     </MainItem>
   </ItemGroup>

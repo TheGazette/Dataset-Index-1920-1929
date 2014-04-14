@@ -32,7 +32,10 @@
       <Key>Irofeit</Key>
       <Title>Col.</Title>
       <Forenames>C. W.</Forenames>
-      <Text>, C.S.I., C.M.G., D.S.O., M.B., K.H.S. (Dep. Dir. of Med. Services, Waziristan Force)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4483</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -59,7 +62,9 @@
       <Key>Quinan</Key>
       <Title>Maj.</Title>
       <Forenames>E. P.</Forenames>
-      <Text>, O.B.E. (G.S.O., 2nd Grade, Intelligence, Waziristan Force)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4480</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -85,7 +90,9 @@
       <Key>Rebsch</Key>
       <Title>Maj.</Title>
       <Forenames>W. K.</Forenames>
-      <Text>, D.S.O. (Dep. Asst. Dir. of Supplies and Trans., Waziristan Force)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4483</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -181,7 +188,9 @@
       <Key>Ross</Key>
       <Title>Maj.</Title>
       <Forenames>E. J.</Forenames>
-      <Text>, M.C. (Bde. Maj., 6th Ind. Bde.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4254</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -199,7 +208,9 @@
       <Key>Routh</Key>
       <Title>Maj. (.temp. Lt.-Col.)</Title>
       <Forenames>G. M.</Forenames>
-      <Text>, D.S.O. (Asst. Dir. of Ordnance Services, Waziristan Force)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4483</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -287,8 +298,10 @@
     <MainItem>
       <Key>Scott</Key>
       <Title>Bt. Lt.-Col.</Title>
-      <Forenames>H. St</Forenames>
-      <Text>. G. S., D.S.O. (Asst. Mil. Secretary, Mil. Sch..Bch.)</Text>
+      <Forenames>H. St. G</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4254</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -299,7 +312,9 @@
       </Key>
       <Title>Capt. (temp. Maj.)</Title>
       <Forenames>M. A. H.</Forenames>
-      <Text>, M.C. (Dep. Asst. Dir. of Works, East Persia Force, 6th May to 13th June 1919)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4485</PageNumber>
     </MainItem>
     <SubItem>
@@ -330,7 +345,10 @@
       <Key>Sherston</Key>
       <Title>Capt. and Bt. Maj.</Title>
       <Forenames>J. R. V.</Forenames>
-      <Text>, D.S.O., M.C. (G.S.O., 3rd Grade, at India Office)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4486</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -366,7 +384,10 @@
       <Key>Skeen</Key>
       <Title>Maj.-Gen. Sir</Title>
       <Forenames>A.</Forenames>
-      <Text>, K.C.I.E., C.M.G. (Column Comdr., graded as Divl. Comdr., Waziristan Force)</Text>
+      <Text>
+        <Honour>K.C.I.E.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>4479</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -397,7 +418,9 @@
       <Key>Smyth</Key>
       <Title>Capt.</Title>
       <Forenames>J. G.</Forenames>
-      <Text>. V.O., M.C. (Bde. Maj., Waziristan Force)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4480</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -415,7 +438,9 @@
       <Key>Steele</Key>
       <Title>Maj. (temp. Lt.-Col.)</Title>
       <Forenames>C. E. B</Forenames>
-      <Text>„ C.I.E., O.B.E. (Dep. Dir. of Supplies and Trans., Waziristan Force)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4482</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -435,7 +460,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>K. T.</Forenames>
-      <Text>, M.C. (Staff Capt,, Q.M.G. Bch.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4254</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -462,14 +489,18 @@
   <ItemGroup>
     <MainItem>
       <Key>Stratton</Key>
-      <Text>Capt, G. L., M.C. (rel. appt, as G.S.O., 3rd Grade, G.S. Bch.)</Text>
+      <Forenames>Capt</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4255</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Stuart</Key>
-      <Text>Lt, (temp. Capt.) D. S. (O.S.O., 3rd Grade, Waziristan Force)</Text>
+      <Forenames>Lt</Forenames>
+      <Text>, (temp. Capt.) D. S. (O.S.O., 3rd Grade, Waziristan Force)</Text>
       <PageNumber>4480</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -483,14 +514,20 @@
   <ItemGroup>
     <MainItem>
       <Key>Sweenev</Key>
-      <Text>Maj. (temo. T.t.-Col.l R T. C . n.fi O . O.B.E.. MO (Asst. Dir. of Sunolies and Trans.. Waziristan Force)</Text>
+      <Title>Maj.</Title>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4482</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Svrifft</Key>
-      <Text>Maj. (temo. Lt.-Col.l (now T.f-Col.l Mark. CLE D.S.O. (Asst. Dir. nf Suonlies and Trans.. East Persia Force)</Text>
+      <Title>Maj.</Title>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4485</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -78,7 +78,9 @@
     <MainItem>
       <Key>Lodge</Key>
       <Forenames>A. B.</Forenames>
-      <Text>, D.S.O. (confd.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>9147</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -251,8 +253,8 @@
     <MainItem>
       <Key>Mungavin</Key>
       <Title>Lt.</Title>
-      <Forenames>H. St</Forenames>
-      <Text>. J. (permitted to retain temp, rank of Capt. whilst, Staff Capt.)</Text>
+      <Forenames>H. St. J</Forenames>
+      <Text>. (permitted to retain temp, rank of Capt. whilst, Staff Capt.)</Text>
       <PageNumber>9146</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -273,15 +275,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, D. N</Text>
+      <Key>O'Connor</Key>
+      <Forenames>D. N</Forenames>
       <PageNumber>7461</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Suliivan, F. W</Text>
+      <Key>O'Suliivan</Key>
+      <Forenames>F. W</Forenames>
       <PageNumber>7669</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -510,7 +512,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stenson</Key>
-      <Text>., L. H. E. (on prob., reverts to British service)</Text>
+      <Text>, L. H. E. (on prob., reverts to British service)</Text>
       <PageNumber>9118</PageNumber>
     </MainItem>
     <SubItem>
@@ -646,7 +648,9 @@
     <MainItem>
       <Key>Walker</Key>
       <Forenames>C. H.</Forenames>
-      <Text>, M.M</Text>
+      <Text>
+        <Honour>M.M</Honour>
+      </Text>
       <PageNumber>8187</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1097,7 +1101,9 @@
     <MainItem>
       <Key>Tower</Key>
       <Forenames>H. G. E.</Forenames>
-      <Text>, M.C. (corr. of date)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9452</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1403,7 +1409,9 @@
     <MainItem>
       <Key>Bull</Key>
       <Forenames>L. C</Forenames>
-      <Text>, M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>7870</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1592,7 +1600,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dawson</Key>
-      <Text>. K. C. D</Text>
+      <Forenames>K. C. D</Forenames>
       <PageNumber>84112</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1645,14 +1653,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Doig</Key>
-      <Text>. E. W</Text>
+      <Forenames>E. W</Forenames>
       <PageNumber>9147</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Dominy</Key>
-      <Text>. F. C</Text>
+      <Forenames>F. C</Forenames>
       <PageNumber>7462</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1667,7 +1675,9 @@
     <MainItem>
       <Key>Duley</Key>
       <Forenames>B. W.</Forenames>
-      <Text>, M.M</Text>
+      <Text>
+        <Honour>M.M</Honour>
+      </Text>
       <PageNumber>7462</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1726,7 +1736,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Ehtwisle</Key>
-      <Text>. F., D.S.O., M.C</Text>
+      <Forenames>F.</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>9320</PageNumber>
     </MainItem>
   </ItemGroup>

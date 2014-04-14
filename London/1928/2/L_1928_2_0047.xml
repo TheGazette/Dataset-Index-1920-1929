@@ -453,7 +453,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McDonald</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>3582</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -831,7 +831,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Graham</Key>
-      <Forenames>The Marquess</Forenames>
+      <Title>The</Title>
+      <Forenames>Marquess</Forenames>
       <Text>of</Text>
       <PageNumber>4107</PageNumber>
     </MainItem>
@@ -1219,8 +1220,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Burke</Key>
-      <Forenames>H. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>H. St. G</Forenames>
       <PageNumber>2449</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1421,8 +1421,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Crean</Key>
-      <Forenames>E. O</Forenames>
-      <Text>'D</Text>
+      <Forenames>E. O'D</Forenames>
       <PageNumber>3251</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1525,10 +1524,17 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Havilland</Forenames>
-      <Text>, G. R</Text>
+      <Key>De Havilland</Key>
+      <Forenames>G. R</Forenames>
       <PageNumber>3427</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Woulfe</Key>
+      <Forenames>Wytt</Forenames>
+      <Text>, A. P</Text>
+      <PageNumber>4347</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

@@ -216,7 +216,9 @@
     <MainItem>
       <Key>Maekay</Key>
       <Forenames>A. J.</Forenames>
-      <Text>, M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>11944</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -244,7 +246,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Maguire</Key>
-      <Text>G. E., M.C</Text>
+      <Forenames>G. E.</Forenames>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>10002</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -260,8 +265,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Martin</Key>
-      <Forenames>G. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>G. St. J</Forenames>
       <PageNumber>10309</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -406,7 +410,9 @@
     <MainItem>
       <Key>Taylor</Key>
       <Forenames>A. C</Forenames>
-      <Text>, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>10756</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -486,7 +492,9 @@
     <MainItem>
       <Key>Villiers-Stuart</Key>
       <Forenames>P. G.</Forenames>
-      <Text>, M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>11825</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -844,7 +852,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Bigwood</Key>
-      <Text>W., M.C</Text>
+      <Forenames>W.</Forenames>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>10463</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -873,7 +884,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Booth</Key>
-      <Text>A. fl</Text>
+      <Forenames>A.</Forenames>
+      <Text>fl</Text>
       <PageNumber>10310</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -889,7 +901,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bousfield</Key>
-      <Text>H. N</Text>
+      <Forenames>H. N .</Forenames>
       <PageNumber>10464</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1049,7 +1061,9 @@
     <MainItem>
       <Key>Cleveland</Key>
       <Forenames>E. A. M.</Forenames>
-      <Text>, M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>10003</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1107,7 +1121,9 @@
     <MainItem>
       <Key>Couldrey</Key>
       <Forenames>O.</Forenames>
-      <Text>, M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>10003</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1312,8 +1328,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Farrell</Key>
-      <Forenames>J. K. O</Forenames>
-      <Text>'M</Text>
+      <Forenames>J. K. O'M</Forenames>
       <PageNumber>11125</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1398,7 +1413,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gemmell</Key>
-      <Text>A</Text>
+      <Forenames>A.</Forenames>
       <PageNumber>10003</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1456,7 +1471,9 @@
     <MainItem>
       <Key>Grimshaw</Key>
       <Forenames>J. E.</Forenames>
-      <Text>V.C</Text>
+      <Text>
+        <Honour>V.C</Honour>
+      </Text>
       <PageNumber>10464</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1486,7 +1503,10 @@
     <MainItem>
       <Key>Haine</Key>
       <Forenames>R. L.</Forenames>
-      <Text>, V.C., M.C</Text>
+      <Text>
+        <Honour>V.C.</Honour>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>10309</PageNumber>
     </MainItem>
   </ItemGroup>

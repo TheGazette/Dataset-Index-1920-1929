@@ -87,7 +87,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Ingle</Key>
-      <Text>ICapt. E. W., M.D. (Maj.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>9349</PageNumber>
     </MainItem>
     <SubItem>
@@ -100,7 +102,9 @@
       <Key>Irvine</Key>
       <Title>temp. Capt.</Title>
       <Forenames>L. G.</Forenames>
-      <Text>, M.D. .(rel. temp, commn. on ceasing to be empld. with Union Imperial Service Contingent and retains rank of Capt.), Sub. Not</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>9349</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -108,8 +112,8 @@
     <MainItem>
       <Key>Jacobs</Key>
       <Title>temp. Lt.</Title>
-      <Forenames>A.</Forenames>
-      <Text>de S. (rel. commn. on completion of service and retains rank of Lt.)</Text>
+      <Forenames>A. de S</Forenames>
+      <Text>. (rel. commn. on completion of service and retains rank of Lt.)</Text>
       <PageNumber>9122</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -127,7 +131,9 @@
       <Key>Jeffrey</Key>
       <Title>temp. Maj.</Title>
       <Forenames>G. R.</Forenames>
-      <Text>, O.B.E. (rel. temp, commn. on completion of service and retains rank)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>7569</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -172,7 +178,10 @@
       <Key>Kippen</Key>
       <Title>temp. Capt.</Title>
       <Forenames>W. H.</Forenames>
-      <Text>, D.S.O., M.C. (temp. Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8769</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -181,7 +190,9 @@
       <Key>Kirby</Key>
       <Title>temp. Capt.</Title>
       <Forenames>W. H.</Forenames>
-      <Text>, M.C. (rel. commn. on acc. of illhealth . caused by wounds and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7647</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -190,7 +201,9 @@
       <Key>Knight</Key>
       <Title>temp. Capt.</Title>
       <Forenames>R. C</Forenames>
-      <Text>, O.B.E. (rel. commn. on completion of service and granted rank of Maj.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>8372</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -199,7 +212,9 @@
       <Key>Lance</Key>
       <Title>temp. Capt.</Title>
       <Forenames>W. H. C. A.</Forenames>
-      <Text>, M.B.E. (rel. temp, commn. on completion of service and retains rank)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>7559</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -217,7 +232,9 @@
       <Key>Leech</Key>
       <Title>temp. Lt.</Title>
       <Forenames>G. A.</Forenames>
-      <Text>, M.M. (rel. commn. on completion of service and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>8472</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -239,7 +256,9 @@
       <Key>Lunn</Key>
       <Title>temp. Capt.</Title>
       <Forenames>W. S.</Forenames>
-      <Text>, M.C. i(rel. commn. on acc. of illhealth and retains rank of Capt.), Sub. Not.,</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8148</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -302,7 +321,9 @@
       <Key>
         <KeyDitto>-</KeyDitto>
       </Key>
-      <Text>McNaughton, temp. Capt. J., M.C. (rel. commn. on appt. to a -commn. in Terr. Force)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8570</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -311,14 +332,18 @@
       <Key>McNeil</Key>
       <Title>temp. Capt.</Title>
       <Forenames>B. P.</Forenames>
-      <Text>, M.C., M.B. (corr. of name)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8369</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>McNeill</Key>
-      <Text>,temp. Lt. (actg. Maj.) A. D., D.C.M. (rel. actg. rank of .Maj., corr. cf date), Sub. Not</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>9615</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -354,7 +379,9 @@
       <Key>Merritt</Key>
       <Title>Qrmr. and Lt.-Col.</Title>
       <Forenames>George</Forenames>
-      <Text>, O.B.E. (rel. commn. on ceasing to be empld and retains rank of Lt.-Col.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>7739</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -442,8 +469,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donnell, temp. Lt. H. D. (rel. commn^ on completion of service and retains rank of Lt.)</Text>
+      <Key>O'Donnell</Key>
+      <Title>temp. Lt.</Title>
+      <Forenames>H. D.</Forenames>
+      <Text>(rel. commn^ on completion of service and retains rank of Lt.)</Text>
       <PageNumber>8684</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -452,7 +481,9 @@
       <Key>Okell</Key>
       <Title>temp. Lt.</Title>
       <Forenames>R.</Forenames>
-      <Text>, M.C. (rel. temp, commn, on completion of service and retains rank)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7559</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -461,7 +492,9 @@
       <Key>Orford</Key>
       <Title>Capt.</Title>
       <Forenames>H. J.</Forenames>
-      <Text>, O.B.E., M.B. (rel, actg. rank of Maj.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>7295</PageNumber>
     </MainItem>
     <SubItem>
@@ -481,8 +514,10 @@
     <MainItem>
       <Key>Overbeck</Key>
       <Title>temp. Lt.</Title>
-      <Forenames>I.</Forenames>
-      <Text>de M., M.C. {rel. comrain. on completion of service and granted rank of Capt.) Sub. Not</Text>
+      <Forenames>I. de M</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7742</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -508,7 +543,9 @@
     <MainItem>
       <Key>Rann</Key>
       <Title>temp.</Title>
-      <Text>.Maj. (Capt. R. Mar.) ' A. E., O.B..E., M.C. (rel. temp, commn. on ceasing to be empld. and retains rank of Maj.), Sub. Not</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8137</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -532,14 +569,18 @@
       <Key>Ross</Key>
       <Title>temp. Lt.</Title>
       <Forenames>A. J.</Forenames>
-      <Text>, M.B.E. (rel. commn. on completion of service and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>8472</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Rushforth</Key>
-      <Text>temp: Lt. A. H., M.C. (rel. commn. on acc. of ill-health and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8783</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -556,7 +597,11 @@
     <MainItem>
       <Key>Sandes</Key>
       <Title>temp. Maj. and Bt. Lt.</Title>
-      <Text>Col. T. L., O.B.E., M.D. (rel. commn. and retains Bt. rank of Lt.-Col.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.D.</Honour>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>9590</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -12,14 +12,19 @@
     <MainItem>
       <Key>Knuthsen</Key>
       <Forenames>Manor Louis Francis Roebuck</Forenames>
-      <Text>, ' O.B.E., M.D., transferred to grade of Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>6696</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>K</Key>
-      <Text>.v !, Henry Greville, M.D., transferred to grade of Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>0807</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -44,7 +49,9 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Stanley Harrison</Forenames>
-      <Text>, O.B.E., transferred to grade of Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>6096</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -52,7 +59,9 @@
     <MainItem>
       <Key>Lane-Fox</Key>
       <Forenames>George Richard</Forenames>
-      <Text>, T.D., Member of Indian Commission</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>7661</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -93,7 +102,9 @@
     <MainItem>
       <Key>Larking</Key>
       <Forenames>Arthur Ernest</Forenames>
-      <Text>, M.D., D. P.H., transferred to grade of Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>6807</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -101,7 +112,9 @@
     <MainItem>
       <Key>Le</Key>
       <Forenames>Messurier</Forenames>
-      <Text>, Henry William, C.M.G., transferred to grade of Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>6807</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -118,7 +131,9 @@
     <MainItem>
       <Key>Lennox</Key>
       <Title>Surg.</Title>
-      <Text>-Colonel David, M.D., transferred to grade of Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>6619</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -198,7 +213,9 @@
     <MainItem>
       <Key>Lucie-Smith</Key>
       <Forenames>Edmond Wode-</Forenames>
-      <Text>house, O.B.E., Member of the Privy Council of the Island of Jamaica</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>8369</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -206,7 +223,9 @@
     <MainItem>
       <Key>Luxmoore</Key>
       <Title>Surgeon-Lieut.</Title>
-      <Text>Colonel Evelyn John Hansler, M.C., M.R.C.S., transferred to grade of Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6807</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -215,7 +234,9 @@
       <Key>McCloy</Key>
       <Title>Captain</Title>
       <Forenames>John Moor-</Forenames>
-      <Text>croft, M.D., D.P.H., transferred to grade of Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>6695</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -248,7 +269,10 @@
       <Key>MacGillivrny</Key>
       <Title>Major</Title>
       <Forenames>Angus</Forenames>
-      <Text>' M.D., F.R.S.E., F.S.A., T.D.. transferred to grade of Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>6620</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -256,7 +280,9 @@
     <MainItem>
       <Key>McGowan</Key>
       <Forenames>Robert George</Forenames>
-      <Text>, M.D., D.P.H., transferred to grade of Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>6696</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -281,7 +307,10 @@
       <Key>Mackay</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>William Bertie</Forenames>
-      <Text>, C.M.G., M.D.,Ed., M.R.C.S., transferred to grade of Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>6619</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -290,7 +319,9 @@
       <Key>Mackenzie</Key>
       <Title>Lieut.-Col.</Title>
       <Forenames>Thomas</Forenames>
-      <Text>, M.D., transferred to grade of Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>6696</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -301,46 +332,198 @@
       </Key>
       <Title>Sir (William)</Title>
       <Forenames>Leslie</Forenames>
-      <Text>, M.D., F.R.C.P., LL.D., member of General Council of Medical Education and Registration</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>6960</PageNumber>
     </MainItem>
   </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>McKettrick</Key>
+      <Forenames>Frederick John</Forenames>
+      <Text>, M.B., transferred to grade of Officer, Older of St. John ofJerusalem</Text>
+      <PageNumber>680</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>McLannahan</Key>
+      <Title>Captain</Title>
+      <Forenames>James Gunn</Forenames>
+      <Text>, L.R.C.P. &amp; S.I., transferred to grade of Officer, Order of St. John of Jerusalem</Text>
+      <PageNumber>6807</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>MacLean</Key>
+      <Title>Lt.-Col.</Title>
+      <Forenames>John Bayne</Forenames>
+      <Text>, ' transferred to grade of Officer, Order of St. John of Jerusalem</Text>
+      <PageNumber>0619</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>M</Key>
+      <Text>oNeill, James, GovernorGeneral of the Irish Free State</Text>
+      <PageNumber>8140</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <KeyDitto>___ ___ .</KeyDitto>
+  <ItemGroup>
+    <MainItem>
+      <Key>McPherson</Key>
+      <Forenames>Joseph Clarke</Forenames>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
+      <PageNumber>7979</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Madgshon</Key>
+      <Forenames>Minnie Laurence Curie</Forenames>
+      <Text>, M.B., transferred to grade of Officer, Order of St. John of Jerusalem</Text>
+      <PageNumber>680</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Magian</Key>
+      <Forenames>Anthony John Capper</Forenames>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
+      <PageNumber>6696</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Magniac</Key>
+      <Forenames>Diana Geraldine Vere</Forenames>
+      <Text>, Mrs. C, transferred to grade of Officer, Order of St. John of Jerusalem</Text>
+      <PageNumber>6696</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Maher</Key>
+      <Title>Major-</Title>
+      <Forenames>General</Forenames>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>C.B.</Honour>
+      </Text>
+      <PageNumber>6695</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Malone</Key>
+      <Forenames>Clement</Forenames>
+      <Text>, Unofficial Member, Executive Council of Presidency of St. Christopher and Nevis</Text>
+      <PageNumber>7980</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Malpas</Key>
+      <Forenames>James</Forenames>
+      <Text>, M.R.C.S., transferred to grade of Officer, Order of St. John of Jerusalem</Text>
+      <PageNumber>6019</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Mansbridge</Key>
+      <Title>Capt.</Title>
+      <Forenames>Henry</Forenames>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
+      <PageNumber>6696</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Marr</Key>
+      <Forenames>Alexander</Forenames>
+      <Text>, CLE., Member of the Executive Council of the Governor of Bengal</Text>
+      <PageNumber>6701</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Marsh</Key>
+      <Forenames>John Holt</Forenames>
+      <Text>, L.R.CP. &amp;, S., transferred to grade of Officer, Order of St. John of Jerusalem</Text>
+      <PageNumber>6620</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Mason</Key>
+      <Forenames>Edward Ratcliffo Fidler</Forenames>
+      <Text>, L.R.C.P. &amp; S., transferred . to grade of Officer, Order of St. Johnof Jerusalem</Text>
+      <PageNumber>6620</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
       <Forenames>Harold</Forenames>
-      <Text>, M.B., M.R.C.S., transferred to grade of Officer, Order of St. John of Jerusalem ... Mawdsley, William Henry Macoun, transferred to grade of Officer, Order of St. John of Jerusalem ... Maxwell, Captain Leslie Blyth, O.B.E., transferred to grade of. Officer, Order of St. John of Jerusalem ... Mayhew,' Thomas Edgar, transferred to . grade of Officer, Order of St. John of Jerusalem Meadows, Lieut.-Colonel Sydney Manvers Woollier. D.S.O., M.R.C.S., L.R.O.P., R.A.M.C, transferred to grade of Officer, Order of St. John of Jerusalem ... Meiklejohn, Roderick Sinclair, O.B., Civil Service Commissioner</Text>
-      <PageNumber>680</PageNumber>
+      <Text>, M.B., M.R.C.S., transferred to grade of Officer, Order of St. John of Jerusalem</Text>
+      <PageNumber>6808</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>
-        <KeyDitto>--,</KeyDitto>
-      </Key>
-      <Text>71</Text>
-      <PageNumber>13</PageNumber>
+      <Key>Mawdsley</Key>
+      <Forenames>William Henry Macoun</Forenames>
+      <Text>, transferred to grade of Officer, Order of St. John of Jerusalem</Text>
+      <PageNumber>6696</PageNumber>
     </MainItem>
-    <SubItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Maxwell</Key>
+      <Title>Captain</Title>
+      <Forenames>Leslie Blyth</Forenames>
       <Text>
-        <PageNumber>6701</PageNumber>
-        <PageNumber>6620</PageNumber>
+        <Honour>O.B.E.</Honour>
       </Text>
-      <PageNumber>6620</PageNumber>
-    </SubItem>
-    <SubItem>
+      <PageNumber>6696</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Mayhew</Key>
+      <Text>' Thomas Edgar, transferred to . grade of Officer, Order of St. John of Jerusalem</Text>
+      <PageNumber>6807</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Meadows</Key>
+      <Title>Lieut.</Title>
       <Text>
-        <PageNumber>6696</PageNumber>
-        <PageNumber>6696</PageNumber>
-        <PageNumber>6807</PageNumber>
-        <PageNumber>6808</PageNumber>
-        <PageNumber>8366</PageNumber>
+        <Honour>D.S.O.</Honour>
       </Text>
-      <PageNumber>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</PageNumber>
-    </SubItem>
+      <PageNumber>6808</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Meiklejohn</Key>
+      <Forenames>Roderick Sinclair</Forenames>
+      <Text>, O.B., Civil Service Commissioner</Text>
+      <PageNumber>8366</PageNumber>
+    </MainItem>
   </ItemGroup>
   <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
 </Index>

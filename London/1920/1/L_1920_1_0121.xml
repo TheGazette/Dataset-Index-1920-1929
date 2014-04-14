@@ -75,7 +75,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Henry</Forenames>
-      <Text>, D.Sc, M.B., F.R.C.S.. Officer. Order of the British Empire</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>3778</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -150,7 +152,10 @@
     <MainItem>
       <Key>Brigsiocke</Key>
       <Forenames>Charles Reginald</Forenames>
-      <Text>, Companion, Order of the Baith Brims, Lieut.-Col. Charles William. M.C.. T.D.. Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>3762</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -196,7 +201,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rrinnand</Key>
-      <Text>. John Thomas. Member, Order of the British fEmpire</Text>
+      <Forenames>John Thomas</Forenames>
+      <Text>. Member, Order of the British fEmpire</Text>
       <PageNumber>3818</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -204,7 +210,9 @@
     <MainItem>
       <Key>Briscoe</Key>
       <Forenames>William Richard Brunskill</Forenames>
-      <Text>, O.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3762</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -227,7 +235,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Britten</Key>
-      <Text>. ICharles Douglas. Member. Order of the British Empire</Text>
+      <Text>ICharles Douglas. Member. Order of the British Empire</Text>
       <PageNumber>3818</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -243,7 +251,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Brood</Key>
-      <Text>. Lt. (A./Capt.) Arthur Xowell, Member, Order of *he British Empire</Text>
+      <Title>Lt. (A./Capt.)</Title>
+      <Forenames>Arthur Xowell</Forenames>
+      <Text>, Member, Order of *he British Empire</Text>
       <PageNumber>1374</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -276,7 +286,9 @@
     <MainItem>
       <Key>Brookbank</Key>
       <Forenames>Edward Mansfield</Forenames>
-      <Text>M.D., F.B.C.P., Member. Order of t!ie British Empire</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>1238</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -323,14 +335,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Bromhead</Key>
-      <Text>. Miss Ethel, Member, Order of the British Empire</Text>
+      <Title>Miss</Title>
+      <Forenames>Ethel</Forenames>
+      <Text>, Member, Order of the British Empire</Text>
       <PageNumber>5818</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Bromwich</Key>
-      <Text>. Frederick Dudman, Member, Order of the British Empuv</Text>
+      <Forenames>Frederick Dudman</Forenames>
+      <Text>, Member, Order of the British Empuv</Text>
       <PageNumber>3818</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -357,7 +372,9 @@
       <Key>
         <KeyDitto />
       </Key>
-      <Text>(apt. .(T./Lt.-Col.) Reginald James, 'D.S.O., Commander, 'Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>664</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -366,7 +383,9 @@
       <Key>Brooke</Key>
       <Title>Cdr.</Title>
       <Forenames>Basil Richard</Forenames>
-      <Text>, D.S.O., Bar tc D.S.O</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>949</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -376,7 +395,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Edward Geoffrey</Forenames>
-      <Text>de Gapell, O.B.E., Camillander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3762</PageNumber>
     </MainItem>
     <SubItem>
@@ -595,7 +616,9 @@
       </Key>
       <Title>Paymr.</Title>
       <Forenames>Com</Forenames>
-      <Text>dr. John Edwin Ambrose, O.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>5762</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -628,7 +651,9 @@
       <PageNumber>3819</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>. .Robert Ounyngliani, O.B.E., Comuminder, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3762</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -700,7 +725,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Broiwnsword</Key>
-      <Text>. Walter Member Order of the British Empire</Text>
+      <Forenames>Walter Member Order</Forenames>
+      <Text>of the British Empire</Text>
       <PageNumber>3819</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -22,7 +22,9 @@
     <MainItem>
       <Key>Serjeantson</Key>
       <Title>temp. Capt.</Title>
-      <Text>and County Adjt. (Capt., ret. pay) C. M., O.B.E. (rel. commn., and granted hon. rank of Capt.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3756</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -428,7 +430,10 @@
     <MainItem>
       <Key>Shaw-Stewart</Key>
       <Title>temp. Lt.-Col.</Title>
-      <Text>and County Comdt, Sir H. M., Bt., C.B. (rel. commn. and to be Bon. Lt.-Col.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>3528</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -443,7 +448,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Sheard</Key>
-      <Text>. temp. Lt. S. A. (rel. commn. and to be Hon. Lt.)</Text>
+      <Title>temp. Lt.</Title>
+      <Forenames>S. A.</Forenames>
+      <Text>(rel. commn. and to be Hon. Lt.)</Text>
       <PageNumber>825</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -520,7 +527,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Shenton</Key>
-      <Text>. temp. 2nd Lt. E. C. (rel. commn. and to be Hon. 2nd Lt.)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>E. C.</Forenames>
+      <Text>(rel. commn. and to be Hon. 2nd Lt.)</Text>
       <PageNumber>2856</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -623,7 +632,9 @@
       <Key>Sherwood</Key>
       <Title>temp. Capt.</Title>
       <Forenames>A. P.</Forenames>
-      <Text>, M.D. (rel. commn. and to be Hon. Capt.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3428</PageNumber>
     </MainItem>
   </ItemGroup>

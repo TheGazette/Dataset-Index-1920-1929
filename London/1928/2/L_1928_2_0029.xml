@@ -5,7 +5,11 @@
       <Key>Muller</Key>
       <Title>Sir</Title>
       <Forenames>William Grenfell Max</Forenames>
-      <Text>, K.C.M.G., C.B., M.V.O., Knight Grand Cross, Order of the British Empire</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>3858</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -13,7 +17,9 @@
     <MainItem>
       <Key>Murdoch</Key>
       <Forenames>Lieutenant-</Forenames>
-      <Text>Colonel the Hon. James Anderson, C.M.G., Knight Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>3858</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -50,7 +56,9 @@
       </Key>
       <Title>Warrant Officer</Title>
       <Forenames>Class I</Forenames>
-      <Text>, Regimental SergeantMajor William, D.C.M., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>3853</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -82,7 +90,9 @@
     <MainItem>
       <Key>Naughton</Key>
       <Forenames>Commissary</Forenames>
-      <Text>and Major Thomas Henry, M.B.E., Officer, Order of the British Ehipire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3852</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -151,7 +161,10 @@
     <MainItem>
       <Key>Newland</Key>
       <Forenames>Lieutenant-</Forenames>
-      <Text>Colonel Henry Simpson, C.B.E., D. S.O., M.B., Knight</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>D. S.O.</Honour>
+      </Text>
       <PageNumber>3847</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -160,7 +173,9 @@
       <Key>Nicholl</Key>
       <Title>Sir</Title>
       <Forenames>Edward</Forenames>
-      <Text>, J.P., D.L., Knight Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.L.</Honour>
+      </Text>
       <PageNumber>3854</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -177,7 +192,9 @@
       <Key>Nicolson</Key>
       <Title>Hon.</Title>
       <Forenames>Harold George</Forenames>
-      <Text>, C.M.G., Counsellor of Embassy in H.M. Diplomatic Service</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>3652</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -228,7 +245,10 @@
       <Key>Nugent</Key>
       <Title>Major</Title>
       <Forenames>Terence Edward Gascoigne</Forenames>
-      <Text>, M.V.O., M.C., Extra Equerry to H.R.H. the Duke of York</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3945</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -243,8 +263,12 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, Warrant Officer Class II, Company SergeantMajor Thomas Coulthard, D.C.M., Member, Order of the British Empire</Text>
+      <Key>O'Brien</Key>
+      <Title>Warrant Officer</Title>
+      <Forenames>Class</Forenames>
+      <Text>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>3853</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -262,7 +286,11 @@
         <KeyDitto>___ —— ___ ___</KeyDitto>
       </Key>
       <Title>Major</Title>
-      <Text>General Walter Holland, C.B., C.M.G., M.B., K.H.P., Knight Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>K.H.P.</Honour>
+      </Text>
       <PageNumber>3851</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -270,7 +298,31 @@
     <MainItem>
       <Key>Oliver</Key>
       <Title>Admiral</Title>
-      <Text>of the Fleet Sir Henry Francis, K.C.B., K.C.M.G., M.V.O., LL.D., Knight Grand Cross, Order of the Bath Ollis, Captain (Local Major) Frederick William, Officer, Order of the British Empire Openshaw, James, O.B.E., J.P., D.L., Knight</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>M.V.O.</Honour>
+      </Text>
+      <PageNumber>3847</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Ollis</Key>
+      <Title>Captain (Local Major)</Title>
+      <Forenames>Frederick William</Forenames>
+      <Text>, Officer, Order of the British Empire</Text>
+      <PageNumber>3852</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Openshaw</Key>
+      <Forenames>James</Forenames>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>D.L.</Honour>
+      </Text>
       <PageNumber>3846</PageNumber>
       <PageNumber>4410</PageNumber>
     </MainItem>
@@ -280,14 +332,182 @@
       <Key>Orange</Key>
       <Title>Sir</Title>
       <Forenames>Hugh William</Forenames>
-      <Text>, C.B., C.I.E., Knight Commander, Order of the British Empire Osborn, Nathaniel Francis Banner, C.B., Knight Commander, Order of the British Empire Osborne, Francis DArcy Godolphin, Counsellor of Embassy in H.M. Diplomatic Service ... Owen, Ellis, Officer, Order of the British Empire ... Palmer, Rosina, Mrs., J.P., Member, Order of the British Empire Pandit Ram Nath, Member, Order of the British Empire Paramour, William George, Member, Order of the British Empire Parbury, Lieutenant-Colonel Ernest, Officer, Order of the British Empire Parkinson, Augustus Rawle, Member, Order of the British Empire Paske-Smith, Montague Bentlev Talbot, C.B.E., H.M. Consul at Osaka ... Paton, George Pearson, C.B.E., H.M. Consul at Tamsui -. ... Paxon, George Henry, Member, Order of the British Empire Pearce, Alexander Hugh Blaxell, Official Member of the Executive Council of the Baham Islands ... Pedley, Warrant Officer Class II, Quartermaster SergeantInstructor Thomas William, Member, Order of the British Empire Peel, William, C.M.G., Knight Commander, Order of the British Empire Peffers, Captain Andrew, Officer. Order of the British Empire Pellatt, Colonel Reginald, Officer. Order of St. John of Jerusalem ... ... Pemberton, Max, J.P., Knight</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
+      <PageNumber>3854</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Osborn</Key>
+      <Forenames>Nathaniel Francis Banner</Forenames>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
+      <PageNumber>3854</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Osborne</Key>
+      <Forenames>Francis</Forenames>
+      <Text>DArcy Godolphin, Counsellor of Embassy in H.M. Diplomatic Service</Text>
+      <PageNumber>3652</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Owen</Key>
+      <Forenames>Ellis</Forenames>
+      <Text>, Officer, Order of the British Empire</Text>
+      <PageNumber>3856</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Palmer</Key>
+      <Forenames>Rosina</Forenames>
+      <Text>, Mrs., J.P., Member, Order of the British Empire</Text>
+      <PageNumber>3857</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Pandit</Key>
+      <Forenames>Ram Nath</Forenames>
+      <Text>, Member, Order of the British Empire</Text>
+      <PageNumber>3860</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Paramour</Key>
+      <Forenames>William George</Forenames>
+      <Text>, Member, Order of the British Empire</Text>
+      <PageNumber>3857</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Parbury</Key>
+      <Forenames>Lieutenant-</Forenames>
+      <Text>Colonel Ernest, Officer, Order of the British Empire</Text>
+      <PageNumber>3852</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Parkinson</Key>
+      <Forenames>Augustus Rawle</Forenames>
+      <Text>, Member, Order of the British Empire</Text>
+      <PageNumber>3861</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Paske-Smith</Key>
+      <Forenames>Montague Bentlev Talbot</Forenames>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
+      <PageNumber>2812</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Paton</Key>
+      <Forenames>George Pearson</Forenames>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
+      <PageNumber>2812</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Paxon</Key>
+      <Forenames>George Henry</Forenames>
+      <Text>, Member, Order of the British Empire</Text>
+      <PageNumber>3857</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Pearce</Key>
+      <Forenames>Alexander Hugh Blaxell</Forenames>
+      <Text>, Official Member of the Executive Council of the Baham Islands</Text>
+      <PageNumber>2740</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Pedley</Key>
+      <Title>Warrant Officer</Title>
+      <Forenames>Class</Forenames>
+      <Text>II, Quartermaster SergeantInstructor Thomas William, Member, Order of the British Empire</Text>
+      <PageNumber>3853</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Peel</Key>
+      <Forenames>William</Forenames>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
+      <PageNumber>3860</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Peffers</Key>
+      <Title>Captain</Title>
+      <Forenames>Andrew</Forenames>
+      <Text>, Officer. Order of the British Empire</Text>
+      <PageNumber>3852</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Pellatt</Key>
+      <Title>Colonel</Title>
+      <Forenames>Reginald</Forenames>
+      <Text>, Officer. Order of St. John of Jerusalem</Text>
+      <PageNumber>4264</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Pemberton</Key>
+      <Forenames>Max</Forenames>
+      <Text>, J.P., Knight</Text>
       <PageNumber>3846</PageNumber>
+      <PageNumber>4410</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Penrose</Key>
-      <Text>' Henry Kelegher, Member, Order of the British Empire Perrott, Lady, R.R.C., Dame Grand Cross, Order of St. John of Jerusalem ... Pestonji Sorabji Kotwal, Commander, Order of the British Empire</Text>
+      <Text>' Henry Kelegher, Member, Order of the British Empire</Text>
+      <PageNumber>3859</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Perrott</Key>
+      <Title>Lady</Title>
+      <Text>
+        <Honour>R.R.C.</Honour>
+      </Text>
+      <PageNumber>4263</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Pestonji</Key>
+      <Forenames>Sorabji Kotwal</Forenames>
+      <Text>, Commander, Order of the British Empire</Text>
       <PageNumber>3859</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -328,22 +548,204 @@
     <MainItem>
       <Key>Pindar</Key>
       <Forenames>Walter Bawden</Forenames>
-      <Text>, 3847 Officer, Order of the British Empire</Text>
+      <Text>, Officer, Order of the British Empire</Text>
       <PageNumber>3856</PageNumber>
     </MainItem>
-    <SubItem>
-      <Text>Piran Ditta, Subadar-Major, D.C.M., Member, Order of the British Empire</Text>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Pinkham</Key>
+      <Forenames>Lieutenant-</Forenames>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>D.L.</Honour>
+      </Text>
+      <PageNumber>3846</PageNumber>
+      <PageNumber>4410</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Piran</Key>
+      <Forenames>Ditta</Forenames>
+      <Text>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>3853</PageNumber>
-    </SubItem>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Playfair</Key>
+      <Forenames>Nigel</Forenames>
+      <Text>, Knight</Text>
+      <PageNumber>3846</PageNumber>
+      <PageNumber>4410</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Plowman</Key>
+      <Forenames>Clifford Henry Fitz-</Forenames>
+      <Text>herbert, Officer, Order of the British Empire</Text>
+      <PageNumber>3860</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Pluck</Key>
+      <Forenames>Commissary</Forenames>
+      <Text>and Major Harry, Member, Order of the British Empire</Text>
+      <PageNumber>3853</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Plumer</Key>
+      <Title>Field-Marshal the Right Hon. Lord</Title>
+      <Text>
+        <Honour>G.C.B.</Honour>
+        <Honour>G.C.M.G.</Honour>
+        <Honour>G.C.V.O.</Honour>
+        <Honour>G.B.E.</Honour>
+      </Text>
+      <PageNumber>2900</PageNumber>
+    </MainItem>
     <SubItem>
-      <Text>___ ___ ___ Mr. Justice Henry Sheldon, Knight</Text>
-      <PageNumber>3847</PageNumber>
-    </SubItem>
-    <SubItem>
-      <Text>Prosser, Sir John, Commander, Royal Victorian Order</Text>
-      <PageNumber>3851</PageNumber>
+      <Text>Knight of Justice, Order of St. John of Jerusalem</Text>
+      <PageNumber>4264</PageNumber>
     </SubItem>
   </ItemGroup>
-  <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
+  <ItemGroup>
+    <MainItem>
+      <Key>Plymouth</Key>
+      <Forenames>Alberta</Forenames>
+      <Text>, Countess Dowager of, Dame of Justice, Order of St. John of Jerusalem</Text>
+      <PageNumber>4264</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Pollock</Key>
+      <Title>Sir</Title>
+      <Forenames>Henry Edward</Forenames>
+      <Text>, Kt., K.C., Unofficial Member of Legislative Council of Colony of Hong Kong</Text>
+      <PageNumber>2443</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Poole</Key>
+      <Forenames>Reginald Ward Edward Lane</Forenames>
+      <Text>, Knight</Text>
+      <PageNumber>2846</PageNumber>
+      <PageNumber>4410</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Popert</Key>
+      <Title>Miss</Title>
+      <Forenames>Kate Annie</Forenames>
+      <Text>, Member, Order of the British Empire</Text>
+      <PageNumber>3857</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Portal</Key>
+      <Forenames>Spencer John</Forenames>
+      <Text>, J.P., Knight</Text>
+      <PageNumber>3846</PageNumber>
+      <PageNumber>4410</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Portland</Key>
+      <Forenames>Winifred Anne</Forenames>
+      <Text>, Duchess of, Dame of Justice, Order of St. John of Jerusalem</Text>
+      <PageNumber>4264</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Pott</Key>
+      <Title>Captain</Title>
+      <Forenames>Herbert</Forenames>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
+      <PageNumber>3851</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Pratt</Key>
+      <Forenames>Harry</Forenames>
+      <Text>, Officer, Order of the British Empire</Text>
+      <PageNumber>3856</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___</KeyDitto>
+      </Key>
+      <Title>Mr.</Title>
+      <Forenames>Justice Henry Sheldon</Forenames>
+      <Text>, Knight</Text>
+      <PageNumber>3847</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Preston</Key>
+      <Forenames>Quartermaster</Forenames>
+      <Text>and Lieutenant Frederick, Member, Order of the British Empire</Text>
+      <PageNumber>3853</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Prideaux</Key>
+      <Forenames>Ordnance Lieutenant</Forenames>
+      <Text>Commander George, R.A.N., Member, Order of the British Empire</Text>
+      <PageNumber>3851</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Prosser</Key>
+      <Title>Sir</Title>
+      <Forenames>John</Forenames>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
+      <PageNumber>3851</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Protheroe-Smith</Key>
+      <Forenames>Lieutenant-</Forenames>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
+      <PageNumber>3846</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Prout</Key>
+      <Forenames>Lieutenant-</Forenames>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
+      <PageNumber>3849</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
 </Index>
 

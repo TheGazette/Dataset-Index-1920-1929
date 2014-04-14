@@ -4,7 +4,10 @@
     <MainItem>
       <Key>Robinson</Key>
       <Forenames>E. G.</Forenames>
-      <Text>, V.C., O.B.E</Text>
+      <Text>
+        <Honour>V.C.</Honour>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>10</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -39,7 +42,7 @@
       <PageNumber>1576</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>ment), Sub. Not.</Text>
+      <Text>ment), Sub. Not</Text>
       <PageNumber>1462</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -130,7 +133,9 @@
     <MainItem>
       <Key>Boddam-Whetham</Key>
       <Forenames>E. K.</Forenames>
-      <Text>, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>10</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -199,7 +204,9 @@
     <MainItem>
       <Key>Johnstone</Key>
       <Forenames>A.</Forenames>
-      <Text>, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>10</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -256,7 +263,9 @@
     <MainItem>
       <Key>Watkins</Key>
       <Forenames>G. R. S.</Forenames>
-      <Text>, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>10</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -288,7 +297,9 @@
       <Key>York</Key>
       <Title>H.R.H.</Title>
       <Forenames>Albert Frederick Arthur George</Forenames>
-      <Text>, Duke of, K.G</Text>
+      <Text>
+        <Honour>K.G</Honour>
+      </Text>
       <PageNumber>10</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -306,8 +317,17 @@
     <MainItem>
       <Key>Coates</Key>
       <Forenames>Francis G. C</Forenames>
-      <Text>, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>2407</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Thoren</Key>
+      <Forenames>Oscar E. A. de S</Forenames>
+      <PageNumber>146</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -328,7 +348,9 @@
     <MainItem>
       <Key>Hodgson</Key>
       <Forenames>O. T.</Forenames>
-      <Text>, O.B.E</Text>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>691</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -343,7 +365,9 @@
     <MainItem>
       <Key>Talbot</Key>
       <Forenames>Reginald G.</Forenames>
-      <Text>. C.B.E</Text>
+      <Text>
+        <Honour>C.B.E</Honour>
+      </Text>
       <PageNumber>861</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -395,7 +419,10 @@
     <MainItem>
       <Key>Hugill</Key>
       <Forenames>R</Forenames>
-      <Text>C, O.B.E., M.V.O</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.V.O</Honour>
+      </Text>
       <PageNumber>10</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -403,7 +430,9 @@
     <MainItem>
       <Key>Martell</Key>
       <Forenames>A. A. G.</Forenames>
-      <Text>, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>10</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -447,7 +476,9 @@
     <MainItem>
       <Key>Sydenham</Key>
       <Forenames>F. W.</Forenames>
-      <Text>, C.B.E</Text>
+      <Text>
+        <Honour>C.B.E</Honour>
+      </Text>
       <PageNumber>10</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -470,7 +501,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Broderick</Key>
-      <Text>. Richard, O.B.E</Text>
+      <Forenames>Richard</Forenames>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>1899</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -709,7 +743,9 @@
     <MainItem>
       <Key>Pender</Key>
       <Forenames>Edward P. U.</Forenames>
-      <Text>, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>1282</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -731,7 +767,9 @@
     <MainItem>
       <Key>Renshaiw</Key>
       <Forenames>John W.</Forenames>
-      <Text>, M.B.E</Text>
+      <Text>
+        <Honour>M.B.E</Honour>
+      </Text>
       <PageNumber>1700</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -982,8 +1020,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cobley</Key>
-      <Forenames>Walter St</Forenames>
-      <Text>. J</Text>
+      <Forenames>Walter St. J</Forenames>
       <PageNumber>1372</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1037,6 +1074,13 @@
       <Key>Ourzon</Key>
       <Forenames>Chambre G. W. Penn</Forenames>
       <Text>(see Penn-Curzon, Chambre G. W.). de Jersey, Carey R. E</Text>
+      <PageNumber>1372</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Laibalmondiere</Key>
+      <Forenames>Arthur V.</Forenames>
       <PageNumber>1372</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1452,7 +1496,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Newman</Key>
-      <Text>. A. W</Text>
+      <Forenames>A. W</Forenames>
       <PageNumber>375</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1465,8 +1509,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Meara, D. J., M.B.E</Text>
+      <Key>O'Meara</Key>
+      <Forenames>D. J.</Forenames>
+      <Text>, M.B.E</Text>
       <PageNumber>469</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1510,7 +1555,9 @@
     <MainItem>
       <Key>Pisani</Key>
       <Forenames>Neville L. J.</Forenames>
-      <Text>, D.S.C</Text>
+      <Text>
+        <Honour>D.S.C</Honour>
+      </Text>
       <PageNumber>1372</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1531,8 +1578,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Prentice</Key>
-      <Forenames>Richard St</Forenames>
-      <Text>. J</Text>
+      <Forenames>Richard St. J</Forenames>
       <PageNumber>1372</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1617,7 +1663,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Smith</Key>
-      <Text>. Alwvn G</Text>
+      <Forenames>Alwvn G</Forenames>
       <PageNumber>1372</PageNumber>
     </MainItem>
   </ItemGroup>

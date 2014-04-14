@@ -66,7 +66,9 @@
     <MainItem>
       <Key>Langley</Key>
       <Forenames>Capt</Forenames>
-      <Text>: F. O., M.C. (restd. . to unit)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10269</PageNumber>
     </MainItem>
     <SubItem>
@@ -88,7 +90,9 @@
       <Key>Largen</Key>
       <Title>Maj.</Title>
       <Forenames>W. G.</Forenames>
-      <Text>, M.C. (trd. to T.F.R. Arty., from 8th London Bde.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>11205</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -105,7 +109,9 @@
       <Key>Xascelles</Key>
       <Title>Capt.</Title>
       <Forenames>F. W.</Forenames>
-      <Text>, M.C. (trd. . to 13th Sussex Bde., from Sussex Yeo.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>12815</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -124,7 +130,9 @@
       <Key>Latham</Key>
       <Title>Capt. (Bt. Maj.)</Title>
       <Forenames>P. H.</Forenames>
-      <Text>(rel. commn., and retains rank of Capt. '(Bt. Maj.), with permission to wear prescribed uniform). Sub. Not</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>9966</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -155,7 +163,9 @@
       <Key>Law</Key>
       <Title>Lt.</Title>
       <Forenames>A. N.</Forenames>
-      <Text>, M.C. (restd. to unit) -</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10269</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -212,7 +222,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Laws</Key>
-      <Text>. Lt. J., M.C. (resigns nommn. and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10189</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -221,7 +233,10 @@
       <Key>Lawson</Key>
       <Title>Capt.</Title>
       <Forenames>E. F.</Forenames>
-      <Text>, D.S.O., M.C. Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>11583</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -379,7 +394,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Led</Key>
-      <Text>ward, Lt. P. A M.C. (restd. to unit)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>12391</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -399,7 +416,9 @@
       </Key>
       <Title>2nd Lt.</Title>
       <Forenames>G. M</Forenames>
-      <Text>&gt; M.M. (Lt.)</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>11772</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -443,7 +462,9 @@
       </Key>
       <Title>2nd Lt.</Title>
       <Forenames>R. G.</Forenames>
-      <Text>, M.M. (resigns commn. and retains rank of 2nd Lt.)</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>9883</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -459,14 +480,18 @@
   <ItemGroup>
     <MainItem>
       <Key>Leek</Key>
-      <Text>Lt. F. H. (trd. to T.F.R. Yeo. from R. Wilts Yeo.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>F. H.</Forenames>
+      <Text>(trd. to T.F.R. Yeo. from R. Wilts Yeo.)</Text>
       <PageNumber>12482</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Lees</Key>
-      <Text>Cn-pt. A. S. (restd. to unit)</Text>
+      <Title>Cn-pt.</Title>
+      <Forenames>A. S.</Forenames>
+      <Text>(restd. to unit)</Text>
       <PageNumber>10383</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -541,7 +566,9 @@
       <Key>Leete</Key>
       <Title>Capt.</Title>
       <Forenames>W. W.</Forenames>
-      <Text>, A.F.C. (Maj.)</Text>
+      <Text>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>10401</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -557,18 +584,24 @@
   <ItemGroup>
     <MainItem>
       <Key>Lefroy</Key>
-      <Text>Lt. A. L. M. (restd. to unit)</Text>
+      <Title>Lt.</Title>
+      <Forenames>A. L. M.</Forenames>
+      <Text>(restd. to unit)</Text>
       <PageNumber>12367</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Legg</Key>
-      <Text>Lt. C. H. O.B.E. (Capt.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>C. H.</Forenames>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>11012</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Capt. (Sub. Not.)</Text>
+      <Text>Capt. (Sub. Not.).</Text>
       <PageNumber>12368</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -590,7 +623,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Leigh</Key>
-      <Text>2nd Lt. A; (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>A</Forenames>
+      <Text>; (Lt.)</Text>
       <PageNumber>12578</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -721,7 +756,9 @@
       <Key>Leslie-Melville</Key>
       <Title>Capt. the Hon.</Title>
       <Forenames>D. W.</Forenames>
-      <Text>, M.B.E. (resigns commn</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>10827</PageNumber>
     </MainItem>
     <SubItem>
@@ -752,7 +789,9 @@
       <Key>LevBrsha</Key>
       <Title>Lt. (actg. Capt.)</Title>
       <Forenames>R. J.</Forenames>
-      <Text>, M.C. (rel. actg. rank of Capt</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>11922</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -761,7 +800,9 @@
       <Key>Levick</Key>
       <Title>Capt.</Title>
       <Forenames>C. E.</Forenames>
-      <Text>, T.D. (Maj</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>9797</PageNumber>
     </MainItem>
     <SubItem>
@@ -801,7 +842,9 @@
       <Key>Lewer</Key>
       <Title>Maj.</Title>
       <Forenames>A. J.</Forenames>
-      <Text>, O.B.E. (trd. to T.F.R., Infy., from 17th Bn.,</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>11586</PageNumber>
     </MainItem>
     <SubItem>
@@ -825,7 +868,9 @@
       </Key>
       <Title>2nd Lt.</Title>
       <Forenames>H.</Forenames>
-      <Text>, M.M. (trd. to T.F.R., Infy., from 4th Bn., Lincoln. R.)</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>11773</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -856,7 +901,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>F. A.</Forenames>
-      <Text>, M.C. (resigns commn. and granted rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10383</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -867,7 +914,9 @@
       </Key>
       <Title>2nd Lt.</Title>
       <Forenames>H. O.</Forenames>
-      <Text>, M.M. (Lt.)</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>12698</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -925,7 +974,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Lewthwaite</Key>
-      <Text>Capt. A. T. (resigns commn. and retains rank of Capt.)</Text>
+      <Title>Capt.</Title>
+      <Forenames>A. T.</Forenames>
+      <Text>(resigns commn. and retains rank of Capt.)</Text>
       <PageNumber>10383</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -950,7 +1001,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Lidiard</Key>
-      <Text>Lt. H. D. St. J. (trd. to T.F.R., Engrs., from Tyne . Elect. Engrs.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>H. D. St. J</Forenames>
+      <Text>. (trd. to T.F.R., Engrs., from Tyne . Elect. Engrs.)</Text>
       <PageNumber>11772</PageNumber>
     </MainItem>
   </ItemGroup>

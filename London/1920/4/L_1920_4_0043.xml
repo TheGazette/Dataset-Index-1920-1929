@@ -4,8 +4,8 @@
     <MainItem>
       <Key>Jtobertson</Key>
       <Title>Col.</Title>
-      <Forenames>William St</Forenames>
-      <Text>. Leonards,. Officer, Order of the British Empire</Text>
+      <Forenames>William St. Leo-</Forenames>
+      <Text>nards,. Officer, Order of the British Empire</Text>
       <PageNumber>10096</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -24,7 +24,10 @@
         <KeyDitto>___</KeyDitto>
       </Key>
       <Title>Lt.</Title>
-      <Text>-Comdr. Lionel Frederick, D.S.C., Member, 4th CL, Royal Victorian Order</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>9987</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -33,7 +36,10 @@
       <Key>Roch</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Horace Samson</Forenames>
-      <Text>, C.M.G., D.S.O., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>10165</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -50,7 +56,10 @@
       <Key>Rogers</Key>
       <Title>Comdr.</Title>
       <Forenames>Hugh Hext</Forenames>
-      <Text>, O.B.E., Member, 4th CI., Royal Victorian Order</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>9987</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -81,7 +90,9 @@
     <MainItem>
       <Key>Rumbold</Key>
       <Forenames>Ethelred Constantia</Forenames>
-      <Text>, Lady, Lady of Grace, St. John of Jerusalem</Text>
+      <Text>
+        <Honour>Lady of Grace, St. John of Jerusalem</Honour>
+      </Text>
       <PageNumber>11793</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -92,7 +103,10 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>Horace George Montagu</Forenames>
-      <Text>, K.C.M.G., M.V.O., Member of H.M. Privy Council</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>10953</PageNumber>
     </MainItem>
     <SubItem>
@@ -233,7 +247,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Shaw</Key>
-      <Text>Miss Isabella Mackintosh, Member, Order of the British Empire</Text>
+      <Title>Miss</Title>
+      <Forenames>Isabella Mackintosh</Forenames>
+      <Text>, Member, Order of the British Empire</Text>
       <PageNumber>10614</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -383,7 +399,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Thomas James</Forenames>
-      <Text>, C.B.E., Knight Commander of the British Empire</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>10845</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -469,8 +487,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Stanley</Key>
-      <Forenames>The</Forenames>
-      <Text>Lady Beatric Taylour, Commander, Order of the British Empire</Text>
+      <Title>The Lady</Title>
+      <Forenames>Beatric Taylour</Forenames>
+      <Text>, Commander, Order of the British Empire</Text>
       <PageNumber>11556</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -485,7 +504,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Stanton</Key>
-      <Text>Charles Butt. J.P.. M.P.. Commander, Order of the British Empire</Text>
+      <Forenames>Charles Butt</Forenames>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>11556</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -507,7 +529,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Steer</Key>
-      <Text>Lt.-Col. George Rowland, Member. 5th CI., Royal Victorian Order Stephens, Albert. Member, Order of the British Empire</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>George Rowland</Forenames>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>10614</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -515,7 +541,9 @@
     <MainItem>
       <Key>Stewart</Key>
       <Forenames>James Watson</Forenames>
-      <Text>, created Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>12394</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -523,7 +551,10 @@
     <MainItem>
       <Key>Stewart-Dick-</Key>
       <Forenames>Cunvnghaui</Forenames>
-      <Text>; Maj. Sir William. Bt,., C.B.E.. appointed to H.M. Bodv Guard ..' the Honourable Corps of Gentlemen-at-Arms</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>12292</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -542,7 +573,12 @@
     <MainItem>
       <Key>Stradbroke</Key>
       <Title>Col.</Title>
-      <Text>the Rt. Hon. the Earl of, C.B., C.V.O., C.B.E., A.D.C./ Knight Commander, St. Michael and St. George</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.V.O.</Honour>
+        <Honour>C.B.E.</Honour>
+        <Honour>A.D.C.</Honour>
+      </Text>
       <PageNumber>10095</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -620,7 +656,10 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>Ernest Augustus</Forenames>
-      <Text>, C.V.O., . Companion, St. Michael and St. George</Text>
+      <Text>
+        <Honour>C.V.O.</Honour>
+        <Honour>Companion, St. Michael and St. George</Honour>
+      </Text>
       <PageNumber>9986</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -656,7 +695,10 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>Godfrey John Vignoles</Forenames>
-      <Text>, Bart., *M.V:0., Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Bart</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>9987</PageNumber>
     </MainItem>
     <SubItem>
@@ -752,7 +794,10 @@
     <MainItem>
       <Key>Thornton</Key>
       <Forenames>Hugh Cholmondeley</Forenames>
-      <Text>, C.M.G.. C.V.O., Crown Agent for the Colonies</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>C.V.O.</Honour>
+      </Text>
       <PageNumber>9621</PageNumber>
       <PageNumber>12053</PageNumber>
     </MainItem>
@@ -771,7 +816,10 @@
       <Key>Tillev</Key>
       <Title>Sir</Title>
       <Forenames>John Anthony</Forenames>
-      <Text>. K.C.M.G., C.B., sworn of H.M. Privy Council</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>12581</PageNumber>
     </MainItem>
   </ItemGroup>

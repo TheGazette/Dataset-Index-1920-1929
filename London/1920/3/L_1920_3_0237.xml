@@ -56,7 +56,10 @@
       <Key>Newman</Key>
       <Title>Lt.</Title>
       <Forenames>A.</Forenames>
-      <Text>, M.C., D.F.C. (resigns commn. and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>8563</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -100,7 +103,10 @@
     <MainItem>
       <Key>Newth</Key>
       <Forenames>Capt</Forenames>
-      <Text>, A. L. W., D.S.O., M.C. (Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7941</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -151,7 +157,9 @@
       </Key>
       <Title>Capt. (late Maj.)</Title>
       <Forenames>C. N.</Forenames>
-      <Text>, M.C. (Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7095</PageNumber>
     </MainItem>
     <SubItem>
@@ -278,7 +286,9 @@
       <Key>Nicholson</Key>
       <Title>Lt.</Title>
       <Forenames>D.</Forenames>
-      <Text>, M.C. (Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7344</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -288,7 +298,9 @@
         <KeyDitto>— ___ ___ ___</KeyDitto>
       </Key>
       <Title>Capt.</Title>
-      <Text>KBt, Maj.) C, M.C. (Adjt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7550</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -310,7 +322,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>K.</Forenames>
-      <Text>iB., M.C. (Capt., . T.F.R.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8169</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -403,7 +417,9 @@
       <Key>Noble</Key>
       <Title>Lt. (actg. Capt. and Adjt.)</Title>
       <Forenames>A. G</Forenames>
-      <Text>,, M.C. (vacates appt. of Adjt. and rel. actg. rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8561</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -413,7 +429,9 @@
         <KeyDitto>___ — ___ ___</KeyDitto>
       </Key>
       <Title>Lt.</Title>
-      <Text>IF., M.C. (Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9616</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -510,7 +528,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>G.</Forenames>
-      <Text>(restd. to estabt. on ceasing to be empld. with M.G.C.)</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>7549</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -550,7 +570,9 @@
       <Key>Northampton</Key>
       <Title>Maj.</Title>
       <Forenames>W. B.</Forenames>
-      <Text>, The Marquis of, D.S.O. (trd. to Northamptonshire Yeo.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7743</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -568,7 +590,9 @@
       <Key>Northey</Key>
       <Title>Lt.</Title>
       <Forenames>T.</Forenames>
-      <Text>, M.C. (trd. to 5th Bn., Devonshire R.) ... ,</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7550</PageNumber>
     </MainItem>
     <SubItem>
@@ -585,7 +609,7 @@
       <PageNumber>8047</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Apptd. to serve with and to comd. the Cranleigh School Contingent, Jun.Div., O.T.C.</Text>
+      <Text>Apptd. to serve with and to comd. the Cranleigh School Contingent, Jun.Div., O.T.C</Text>
       <PageNumber>9518</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -621,14 +645,20 @@
   <ItemGroup>
     <MainItem>
       <Key>Nunn</Key>
-      <Text>. 2nd Lt. V. W. H. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>V. W. H.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>7648</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Nuthall</Key>
-      <Text>. Maj. A. W.. F.R.C.S. (resigns commn. and retains rank of Maj.)</Text>
+      <Title>Maj.</Title>
+      <Forenames>A. W.</Forenames>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>7420</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -678,7 +708,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Nye</Key>
-      <Text>. 2nd Lt. E. K. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>E. K.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>7744</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -696,7 +728,9 @@
       <Key>Oakley</Key>
       <Title>Capt.</Title>
       <Forenames>J. B.</Forenames>
-      <Text>(restd. to estabt. on ceasing to be empld. with M.G.C.)</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>7743</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -714,11 +748,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Oats</Key>
-      <Text>. Maj. F.F., T.D. (trd. to 7th Cornwall and Warwick, Medium Bde.)</Text>
+      <Title>Maj.</Title>
+      <Forenames>F.F.</Forenames>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>7656</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Lt.-Col.</Text>
+      <Text>Lt.-Col</Text>
       <PageNumber>7656</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -734,7 +772,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Ockenden</Key>
-      <Text>. Lt. J. R. (trd. to T.F.R., Inf.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>J. R.</Forenames>
+      <Text>(trd. to T.F.R., Inf.)</Text>
       <PageNumber>8696</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -742,7 +782,9 @@
     <MainItem>
       <Key>Odgen</Key>
       <Forenames>Lt</Forenames>
-      <Text>, B. D., M.C. (Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7753</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -757,8 +799,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Dowda, Lt. B. F. (resigns commn., and retains rank of Lt.)</Text>
+      <Key>O'Dowda</Key>
+      <Title>Lt.</Title>
+      <Forenames>B. F.</Forenames>
+      <Text>(resigns commn., and retains rank of Lt.)</Text>
       <PageNumber>9432</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -780,7 +824,7 @@
       <PageNumber>9617</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>. Infy., from 5th Bn.</Text>
+      <Text>. Infy., from 5th Bn</Text>
       <PageNumber>8154</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -804,12 +848,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Keefe, Lt. H. J. (trd. to T.F.R., Engrs.)</Text>
+      <Key>O'Keefe</Key>
+      <Title>Lt.</Title>
+      <Forenames>H. J.</Forenames>
+      <Text>(trd. to T.F.R., Engrs.)</Text>
       <PageNumber>8779</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Capt., T.F.R., Engrs., Sub. Not ,.</Text>
+      <Text>Capt., T.F.R., Engrs., Sub. Not ,</Text>
       <PageNumber>8963</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -835,7 +881,9 @@
       <Key>Oldcorn</Key>
       <Title>2nd Lt.</Title>
       <Forenames>J. S.</Forenames>
-      <Text>, D.C.M. (trd. to 15th Bn., London</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>8695</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -855,7 +903,10 @@
       <Key>Oldfield</Key>
       <Title>2nd Lt.</Title>
       <Forenames>F. H.</Forenames>
-      <Text>(Lt.) ... Oldham, Maj. A. C, F.R.C.S., T.D. (seed., under para</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>112</PageNumber>
       <PageNumber>9205</PageNumber>
     </MainItem>
@@ -884,7 +935,9 @@
       <Key>Oliver</Key>
       <Title>Capt.</Title>
       <Forenames>A.</Forenames>
-      <Text>, M.D. (resigns commn., and granted rank of</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>8563</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -895,7 +948,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>A. A.</Forenames>
-      <Text>, T.D. (resigns commn., and retains rank</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>9042</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -905,14 +960,16 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Lt</Forenames>
-      <Text>, B. M., M.C. (resigns commn., and retains rank of</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9048</PageNumber>
     </MainItem>
     <KeyDitto>___ ___</KeyDitto>
     <KeyDitto>___ ___ '</KeyDitto>
     <KeyDitto>— ___ ___</KeyDitto>
     <SubItem>
-      <Text>Resigns commn., and retains rank of Lt.</Text>
+      <Text>Resigns commn., and retains rank of Lt</Text>
       <PageNumber>9130</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -939,8 +996,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, Lt,. J. E. (resigns commn., and retains rank of Lt.)</Text>
+      <Key>O'Neill</Key>
+      <Forenames>Lt</Forenames>
+      <Text>,. J. E. (resigns commn., and retains rank of Lt.)</Text>
       <PageNumber>7949</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -958,7 +1016,9 @@
       <Key>Orchard</Key>
       <Title>Lt.</Title>
       <Forenames>G. E.</Forenames>
-      <Text>(restd. to estabt. on ceasing to be empld. with M.G.C.)</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>7754</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1009,7 +1069,10 @@
       <Key>Orr</Key>
       <Title>2nd Lt.</Title>
       <Forenames>G. C</Forenames>
-      <Text>, M.C., M.M. (Lt-)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>8373</PageNumber>
     </MainItem>
     <SubItem>

@@ -28,7 +28,9 @@
     <MainItem>
       <Key>Wilson</Key>
       <Forenames>J. W.</Forenames>
-      <Text>, M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>5963</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -108,7 +110,9 @@
     <MainItem>
       <Key>Kalandar</Key>
       <Forenames>Khan</Forenames>
-      <Text>, Sardar Bahadur, I.O.M. (Hon.)</Text>
+      <Text>
+        <Honour>O.M.</Honour>
+      </Text>
       <PageNumber>5818</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -123,8 +127,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Maunsell</Key>
-      <Forenames>I. O</Forenames>
-      <Text>'G</Text>
+      <Forenames>I. O'G</Forenames>
       <PageNumber>5965</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -172,7 +175,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ward</Key>
-      <Text>H.G.L</Text>
+      <Forenames>H.G.L.</Forenames>
       <PageNumber>6591</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -181,8 +184,8 @@
     <MainItem>
       <Key>Adams</Key>
       <Title>Lt.</Title>
-      <Forenames>A. E. St</Forenames>
-      <Text>. J. (rel. actg.rank)</Text>
+      <Forenames>A. E. St. J</Forenames>
+      <Text>. (rel. actg.rank)</Text>
       <PageNumber>5490</PageNumber>
     </MainItem>
     <SubItem>
@@ -428,6 +431,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Salis</Key>
+      <Forenames>R. A.</Forenames>
+      <PageNumber>4580</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Dore</Key>
       <Forenames>O. B.</Forenames>
       <Text>(rel. actg. rank on ceasing to be Adjt.)</Text>
@@ -571,7 +581,9 @@
     <MainItem>
       <Key>Glass</Key>
       <Forenames>W. B. K.</Forenames>
-      <Text>, M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>5366</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -618,7 +630,9 @@
     <MainItem>
       <Key>Hargreaves</Key>
       <Forenames>H.</Forenames>
-      <Text>, M.C. (with pay whilst Adjt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4581</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -677,7 +691,9 @@
     <MainItem>
       <Key>Hobbs</Key>
       <Forenames>J. M.</Forenames>
-      <Text>, M.C. (comdg: a Co., Oct., 1919)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4581</PageNumber>
     </MainItem>
     <SubItem>
@@ -758,7 +774,9 @@
     <MainItem>
       <Key>Johnson</Key>
       <Forenames>R. A.</Forenames>
-      <Text>, M.C. (from comdg. a Co. retains actg. rank whilst Adjt., 12 Jan., 1920)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5490</PageNumber>
     </MainItem>
     <SubItem>
@@ -842,7 +860,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lee</Key>
-      <Text>D. H. (rel. actg. rank)</Text>
+      <Forenames>D. H.</Forenames>
+      <Text>(rel. actg. rank)</Text>
       <PageNumber>4580</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -896,7 +915,7 @@
       <PageNumber>4582</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Comdg. a Co., 23 Aug., 1919</Text>
+      <Text>Comdg. a Co., 23 Aug., 1919.</Text>
       <PageNumber>4582</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -927,7 +946,9 @@
     <MainItem>
       <Key>Macintosh</Key>
       <Forenames>K. J.</Forenames>
-      <Text>, M.C. (comdg. a Co.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4581</PageNumber>
     </MainItem>
     <SubItem>
@@ -1006,8 +1027,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, B. P. T., M.C</Text>
+      <Key>O'Brien</Key>
+      <Forenames>B. P. T.</Forenames>
+      <Text>, M.C</Text>
       <PageNumber>5253</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1117,7 +1139,9 @@
     <MainItem>
       <Key>Rigden</Key>
       <Forenames>B. C</Forenames>
-      <Text>, M.C. (rel. actg. rank)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4478</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1157,7 +1181,9 @@
     <MainItem>
       <Key>Robins</Key>
       <Forenames>R. T.</Forenames>
-      <Text>, M.C. (rel. actg. rank)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4477</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1273,7 +1299,9 @@
     <MainItem>
       <Key>Snelling</Key>
       <Forenames>O</Forenames>
-      <Text>, D.C.M. (rel. actg. rank)</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>4581</PageNumber>
     </MainItem>
   </ItemGroup>

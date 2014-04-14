@@ -81,7 +81,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>J. A.</Forenames>
-      <Text>, M.M. (retires on ret. pay)</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>5448</PageNumber>
     </MainItem>
     <SubItem>
@@ -160,7 +162,9 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>W. T.</Forenames>
-      <Text>, M.C. (rel. commn. on completion of service and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7516</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -169,7 +173,9 @@
       <Key>Parkhouse</Key>
       <Title>temp. Maj.</Title>
       <Forenames>J. B.</Forenames>
-      <Text>, O.B.E. (rel. commn. on completion of service and granted rank of Lt.-Col.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>6823</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -193,14 +199,15 @@
       <PageNumber>6750</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Trd. to Reg. Army Res. of Offrs</Text>
+      <Text>Trd. to Reg. Army Res. of Offrs.</Text>
       <PageNumber>5617</PageNumber>
     </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Parkins</Key>
-      <Text>. J. H. (granted temp, rank as 2nd Lt. for services with Forces in E. Africa)</Text>
+      <Forenames>J. H.</Forenames>
+      <Text>(granted temp, rank as 2nd Lt. for services with Forces in E. Africa)</Text>
       <PageNumber>6342</PageNumber>
     </MainItem>
     <SubItem>
@@ -245,7 +252,9 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>W.</Forenames>
-      <Text>, M.C. (rel. commn. on completion of service and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6142</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -311,7 +320,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>J.</Forenames>
-      <Text>, O.B.E. (granted temp. rank as 2nd Lt. for services with Forces E. A frica) Temp. Lt. . for service with Forces in E. Africa Temp. Capt. for service with Forces in E. Africa Granted temp, rank as Maj. for services witJi Forces in E. Africa ... Rel. commn. on completion of service and retains rank of Maj. ...</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>___ ___ ___ ___ ___ ___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -358,7 +369,10 @@
       </Key>
       <Title>Col.</Title>
       <Forenames>E. M.</Forenames>
-      <Text>, C.B.. C.B.E. (placed on ret. pay, having attained the age fixed for compulsory retirement, and granted hon. rank of Brig.Gen.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>6</PageNumber>
     </MainItem>
   </ItemGroup>

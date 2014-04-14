@@ -65,7 +65,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rogers</Key>
-      <Text>, A, &amp; Son</Text>
+      <Forenames>A</Forenames>
+      <Text>, &amp; Son</Text>
       <PageNumber>1216</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -147,36 +148,36 @@
   <ItemGroup>
     <MainItem>
       <Key>Rye</Key>
-      <Text>. J., &amp; Co</Text>
+      <Forenames>J.</Forenames>
+      <Text>, &amp; Co</Text>
       <PageNumber>1327</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Sadler</Key>
-      <Forenames>Brothers</Forenames>
-      <Text>.and Webster</Text>
+      <Title>Brothers.and Webster .</Title>
       <PageNumber>2190</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. Joseph's School'</Text>
+      <Key>St. Joseph</Key>
+      <Text>'s School'</Text>
       <PageNumber>827</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. Martins College</Text>
+      <Key>St. Martins</Key>
+      <Forenames>College</Forenames>
       <PageNumber>828</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>. Stel Registry</Text>
+      <Forenames>Stel Registry</Forenames>
       <PageNumber>828</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -259,14 +260,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Savoy</Key>
-      <Forenames>Studios</Forenames>
+      <Title>Studios .</Title>
       <PageNumber>2090</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Scala</Key>
-      <Forenames>Bazaar Co</Forenames>
+      <Forenames>Bazaar</Forenames>
+      <Text>Co</Text>
       <PageNumber>1122</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -280,16 +282,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Schneider</Key>
-      <Forenames>Theo</Forenames>
-      <Text>., &amp; Vogel</Text>
+      <Title>Theo.</Title>
+      <Text>, &amp; Vogel</Text>
       <PageNumber>321</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Scott</Key>
-      <Forenames>Thos</Forenames>
-      <Text>., &amp; Sons</Text>
+      <Title>Thos.</Title>
+      <Text>, &amp; Sons</Text>
       <PageNumber>516</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -474,7 +476,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Nicholson</Forenames>
+      <Title>Nicholson .</Title>
       <PageNumber>1413</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -492,8 +494,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>William</Forenames>
-      <Text>. &amp; Sons</Text>
+      <Title>William.</Title>
+      <Text>&amp; Sons</Text>
       <PageNumber>1413</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -630,14 +632,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Standard</Key>
-      <Forenames>Press</Forenames>
+      <Title>Press .</Title>
       <PageNumber>827</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Stanley</Key>
-      <Text>. J. T., &amp; Co</Text>
+      <Forenames>J. T.</Forenames>
+      <Text>, &amp; Co</Text>
       <PageNumber>2467</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -665,7 +668,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Steelace</Key>
-      <Forenames>Manufacturing Co</Forenames>
+      <Forenames>Manufacturing</Forenames>
+      <Text>Co</Text>
       <PageNumber>2191</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -739,8 +743,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Swanston</Key>
-      <Forenames>Brothers</Forenames>
-      <Text>.'</Text>
+      <Title>Brothers .</Title>
+      <Text>'</Text>
       <PageNumber>2565</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -863,7 +867,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tidswell</Key>
-      <Text>. Bailev &amp; Tidswell</Text>
+      <Forenames>Bailev</Forenames>
+      <Text>&amp; Tidswell</Text>
       <PageNumber>2091</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -960,7 +965,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Vanstone</Key>
-      <Text>. F. J. &amp; A. C</Text>
+      <Forenames>F. J.</Forenames>
+      <Text>&amp; A. C</Text>
       <PageNumber>514</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -997,7 +1003,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Walker</Key>
-      <Text>. C. F</Text>
+      <Forenames>C. F .</Forenames>
       <PageNumber>1324</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1064,7 +1070,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ward</Key>
-      <Text>. Bruce &amp; Co</Text>
+      <Forenames>Bruce</Forenames>
+      <Text>&amp; Co</Text>
       <PageNumber>2274</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1094,7 +1101,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Warner</Key>
-      <Forenames>Louis</Forenames>
+      <Title>Louis .</Title>
       <PageNumber>2362</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1115,7 +1122,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Watford</Key>
-      <Forenames>Kennels</Forenames>
+      <Title>Kennels .</Title>
       <PageNumber>516</PageNumber>
       <PageNumber>920</PageNumber>
     </MainItem>
@@ -1227,7 +1234,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Weiss</Key>
-      <Text>. M. &lt;fe Company</Text>
+      <Forenames>M.</Forenames>
+      <Text>&lt;fe Company</Text>
       <PageNumber>2274</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1251,7 +1259,7 @@
       <Key>
         <KeyDitto>__ ___ ___ ___ ___ ___ &amp;</KeyDitto>
       </Key>
-      <Forenames>Worth</Forenames>
+      <Title>Worth .</Title>
       <PageNumber>2567</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1397,7 +1405,7 @@
       <Key>
         <KeyDitto>___ ___ ___ &amp;</KeyDitto>
       </Key>
-      <Forenames>Knight</Forenames>
+      <Title>Knight .</Title>
       <PageNumber>2466</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1681,7 +1689,9 @@
       <Key>Ainsworth</Key>
       <Title>Sir</Title>
       <Forenames>John Stirling</Forenames>
-      <Text>, Bart</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>227</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1703,14 +1713,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Alcock</Key>
-      <Forenames>Harriet</Forenames>
+      <Title>Harriet .</Title>
       <PageNumber>2370</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Alexander</Key>
-      <Forenames>Isaac</Forenames>
+      <Title>Isaac .</Title>
       <PageNumber>1221</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1757,7 +1767,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Allitsen</Key>
-      <Text>, see Bumpus, Emma Louisa. Allpress, John</Text>
+      <Text>see Bumpus, Emma Louisa. Allpress, John</Text>
       <PageNumber>1990</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1831,7 +1841,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Archer</Key>
-      <Forenames>Thomas</Forenames>
+      <Title>Thomas .</Title>
       <PageNumber>1334</PageNumber>
     </MainItem>
   </ItemGroup>

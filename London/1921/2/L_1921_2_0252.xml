@@ -4,7 +4,9 @@
     <MainItem>
       <Key>Wright</Key>
       <Forenames>Flying Offr</Forenames>
-      <Text>. A. B., A.F.C. (restd. to active list for temp. duty)</Text>
+      <Text>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>3545</PageNumber>
     </MainItem>
     <SubItem>
@@ -28,7 +30,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Title>Mrs.</Title>
-      <Text>. L. Doughty. . (See Doughty-Wylie, Mrs. L.) Young, Lt. H. N., D.F.C. (trd. to unempld. list), Sub. Not</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>3292</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -59,14 +63,20 @@
   <ItemGroup>
     <MainItem>
       <Key>Devon</Key>
-      <Text>: Bayly, Admiral Sir Lewi, K.C.B., K.C.M.G., C.V.O</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>C.V.O</Honour>
+      </Text>
       <PageNumber>4549</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Dorset</Key>
-      <Text>: Glyn, Sir Richard Fitzgerald, Bart., D.S.O</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>4005</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -80,7 +90,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Essex</Key>
-      <Text>: Arran, The Rt. Hon. Arthur Jocelyn Charles, Earl of, P.C., K.P</Text>
+      <Text>
+        <Honour>P.C.</Honour>
+      </Text>
       <PageNumber>4916</PageNumber>
     </MainItem>
     <SubItem>
@@ -102,20 +114,27 @@
       <PageNumber>4737</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>Wythes, E. J., Esq., C.B.E</Text>
+      <Text>
+        <Honour>C.B.E</Honour>
+      </Text>
       <PageNumber>4737</PageNumber>
     </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Glamorgan</Key>
-      <Text>: Bruce, Col. Gerald Trevor, C.M.G., D.S.O., T.D</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>T.D</Honour>
+      </Text>
       <PageNumber>3852</PageNumber>
     </MainItem>
     <SubItem>
       <Text>
         <PageNumber>3852</PageNumber>
         <PageNumber>3852</PageNumber>
+        <Honour>T.D.</Honour>
         <PageNumber>3852</PageNumber>
       </Text>
       <PageNumber>3852</PageNumber>
@@ -126,7 +145,12 @@
     </SubItem>
     <SubItem>
       <Text>
+        <Honour>K.T.</Honour>
+        <Honour>M.P.</Honour>
         <PageNumber>3852</PageNumber>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.V.O.</Honour>
+        <Honour>T.D.</Honour>
         <PageNumber>3852</PageNumber>
       </Text>
       <PageNumber>3852</PageNumber>
@@ -139,14 +163,19 @@
       <PageNumber>3852</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Thomas, Major Hugh James Protheroe, O.B.E.</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3852</PageNumber>
     </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Lancaster</Key>
-      <Text>: Barr, Lt.-Col. Sir James, C.B.E., M.D., LL.D., F.R.C.P., F.R.S.E</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>4301</PageNumber>
     </MainItem>
     <SubItem>
@@ -160,11 +189,15 @@
     <MainItem>
       <Key>Lancaster</Key>
       <Title>(contd)</Title>
-      <Text>: Bates, Lt.-Col. Darwin, T.D., J.P., M.I.E.E</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>4301</PageNumber>
     </MainItem>
     <SubItem>
       <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
         <PageNumber>4301</PageNumber>
         <PageNumber>4301</PageNumber>
       </Text>
@@ -172,10 +205,14 @@
     </SubItem>
     <SubItem>
       <Text>
+        <Honour>M.D.</Honour>
         <PageNumber>4301</PageNumber>
         <PageNumber>4301</PageNumber>
+        <Honour>T.D.</Honour>
         <PageNumber>4301</PageNumber>
+        <Honour>C.B.E.</Honour>
         <PageNumber>4301</PageNumber>
+        <Honour>M.D.</Honour>
         <PageNumber>4301</PageNumber>
       </Text>
       <PageNumber>4301</PageNumber>
@@ -187,21 +224,34 @@
     <SubItem>
       <Text>
         <PageNumber>4301</PageNumber>
+        <Honour>C.B.</Honour>
+        <Honour>T.D.</Honour>
       </Text>
       <PageNumber>4301</PageNumber>
     </SubItem>
     <SubItem>
       <Text>
+        <Honour>M.D.</Honour>
         <PageNumber>4301</PageNumber>
+        <Honour>O.B.E.</Honour>
+        <Honour>F.R.C.S.</Honour>
         <PageNumber>4301</PageNumber>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
         <PageNumber>4301</PageNumber>
+        <Honour>T.D.</Honour>
+        <Honour>F.R.C.S.</Honour>
         <PageNumber>4301</PageNumber>
+        <Honour>M.D.</Honour>
         <PageNumber>4301</PageNumber>
+        <Honour>O.B.E.</Honour>
       </Text>
       <PageNumber>4301</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>Simpson, Lt.-Col. Alexander, C.B.E., M.D</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>4301</PageNumber>
     </SubItem>
     <SubItem>
@@ -211,15 +261,23 @@
     <SubItem>
       <Text>
         <PageNumber>4301</PageNumber>
+        <Honour>Bt</Honour>
+        <Honour>F.R.C.S.</Honour>
       </Text>
       <PageNumber>4301</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>Thorburn, Lt.-Col. Sir William, K.B.E., C.B., C.M.G., F.R.C.S</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>4301</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>Tulloch, Angus Alexander Gregorie, O.B.E. .„</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4301</PageNumber>
     </SubItem>
     <SubItem>
@@ -229,19 +287,27 @@
     <SubItem>
       <Text>
         <PageNumber>4301</PageNumber>
+        <Honour>D. S.O.</Honour>
+        <Honour>T.D.</Honour>
         <PageNumber>4301</PageNumber>
+        <Honour>C.B.E.</Honour>
+        <Honour>T.D.</Honour>
       </Text>
       <PageNumber>4301</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>Wilson, F.R.C.S., ___ Maj. L.R.C.P. Alexander, ___</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>4301</PageNumber>
     </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Leicester</Key>
-      <Text>: Hurst, Maj. Charles Chamberlain, T.D., J.r</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>4737</PageNumber>
     </MainItem>
     <SubItem>
@@ -263,7 +329,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilts</Key>
-      <Text>: Neeld, Lt.-Col. Sir Audley Dallas, Bt., C. B., C.V.O</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>C.V.O</Honour>
+      </Text>
       <PageNumber>4636</PageNumber>
     </MainItem>
     <SubItem>
@@ -274,7 +343,8 @@
   <ItemGroup>
     <MainItem>
       <Key>A</Key>
-      <Text>S. Syndicate, notice</Text>
+      <Forenames>S. Syndicate</Forenames>
+      <Text>, notice</Text>
       <PageNumber>2843</PageNumber>
     </MainItem>
   </ItemGroup>

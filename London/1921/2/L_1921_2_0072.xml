@@ -5,7 +5,9 @@
       <Key>Deane</Key>
       <Title>Col.</Title>
       <Forenames>D.</Forenames>
-      <Text>, D.S.O. (date of promn. to Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>2969</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -49,7 +51,9 @@
       <Key>Dearlove</Key>
       <Title>temp. Capt.</Title>
       <Forenames>L. J.</Forenames>
-      <Text>, M.C. (rel. commn. on completion of service, and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4892</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -87,7 +91,9 @@
       <Key>Deedes</Key>
       <Title>Lt. (now Capt., R.C. of Sigs.)</Title>
       <Forenames>J. G.</Forenames>
-      <Text>, M.B.E. (rel. actg. rank of Maj.), Sub. Not</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>4069</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -119,7 +125,11 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Title>Lt.</Title>
-      <Text>-Gen. Sir W. S., K.C.M.G., C.B., D.S.O. (date of promotion)</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3979</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -157,7 +167,9 @@
       <Key>Dempsey</Key>
       <Title>Lt.</Title>
       <Forenames>M. C</Forenames>
-      <Text>, M.C. (Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4611</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -166,14 +178,19 @@
       <Key>Dempster</Key>
       <Title>temp. Lt.</Title>
       <Forenames>W. J. Osborne</Forenames>
-      <Text>(See Osborne-Dempster, temp. Lt. W. J.). Denby, temp. Capt. C. P., M.C. (rel. commn. on completion of service, and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4168</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Denis</Key>
-      <Text>de Vitre, Lt.-Col. P. T., D.S.O. (placed on h.p. list on completion of 4 years' service as Regtl. Lt.-Col.)</Text>
+      <Forenames>de Vitre</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4368</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -231,7 +248,9 @@
       <Key>Denniston</Key>
       <Title>temp. Capt.</Title>
       <Forenames>K. R. F.</Forenames>
-      <Text>, M.C. (rel. commn. on completion of service, and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2864</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -239,8 +258,8 @@
     <MainItem>
       <Key>Denny</Key>
       <Title>Lt.</Title>
-      <Forenames>A.</Forenames>
-      <Text>de C. McG. (seed. for service with R.A.F.)</Text>
+      <Forenames>A. de C</Forenames>
+      <Text>. McG. (seed. for service with R.A.F.)</Text>
       <PageNumber>3360</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -325,7 +344,9 @@
       <Key>Derbyshire</Key>
       <Title>temp. Maj.</Title>
       <Forenames>H.</Forenames>
-      <Text>, M.C. (rel. commn. on completion of service, and retains rank of Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4806</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -398,8 +419,8 @@
     <MainItem>
       <Key>Devereux</Key>
       <Title>Lt.</Title>
-      <Forenames>R.</Forenames>
-      <Text>de B. (rel. temp, rank of Capt. on ceasing to be empld. as Lewis Gun Instr.)</Text>
+      <Forenames>R. de B</Forenames>
+      <Text>. (rel. temp, rank of Capt. on ceasing to be empld. as Lewis Gun Instr.)</Text>
       <PageNumber>3739</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -526,7 +547,9 @@
       </Key>
       <Title>temp. Capt.</Title>
       <Forenames>T. S.</Forenames>
-      <Text>, D.S.O. (rel. temp, rank of Maj. on ceasing to be empld. with Tank Corps)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3074</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -546,7 +569,11 @@
       <Key>Dick-Cunyngham</Key>
       <Title>Maj. and Bt. Lt.-Col.</Title>
       <Forenames>J. K.</Forenames>
-      <Text>, C.M.G., D.S.O. (Bt.-Col.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4170</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -577,7 +604,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>temp 2nd Lt. S. (now Lt.), M.M. (temp. Lt., corr. of regt.), Sub. Not</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>3073</PageNumber>
     </MainItem>
     <SubItem>
@@ -697,7 +726,9 @@
       </Key>
       <Title>Lt. (T.F.)</Title>
       <Forenames>W. E.</Forenames>
-      <Text>, M.C. (rel. temp. rank of Capt.. R.A.S.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3643</PageNumber>
     </MainItem>
   </ItemGroup>

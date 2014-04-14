@@ -24,7 +24,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Attenborough</Key>
-      <Text>. temp. Capt. G. (rel. commn. on completion of service, and granted rank of Maj.)</Text>
+      <Title>temp. Capt.</Title>
+      <Forenames>G.</Forenames>
+      <Text>(rel. commn. on completion of service, and granted rank of Maj.)</Text>
       <PageNumber>5914</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -33,14 +35,18 @@
       <Key>Attewell</Key>
       <Title>Maj.</Title>
       <Forenames>Owen Purdue</Forenames>
-      <Text>, M.C. (Maj., Reg. Army Res. of Oft., late temp. Lt., R. Pus.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7110</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Attwood</Key>
-      <Text>. Lt. Robert (trd. to Reg. Army Res of Offrs., late temp. Lt., Loyal R.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>Robert</Forenames>
+      <Text>(trd. to Reg. Army Res of Offrs., late temp. Lt., Loyal R.)</Text>
       <PageNumber>6653</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -69,7 +75,9 @@
     <MainItem>
       <Key>Austin</Key>
       <Forenames>Alfred Edward</Forenames>
-      <Text>, O.B.E. (Capt., Reg. Army Res. of Offrs., late temp. Capt,, Serv. Bn., Rifle Bde.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>6546</PageNumber>
     </MainItem>
     <SubItem>
@@ -79,6 +87,7 @@
     <SubItem>
       <Text>
         <PageNumber>7045</PageNumber>
+        <Honour>M.C.</Honour>
       </Text>
       <PageNumber>6343</PageNumber>
     </SubItem>
@@ -96,11 +105,15 @@
       <Key>Aveling</Key>
       <Title>temp. Chapln., 4th CI., Rev.</Title>
       <Forenames>F.</Forenames>
-      <Text>, M.C. (rel. commn., and to be Hon. Chapln., 3rd CI.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7630</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>J. E., O.B.E. (granted temp, rank as 2nd Lt. for services with Forces in E. Africa)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>6342</PageNumber>
     </SubItem>
     <SubItem>
@@ -148,7 +161,9 @@
       <Key>Aylwin-Foster</Key>
       <Title>Capt.</Title>
       <Forenames>E. W. F.</Forenames>
-      <Text>, D.S.O. (retires receiving a gratuity., and granted rank of Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6930</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -232,7 +247,9 @@
       <Key>Badger</Key>
       <Title>Miss</Title>
       <Forenames>Lavinia</Forenames>
-      <Text>, R.R.C. (Sisters i/o Q.A.M.F.N.S.)</Text>
+      <Text>
+        <Honour>R.R.C.</Honour>
+      </Text>
       <PageNumber>6930</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -240,7 +257,10 @@
     <MainItem>
       <Key>Badham</Key>
       <Forenames>Capt</Forenames>
-      <Text>, B. H., D.S.O. (rei. temp, rank of Maj. on ceasing to be empld. with M.G.C., Infy.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>6561</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -358,7 +378,10 @@
       </Key>
       <Title>Maj. and Bt. Lt.-Col. (temp. Brig.-Gen.)</Title>
       <Forenames>V. T.</Forenames>
-      <Text>, C.M.G.. D.S.O. (retires on ret, pay and granted rank of Lt.-Col. in Reg. Army, Res. of Off., and hon. rank of Brig.Gen.), Sub. Not</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5702</PageNumber>
     </MainItem>
   </ItemGroup>

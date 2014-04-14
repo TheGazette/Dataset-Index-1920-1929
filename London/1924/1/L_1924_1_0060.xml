@@ -2,13 +2,6 @@
 <Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="060" pageID="https://www.thegazette.co.uk/id/London/index/year/1924/volume/1/page/060" pagePDF="https://www.thegazette.co.uk/London/index/year/1924/volume/1/page/060" pageRDF="https://www.thegazette.co.uk/London/index/year/1924/volume/1/page/060?view=linked-data" type="index" volume="1" year="1924">
   <ItemGroup>
     <MainItem>
-      <Key>Hill</Key>
-      <Forenames>R. H. M</Forenames>
-      <PageNumber>958</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
@@ -624,8 +617,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Jefferies</Key>
-      <Forenames>H. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>H. St. J</Forenames>
       <PageNumber>1928</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1122,8 +1114,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kirke</Key>
-      <Forenames>W. M. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>W. M. St. G</Forenames>
       <PageNumber>62</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1138,7 +1129,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kitckin</Key>
-      <Text>. E. G. Gidley, see Gidley-Kitchin, E. G. Kitson, C. E</Text>
+      <Forenames>E. G. Gidley</Forenames>
+      <Text>, see Gidley-Kitchin, E. G. Kitson, C. E</Text>
       <PageNumber>2232</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1218,7 +1210,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lakin</Key>
-      <Text>. J. S. F</Text>
+      <Forenames>J. S. F</Forenames>
       <PageNumber>1272</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1311,7 +1303,9 @@
       <Key>Larcom</Key>
       <Title>Sir</Title>
       <Forenames>T. P.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>1827</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1635,14 +1629,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Lockhart</Key>
-      <Text>. J. L</Text>
+      <Forenames>J. L</Forenames>
       <PageNumber>2531</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Locking</Key>
-      <Text>. F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>2325</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1728,7 +1722,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lyster-Smythe</Key>
-      <Text>. C. St. G</Text>
+      <Forenames>C. St. G</Forenames>
       <PageNumber>1723</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1758,8 +1752,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>W. St</Forenames>
-      <Text>. J. F</Text>
+      <Forenames>W. St. J</Forenames>
+      <Text>. F</Text>
       <PageNumber>956</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1854,8 +1848,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McCreery</Key>
-      <Forenames>M. O</Forenames>
-      <Text>'C</Text>
+      <Forenames>M. O'C</Forenames>
       <PageNumber>267</PageNumber>
     </MainItem>
   </ItemGroup>

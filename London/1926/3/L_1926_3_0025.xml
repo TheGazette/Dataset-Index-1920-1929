@@ -12,7 +12,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Crawford</Key>
-      <Text>^ Col. Edward William, D.S.O., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4410</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -37,7 +39,10 @@
       <Key>Croker</Key>
       <Title>Maj. Gen.</Title>
       <Forenames>Henry Ley-</Forenames>
-      <Text>eester, C.B., C.M.G., Knight Commander, Order of the Bath</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>4403</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -80,7 +85,9 @@
     <MainItem>
       <Key>Crutchley</Key>
       <Forenames>Ernest Tristram</Forenames>
-      <Text>, O.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4410</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -112,8 +119,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Curtis-Bennett</Key>
-      <Forenames>Noel Com-</Forenames>
-      <Text>mander, Royal Victorian Order</Text>
+      <Forenames>Noel</Forenames>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4406</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -121,7 +130,10 @@
     <MainItem>
       <Key>Curzon</Key>
       <Title>Captain Viscount</Title>
-      <Text>, C.B.E., V.D., M.P., Lord Commissioner of His Majesty's Treasury</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>5442</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -154,7 +166,9 @@
       <Key>Dalrymple-White</Key>
       <Title>Lieut.-Col.</Title>
       <Forenames>Godfrey Dalrymple</Forenames>
-      <Text>, Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>5371</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -240,7 +254,10 @@
       <Key>Deane</Key>
       <Title>Col. (temp. Col. Comdt.)</Title>
       <Forenames>Dennis</Forenames>
-      <Text>, D.S.O., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>4404</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -274,7 +291,9 @@
       <Key>Deverell</Key>
       <Title>Maj.-Gen.</Title>
       <Forenames>Cyril John</Forenames>
-      <Text>, C.B., Knight Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>4407</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -300,7 +319,9 @@
       <Key>Dickinson</Key>
       <Title>Sir .</Title>
       <Forenames>Willoughby Hyett</Forenames>
-      <Text>, K.C.B.E., Member, Royal Commission on Cross River Traffic</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>4957</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -317,7 +338,9 @@
       <Key>Dobbs</Key>
       <Title>Maj. and Bt. Lt.-Col.</Title>
       <Forenames>Richard Conway</Forenames>
-      <Text>, D.S.O., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4407</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -366,7 +389,9 @@
     <MainItem>
       <Key>Drake</Key>
       <Forenames>John Collard Bernard</Forenames>
-      <Text>, O.B.E., Companion, Order of the Indian Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4406</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -374,7 +399,9 @@
     <MainItem>
       <Key>Draper</Key>
       <Forenames>Bernard Montagu</Forenames>
-      <Text>, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>4404</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -391,7 +418,9 @@
       <Key>Drayton</Key>
       <Title>Miss</Title>
       <Forenames>Gertrude</Forenames>
-      <Text>, O.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4414</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -408,7 +437,9 @@
     <MainItem>
       <Key>Dudley</Key>
       <Forenames>William Edward</Forenames>
-      <Text>, O.B.E., J.P., Knight</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4402</PageNumber>
       <PageNumber>4708</PageNumber>
     </MainItem>
@@ -417,7 +448,9 @@
     <MainItem>
       <Key>Duke</Key>
       <Forenames>Reginald Franklyn Hare</Forenames>
-      <Text>, C.B.E., Commercial Secretary, nrst grade, at H.M. Legation at Budapest</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>6029</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -475,7 +508,9 @@
       <Key>Egan</Key>
       <Title>Maj.</Title>
       <Forenames>William</Forenames>
-      <Text>, D.S.O., M.B., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4407</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -492,7 +527,9 @@
       <Key>Ellis</Key>
       <Title>Sir</Title>
       <Forenames>William Henry</Forenames>
-      <Text>, G.B.E., D.Eng., Member of the Commission to enquire into conditions of Mining and Drainage in the Doncaster area</Text>
+      <Text>
+        <Honour>G.B.E.</Honour>
+      </Text>
       <PageNumber>4318</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -567,7 +604,9 @@
     <MainItem>
       <Key>Fairfax</Key>
       <Forenames>James Oswald</Forenames>
-      <Text>, C.B.E., Knight Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>4414</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -676,7 +715,10 @@
       <Key>Fortescue</Key>
       <Title>the Hon.</Title>
       <Forenames>John William</Forenames>
-      <Text>, C.V.O., Knight Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>C.V.O.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4406</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -684,7 +726,11 @@
     <MainItem>
       <Key>Fowler</Key>
       <Title>Lt.</Title>
-      <Text>-Gen. Sir John Sharman, K.C.M.G., C.B., D.S.O., Knight Commander, Order of the Bath</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4403</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -692,7 +738,9 @@
     <MainItem>
       <Key>Fox</Key>
       <Forenames>Frank</Forenames>
-      <Text>, O.B.E., Knight</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4403</PageNumber>
       <PageNumber>4708</PageNumber>
     </MainItem>
@@ -711,7 +759,11 @@
       <Key>Fremantle</Key>
       <Title>Admiral the Hon. Sir</Title>
       <Forenames>Edmund Robert</Forenames>
-      <Text>, G. C.B., C.M.G., Knight Grand Cross, Royal Victorian Order</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4406</PageNumber>
     </MainItem>
   </ItemGroup>

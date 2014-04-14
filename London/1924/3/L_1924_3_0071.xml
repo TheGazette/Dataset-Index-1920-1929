@@ -42,7 +42,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Helen</Forenames>
+      <Title>Helen .</Title>
       <PageNumber>7148</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -136,21 +136,21 @@
   <ItemGroup>
     <MainItem>
       <Key>Wickes</Key>
-      <Forenames>Isabella</Forenames>
+      <Title>Isabella .</Title>
       <PageNumber>5772</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Wier</Key>
-      <Forenames>William</Forenames>
+      <Title>William .</Title>
       <PageNumber>5773</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Wigram</Key>
-      <Forenames>Mary</Forenames>
+      <Title>Mary .</Title>
       <PageNumber>7076</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -178,7 +178,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilkie</Key>
-      <Forenames>Alexander</Forenames>
+      <Title>Alexander .</Title>
       <PageNumber>5519</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -231,7 +231,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Willes</Key>
-      <Forenames>William</Forenames>
+      <Title>William .</Title>
       <PageNumber>6687</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -265,7 +265,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Jane</Forenames>
+      <Title>Jane .</Title>
       <PageNumber>5846</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -301,7 +301,7 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Forenames>Robert</Forenames>
+      <Title>Robert .</Title>
       <PageNumber>6756</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -365,7 +365,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Lorraine</Forenames>
+      <Title>Lorraine .</Title>
       <PageNumber>5438</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -445,14 +445,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Witney</Key>
-      <Forenames>Emily</Forenames>
+      <Title>Emily .</Title>
       <PageNumber>5517</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Witt</Key>
-      <Forenames>Harry</Forenames>
+      <Title>Harry .</Title>
       <PageNumber>6941</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -546,7 +546,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Woolley</Key>
-      <Forenames>Agnes</Forenames>
+      <Title>Agnes .</Title>
       <PageNumber>6539</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -576,7 +576,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>J Charles BoothElmsall</Text>
+      <Forenames>J</Forenames>
+      <Text>Charles BoothElmsall</Text>
       <PageNumber>6234</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -608,8 +609,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wvbron</Key>
-      <Forenames>George</Forenames>
-      <Text>... ,</Text>
+      <Title>George .</Title>
+      <Text>.. ,</Text>
       <PageNumber>6951</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -623,14 +624,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Wvlie</Key>
-      <Forenames>Alexander</Forenames>
+      <Title>Alexander .</Title>
       <PageNumber>7147</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Yaldwym</Key>
-      <Text>. Eliza Charlotte</Text>
+      <Forenames>Eliza Charlotte</Forenames>
       <PageNumber>5367</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -705,11 +706,55 @@
     </MainItem>
   </ItemGroup>
   <SubCategoryTitle>ASSIGNMENTS FOR THE BENEFIT OF CREDITORS</SubCategoryTitle>
-  <SubCategoryTitle>Addison, Christopher Thomas ... 5372 Aerstall, Robert William, and Tuck, Fred (Aerstall &lt;fe Co.) 7017 Allison, Henry Herbert ... 5595 Ashworth, Harold 6953 Aston, William Simpson (Aston's Garage) 7083 Aynard, G. P., and F. C</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Addison</Key>
+      <Forenames>Christopher Thomas</Forenames>
+      <PageNumber>5372</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Aerstall</Key>
+      <Forenames>Robert William</Forenames>
+      <Text>, and Tuck, Fred (Aerstall &lt;fe Co.)</Text>
+      <PageNumber>7017</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Allison</Key>
+      <Forenames>Henry Herbert</Forenames>
+      <PageNumber>5595</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Ashworth</Key>
+      <Forenames>Harold</Forenames>
+      <PageNumber>6953</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Aston</Key>
+      <Forenames>William Simpson</Forenames>
+      <Text>(Aston's Garage)</Text>
+      <PageNumber>7083</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Aynard</Key>
+      <Forenames>G. P.</Forenames>
+      <Text>, and F. C. Zimmerli (A-Z Cycle Parts and Accessories Co.)</Text>
+      <PageNumber>5372</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Barkin</Key>
-      <Forenames>Marks</Forenames>
+      <Title>Marks .</Title>
       <PageNumber>7157</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -776,7 +821,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brown</Key>
-      <Forenames>Matthew</Forenames>
+      <Title>Matthew .</Title>
       <PageNumber>6238</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -798,7 +843,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bury</Key>
-      <Forenames>John</Forenames>
+      <Title>John .</Title>
       <PageNumber>5858</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -825,9 +870,111 @@
       <PageNumber>5858</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Collins, Frederick James, and H. S. Robinson 5134 Coppock, Arthur, and Cyril Roberts 7082 Cottrell, William 5227 Cox, Frederick William, A</SubCategoryTitle>
-  <SubCategoryTitle>Robertshaw, and J. W</SubCategoryTitle>
-  <SubCategoryTitle>Kitchin (Fanciers' Supply Company) ... 6395 Doelberg, Hermann Deitrich ... 7082 Dundas, John Davidson ... 5521 East London Depositories ... 5929 Evans, William Herbert, Percy Evans and Cissie Evans (J. H. Evans) 5929 Fallon, Lottie Annie, and James Stanislaus ... ... 6614 Fish, Edith Mary ... ... 5295 Fitton, Louis Samuel 669C Foskett, Ernest George 6821 Gale, George Roberts (Gale Brothers) 6470 Goodwin, Allen 5372 Greenwood, James Samuel (M</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Collins</Key>
+      <Forenames>Frederick James</Forenames>
+      <Text>, and H. S. Robinson</Text>
+      <PageNumber>5134</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Coppock</Key>
+      <Forenames>Arthur</Forenames>
+      <Text>, and Cyril Roberts</Text>
+      <PageNumber>7082</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Cottrell</Key>
+      <Forenames>William</Forenames>
+      <PageNumber>5227</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Cox</Key>
+      <Forenames>Frederick William</Forenames>
+      <Text>, A. Robertshaw, and J. W. Kitchin (Fanciers' Supply Company)</Text>
+      <PageNumber>6395</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Doelberg</Key>
+      <Forenames>Hermann Deitrich</Forenames>
+      <PageNumber>7082</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Dundas</Key>
+      <Forenames>John Davidson</Forenames>
+      <PageNumber>5521</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>East</Key>
+      <Forenames>London Depositories</Forenames>
+      <PageNumber>5929</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Evans</Key>
+      <Forenames>William Herbert</Forenames>
+      <Text>, Percy Evans and Cissie Evans (J. H. Evans)</Text>
+      <PageNumber>5929</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Fallon</Key>
+      <Forenames>Lottie Annie</Forenames>
+      <Text>, and James Stanislaus</Text>
+      <PageNumber>6614</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Fish</Key>
+      <Forenames>Edith Mary</Forenames>
+      <PageNumber>5295</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Foskett</Key>
+      <Forenames>Ernest George</Forenames>
+      <PageNumber>6821</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Gale</Key>
+      <Forenames>George Roberts</Forenames>
+      <Text>(Gale Brothers)</Text>
+      <PageNumber>6470</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Goodwin</Key>
+      <Forenames>Allen</Forenames>
+      <PageNumber>5372</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Greenwood</Key>
+      <Forenames>James Samuel</Forenames>
+      <Text>(M. &amp; J. Greenwood)</Text>
+      <PageNumber>6953</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Grieve</Key>
@@ -940,7 +1087,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ingham</Key>
-      <Forenames>John</Forenames>
+      <Title>John .</Title>
       <PageNumber>6009</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -955,7 +1102,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Jenkinson</Key>
-      <Forenames>William</Forenames>
+      <Title>William .</Title>
       <PageNumber>5929</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -976,25 +1123,18 @@
   <ItemGroup>
     <MainItem>
       <Key>Kalushner</Key>
-      <Forenames>Israel</Forenames>
+      <Title>Israel .</Title>
       <PageNumber>6010</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Kay</Key>
-      <Forenames>Benjamin</Forenames>
+      <Title>Benjamin .</Title>
       <PageNumber>5522</PageNumber>
     </MainItem>
   </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>King</Key>
-      <Forenames>Frank George</Forenames>
-      <Text>(Eastern ' Counties Haulage)</Text>
-      <PageNumber>5929</PageNumber>
-    </MainItem>
-  </ItemGroup>
+  <CategoryTitle>Counties Haulage) 5929</CategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>Kitchingman</Key>
@@ -1021,7 +1161,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lloyd</Key>
-      <Forenames>John</Forenames>
+      <Title>John .</Title>
       <PageNumber>5595</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1061,22 +1201,310 @@
       <PageNumber>6758</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Moody, Harry Ancient 7157 Neville, Stanley and Amy (The Bon Marchel. 5294 Norton, Gilbert P 5522 Parker, Frederick Edward ... 5522 Peel, Walter ... ... ... 6395 Perrimaii, Andrew Francis 7156 Pigg, Thos. Chas., &amp; Martin ... 5689 Pilet, Henri Francis Louis ... 5227 Price, Corbett ..6010 Probert, Walter and Walter</SubCategoryTitle>
-  <SubCategoryTitle>George (Probert and Sons) 6470 Pryor, Isaac ... ... ... 701? Purves, James ... ... ... 5595 Radcliffe, Charles Henry ... 6613 Ray, Archibald Edgar ... 6697 Reycroft, Harold Victor .... 5295 Riley, Charles ... ... . ... 6104 Robinson, Karl and Goodwin .</SubCategoryTitle>
-  <SubCategoryTitle>Higham (Robinson &amp; Co.).,. 7083 Sawyer, George William and Charles Walter Bowling (Eastern Motor Factors) ... 5929 Shepherd, Florence 6696 Simmons, Caroline (D</SubCategoryTitle>
-  <SubCategoryTitle>
-    <KeyDitto>___ ___ ___ ___</KeyDitto>
-    <KeyDitto>___ ___ ___</KeyDitto>
-    <KeyDitto>___ ___</KeyDitto>
-  </SubCategoryTitle>
-  <SubCategoryTitle>Thomas, Maud (East London</SubCategoryTitle>
-  <SubCategoryTitle>Depositories) ... ... 5929 Tildsley, Henry ... 6372 Trott,_James John (Stanley &amp; Hawes) ... 6470</SubCategoryTitle>
-  <SubCategoryTitle>Turner, William McMillan, and John Herbert Williamson (Turner and Williamson) ... 5448 Tweddle, George William ... 7157 Walker, William and Thomas Edward (W. Walker &amp; Sons) .., 5449 Warner, Alfred John, and Peter Reeves (W. Suter and Co.) 6883 West, Herbert Alfred 6395 Whitehead, Elizabeth : 5372 Williamson, Thomas ... .;. 7083 Winter, John Loy , 7083 Wood, Gervase Dawson;</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Moody</Key>
+      <Forenames>Harry Ancient</Forenames>
+      <PageNumber>7157</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Neville</Key>
+      <Forenames>Stanley</Forenames>
+      <Text>and Amy (The Bon Marchel</Text>
+      <PageNumber>5294</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Norton</Key>
+      <Forenames>Gilbert P</Forenames>
+      <PageNumber>5522</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Parker</Key>
+      <Forenames>Frederick Edward</Forenames>
+      <PageNumber>5522</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Peel</Key>
+      <Title>Walter .</Title>
+      <PageNumber>6395</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Perrimaii</Key>
+      <Forenames>Andrew Francis</Forenames>
+      <PageNumber>7156</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Pigg</Key>
+      <Title>Thos. Chas.</Title>
+      <Text>, &amp; Martin</Text>
+      <PageNumber>5689</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Pilet</Key>
+      <Forenames>Henri Francis Louis</Forenames>
+      <PageNumber>5227</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Price</Key>
+      <Title>Corbett .</Title>
+      <PageNumber>6010</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Probert</Key>
+      <Forenames>Walter</Forenames>
+      <Text>and Walter . George (Probert and Sons)</Text>
+      <PageNumber>6470</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Pryor</Key>
+      <Title>Isaac .</Title>
+      <PageNumber>701</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Purves</Key>
+      <Title>James .</Title>
+      <PageNumber>5595</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Radcliffe</Key>
+      <Forenames>Charles Henry</Forenames>
+      <PageNumber>6613</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Ray</Key>
+      <Forenames>Archibald Edgar</Forenames>
+      <PageNumber>6697</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Reycroft</Key>
+      <Forenames>Harold Victor</Forenames>
+      <PageNumber>5295</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Riley</Key>
+      <Title>Charles .</Title>
+      <PageNumber>6104</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Robinson</Key>
+      <Forenames>Karl</Forenames>
+      <Text>and Goodwin . . Higham (Robinson &amp; Co.).,</Text>
+      <PageNumber>7083</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Sawyer</Key>
+      <Forenames>George William</Forenames>
+      <Text>and Charles Walter Bowling (Eastern Motor Factors)</Text>
+      <PageNumber>5929</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Shepherd</Key>
+      <Forenames>Florence</Forenames>
+      <PageNumber>6696</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Simmons</Key>
+      <Forenames>Caroline</Forenames>
+      <Text>(D. Simmons)</Text>
+      <PageNumber>5448</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Skillicorn</Key>
+      <Title>Nellie .</Title>
+      <PageNumber>5857</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Smith</Key>
+      <Forenames>Frederick Frahkling</Forenames>
+      <Text>(F. F. Smith &amp; Sons)</Text>
+      <PageNumber>7156</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___ ___</KeyDitto>
+      </Key>
+      <Forenames>Herbert George</Forenames>
+      <Text>;</Text>
+      <PageNumber>6238</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___</KeyDitto>
+      </Key>
+      <Forenames>Sarah Louisa</Forenames>
+      <Text>(Charles Smith)</Text>
+      <PageNumber>5777</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Forenames>Walter</Forenames>
+      <Text>(W. Smith &amp; Co.)</Text>
+      <PageNumber>5449</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Solomon</Key>
+      <Forenames>Rose</Forenames>
+      <Text>(Roses)</Text>
+      <PageNumber>5135</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Stanley</Key>
+      <Forenames>Harry</Forenames>
+      <PageNumber>6104</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Taaffe</Key>
+      <Title>Patrick .</Title>
+      <PageNumber>7018</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Thomas</Key>
+      <Forenames>Maud</Forenames>
+      <Text>(East London . Depositories)</Text>
+      <PageNumber>5929</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Tildsley</Key>
+      <Title>Henry .</Title>
+      <PageNumber>6372</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <SubCategoryTitle>Hawes) ... 6470</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Turner</Key>
+      <Forenames>William</Forenames>
+      <Text>McMillan, and John Herbert Williamson (Turner and Williamson)</Text>
+      <PageNumber>5448</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Tweddle</Key>
+      <Forenames>George William</Forenames>
+      <PageNumber>7157</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Walker</Key>
+      <Forenames>William</Forenames>
+      <Text>and Thomas Edward (W. Walker &amp; Sons) ..,</Text>
+      <PageNumber>5449</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Warner</Key>
+      <Forenames>Alfred John</Forenames>
+      <Text>, and Peter Reeves (W. Suter and Co.)</Text>
+      <PageNumber>6883</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>West</Key>
+      <Forenames>Herbert Alfred</Forenames>
+      <PageNumber>6395</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Whitehead</Key>
+      <Forenames>Elizabeth</Forenames>
+      <Text>:</Text>
+      <PageNumber>5372</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Williamson</Key>
+      <Title>Thomas .</Title>
+      <Text>.. .;</Text>
+      <PageNumber>7083</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Winter</Key>
+      <Forenames>John Loy</Forenames>
+      <Text>,</Text>
+      <PageNumber>7083</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Wood</Key>
+      <Forenames>Gervase</Forenames>
+      <Text>Dawson; . Snowden, William John(Burley Vale Manufacturing Co.), and Norton, Gilbert ... ... ...-</Text>
+      <PageNumber>5858</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Woolf</Key>
-      <Forenames>Ephraim</Forenames>
-      <Text>... ... '</Text>
+      <Title>Ephraim .</Title>
+      <Text>.. ... '</Text>
       <PageNumber>7018</PageNumber>
     </MainItem>
   </ItemGroup>

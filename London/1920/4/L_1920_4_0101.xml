@@ -15,7 +15,12 @@
     <MainItem>
       <Key>Cavan</Key>
       <Title>Lt.</Title>
-      <Text>-Gen. F. R., Earl of, K.P., G.C.M.G., K.C.B., M.V.O. (apptd. A.D.C.-Gen. to The King)</Text>
+      <Text>
+        <Honour>G.C.M.G.</Honour>
+        <Honour>K.C.B.</Honour>
+        <Honour>M.V.O.</Honour>
+        <Honour>A.D.C.</Honour>
+      </Text>
       <PageNumber>10732</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -79,7 +84,9 @@
       <Key>Caven</Key>
       <Title>Lt.</Title>
       <Forenames>R. J.</Forenames>
-      <Text>, M.C. (rel. actg. rank of Capt. on ceasing to be empld. with a Serv. Bn., K.O. Sco. Bord.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10604</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -88,7 +95,10 @@
       <Key>Cavendish</Key>
       <Title>Capt.</Title>
       <Forenames>F. G.</Forenames>
-      <Text>, D.S.O., M.C. (rel. aotg. rank of Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9781</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -125,7 +135,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>J. D.</Forenames>
-      <Text>, M.C. (rel. oommn., and retains rank of Lt-.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9970</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -226,7 +238,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Chaddock</Key>
-      <Text>Edward Henry John (Lt., E. Lan. R., from temp. Lt., Tank Corps, and seed. tVr , service as Executive Offr. with Tank Corps)</Text>
+      <Forenames>Edward Henry John</Forenames>
+      <Text>(Lt., E. Lan. R., from temp. Lt., Tank Corps, and seed. tVr , service as Executive Offr. with Tank Corps)</Text>
       <PageNumber>12264</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -288,7 +301,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>N.</Forenames>
-      <Text>, M.C. (rel. commn., and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>11070</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -429,7 +444,9 @@
       </Key>
       <Title>temp.</Title>
       <Forenames>Lt</Forenames>
-      <Text>, A., M.C. (Camn. Highrs.) (rel. commn. on completion of service, and granted rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10381</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -541,7 +558,9 @@
       <Key>Chamberlayne</Key>
       <Title>Capt.</Title>
       <Forenames>C. H. L. F. M. T.</Forenames>
-      <Text>, M.C. (Adjt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>12026</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -570,7 +589,9 @@
       <Key>Chambers</Key>
       <Title>Capt.</Title>
       <Forenames>Cyril Roy</Forenames>
-      <Text>, M.C. (Lt., S. Lan. R., late temp. Capt., Serv. Bn.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>12382</PageNumber>
     </MainItem>
     <SubItem>
@@ -588,7 +609,7 @@
       <PageNumber>12384</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Rel. commn., and granted rank of Capt</Text>
+      <Text>Rel. commn., and granted rank of Capt.</Text>
       <PageNumber>12575</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -675,7 +696,9 @@
         <KeyDitto>___ — ___ ___</KeyDitto>
       </Key>
       <Forenames>Lt</Forenames>
-      <Text>, T. G. S., M.C. (rel. oommn., and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10379</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -685,7 +708,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Lt</Forenames>
-      <Text>, W., M.C. (R.FJ.A;.) (rel. oommn., and retains* rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10921</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -696,7 +721,9 @@
       </Key>
       <Title>temp. 2nd Lt.</Title>
       <Forenames>W.</Forenames>
-      <Text>(M.G.C. Infy.) (rel. oommn. on completion of service, and retains rank of 2nd Lt.)</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>12365</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -764,7 +791,9 @@
     <MainItem>
       <Key>Chanda</Key>
       <Forenames>Subadar</Forenames>
-      <Text>Maj., I.O.M. (Hon. Lt.)</Text>
+      <Text>
+        <Honour>O.M.</Honour>
+      </Text>
       <PageNumber>11317</PageNumber>
     </MainItem>
   </ItemGroup>

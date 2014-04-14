@@ -85,7 +85,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>J. C</Forenames>
-      <Text>, M.C. (rel. oommn., and granted (rank of Cap.t.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7414</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -211,8 +213,7 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Boulay</Forenames>
+      <Key>Du Boulay</Key>
       <Text>~2nd Lt. G. G. H. (temp. 2nd (Lt., Gon. List, whilst spec</Text>
       <PageNumber>8254</PageNumber>
     </MainItem>
@@ -227,17 +228,27 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Pre</Forenames>
-      <Text>, Maj. F. J., D.lS.O. (appltd</Text>
+      <Key>Du Pre</Key>
+      <Title>Maj.</Title>
+      <Forenames>F. J.</Forenames>
+      <Text>, D.lS.O. (appltd</Text>
       <PageNumber>7742</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Vallon</Forenames>
-      <Text>, Lt, G. C. D. de J. (rel. commm., and retains rank of Lt. Dulbarly, Lt. E. H. J. (rel. oommn</Text>
+      <Key>du Ronzet</Key>
+      <Title>temp. Lt.</Title>
+      <Forenames>A. T.</Forenames>
+      <Text>de la R. (rel. commn. on completion of service, and granted rank of</Text>
+      <PageNumber>7318</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Du Vallon</Key>
+      <Forenames>Lt</Forenames>
+      <Text>, G. C. D. de J. (rel. commm., and retains rank of Lt. Dulbarly, Lt. E. H. J. (rel. oommn</Text>
       <PageNumber>9039</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -266,7 +277,9 @@
     <MainItem>
       <Key>Duff</Key>
       <Forenames>Capt</Forenames>
-      <Text>, A. C, M.C. (rel. appt. of Adjt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7927</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -314,7 +327,8 @@
   <ItemGroup>
     <MainItem>
       <Key>ThiffieM</Key>
-      <Text>. C*det A. C. (2nd. Lt.)</Text>
+      <Forenames>C</Forenames>
+      <Text>*det A. C. (2nd. Lt.)</Text>
       <PageNumber>8141</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -349,7 +363,9 @@
     <MainItem>
       <Key>Duggan</Key>
       <Forenames>Lt</Forenames>
-      <Text>, C. E., M.C. (rel. commn., and retains rank , of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7093</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -369,7 +385,10 @@
       <Key>Duguid</Key>
       <Title>temp.</Title>
       <Forenames>I.</Forenames>
-      <Text>OiM., 3rd CI., and Lt. D. R. (actg. I.O.M., 1st CI., and Maj., with pay and emoluments of I.O.M., 1st CI., and Capt., whilst spec, empld.)</Text>
+      <Text>
+        <Honour>O.M.</Honour>
+        <Honour>O.M.</Honour>
+      </Text>
       <PageNumber>7840</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -411,7 +430,10 @@
       </Key>
       <Title>Miaj.</Title>
       <Forenames>A. C. H.</Forenames>
-      <Text>, C.M.G., D.S.O. (Lt.-Col., Gen. Res. of Offrs.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7544</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -433,7 +455,9 @@
       </Key>
       <Title>Capt. and Bt. Maj.</Title>
       <Forenames>J. P.</Forenames>
-      <Text>, D.S.O. (Adjt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7834</PageNumber>
     </MainItem>
     <SubItem>
@@ -447,8 +471,8 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Title>2nd Lt.</Title>
-      <Forenames>V.</Forenames>
-      <Text>de S. (rel. commn., and retains rank oif 2nd Lt.)</Text>
+      <Forenames>V. de S</Forenames>
+      <Text>. (rel. commn., and retains rank oif 2nd Lt.)</Text>
       <PageNumber>8546</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -489,7 +513,10 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Title>temp. Maj.</Title>
-      <Text>iR. M., O.B.E., M.C. .(Not. in Gaz. of 19thi May, 1920. cancelled)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8956</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -591,7 +618,12 @@
   <ItemGroup>
     <MainItem>
       <Key>Dundias</Key>
-      <Text>. Capt. Sir H. H. P.. Bt,, M.V.O. (rel. temp, rank of Maj. on ceasing to he Comdt. of a Vol. Bn.)</Text>
+      <Title>Capt. Sir</Title>
+      <Forenames>H. H. P.</Forenames>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>7203</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -678,7 +710,9 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>G. H.</Forenames>
-      <Text>, M.C. (rel. commn. on acc. of ill-health, and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8257</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -700,7 +734,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>William</Forenames>
-      <Text>, O.B.E., M.B. (actg. Maj.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>8352</PageNumber>
     </MainItem>
     <SubItem>
@@ -724,7 +760,9 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>E. B.</Forenames>
-      <Text>, M.C. (rel. .commn. on completion of service and granted rank of Capt,)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7432</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -757,7 +795,9 @@
       </Key>
       <Title>temp. Capt.</Title>
       <Forenames>J. B.</Forenames>
-      <Text>, D.S.O., M.O. (rel. commn. on completion of service and .granted rank of Lt.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8842</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -841,7 +881,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>Jame</Forenames>
-      <Text>« S.. D.= 0.. F.R.C.S., I. (acts. Lt.-Col.)</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>7937</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -850,7 +892,9 @@
       <Key>Dunnett</Key>
       <Title>Lt.</Title>
       <Forenames>F. W.</Forenames>
-      <Text>. M.C. (rel. coiumn. and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9136</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -884,7 +928,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Dunbv</Key>
-      <Text>. Lt. J. T. W. (Ad&gt;t.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>J. T. W.</Forenames>
+      <Text>(Ad&gt;t.)</Text>
       <PageNumber>8542</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -960,7 +1006,7 @@
       <PageNumber>9120</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>H.p. list, reltires on ret. pay on aicc. of ill-health caused by wounds, and granted Tank of Lt.-Col.. Sub. Not.</Text>
+      <Text>H.p. list, reltires on ret. pay on aicc. of ill-health caused by wounds, and granted Tank of Lt.-Col.. Sub. Not</Text>
       <PageNumber>9349</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -969,7 +1015,9 @@
       <Key>Dures</Key>
       <Title>Lit.</Title>
       <Forenames>G. H.</Forenames>
-      <Text>, M.C. (rel comimn., and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8785</PageNumber>
     </MainItem>
     <SubItem>

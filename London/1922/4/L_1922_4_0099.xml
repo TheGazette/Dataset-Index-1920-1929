@@ -105,7 +105,9 @@
       <Key>Naylor</Key>
       <Title>Qrmr. and Maj.</Title>
       <Forenames>A. J.</Forenames>
-      <Text>, T.D. (is retired, having attained the age limit for retirement, and retains rank of Maj.)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>8720</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -142,7 +144,10 @@
       <Key>Nevill</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>R. A.</Forenames>
-      <Text>, D.S.O., T.D. (is retired^ having attained the age limit, and retains rank of Lt.-Col., with permission to wear prescribed uniform)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>8301</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -150,15 +155,17 @@
     <MainItem>
       <Key>Nevin</Key>
       <Forenames>Capt</Forenames>
-      <Text>, R. W., M.D. (rel. commn., and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>7948</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Newbery</Key>
-      <Forenames>George Florian O</Forenames>
-      <Text>'Brien (2nd Lt., 5th Bn., R. West Kent R., late Cadet Sjt., Lancing Coll. Cont., Jun. Div., O.T.C.)</Text>
+      <Forenames>George Florian O'Brien</Forenames>
+      <Text>(2nd Lt., 5th Bn., R. West Kent R., late Cadet Sjt., Lancing Coll. Cont., Jun. Div., O.T.C.)</Text>
       <PageNumber>7671</PageNumber>
     </MainItem>
     <SubItem>
@@ -207,7 +214,9 @@
       <Key>Nicholson</Key>
       <Title>Lt.</Title>
       <Forenames>Humphrey John</Forenames>
-      <Text>, M.C. (Lt., R. Wilts. Yeo., late Carabiniers)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7671</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -242,8 +251,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, Lt. J. E. (resigns commn., and retains rank of Lt.)</Text>
+      <Key>O'Brien</Key>
+      <Title>Lt.</Title>
+      <Forenames>J. E.</Forenames>
+      <Text>(resigns commn., and retains rank of Lt.)</Text>
       <PageNumber>7671</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -252,7 +263,9 @@
       <Key>Odgers</Key>
       <Title>Capt.</Title>
       <Forenames>P. N. B.</Forenames>
-      <Text>, M.B., F.R.C.S. (is retired, having attained the age limit, and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>9173</PageNumber>
     </MainItem>
     <SubItem>
@@ -279,8 +292,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hagan, Capt. C. S., M.B. (rel. commn., and retains rank of Capt.)</Text>
+      <Key>O'Hagan</Key>
+      <Title>Capt.</Title>
+      <Forenames>C. S.</Forenames>
+      <Text>, M.B. (rel. commn., and retains rank of Capt.)</Text>
       <PageNumber>8880</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -295,8 +310,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Leary, Chapln., 4th Cl., Rev. D. L. E., D.D., M.A. (resigns commn., and to be Hon. Chapln., 4th Cl.)</Text>
+      <Key>O'Leary</Key>
+      <Title>Chapln.</Title>
+      <Text>, 4th Cl., Rev. D. L. E., D.D., M.A. (resigns commn., and to be Hon. Chapln., 4th Cl.)</Text>
       <PageNumber>7377</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -320,8 +336,12 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Meara, Capt. J. M., M.D. (rel. commn., and retains rank of Capt.)</Text>
+      <Key>O'Meara</Key>
+      <Title>Capt.</Title>
+      <Forenames>J. M.</Forenames>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>9173</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -339,7 +359,11 @@
       <Key>Ormond</Key>
       <Title>Capt. and Bt. Maj.</Title>
       <Forenames>A. W.</Forenames>
-      <Text>, C.B.E., F.R.C.S. (is retired, having attained the age limit, and retains rank of Capt. (Bt. Maj.))</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>F.R.C.S.</Honour>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>9173</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -359,14 +383,18 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>D. C. L</Forenames>
-      <Text>T.D. (Lt.-Col., and to coma. 4th (Cheshire) Cavalry Field Arab.)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>8301</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan, Capt. J. (is retired, having atained the age limit, and granted rank of Maj.)</Text>
+      <Key>O'Sullivan</Key>
+      <Title>Capt.</Title>
+      <Forenames>J.</Forenames>
+      <Text>(is retired, having atained the age limit, and granted rank of Maj.)</Text>
       <PageNumber>8416</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -395,7 +423,9 @@
       <Key>Owles</Key>
       <Title>Lt.</Title>
       <Forenames>A. E.</Forenames>
-      <Text>, M.C. (apptd. to 4th Bn., Suffolk R., and retains rank of Lt. and precedence)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8614</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -412,7 +442,9 @@
       <Key>Paley</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>F. J.</Forenames>
-      <Text>, M.D. (is retired, having attained the age limit and retains rank of Lt.Col.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>9173</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -428,7 +460,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pank</Key>
-      <Text>. 2nd Lt, H. A. (2nd Lt., 54th (E. Angl.) Divl. Engrs., late R.A.F.) ... :</Text>
+      <Text>2nd Lt, H. A. (2nd Lt., 54th (E. Angl.) Divl. Engrs., late R.A.F.) ... :</Text>
       <PageNumber>7539</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -449,7 +481,9 @@
     <MainItem>
       <Key>Paramor</Key>
       <Forenames>Lt</Forenames>
-      <Text>, A. L., M.C. (Lt., T.A. Res., Regtl. List, Art., 105th (Beds. Yeo. Bde.) (A.T.) from Active List)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8722</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -518,7 +552,9 @@
       <Key>Parmeter</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>N. L.</Forenames>
-      <Text>, T.D. (resigns commn., and retains rank of Lt.-Col., with permission to wear prescribed uniform)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>7539</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -538,7 +574,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>H. C</Forenames>
-      <Text>, T.D. (is retired, having attained the age limit, and granted rank of Lt.-C0l.)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>7207</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -576,7 +614,9 @@
       <Key>Peacey</Key>
       <Title>Lt.</Title>
       <Forenames>J. R.</Forenames>
-      <Text>, M.C. (seed, for service with Wellington Coll. (Berks.) Cont., O.T.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9042</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -596,7 +636,10 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>H. P. J.</Forenames>
-      <Text>, D.C.M., M.M. (Lt., T.A. Res., Gen. List, R.E., from 43rd (Wessex) Divl. Engrs.)</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>7378</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -605,7 +648,9 @@
       <Key>Peaks</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>W. P.</Forenames>
-      <Text>, T.D. (is retired, having attained the age limit, and retains rank of Lt.Col., with permission to wear .prescribed uniform)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>8722</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -669,7 +714,9 @@
       <Key>Pegrum</Key>
       <Title>Capt.</Title>
       <Forenames>H. B.</Forenames>
-      <Text>, M.C. (Capt., Gen. List, for service with Mill Hill Schl. Cont., Jun. Div., O.T.C., late Lane. Fus.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8615</PageNumber>
     </MainItem>
     <SubItem>
@@ -709,7 +756,9 @@
       <Key>Pettit</Key>
       <Title>Maj.</Title>
       <Forenames>C. E.</Forenames>
-      <Text>, T.D. (Maj., T.A. Res., Regtl. List, Art., H.A.C. (Art.), from Active List)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>9041</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -763,7 +812,9 @@
       <Key>Pickin</Key>
       <Title>Lt.</Title>
       <Forenames>R. W.</Forenames>
-      <Text>, M.C. (resigns commn. and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8301</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -772,7 +823,9 @@
       <Key>Pickles</Key>
       <Title>Capt.</Title>
       <Forenames>H. D.</Forenames>
-      <Text>, M.C., M.B. (rel. commn. on acc. of illhealth and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7540</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -781,7 +834,9 @@
       <Key>Pigg</Key>
       <Title>Capt.</Title>
       <Forenames>C. Hi</Forenames>
-      <Text>, M.C. (resigns commn. and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8722</PageNumber>
     </MainItem>
   </ItemGroup>

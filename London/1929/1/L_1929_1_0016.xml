@@ -4,7 +4,9 @@
     <MainItem>
       <Key>Bird</Key>
       <Forenames>Lieutenant</Forenames>
-      <Text>Colonel Lennox Godfrey, D.S.O., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1440</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -28,7 +30,10 @@
     <MainItem>
       <Key>Bond</Key>
       <Forenames>Charles Hubert</Forenames>
-      <Text>, C.B.E., D..Sc, M.D., F.R.C.P., LL.B., Knight Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>1440</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -37,7 +42,9 @@
       <Key>Boot</Key>
       <Title>Sir</Title>
       <Forenames>Jesse</Forenames>
-      <Text>, Bart., Baron Trent of Nottingham</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>1435</PageNumber>
       <PageNumber>1968</PageNumber>
     </MainItem>
@@ -79,7 +86,10 @@
     <MainItem>
       <Key>Bowers</Key>
       <Forenames>Frederick Gatus</Forenames>
-      <Text>, C.B.E., A.C.A., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>1438</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -95,7 +105,9 @@
     <MainItem>
       <Key>Braithwaite</Key>
       <Forenames>General</Forenames>
-      <Text>Sir Walter Pipon, K.C.B., Knight Grand Cross, Order of the Bath</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+      </Text>
       <PageNumber>1437</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -128,7 +140,11 @@
       <Key>Brock</Key>
       <Title>Admiral Sir</Title>
       <Forenames>Osmond De Beauvoir</Forenames>
-      <Text>, K.C.B., K.C.M.G., K.C.V.O., '' -Knight Grand Cross, Order of the Bath</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>K.C.V.O.</Honour>
+      </Text>
       <PageNumber>1437</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -187,14 +203,21 @@
       <Key>Browning</Key>
       <Title>Admiral Sir</Title>
       <Forenames>Mon-</Forenames>
-      <Text>tague Edward. G.C.B., G.C.M.G., M.V.O., Rear Admiral of the United and of the Ad' Kingdom miralty</Text>
+      <Text>
+        <Honour>G.C.B.</Honour>
+        <Honour>G.C.M.G.</Honour>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>2084</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Bruce</Key>
-      <Text>Lieutenant Colonel Charles Edward, C.I.E., C.B.E., Companion, Order of the Star, of India</Text>
+      <Forenames>Lieutenant</Forenames>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>1438</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -226,7 +249,10 @@
       <Key>Burke</Key>
       <Title>Miss</Title>
       <Forenames>Mary Elizabeth</Forenames>
-      <Text>, Member, Order of the British Empire Burkill, Albert William, Officer, Order of the British Empire Burne, Lieutenant Colonel Lindsay Elliott Lumley, C.B.E., Companion, Order of the Indian Empire ... Burton, Joseph James, J.P., Officer, Order of the British Empire Byett, Henry, Serving Brother, Order of St. John of Jerusalem Byrne, Hilda Wycliffe, Mrs., Member, Order of the British Empire Cachia, Anthony Joseph Amy John, Member, Order of the British Empire Cadogan, The Hon. Alexander Montagu George, C.M.G., Counsellor of Embassy in H.M. Diplomatic Service ... Call, Ernest, Member, Order of the British Empire ... Camaoho, John Joseph, Officer, Order of the British Empire Campbell Commander Harold Gordon, B-.S.O., R.N. (Retd.), Acting Equerry to H.R.H. Duke of York ... Cann, Judge William Moore, Knight</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>1436</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -235,7 +261,11 @@
       <Key>Carlile</Key>
       <Title>The Rev.</Title>
       <Forenames>John Charles</Forenames>
-      <Text>, C.B.E., D.D., D.Litt., Member, Order of the Companions of Honour ... ... Carmichael, Lieutenant-Colonel James Forrest Halkett, C.M.G., M.I.C.E., C.B.E., Knight</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>1437</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -248,34 +278,41 @@
       <Title>John.</Title>
       <Forenames>J.P.</Forenames>
       <Text>. Officer, Order of the British Empire ...</Text>
-      <PageNumber>___ ___ ___ ___ ___</PageNumber>
+      <PageNumber>___ ___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
-  <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
+  <KeyDitto>___ ___ ___ ___</KeyDitto>
   <ItemGroup>
     <MainItem>
       <Key>Clayton</Key>
-      <Title>Brigadier</Title>
+      <Title>Brigadier-</Title>
       <Forenames>General</Forenames>
-      <Text>Sir Gilbert Falkingham, 1442 K.B.E., K.C.M.G., Officer, Order of St. John of Jerusalem</Text>
-      <PageNumber>49</PageNumber>
-    </MainItem>
-    <SubItem>
-      <Text>Cohen, Lionel Leonard, King's . Counsel</Text>
-      <PageNumber>1447</PageNumber>
-    </SubItem>
-    <SubItem>
-      <Text>Cordes, Edward, Member, Order of the British Empire</Text>
-      <PageNumber>1442</PageNumber>
-    </SubItem>
-    <SubItem>
-      <Text>Craigie, Robert Leslie, Companion, Order of</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>C.V.O.</Honour>
+        <Honour>Bt</Honour>
+        <Honour>K.B.E.</Honour>
+      </Text>
       <PageNumber>8</PageNumber>
-    </SubItem>
-    <SubItem>
-      <Text>Cundall. Frank, Officer, Order of the British Empire</Text>
-      <PageNumber>1444</PageNumber>
-    </SubItem>
+    </MainItem>
   </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Cremen</Key>
+      <Title>Miss</Title>
+      <Forenames>Nora Marie</Forenames>
+      <Text>
+        <Honour>G.C.V.O.</Honour>
+        <Honour>Bt</Honour>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
+      <PageNumber>1436</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <KeyDitto>___ ___ ___ ___</KeyDitto>
 </Index>
 

@@ -87,8 +87,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hourilhane</Key>
-      <Forenames>G. O</Forenames>
-      <Text>'B</Text>
+      <Forenames>G. O'B</Forenames>
       <PageNumber>3316</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -571,7 +570,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Moreton</Key>
-      <Text>. B. M</Text>
+      <Forenames>B. M</Forenames>
       <PageNumber>986</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -904,15 +903,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Rundle</Key>
-      <Forenames>A. L.</Forenames>
-      <Text>de V</Text>
+      <Forenames>A. L. de V</Forenames>
       <PageNumber>2076</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Runnals</Key>
-      <Text>. H. G. (temp.)</Text>
+      <Forenames>H. G.</Forenames>
+      <Text>(temp.)</Text>
       <PageNumber>3440</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -933,7 +932,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sankey</Key>
-      <Text>. C. S</Text>
+      <Forenames>C. S .</Forenames>
       <PageNumber>986</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1042,7 +1041,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Steward</Key>
-      <Text>. J. R. O'B. (corr. df date of admission)</Text>
+      <Forenames>J. R. O'B</Forenames>
+      <Text>. (corr. df date of admission)</Text>
       <PageNumber>568</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1130,7 +1130,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Turner</Key>
-      <Text>. M. R</Text>
+      <Forenames>M. R.</Forenames>
       <PageNumber>986</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1217,14 +1217,16 @@
   <ItemGroup>
     <MainItem>
       <Key>WAb</Key>
-      <Text>. H. P. (.temp.)</Text>
+      <Forenames>H. P.</Forenames>
+      <Text>(.temp.)</Text>
       <PageNumber>565</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>WeJHber</Key>
-      <Text>. G. H. S!</Text>
+      <Forenames>G. H. S</Forenames>
+      <Text>!</Text>
       <PageNumber>986</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1285,14 +1287,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Walkins</Key>
-      <Text>. R</Text>
+      <Forenames>R .</Forenames>
       <PageNumber>2471</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Wilkinson</Key>
-      <Text>. A. S</Text>
+      <Forenames>A. S.</Forenames>
       <PageNumber>1267</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1308,8 +1310,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Walks</Key>
-      <Forenames>B. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>B. St. C</Forenames>
       <PageNumber>1951</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1437,21 +1438,21 @@
   <ItemGroup>
     <MainItem>
       <Key>Commeline</Key>
-      <Text>. FT</Text>
+      <Text>FT</Text>
       <PageNumber>3319</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>iDeakin</Key>
-      <Text>., J. .S</Text>
+      <Text>, J. .S</Text>
       <PageNumber>1836</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Eais</Key>
-      <Text>.tm.ead, C. (in consequence of illheailuh.)</Text>
+      <Text>tm.ead, C. (in consequence of illheailuh.)</Text>
       <PageNumber>2914</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1480,7 +1481,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kunwar</Key>
-      <Text>.Savtid Sinhji</Text>
+      <Forenames>Savtid Sinhji</Forenames>
       <PageNumber>206</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1591,7 +1592,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Whitehead</Key>
-      <Text>. F. W. .(whilst Adjt, and Qrmr.)</Text>
+      <Forenames>F. W.</Forenames>
+      <Text>.(whilst Adjt, and Qrmr.)</Text>
       <PageNumber>568</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1606,7 +1608,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Bhim</Key>
-      <Text>'Singh Thapa, M.C., I.O.M</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>988</PageNumber>
       <PageNumber>1066</PageNumber>
     </MainItem>
@@ -1638,7 +1642,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Case</Key>
-      <Text>. C. E</Text>
+      <Forenames>C. E</Forenames>
       <PageNumber>1862</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1673,7 +1677,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Farrell</Key>
-      <Text>. J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>1952</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1749,7 +1753,7 @@
   <ItemGroup>
     <MainItem>
       <Key>MacLeod</Key>
-      <Text>. I. N</Text>
+      <Forenames>I. N.</Forenames>
       <PageNumber>1952</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1780,7 +1784,10 @@
     <MainItem>
       <Key>Mit</Key>
       <Forenames>Singh</Forenames>
-      <Text>, M.C., I.D.S.M</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>D.S.M</Honour>
+      </Text>
       <PageNumber>988</PageNumber>
       <PageNumber>1066</PageNumber>
     </MainItem>

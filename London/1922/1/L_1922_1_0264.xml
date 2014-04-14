@@ -27,7 +27,9 @@
       <Key>Veitch</Key>
       <Title>temp. 2nd Lt.</Title>
       <Forenames>D.</Forenames>
-      <Text>, M.M. (rel. commn. on completion of service and retains rank of 2nd Lt.)</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>1180</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -37,7 +39,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Title>temp. Chapln.</Title>
-      <Text>, 4th CL, Rev. W., T.D. (rel. commn.)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>711</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -67,7 +71,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Surg-</Forenames>
-      <Text>Maj. Robert, M.D. (is placed on h.p.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>1066</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -193,7 +199,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Verney</Key>
-      <Text>. Capt. and Bt. Maj. F. E.. M.C. (seed, under provs. of Art, 102B. Royal Warrant for Pay and Prom., 1914)</Text>
+      <Title>Capt. and Bt. Maj.</Title>
+      <Forenames>F. E.</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2016</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -203,7 +213,9 @@
         <KeyDitto>___ -— ___ ___ ___</KeyDitto>
       </Key>
       <Title>Lt. (h.r)</Title>
-      <Text>. list) the Hon, J. H. P.. M.C. (lestd. to estabt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2396</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -249,7 +261,10 @@
       <Key>Vyvyan</Key>
       <Title>temp. 2nd Lt.</Title>
       <Forenames>F. G.</Forenames>
-      <Text>, D.C.M., M.M. (rel. commn. on completion of service and retains rank of 2nd Lt.) ...</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>___ ___ ___ ___ ___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>

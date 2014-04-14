@@ -86,7 +86,9 @@
     <MainItem>
       <Key>Bugler</Key>
       <Forenames>E. F.</Forenames>
-      <Text>, M.C. (on completion of . service and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9469</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -118,7 +120,9 @@
     <MainItem>
       <Key>Burgess</Key>
       <Forenames>B.</Forenames>
-      <Text>, M.M. (on completion of service and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>9469</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -260,7 +264,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Clark</Key>
-      <Text>. G. S. . H. (on completion of service and retains rank . of Lt.)</Text>
+      <Forenames>G. S.</Forenames>
+      <Text>. H. (on completion of service and retains rank . of Lt.)</Text>
       <PageNumber>9470</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -638,9 +643,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Beer</Forenames>
-      <Text>, E. S. (on completion of. service and retains rank of Lt.)</Text>
+      <Key>De Beer</Key>
+      <Forenames>E. S.</Forenames>
+      <Text>(on completion of. service and retains rank of Lt.)</Text>
       <PageNumber>9470</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -712,7 +717,9 @@
     <MainItem>
       <Key>Dobson</Key>
       <Forenames>G. H.</Forenames>
-      <Text>, M.B.E. (oh completion of service and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>9470</PageNumber>
     </MainItem>
   </ItemGroup>

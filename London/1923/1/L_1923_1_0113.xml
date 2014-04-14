@@ -24,7 +24,10 @@
     <MainItem>
       <Key>Hulliday</Key>
       <Title>Col.</Title>
-      <Text>, 2nd Comdt., Lewie S. T., V.C., C.B. (Col. Comdt.)</Text>
+      <Text>
+        <Honour>V.C.</Honour>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>801</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -67,7 +70,9 @@
     <MainItem>
       <Key>Hunton</Key>
       <Title>Capt.</Title>
-      <Text>andBt. Maj. (supy.) Thos. L., O.B.E. (absorbed in establishment)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>451</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -92,7 +97,9 @@
       <Key>Jones</Key>
       <Title>Maj.</Title>
       <Forenames>Hubert L.</Forenames>
-      <Text>, O.B.E. (seed, whilst holding special appt.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>1070</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -100,8 +107,8 @@
     <MainItem>
       <Key>Knight</Key>
       <Title>Maj.</Title>
-      <Forenames>John H.</Forenames>
-      <Text>de M. H. (placed on Retd. List at own request and apptd. to Res. of Oftrs., R.M., in rank last held by him on Active List)</Text>
+      <Forenames>John H. de M</Forenames>
+      <Text>. H. (placed on Retd. List at own request and apptd. to Res. of Oftrs., R.M., in rank last held by him on Active List)</Text>
       <PageNumber>2420</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -157,7 +164,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Morford</Key>
-      <Text>; Capt. Albert C. St. Clair, M.C., see St. Clair-Morford, Capt. Albert C, M.C. Mullins, Maj. Chas. B. (on return to Corps duty is borne supy. to establishment until</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>376</PageNumber>
     </MainItem>
     <SubItem>
@@ -188,8 +198,12 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. Clair-Moiford, Capt. Albert C,, M.C. (snpy. to establishment</Text>
+      <Key>St. Clair-Moiford</Key>
+      <Title>Capt.</Title>
+      <Forenames>Albert C</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>801</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -198,7 +212,9 @@
       <Key>Sinclairj</Key>
       <Title>Maj. (supy.)</Title>
       <Forenames>Walter</Forenames>
-      <Text>, O.B.E. (seed, whilst holding</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>60</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -407,7 +423,9 @@
     <MainItem>
       <Key>Aylwin</Key>
       <Title>Fit.</Title>
-      <Text>.Lt.William Edgar, O.B.E. (Squadrn. Leader)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>16</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -416,7 +434,9 @@
       <Key>Baker</Key>
       <Title>Fit. Lt.</Title>
       <Forenames>George Brindley Anfrere</Forenames>
-      <Text>, M.C. (Squadrn. Leader)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>15</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -470,7 +490,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Baxter</Key>
-      <Text>; Capt. and Bt. Maj. D. St. J. (Maj.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>142</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -535,284 +557,26 @@
       <PageNumber>533</PageNumber>
     </MainItem>
   </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Berry</Key>
-      <Forenames>Flying Officer</Forenames>
-      <Text>(Hon. Flight Lt;) (Capt. Ret. Pay LisV Armj),William Albert (relinquishes commn. on ceasing to be employed)</Text>
-      <PageNumber>68</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Bigsworth</Key>
-      <Forenames>Wing Cdr</Forenames>
-      <Text>. Arthur Wellesley, C.M.G, D.S.O., A.F.C. (Group Capt.) -</Text>
-      <PageNumber>15</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Black</Key>
-      <Title>Rev.</Title>
-      <Forenames>James</Forenames>
-      <Text>, O.B.E., M.A. (granted honorary commn. as Chaplain with relative rank of Squadron Leader)</Text>
-      <PageNumber>141</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Blombeld</Key>
-      <Title>Miss</Title>
-      <Forenames>Dorothy</Forenames>
-      <Text>(eonfd. in appt. as Staff Nurse)</Text>
-      <PageNumber>382</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Boby</Key>
-      <Forenames>Flying Offr</Forenames>
-      <Text>. Robert Sydney Pearce (Fit. Lt.)</Text>
-      <PageNumber>15</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Botwood</Key>
-      <Title>Sister</Title>
-      <Forenames>Muriel Beatrice</Forenames>
-      <Text>(Senr. Sister)</Text>
-      <PageNumber>226</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Boyd</Key>
-      <Title>Sqnadrn.</Title>
-      <Forenames>Leader Owen Tudor</Forenames>
-      <Text>, O.B.E., M.C., A.F.C. (Wing Cdr.)</Text>
-      <PageNumber>15</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Brewerton</Key>
-      <Forenames>Flying Offr</Forenames>
-      <Text>. Cyril Eraser, D.S.C. (Fit. Lt.)</Text>
-      <PageNumber>15</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Briggs</Key>
-      <Title>Capt.</Title>
-      <Forenames>Harold Douglas</Forenames>
-      <Text>, C.M.G. (granted hon. rank of Brig.-Gen. R.A.F. on retirement from R,N.)</Text>
-      <PageNumber>712</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Brill</Key>
-      <Forenames>Charles Harold</Forenames>
-      <Text>(granted short service commn. as Flying Offr.) '</Text>
-      <PageNumber>712</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Broadberry</Key>
-      <Forenames>Flying Offr</Forenames>
-      <Text>. Edric William, M.C. (Fit. Lt.)</Text>
-      <PageNumber>15</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Brodie</Key>
-      <Title>(Lt. R.N. retd.)</Title>
-      <Text>,Ian Enstaoe (granted short service commn. as Flying Offr. for 7 years on Active List)</Text>
-      <PageNumber>2420</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Brooke</Key>
-      <Text>(Lt., Ind. Army, retd., Lionel Hugh (granted short service commn. as Flying Offr., for 7 years on Aetive List)</Text>
-      <PageNumber>2420</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Brookes</Key>
-      <Forenames>Donald Scott</Forenames>
-      <Text>(granted short set vice commn. as Pilot Offr. prob.)</Text>
-      <PageNumber>2420</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Brown</Key>
-      <Text>-' Fit. Lt. (since promoted) Arthur James, D.S.O. (granted permanent commn.)</Text>
-      <PageNumber>1824</PageNumber>
-    </MainItem>
-    <SubItem>
-      <Text>Not, in Gaz. 20ch June, 1922, of appt. to short service comm. cancelled</Text>
-      <PageNumber>1824</PageNumber>
-    </SubItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>Rlying Offr</Forenames>
-      <Text>. Lee Roy Lowerison.D.F.C. (FltLt.)</Text>
-      <PageNumber>15</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Browning</Key>
-      <Forenames>Flying Offr</Forenames>
-      <Text>. Lance Harold; M.C.D.F.C. (Fit. Lt.)</Text>
-      <PageNumber>15</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Bruee</Key>
-      <Title>Maj. (Supery)</Title>
-      <Forenames>C. E.</Forenames>
-      <Text>, CLE., O.B.E. (Lt.-Col.)</Text>
-      <PageNumber>142</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Title>Sqnadrn.</Title>
-      <Text>. Leader William Robert, O.B.E. (WingCdr.)</Text>
-      <PageNumber>16</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Bryer</Key>
-      <Forenames>Flying Offr</Forenames>
-      <Text>. Gerald Mornington, A.F.C. (Fit. Lt.)</Text>
-      <PageNumber>15</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Buckley</Key>
-      <Forenames>Jack</Forenames>
-      <Text>(granted short service commn. as Pilot Offr. on prob.)</Text>
-      <PageNumber>2420</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Bucknall</Key>
-      <Forenames>Flying Offr</Forenames>
-      <Text>. Claude Vernon Aristides (Fit. Lt.)</Text>
-      <PageNumber>16</PageNumber>
-    </MainItem>
-  </ItemGroup>
+  <KeyDitto>___ ___</KeyDitto>
+  <KeyDitto>___ ___</KeyDitto>
   <ItemGroup>
     <MainItem>
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Pilot Offr</Forenames>
-      <Text>. George Anthony Fielding (FlyingOffr.)</Text>
-      <PageNumber>382</PageNumber>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>D.F.C.</Honour>
+      </Text>
+      <PageNumber>68</PageNumber>
     </MainItem>
   </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Bnrd</Key>
-      <Forenames>John Marsh</Forenames>
-      <Text>, M;C. (granted short service commn. as Flying Offr.) I</Text>
-      <PageNumber>1234</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Bnrkinshaw</Key>
-      <Title>Fit. Lt. William .(placed on Retired List on account of ill-health)</Title>
-      <PageNumber>141</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Burnett</Key>
-      <Forenames>Group</Forenames>
-      <Text>Capt. Charles Stuait, C.B.E., D.S.O. (Dep. Dir. of Operations and Intelligence, Air Minis-try)</Text>
-      <PageNumber>1823</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>BurtenBhaw</Key>
-      <Forenames>Squadron Leader Arthur</Forenames>
-      <Text>, O.B.E., M.C. (granted short service commn.)</Text>
-      <PageNumber>1075</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Bursey</Key>
-      <Title>Lt.</Title>
-      <Forenames>T. F.</Forenames>
-      <Text>, M.C. (promotion to Capt. antedated)</Text>
-      <PageNumber>142</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Bnshell</Key>
-      <Text>FiyingOffr. Hairy George (Fit. Lt.)</Text>
-      <PageNumber>16</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Bussell</Key>
-      <Forenames>Flying Offr</Forenames>
-      <Text>. Edward Irwin, D.F.C. (Fit.Lt.)</Text>
-      <PageNumber>15</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Butler</Key>
-      <Forenames>Flying Offr</Forenames>
-      <Text>. James Humphrey (Fit. Lt.)</Text>
-      <PageNumber>15</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Callen</Key>
-      <Forenames>Vaughan Morgan</Forenames>
-      <Text>(granted short service commu..as Pilot Offr. on prob.) ._</Text>
-      <PageNumber>382</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Campbell</Key>
-      <Title>Sister</Title>
-      <Forenames>Mary Wilson</Forenames>
-      <Text>(Senr. Sister)</Text>
-      <PageNumber>226</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
+  <KeyDitto>-</KeyDitto>
+  <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
 </Index>
 

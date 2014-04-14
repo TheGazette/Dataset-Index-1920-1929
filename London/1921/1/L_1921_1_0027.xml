@@ -4,7 +4,9 @@
     <MainItem>
       <Key>Harvey</Key>
       <Forenames>John Martin</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -24,7 +26,9 @@
       <Key>Hayes</Key>
       <Title>The Hon.</Title>
       <Forenames>John Blyth</Forenames>
-      <Text>, Companion, St. Michael and St. George</Text>
+      <Text>
+        <Honour>Companion, St. Michael and St. George</Honour>
+      </Text>
       <PageNumber>6</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -59,7 +63,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Vjvian Leonard</Forenames>
-      <Text>, M.C., Member of the Fire Brigade, Royal Commission</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>778</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -75,7 +81,10 @@
     <MainItem>
       <Key>Hewett</Key>
       <Forenames>Frederick Stanley</Forenames>
-      <Text>, M.V.O., Knight Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>8</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -84,7 +93,9 @@
       <Key>Hewitt</Key>
       <Title>Col. Sir</Title>
       <Forenames>Joseph</Forenames>
-      <Text>, created Baronet '</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
       <PageNumber>2092</PageNumber>
     </MainItem>
@@ -102,7 +113,11 @@
       <Key>Hill-Wood</Key>
       <Title>Maj.</Title>
       <Forenames>Samuel Hill</Forenames>
-      <Text>, J.P., D.L., M.P., created Baronet</Text>
+      <Text>
+        <Honour>D.L.</Honour>
+        <Honour>M.P.</Honour>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -110,7 +125,9 @@
     <MainItem>
       <Key>Hodge</Key>
       <Forenames>Frederic William</Forenames>
-      <Text>, created Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>2471</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -120,7 +137,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Rowland Frederick William</Forenames>
-      <Text>, created Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -128,7 +147,9 @@
     <MainItem>
       <Key>Hodgson</Key>
       <Forenames>William</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
       <PageNumber>1693</PageNumber>
     </MainItem>
@@ -145,7 +166,9 @@
     <MainItem>
       <Key>Holcroft</Key>
       <Forenames>George Harry</Forenames>
-      <Text>, J. P., created Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
       <PageNumber>2092</PageNumber>
     </MainItem>
@@ -171,7 +194,9 @@
     <MainItem>
       <Key>Hood</Key>
       <Forenames>Alexander Jarvie</Forenames>
-      <Text>,, M.B., Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -187,14 +212,18 @@
     <MainItem>
       <Key>Hopkins</Key>
       <Forenames>Henry Mayne Reid</Forenames>
-      <Text>, Companion, Star of India</Text>
+      <Text>
+        <Honour>Companion, Star of India</Honour>
+      </Text>
       <PageNumber>5</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hop</Key>
-      <Text>wood, Councillor William, J.P., Knighted ,</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
       <PageNumber>1693</PageNumber>
     </MainItem>
@@ -220,7 +249,10 @@
       <Key>Horwood</Key>
       <Title>Brig.-Gen.</Title>
       <Forenames>William Thomas Francis</Forenames>
-      <Text>, C.B., D.S.O., Knight Commander, Order of Bath</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -236,7 +268,9 @@
     <MainItem>
       <Key>Howen</Key>
       <Forenames>Albert Edward</Forenames>
-      <Text>, created Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>2092</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -255,7 +289,10 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>Robert Arundell</Forenames>
-      <Text>, G.B.E.; C.B., Knight of Grace of the Order of St. John of Jerusalem in England</Text>
+      <Text>
+        <Honour>G.B.E.</Honour>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>1788</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -280,7 +317,10 @@
       <Key>Hunloke</Key>
       <Title>Maj.</Title>
       <Forenames>Philip</Forenames>
-      <Text>, M.V.O., Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>8</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -288,7 +328,9 @@
     <MainItem>
       <Key>Hunter</Key>
       <Forenames>George</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -331,7 +373,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Ibrahim</Key>
-      <Text>. Rahimtulla, Sir, K.T., CLE., Member of the Executive Council of the Governor of the Presidency of Bombay</Text>
+      <Forenames>Rahimtulla</Forenames>
+      <Text>
+        <Honour>K.T.</Honour>
+      </Text>
       <PageNumber>783</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -340,7 +385,9 @@
       <Key>Innes</Key>
       <Title>Miss Mitchell.</Title>
       <Forenames>See MitchellInnes Irvln</Forenames>
-      <Text>. Sir John Hannel, K.B.E., Member of the Fishery Board for Scotland</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+      </Text>
       <PageNumber>1460</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -348,7 +395,9 @@
     <MainItem>
       <Key>Irvine</Key>
       <Forenames>James Colquhoun</Forenames>
-      <Text>, C.B.E., Ph.D., D.Sc, F.R.S., Principal of St. Andrews University and of the United Colleges of St. Salvator and St. Leonard</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>57</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -387,7 +436,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Jalal-ud-I</Key>
-      <Text>)aula Nawab Muhammad Khurshaid Ali Khan Bahadur, Mustakil i Jang, C.B.E., Nawab of Dujana, Companion, Order of the Indian Empire</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -427,8 +478,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Jenkins</Key>
-      <Forenames>Walter St</Forenames>
-      <Text>. David, C.B.E., Companion, Order of Bath</Text>
+      <Forenames>Walter St. David</Forenames>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>5</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -464,7 +517,10 @@
     <MainItem>
       <Key>Johnstone</Key>
       <Forenames>Robert</Forenames>
-      <Text>, C.M.G., I.S.O. (Collector-General), Member of the Privy Council of the Island of Jamaica</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>I.S.O</Honour>
+      </Text>
       <PageNumber>1695</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -472,7 +528,9 @@
     <MainItem>
       <Key>Jones</Key>
       <Forenames>David Thomas</Forenames>
-      <Text>, C.B.E., Chairman of the Fishery Board for Scotland</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>1460</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -483,7 +541,9 @@
       </Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Walter Thomas Cres-</Forenames>
-      <Text>well, D.S.O., Companion, Order of Bath</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -516,7 +576,9 @@
     <MainItem>
       <Key>Kekewich</Key>
       <Forenames>Trehawke Herbert</Forenames>
-      <Text>, J.P., created Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
       <PageNumber>2092</PageNumber>
     </MainItem>
@@ -541,7 +603,9 @@
     <MainItem>
       <Key>Kennedy</Key>
       <Forenames>Alexander</Forenames>
-      <Text>McAusland, J.P., Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
       <PageNumber>1693</PageNumber>
     </MainItem>
@@ -553,7 +617,11 @@
       </Key>
       <Title>Maj.-Gen.</Title>
       <Forenames>Alfred Alexander</Forenames>
-      <Text>, C.M.G., Companion, Order of Bath Kerr, Lt.-Col. Francis Kenneth, M.C., M.B., Esquire, St. John of Jerusalem</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>Esquire, St. John of Jerusalem</Honour>
+      </Text>
       <PageNumber>1896</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -579,7 +647,9 @@
     <MainItem>
       <Key>Kilvert</Key>
       <Forenames>Harry Vernon</Forenames>
-      <Text>, J.P., Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
       <PageNumber>1693</PageNumber>
     </MainItem>
@@ -595,7 +665,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Knowles</Key>
-      <Text>. Charles Henry, Member of the Legislative Council of the Colony of Fiji</Text>
+      <Forenames>Charles Henry</Forenames>
+      <Text>, Member of the Legislative Council of the Colony of Fiji</Text>
       <PageNumber>779</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -604,7 +675,21 @@
       <Key>Knox</Key>
       <Title>The Rt. Hon.</Title>
       <Forenames>Adrian</Forenames>
-      <Text>, LL.B., C.M.G., Knight Commander, St. Michael and St. George Kothavala, Hector Ratanji, M.B.E., Member, 5th CL, Royal Victorian Order Krishna Sahai, Rai Bahadur, Member of the Executive Council of the Governor of Bihar and Orissa Lacey, William Henry Westwood, Officer, Order of the British Empire Laing, Alfred Martin, Advocate Sheriff-Substitute, Kirkwall ... Lamb, Col. Charles Anthony, C.M.G., M.V.O., Esquire, St. John of Jerusalem Lambert, Lt.-Col. Frederick Samuel, M.R.C.S., Esquirej'St. John of Jerusalem ... Lang, Professor Peter Redford Scott, Knighted Lascelles, Capt. Alan Frederick, Assistant Private Secretary to H.R.H. the Prince of Wales... Lathlain, William Francis, Knighted Lauder, Harry, Knighted Laurence, Hon. Sir Perceval Maitland, K.C.M.G., Member of the Fire Brigade Royal Commission ... ... ... Le Mesurier, Haviland, C.S.I., C. I.E., Member of the Executive Council of the Governor of Bihar and Orissa .. Lee of Fareham, Rt. Hon. Arthur Hamilton, Lord Lee . of, G.B.E., K.C.B., First Lord of the Admiralty Lees, Henry Berry, Member of the Legislative Council of the Colony of Fiji Leveson-Gower, George Granville, Knight Commander, Order of the British Empire Levis. Harry Edward, Unofficial Member of the Legislative Council of the Protectorate of Uganda Lewis, Miss Helen, Officer, Order of the British Empire ... Lineham, Mrs. Ray, Bar to Order of Mercy Linthorne, Richard Roope, Knighted</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>M.B.E.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>M.V.O.</Honour>
+        <Honour>Esquire, St. John of Jerusalem</Honour>
+        <Honour>Knighted</Honour>
+        <Honour>Knighted</Honour>
+        <Honour>Knighted</Honour>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>G.B.E.</Honour>
+        <Honour>K.C.B.</Honour>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -614,7 +699,15 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Edward Honoratus</Forenames>
-      <Text>, K.C, Recorder of the City of Chester Long, Edward Charles, Companion, St. Michael and St. George ... Longmore, Col. (temp. Col. on the Staff) John Constantino Gordon, C.M.G., C.B.E.. D. S.O., Companion, .Order of Bath Loudoun, Edith Maud, Countess of (Baroness of Botreaux, Hastings and Stanley) Lucas, Col. (T./Col. Comdt.) Cuthbert Henry Tindall, C.M.G., D.S.O., Companion, Order of Bath 4 ___ ___ ___ The Hon. Edward, Knighted</Text>
+      <Text>
+        <Honour>Companion, St. Michael and St. George</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>C.B.E.</Honour>
+        <Honour>D. S.O.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>3</PageNumber>
     </MainItem>
     <SubItem>

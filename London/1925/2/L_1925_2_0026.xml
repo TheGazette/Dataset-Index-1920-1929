@@ -3,8 +3,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Inverclyde</Key>
-      <Forenames>The</Forenames>
-      <Text>Lady, Lady of Grace, Order of St. John ' of Jerusalem '</Text>
+      <Title>The Lady, Lady</Title>
+      <Text>of Grace, Order of St. John ' of Jerusalem '</Text>
       <PageNumber>4193</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -45,7 +45,9 @@
       <Key>Izard</Key>
       <Title>Maj.</Title>
       <Forenames>Arnold Woodford</Forenames>
-      <Text>, M.D., M.R.C.S., L.RrC.P., Knight -of Grace, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>4193</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -93,14 +95,18 @@
       </Key>
       <Title>Col.</Title>
       <Forenames>Herbert William</Forenames>
-      <Text>, . C.S.I., D.S.O., Com'panion, . Order of the Bath . '</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3770</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Jacob</Key>
-      <Text>;Gen. Sir Claud William, K. C. B., K. C. S. I., K.C.M.G., Gommander-im' .Chief in India</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+      </Text>
       <PageNumber>2469</PageNumber>
     </MainItem>
     <SubItem>
@@ -111,7 +117,9 @@
   <ItemGroup>
     <MainItem>
       <Key>James</Key>
-      <Text>. Maj .-Gen. William Bernard, C.B:, CLE., M.V.O., Knight</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>3768</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -128,7 +136,10 @@
       <Key>Jenkins</Key>
       <Title>Flight Lt.</Title>
       <Forenames>Norman Hugh</Forenames>
-      <Text>, D.F.C., D.S.M., Commander, Order of the British -Empire;</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+        <Honour>D.S.M.</Honour>
+      </Text>
       <PageNumber>3774</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -181,7 +192,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>Edgar Montague</Forenames>
-      <Text>, T.D., Officer, Order of ' ' the British Empire</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>3773</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -192,7 +205,9 @@
       </Key>
       <Title>Francis .</Title>
       <Forenames>Adolphus</Forenames>
-      <Text>, C.B., Knight Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>3775</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -225,7 +240,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Kelly</Key>
-      <Text>. David Victor, M.C., First Secretary in H.M. Diplomatic Service</Text>
+      <Forenames>David Victor</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4194</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -233,7 +251,10 @@
     <MainItem>
       <Key>Kennard</Key>
       <Forenames>Howard William</Forenames>
-      <Text>, C.M.G., C.V.O., Envoy ' Extraordinary and Minister Plenipotentiary to His Majesty the King of the I.;,.;Serbs, Croats, and Slovenes</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>C.V.O.</Honour>
+      </Text>
       <PageNumber>3788</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -248,7 +269,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Ken</Key>
-      <Text>von Sir Frederic George, K.G.B., T.D.,. M.A., Litt.D., D.Litt., LL.D., Ph.D., F.B.A., Knight Grand Gross, Order of the British Empire</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>3774</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -257,7 +280,9 @@
       <Key>Keyes</Key>
       <Title>Maj.</Title>
       <Forenames>John Henry</Forenames>
-      <Text>, M.C.,. Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3773</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -366,7 +391,10 @@
     <MainItem>
       <Key>Learmonth</Key>
       <Forenames>Vice</Forenames>
-      <Text>Admiral Frederick Charles, C.B., . C.B.E., Knight Commander, Order ., of j the British Empire</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>3772</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -375,7 +403,9 @@
       <Key>Lee</Key>
       <Title>Rev.</Title>
       <Forenames>Albert</Forenames>
-      <Text>, Member, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3772</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -391,7 +421,9 @@
     <MainItem>
       <Key>Lewisohn</Key>
       <Forenames>Frederick</Forenames>
-      <Text>, C.B.E., Companion of the Star of India '</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>3770</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -425,7 +457,9 @@
     <MainItem>
       <Key>Lomas</Key>
       <Forenames>Ernest Gabriel</Forenames>
-      <Text>, O.B.E., .H.M. Consul at Cairo</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>2282</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -433,7 +467,9 @@
     <MainItem>
       <Key>Lonsdale</Key>
       <Forenames>Hugh Cecil</Forenames>
-      <Text>, Earl of; Knight Grand Cross, Royal Victorian Order-</Text>
+      <Text>
+        <Honour>Royal Victorian Order-</Honour>
+      </Text>
       <PageNumber>3772</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -442,7 +478,10 @@
       <Key>Loraine</Key>
       <Title>Sir</Title>
       <Forenames>Percv Lyham</Forenames>
-      <Text>, Bart., C.M.G., Knight Commander of St. Michael and St. George ...' ...-</Text>
+      <Text>
+        <Honour>Bart</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>3771</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -475,7 +514,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Lindsay</Key>
-      <Text>DArcy, CB.-E., Knight .;. -</Text>
+      <Text>
+        <Honour>CB</Honour>
+      </Text>
       <PageNumber>3769</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -484,7 +525,11 @@
       <Key>Lithgow</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>James</Forenames>
-      <Text>; M.C., . ,;D.L., Baronet. .... [ ...-</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>D.L.</Honour>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>3767</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -499,7 +544,9 @@
     <MainItem>
       <Key>Lumley</Key>
       <Forenames>Laurence Roger</Forenames>
-      <Text>, M.P., Esquire, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4193</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -530,7 +577,9 @@
       <Key>Lyall</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Robert Adolphus</Forenames>
-      <Text>, D.S.O., H.M. ConsulGeneral at Kashgar</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>2282</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -572,7 +621,9 @@
     <MainItem>
       <Key>McCowan</Key>
       <Title>Lt.</Title>
-      <Text>Col. William Hew, D.S.O., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3773</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -662,7 +713,10 @@
       <Key>MacLean</Key>
       <Title>Surgeon</Title>
       <Forenames>Rear</Forenames>
-      <Text>Admiral Alexander, D.S.O., M.B., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3769</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -686,7 +740,9 @@
       <Key>McMahon</Key>
       <Title>Col.</Title>
       <Forenames>Bernard William Lynedoch</Forenames>
-      <Text>, C.M.G., Commander, Royal Victorian -Order</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>3772</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -713,7 +769,10 @@
     <MainItem>
       <Key>McNeill</Key>
       <Forenames>Col</Forenames>
-      <Text>: ' Angus John, C.B., D.S.O.,. Commander, Order of .the British Empire</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3779</PageNumber>
     </MainItem>
   </ItemGroup>

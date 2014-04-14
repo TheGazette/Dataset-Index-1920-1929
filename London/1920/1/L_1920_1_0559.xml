@@ -7,7 +7,8 @@
   <ItemGroup>
     <MainItem>
       <Key>McQuaid</Key>
-      <Text>.Canadian Cadet P.A. (Hon. 2nd Lt.)</Text>
+      <Forenames>Canadian</Forenames>
+      <Text>Cadet P.A. (Hon. 2nd Lt.)</Text>
       <PageNumber>3439</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -107,8 +108,8 @@
     <MainItem>
       <Key>MacRea</Key>
       <Title>Lt.</Title>
-      <Forenames>A. St</Forenames>
-      <Text>. J. V. (trd. to unempld. list)</Text>
+      <Forenames>A. St. J</Forenames>
+      <Text>. V. (trd. to unempld. list)</Text>
       <PageNumber>334</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -287,7 +288,9 @@
     <MainItem>
       <Key>Maddox</Key>
       <Forenames>Flying Offr</Forenames>
-      <Text>. E. R., M.C. (rel. temp. R.A.F. oommn. on return to Army duty)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2073</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -447,7 +450,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>W. B.</Forenames>
-      <Text>, D.S.O. (corr. of initials)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1102</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -518,7 +523,7 @@
       <PageNumber>839</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Trd. from unempld. list without pay and allces</Text>
+      <Text>Trd. from unempld. list without pay and allces.</Text>
       <PageNumber>1948</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -719,7 +724,9 @@
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Flying Offr</Forenames>
-      <Text>. (A.) W. E. G., D.F.C. (granted short serv. commn.)</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>200</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -917,7 +924,10 @@
     <MainItem>
       <Key>Marchant</Key>
       <Forenames>Pilot Offr</Forenames>
-      <Text>. A. P., M.B.E., D.S.M. (Flying Offr. Gr. B.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+        <Honour>D.S.M.</Honour>
+      </Text>
       <PageNumber>3537</PageNumber>
     </MainItem>
   </ItemGroup>

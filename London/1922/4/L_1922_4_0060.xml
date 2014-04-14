@@ -2,22 +2,13 @@
 <Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="060" pageID="https://www.thegazette.co.uk/id/London/index/year/1922/volume/4/page/060" pagePDF="https://www.thegazette.co.uk/London/index/year/1922/volume/4/page/060" pageRDF="https://www.thegazette.co.uk/London/index/year/1922/volume/4/page/060?view=linked-data" type="index" volume="4" year="1922">
   <ItemGroup>
     <MainItem>
-      <Key>Hedderwick</Key>
-      <Title>temp. Lt. and Paymr.</Title>
-      <Forenames>H.</Forenames>
-      <Text>(rel. commn. on completion of service and retains rank of Lt.)</Text>
-      <PageNumber>8877</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
       <Key>
-        <KeyDitto>___ ___</KeyDitto>
+        <PageNumber>___ ___ ___ ___ ___ ___ ___</PageNumber>
+        <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Title>Lt.</Title>
-      <Forenames>N. C</Forenames>
-      <Text>, M.C. (trd. to 15th/ 19th H., Beg. Army Bee. of Off., from 19th H., Beg. Army Bes. of Off., and retains present seniority)</Text>
-      <PageNumber>8299</PageNumber>
+      <Forenames>Hedderwick</Forenames>
+      <Text>, temp. Lt. and Paymr. H. (rel. commn. on completion of service and retains rank of Lt.)</Text>
+      <PageNumber>8877</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -25,7 +16,9 @@
       <Key>Hedges</Key>
       <Title>Lt.</Title>
       <Forenames>G. P.</Forenames>
-      <Text>, M.C. (retires, receiving a gratuity)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9169</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -50,6 +43,15 @@
       <Text>Date of seniority</Text>
       <PageNumber>7942</PageNumber>
     </SubItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Helmore</Key>
+      <Title>Lt.</Title>
+      <Forenames>W.</Forenames>
+      <Text>(resigns commn. on appt. to a permanent commn. in the R.A.F.)</Text>
+      <PageNumber>8796</PageNumber>
+    </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
@@ -93,17 +95,6 @@
       <Text>(temp. Lt., Gen. List, whilst empld. as a Dental Surg.)</Text>
       <PageNumber>8296</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___</KeyDitto>
-      </Key>
-      <Title>Lt.</Title>
-      <Forenames>J.</Forenames>
-      <Text>(retires, receiving a gratuity and granted rank of Capt.)</Text>
-      <PageNumber>7202</PageNumber>
-    </MainItem>
     <SubItem>
       <Text>Retires, receiving a gratuity and granted rank of Capt. (Sub. Not.)</Text>
       <PageNumber>8296</PageNumber>
@@ -142,7 +133,9 @@
       <Key>Herbert</Key>
       <Title>Lt.</Title>
       <Forenames>E. W.</Forenames>
-      <Text>, M.C. (placed on h.p. list)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7202</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -191,7 +184,9 @@
       <Key>Hewitt</Key>
       <Title>Maj.</Title>
       <Forenames>A. O</Forenames>
-      <Text>, O.B.E. (retires on ret. pay and granted rank of Lt.-Col.), Sub. Not</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>7789</PageNumber>
     </MainItem>
     <SubItem>
@@ -202,7 +197,7 @@
   <ItemGroup>
     <MainItem>
       <Key>
-        <KeyDitto>___ ___ ___</KeyDitto>
+        <KeyDitto>___</KeyDitto>
       </Key>
       <Title>2nd Lt.</Title>
       <Forenames>Bernard Edward</Forenames>
@@ -213,17 +208,6 @@
       <Text>Dale of seniority</Text>
       <PageNumber>8036</PageNumber>
     </SubItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___</KeyDitto>
-      </Key>
-      <Title>Capt.</Title>
-      <Forenames>D. J.</Forenames>
-      <Text>(Capt., Reg. Army Res. of Off., Regtl. List, R.A.O.C., late R.A.O.C.)</Text>
-      <PageNumber>9036</PageNumber>
-    </MainItem>
     <SubItem>
       <Text>Date of seniority</Text>
       <PageNumber>9036</PageNumber>
@@ -262,7 +246,9 @@
       <Key>Heyland</Key>
       <Title>Capt.</Title>
       <Forenames>H. M.</Forenames>
-      <Text>, D.S.O. (seed, for service with the Tank Corps)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7461</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -323,7 +309,9 @@
       <Key>Higgon</Key>
       <Title>Maj.</Title>
       <Forenames>L. H.</Forenames>
-      <Text>, M.C. (Garr. Adjt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7204</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -334,7 +322,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>B. B.</Forenames>
-      <Text>, M.C. (Capt., Reg. Army Res. of Off., Gen. List, Tank, late Tank Corps)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7462</PageNumber>
     </MainItem>
     <SubItem>
@@ -364,7 +354,11 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>George Alexander</Forenames>
-      <Text>, D.S.O., M.B.E., M.C. (Lt., Reg. Army Res. of Off., Regtl. List, Manch. R., late Spec. Res.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.B.E.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7464</PageNumber>
     </MainItem>
     <SubItem>
@@ -448,7 +442,9 @@
       <Key>Hilton</Key>
       <Title>Maj. (ret. pay)</Title>
       <Forenames>G.</Forenames>
-      <Text>, D.C.M. (ceases to belong to Res. of Off., having attained the age limit of liability to recall)</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>8523</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -464,7 +460,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hind</Key>
-      <Text>. Lt. H. P. (Lt.. Reg. Army Res. of Off., Gen. List, Tank, late Tank Corps)</Text>
+      <Title>Lt.</Title>
+      <Forenames>H. P.</Forenames>
+      <Text>(Lt.. Reg. Army Res. of Off., Gen. List, Tank, late Tank Corps)</Text>
       <PageNumber>7374</PageNumber>
     </MainItem>
     <SubItem>
@@ -486,7 +484,9 @@
       <Key>Hinkson</Key>
       <Title>Lt.</Title>
       <Forenames>G. A.</Forenames>
-      <Text>(Lt., Reg. Army Res. of Off., Gen. List, from R.D. Fus.)</Text>
+      <Text>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>9039</PageNumber>
     </MainItem>
     <SubItem>
@@ -554,7 +554,12 @@
       <Key>Hitchcock</Key>
       <Title>Maj.</Title>
       <Forenames>H. W. G. Burnett-</Forenames>
-      <Text>, O.B.E., see Burnett-Hitchcock, ^ Maj. H. W. G., O.B.E. Hoare, Maj. A., D.S.O., M.C. (Maj., Reg. Army Res. of Off., Regtl. List, R.G.A.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>O.B.E.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8216</PageNumber>
     </MainItem>
     <SubItem>
@@ -569,7 +574,9 @@
       </Key>
       <Title>Capt. (h.p. list. lateR.TJ. Rif.)</Title>
       <Forenames>E. J.</Forenames>
-      <Text>, M.C. (retires on ret. pay on acc. of ill-health caused by wounds)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8718</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -591,7 +598,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>R. R.</Forenames>
-      <Text>, M.C. (Maj., Reg. Army Res. of Off., Regtl. List, R.H. and R.F.A.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8114</PageNumber>
     </MainItem>
     <SubItem>
@@ -627,7 +636,10 @@
       <Key>Hobday</Key>
       <Title>Maj.</Title>
       <Forenames>H.</Forenames>
-      <Text>, D.S.O., M.C. (Maj., Reg. Army Res. of Off., Regtl. List, R.H. and R.F.A.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7791</PageNumber>
     </MainItem>
     <SubItem>
@@ -640,14 +652,20 @@
       <Key>Hodges</Key>
       <Title>Capt.</Title>
       <Forenames>J. F.</Forenames>
-      <Text>, M.C. (retires, receiving a gratuity)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7537</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hodgkin</Key>
-      <Text>. Capt. and Bt. Maj. H. S., D.S.O. (retires on ret. pay and granted rank of Lt.-Col.)</Text>
+      <Title>Capt. and Bt. Maj.</Title>
+      <Forenames>H. S.</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8875</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -697,7 +715,9 @@
       <Key>Hog</Key>
       <Title>Maj.</Title>
       <Forenames>R. T. A.</Forenames>
-      <Text>, M.C. (Maj., Reg. Army Res. of Off., Regtl. List, R.H. and R.F.A.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7942</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -715,7 +735,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>&lt; Lt. M. G.; M.C. (retires, receiving a gratuity and granted rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8412</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -724,7 +746,9 @@
       <Key>Holbech</Key>
       <Title>Capt.</Title>
       <Forenames>Lawrence</Forenames>
-      <Text>, D.S.O., iM.C. (Capt., Reg. Army Res. of Off., Regtl. List, Gren. Gds., late Spec. Res.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7047</PageNumber>
     </MainItem>
     <SubItem>
@@ -752,7 +776,9 @@
       <Key>Holditch</Key>
       <Title>Col.</Title>
       <Forenames>H. A.</Forenames>
-      <Text>, D.S.O. (granted hon. rank of Brig.Gen. on retirement) ... ... E</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>215</PageNumber>
     </MainItem>
   </ItemGroup>

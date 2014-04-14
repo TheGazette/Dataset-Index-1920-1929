@@ -40,7 +40,9 @@
       </Key>
       <Title>temp. Capt.</Title>
       <Forenames>C. R. J.</Forenames>
-      <Text>, O.B.E. (rel. commn. on completion of service, and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>2068</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -88,7 +90,9 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>G.</Forenames>
-      <Text>, M.C. (rel. oommn. on completion of service, and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>562</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -154,7 +158,9 @@
       </Key>
       <Title>temp. Maj.</Title>
       <Forenames>W. H.</Forenames>
-      <Text>, M.C. (rel. commn. on completion of service, and retains rank of Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1259</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -196,6 +202,35 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Barcaye</Key>
+      <Title>temp. Lt. (Lt., S. Afr. Def. Force)</Title>
+      <Forenames>H. S.</Forenames>
+      <Text>(rel. temp, oommn. on ceasing to be empld. and granted rank of Maj.)</Text>
+      <PageNumber>1126</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Belcastel</Key>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>A. E. G.</Forenames>
+      <Text>(rel. commn. on completion of service, and retains rank of 2nd Lt.)</Text>
+      <PageNumber>1762</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Burgh</Key>
+      <Title>late temp. Capt. (Y. &amp; L.R., Serv. Bns.)</Title>
+      <Forenames>J. W.</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
+      <PageNumber>683</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
@@ -203,6 +238,36 @@
       <Forenames>U. F. H.</Forenames>
       <Text>(2nd Lt.)</Text>
       <PageNumber>765</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Rurgh-Whyte</Key>
+      <Title>temp. Lt.</Title>
+      <Forenames>L. J.</Forenames>
+      <Text>(temp. Maj. whilst Dep. Asst. Dir. of Supply and Trans, in India)</Text>
+      <PageNumber>2186</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Chair</Key>
+      <Title>Capt. and Bt. Maj.</Title>
+      <Forenames>G. H. B.</Forenames>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
+      <PageNumber>1888</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Ohassiron</Key>
+      <Title>temp. Capt.</Title>
+      <Forenames>C. J. L.</Forenames>
+      <Text>(rel. commn. on completion of service, and retains rank of Capt.) '</Text>
+      <PageNumber>917</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -222,7 +287,9 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>De</Forenames>
-      <Text>de de de de Gaury, Gerald Simpson Hillairet Rutland Vere, M.C. (Lt., Essex R., Infy., from temp. Lt., Serv. Bn.), Sub. Not</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1523</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -256,7 +323,9 @@
       <PageNumber>927</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>Court, Lt. S. F. W. M., M.C. (Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1771</PageNumber>
     </SubItem>
     <SubItem>
@@ -266,7 +335,9 @@
       <PageNumber>1344</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>Rinzy, Lt. N. L. C, M.C. .(Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1964</PageNumber>
     </SubItem>
     <SubItem>
@@ -301,7 +372,9 @@
       <Key>Winton</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>R. S.</Forenames>
-      <Text>, D.S.O. (h.p. list, retires on ret. pay)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>2381</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -309,7 +382,9 @@
     <MainItem>
       <Key>Wolff</Key>
       <Title>Capt. and Ord. Off.</Title>
-      <Text>, 4th Cl., on prob., C. E., C.B.E. (rel. actg. grading of Ord. Off.. 3rd Cl., and actg. Tank of Maj.)</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>2164</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -317,8 +392,8 @@
     <MainItem>
       <Key>dYdewalle</Key>
       <Title>Gent. Cadet</Title>
-      <Forenames>A. E. P. F. M. Ghislaine</Forenames>
-      <Text>van Outryve (2nd Lt.)</Text>
+      <Forenames>A. E. P. F. M. Ghislaine van Outryve</Forenames>
+      <Text>(2nd Lt.)</Text>
       <PageNumber>764</PageNumber>
     </MainItem>
     <SubItem>
@@ -347,7 +422,10 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>H. E.</Forenames>
-      <Text>(rel. commn. and retains rank of Lt Deas, Lt. J. D. (rel. commn. and retains rank of Lt.) ... ... Debney, temp. Lt. W. (rel. commn. on completion of service, and retains rank of Lt.) Dee, temp. Lt. F. C. (rel. commn. on completion of service, and retains rank of Lt.) Deedes, John Gordon, M.B.E. (Capt., R. Corps of Sigs., from Lt. (temp. Capt.), R.E., T.F.) Deeming, temp. 2nd Lt. W. (rel. commn. on completion of service, and retains rank of 2nd Lt.) Derm, Capt. H. G. (rel. commn. and retains rank of Capt.) Delacombe, Lt. R., M.C. (placed on ret lis* on acc. of ill-health caused by wounds)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2535</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -3,7 +3,10 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>. John, Major General Richard Stukeley, CLE., D.S.O., Companion, Older of. the Bath</Text>
+      <Forenames>John</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3605</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -29,7 +32,10 @@
       <Key>Sankey</Key>
       <Title>Colonel</Title>
       <Forenames>Herbert Stuart</Forenames>
-      <Text>, C.V.O., V.D., J.P., D.L., Knight Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.V.O.</Honour>
+        <Honour>D.L.</Honour>
+      </Text>
       <PageNumber>3612</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -55,7 +61,11 @@
     <MainItem>
       <Key>Scarborough</Key>
       <Title>Major</Title>
-      <Text>General The Earl of, K.B.E., K.C.B., T.D., Bailiff Grand Cross, Order of St. John of Jerusalem (Sub-Prior)</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+        <Honour>K.C.B.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>3830</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -72,7 +82,9 @@
       <Key>Scorgie</Key>
       <Title>Lieut.-Col.</Title>
       <Forenames>Norman Gibb</Forenames>
-      <Text>, O.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3612</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -98,7 +110,9 @@
     <MainItem>
       <Key>Shapcott</Key>
       <Forenames>Louis Edward</Forenames>
-      <Text>, M.V.O., Imperial Service Order</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>3620</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -147,14 +161,18 @@
     <MainItem>
       <Key>Shine</Key>
       <Forenames>Eustace Beverley</Forenames>
-      <Text>, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3606</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Shyam</Key>
-      <Text>' Naravau Singh, Rai Bahadur, O.B.E., Commander, Order of the British Empire '</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3616</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -177,7 +195,9 @@
     <MainItem>
       <Key>Simon</Key>
       <Title>Rt.</Title>
-      <Text>. Hon. Sir John Allsebrook, K C V 0 ___ O.B.E., K.C., M~P., Com. mander, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4041</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -185,7 +205,9 @@
     <MainItem>
       <Key>Simpson</Key>
       <Forenames>Alfred Allen</Forenames>
-      <Text>, CM G C.B.E., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>4041</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -195,7 +217,10 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Quartermaster</Forenames>
-      <Text>and Mai Herbert, M.B.E., M.C., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3610</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -227,7 +252,11 @@
       </Key>
       <Title>Col.</Title>
       <Forenames>Robert John Shaw</Forenames>
-      <Text>' C.B., C.M.G., MB Officer, Order of St. Jolni of Jerusalem</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>MB</Honour>
+      </Text>
       <PageNumber>4041</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -236,7 +265,11 @@
       <Key>Sinclair</Key>
       <Title>Colonel</Title>
       <Forenames>Thomas</Forenames>
-      <Text>, C.B., F.R.C.S., M.P., Member of the General Council of Medical Education and Registration</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>F.R.C.S.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>3114</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -269,7 +302,9 @@
       <Key>Slater</Key>
       <Title>Sir</Title>
       <Forenames>Alexander Rans-</Forenames>
-      <Text>ford, K.C.M.G., Governor and Commander-in-Chief of Gold Coast Colony</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+      </Text>
       <PageNumber>4042</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -284,9 +319,13 @@
   <ItemGroup>
     <MainItem>
       <Key>Sloan</Key>
-      <Title>Major</Title>
+      <Title>Major-</Title>
       <Forenames>General John Maefarlune</Forenames>
-      <Text>, C.M.G., D.S.O., M.B., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3605</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -294,7 +333,9 @@
     <MainItem>
       <Key>Smith</Key>
       <Forenames>Arthur Lionel Forster</Forenames>
-      <Text>, M.V.O., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>3617</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -403,7 +444,9 @@
     <MainItem>
       <Key>Spaight</Key>
       <Forenames>James Molony</Forenames>
-      <Text>, O.B.E., LL.D., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3612</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -411,7 +454,9 @@
     <MainItem>
       <Key>Sparkes</Key>
       <Forenames>Henry</Forenames>
-      <Text>, O.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3612</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -428,7 +473,9 @@
       <Key>Spencer</Key>
       <Title>Maj.</Title>
       <Forenames>John Heatley</Forenames>
-      <Text>, M.D., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3610</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -454,7 +501,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Spinks</Key>
-      <Text>' Lieutenant-Colonel (local Major-General) Charlton Watson, D.S.O., O.B.E., Knight Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3609</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -481,7 +531,9 @@
       </Key>
       <Title>Lieut.-Col. The Hon.</Title>
       <Forenames>George Frederick</Forenames>
-      <Text>, Q.M.G., M.P., Member of H.M. Privy Council</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>3603</PageNumber>
       <PageNumber>4121</PageNumber>
     </MainItem>
@@ -491,7 +543,9 @@
       <Key>Stanley</Key>
       <Title>Sir</Title>
       <Forenames>Herbert James</Forenames>
-      <Text>, K.C.M.G., Governor ana Commander-in-Chief of Ceylon and its Dependencies</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+      </Text>
       <PageNumber>3761</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -534,8 +588,12 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Major-General John Henry Keith</Forenames>
-      <Text>, C.B., D.S.O., Knight Commander, Order of the Bath</Text>
+      <Title>Major-</Title>
+      <Forenames>General John Henry Keith</Forenames>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3605</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -555,7 +613,9 @@
       <Key>Stirling-Maxwell</Key>
       <Title>Sir</Title>
       <Forenames>Jolm Maxwell</Forenames>
-      <Text>, Bart., Member of the Board of Trustees for the National Galleries of Scotland</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>2210</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -571,7 +631,9 @@
     <MainItem>
       <Key>Stonham</Key>
       <Forenames>Edward Earle</Forenames>
-      <Text>, O.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3612</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -587,7 +649,9 @@
     <MainItem>
       <Key>Stradbroke</Key>
       <Forenames>Helena Violet Alice</Forenames>
-      <Text>, Countess of, O.B.E., Dame Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3616</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -596,7 +660,9 @@
       <Key>Strakosch</Key>
       <Title>Sir</Title>
       <Forenames>Henry</Forenames>
-      <Text>, K.B.E., Knight Grand Cross, Order of the British Empire</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+      </Text>
       <PageNumber>3616</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -612,7 +678,9 @@
     <MainItem>
       <Key>Strphmenger</Key>
       <Forenames>Ernest John</Forenames>
-      <Text>, C.B., Knight Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>3612</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -678,7 +746,9 @@
     <MainItem>
       <Key>Swiney</Key>
       <Forenames>Ordnance Officer</Forenames>
-      <Text>, 4th Class and Capt. George Alexander Neville, M.C., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3610</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -693,7 +763,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sykes</Key>
-      <Text>. Quartermaster and Capt. Charles Starkey, Member, Order of the British Empire</Text>
+      <Forenames>Quartermaster</Forenames>
+      <Text>and Capt. Charles Starkey, Member, Order of the British Empire</Text>
       <PageNumber>3611</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -145,7 +145,9 @@
     <MainItem>
       <Key>Loch</Key>
       <Forenames>E. C</Forenames>
-      <Text>, O.B.E</Text>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>863</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -176,7 +178,9 @@
       <Key>Robinson</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>G. W.</Forenames>
-      <Text>, C.B</Text>
+      <Text>
+        <Honour>C.B</Honour>
+      </Text>
       <PageNumber>863</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -247,7 +251,9 @@
     <MainItem>
       <Key>Kemmis</Key>
       <Forenames>A. W. M.</Forenames>
-      <Text>, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>558</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -309,7 +315,9 @@
     <MainItem>
       <Key>Francis</Key>
       <Forenames>R. F.</Forenames>
-      <Text>, M.C. (temp, whilst G.S.O., 2nd Gr.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>281</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -332,8 +340,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Goldman-Monk</Key>
-      <Forenames>M. E. De B.</Forenames>
-      <Text>(temp. whilst Asst. Judge Adv. Gen.)</Text>
+      <Forenames>M. E. De B</Forenames>
+      <Text>. (temp. whilst Asst. Judge Adv. Gen.)</Text>
       <PageNumber>281</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -404,7 +412,9 @@
     <MainItem>
       <Key>Lewis</Key>
       <Forenames>H. V.</Forenames>
-      <Text>, D.S.O., M.O. (temp. whilst Asst. Mil. Sec.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1065</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -420,7 +430,10 @@
     <MainItem>
       <Key>McCleverty</Key>
       <Forenames>G. M.</Forenames>
-      <Text>, D.S.O., M.C</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>186</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -442,8 +455,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Monk</Key>
-      <Forenames>M. E.</Forenames>
-      <Text>de B. Goldman (see Goldman-Monk, M. E. de B.) Morrison, R. V., M.D. (temp. whilst D.A.D. M.S.)</Text>
+      <Forenames>M. E. de B</Forenames>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>862</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -458,7 +473,9 @@
     <MainItem>
       <Key>Pattinson</Key>
       <Forenames>H. A.</Forenames>
-      <Text>, M.C. (temp, whilst Admve. Comdt. graded as D.A.Q.M.G.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1901</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -686,7 +703,9 @@
     <MainItem>
       <Key>Rybot</Key>
       <Forenames>N. V. L.</Forenames>
-      <Text>, D.S.O. (in consequence of ill-health)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>188</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -702,7 +721,9 @@
     <MainItem>
       <Key>Wallace</Key>
       <Forenames>C. W.</Forenames>
-      <Text>, D.S.O. (in consequence of ill-health)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>283</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -718,7 +739,10 @@
     <MainItem>
       <Key>Fraser</Key>
       <Forenames>W. A. K.</Forenames>
-      <Text>, D.S.O., M.C</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>1701</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -726,7 +750,10 @@
     <MainItem>
       <Key>Frost</Key>
       <Forenames>F. D.</Forenames>
-      <Text>, C.B.E., M.C</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>2096</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -757,7 +784,9 @@
     <MainItem>
       <Key>Bije</Key>
       <Forenames>Chand</Forenames>
-      <Text>, H. H. Raja Sir, K.C.I.E., C.S.I., Raja of Bilaspur</Text>
+      <Text>
+        <Honour>K.C.I.E.</Honour>
+      </Text>
       <PageNumber>11</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -783,7 +812,9 @@
       <Key>Bremner</Key>
       <Title>Capt.</Title>
       <Forenames>C. E. U.</Forenames>
-      <Text>, M.C. (reL \ actg. rank on ceasing to be 2nd in comd. of a Bn.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1065</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -791,7 +822,9 @@
     <MainItem>
       <Key>Drummond</Key>
       <Forenames>J. G. P.</Forenames>
-      <Text>, M.C. (while sec. in comd. of Bn.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>187</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -816,7 +849,9 @@
       <Key>Fraser</Key>
       <Title>Capt.</Title>
       <Forenames>S. G.G.</Forenames>
-      <Text>, M.C. (rel. actg. rank on ceasing to be 2nd in oomd. of a Bn.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>591</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -824,7 +859,10 @@
     <MainItem>
       <Key>Jackson</Key>
       <Forenames>M. H.</Forenames>
-      <Text>, D.S.O., M.C. (Whilst 2nd in comd. of Regt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>282</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -887,7 +925,9 @@
     <MainItem>
       <Key>Ommanney</Key>
       <Forenames>W. M.</Forenames>
-      <Text>, O.B.E</Text>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>2227</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -903,7 +943,9 @@
     <MainItem>
       <Key>Simons</Key>
       <Forenames>J. G.</Forenames>
-      <Text>, M.C. (whilst 2nd in comd. of the Bn.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2306</PageNumber>
     </MainItem>
   </ItemGroup>

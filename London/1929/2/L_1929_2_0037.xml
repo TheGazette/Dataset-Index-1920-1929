@@ -20,7 +20,11 @@
     <MainItem>
       <Key>Newman</Key>
       <Title>Major</Title>
-      <Text>General Charles Richard, C.M.G., D.S.O., Companion, Order of the Bath I6G</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>8</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -31,7 +35,10 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>Robert Hunt Stapyl-</Forenames>
-      <Text>ton Dudley Lydston, Bt., M.P. for Exeter</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4109</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -40,7 +47,10 @@
       <Key>Newton</Key>
       <Title>Sir</Title>
       <Forenames>Douglas George Cochrane</Forenames>
-      <Text>, K.B.E., M.P. for Cambridge</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4107</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -49,7 +59,9 @@
       <Key>Micholls</Key>
       <Title>Capt.</Title>
       <Forenames>Frederick William</Forenames>
-      <Text>, M.B.E., Officer, Order of the 'British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3673</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -57,7 +69,9 @@
     <MainItem>
       <Key>Nicholson</Key>
       <Forenames>Ottho William</Forenames>
-      <Text>,. M.P. for Abbey Division, Westminster</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4115</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -66,7 +80,9 @@
     <MainItem>
       <Key>Niekl</Key>
       <Forenames>Rt</Forenames>
-      <Text>Hon. Sir Herbert, K.C., M.P. for Ealing</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4108</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -116,7 +132,9 @@
     <MainItem>
       <Key>Norris</Key>
       <Forenames>Very</Forenames>
-      <Text>Rev. William Foxley, D.D., Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3671</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -132,7 +150,9 @@
     <MainItem>
       <Key>Noyce</Key>
       <Forenames>Frank</Forenames>
-      <Text>, C.S.I,, C.B.E., Knight ... ... '</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>3667</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -170,8 +190,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, Scott, Companion, Leslie of the Indian Order</Text>
+      <Key>O'Connor</Key>
+      <Forenames>Scott</Forenames>
+      <Text>, Companion, Leslie of the Indian Order</Text>
       <PageNumber>3671</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -182,7 +203,9 @@
       </Key>
       <Title>Rt. Hon.</Title>
       <Forenames>Thomas Power</Forenames>
-      <Text>, M.P. for Scotland</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4111</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -190,7 +213,9 @@
     <MainItem>
       <Key>Ogden</Key>
       <Forenames>Alvvyne George Neville</Forenames>
-      <Text>, O.B.E., H.M. Vice-Consul in China</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3311</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -198,7 +223,9 @@
     <MainItem>
       <Key>Oldfield</Key>
       <Forenames>John Richard A.</Forenames>
-      <Text>nthony, M.P. for Essex, South Eastern</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4109</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -225,7 +252,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>George Harold</Forenames>
-      <Text>, M.P. for Ilkeston</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4108</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -233,14 +262,18 @@
     <MainItem>
       <Key>Oliver</Key>
       <Forenames>Philip Milner</Forenames>
-      <Text>, M.P. for Blackney</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4111</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Malley, The Rev. John James Evans M.A., Officer, Order of the British Empire</Text>
+      <Key>O'Malley</Key>
+      <Title>The Rev.</Title>
+      <Forenames>John James Evans M.A.</Forenames>
+      <Text>, Officer, Order of the British Empire</Text>
       <PageNumber>3673</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -249,16 +282,22 @@
       <Key>Oman</Key>
       <Title>Sir</Title>
       <Forenames>Charles William Chadwick</Forenames>
-      <Text>, M.P. for .Oxford University</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4113</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, Rt. Hon. Robert .William Hugh, Baronet</Text>
-      <PageNumber>4189</PageNumber>
+      <Key>O'Neill</Key>
+      <Title>Rt. Hon. Robert .</Title>
+      <Forenames>William Hugh</Forenames>
+      <Text>, Baronet</Text>
     </MainItem>
+    <Honour>
+      <PageNumber>4189</PageNumber>
+    </Honour>
     <SubItem>
       <Text>M.P. for Antrim</Text>
       <PageNumber>4118</PageNumber>
@@ -269,7 +308,9 @@
       <Key>Ormsby-Gore</Key>
       <Title>Rt. Hon.</Title>
       <Forenames>William George Arthur</Forenames>
-      <Text>M.P. for Stafford</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4114</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -277,7 +318,10 @@
     <MainItem>
       <Key>Osgood</Key>
       <Forenames>Frederic Stanley</Forenames>
-      <Text>, M.V.O., O.B.E., Sergeantat-Arms to H.M. The King</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4189</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -294,7 +338,10 @@
     <MainItem>
       <Key>Ovey</Key>
       <Forenames>Esmond</Forenames>
-      <Text>, C.M.G., M.V.O., Knight Commander, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>3670</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -304,7 +351,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Humphrey Frank</Forenames>
-      <Text>, M.P. for Hereford</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4109</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -315,7 +364,9 @@
       </Key>
       <Title>Captain</Title>
       <Forenames>Wyriott</Forenames>
-      <Text>, M.C., Member Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3677</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -341,7 +392,9 @@
     <MainItem>
       <Key>Palin</Key>
       <Forenames>John Henry</Forenames>
-      <Text>, M.P. for Newcastle-upon-Tyne West</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4112</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -351,7 +404,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Title>Lieut.</Title>
-      <Text>Colonel (Local Colonel) Randle Harry, O.B.E., Companion, Order of the Indian Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3671</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -359,7 +414,9 @@
     <MainItem>
       <Key>Paling</Key>
       <Forenames>Wilfred</Forenames>
-      <Text>, M.P. for Doncaster</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4116</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -367,7 +424,9 @@
     <MainItem>
       <Key>Palmer</Key>
       <Forenames>Edward Timothy</Forenames>
-      <Text>, M.P. for Greenwich</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4109</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -389,7 +448,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>William Henry</Forenames>
-      <Text>, M.C., Member, Order of the -British -Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3674</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -397,7 +458,9 @@
     <MainItem>
       <Key>Pape</Key>
       <Forenames>William George</Forenames>
-      <Text>, O.B.E., Officer, Order of St. John of Jerusalem .:</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4266</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -423,7 +486,9 @@
     <MainItem>
       <Key>Parkinson</Key>
       <Forenames>John Allen</Forenames>
-      <Text>, M.P. for Wigan</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4115</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -488,7 +553,9 @@
     <MainItem>
       <Key>Peake</Key>
       <Forenames>Osbert</Forenames>
-      <Text>, M.P. for Leeds North</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4111</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -497,7 +564,11 @@
       <Key>Peel</Key>
       <Title>Colonel The Hon.</Title>
       <Forenames>Sidney Cornwallis</Forenames>
-      <Text>, D.S.O., T.D., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>T.D.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3668</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -506,7 +577,9 @@
       <Key>Pell</Key>
       <Title>Rt. Hon.</Title>
       <Forenames>William Robert Wellesley</Forenames>
-      <Text>,Viscount, G.B.E., Earl</Text>
+      <Text>
+        <Honour>G.B.E.</Honour>
+      </Text>
       <PageNumber>4353</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -526,7 +599,9 @@
       <PageNumber>4354</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>M.P. for Kingston-uponThames</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4110</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -535,7 +610,9 @@
       <Key>Percy</Key>
       <Title>Rt. Hon. (Lord)</Title>
       <Forenames>Eustace Sutherland Campbell</Forenames>
-      <Text>, M.P. for Hastings</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4109</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -544,7 +621,9 @@
       <Key>Perkins</Key>
       <Title>Colonel</Title>
       <Forenames>Edwin</Forenames>
-      <Text>King, C.B.E., V.D</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>4354</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -552,7 +631,9 @@
     <MainItem>
       <Key>Perry</Key>
       <Forenames>Samuel Frederick</Forenames>
-      <Text>, M.P. for Kettering</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4112</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -560,14 +641,18 @@
     <MainItem>
       <Key>Peters</Key>
       <Forenames>Sidney John</Forenames>
-      <Text>, M.P. for Huntingdon</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4110</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Pethick</Key>
-      <Text>Lawrence, Frederick William M.P. for Leicester West</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4111</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -576,7 +661,10 @@
       <Key>Peto</Key>
       <Title>Sir</Title>
       <Forenames>Basil Edward</Forenames>
-      <Text>, Bt., M.P. for Barnstaple</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4108</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -584,7 +672,10 @@
     <MainItem>
       <Key>Petrie</Key>
       <Forenames>David</Forenames>
-      <Text>, OLE., C.V.O., C.B.E., Knight</Text>
+      <Text>
+        <Honour>C.V.O.</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>3667</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -617,7 +708,10 @@
       <Key>Phillimore</Key>
       <Title>Admiral Sir</Title>
       <Forenames>Richard Fortesoue</Forenames>
-      <Text>, K.O.B., K.C.M.G., M.V.O., A.D.O., Knight Grand Cross, Order of the Bath</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>3667</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -632,7 +726,9 @@
     <MainItem>
       <Key>Phillips</Key>
       <Forenames>Marion</Forenames>
-      <Text>, M.P. for Sunderland</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4114</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -641,7 +737,9 @@
       <Key>Phipps</Key>
       <Title>Major</Title>
       <Forenames>Charles Con-</Forenames>
-      <Text>stantine, M.C., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3673</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -675,7 +773,9 @@
     <MainItem>
       <Key>Picton-Turbervill</Key>
       <Forenames>Edith</Forenames>
-      <Text>, M.P. for Wrekin</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4113</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -693,8 +793,10 @@
       <Title>Sir</Title>
       <Forenames>Philip Edward</Forenames>
       <Text>, J.P., Baronet</Text>
-      <PageNumber>3666</PageNumber>
     </MainItem>
+    <Honour>
+      <PageNumber>3666</PageNumber>
+    </Honour>
     <SubItem>
       <Text>M.P. for Spelthorne</Text>
       <PageNumber>4112</PageNumber>
@@ -722,7 +824,10 @@
       <Key>Place</Key>
       <Title>Major</Title>
       <Forenames>Charles Godfrey Morris</Forenames>
-      <Text>, D.S.O., M.C., Nominated Official Member of the Legislative Council of Northern Rhodesia</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2924</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -746,7 +851,10 @@
     <MainItem>
       <Key>Plumer</Key>
       <Forenames>Herbert Charles Onslow</Forenames>
-      <Text>, Baron, G.C.B., G. C. M. G., G C. V. O., G.B.E., Viscount Plumer, of Messines and of Bilton</Text>
+      <Text>
+        <Honour>G.C.B.</Honour>
+        <Honour>G.B.E.</Honour>
+      </Text>
       <PageNumber>3665</PageNumber>
       <PageNumber>4268</PageNumber>
     </MainItem>
@@ -759,6 +867,6 @@
       <PageNumber>3671</PageNumber>
     </MainItem>
   </ItemGroup>
-  <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
+  <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
 </Index>
 

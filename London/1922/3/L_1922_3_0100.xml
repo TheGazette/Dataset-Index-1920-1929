@@ -182,8 +182,8 @@
     <MainItem>
       <Key>Coutiere</Key>
       <Title>2nd Lt.</Title>
-      <Forenames>E. M.</Forenames>
-      <Text>de Marquetiere (resigns commn. and retains rank of 2nd Lt.)</Text>
+      <Forenames>E. M. de Marque-</Forenames>
+      <Text>tiere (resigns commn. and retains rank of 2nd Lt.)</Text>
       <PageNumber>6781</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -285,8 +285,8 @@
     <MainItem>
       <Key>Cowper</Key>
       <Title>2nd Lt.</Title>
-      <Forenames>G. G. St</Forenames>
-      <Text>. J. (resigns commn. and retains rank of 2nd Lt.)</Text>
+      <Forenames>G. G. St. J</Forenames>
+      <Text>. (resigns commn. and retains rank of 2nd Lt.)</Text>
       <PageNumber>6584</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -337,7 +337,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>E. O.</Forenames>
-      <Text>, M.B.E. (resigns commn. and granted rank of Capt.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>6317</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -484,7 +486,9 @@
       <Key>Craker</Key>
       <Title>Capt.</Title>
       <Forenames>P. W.</Forenames>
-      <Text>, O.B.E. (resigns commn. and granted rank of Maj.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>6313</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1055,7 +1059,9 @@
       <Key>Cuming</Key>
       <Title>Col.</Title>
       <Forenames>J. R.</Forenames>
-      <Text>, D.S.O,, O.B.E. (retirement)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>6319</PageNumber>
     </MainItem>
   </ItemGroup>

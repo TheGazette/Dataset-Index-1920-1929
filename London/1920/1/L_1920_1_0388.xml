@@ -3,7 +3,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Turr</Key>
-      <Text>.bull, Miss J. (actg. Dep. Administrator, Q.M.A.A.C.)</Text>
+      <Text>bull, Miss J. (actg. Dep. Administrator, Q.M.A.A.C.)</Text>
       <PageNumber>147</PageNumber>
     </MainItem>
     <SubItem>
@@ -121,7 +121,9 @@
       </Key>
       <Title>temp. Capt.</Title>
       <Forenames>A. W.</Forenames>
-      <Text>, M.C. (rel. oommn. on completion of service, and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1651</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -180,7 +182,7 @@
       <PageNumber>189</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Placed on ret. list on acc. of ill-health contracted on active service, and granted rank' of Capt</Text>
+      <Text>Placed on ret. list on acc. of ill-health contracted on active service, and granted rank' of Capt.</Text>
       <PageNumber>689</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -244,7 +246,9 @@
       </Key>
       <Title>temp. 2nd Lt.</Title>
       <Forenames>H.</Forenames>
-      <Text>(K.R.R.C.) (rel. oommn. on completion of service, and retains rank' of 2nd Lt.)</Text>
+      <Text>
+        <Honour>R.R.C.</Honour>
+      </Text>
       <PageNumber>808</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -255,7 +259,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>H. K.</Forenames>
-      <Text>, M.C. ^resigns commn. and retainsrank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2327</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -266,7 +272,10 @@
       </Key>
       <Title>temp. Capt.</Title>
       <Forenames>H. W.</Forenames>
-      <Text>, M.C. {R.A.M.C.) (rel. actg. rank of Maj.) '</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1073</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -308,7 +317,10 @@
       </Key>
       <Title>Bt. Lt.-Col.</Title>
       <Forenames>J. E.</Forenames>
-      <Text>, C.M.G., D.S.O..(temp. Maj. whilst a D.A.Q.M.G.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>2048</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -319,7 +331,10 @@
       </Key>
       <Title>Maj. (A./Lt.-Col.)</Title>
       <Forenames>J. F.</Forenames>
-      <Text>, D.S.O. (Bt. Lt.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>1802</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -353,7 +368,9 @@
         <KeyDitto>___</KeyDitto>
       </Key>
       <Forenames>Lt</Forenames>
-      <Text>^Col. and Bt. Col. P. A., CM.G. (h.p. list, retires on ret.' pay, and granted hon. . rank of Brig.-Gen.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>2326</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -362,7 +379,9 @@
       <Key>Turner</Key>
       <Title>Capt.</Title>
       <Forenames>R.</Forenames>
-      <Text>, D.S.O. (rel temp, rank of lit.-Obi. on ceasing to fcomd. a Bn., Northn R.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1911</PageNumber>
     </MainItem>
     <SubItem>
@@ -417,7 +436,9 @@
       <Key>Turrell</Key>
       <Title>temp.</Title>
       <Forenames>Lt</Forenames>
-      <Text>, J. W., M.C. (rel. commn. on completion of service, and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>297</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -448,7 +469,9 @@
       </Key>
       <Title>Lt.-Col. and Bt. Col.</Title>
       <Forenames>R. D.</Forenames>
-      <Text>, C.M.G. (having reached age for compulsory retirement is placed on ret. pay)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>3989</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -479,7 +502,9 @@
       <Key>Tuttle</Key>
       <Title>Qrmr. and Capt.</Title>
       <Forenames>F.</Forenames>
-      <Text>, D.C.M. (retires on ret. pay on acc. of ill-health contracted on active service)</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>2575</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -492,7 +517,7 @@
       <PageNumber>2442</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Rel. commn. on completion of service, and granted rank of Capt</Text>
+      <Text>Rel. commn. on completion of service, and granted rank of Capt.</Text>
       <PageNumber>2442</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -570,7 +595,9 @@
     <MainItem>
       <Key>Twisleton-Wykeham-</Key>
       <Forenames>Fiennes</Forenames>
-      <Text>, Maj. the Hon. I. M., M.C. (Adjt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3420</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -581,7 +608,11 @@
       </Key>
       <Title>Lt.-Col.</Title>
       <Forenames>F. A.</Forenames>
-      <Text>, C.M.G., D.S.O., M.V.O. (temp. Lt.-Col. whilst Asst. Dir. of Rlys.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>182</PageNumber>
     </MainItem>
   </ItemGroup>

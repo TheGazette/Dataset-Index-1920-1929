@@ -97,7 +97,9 @@
     <MainItem>
       <Key>Ritchie</Key>
       <Forenames>G. L.</Forenames>
-      <Text>, M.C., M.B</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>375</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -120,7 +122,9 @@
     <MainItem>
       <Key>Loughlm</Key>
       <Forenames>Dermot</Forenames>
-      <Text>; D.S.C., M.B</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>2473</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -136,8 +140,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Crosbie</Key>
-      <Forenames>John St</Forenames>
-      <Text>. B., M.B., B.A</Text>
+      <Forenames>John St. B</Forenames>
+      <Text>., M.B., B.A</Text>
       <PageNumber>1190</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -159,7 +163,10 @@
     <MainItem>
       <Key>Allen</Key>
       <Forenames>B. C</Forenames>
-      <Text>, C.B., M.V.O</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>M.V.O</Honour>
+      </Text>
       <PageNumber>10</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -204,7 +211,9 @@
     <MainItem>
       <Key>Martin</Key>
       <Forenames>W. E. R.</Forenames>
-      <Text>, C.M.G</Text>
+      <Text>
+        <Honour>C.M.G</Honour>
+      </Text>
       <PageNumber>10</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -307,7 +316,9 @@
     <MainItem>
       <Key>Silk</Key>
       <Forenames>Ernest E.</Forenames>
-      <Text>, C.B.E</Text>
+      <Text>
+        <Honour>C.B.E</Honour>
+      </Text>
       <PageNumber>62</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -382,7 +393,9 @@
     <MainItem>
       <Key>Jerram</Key>
       <Forenames>Rowland C</Forenames>
-      <Text>, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>1462</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -515,7 +528,9 @@
     <MainItem>
       <Key>Allen</Key>
       <Forenames>Reginald</Forenames>
-      <Text>, D.S.C. (Lt.)</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>2225</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -548,7 +563,10 @@
       <Key>Bartlett</Key>
       <Title>Capt.</Title>
       <Forenames>C. A.</Forenames>
-      <Text>, A.-de-C, C.B., C.B.E. (placed on Retd. List)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>61</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -572,7 +590,9 @@
     <MainItem>
       <Key>Birnie</Key>
       <Forenames>H.C.</Forenames>
-      <Text>, D.S.O. (Comdr.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>10</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -672,7 +692,10 @@
       <Key>Day</Key>
       <Title>Capt.</Title>
       <Forenames>Selwyn M.</Forenames>
-      <Text>, D.S.O. (Naval A.D.C. to H.M. the King)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>A.D.C.</Honour>
+      </Text>
       <PageNumber>1190</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -722,7 +745,9 @@
       <Key>Flannigan</Key>
       <Title>Engr. Lt.</Title>
       <Forenames>Patrick D.</Forenames>
-      <Text>D.S.C. (placed on retd. list)</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>1790</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -795,7 +820,9 @@
     <MainItem>
       <Key>Irving</Key>
       <Forenames>R. B.</Forenames>
-      <Text>. O.B.E. (Comdr.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>10</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -893,7 +920,9 @@
     <MainItem>
       <Key>Ufatheson</Key>
       <Forenames>C. G.</Forenames>
-      <Text>. D.S.O. (Comdr.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>10</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -908,7 +937,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pitcairn</Key>
-      <Text>. Gilbert C. (Sub-Lt.)</Text>
+      <Forenames>Gilbert C.</Forenames>
+      <Text>(Sub-Lt.)</Text>
       <PageNumber>1462</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -916,7 +946,9 @@
     <MainItem>
       <Key>Richardson</Key>
       <Title>Paymr.</Title>
-      <Text>-Lt. George, R.D. (placed on retd. list)</Text>
+      <Text>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>1790</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -940,7 +972,9 @@
     <MainItem>
       <Key>Roche</Key>
       <Title>Paymr. Lt.</Title>
-      <Text>-Cdr. Henry, R.D. (placed on retd. list, with rank of Paymr. Cdr.)</Text>
+      <Text>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>1790</PageNumber>
     </MainItem>
     <SubItem>
@@ -968,7 +1002,9 @@
     <MainItem>
       <Key>Rowe</Key>
       <Forenames>William</Forenames>
-      <Text>, D.S.O. (placed on retd. list, with rank of Engr. Lt.-Cdr.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1282</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1008,7 +1044,9 @@
     <MainItem>
       <Key>Singeisen</Key>
       <Forenames>E. A.</Forenames>
-      <Text>, D.S.C. (Comdr.)</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>10</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1048,7 +1086,9 @@
     <MainItem>
       <Key>Turnbull</Key>
       <Forenames>James</Forenames>
-      <Text>, C.B.E. (Capt.)</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>10</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1086,7 +1126,7 @@
       <PageNumber>1373</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Lt.</Text>
+      <Text>Lt</Text>
       <PageNumber>1373</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1104,7 +1144,9 @@
         <KeyDitto>___ ___ .</KeyDitto>
       </Key>
       <Forenames>J. W.</Forenames>
-      <Text>, D.S.O. (Comdr.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>10</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1137,7 +1179,9 @@
     <MainItem>
       <Key>Ashton</Key>
       <Title>Paymr. Lt.</Title>
-      <Text>-Cdr. William R., D.S.O., D.S.C</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1282</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1362,7 +1406,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Collier</Key>
-      <Text>. William (Hon. Lt., R.N.V.R.) (C)</Text>
+      <Forenames>William</Forenames>
+      <Text>(Hon. Lt., R.N.V.R.) (C)</Text>
       <PageNumber>780</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1370,7 +1415,9 @@
     <MainItem>
       <Key>Curzon</Key>
       <Title>Viscount.</Title>
-      <Text>M.P. (Capt.)</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>469</PageNumber>
     </MainItem>
   </ItemGroup>

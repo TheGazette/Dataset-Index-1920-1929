@@ -48,7 +48,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>&gt; Lt. R. C, M.C. (rel. commn. and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10440</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -59,7 +61,11 @@
       </Key>
       <Title>Lt.-Col.</Title>
       <Forenames>R. L.</Forenames>
-      <Text>, D.S.O., O.B.E., V.D., T.D. (retired, having attained age limit, and retains rank of Lt.-Col., with permission to wear prescribed uniform)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>O.B.E.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>9620</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -158,7 +164,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>F. E.</Forenames>
-      <Text>, M.C. (fcrd. to T.F.R., Regtl. List, Infy., from 5th Bn., Line. R.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7876</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -340,7 +348,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>G. H.</Forenames>
-      <Text>, O.B.E. (rel. commn, and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>9238</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -401,7 +411,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Title>Maj. (Hon. Capt. in Army) (Hon. Lt.-Col., ret., Impl. Yeo.)</Title>
-      <Text>0. M., T.D. (retired, having attained the age limit, and granted rank of Lt.-Col., with permission to wear prescribed uniform)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>7875</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -488,7 +500,10 @@
       <Key>Leith</Key>
       <Title>Capt. (Hon. Lt.-Col., late Vols.) Sir</Title>
       <Forenames>A.</Forenames>
-      <Text>, Bt., M.C. (having attained age limit, .is retired, and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8360</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -530,7 +545,9 @@
       <Key>Leith-Buchanan</Key>
       <Title>Lt.-Col. Sir</Title>
       <Forenames>A. W. G. T.</Forenames>
-      <Text>, Bt. (rel. commn. and retains rank of Lt.-Col.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>10705</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -546,7 +563,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Lelliott</Key>
-      <Text>. Lt. B. L. (rel. commn. and retains rank of Lt.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>B. L.</Forenames>
+      <Text>(rel. commn. and retains rank of Lt.)</Text>
       <PageNumber>9763</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -562,7 +581,12 @@
   <ItemGroup>
     <MainItem>
       <Key>Leman</Key>
-      <Text>. Lt. C. M., M.C., D.F.C. (rel. comimn. and granted rank of Capt.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>C. M.</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>10105</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -611,7 +635,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Lendon</Key>
-      <Text>. Cant. W. W. (rel. coimmn, and retains rank of Capt.)</Text>
+      <Title>Cant.</Title>
+      <Forenames>W. W.</Forenames>
+      <Text>(rel. coimmn, and retains rank of Capt.)</Text>
       <PageNumber>9868</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -778,7 +804,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>G. S.</Forenames>
-      <Text>, M.B.E. (rel. commn. and granted rank of Capt.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>9227</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -800,7 +828,9 @@
       </Key>
       <Title>Hon. Chapln. Rev.</Title>
       <Forenames>M. P. G.</Forenames>
-      <Text>, D.S.O. (2nd Lt., for service with Cheltenham Coll. Cont., Jnr. Div., O.T.C., and rel. Hon. Chaplaincy</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>9449</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -858,7 +888,9 @@
       <Key>Lepraik</Key>
       <Title>Lt.</Title>
       <Forenames>D. F.</Forenames>
-      <Text>, D.F.C. (rel. commn. and retains rank of</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>10359</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -867,7 +899,9 @@
       <Key>Leresche</Key>
       <Title>Capt.</Title>
       <Forenames>P. V.</Forenames>
-      <Text>, O.B.E. (rel. commn. and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>8904</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -887,7 +921,10 @@
       </Key>
       <Title>Lt.-Col.</Title>
       <Forenames>A. S.</Forenames>
-      <Text>, C.M.G., T.D. (trd. to T.A. Res., Regtl. List, Scouts, from T.A. Res.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>9627</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -922,7 +959,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>H. W. E.</Forenames>
-      <Text>, M.C. (rel. oommn. and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9141</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -933,7 +972,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>J. D.</Forenames>
-      <Text>, M.C. (rel. commn. and granted rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10446</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -944,7 +985,9 @@
       </Key>
       <Title>Lt.-Col. (Capt., ret., T.F.)</Title>
       <Forenames>J. R. S.</Forenames>
-      <Text>, T.D. (rel. commn. and retains rank of Lt. Col., with permission to wear prescribed uniform)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>10705</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -977,7 +1020,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>W. S.</Forenames>
-      <Text>, M.C. (rel. commn. and retains rank . of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9751</PageNumber>
     </MainItem>
   </ItemGroup>

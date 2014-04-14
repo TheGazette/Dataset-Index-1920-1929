@@ -55,7 +55,9 @@
     <MainItem>
       <Key>Jones</Key>
       <Forenames>David Thomas</Forenames>
-      <Text>, O.B.E., F.R.S.E., Chairman of Fishery Board for Scotland</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>786</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -64,8 +66,14 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Major-General</Forenames>
-      <Text>Sir Robert, K.B.E., C.B., T.D., Baronet</Text>
+      <Title>Major-</Title>
+      <Forenames>General</Forenames>
+      <Text>
+        <Honour>K.B.E.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>T.D.</Honour>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
       <PageNumber>982</PageNumber>
     </MainItem>
@@ -99,7 +107,12 @@
       <Key>Ker</Key>
       <Title>Col.</Title>
       <Forenames>Charles Arthur</Forenames>
-      <Text>, C.M.G., C.B.E., D.S.O., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>C.B.E.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -149,7 +162,10 @@
       <Key>Kinloch-Cooke</Key>
       <Title>Sir</Title>
       <Forenames>Clement</Forenames>
-      <Text>, K.B.E., Baronet</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
       <PageNumber>1643</PageNumber>
     </MainItem>
@@ -174,7 +190,9 @@
     <MainItem>
       <Key>Kittermaster</Key>
       <Forenames>Harold Baxter</Forenames>
-      <Text>, O.B.E., Companion, Order of Saint Michael and Saint George</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>6</PageNumber>
     </MainItem>
     <SubItem>
@@ -223,7 +241,13 @@
     <MainItem>
       <Key>Lamb</Key>
       <Forenames>John</Forenames>
-      <Text>, C.B., knight Commander, Order of the Bath ... Lampson, Miles Wedderburn, O.M.G., M.V.O., Companion, Order of the Bath Lane-Fox, Col. George Richard, J.P., D.L., M.P., Member of H.M. Privy Council 1</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>M.V.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+        <Honour>D.L.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>763</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -231,7 +255,10 @@
     <MainItem>
       <Key>Lascelles</Key>
       <Forenames>Alan Frederick</Forenames>
-      <Text>, M.O., Member, 4th Class, Royal Victorian Order Law, Ernest, O.B. Commander, Royal Victorian Order ... Lawrence, Major Charles Trevor, Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>453</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -252,7 +279,13 @@
       </Key>
       <Title>Gen. the Hon. Sir</Title>
       <Forenames>Herbert Alexander</Forenames>
-      <Text>, K.C.B., Knight Grand Cross, Order of the Bath Lee, Gordon Ambrose de Lisle, C.B., Commander, Royal Victorian Order Leitch, William, Companion, Order of the Bath Leng Hilary Howard, C.B.E., Knight Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>1239</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -261,7 +294,10 @@
       <Key>Leverson</Key>
       <Title>Col.</Title>
       <Forenames>George Francis</Forenames>
-      <Text>, C.B., C.M.G., Knight of Grace, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>40</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -269,7 +305,11 @@
     <MainItem>
       <Key>Ley</Key>
       <Forenames>Arthur Herbert</Forenames>
-      <Text>, OLE., C.B.E., Companion, Order of the Star of India Lindsay, Harry Alexander Fanshaw, C.B.E., Companion, Order of the Indian Empire Little, Richard Thomas, Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>Companion, Order of the Star of India</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>454</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -280,7 +320,10 @@
       </Key>
       <Title>Col.</Title>
       <Forenames>Wilford Neville</Forenames>
-      <Text>, C.B., M.V.O., Standard Bearer, H.M. Body Guard of the Honourable Corps of Gentlemen-at-Arms</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>211</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -288,7 +331,10 @@
     <MainItem>
       <Key>Lockyer</Key>
       <Forenames>Nicholas Colston</Forenames>
-      <Text>, C.B.E., I.S.O., Knight ... Lowdon, John, H.M. Consul at Lyons</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>I.S.O</Honour>
+      </Text>
       <PageNumber>1643</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -328,7 +374,10 @@
     <MainItem>
       <Key>Maynard</Key>
       <Forenames>Harry Russell</Forenames>
-      <Text>, Member, 4th Class, Royal Victorian Order Medley, David Charles, Member, 4th Class, Royal Victorian Order Meff, William, Knight</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -337,7 +386,11 @@
       <Key>Megaw</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>John Wallace Dick</Forenames>
-      <Text>, M.D., Companion, Order of the Indian Empire ... Meldon, George Pugin, M.D., F. R.C.S.I., Esquire, Order of St. John of Jerusalem ... Mercieca, Arturo, LL.D., Knight ... Mian Fazl-i-Hussain, Khan Bahadur Sir, Member of Executive Council of the Governor of the Punjab ... Miller, William, Member of Fishery Board for Scotland Moberly, Col. Hugh Stephenson, Companion, Order of the Bath Monck-Mason, George Evelyn Arthur Cheyne, H.M. ViceConsul at Mazagan ... Moncrieff, Alexander, K.C., Senator of the College of Justice in Scotland ... Montgomery, Matthew Walker, Knight</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+        <Honour>M.D.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -353,30 +406,12 @@
     <MainItem>
       <Key>Morgan</Key>
       <Forenames>John Hartman</Forenames>
-      <Text>, H.M. Counsel Moropant Vishwanath Joshi, Sir, Knight Commander, Order of the Indian Empire Mosley, Alexander, C.M.G., Knight Neil, Edwin Lee, Commander, Order of the British Empire Nicholas, Col. Stephen Henry Edmund, Companion, Order of the Indian Empire ... Nicholls, Henry Alfred Alford, C.M.G. M.D., Knight ... Nicholson, Sydney Hugo, Member, 4th Class, Royal Victorian Order Novar, The Rt. Hon. Ronald Craufurd Viscount, G. O.M.G., Knight, Order of the Thistle Oliver, Roland Giffard, K.C., Recorder of Folkestone Borough</Text>
-      <PageNumber>1337</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>O</Key>
-      <Text>'Malley, Owen St. Clair, Acting Counsellor, H.M. Diplomatic Service</Text>
-      <PageNumber>1642</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>O</Key>
-      <Text>'Meara, Francis, H.M. Consul at Berlin</Text>
-      <PageNumber>1642</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Oranmore</Key>
-      <Text>and Browne, Rt. Hon. Geoffrey Henry, Baron, Baron Mereworth</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>C.M.G. M.D.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>1</PageNumber>
-      <PageNumber>534</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -385,7 +420,7 @@
       <Title>Lt.-Col.</Title>
       <Forenames>William Bertram Joseph</Forenames>
       <Text>, Esquire, Order of St. John of Jerusalem Oulton, Harold Stowe, Magistrate of the Police Courts of the Metropolis</Text>
-      <PageNumber>115</PageNumber>
+      <PageNumber>6</PageNumber>
     </MainItem>
     <SubItem>
       <Text>

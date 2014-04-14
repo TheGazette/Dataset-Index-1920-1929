@@ -91,7 +91,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wokingham</Key>
-      <Text>. Town Council, Address of sympathy to the King and Queen on the death of the Marquis. of Cambridge</Text>
+      <Forenames>Town Council</Forenames>
+      <Text>, Address of sympathy to the King and Queen on the death of the Marquis. of Cambridge</Text>
       <PageNumber>7268</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -114,7 +115,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Workmen</Key>
-      <Text>'s Compensation Act. '(.See-under Home Office.) Wrexham Town Council, Address of sympathy to the King and Queen on the death of the. Marquis of Cambridge</Text>
+      <Text>'s Compensation Act. '(.See-under Home Office.) Wrexham Town Council, i Address of sympathy to the King and Queen on the death of the. Marquis of Cambridge</Text>
       <PageNumber>7268</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -203,7 +204,9 @@
     <MainItem>
       <Key>Maumillan</Key>
       <Forenames>Venerable John Victor</Forenames>
-      <Text>, O.B.E., M.A., Bishop Suffragan of Dover</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>6551</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -219,7 +222,7 @@
   <ItemGroup>
     <MainItem>
       <Key>R</Key>
-      <Text>.ust, Rev. Edward, B.D., presented to the Rectory of St. Cutlibert, Red marshal I</Text>
+      <Text>ust, Rev. Edward, B.D., presented to the Rectory of St. Cutlibert, Red marshal I</Text>
       <PageNumber>8242</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -254,7 +257,9 @@
       <Key>Alexander</Key>
       <Title>Sir</Title>
       <Forenames>Svdney Robert</Forenames>
-      <Text>, M.D., M.RXi.S., transferred to grade of Officer, Order of St. John of Jerusalen</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>6696</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -270,17 +275,44 @@
     <MainItem>
       <Key>Allardyce</Key>
       <Forenames>Constance</Forenames>
-      <Text>VitiMolesworth, transferred to grade of Officer, Order of St. John of Jerusalem ... ... Allcorn, James, Official Receiver in Bankruptcy ... ... Allen, Richard Hugh Sedley, Third Secretary in H.M. Diplomatic Service ... ... i Anderson, Major Andrew Woodroffe, M.B., transferred to grade of Officer, Order of St. John of Jerusalem</Text>
+      <Text>VitiMolesworth, transferred to grade of Officer, Order of St. John of Jerusalem</Text>
       <PageNumber>6696</PageNumber>
     </MainItem>
-    <SubItem>
-      <Text>. H.M. Consul at Caracas</Text>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Allcorn</Key>
+      <Forenames>James</Forenames>
+      <Text>, Official Receiver in Bankruptcy</Text>
+      <PageNumber>8052</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Allen</Key>
+      <Forenames>Richard Hugh Sedley</Forenames>
+      <Text>, Third Secretary in H.M. Diplomatic Service</Text>
       <PageNumber>7113</PageNumber>
-    </SubItem>
-    <SubItem>
-      <Text>___ ___ ___ ___ ___ Captain Vaughan, L.R.C.P. &amp; S.Ed., R.A.M.C, transferred to grade of Officer, Order of St. John of Jerusalem.</Text>
-      <PageNumber>6808</PageNumber>
-    </SubItem>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Anderson</Key>
+      <Title>Major</Title>
+      <Forenames>Andrew Wood-</Forenames>
+      <Text>
+        <Honour>C.V.O.</Honour>
+        <Honour>M.D.</Honour>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.D.</Honour>
+        <Honour>C.B.E.</Honour>
+        <Honour>M.D.</Honour>
+        <Honour>M.D.</Honour>
+        <Honour>O.B.E.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
+      <PageNumber>6696</PageNumber>
+    </MainItem>
   </ItemGroup>
   <KeyDitto>___ ___</KeyDitto>
 </Index>

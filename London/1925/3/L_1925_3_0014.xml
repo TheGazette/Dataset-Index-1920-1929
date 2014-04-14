@@ -12,7 +12,9 @@
     <MainItem>
       <Key>Hirst</Key>
       <Forenames>Hugo</Forenames>
-      <Text>, Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>4449</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -20,7 +22,9 @@
     <MainItem>
       <Key>Hogarth</Key>
       <Forenames>David George</Forenames>
-      <Text>, C.M.G., Member, Governing Body of School of Oriental Studies (London Institution)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>5764</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -45,7 +49,11 @@
       <Key>Horder</Key>
       <Title>Sir</Title>
       <Forenames>Thomas Jeeves</Forenames>
-      <Text>, Bart., M.D., F.R.C.P., Knight Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Bart</Honour>
+        <Honour>M.D.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4777</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -62,7 +70,9 @@
     <MainItem>
       <Key>Howard</Key>
       <Forenames>Douglas Frederick</Forenames>
-      <Text>, M.C.,2nd Secretary inH.M. Diplomatic Service</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5047</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -87,7 +97,9 @@
       <Key>Hughes-Morgan</Key>
       <Title>Major Sir</Title>
       <Forenames>David</Forenames>
-      <Text>, Kt., Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>4449</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -169,7 +181,11 @@
     <MainItem>
       <Key>Jellicoe</Key>
       <Title>Admiral</Title>
-      <Text>of the Fleet John Rushworth, Viscount, G. C.B., O.M., G.C.V.O., Earl</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>O.M.</Honour>
+        <Honour>G.C.V.O.</Honour>
+      </Text>
       <PageNumber>4448</PageNumber>
     </MainItem>
     <SubItem>
@@ -214,7 +230,9 @@
       <Key>Lawrence</Key>
       <Title>Hon. Sir</Title>
       <Forenames>Herbert Alexander</Forenames>
-      <Text>, K.C.B., Member, Royal Commission on the Coal Industry</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+      </Text>
       <PageNumber>5911</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -243,7 +261,11 @@
       <Key>Lindsay</Key>
       <Title>Hon. Sir</Title>
       <Forenames>Ronald Charles</Forenames>
-      <Text>, K.C.M.G., C.B., C.V.O., Member of H.M. Privy Council</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>C.V.O.</Honour>
+      </Text>
       <PageNumber>4935</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -252,7 +274,10 @@
       <Key>Lithgow</Key>
       <Title>Lt.-Col. (Hon. Col.)</Title>
       <Forenames>James</Forenames>
-      <Text>, M.C., Baronet</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>4449</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -260,7 +285,9 @@
     <MainItem>
       <Key>Long</Key>
       <Forenames>Arthur Tilney</Forenames>
-      <Text>, C.B.E., H.M. Consul at Lorenzo Marques</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>5047</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -310,7 +337,10 @@
       <Key>Lyne</Key>
       <Title>Capt.</Title>
       <Forenames>Thomas John Spence</Forenames>
-      <Text>, D.S.O., R.N., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>5627</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -319,7 +349,9 @@
       <Key>McCalmont</Key>
       <Title>Col.</Title>
       <Forenames>Robert Chaine Alexander</Forenames>
-      <Text>, D.S.O., Exon. King's Body Guard of the Yeoman of the Guard</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5130</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -343,7 +375,10 @@
     <MainItem>
       <Key>Macdonogh</Key>
       <Title>Lt.</Title>
-      <Text>-Gen. Sir George Mark Watson, K.C.B., K.C.M.G., Knight Grand Cross, Order of the British Empire</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>K.C.M.G.</Honour>
+      </Text>
       <PageNumber>4777</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -367,7 +402,9 @@
     <MainItem>
       <Key>Mackenzie</Key>
       <Title>Eng.</Title>
-      <Text>-Cdr. Cecil James Granville, R.N., Member, Fourth Class, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>5627</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -378,7 +415,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>Kenneth John</Forenames>
-      <Text>, Bt., Scottish Ecclesiastical .Commissioner</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6273</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -394,7 +433,9 @@
     <MainItem>
       <Key>Maneckji</Key>
       <Forenames>Byramji Dadabhoy</Forenames>
-      <Text>, Sir, K.C.I.E., Member, Royal Commission on Indian Currency and Finance</Text>
+      <Text>
+        <Honour>K.C.I.E.</Honour>
+      </Text>
       <PageNumber>5763</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -403,14 +444,20 @@
       <Key>Mant</Key>
       <Title>Sir</Title>
       <Forenames>Reginald Arthur</Forenames>
-      <Text>, K.C.I.E., C.S.I., Member, Royal Commission on Indian Currency and . Finance</Text>
+      <Text>
+        <Honour>K.C.I.E.</Honour>
+      </Text>
       <PageNumber>5763</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Michell</Key>
-      <Text>Lt.-Cdr. Kenneth, D.S.C., R.N., Member Fourth Class, Royal Victorian Order</Text>
+      <Title>Lt.</Title>
+      <Text>
+        <Honour>D.S.C.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>5627</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -442,7 +489,9 @@
     <MainItem>
       <Key>Montgomery</Key>
       <Forenames>Hugh Edmund Langton</Forenames>
-      <Text>, M.C., 2nd Secretary in H.M. Diplomatic Service</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5047</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -451,7 +500,10 @@
       <Key>Moorhouse</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Harry Claude</Forenames>
-      <Text>, C.M.G., D.S.O., knighted</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4620</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -476,7 +528,9 @@
       <Key>Murray</Key>
       <Title>Sir</Title>
       <Forenames>Alexander Robert-</Forenames>
-      <Text>son, Kt., O.B.E., Member, Royal Commission on Indian Currency and Finance</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>5763</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -490,8 +544,12 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, Lt.-Col. William Frederick Travers, C.S.I., O.I.E., C.V.O., knighted</Text>
+      <Key>O'Connor</Key>
+      <Title>Lt.-Col.</Title>
+      <Forenames>William Frederick Travers</Forenames>
+      <Text>
+        <Honour>C.V.O.</Honour>
+      </Text>
       <PageNumber>4620</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -547,7 +605,9 @@
     <MainItem>
       <Key>Peake</Key>
       <Forenames>Charles Brinsley Pemberton</Forenames>
-      <Text>, M.C., 2nd Secretary in H.M. Diplomatic Service</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5047</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -563,7 +623,12 @@
     <MainItem>
       <Key>Plumer</Key>
       <Forenames>Field Marshal</Forenames>
-      <Text>the Rt. Hon. Lord, G.C.B., G.C.M.G., G.C.V.O., G.B.E., High Commissioner and Commander-in-Chief of Palestine</Text>
+      <Text>
+        <Honour>G.C.B.</Honour>
+        <Honour>G.C.M.G.</Honour>
+        <Honour>G.C.V.O.</Honour>
+        <Honour>G.B.E.</Honour>
+      </Text>
       <PageNumber>5282</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -595,7 +660,9 @@
     <MainItem>
       <Key>Rabino</Key>
       <Forenames>Hyacinth Louis</Forenames>
-      <Text>, O.B.E., H.M. ConsnlGeneral at Smyrna</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>5046</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -603,7 +670,9 @@
     <MainItem>
       <Key>Rajendranath</Key>
       <Forenames>Mukerjee</Forenames>
-      <Text>, Sir, K.C.I.E., K.O.V.O., Member, Royal Commission on Indian Currency and Finance</Text>
+      <Text>
+        <Honour>K.C.I.E.</Honour>
+      </Text>
       <PageNumber>5763</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -636,7 +705,9 @@
     <MainItem>
       <Key>Rivers-Smith</Key>
       <Forenames>Stanley</Forenames>
-      <Text>, O.B.E., Official Member of the Executive Council of Tanganika Territory</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>6274</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -652,7 +723,11 @@
     <MainItem>
       <Key>Robertson</Key>
       <Forenames>John</Forenames>
-      <Text>, C.M.G., O.B.E., M.D., knighted</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>4620</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -661,7 +736,9 @@
       <Key>Rodwell</Key>
       <Title>Sir</Title>
       <Forenames>Cecil Hunter</Forenames>
-      <Text>, K.C.M.G., Governor and Commander in Chief of British Guiana</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+      </Text>
       <PageNumber>6086</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -670,7 +747,10 @@
       <Key>Sackville-West</Key>
       <Title>Maj.-Gen. the Hon. Sir</Title>
       <Forenames>Charles John</Forenames>
-      <Text>, K.B.E., O.B., C.M.G., Lieutenant Governor or Guernsey</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>4448</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -679,7 +759,9 @@
       <Key>Samuel</Key>
       <Title>Sir</Title>
       <Forenames>Herbert Louis</Forenames>
-      <Text>, K.G.C.B.E., Chairman, Royal Commission on the Coal Industry</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>5911</PageNumber>
     </MainItem>
   </ItemGroup>

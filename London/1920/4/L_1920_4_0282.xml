@@ -5,7 +5,9 @@
       <Key>Thorpe</Key>
       <Title>Lt.</Title>
       <Forenames>T.</Forenames>
-      <Text>, M.C. (R.A.) (rel. actg. rank of Capt. on ceasing to be Adjt.) .:</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9781</PageNumber>
     </MainItem>
     <SubItem>
@@ -20,7 +22,9 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>T.</Forenames>
-      <Text>(M.G.C., Infy.) (rel. conimn. on completion of service and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>11085</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -31,11 +35,13 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>T. E.</Forenames>
-      <Text>, M.C. (resigns commn.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9951</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Trd. to Gen. Be.of Offrs</Text>
+      <Text>Trd. to Gen. Be.of Offrs.</Text>
       <PageNumber>9953</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -84,7 +90,9 @@
       <Key>Thresh</Key>
       <Title>Lt.</Title>
       <Forenames>Abram Edgar</Forenames>
-      <Text>, M.C. (trd. to E. Lan. R. from 6th W. York. R., T.F.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>12161</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -160,7 +168,9 @@
       <Key>Thwaites</Key>
       <Title>temp. Lt.</Title>
       <Forenames>G. G. M.</Forenames>
-      <Text>, M.C. (rel. commn. on completion of service and granted rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>11071</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -169,7 +179,9 @@
       <Key>Thwaytes</Key>
       <Title>Capt.</Title>
       <Forenames>H. D.</Forenames>
-      <Text>, D.S.O. (rel. temp, rank of Lt.-Col.), Sub. Not</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>9969</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -273,7 +285,9 @@
       <Key>Tidmarsh</Key>
       <Title>Lt.</Title>
       <Forenames>D. M.</Forenames>
-      <Text>, M.C. (rel. commn. and retains rank of Lt,)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>12478</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -311,7 +325,9 @@
     <MainItem>
       <Key>Tidy</Key>
       <Forenames>Lt</Forenames>
-      <Text>, C, M.C. (placed on h.p. list)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10060</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -377,7 +393,9 @@
       <Key>Till</Key>
       <Title>Lt.</Title>
       <Forenames>S. J.</Forenames>
-      <Text>, M.C. (trd. to Army Educational Corps from R.H. and R.F.A., T.F.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>12266</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -386,7 +404,10 @@
       <Key>Tilted</Key>
       <Title>Capt.</Title>
       <Forenames>J. A. S.</Forenames>
-      <Text>, O.B.E., M.C. (trd. to R. Corps of Signals, from R.E.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>12572</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -457,7 +478,9 @@
       <Key>Tillman</Key>
       <Title>temp. Capt.</Title>
       <Forenames>Herbert A.</Forenames>
-      <Text>, M.D. (rel. actg. rank of Maj.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>10159</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -475,7 +498,9 @@
       <Key>Timberlake</Key>
       <Title>temp. Lt.</Title>
       <Forenames>W. H.</Forenames>
-      <Text>M.C. (rel. commn. on completion of service and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>12375</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -484,7 +509,9 @@
       <Key>Timbrell</Key>
       <Title>Maj.</Title>
       <Forenames>T.</Forenames>
-      <Text>, D.S.O. (temp. Lt.-Col. whilst Asst., Dir. of Supplies and Trans, in India)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>11577</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -524,14 +551,21 @@
       <Key>Timperley</Key>
       <Title>Lt.</Title>
       <Forenames>C. E.</Forenames>
-      <Text>, M.C. (rel. commn. and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>12564</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Tims</Key>
-      <Text>temp. Maj. (actg. Lt.-Col.) Henry W. M., O.B.E., M.D. (rel. commn. and granted rank of Lt.-Col.)</Text>
+      <Title>temp. Maj. (actg. Lt.-Col.)</Title>
+      <Forenames>Henry W. M.</Forenames>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>10365</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -598,7 +632,7 @@
       <PageNumber>10063</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>H.p. list, retires on ret. pay, and granted rank of Capt</Text>
+      <Text>H.p. list, retires on ret. pay, and granted rank of Capt.</Text>
       <PageNumber>10835</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -627,7 +661,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>G. L.</Forenames>
-      <Text>, M.C. (rel. commn. and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10177</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -635,7 +671,9 @@
     <MainItem>
       <Key>Tipler</Key>
       <Title>Lt.</Title>
-      <Text>.M. W., M.C. (rel. commn. and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10921</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -651,7 +689,9 @@
       <Key>Tippett</Key>
       <Title>Lt.</Title>
       <Forenames>R. B.</Forenames>
-      <Text>, M.C. (rel. commn. and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10395</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -669,7 +709,9 @@
       <Key>Tissington</Key>
       <Title>temp. Capt.</Title>
       <Forenames>Charles Frederick</Forenames>
-      <Text>, M.C. (rel. commn. on completion of service, and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>11083</PageNumber>
     </MainItem>
     <SubItem>
@@ -700,7 +742,9 @@
       <Key>Titley</Key>
       <Title>Lt.</Title>
       <Forenames>J.</Forenames>
-      <Text>, M.C. (rel. commn. and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>11329</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -727,7 +771,9 @@
       <Key>Tobin</Key>
       <Title>Lt.</Title>
       <Forenames>H. E.</Forenames>
-      <Text>, D.C.M. (retires on ret. pay)</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>12477</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -738,7 +784,10 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>H. W.</Forenames>
-      <Text>, D.S.O., O.B.E. (temp. .Lt.-Col. whilst A.A. and Q.M.G. in India)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>11578</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -749,7 +798,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>J.</Forenames>
-      <Text>, M.C. (rel. actg. rank of Capt.), Sub. Not</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9800</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -804,7 +855,9 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>D.</Forenames>
-      <Text>, D.S.O. (rel. commn. on completion of service, and granted' rank of Capt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>10371</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -846,7 +899,9 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>A. E.</Forenames>
-      <Text>, M.C. (rel. oommn. on completion of service, and retains rank of Lt.) ... H</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>072</PageNumber>
     </MainItem>
   </ItemGroup>

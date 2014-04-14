@@ -14,7 +14,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Ernest Alfred</Forenames>
-      <Text>, O.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3766</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -189,7 +191,9 @@
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>T.</Forenames>
-      <Text>/Lt. Henry, M.C., Officer, Order of the British Empire, trd. to Military Division</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>963</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -372,7 +376,10 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>Charles Ossley</Forenames>
-      <Text>, M.C., Member, 4th Cl., Royal Victorian Order</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>6</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -417,7 +424,10 @@
     <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
   </Key>
   <Forenames>Harvey</Forenames>
-  <Text>, Maj. and Bt. Lt.-Col. Francis Henry, D.S.O., Companion; St.Michael and St.George</Text>
+  <Text>
+    <Honour>Bt</Honour>
+    <Honour>D.S.O.</Honour>
+  </Text>
   <PageNumber>2261</PageNumber>
   <ItemGroup>
     <MainItem>
@@ -455,7 +465,9 @@
     <MainItem>
       <Key>Harvie</Key>
       <Forenames>Charles Frederick</Forenames>
-      <Text>, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3789</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -517,7 +529,9 @@
     <MainItem>
       <Key>Hassell</Key>
       <Forenames>Charles Joseph</Forenames>
-      <Text>, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3789</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -536,7 +550,10 @@
       </Key>
       <Title>Col. Sir</Title>
       <Forenames>George</Forenames>
-      <Text>, M.D., V.D., Esquire, St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+        <Honour>Esquire, St. John of Jeru-</Honour>
+      </Text>
       <PageNumber>3429</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -703,7 +720,9 @@
       <Key>Hay</Key>
       <Title>Miss</Title>
       <Forenames>Emily Henrietta</Forenames>
-      <Text>, A.R.R.C., Royal Red Cross, I st Cl</Text>
+      <Text>
+        <Honour>A.R.R.C.</Honour>
+      </Text>
       <PageNumber>1917</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -772,7 +791,10 @@
       <Key>Hayhurst-France</Key>
       <Title>Capt.</Title>
       <Forenames>George Frederick Hayhurst</Forenames>
-      <Text>, M.C., Companion, D.S.O</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>919</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -780,7 +802,9 @@
     <MainItem>
       <Key>Haylock</Key>
       <Forenames>Ernest Edwin</Forenames>
-      <Text>, M.B.E., .Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3789</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -788,7 +812,9 @@
     <MainItem>
       <Key>Hayne</Key>
       <Forenames>Louis Brigtywell</Forenames>
-      <Text>, M.D., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3836</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -812,7 +838,9 @@
     <MainItem>
       <Key>Hazlehurst</Key>
       <Forenames>George</Forenames>
-      <Text>, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3789</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -827,7 +855,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Headland</Key>
-      <Text>. Robert Vincent, Officer, Order of the British Empire</Text>
+      <Forenames>Robert Vincent</Forenames>
+      <Text>, Officer, Order of the British Empire</Text>
       <PageNumber>3789</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -936,7 +965,9 @@
     <MainItem>
       <Key>Heasman</Key>
       <Forenames>Arthur William</Forenames>
-      <Text>, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3789</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1013,7 +1044,10 @@
     <MainItem>
       <Key>Heaton</Key>
       <Forenames>T.</Forenames>
-      <Text>/Capt. Harry. M.C., Companion, D.S.O</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>923</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1042,7 +1076,10 @@
     <MainItem>
       <Key>Heaton-Ellis</Key>
       <Forenames>Rear-Adml</Forenames>
-      <Text>. Edward Henry Fitzhardinge, C.B., C.BE., M.V.O., Knight Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>6</PageNumber>
     </MainItem>
   </ItemGroup>

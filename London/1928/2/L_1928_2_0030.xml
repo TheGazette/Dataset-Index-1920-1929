@@ -28,7 +28,9 @@
     <MainItem>
       <Key>Rana</Key>
       <Forenames>Bhagat Chand</Forenames>
-      <Text>, Companion, Order of the Star of India</Text>
+      <Text>
+        <Honour>Companion, Order of the Star of India</Honour>
+      </Text>
       <PageNumber>3849</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -36,7 +38,9 @@
     <MainItem>
       <Key>Reed</Key>
       <Forenames>William Henry</Forenames>
-      <Text>, Member of the 5th Class, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3851</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -53,7 +57,9 @@
     <MainItem>
       <Key>Reford</Key>
       <Forenames>John Hope</Forenames>
-      <Text>, M.D., Companion, Order of Saint Michael and Saint George</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3849</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -70,7 +76,9 @@
       <Key>Remnant</Key>
       <Title>Sir</Title>
       <Forenames>James Farqu-</Forenames>
-      <Text>harson, Bt C.B.E., Baron Remnant, of Wenhaston 3845</Text>
+      <Text>
+        <Honour>Bt C.B.E.</Honour>
+      </Text>
       <PageNumber>4411</PageNumber>
     </MainItem>
     <SubItem>
@@ -81,7 +89,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Rennie</Key>
-      <Text>Ernest Amelius, M.V.O., Knight Commander, Order of Saint Michael and Saint George</Text>
+      <Forenames>Ernest Amelius</Forenames>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>3849</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -89,7 +100,9 @@
     <MainItem>
       <Key>Reynolds</Key>
       <Forenames>Leonard William</Forenames>
-      <Text>, CLE., M.C, Companion, Order of the Star of India</Text>
+      <Text>
+        <Honour>Companion, Order of the Star of India</Honour>
+      </Text>
       <PageNumber>3849</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -100,7 +113,9 @@
       </Key>
       <Title>Major</Title>
       <Forenames>Percival Reuben</Forenames>
-      <Text>, O.B.E., Knight Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3854</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -140,7 +155,9 @@
     <MainItem>
       <Key>Roberts</Key>
       <Forenames>Hugh Gordon</Forenames>
-      <Text>, M.D., Companion, Order of the Indian Empire</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3850</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -178,7 +195,9 @@
     <MainItem>
       <Key>Robins</Key>
       <Title>Lieut.</Title>
-      <Text>-Colonel Thomas Ellis, D.S.O., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4264</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -195,7 +214,10 @@
       <Key>Rodd</Key>
       <Title>Sir</Title>
       <Forenames>James Rennell</Forenames>
-      <Text>, G.CB G.C.M.G., G.C.V.O., Member of Parliament for St. Marylebone</Text>
+      <Text>
+        <Honour>CB G.C.M.G.</Honour>
+        <Honour>G.C.V.O.</Honour>
+      </Text>
       <PageNumber>3127</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -211,7 +233,10 @@
     <MainItem>
       <Key>Ross</Key>
       <Forenames>James Stirling</Forenames>
-      <Text>, C.B.E., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3848</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -239,7 +264,14 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Francis William</Forenames>
-      <Text>, Officer, Order of St. John of Jerusalem Sargeant, Raymond Gustave, Member, Order of the British Empire Sargent, Thomas Cornelius, Member, Order of the British Empire Sarson, Colonel John Edward, O.B.E., V.D., T.D., D.L., Companion, Order of the Bath .... Saunders, Rev. Charles John Godfrey, M.A., Bishop of Lucknow de Sausmarez, Sir Havilland Walter, Baronet Savill, John Thomas, Member, Order of the British Empire Sawer, Edward Reginald, Officer, Order of the British Empire Schneider, Gualterus Stewart, Knight Scurlock, Miss Olive Letitia, Member, Order of the British Empire Seale, Cecil Burberry, Unofficial Member of Legislative Council of Nyasaland Protectorate Sebastian, Errol Graham, D.S.O., Vice-Consul in General Consular Service</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>T.D.</Honour>
+        <Honour>D.L.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+        <Honour>Baronet</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3851</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -344,7 +376,10 @@
     <MainItem>
       <Key>Simpkin</Key>
       <Forenames>Oswald Arthur Richard</Forenames>
-      <Text>, C.B., C.B.E., Knight Commander, Order of the Bath</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>3848</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -352,7 +387,9 @@
     <MainItem>
       <Key>Simpson</Key>
       <Forenames>Maurice George</Forenames>
-      <Text>, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3849</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -413,7 +450,10 @@
     <MainItem>
       <Key>Smith</Key>
       <Forenames>Vice-</Forenames>
-      <Text>Admiral Aubrey Clare Hugh, C.B., M.V.O., Knight Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>3851</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -444,7 +484,10 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Lieutenant-</Forenames>
-      <Text>Colonel Frederick William, D.S.O., D.C.M., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>

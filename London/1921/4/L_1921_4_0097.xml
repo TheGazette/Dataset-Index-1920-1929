@@ -110,7 +110,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Cowell</Key>
-      <Text>. temp. 2nd Lt. C. H. G. (rel. commn. on completion of service and retains, rank of 2nd Lt.)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>C. H. G.</Forenames>
+      <Text>(rel. commn. on completion of service and retains, rank of 2nd Lt.)</Text>
       <PageNumber>9875</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -456,7 +458,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>D. A</Forenames>
-      <Text>,, M.C., (resigns commn. and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8037</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -568,7 +572,9 @@
       </Key>
       <Title>temp. 2nd Lt.</Title>
       <Forenames>J.</Forenames>
-      <Text>, M.M. (rel. commn. on completion of service and retains rank of 2nd Lt.)</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>10103</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -580,7 +586,9 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>J. S.</Forenames>
-      <Text>, M.C. (rel. commn. on completion of service and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10353</PageNumber>
     </MainItem>
   </ItemGroup>

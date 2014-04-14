@@ -12,7 +12,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Durham</Key>
-      <Text>the Earl of, K.G., P.C., G.C.V.O., Knight of Justice, St. John of Jerusalem</Text>
+      <Text>
+        <Honour>K.G.</Honour>
+        <Honour>P.C.</Honour>
+        <Honour>G.C.V.O.</Honour>
+      </Text>
       <PageNumber>4544</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -20,7 +24,10 @@
     <MainItem>
       <Key>Dwyer</Key>
       <Forenames>Frederick Conway</Forenames>
-      <Text>, M.D., Knighted ... '</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>4531</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -36,7 +43,9 @@
     <MainItem>
       <Key>Earl</Key>
       <Forenames>Edward Franklyn</Forenames>
-      <Text>, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>4821</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -52,7 +61,9 @@
     <MainItem>
       <Key>Edwards</Key>
       <Forenames>John Bryn</Forenames>
-      <Text>, created j Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>4530</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -84,7 +95,10 @@
     <MainItem>
       <Key>Faifan</Key>
       <Title>Maj.</Title>
-      <Text>the Bt. Lt.-Col. Arthur Joseph Thomas, D.S.O., Officer, Order of the British j Empire</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4694</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -101,7 +115,12 @@
       <Key>Fellowes</Key>
       <Title>The Rt. Hon. Sir</Title>
       <Forenames>Ailwyn Edward</Forenames>
-      <Text>, K.C.V.O., K.B.E., J.P., D.L., M.P., created Baron</Text>
+      <Text>
+        <Honour>K.C.V.O.</Honour>
+        <Honour>K.B.E.</Honour>
+        <Honour>D.L.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4529</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -118,7 +137,9 @@
     <MainItem>
       <Key>Fernando</Key>
       <Forenames>Hilarion Marcus</Forenames>
-      <Text>, M.D., B.Sc, Member of the Executive Council of Ceylon and of Legislative Council</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>4635</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -144,7 +165,9 @@
       <Key>Firth</Key>
       <Title>Sir</Title>
       <Forenames>Algernon Freeman</Forenames>
-      <Text>, Bt., member of Royal Commission on admission of oattle to the United Kingdom for purposes other than for immediate slaughter</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>3843</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -153,7 +176,9 @@
       <Key>Fit-ton</Key>
       <Title>Col.</Title>
       <Forenames>Guy William</Forenames>
-      <Text>, C.M.G., Companion, Order of Bath</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>4532</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -161,7 +186,9 @@
     <MainItem>
       <Key>Fleming</Key>
       <Forenames>Thomas Henry</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>4530</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -180,7 +207,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>H. Morley</Forenames>
-      <Text>, M.D., F.R.C.P., Consulting Staff, H.M. Convalescent Home for Officers, Osborne</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3298</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -198,7 +227,9 @@
     <MainItem>
       <Key>Floud</Key>
       <Forenames>Francis Lewis Castle</Forenames>
-      <Text>, C.B., Knight Commander, Order of Bath</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>4532</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -222,7 +253,9 @@
     <MainItem>
       <Key>Forbes</Key>
       <Forenames>G. A. D. Ogilvie</Forenames>
-      <Text>. (See Ogilvie-Forbes, G. A. D.) Forde, Henrv James, J.P., Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>4531</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -245,7 +278,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Franklen</Key>
-      <Text>'lhomas Mansel, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>4530</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -253,7 +288,9 @@
     <MainItem>
       <Key>Fraser</Key>
       <Forenames>Edward Cleather</Forenames>
-      <Text>, C.M.G., Nominated Member of Council of Government of Mauritius</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>4427</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -264,7 +301,9 @@
       </Key>
       <Title>Capt. Sir</Title>
       <Forenames>John Malcolm</Forenames>
-      <Text>, created Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>4530</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -275,7 +314,10 @@
       </Key>
       <Title>Capt. and Bt. Maj. (T./Lt.Col.)</Title>
       <Forenames>William Archibald Kinneth</Forenames>
-      <Text>, D.S.O., M.C., Bar to D.S.O</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4888</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -283,7 +325,10 @@
     <MainItem>
       <Key>French</Key>
       <Forenames>H. S.</Forenames>
-      <Text>, C.B.E., M.D., F.R.C.P., Consulting Staff, H.M. Convalescent Home for Officers, Osborne</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3298</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -299,7 +344,9 @@
     <MainItem>
       <Key>Galloway</Key>
       <Forenames>David James</Forenames>
-      <Text>, M.D., Unofficial Member of the Legislative Council of the Straits Settlements</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>4825</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -331,7 +378,11 @@
     <MainItem>
       <Key>Cask</Key>
       <Forenames>George E.</Forenames>
-      <Text>, C.M.G., D.S.O., F.R.C.S., Consulting Staff, H.M. Convalescent Home for Officers. Osborne</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>3298</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -340,7 +391,9 @@
       <Key>Gibbs</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>George Abraham</Forenames>
-      <Text>, M.P., Treasurer of His Majesty's Household</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>2990</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -381,7 +434,9 @@
     <MainItem>
       <Key>Glancy</Key>
       <Forenames>Reginald Isidore Robert</Forenames>
-      <Text>, CLE., Companion, Star of India</Text>
+      <Text>
+        <Honour>Companion, Star of India</Honour>
+      </Text>
       <PageNumber>4533</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -397,7 +452,9 @@
     <MainItem>
       <Key>Gold</Key>
       <Forenames>T.</Forenames>
-      <Text>/Lt.-Col. Ernest, D.S.O., Order of the British Empire (corr. of rank)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4376</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -405,7 +462,9 @@
     <MainItem>
       <Key>Conner</Key>
       <Forenames>Edward Carter Kersey</Forenames>
-      <Text>, C.B.E., Knoght Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>4820</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -434,7 +493,10 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Title>Li.</Title>
-      <Text>-Col. (T./Brig.-Gen.) John Lewis Randolph, C.B., Companion, Star of India</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>Companion, Star of India</Honour>
+      </Text>
       <PageNumber>4693</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -442,7 +504,10 @@
     <MainItem>
       <Key>Gore-Browne</Key>
       <Forenames>Francis</Forenames>
-      <Text>, K.G., J.P., Knighted</Text>
+      <Text>
+        <Honour>K.G.</Honour>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>4530</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -467,7 +532,9 @@
     <MainItem>
       <Key>Gourlay</Key>
       <Forenames>William Robert</Forenames>
-      <Text>, CLE., Companion, Star of India</Text>
+      <Text>
+        <Honour>Companion, Star of India</Honour>
+      </Text>
       <PageNumber>4533</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -483,7 +550,9 @@
     <MainItem>
       <Key>Granger</Key>
       <Forenames>His Honour Judge Thomas Colpitis</Forenames>
-      <Text>, J.P., Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>4530</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -517,7 +586,9 @@
     <MainItem>
       <Key>Greenwood</Key>
       <Forenames>George David</Forenames>
-      <Text>, O.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4821</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -528,7 +599,10 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>William Foster</Forenames>
-      <Text>, D.S.O., M.C., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4887</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -536,7 +610,9 @@
     <MainItem>
       <Key>Gregory</Key>
       <Forenames>John Roger Burrow</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>4530</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -545,7 +621,11 @@
       <Key>Greig</Key>
       <Title>Col.</Title>
       <Forenames>James William</Forenames>
-      <Text>, C.B., K.C,, V.D., M.P., Knighted</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>M.P.</Honour>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>4530</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -554,8 +634,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>The</Forenames>
-      <Text>Rt. Rev. John Harold, D.D., Bishop of Gibraltar, Chaplain, Order of St. John of Jerusalem</Text>
+      <Title>The Rt. Rev.</Title>
+      <Forenames>John Harold</Forenames>
+      <Text>, D.D., Bishop of Gibraltar, Chaplain, Order of St. John of Jerusalem</Text>
       <PageNumber>3414</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -563,7 +644,9 @@
     <MainItem>
       <Key>Griffiths</Key>
       <Forenames>Alfred</Forenames>
-      <Text>, M.B., F.R.C.S., Medical Referee under Workmen's Compensation Act</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>2793</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -588,7 +671,10 @@
     <MainItem>
       <Key>Guest</Key>
       <Title>Capt.</Title>
-      <Text>the Rt. Hon. Frederick Edward, C.B.E., D.S.O., H.M. Principal Secretary of State for Air</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>2660</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -612,7 +698,10 @@
     <MainItem>
       <Key>Gwatkin</Key>
       <Forenames>Frank Trelawny Arthur Ashton</Forenames>
-      <Text>. (See Ashton-Gwatkin, F.T.A.) Gwyn-Thomas, Lt.-Col. (T./Brig.Gen.) G., C.M.G., D.S.O., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4696</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -647,7 +736,9 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Percival Stanhope</Forenames>
-      <Text>, O.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4821</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -657,7 +748,9 @@
         <KeyDitto>— ___ ___</KeyDitto>
       </Key>
       <Forenames>William Carby</Forenames>
-      <Text>, O.B.E., ComI mander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4821</PageNumber>
     </MainItem>
   </ItemGroup>

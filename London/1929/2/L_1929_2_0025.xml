@@ -1,39 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="025" pageID="https://www.thegazette.co.uk/id/London/index/year/1929/volume/2/page/025" pagePDF="https://www.thegazette.co.uk/London/index/year/1929/volume/2/page/025" pageRDF="https://www.thegazette.co.uk/London/index/year/1929/volume/2/page/025?view=linked-data" type="index" volume="2" year="1929">
-  <SubItem>
-    <Text>Newcastle-upon-Tyne</Text>
-    <PageNumber>3143</PageNumber>
-  </SubItem>
-  <SubItem>
-    <Text>Railways Act, Order under, Application for Southern Railway</Text>
-    <PageNumber>4128</PageNumber>
-  </SubItem>
-  <SubItem>
-    <Text>Local Inquiries: Rootle</Text>
-    <PageNumber>2240</PageNumber>
-  </SubItem>
-  <SubItem>
-    <Text>Somerset</Text>
-    <PageNumber>3131</PageNumber>
-  </SubItem>
-  <SubItem>
-    <Text>Isle of Wight</Text>
-    <PageNumber>3866</PageNumber>
-  </SubItem>
-  <SubItem>
-    <Text>Tramways Order, application for extension of time, Liverpool</Text>
-    <PageNumber>4282</PageNumber>
-  </SubItem>
-  <SubItem>
-    <Text>
-      <PageNumber>2590</PageNumber>
-    </Text>
-    <PageNumber>3754</PageNumber>
-  </SubItem>
-  <SubItem>
-    <Text>Trial of the Pyx : London Mint</Text>
-    <PageNumber>3122</PageNumber>
-  </SubItem>
+  <ItemGroup>
+    <MainItem>
+      <Key>Transport</Key>
+      <Forenames>Ministiy</Forenames>
+      <Text>of (cont.): London Traffic Act: Regulations under: Parking places</Text>
+      <PageNumber>3027</PageNumber>
+    </MainItem>
+    <SubItem>
+      <Text>Prescribed Routes</Text>
+      <PageNumber>3462</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>Mersey Conservancy Act, 1842, notices</Text>
+      <PageNumber>2698</PageNumber>
+      <PageNumber>3866</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>Local Inquiry, West Riding of Yorkshire</Text>
+      <PageNumber>4032</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>Gloucester</Text>
+      <PageNumber>2780</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>Mynyddislwyn</Text>
+      <PageNumber>4035</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>Newcastle-upon-Tyne</Text>
+      <PageNumber>3143</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>Railways Act, Order under, Application for Southern Railway</Text>
+      <PageNumber>4128</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>Local Inquiries: Rootle</Text>
+      <PageNumber>2240</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>Somerset</Text>
+      <PageNumber>3131</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>Isle of Wight</Text>
+      <PageNumber>3866</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>Tramways Order, application for extension of time, Liverpool</Text>
+      <PageNumber>4282</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>
+        <PageNumber>2590</PageNumber>
+      </Text>
+      <PageNumber>3754</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>Trial of the Pyx : London Mint</Text>
+      <PageNumber>3122</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>at Jerusalem, Atif Bey</Text>
+      <PageNumber>2848</PageNumber>
+    </SubItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Unemployment</Key>
@@ -45,7 +78,8 @@
   <ItemGroup>
     <MainItem>
       <Key>U</Key>
-      <Text>S.A. (cont.): Consuls of : at Dundee, John J. C. Watson</Text>
+      <Forenames>S.A.</Forenames>
+      <Text>(cont.): Consuls of : at Dundee, John J. C. Watson</Text>
       <PageNumber>2848</PageNumber>
     </MainItem>
     <SubItem>
@@ -113,7 +147,12 @@
     </SubItem>
     <SubItem>
       <Text>
+        <Honour>Bt</Honour>
+        <Honour>M.P.</Honour>
         <PageNumber>4353</PageNumber>
+        <Honour>G.C.B.</Honour>
+        <Honour>G.C.M.G.</Honour>
+        <Honour>G.C.V.O.</Honour>
       </Text>
       <PageNumber>3665</PageNumber>
       <PageNumber>4268</PageNumber>
@@ -127,7 +166,9 @@
       <PageNumber>2275</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Temporary Equerry. to, Capt. J. R. Aird, M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>2433</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -142,8 +183,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Walthamstow</Key>
-      <Title>St.</Title>
-      <Forenames>Mary</Forenames>
+      <Forenames>St. Mary</Forenames>
       <Text>'s Girls' Industrial School, Resignation of certificate under Children Act, 1908</Text>
       <PageNumber>3237</PageNumber>
     </MainItem>
@@ -208,7 +248,9 @@
     <MainItem>
       <Key>Willesden</Key>
       <Forenames>Bishop Suffragan</Forenames>
-      <Text>, Rev. Guy VernonSmith, M.C., M.A</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2849</PageNumber>
     </MainItem>
   </ItemGroup>

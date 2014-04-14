@@ -24,7 +24,9 @@
       <Key>Barton</Key>
       <Title>Lt.</Title>
       <Forenames>P. H.</Forenames>
-      <Text>, T.D. (resigns commn.on ceasing to be empld. with a Cadet Bn.)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>1970</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -32,7 +34,9 @@
     <MainItem>
       <Key>Beresford</Key>
       <Title>Lt.</Title>
-      <Text>-.Col. J. B. .de la P., O.B.E. (resigns commn. and retains rank, with. permission to wear prescribed uniform)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>1894</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -49,7 +53,9 @@
       <Key>Crutchley</Key>
       <Title>Capt.</Title>
       <Forenames>E. T.</Forenames>
-      <Text>, O.B.E. (resigns commn. on ceasing to be empld. with a Cadet Bn.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>1970</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -67,7 +73,9 @@
       <Key>Elliot</Key>
       <Title>Lt.</Title>
       <Forenames>F. B.</Forenames>
-      <Text>, O.B.E. (resigns commn. on ceasing to be empld. with Cadet Bns. and retains rank, with permission to wear</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>1894</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -94,7 +102,9 @@
       <Key>Laskey</Key>
       <Title>Lt.</Title>
       <Forenames>F. S.</Forenames>
-      <Text>, M.C. (resigns commn. on ceasing to be empld. witha Cadet Bn.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1970</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -174,7 +184,7 @@
       <PageNumber>20</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Rel. commn. on completion of service and retains rank of Lt.</Text>
+      <Text>Rel. commn. on completion of service and retains rank of Lt</Text>
       <PageNumber>20</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -194,7 +204,7 @@
       <PageNumber>136</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Rel. temp, commn. on completion of service and retains rank of Lt.</Text>
+      <Text>Rel. temp, commn. on completion of service and retains rank of Lt</Text>
       <PageNumber>136</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -212,7 +222,9 @@
       <Key>Bell</Key>
       <Title>temp. Maj.</Title>
       <Forenames>Walker H.</Forenames>
-      <Text>, D.S.O. (temp. Lt.-Col. and Comdt., 4th Can. Divl. Mtd. Troops), Sub. Not</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>355</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -221,7 +233,10 @@
       <Key>Beverley</Key>
       <Title>temp. Capt.</Title>
       <Forenames>R.</Forenames>
-      <Text>, D.S.O., M.C. (rel. commn. on acc. of ill-health, and retains rank of Capt.) -</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1251</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -258,7 +273,9 @@
       <Key>Dunbar</Key>
       <Title>temp. Maj.</Title>
       <Forenames>R. M.</Forenames>
-      <Text>, O.B.E. M.C. (vel. commn. on completion of service and retains rank of Maj.)</Text>
+      <Text>
+        <Honour>O.B.E. M.C.</Honour>
+      </Text>
       <PageNumber>1146</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -266,8 +283,8 @@
     <MainItem>
       <Key>Duncan</Key>
       <Title>temp. 2nd Lt.</Title>
-      <Forenames>H. St</Forenames>
-      <Text>. C. (temp. Lt.) ... .:</Text>
+      <Forenames>H. St. C</Forenames>
+      <Text>. (temp. Lt.) ... .:</Text>
       <PageNumber>552</PageNumber>
     </MainItem>
     <SubItem>
@@ -298,7 +315,9 @@
       <Key>Greenshields</Key>
       <Title>Lt.</Title>
       <Forenames>H.</Forenames>
-      <Text>, M.C. (rel. temp, rank of Capt. on ceasing to be empld. with a Serv. Bn., Br. W.I.R.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1893</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -316,7 +335,9 @@
       <Key>Harragin</Key>
       <Title>temp. Maj. (Maj., Trinidad Local Forces)</Title>
       <Forenames>A. E. A.</Forenames>
-      <Text>, D.S.O. (rel. .temp, oommn. on completion of service and retains rank of Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1359</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -359,7 +380,9 @@
       <Key>Jacobsz</Key>
       <Title>temp. Lt.-Col.</Title>
       <Forenames>J.</Forenames>
-      <Text>. O.B.E. (rel. commn. on completion of service, and retains rank of Lt.Col.) ... _</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>1346</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -482,14 +505,18 @@
       <Key>Thomhill</Key>
       <Title>temp. Lt.</Title>
       <Forenames>M. B.</Forenames>
-      <Text>, M.C. (trd. to Manitoba R., from Gen. List)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1541</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Van</Key>
-      <Text>der Byl, temp. Lt.-Col. V. A. W., O.B.E. (rel. commn. on completion of service, and retains rank of Lt.-Col.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>1351</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -517,7 +544,9 @@
       <Key>Abbott</Key>
       <Title>Maj.</Title>
       <Forenames>R. S.</Forenames>
-      <Text>, M.C. (D.A.A.G.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2001</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -544,7 +573,11 @@
       <Key>Bainbridge</Key>
       <Title>Col. (T./Brig.-Gen.)</Title>
       <Forenames>W. F.</Forenames>
-      <Text>, C.M.G., C.B.E., D.S.O. (Bde. Comdr.) .:</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>C.B.E.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>2000</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -553,7 +586,10 @@
       <Key>Baird</Key>
       <Title>Brig.-Gen.</Title>
       <Forenames>H. B. D</Forenames>
-      <Text>:, C.M.G., CLE., D.S.O. (G.O. Comdg. Bde. Areas, Baluchistan Zhob Area)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>2000</PageNumber>
     </MainItem>
   </ItemGroup>

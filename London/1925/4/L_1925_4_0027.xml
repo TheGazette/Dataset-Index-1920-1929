@@ -10,16 +10,29 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>Rajasabhabhusana</Key>
+      <Forenames>Krishnara-</Forenames>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
+      <PageNumber>0841</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>RajmantraDhurnia</Key>
       <Forenames>Albion Rajkumar Banerji</Forenames>
-      <Text>, G.S.I., C. I.E., Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>6841</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Ram</Key>
-      <Text>. Singh Nehra, Nominated .Indian Unofficial &lt; Member of the Legislative) Council . of Kenva</Text>
+      <Forenames>Singh Nehra</Forenames>
+      <Text>, Nominated .Indian Unofficial &lt; Member of the Legislative) Council . of Kenva</Text>
       <PageNumber>7150</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -28,7 +41,10 @@
       <Key>Reid</Key>
       <Title>Sir</Title>
       <Forenames>Hugh</Forenames>
-      <Text>, Bart.. C.B.E., '. V.D., LL.D., Member^ Boaid of Trustees, National Library of Scotland '</Text>
+      <Text>
+        <Honour>Bart</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>7949</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -37,7 +53,9 @@
       <Key>Robertson</Key>
       <Title>Sir</Title>
       <Forenames>Malcolm Arnold</Forenames>
-      <Text>, K.B.E C.M.G., . H.M. \ Envoy Extraordinary and Minister Plenipotentiaryto the Argentine Republic, and H.M Minister .P-leni-. potentiary to the Republicof Paraguay. '</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>6503</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -47,7 +65,9 @@
         <KeyDitto>—— ___ ___</KeyDitto>
       </Key>
       <Forenames>William Charles Fleming</Forenames>
-      <Text>, . . C.M.G., Governor arid . . Commander-in-Chief of Barbados</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>6995</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -63,7 +83,11 @@
     <MainItem>
       <Key>Rodd</Key>
       <Title>Rt. Hon. Sir James .</Title>
-      <Text>; Rennell G.C.B., G.C.M.G.,. G.C.V.O., Membei of the Council of the British School. , at Rome ... ' ...'</Text>
+      <Text>
+        <Honour>G.C.B.</Honour>
+        <Honour>G.C.M.G.</Honour>
+        <Honour>G.C.V.O.</Honour>
+      </Text>
       <PageNumber>6840</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -105,7 +129,11 @@
       <Key>Seymour</Key>
       <Title>Major</Title>
       <Forenames>Edward</Forenames>
-      <Text>, D. S.O., M.V.O.. O.B.E., Comptroller' to H.R.H. Princess. Victoria</Text>
+      <Text>
+        <Honour>D. S.O.</Honour>
+        <Honour>M.V.O.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>8027</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -145,7 +173,9 @@
     <MainItem>
       <Key>Speck</Key>
       <Forenames>Jolm Laud Jocelyn</Forenames>
-      <Text>, Member, 4th Class, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>7350</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -178,7 +208,9 @@
     <MainItem>
       <Key>Tennant</Key>
       <Title>Lt.</Title>
-      <Text>-Cdr. William George, R.N., Member, 4th Class, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>7350</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -187,7 +219,10 @@
       <Key>Thomas</Key>
       <Title>Sir</Title>
       <Forenames>Godfrey John</Forenames>
-      <Text>. Vignoles; Bt., C.S.I., C. V.O.,Knight Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>7350</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -195,7 +230,13 @@
     <MainItem>
       <Key>Trotter</Key>
       <Title>Brig.</Title>
-      <Text>-Gen Gerald Frederic, C.B., C.M.G., C.B.E., D.S.O., M.V.O., Extra Equerry to H.R.H. . Prince of Wales</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>C.B.E.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>8553</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -203,7 +244,10 @@
     <MainItem>
       <Key>Vans</Key>
       <Forenames>Best</Forenames>
-      <Text>, Thomas Alexander, ' C.M.G., C.B.E., Lt. Governor of Malta</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>8033</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -211,7 +255,10 @@
     <MainItem>
       <Key>Vasantrao</Key>
       <Forenames>Anantrao Dabholkar</Forenames>
-      <Text>, C.B.E., Knighted</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>6841</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -219,7 +266,9 @@
     <MainItem>
       <Key>Venganad</Key>
       <Forenames>Vasudeva Raja Aval</Forenames>
-      <Text>gal, Valiya Nambidi, Raja, CLE., Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>6841</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -227,14 +276,16 @@
     <MainItem>
       <Key>Walters</Key>
       <Forenames>Henry Beauchamp</Forenames>
-      <Text>, O.B.E., F.S.A., Keeper of , . Greek and Roman Antiquities</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>7711</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>W</Key>
-      <Text>.enster, James Alexander, Member, Order of. the . British Empire, appointment cancelled and annulled and name erased from Register in consequence of conviction by Civil Power..:</Text>
+      <Text>enster, James Alexander, Member, Order of. the . British Empire, appointment cancelled and annulled and name erased from Register in consequence of conviction by Civil Power..:</Text>
       <PageNumber>7603</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -251,7 +302,10 @@
       <Key>White</Key>
       <Title>Surg. Cdr.</Title>
       <Forenames>Henry Ellis Yeo</Forenames>
-      <Text>, M.V.O., M.B-., F.R.C.S.(Ed), R.N, Officer,. ' . Order of the British Empire</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>7350</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -399,7 +453,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dowler</Key>
-      <Text>. A. A. B</Text>
+      <Forenames>A. A. B.</Forenames>
       <PageNumber>8643</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -597,8 +651,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donnell, E. H. A. J</Text>
+      <Key>O'Donnell</Key>
+      <Forenames>E. H. A. J.</Forenames>
       <PageNumber>6920</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -764,7 +818,8 @@
   <ItemGroup>
     <MainItem>
       <Key>AVilloughby</Key>
-      <Text>de Broke, Lord</Text>
+      <Forenames>de Broke</Forenames>
+      <Text>, Lord</Text>
       <PageNumber>7951</PageNumber>
     </MainItem>
   </ItemGroup>

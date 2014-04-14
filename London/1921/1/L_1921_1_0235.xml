@@ -5,7 +5,9 @@
       <Key>Seckham</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>D. T.</Forenames>
-      <Text>, D.S.O. (ceases to conid. the 8th Bn., Essex R.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1034</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -14,7 +16,9 @@
       <Key>Seddon</Key>
       <Title>Lt.</Title>
       <Forenames>J.</Forenames>
-      <Text>(brd. to 5th Bn., Loyal R., late M.G.C.)</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>23</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -33,7 +37,9 @@
     <MainItem>
       <Key>Selway</Key>
       <Forenames>Cornelius James</Forenames>
-      <Text>, C.B.E. (Maj., Engineer and Railway Staff Corps)</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>2072</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -97,7 +103,9 @@
       <Key>Sexty</Key>
       <Title>Maj.</Title>
       <Forenames>J. H.</Forenames>
-      <Text>, T.D. (retired, having attained the age limit, and retains rank of Maj., with permission to wear prescribed uniform)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>1776</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -264,14 +272,20 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>G. L.</Forenames>
-      <Text>, D.S.O. (Maj., T.F.R., Infy.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>444</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Sharpies</Key>
-      <Text>. Lt. F. D., O.B.E. (Capt., T.F.R., R.A.S.C.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>F. D.</Forenames>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>1653</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -333,7 +347,9 @@
       </Key>
       <Title>Lfc.</Title>
       <Forenames>D. H.</Forenames>
-      <Text>, M.C. (restd. to T.F.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1441</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -408,7 +424,9 @@
       </Key>
       <Title>2nd Lt.</Title>
       <Forenames>T.</Forenames>
-      <Text>, M.M. (Lt.)</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>1137</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -448,7 +466,9 @@
       <Key>Shawl</Key>
       <Title>2nd Lt.</Title>
       <Forenames>S. D.</Forenames>
-      <Text>, M.M. (resigns commn. and retains rank of 2nd Lt.)</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>775</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -486,7 +506,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>T.</Forenames>
-      <Text>, M.C. (resigns commn. and granted rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1893</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -504,7 +526,9 @@
       <Key>Sheath</Key>
       <Title>Capt.</Title>
       <Forenames>W. A. S.</Forenames>
-      <Text>, O.B.E. (Maj., T.F.R., Infy.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>157</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -513,7 +537,9 @@
       <Key>Shedden</Key>
       <Title>Lt.</Title>
       <Forenames>G. A. S.</Forenames>
-      <Text>, M.C. (resigns oommn. and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2538</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -522,7 +548,12 @@
       <Key>Shee</Key>
       <Title>Mlaj. (octg. Lt.-Col.)</Title>
       <Forenames>M. Archer</Forenames>
-      <Text>, C.M.G., D.S.O. (see Archer-Shee, Maj. (aotg. Lt.Cql.) M., C.M.G., D.S.O.). Sheen, Lt. H. J. M. (resigns commn. and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1252</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -531,7 +562,9 @@
       <Key>Sheldon</Key>
       <Title>Lt.</Title>
       <Forenames>A. T.</Forenames>
-      <Text>, M.M. (trd. to 5th Bn., R. Warwickshire R., late Ser. Bns.) .'</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>553</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -615,7 +648,11 @@
       </Key>
       <Title>Lt.-Col. (Bt.-Col.)</Title>
       <Forenames>W. C</Forenames>
-      <Text>, O.B.E., T.D. (Lt.-Col., Bt. Col., T.F.R., Infy.) '</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>T.D.</Honour>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>453</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -677,7 +714,9 @@
       <Key>Shillaker</Key>
       <Title>Lt.</Title>
       <Forenames>E. C. H.</Forenames>
-      <Text>, M.C. (restd. to unit)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>443</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -695,7 +734,9 @@
       <Key>Shimwell</Key>
       <Title>Lt.</Title>
       <Forenames>G.</Forenames>
-      <Text>, M.M. (resigns commn. and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>766</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -724,7 +765,10 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>H. J.</Forenames>
-      <Text>, C.M.G., T.D. (Lt.-Col.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>1783</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -751,7 +795,9 @@
       <Key>Shott</Key>
       <Title>Lt.</Title>
       <Forenames>C. D.</Forenames>
-      <Text>, M.C. (restd. to T.F.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1439</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -805,7 +851,9 @@
       <Key>Shuttleton</Key>
       <Title>Lt.</Title>
       <Forenames>J. G.</Forenames>
-      <Text>, M.C. (resigns commn. and granted rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>852</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -860,7 +908,9 @@
       <Key>Sime</Key>
       <Title>Maj.</Title>
       <Forenames>W.</Forenames>
-      <Text>, T.D. (trd. to T.F.R., Arty., from 1st Lowland Bde.)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>1130</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -944,7 +994,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>H.</Forenames>
-      <Text>, T.D. (restd. to unit)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>365</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -990,7 +1042,9 @@
       <Key>
         <KeyDitto>___ —</KeyDitto>
       </Key>
-      <Text>t— ___ Lt. R. G., M.C. (trd. to T.F.R., «Infy., from 10th Bn., R. Scots)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>268</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1057,7 +1111,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>1 Lt. R. jJ., M.B.E. (resigns commn. and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>843</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1075,7 +1131,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Sinclair-Lookhart</Key>
-      <Text>. Sir Graeme Duncan Power, Bart. (2nd Lt.)</Text>
+      <Title>Sir</Title>
+      <Forenames>Graeme Dun-</Forenames>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>920</PageNumber>
     </MainItem>
     <SubItem>

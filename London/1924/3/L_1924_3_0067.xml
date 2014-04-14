@@ -21,7 +21,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Martha</Forenames>
+      <Title>Martha .</Title>
       <PageNumber>6946</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -106,7 +106,8 @@
   <ItemGroup>
     <MainItem>
       <Key>English</Key>
-      <Forenames>The Very</Forenames>
+      <Title>The</Title>
+      <Forenames>Very</Forenames>
       <Text>Rev. Canon Edmund</Text>
       <PageNumber>5436</PageNumber>
     </MainItem>
@@ -121,7 +122,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Evans</Key>
-      <Forenames>Canon</Forenames>
+      <Title>Canon</Title>
       <Text>, Arthur Robertson</Text>
       <PageNumber>5219</PageNumber>
     </MainItem>
@@ -185,7 +186,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fairclough</Key>
-      <Forenames>Harold</Forenames>
+      <Title>Harold .</Title>
       <PageNumber>6686</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -397,8 +398,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Foxall</Key>
-      <Forenames>George</Forenames>
-      <Text>... ,</Text>
+      <Title>George .</Title>
+      <Text>.. ,</Text>
       <PageNumber>6815</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -438,14 +439,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Frazer</Key>
-      <Forenames>Catherine</Forenames>
+      <Title>Catherine .</Title>
       <PageNumber>6309</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Freeman</Key>
-      <Forenames>Emily</Forenames>
+      <Title>Emily .</Title>
       <PageNumber>6007</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -454,21 +455,21 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>George</Forenames>
+      <Title>George .</Title>
       <PageNumber>6461</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Freke</Key>
-      <Forenames>Benjamin</Forenames>
+      <Title>Benjamin .</Title>
       <PageNumber>6694</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Frost</Key>
-      <Forenames>Edmund</Forenames>
+      <Title>Edmund .</Title>
       <PageNumber>5223</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -483,7 +484,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Furness</Key>
-      <Forenames>Virginia</Forenames>
+      <Title>Virginia .</Title>
       <PageNumber>6229</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -667,7 +668,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gold</Key>
-      <Forenames>Carolire</Forenames>
+      <Title>Carolire .</Title>
       <PageNumber>6101</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -695,7 +696,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Goodfellow</Key>
-      <Forenames>Sampson</Forenames>
+      <Title>Sampson .</Title>
       <PageNumber>5125</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -809,7 +810,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Grant</Key>
-      <Forenames>John</Forenames>
+      <Title>John .</Title>
       <PageNumber>6547</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -848,7 +849,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>George</Forenames>
+      <Title>George .</Title>
       <PageNumber>5440</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -884,7 +885,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>Dr. W Uiam</Text>
+      <Title>Dr.</Title>
+      <Forenames>W</Forenames>
+      <Text>Uiam</Text>
       <PageNumber>6002</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -907,7 +910,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Greensill</Key>
-      <Text>. Edward Samuel</Text>
+      <Forenames>Edward Samuel</Forenames>
       <PageNumber>6874</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1182,7 +1185,21 @@
       <PageNumber>5129</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Hamilton, John Arthur ... 6813 Hammond, Susannah Isabella Anne 6226 Hampden, Alfred Bertie Hobart, see HobartHampcen, Alfred Bertie</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Hamilton</Key>
+      <Forenames>John Arthur</Forenames>
+      <PageNumber>6813</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Hammond</Key>
+      <Forenames>Susannah Isabella Anne</Forenames>
+      <PageNumber>6226</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <SubCategoryTitle>Hobart, see HobartHampcen, Alfred Bertie</SubCategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>Hanby</Key>
@@ -1193,7 +1210,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hancock</Key>
-      <Text>, homas George</Text>
+      <Text>homas George</Text>
       <PageNumber>6687</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1207,7 +1224,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hankinson</Key>
-      <Text>. John</Text>
+      <Title>John .</Title>
       <PageNumber>6540</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1242,7 +1259,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hardman</Key>
-      <Forenames>Elizabeth</Forenames>
+      <Title>Elizabeth .</Title>
       <PageNumber>6315</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1297,7 +1314,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Janet</Forenames>
+      <Title>Janet .</Title>
       <PageNumber>6607</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1306,7 +1323,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Marianna</Forenames>
+      <Title>Marianna .</Title>
       <PageNumber>6317</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1398,7 +1415,13 @@
       <PageNumber>6390</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Harrop, Jane Pellatt ..</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Harrop</Key>
+      <Forenames>Jane Pellatt</Forenames>
+      <PageNumber>5774</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hart</Key>
@@ -1438,7 +1461,13 @@
       <PageNumber>5219</PageNumber>
     </SubItem>
   </ItemGroup>
-  <SubCategoryTitle>Harvey, Daniel ..</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Harvey</Key>
+      <Title>Daniel .</Title>
+      <PageNumber>6230</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>
@@ -1491,7 +1520,6 @@
       <Forenames>Harriet</Forenames>
       <PageNumber>5365</PageNumber>
     </MainItem>
-    <SubCategoryTitle>Hatton, Joseph ..</SubCategoryTitle>
     <KeyDitto>___ ___ ___</KeyDitto>
     <SubItem>
       <Text>Sarah Annie</Text>
@@ -1556,8 +1584,20 @@
       <PageNumber>7013</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Hellier, Hubert Henry ..</SubCategoryTitle>
-  <SubCategoryTitle>Henderson, William Ritchie ..</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Hellier</Key>
+      <Forenames>Hubert Henry</Forenames>
+      <PageNumber>6820</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Henderson</Key>
+      <Forenames>William Ritchie</Forenames>
+      <PageNumber>6753</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Herbert</Key>
@@ -1623,7 +1663,16 @@
       <PageNumber>5361</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Hillier, Edward Guy, C.M.G</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Hillier</Key>
+      <Forenames>Edward Guy</Forenames>
+      <Text>
+        <Honour>C.M.G</Honour>
+      </Text>
+      <PageNumber>6467</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>
@@ -1661,11 +1710,11 @@
       <PageNumber>6309</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Hitchcock, Amelia Woollard ..</SubCategoryTitle>
   <ItemGroup>
     <MainItem>
-      <Key>Hobart-Hampden</Key>
-      <Forenames>Alfred</Forenames>
+      <Key>Hitchcock</Key>
+      <Forenames>Amelia Woollard</Forenames>
+      <Text>... Hobart-Hampden, Alfred</Text>
       <PageNumber>5443</PageNumber>
     </MainItem>
     <SubItem>
@@ -1715,7 +1764,13 @@
       <PageNumber>6948</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Hogg, Allan Gilbert Mayhew ..</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Hogg</Key>
+      <Forenames>Allan Gilbert Mayhew</Forenames>
+      <PageNumber>6693</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Holland</Key>
@@ -1723,12 +1778,11 @@
       <PageNumber>6947</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Hollebone, Oswald Frederick ..</SubCategoryTitle>
   <ItemGroup>
     <MainItem>
-      <Key>Holroyd</Key>
-      <Title>Dame</Title>
-      <Forenames>Fannie Fether-</Forenames>
+      <Key>Hollebone</Key>
+      <Forenames>Oswald Frederick</Forenames>
+      <Text>... Holroyd, Dame Fannie Fether-</Text>
       <PageNumber>5513</PageNumber>
     </MainItem>
     <KeyDitto>___ ___ ___</KeyDitto>

@@ -4,7 +4,9 @@
     <MainItem>
       <Key>Witney</Key>
       <Forenames>John Humphrey</Forenames>
-      <Text>, M.B.E., Assistant Secretary, British Museum</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>5299</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -22,7 +24,9 @@
       <Key>Woodhouse</Key>
       <Title>Sir</Title>
       <Forenames>Percy</Forenames>
-      <Text>, J.P., D.L., Knight Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.L.</Honour>
+      </Text>
       <PageNumber>4410</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -46,7 +50,9 @@
       <Key>Wrey</Key>
       <Title>Sir</Title>
       <Forenames>Philip Bourchier Sherard</Forenames>
-      <Text>, Bart., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>4415</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -54,7 +60,9 @@
     <MainItem>
       <Key>Wright</Key>
       <Forenames>Alexander Kemp</Forenames>
-      <Text>, C.B.E., Knight Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>4410</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -72,7 +80,9 @@
     <MainItem>
       <Key>Young</Key>
       <Forenames>William Calderwood</Forenames>
-      <Text>, M.C., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4413</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -191,6 +201,13 @@
       <Key>Cuff</Key>
       <Forenames>B .</Forenames>
       <PageNumber>5516</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Fonblanque</Key>
+      <Forenames>P.</Forenames>
+      <PageNumber>5444</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -341,8 +358,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Landou</Key>
-      <Forenames>G.</Forenames>
-      <Text>de L</Text>
+      <Forenames>G. de L</Forenames>
       <PageNumber>5973</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -392,8 +408,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Penfold</Key>
-      <Forenames>H.</Forenames>
-      <Text>de L</Text>
+      <Forenames>H. de L</Forenames>
       <PageNumber>5128</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -521,9 +536,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Pree</Forenames>
-      <Text>, H. D</Text>
+      <Key>De Pree</Key>
+      <Forenames>H. D.</Forenames>
       <PageNumber>4871</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -539,6 +553,13 @@
       <Key>Miers</Key>
       <Forenames>P. R. P</Forenames>
       <PageNumber>6159</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>van Straubenzee</Key>
+      <Forenames>A. W.</Forenames>
+      <PageNumber>5829</PageNumber>
     </MainItem>
   </ItemGroup>
   <SubSectionTitle>Royal Military College</SubSectionTitle>
@@ -573,8 +594,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Storrs</Key>
-      <Forenames>B. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>B. St. J</Forenames>
       <PageNumber>5910</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -38,7 +38,9 @@
     <MainItem>
       <Key>Tieehurst</Key>
       <Forenames>Norman Frederic</Forenames>
-      <Text>, M.B., F.R.C.S., Officer, Order of the British Empiie</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>3807</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -142,7 +144,9 @@
     <MainItem>
       <Key>Tinkley</Key>
       <Forenames>T.</Forenames>
-      <Text>/Capt. Lionel Maughan, M.C., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1378</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -211,7 +215,9 @@
     <MainItem>
       <Key>Todhunter</Key>
       <Forenames>Charles George</Forenames>
-      <Text>, Companion, Star of India</Text>
+      <Text>
+        <Honour>Companion, Star of India</Honour>
+      </Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -236,7 +242,10 @@
       <Key>Tomasson</Key>
       <Title>Capt.</Title>
       <Forenames>William Hugh</Forenames>
-      <Text>, C.B.E., M.V.O., Knight Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>3760</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -253,7 +262,9 @@
       <Key>TomkinBon</Key>
       <Title>Miss</Title>
       <Forenames>Dora Sloane</Forenames>
-      <Text>, &lt; M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3808</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -272,7 +283,9 @@
       </Key>
       <Title>Bt. Maj.</Title>
       <Forenames>Julian Latham</Forenames>
-      <Text>, D.S.O., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3773</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -406,7 +419,9 @@
     <MainItem>
       <Key>Towle</Key>
       <Forenames>Arthur Henry</Forenames>
-      <Text>, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3808</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -416,7 +431,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>William</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>1558</PageNumber>
       <PageNumber>3432</PageNumber>
     </MainItem>
@@ -471,7 +488,9 @@
       <Key>Towse</Key>
       <Title>Capt.</Title>
       <Forenames>Ernest Beachcroft Beckwith</Forenames>
-      <Text>, V.C., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>V.C.</Honour>
+      </Text>
       <PageNumber>3773</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -526,7 +545,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Louis</Forenames>
-      <Text>, O.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3773</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -551,7 +572,9 @@
     <MainItem>
       <Key>Travis</Key>
       <Forenames>Harry</Forenames>
-      <Text>, I.S.O., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>I.S.O</Honour>
+      </Text>
       <PageNumber>3773</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -601,7 +624,9 @@
     <MainItem>
       <Key>Trevelyan</Key>
       <Forenames>George Maeaulay</Forenames>
-      <Text>,O.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3773</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -687,7 +712,9 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Harry Woodward</Forenames>
-      <Text>, O.B.E., Commander, Order of th« British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3773</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -767,8 +794,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tubmann</Key>
-      <Forenames>Francis</Forenames>
-      <Text>de Moag, Officer, Order of the British Empire</Text>
+      <Forenames>Francis de Moag</Forenames>
+      <Text>, Officer, Order of the British Empire</Text>
       <PageNumber>3808</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -819,7 +846,9 @@
     <MainItem>
       <Key>Tudsbery</Key>
       <Forenames>Francis Cannon</Forenames>
-      <Text>, O.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3773</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -914,7 +943,11 @@
       </Key>
       <Title>Lt.-Col. and Bt. Col. (T./Brig.Gen.)</Title>
       <Forenames>Arthur Jervois</Forenames>
-      <Text>, C.M.G., D.S.O., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>1373</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -997,7 +1030,9 @@
       </Key>
       <Title>Miss</Title>
       <Forenames>Ida Mary</Forenames>
-      <Text>, R.R.C., Royal Red Cross, Bar</Text>
+      <Text>
+        <Honour>R.R.C.</Honour>
+      </Text>
       <PageNumber>3998</PageNumber>
     </MainItem>
   </ItemGroup>

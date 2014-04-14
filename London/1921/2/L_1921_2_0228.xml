@@ -4,7 +4,9 @@
     <MainItem>
       <Key>Wynter</Key>
       <Forenames>J. R.</Forenames>
-      <Text>, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>2900</PageNumber>
       <PageNumber>3293</PageNumber>
     </MainItem>
@@ -50,7 +52,9 @@
       <Key>Combe</Key>
       <Title>(Bt, Lt.-Col.)</Title>
       <Forenames>S. B.</Forenames>
-      <Text>, D.S.O., M.C</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3294</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -65,7 +69,9 @@
     <MainItem>
       <Key>Delme-Radcliffe</Key>
       <Forenames>A.</Forenames>
-      <Text>, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>4306</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -81,7 +87,9 @@
     <MainItem>
       <Key>Griffith</Key>
       <Forenames>W. R. C</Forenames>
-      <Text>, M.C. (in cons. of ill health)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2574</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -135,7 +143,9 @@
     <MainItem>
       <Key>Rowlandson</Key>
       <Forenames>H. W.</Forenames>
-      <Text>, C.B.E</Text>
+      <Text>
+        <Honour>C.B.E</Honour>
+      </Text>
       <PageNumber>4305</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -200,7 +210,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Barstow</Key>
-      <Text>; T. C. E., O.B.E. (while sec. in comd. of a Bn.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>2676</PageNumber>
     </MainItem>
     <SubItem>
@@ -262,7 +274,9 @@
     <MainItem>
       <Key>Drummond</Key>
       <Forenames>J.</Forenames>
-      <Text>. G. P., M.C. (rel. actg.. rank on ceasing to be 2nd in comd. of a Bn.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4303</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -290,7 +304,9 @@
     <MainItem>
       <Key>Glass</Key>
       <Forenames>W. B. K.</Forenames>
-      <Text>, M.C. (whilst 2nd in comd. of a Bit.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3936</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -298,7 +314,9 @@
     <MainItem>
       <Key>Gordon</Key>
       <Forenames>D. H.</Forenames>
-      <Text>, D.S.O. (rel. actg. rank on ceasing to he on field service)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>2800</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -306,7 +324,9 @@
     <MainItem>
       <Key>Hornor</Key>
       <Forenames>F. H. F.</Forenames>
-      <Text>, M.C. (whilst sec. in comd. of a Bn.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2573</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -314,7 +334,10 @@
     <MainItem>
       <Key>Jackson</Key>
       <Forenames>M. H.</Forenames>
-      <Text>, D.S.O., M.C. (corr. of date) ,</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2573</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -330,7 +353,9 @@
     <MainItem>
       <Key>Maltby</Key>
       <Forenames>C. M.</Forenames>
-      <Text>, M.C. (rel. actg. rank on ceasing to' be sec. in comd. of a Bn.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2902</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -360,7 +385,9 @@
       <Key>Ommanney</Key>
       <Title>Capt.</Title>
       <Forenames>W. M.</Forenames>
-      <Text>, O.B.E. (rel. actg. rank on ceasing to be 2nd in comd.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>5018</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -384,7 +411,9 @@
     <MainItem>
       <Key>Scott</Key>
       <Forenames>S. C</Forenames>
-      <Text>, M.C. (whilst sec. in comd. of a Bn.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2902</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -413,7 +442,9 @@
     <MainItem>
       <Key>Walkinshaw</Key>
       <Forenames>I. C</Forenames>
-      <Text>, M.C. (whilst 2nd in comd.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3935</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -421,7 +452,9 @@
     <MainItem>
       <Key>Wallis</Key>
       <Forenames>B. H.</Forenames>
-      <Text>, M.C. (while sec. in comd. of a Bn.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2573</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -525,8 +558,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Blakeney</Key>
-      <Forenames>S. R. St</Forenames>
-      <Text>. L</Text>
+      <Forenames>S. R. St. L</Forenames>
       <PageNumber>3093</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1311,8 +1343,8 @@
   <ItemGroup>
     <MainItem>
       <Key>King</Key>
-      <Forenames>E. St</Forenames>
-      <Text>. J., M.C</Text>
+      <Forenames>E. St. J</Forenames>
+      <Text>., M.C</Text>
       <PageNumber>3093</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1322,7 +1354,9 @@
         <KeyDitto>___</KeyDitto>
       </Key>
       <Forenames>L. C</Forenames>
-      <Text>, M.C. (temp, whilst Staff Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2901</PageNumber>
     </MainItem>
   </ItemGroup>

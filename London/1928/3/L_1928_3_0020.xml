@@ -723,8 +723,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>E.</Forenames>
-      <Text>de L</Text>
+      <Forenames>E. de L</Forenames>
       <PageNumber>5640</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1039,7 +1038,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bath</Key>
-      <Text>R, E</Text>
+      <Forenames>R</Forenames>
+      <Text>, E</Text>
       <PageNumber>4822</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1090,7 +1090,9 @@
       <Key>Benn</Key>
       <Title>Sir</Title>
       <Forenames>I. H.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>5839</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1462,7 +1464,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cadogan</Key>
-      <Text>S. C</Text>
+      <Forenames>S. C.</Forenames>
       <PageNumber>4500</PageNumber>
     </MainItem>
   </ItemGroup>

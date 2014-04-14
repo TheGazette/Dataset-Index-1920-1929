@@ -147,7 +147,7 @@
       <PageNumber>9970</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Rel. cominn. and retains rank of Lt</Text>
+      <Text>Rel. cominn. and retains rank of Lt.</Text>
       <PageNumber>10722</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -185,18 +185,22 @@
       <Key>Guillaume</Key>
       <Title>Lt.</Title>
       <Forenames>E.</Forenames>
-      <Text>, M.C. (placed on h.p.. list under Provisions of Article 102 (c) R.W. for Pay and Promotion)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10580</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Guillet</Key>
-      <Text>2nd Lt. A. R. (Lt,)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>A. R.</Forenames>
+      <Text>(Lt,)</Text>
       <PageNumber>10947</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Rel. commn. and retains rank ofLt</Text>
+      <Text>Rel. commn. and retains rank ofLt.</Text>
       <PageNumber>12385</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -214,7 +218,9 @@
       <Key>Guiness</Key>
       <Title>Lt.</Title>
       <Forenames>E. C</Forenames>
-      <Text>, D.S.O. (Capt,)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>12549</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -240,7 +246,10 @@
     <MainItem>
       <Key>Gul</Key>
       <Forenames>Akbar</Forenames>
-      <Text>, Sardar Bahadur. Subadar-Maj., M.C., I.D.S.M. (Hon. Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>D.S.M.</Honour>
+      </Text>
       <PageNumber>11317</PageNumber>
     </MainItem>
     <SubItem>
@@ -341,7 +350,9 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>T. B.</Forenames>
-      <Text>, M.C. (rel. commn. on completion of service and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>11907</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -359,7 +370,9 @@
       <Key>Gunning</Key>
       <Title>temp. Lt.</Title>
       <Forenames>E.</Forenames>
-      <Text>McE., M.C. (rel: commn. on completion of service and granted rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10279</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -415,7 +428,9 @@
       </Key>
       <Title>temp. Capt.</Title>
       <Forenames>J. C</Forenames>
-      <Text>, O.B.E. (rel. commn. on completion of service and retains rank of Maj.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>10376</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -529,7 +544,9 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>W. E.</Forenames>
-      <Text>(M.G.C., Infy) (rel. commn. on completion of service and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>11203</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -579,7 +596,10 @@
       </Key>
       <Title>Col. Sir</Title>
       <Forenames>W. G.</Forenames>
-      <Text>, K.C.M.G., C.B. (placed on ret. pay, having reached the age fixed for compulsory retirement, and granted hon. rank of Maj.-Gen.)</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>12551</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -604,7 +624,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Gwyn-Thomas</Key>
-      <Text>'Lt.-Col. G., C. M.G., D.S.O. (temp. Brig.Gen. whilst Brig.-Comdr. in India)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1577</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -613,7 +635,9 @@
       <Key>Gwyne-Jones</Key>
       <Title>Lt.</Title>
       <Forenames>A.</Forenames>
-      <Text>, D.S.O. (rel. commn. and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>12123</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -622,7 +646,11 @@
       <Key>Gwynn</Key>
       <Title>Col.</Title>
       <Forenames>C. W.</Forenames>
-      <Text>, C.B., C.M.G., D. S.O. (rel. temp, rank of Brig.-Gen. and to be temp. Col. on Staff whilst holding present appt.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D. S.O.</Honour>
+      </Text>
       <PageNumber>12696</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -703,7 +731,9 @@
     <MainItem>
       <Key>Habibullah</Key>
       <Forenames>Khan</Forenames>
-      <Text>, Bahadur, I.D.S.M. (Hon. Subadar-Maj. Lt.)</Text>
+      <Text>
+        <Honour>D.S.M.</Honour>
+      </Text>
       <PageNumber>11329</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -723,7 +753,9 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>W. P.</Forenames>
-      <Text>, M.C. (rel. commn. on completion of service, and retains rank of 2nd Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>11895</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -732,7 +764,9 @@
       <Key>Hacket</Key>
       <Title>Lt.</Title>
       <Forenames>A. G.</Forenames>
-      <Text>, M.C. (placed on h.p.. list)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10062</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -741,7 +775,9 @@
       <Key>Hackett</Key>
       <Title>Capt. (now Maj.)</Title>
       <Forenames>H. M. M.</Forenames>
-      <Text>, M.C. (retains temp, rank as Maj. whilst D.A.Q.M.G. in India)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>11593</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -772,7 +808,9 @@
       <Key>Hacking</Key>
       <Title>Lt.</Title>
       <Forenames>G. P.</Forenames>
-      <Text>, M.C. (rel commn. and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>12373</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -794,7 +832,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>W. T.</Forenames>
-      <Text>, M.C. (rel. commn. and retains rank of Lt.'</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>11784</PageNumber>
     </MainItem>
   </ItemGroup>

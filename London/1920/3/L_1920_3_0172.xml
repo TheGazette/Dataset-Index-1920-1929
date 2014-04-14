@@ -4,7 +4,9 @@
     <MainItem>
       <Key>Humming</Key>
       <Title>Lt.</Title>
-      <Text>, H., O.B.E., (placed on ret. pay, having reached the age fixed for compulsory retirement and granted rank of Maj.) .:</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>7319</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -87,7 +89,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>G. R.</Forenames>
-      <Text>, M.C. (rel. actg. rank of Maj.), Sub. Not</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8360</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -157,7 +161,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>R.</Forenames>
-      <Text>.]&gt;., M.C. (rel. commn. and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7566</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -325,7 +331,10 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Col</Forenames>
-      <Text>, the Hon. W. P. Hore, C. B., C.M.G., D.S.O. (Master of Ruthven) (placed on h.p. list on vacating appt. as Brig.-Comdr., 1st Gds. Brig.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8149</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -380,7 +389,9 @@
       <Key>Ryan</Key>
       <Title>Capt.</Title>
       <Forenames>A. W.</Forenames>
-      <Text>, D.S.O. (rel. actg. rank of Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>9274</PageNumber>
     </MainItem>
     <SubItem>
@@ -414,7 +425,9 @@
       <Key>Rycroft</Key>
       <Title>Maj. (D.O.)</Title>
       <Forenames>F.</Forenames>
-      <Text>, M.B.E. (retires on retd. pay, having attained the age limit for retirement) ' .»</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>7752</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -448,7 +461,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ryeland</Key>
-      <Text>. temp. Qrmr.d Capt. A. E. (Comdt., Soh. of Cookery)</Text>
+      <Title>temp. Qrmr.</Title>
+      <Text>d Capt. A. E. (Comdt., Soh. of Cookery)</Text>
       <PageNumber>9135</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -495,7 +509,9 @@
       <Key>Rynd</Key>
       <Title>Supern. Maj.</Title>
       <Forenames>F. F.</Forenames>
-      <Text>, D.S.O. (restd. to estabt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7824</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -525,7 +541,9 @@
     <MainItem>
       <Key>Sabbatella</Key>
       <Title>2nd Lt. (actg. Capt., now Lt.)</Title>
-      <Text>IF., (D.C.M. (reverts to substantive rank of 2nd Lt.)</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>8683</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -596,15 +614,21 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. Clair, Maj. G. J. IP., D.S.O. (seed, for service with, the T.F.)</Text>
+      <Key>St. Clair</Key>
+      <Title>Maj.</Title>
+      <Forenames>G. J.</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8782</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. John-Smith, Capt. B. G. (rel. commn. and retains rank of Capt.)</Text>
+      <Key>St. John-Smith</Key>
+      <Title>Capt.</Title>
+      <Forenames>B. G.</Forenames>
+      <Text>(rel. commn. and retains rank of Capt.)</Text>
       <PageNumber>9046</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -650,7 +674,9 @@
       <Key>Salier</Key>
       <Title>Bt. Maj.</Title>
       <Forenames>E. L.</Forenames>
-      <Text>, M.C. (temp. Maj. whilst a G.S.O., 2nd Gr.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9292</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -698,7 +724,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>ILt. C. S., M.C. (rel. commn. and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8470</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -729,7 +757,9 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>CaDt. H. M. B., D.S.O. (placed . ' on h.p. list on acc. of illhealth)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>9589</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -749,7 +779,9 @@
       <Key>Salter</Key>
       <Title>Lt.</Title>
       <Forenames>A. E.</Forenames>
-      <Text>, M.C. (seed, for service under the Colonial . Office)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7338</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -814,7 +846,9 @@
     <MainItem>
       <Key>Samut</Key>
       <Title>Lt.</Title>
-      <Text>lA. J.. M.C. (rel. actg. rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9044</PageNumber>
     </MainItem>
   </ItemGroup>

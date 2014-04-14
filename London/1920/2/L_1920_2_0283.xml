@@ -5,7 +5,9 @@
       <Key>Turner</Key>
       <Title>Lt.</Title>
       <Forenames>M. F.</Forenames>
-      <Text>, M.C. (resigns ocmmn. and granted rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7085</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -49,7 +51,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>S.</Forenames>
-      <Text>IW., M.C. (Capt., T.F.R.) '</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5214</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -60,7 +64,9 @@
       </Key>
       <Title>Capt. (actg. Maj. without pay and alkes.)</Title>
       <Forenames>W. A. S.</Forenames>
-      <Text>, M.C. (rel. actg. rank of Maj..)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5078</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -80,7 +86,9 @@
       <Key>Turner</Key>
       <Title>Capt.</Title>
       <Forenames>A. C</Forenames>
-      <Text>, M.C. (Adjt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5460</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -98,18 +106,24 @@
   <ItemGroup>
     <MainItem>
       <Key>Tweddell</Key>
-      <Text>'Lt. R. E. (restd. to estafot. on ceasing to be empld. with M.G.C.)</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>5910</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Twiss</Key>
-      <Text>2nd Lt, F. H. (Lt. and rem. seed., M.G.C.)</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>4031</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Restd. to estabt. on ceasing to be empld. with M.G.C</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>5445</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -118,7 +132,9 @@
       <Key>Twomey</Key>
       <Title>Lb.</Title>
       <Forenames>G</Forenames>
-      <Text>„ W. ( restd. to estabt. on ceasing to be empld. with M.G.C.)</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>5566</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -152,7 +168,9 @@
       <Key>UMyot</Key>
       <Title>Lt.</Title>
       <Forenames>R. D.</Forenames>
-      <Text>(restd. to estabt. on ceasing to be empld. with / M.G.C.)</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>6856</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -161,7 +179,10 @@
       <Key>Umwin</Key>
       <Title>Lt.</Title>
       <Forenames>G. H.</Forenames>
-      <Text>. M.C. (restd. to estabt. on ceasing to be empld. with M.G.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>5460</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -188,14 +209,21 @@
       <Key>Ctteraoni-Kelso</Key>
       <Title>Capt.</Title>
       <Forenames>J</Forenames>
-      <Text>C D.S.O., M.C. (Adjt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4557</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Valentine</Key>
-      <Text>Capt. W. A., M.D. (Maj.)</Text>
+      <Title>Capt.</Title>
+      <Forenames>W. A.</Forenames>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>6171</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -216,17 +244,20 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Duzer</Forenames>
-      <Text>, Lt. F. C. (Capt,)</Text>
+      <Key>Van Duzer</Key>
+      <Title>Lt.</Title>
+      <Forenames>F. C.</Forenames>
+      <Text>(Capt,)</Text>
       <PageNumber>5473</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Milligen</Forenames>
-      <Text>, Lt, R. E. C. (restd. to estabt. on ceasing to be empld. with M.G.C.)</Text>
+      <Key>Van Milligen</Key>
+      <Forenames>Lt</Forenames>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>6171</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -244,7 +275,9 @@
       <Key>Varese</Key>
       <Title>Lt.</Title>
       <Forenames>C. M.</Forenames>
-      <Text>(restd. to eetabt. on ceasing to be empld. ,with M.G.C.)</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>6170</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -271,14 +304,19 @@
       <Key>Veitch</Key>
       <Title>Capt.</Title>
       <Forenames>E. H.</Forenames>
-      <Text>, M.C., T.D. (Adjt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>5566</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Vellemoweth</Key>
-      <Text>Lt. A. C. (restd. to estaibt. onceasing to be empld. with M.G.O.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>A. C.</Forenames>
+      <Text>(restd. to estaibt. onceasing to be empld. with M.G.O.)</Text>
       <PageNumber>5445</PageNumber>
     </MainItem>
     <SubItem>
@@ -299,7 +337,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>T. H.</Forenames>
-      <Text>(restd. to estabt. on ceasing to be empld. with M.G.C.)</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>5444</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -319,7 +359,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>J. W.</Forenames>
-      <Text>(restd., to estaibt. oni ceasing to be empld. with M.G.C.)</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>5703</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -358,7 +400,9 @@
       <Key>Wadeson</Key>
       <Title>Lt.</Title>
       <Forenames>R. A.</Forenames>
-      <Text>, M.C. (rel. commn. on acc. of ill-health, and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6447</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -382,7 +426,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Wailes-Fairburn</Key>
-      <Text>Lt. N. W. F. (Ca.pt,)</Text>
+      <Title>Lt.</Title>
+      <Forenames>N. W. F.</Forenames>
+      <Text>(Ca.pt,)</Text>
       <PageNumber>6984</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -391,7 +437,9 @@
       <Key>Waite</Key>
       <Title>Maj.</Title>
       <Forenames>H.</Forenames>
-      <Text>, T.D. (resigns comma, and retains raink of Maj., with permission to wear uniform)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>6557</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -400,7 +448,10 @@
       <Key>Wakefield</Key>
       <Title>Lt.</Title>
       <Forenames>W. G.</Forenames>
-      <Text>, M.C. (restd. to estabt. on ceasing to be empld. with M.G.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>5472</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -409,7 +460,9 @@
       <Key>Waldron</Key>
       <Title>Lt.</Title>
       <Forenames>W.</Forenames>
-      <Text>(restd. to estabt. on ceasing to be empld. with . M.G.C.)</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>5444</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -418,7 +471,9 @@
       <Key>Wale</Key>
       <Title>Lt.</Title>
       <Forenames>C. W.</Forenames>
-      <Text>(restd. to estabt. on ceasing to ibe empld. with M.G.C.)</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>5580</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -429,7 +484,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>E. H.</Forenames>
-      <Text>(restd. to estabt. on. ceasing to be empld. with M.G.C.)</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>5445</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -438,7 +495,9 @@
       <Key>Waley</Key>
       <Title>Lt.</Title>
       <Forenames>S. D.</Forenames>
-      <Text>, M.C. (resigns commn. and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7076</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -487,7 +546,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>F.</Forenames>
-      <Text>(Lines. Yeo.) (.reetd. to estabb. on ceasinig to (be empld. with M.G.C.)'</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>5473</PageNumber>
     </MainItem>
     <SubItem>
@@ -569,7 +630,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>R. L.</Forenames>
-      <Text>{restd. to estabt. om ©easing to be empld. with M.G.C.)</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>7084</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -590,7 +653,10 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Title>Maij.</Title>
-      <Text>. {actg. Lt.-Col:.) T. H., D.S.O., T.D. (red. actg. rank of Lt.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>5078</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -600,7 +666,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Lt</Forenames>
-      <Text>, W., M.B.E. (trd. to' T.F.R.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>7086</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -611,7 +679,9 @@
       </Key>
       <Title>2nd Lt.</Title>
       <Forenames>W. J. H.</Forenames>
-      <Text>(Lt. and' rem. seed., M.G.C.)</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>5822</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -631,11 +701,15 @@
       <Key>Walkinton</Key>
       <Title>Lt.</Title>
       <Forenames>M. L.</Forenames>
-      <Text>(restd. to estabt. on ceasing to be empld. with M.G.C.)</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>6160</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Restd. to estabt. on ceasing to be empld. with M.G.C. (Sub. Not.)</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>6421</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -655,7 +729,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>R. D. F.</Forenames>
-      <Text>(resbd. bo estabt. oni ceasing to be empld. with M.G.C.)</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>6856</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -675,7 +751,9 @@
       <Key>Wall-JRow</Key>
       <Title>Lt.</Title>
       <Forenames>R. G.</Forenames>
-      <Text>, (restd. to estabb. on ceasing to be empld. with M.G.C.)</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>6161</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -684,7 +762,9 @@
       <Key>Wallace</Key>
       <Title>Lt.</Title>
       <Forenames>A. W.</Forenames>
-      <Text>(resbd. to estabt. on ceasing to be empld. with M.G.C.)</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>5462</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -695,7 +775,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>C. H.</Forenames>
-      <Text>, D.S.O. (Adjt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4213</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -735,7 +817,9 @@
       <Key>Wallage</Key>
       <Title>Lt.</Title>
       <Forenames>H. G.</Forenames>
-      <Text>(restd. to estabt. on ceasing to be empld. with M.G.C.)</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>5445</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -765,7 +849,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>S.</Forenames>
-      <Text>.(restd. to esbabb. on ceasing bo be empld. wibh M.G.C.)</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>5460</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -792,7 +878,10 @@
       <Key>Walmesley</Key>
       <Title>Maj.</Title>
       <Forenames>C. T. J. G.</Forenames>
-      <Text>, D.S.O., M.C. (Lt.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4965</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -819,7 +908,9 @@
       <Key>Walsh</Key>
       <Title>Capt. (Bt. Maj.)</Title>
       <Forenames>J.</Forenames>
-      <Text>, D.S.O. (Adjt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4204</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -857,11 +948,13 @@
       </Key>
       <Title>Capt. and Qrmr.</Title>
       <Forenames>W. R.</Forenames>
-      <Text>, M.C. (Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6910</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Adjt</Text>
+      <Text>Adjt.</Text>
       <PageNumber>6910</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -870,7 +963,9 @@
       <Key>Ward</Key>
       <Title>Maj.</Title>
       <Forenames>B. J.</Forenames>
-      <Text>, T.D. (Lt.-Col.)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>4223</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -881,7 +976,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>B. T.</Forenames>
-      <Text>, M.C. (restd. to estabt,)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4441</PageNumber>
     </MainItem>
   </ItemGroup>

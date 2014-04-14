@@ -47,7 +47,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Carthew</Key>
-      <Text>Yorstonn, Lt. M. A., M.B.E. (restd. to estabt.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>2496</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -66,8 +68,8 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Title>temp. Lt.</Title>
-      <Forenames>E. A. St</Forenames>
-      <Text>. J. (rel. commn. on completion of service and retains rank of Lt.)</Text>
+      <Forenames>E. A. St. J</Forenames>
+      <Text>. (rel. commn. on completion of service and retains rank of Lt.)</Text>
       <PageNumber>1372</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -98,7 +100,10 @@
       </Key>
       <Title>Col.</Title>
       <Forenames>G. N.</Forenames>
-      <Text>, C.M.G., D.S.O. (rel. temp, rank of Col. Comdt. on ceasing to be empld. as a C.R.A., India)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>2025</PageNumber>
     </MainItem>
     <SubItem>
@@ -146,7 +151,9 @@
       </Key>
       <Title>Lt. and Pavmr. (temp. Capt.)</Title>
       <Forenames>R. B.</Forenames>
-      <Text>, O.B.E. (Cant.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -168,7 +175,9 @@
       </Key>
       <Title>temp. 2nd Lt.</Title>
       <Forenames>T. W.</Forenames>
-      <Text>, M.M. (rel. commn. on completion of service and retains rank of 2nd Lt.)</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>1576</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -205,7 +214,9 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Caryer</Forenames>
-      <Text>, temp. Capt. G. T., O.B.E. (actg. Maj.), Sub. Not,</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>1679</PageNumber>
     </MainItem>
     <SubItem>
@@ -213,7 +224,7 @@
       <PageNumber>2320</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>Rel. commn. on completion of service and granted rank of Maj</Text>
+      <Text>Rel. commn. on completion of service and granted rank of Maj.</Text>
       <PageNumber>2320</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -249,7 +260,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Edward</Forenames>
-      <Text>, M.C. (Qrmr. and Lt., Reg. Armyries, of Off., Gen. List, late temp. Qrmr. and Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>705</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -378,14 +391,18 @@
       <Key>Castelletti</Key>
       <Title>Capt.</Title>
       <Forenames>J. Contino Teuma</Forenames>
-      <Text>, M.V.O. (rel. commn. and granted hon. rank of Maj., with permission to wear prescribed uniform)</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>2398</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Castle</Key>
-      <Text>. Lt. Arthur Frederick (Lt., Reg. Army Res. of Off., Regtl. List, Leic. R, late Serv. Bn.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>Arthur Frederick</Forenames>
+      <Text>(Lt., Reg. Army Res. of Off., Regtl. List, Leic. R, late Serv. Bn.)</Text>
       <PageNumber>2315</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -396,7 +413,9 @@
       </Key>
       <Title>temp. 2nd Lt.</Title>
       <Forenames>E. J.</Forenames>
-      <Text>, M.M. (rel. commn. on completion of service and retains rank of 2nd Lt.)</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>910</PageNumber>
     </MainItem>
   </ItemGroup>

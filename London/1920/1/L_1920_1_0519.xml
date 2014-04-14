@@ -61,7 +61,9 @@
       <Key>Roberts-IWray</Key>
       <Title>Capt.</Title>
       <Forenames>T. H.</Forenames>
-      <Text>, O.B.E</Text>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>722</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -89,7 +91,10 @@
     <MainItem>
       <Key>Aubrey</Key>
       <Forenames>Skjda</Forenames>
-      <Text>, Leader H. iA. R., O.B.E., M.C. (temp. S.O., 2nd CI., Q.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>201</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -98,7 +103,9 @@
       <Key>Bottomley</Key>
       <Title>Flight Lt.</Title>
       <Forenames>N.</Forenames>
-      <Text>. H., A.F.C. (temp. S.O., 2nd CI. '(Air)</Text>
+      <Text>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>333</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -116,7 +123,9 @@
       <Key>Cherry</Key>
       <Title>Flight Lt.</Title>
       <Forenames>E. W. F.</Forenames>
-      <Text>, O.B.E. (temp. S.O., 2nd CI., Q. and actg. Sqdn. (Leader)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>637</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -150,7 +159,9 @@
       <Key>Hamilton</Key>
       <Title>Sqdn.</Title>
       <Forenames>Leader B. H. N. H.</Forenames>
-      <Text>, D.S.O. (temp. S.O., l»t CI., T.) -</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1265</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -159,7 +170,9 @@
       <Key>Maton</Key>
       <Title>Capt.</Title>
       <Forenames>W. H. G.</Forenames>
-      <Text>, M.B.E. (temp. S.O., 2nd CI., Q. and actg. Maj.), ;Sub. Not</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>984</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -167,7 +180,9 @@
     <MainItem>
       <Key>Pitcher</Key>
       <Forenames>Air Commodore D. Le G.</Forenames>
-      <Text>, O.M.G., D.S.O. (temp. Dep. Dir., let CI.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1946</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -192,7 +207,9 @@
       <Key>Songhurat</Key>
       <Title>Flight Lt.</Title>
       <Forenames>F. H.</Forenames>
-      <Text>, M.B.E. (temp. S.O., 3rd Ol., Q.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>1426</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -441,7 +458,10 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>2nd iLt. J. L., M.B.E., D.S.M. (trd. to unempld. list)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+        <Honour>D.S.M.</Honour>
+      </Text>
       <PageNumber>1566</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -524,7 +544,9 @@
       <Key>Adkmns</Key>
       <Title>Capt.</Title>
       <Forenames>W. J.</Forenames>
-      <Text>, M.B.E. (trd, to unempld. list)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>1693</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -607,7 +629,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Aiitkf</Key>
-      <Text>.m, Slid Lt. A. H. (Not. in Gaz. ill Apr., 1919, cancelled)</Text>
+      <Text>m, Slid Lt. A. H. (Not. in Gaz. ill Apr., 1919, cancelled)</Text>
       <PageNumber>535</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -679,7 +701,10 @@
         <KeyDitto>___ ___ .</KeyDitto>
       </Key>
       <Title>Lt.</Title>
-      <Text>-CW. W., C.M.G., D.S.O. (trdi. to lunempld. lost;</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>966</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -769,7 +794,9 @@
     <MainItem>
       <Key>Allardyee</Key>
       <Forenames>Canadian</Forenames>
-      <Text>Cadet R. De L. (Hon. 2nd Lt.) ... .:. Allien, Flying Offr. C. E. H., D.F.C. (placed on h.p. fat)</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>561</PageNumber>
     </MainItem>
     <SubItem>
@@ -1068,7 +1095,9 @@
       </Key>
       <Title>Obsvr. Offr.</Title>
       <Forenames>A. Melvin</Forenames>
-      <Text>, D.F.C. (granted short serv.commn.)</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>201</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1118,8 +1147,8 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Title>Lt.</Title>
-      <Forenames>F. St</Forenames>
-      <Text>. K. (trd. to unempld. list)</Text>
+      <Forenames>F. St. K</Forenames>
+      <Text>. (trd. to unempld. list)</Text>
       <PageNumber>1693</PageNumber>
     </MainItem>
   </ItemGroup>

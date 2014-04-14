@@ -257,7 +257,9 @@
     <MainItem>
       <Key>Welsh</Key>
       <Forenames>A. C. R.</Forenames>
-      <Text>, M.C. (retains actg. rank whilst Adjt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1835</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -362,7 +364,9 @@
         <KeyDitto>___</KeyDitto>
       </Key>
       <Forenames>W. T.</Forenames>
-      <Text>, M.C. (rel. actg. rank)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2474</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -461,7 +465,9 @@
     <MainItem>
       <Key>Wrigley</Key>
       <Forenames>H.</Forenames>
-      <Text>, M.C. (rel. actg. rank on ceasing to be Adjt., 8 July,</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1696</PageNumber>
     </MainItem>
     <SubItem>
@@ -784,14 +790,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Blackwell</Key>
-      <Text>. J. N</Text>
+      <Forenames>J. N</Forenames>
       <PageNumber>1267</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Bott</Key>
-      <Text>. F. G</Text>
+      <Forenames>F. G</Forenames>
       <PageNumber>1267</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -844,7 +850,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Burge</Key>
-      <Text>. N. B</Text>
+      <Forenames>N. B</Forenames>
       <PageNumber>986</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -923,21 +929,21 @@
   <ItemGroup>
     <MainItem>
       <Key>Champion</Key>
-      <Text>. H. S</Text>
+      <Forenames>H. S .</Forenames>
       <PageNumber>1951</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Christa</Key>
-      <Text>.. F. A</Text>
+      <Text>. F. A</Text>
       <PageNumber>337</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Clapp</Key>
-      <Text>. CD</Text>
+      <Text>CD</Text>
       <PageNumber>1694</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -951,7 +957,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Coath</Key>
-      <Text>. P. S. (temp.)</Text>
+      <Forenames>P. S.</Forenames>
+      <Text>(temp.)</Text>
       <PageNumber>1834</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -972,7 +979,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Coleman</Key>
-      <Text>. CM</Text>
+      <Text>CM</Text>
       <PageNumber>986</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -995,7 +1002,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Coney</Key>
-      <Text>. G. A</Text>
+      <Forenames>G. A</Forenames>
       <PageNumber>1834</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1011,7 +1018,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Coombs</Key>
-      <Text>. E. W. G. (temp.)</Text>
+      <Forenames>E. W. G.</Forenames>
+      <Text>(temp.)</Text>
       <PageNumber>3541</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1123,7 +1131,9 @@
     <MainItem>
       <Key>Dart</Key>
       <Forenames>L. V.</Forenames>
-      <Text>, M.C. (corr. of date of promn.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1694</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1227,14 +1237,14 @@
   <ItemGroup>
     <MainItem>
       <Key>lJ</Key>
-      <Text>.om.iny, F. C</Text>
+      <Text>om.iny, F. C</Text>
       <PageNumber>3678</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Donnelly</Key>
-      <Text>. H. R</Text>
+      <Forenames>H. R .</Forenames>
       <PageNumber>2913</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1295,7 +1305,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Evereitt</Key>
-      <Text>. V. F. (temp.)</Text>
+      <Forenames>V. F.</Forenames>
+      <Text>(temp.)</Text>
       <PageNumber>337</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1344,8 +1355,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fegan</Key>
-      <Forenames>J. A.</Forenames>
-      <Text>de C</Text>
+      <Forenames>J. A. de C</Forenames>
       <PageNumber>986</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1648,7 +1658,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hayes</Key>
-      <Text>. A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>20</PageNumber>
     </MainItem>
   </ItemGroup>

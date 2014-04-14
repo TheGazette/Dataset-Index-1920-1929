@@ -188,7 +188,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>J.</Forenames>
-      <Text>, O.B.E. (resigns commn. and granted rank of</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>6315</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -199,7 +201,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>J. R.</Forenames>
-      <Text>, M.C. (resigns commn. and retains rank of</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6385</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -221,7 +225,10 @@
       </Key>
       <Title>Maj.-Gen.</Title>
       <Forenames>S. R.</Forenames>
-      <Text>, C.B., C.M.G</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G</Honour>
+      </Text>
       <PageNumber>6718</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -243,7 +250,9 @@
       <Key>Davies</Key>
       <Title>Capt.</Title>
       <Forenames>A.</Forenames>
-      <Text>, C.B.E. (resigns commn. and retains rank of</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>6384</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -495,7 +504,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>W.</Forenames>
-      <Text>, O.B.E. (temp. Maj. while Sec. Sales Board, Base, Basra)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>5209</PageNumber>
     </MainItem>
     <SubItem>
@@ -602,7 +613,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>W. H. H.</Forenames>
-      <Text>, M.C. (resigns conimn. and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6314</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -645,8 +658,8 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Title>Lt.</Title>
-      <Forenames>R. F. O</Forenames>
-      <Text>'H. F. (resigns commn. and retains rank of Lt.)</Text>
+      <Forenames>R. F. O'H</Forenames>
+      <Text>. F. (resigns commn. and retains rank of Lt.)</Text>
       <PageNumber>6387</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -692,8 +705,17 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Courcy Peele</Forenames>
+      <Key>de Clermont</Key>
+      <Title>Capt.</Title>
+      <Forenames>A. C.</Forenames>
+      <Text>(resigns commn. and retains rank of Capt.)</Text>
+      <PageNumber>6384</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Courcy</Key>
+      <Forenames>Peele</Forenames>
       <Text>, Capt. C. R., see Peele, Capt. C. R. De Courcy. de Courcy Pock, Capt. J., see Pock,Capt. J. de Courcy. De Gale, Lt. H. O. (resigns commn. and retains rank of Lt.)</Text>
       <PageNumber>6387</PageNumber>
     </MainItem>
@@ -715,25 +737,28 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Morgan</Forenames>
-      <Text>, 2nd Lt. A. C. (resigns commn. and retains rank of 2nd Lt.)</Text>
+      <Key>De Morgan</Key>
+      <Title>2nd Lt.</Title>
+      <Forenames>A. C.</Forenames>
+      <Text>(resigns commn. and retains rank of 2nd Lt.)</Text>
       <PageNumber>6584</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Silva</Forenames>
-      <Text>, 2nd Lt. E. H. (resigns commn. and retains rank of 2nd Lt.)</Text>
+      <Key>De Silva</Key>
+      <Title>2nd Lt.</Title>
+      <Forenames>E. H.</Forenames>
+      <Text>(resigns commn. and retains rank of 2nd Lt.)</Text>
       <PageNumber>6585</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Vos</Forenames>
-      <Text>, Lt. J. P. (resigns commn. and retains rank of Lt.)</Text>
+      <Key>De Vos</Key>
+      <Title>Lt.</Title>
+      <Forenames>J. P.</Forenames>
+      <Text>(resigns commn. and retains rank of Lt.)</Text>
       <PageNumber>6388</PageNumber>
     </MainItem>
   </ItemGroup>

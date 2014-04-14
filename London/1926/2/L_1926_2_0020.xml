@@ -4,7 +4,10 @@
     <MainItem>
       <Key>Shute</Key>
       <Forenames>Lieutenant-General</Forenames>
-      <Text>Sir Cameron Deane, K.C.B., K.C.M.G., Lieutenant of the Tower of London</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>K.C.M.G.</Honour>
+      </Text>
       <PageNumber>3019</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -47,7 +50,9 @@
     <MainItem>
       <Key>Somers</Key>
       <Forenames>Lieutenant-</Forenames>
-      <Text>Colonel, the Rt. Hon. Lord, D.S.O., M.C, Knight Commander, Order of Saint Michael and Saint George</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>2462</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -106,7 +111,9 @@
       <Key>Strange</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Edward Fair-</Forenames>
-      <Text>brother, C.B.E., authority under Emergency Regulations</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>3180</PageNumber>
       <PageNumber>3181</PageNumber>
     </MainItem>
@@ -114,8 +121,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Strathearn</Key>
-      <Forenames>Lieut-</Forenames>
-      <Text>Colonel John Calderwood O.B.E. M.D., F.R.C.S.Ed., Knight of Grace, Order of St. John of Jerusalem</Text>
+      <Title>Lieut-Colonel</Title>
+      <Forenames>John Calderwood</Forenames>
+      <Text>
+        <Honour>O.B.E. M.D.</Honour>
+      </Text>
       <PageNumber>4037</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -184,7 +194,9 @@
       <Key>Thomas</Key>
       <Title>Capt.</Title>
       <Forenames>Morgan</Forenames>
-      <Text>, O.B.E., authority under Emergency Regulations</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3180</PageNumber>
       <PageNumber>3181</PageNumber>
     </MainItem>
@@ -212,7 +224,10 @@
       <Key>Tilley</Key>
       <Title>Rt. Hon. Sir</Title>
       <Forenames>John Anthony Cecil</Forenames>
-      <Text>, K.C.M.G., C.B., H.M. Ambassador Extraordinary nnd Plenipotentiary to H.M. Emperor of Japan</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>3565</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -244,7 +259,9 @@
     <MainItem>
       <Key>Vasantrao</Key>
       <Forenames>Anantrao Dabhol-</Forenames>
-      <Text>kar, C.B.E., Knight</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>2429</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -295,7 +312,9 @@
     <MainItem>
       <Key>Waterlow</Key>
       <Forenames>Sydney Philip Peri-</Forenames>
-      <Text>gal, C.B.E., H.M. Envoy Extraordinary and Minister Plenipoteniary to H.M. King of Siam</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>3565</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -304,7 +323,9 @@
       <Key>Watt</Key>
       <Title>Lieut.</Title>
       <Forenames>John Oglivie</Forenames>
-      <Text>, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3453</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -313,7 +334,10 @@
       <Key>Wheatley</Key>
       <Title>Brig. Gen.</Title>
       <Forenames>Leonard Lane</Forenames>
-      <Text>, C.M.G., D.S.O., H.M. Body Guard</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3217</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -386,7 +410,9 @@
     <MainItem>
       <Key>Woodhouse</Key>
       <Forenames>Horace Marton</Forenames>
-      <Text>, C.B.E., authority under Emergency Regulations</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>3180</PageNumber>
       <PageNumber>3181</PageNumber>
     </MainItem>
@@ -406,7 +432,10 @@
       </Key>
       <Title>Colonel Sir</Title>
       <Forenames>Charles Ed-</Forenames>
-      <Text>ward, Bt., C.S.I., C.M.G., Knight, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>4037</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -431,7 +460,11 @@
       <Key>Young</Key>
       <Title>Rt. Hon.</Title>
       <Forenames>Edward Hil-</Forenames>
-      <Text>ton, D.S.O., D.S.C., M.P., Member of General Council of Medical Education and Registration</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>D.S.C.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>3562</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -441,7 +474,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Meredith</Forenames>
-      <Text>, M.D., Esquire, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>4038</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -765,7 +800,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hawksley</Key>
-      <Text>. R. P. T</Text>
+      <Forenames>R. P. T.</Forenames>
       <PageNumber>2552</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -969,8 +1004,7 @@
     <MainItem>
       <Key>Radcliffe</Key>
       <Title>Sir</Title>
-      <Forenames>P. P.</Forenames>
-      <Text>de B</Text>
+      <Forenames>P. P. de B</Forenames>
       <PageNumber>2552</PageNumber>
     </MainItem>
   </ItemGroup>

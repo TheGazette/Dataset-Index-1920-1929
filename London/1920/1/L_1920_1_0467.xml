@@ -385,7 +385,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Henshaw</Key>
-      <Text>. terhp. 2nd Lt. T. R. (rel. coniimn. and to be Hon. 2nd Lt.)</Text>
+      <Text>terhp. 2nd Lt. T. R. (rel. coniimn. and to be Hon. 2nd Lt.)</Text>
       <PageNumber>1198</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -498,7 +498,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hewit</Key>
-      <Text>. temp. Capt. and 2nd in Comd. jr. (rel. eomroin., and to be Hon. Capt )</Text>
+      <Title>temp. Capt.</Title>
+      <Text>and 2nd in Comd. jr. (rel. eomroin., and to be Hon. Capt )</Text>
       <PageNumber>1798</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -601,7 +602,9 @@
       </Key>
       <Title>temp. Capt.</Title>
       <Forenames>T. W.</Forenames>
-      <Text>. M.D. (rel. commn., and to be Hon. Capt.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>2030</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -961,7 +964,9 @@
         <KeyDitto>___ ___ .</KeyDitto>
       </Key>
       <Title>temp.</Title>
-      <Text>dept. T. W., M.D. (rel. commn., and to be Hon. Capt..)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3300</PageNumber>
     </MainItem>
   </ItemGroup>

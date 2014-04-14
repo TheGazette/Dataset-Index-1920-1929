@@ -405,7 +405,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mullins</Key>
-      <Text>. Canadian Cadet G. S. (Hon. 2nd Lt.)</Text>
+      <Forenames>Canadian</Forenames>
+      <Text>Cadet G. S. (Hon. 2nd Lt.)</Text>
       <PageNumber>3540</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -702,7 +703,9 @@
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Flying Offr</Forenames>
-      <Text>. Frank, M.B.E. (graded for pay and allces. as Flight Lt., Gr. A.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>839</PageNumber>
     </MainItem>
     <SubItem>
@@ -917,7 +920,10 @@
       </Key>
       <Title>2nd Lt.</Title>
       <Forenames>R. C</Forenames>
-      <Text>, D.C.M., M.M. (Lt.)</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>2073</PageNumber>
     </MainItem>
     <SubItem>

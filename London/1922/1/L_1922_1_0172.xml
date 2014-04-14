@@ -3,7 +3,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Mcintosh</Key>
-      <Text>. Lt. Robert John Philip (Lt., Reg. Army Res. of Off., Regtl. List, Devon E., late Serv. Bn.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>Robert John Philip</Forenames>
+      <Text>(Lt., Reg. Army Res. of Off., Regtl. List, Devon E., late Serv. Bn.)</Text>
       <PageNumber>2397</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -210,7 +212,9 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>W.</Forenames>
-      <Text>McN., MM. (rel. commn. on completion of service and retains rank . of 2nd Lt.)</Text>
+      <Text>
+        <Honour>MM</Honour>
+      </Text>
       <PageNumber>1067</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -227,7 +231,9 @@
     <MainItem>
       <Key>McKechnie</Key>
       <Forenames>Lt</Forenames>
-      <Text>, A., D.C.M. (retires, receiving a gratuity), Sub. Not</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>791</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -302,7 +308,9 @@
       <Key>Mackenzie</Key>
       <Title>temp. 2nd Lt.</Title>
       <Forenames>A.</Forenames>
-      <Text>, D.C.M.) (Seaforth) (rel. commn. on completion of service and retains rank of 2nd Lt.)</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>1170</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -353,7 +361,9 @@
       <Key>Mackenzie</Key>
       <Title>Maj.</Title>
       <Forenames>C. A.</Forenames>
-      <Text>, M.C. (Maj., Reg. Army Res. of Off., Regtl. List, Inf., R.A.O.C., late R.A.O.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1919</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -373,7 +383,9 @@
       <Key>McKenzie</Key>
       <Title>Capt.</Title>
       <Forenames>Donald</Forenames>
-      <Text>, M.C. (Capt., Reg. Army Res. of Off., Regtl. List, K.O.S.B., late Spec. Res.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2497</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -382,7 +394,10 @@
       <Key>Mackenzie</Key>
       <Title>Capt.</Title>
       <Forenames>Donald W. M.</Forenames>
-      <Text>, M.B. (Lt. and temp. Capt., R.A.M.C., late R.A.M.C., Spec Res.), Sub. Not</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>537</PageNumber>
     </MainItem>
     <SubItem>
@@ -407,7 +422,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>Eric F. W.</Forenames>
-      <Text>, O.B.E., M.C, M.B. (rel. temp, rank of Maj. on ceasing to be spec, empld.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>1565</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -425,7 +442,9 @@
       <Key>Mackenzie</Key>
       <Title>Col.</Title>
       <Forenames>E. L.</Forenames>
-      <Text>, CLE., D.S.O. (retires on ret. pay)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>258</PageNumber>
     </MainItem>
   </ItemGroup>

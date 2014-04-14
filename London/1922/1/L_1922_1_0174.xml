@@ -14,7 +14,10 @@
       <Key>MeLoughlin</Key>
       <Title>Col.</Title>
       <Forenames>George S.</Forenames>
-      <Text>, C.M.G., D.S.O., M.B. (Maj.. Gen.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1565</PageNumber>
     </MainItem>
     <SubItem>
@@ -77,7 +80,9 @@
       </Key>
       <Title>temp. 2nd Lt.</Title>
       <Forenames>J.</Forenames>
-      <Text>, M.M. (rel. commn. on completion of service and retains rank of 2nd Lt.)</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>1584</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -206,7 +211,10 @@
   <ItemGroup>
     <MainItem>
       <Key>McMurray</Key>
-      <Text>. Lt, R., M.C. (Lt., Reg. Army Res. of Off., R.egtl. List, R. Corps of Sigs., late R.E.)</Text>
+      <Forenames>Lt</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1066</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -217,14 +225,18 @@
       </Key>
       <Title>temp. 2nd Lt.</Title>
       <Forenames>T. A.</Forenames>
-      <Text>, M.M. (vel. commn. on completion of service and retains rank of 2nd Lt.)</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>1170</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>McMyn</Key>
-      <Text>. temp. 2nd Lt. W. (rel. commn. on completion of service and retains rank of 2nd Lt.)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>W.</Forenames>
+      <Text>(rel. commn. on completion of service and retains rank of 2nd Lt.)</Text>
       <PageNumber>710</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -272,7 +284,11 @@
       <Key>Macnaghten</Key>
       <Title>Lt.-Col. (Bt. Col.) (Hon. Brig.-Gen.) (ret. pay)</Title>
       <Forenames>E. B.</Forenames>
-      <Text>, C.M.G., D.S.O., A.D.C. (Col., Reg. Army Res. of Off., Gen. List, from R.H. and R.F.A., and retains hon. rank of Brig.-Gen.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>A.D.C.</Honour>
+      </Text>
       <PageNumber>1796</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -318,7 +334,10 @@
     <MainItem>
       <Key>McNalty</Key>
       <Title>Lt.-Col. (Hon. Brig.Gen.)</Title>
-      <Text>(Maj. and Bt. Lt.-Col., ret. payj A. G. P., C.M.G., C. B.E. (Col., Reg. Army Res. of Off., Gen. List, from R.A.S.C., and retains hon. rank of Brig.-Gen.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>1797</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -375,7 +394,9 @@
       <Key>Macnaughton</Key>
       <Title>temp. Chapln., 4th CI., Rev.</Title>
       <Forenames>J. M.</Forenames>
-      <Text>, M.C. (rel. commn.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>711</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -455,7 +476,9 @@
       <Key>McNiven</Key>
       <Title>temp. 2nd Lt.</Title>
       <Forenames>W.</Forenames>
-      <Text>, M.M. (rel. .commn. on completion of service and retains rank of 2nd Lt.)</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>127</PageNumber>
     </MainItem>
   </ItemGroup>

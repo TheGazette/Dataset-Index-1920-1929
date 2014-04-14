@@ -711,17 +711,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Crespigny</Forenames>
-      <Text>, C. M. O</Text>
+      <Key>De Crespigny</Key>
+      <Forenames>C. M. O.</Forenames>
       <PageNumber>6249</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Havilland</Forenames>
-      <Text>, G. R</Text>
+      <Key>De Havilland</Key>
+      <Forenames>G. R.</Forenames>
       <PageNumber>7074</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -815,9 +813,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Boulay</Forenames>
-      <Text>, G. G. H</Text>
+      <Key>Du Boulay</Key>
+      <Forenames>G. G. H.</Forenames>
       <PageNumber>7309</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1575,8 +1572,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Knox</Key>
-      <Forenames>W. O</Forenames>
-      <Text>'B</Text>
+      <Forenames>W. O'B</Forenames>
       <PageNumber>6250</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1636,7 +1632,9 @@
       <Key>Leslie</Key>
       <Title>Sir</Title>
       <Forenames>N. R. A. D.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6693</PageNumber>
       <PageNumber>6693</PageNumber>
     </MainItem>
@@ -1723,8 +1721,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McClosky</Key>
-      <Forenames>A. L. St</Forenames>
-      <Text>. A</Text>
+      <Forenames>A. L. St. A</Forenames>
       <PageNumber>7074</PageNumber>
       <PageNumber>7074</PageNumber>
     </MainItem>

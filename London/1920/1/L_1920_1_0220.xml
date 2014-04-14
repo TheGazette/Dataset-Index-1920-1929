@@ -20,7 +20,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Beverleyi</Key>
-      <Text>lit. F., M.C. (rel. aotg. rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2307</PageNumber>
     </MainItem>
     <SubItem>
@@ -85,7 +87,9 @@
       <Key>Berwsher</Key>
       <Title>Maj. (late temp. lit.-Col.)</Title>
       <Forenames>W. D.</Forenames>
-      <Text>, D.S.O. (Lt.^Col., Gen. Res. of Offrs.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3263</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -94,7 +98,9 @@
       <Key>Beynon</Key>
       <Title>Col.</Title>
       <Forenames>H. L. N.</Forenames>
-      <Text>, C.M.G. (retires on ret. pay and igramited! 'hion. rank of Brig.-Gen.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>1925</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -183,7 +189,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Biddle</Key>
-      <Text>temp, idapt. E., M.C. (rel. actg. rank of Maj.). Sub. Ndfl</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>169</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -211,11 +219,14 @@
       <Key>Biddulph</Key>
       <Title>Lt.</Title>
       <Forenames>A. J.</Forenames>
-      <Text>, O.B.E.. M.C. (rel. actg. rank ofiOa.pt.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1906</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Retires, receiving a gratuity and granted rank of Capf</Text>
+      <Text>Retires, receiving a gratuity and granted rank of Capf.</Text>
       <PageNumber>1906</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -242,7 +253,9 @@
       <Key>Biggam</Key>
       <Title>Capt.</Title>
       <Forenames>J.</Forenames>
-      <Text>, M.C., M.B. (seed, for serv. with Esrvptian Army), Sub. Not</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>170</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -318,7 +331,9 @@
       <Key>Bilhiam</Key>
       <Title>temp. 2nd Lt.</Title>
       <Forenames>J. E.</Forenames>
-      <Text>, M.M. (rel, commn. on completion of service and retains iranfc of 2nd Lt.)</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>2167</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -379,7 +394,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Billinltlon</Key>
-      <Text>temp Lt.JCoI. L., C.B.E. (rel. commm. on completion of service and retains rank of Lt.Col.)</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>3744</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -405,7 +422,9 @@
       <Key>Biltom</Key>
       <Title>Sister Miss</Title>
       <Forenames>C. T.</Forenames>
-      <Text>, R.R.C. (resigns appt., Q.A.I.M.N.S.)</Text>
+      <Text>
+        <Honour>R.R.C.</Honour>
+      </Text>
       <PageNumber>1360</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -423,7 +442,9 @@
       <Key>Binge</Key>
       <Title>temp. Lt.</Title>
       <Forenames>J. W.</Forenames>
-      <Text>, M.C. (rel. . commn. on. completion of service and granted rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2732</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -432,7 +453,10 @@
       <Key>Bingham</Key>
       <Title>Maj.-Gen. the Hon. Sir</Title>
       <Forenames>C. E.</Forenames>
-      <Text>, G.C.M.G., O.B., C.V.O. (retiras on ret. pav)</Text>
+      <Text>
+        <Honour>G.C.M.G.</Honour>
+        <Honour>C.V.O.</Honour>
+      </Text>
       <PageNumber>2570</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -464,7 +488,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Title>temp. Lt.</Title>
-      <Text>-Coli. S., D.S.O. (rel. commn. on. comi&gt;letion of service and regains rank of Lt. -Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1064</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -488,7 +514,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Binns</Key>
-      <Text>. Lt. (late temp. Capt.)' A. (R.G.A.) (in.ln.cedi on ret. list on adc. of illJtieailth caused by Wounds and granted rank of Capt.)</Text>
+      <Title>Lt. (late temp. Capt.)</Title>
+      <Text>' A. (R.G.A.) (in.ln.cedi on ret. list on adc. of illJtieailth caused by Wounds and granted rank of Capt.)</Text>
       <PageNumber>1075</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -506,11 +533,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Biirbeck</Key>
-      <Text>. Lt. E. G., M.C. (restd. to estaibt.) ... _</Text>
+      <Title>Lt.</Title>
+      <Forenames>E. G.</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>816</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Seed, ifor service with R.A.F</Text>
+      <Text>Seed, ifor service with R.A.F.</Text>
       <PageNumber>2045</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -529,8 +560,8 @@
         <KeyDitto>___ .</KeyDitto>
       </Key>
       <Title>2nd Lt.</Title>
-      <Forenames>A. O</Forenames>
-      <Text>'C. (Lt.)</Text>
+      <Forenames>A. O'C</Forenames>
+      <Text>. (Lt.)</Text>
       <PageNumber>2851</PageNumber>
     </MainItem>
     <SubItem>
@@ -585,7 +616,7 @@
       <PageNumber>1194</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Resigns comimn. a.nd retains rank of Lt</Text>
+      <Text>Resigns comimn. a.nd retains rank of Lt.</Text>
       <PageNumber>1521</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -594,7 +625,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>1 Lt.-Gen. Sir J. F. N., K.C.M.G., OB. (Col. Comdt.. R.A.)</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+      </Text>
       <PageNumber>2437</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -603,7 +636,9 @@
       <Key>Birch</Key>
       <Title>temp. Lt.-Col.</Title>
       <Forenames>J. G.</Forenames>
-      <Text>, D.S.O. (rel. commin. and retains rank of Lt.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>2849</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -618,7 +653,7 @@
       <PageNumber>910</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>iRel. comian, on acc. of illhealth, and granted rank of iLt.-Col</Text>
+      <Text>iRel. comian, on acc. of illhealth, and granted rank of iLt.-Col.</Text>
       <PageNumber>1056</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -629,7 +664,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>W. R.</Forenames>
-      <Text>, M.C. (resigns comimn. and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2309</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -700,7 +737,9 @@
       </Key>
       <Title>temp. Capt.</Title>
       <Forenames>G. F.</Forenames>
-      <Text>, M.C., M.B. '(rel. actg. rank of Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3631</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -800,7 +839,9 @@
         <KeyDitto>— ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Capt R. I. V.</Forenames>
-      <Text>, M.C. (restd. to estabt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1775</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -811,7 +852,9 @@
       </Key>
       <Title>Maj.-Gen. Sir</Title>
       <Forenames>W. H.</Forenames>
-      <Text>, K.C.B., C.iM.G. (retires on ret. pay)</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+      </Text>
       <PageNumber>2151</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -822,7 +865,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>G. E.</Forenames>
-      <Text>, M.C. (rel. commn. and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3749</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -847,7 +892,9 @@
       <Key>Birney</Key>
       <Title>Bt.</Title>
       <Forenames>Lt</Forenames>
-      <Text>,-Col. C. F., D.S.O. .(temp. Lt.-Col. whilst Asst</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3422</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -867,7 +914,9 @@
       </Key>
       <Title>Lt. (temp. Capt.)</Title>
       <Forenames>W.</Forenames>
-      <Text>, M.C. (having reached the age limit is placed on ret. pay and granted wink of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4003</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -899,14 +948,19 @@
       <Key>Biachoff</Key>
       <Title>Lt.</Title>
       <Forenames>T. H.</Forenames>
-      <Text>, M.C. (resigns coramn. and granted rank of .Capt,)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3623</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Bisdee</Key>
-      <Text>.Cfl.pt, T. E., D.S.O., M.C. (restd. to estalbt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>488</PageNumber>
     </MainItem>
     <SubItem>

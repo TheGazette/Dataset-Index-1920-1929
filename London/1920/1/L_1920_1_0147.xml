@@ -21,7 +21,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Lee</Key>
-      <Text>of Eareham, the Right Hon. Lord, G.B.E., K.C.B., Minister of Agriculture and Fisheries</Text>
+      <Text>
+        <Honour>G.B.E.</Honour>
+        <Honour>K.C.B.</Honour>
+      </Text>
       <PageNumber>340</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -81,7 +84,9 @@
     <MainItem>
       <Key>Lees</Key>
       <Forenames>Kenneth Arthur</Forenames>
-      <Text>, F.R.C.S., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>1238</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -118,7 +123,9 @@
       <Key>Legg</Key>
       <Title>Capt.</Title>
       <Forenames>George Edward Wick-</Forenames>
-      <Text>ham, M.V.O., Knight Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>3759</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -126,7 +133,9 @@
     <MainItem>
       <Key>Leggett</Key>
       <Forenames>Henry Aufrere</Forenames>
-      <Text>, O.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3768</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -141,8 +150,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Leigh</Key>
-      <Forenames>Alan</Forenames>
-      <Text>de Verd, Member, Order of the British Empire</Text>
+      <Forenames>Alan de Verd</Forenames>
+      <Text>, Member, Order of the British Empire</Text>
       <PageNumber>3844</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -200,7 +209,9 @@
       <Key>Leighton</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Gerald Rowley</Forenames>
-      <Text>, M.D., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3794</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -227,7 +238,9 @@
     <MainItem>
       <Key>Lendrum</Key>
       <Forenames>John Black</Forenames>
-      <Text>, M.D., CM., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3794</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -292,7 +305,9 @@
       </Key>
       <Title>Lt.-Col. (Hon. Col.) Sir</Title>
       <Forenames>John</Forenames>
-      <Text>, Bart., Commander, Order of the British Empire (corr. of unit)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>3999</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -319,7 +334,9 @@
     <MainItem>
       <Key>Lett</Key>
       <Forenames>Hugh</Forenames>
-      <Text>, M.B., F.R.C.S., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>1237</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -328,7 +345,10 @@
       <Key>Lever</Key>
       <Title>Sir</Title>
       <Forenames>Samuel Hardman</Forenames>
-      <Text>, K.C.B., created Baronet</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
       <PageNumber>3432</PageNumber>
     </MainItem>
@@ -364,7 +384,11 @@
       <Key>Lewin</Key>
       <Title>Maj. and Bt. Lt.-Col.</Title>
       <Forenames>Ernest Ord</Forenames>
-      <Text>, C.M.G., D.S.O., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>1376</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -444,7 +468,9 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Frederick Orr</Forenames>
-      <Text>, created Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -495,7 +521,9 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Llewelyn</Forenames>
-      <Text>, M.D., J.P., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3974</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -536,7 +564,9 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Thomas</Forenames>
-      <Text>, M.D., F.R.C.P., F.R.S., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>1237</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -730,7 +760,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Eugenie Josephine</Forenames>
-      <Text>, Mrs., O.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3768</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -742,7 +774,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>Lionel Arthur</Forenames>
-      <Text>, M.V.O., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>3794</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -752,7 +786,9 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>William Joseph</Forenames>
-      <Text>, M.D., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>1238</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -830,7 +866,9 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Thomas David</Forenames>
-      <Text>, M.D., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>1237</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -839,7 +877,10 @@
       <Key>Little</Key>
       <Title>Capt.</Title>
       <Forenames>Charles James Cole-</Forenames>
-      <Text>brooke, C.B., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>2859</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -848,7 +889,9 @@
       <Key>Livesey</Key>
       <Title>Sir</Title>
       <Forenames>Harry</Forenames>
-      <Text>, K.B.E., Knight Grand Cross, Order of the British Empire</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+      </Text>
       <PageNumber>3757</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -873,7 +916,9 @@
     <MainItem>
       <Key>Llewellyn</Key>
       <Forenames>Frederick Allen</Forenames>
-      <Text>. M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3794</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -883,7 +928,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>William Ewart</Forenames>
-      <Text>, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3794</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -901,7 +948,9 @@
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Christopher</Forenames>
-      <Text>, Member, 5th Cl. Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>6</PageNumber>
     </MainItem>
     <SubItem>
@@ -935,7 +984,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Francis Seymour</Forenames>
-      <Text>, M.D., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3794</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -987,7 +1038,9 @@
       </Key>
       <Title>Lt.-Col.</Title>
       <Forenames>John Daniel</Forenames>
-      <Text>, T.D., L.R.C.P., M.R.C.S., J.P., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>3844</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1026,7 +1079,10 @@
       <Key>Lloyd-Greame</Key>
       <Title>Maj.</Title>
       <Forenames>Philip</Forenames>
-      <Text>, M.C., M.P., Knight Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>375</PageNumber>
     </MainItem>
     <SubItem>

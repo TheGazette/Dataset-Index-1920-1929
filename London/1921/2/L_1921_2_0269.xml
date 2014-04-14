@@ -658,9 +658,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Aldecocea</Forenames>
-      <Text>, S., and Co</Text>
+      <Key>De Aldecocea</Key>
+      <Forenames>S.</Forenames>
+      <Text>, and Co</Text>
       <PageNumber>4585</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -845,7 +845,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fleming</Key>
-      <Text>Frederick, and Co</Text>
+      <Forenames>Frederick</Forenames>
+      <Text>, and Co</Text>
       <PageNumber>2939</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -983,7 +984,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gerrard</Key>
-      <Text>Alfred Henry, Bickford, Nicholas Seymour and Bevis, Harold</Text>
+      <Forenames>Alfred Henry</Forenames>
+      <Text>, Bickford, Nicholas Seymour and Bevis, Harold</Text>
       <PageNumber>5052</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1442,7 +1444,9 @@
     <MainItem>
       <Key>Holloway</Key>
       <Forenames>W.</Forenames>
-      <Text>A.E., and Co</Text>
+      <Text>
+        <Honour>A.E.</Honour>
+      </Text>
       <PageNumber>5052</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1789,7 +1793,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Knight</Key>
-      <Forenames>The Misses</Forenames>
+      <Title>The</Title>
+      <Forenames>Misses</Forenames>
       <PageNumber>4584</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1918,7 +1923,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Limerick</Key>
-      <Text>Countess of</Text>
+      <Forenames>Countess</Forenames>
+      <Text>of</Text>
       <PageNumber>3134</PageNumber>
     </MainItem>
   </ItemGroup>

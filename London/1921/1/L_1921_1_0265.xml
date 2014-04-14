@@ -4,7 +4,9 @@
     <MainItem>
       <Key>Livingston</Key>
       <Title>Lt.</Title>
-      <Text>-Col (actg. Brig.Gen.) Guy, C.M.G. (rel. temp, commn. on appt. to T.F.R.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>1373</PageNumber>
     </MainItem>
     <SubItem>
@@ -76,7 +78,10 @@
       <Key>Lowe</Key>
       <Title>Flight Lt.</Title>
       <Forenames>Cyril Nelson</Forenames>
-      <Text>, M.C., D.F.C. (granted short serv. commn. for three years on the active list)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>781</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -129,7 +134,9 @@
       <Key>Lumley</Key>
       <Title>Flight Lt.</Title>
       <Forenames>Eric Alfred</Forenames>
-      <Text>, M.C., M.B. (granted perm. commn.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2095</PageNumber>
     </MainItem>
     <SubItem>
@@ -310,7 +317,9 @@
       <Key>MaoKenzie</Key>
       <Title>Flight Lt.</Title>
       <Forenames>Warren Rawson</Forenames>
-      <Text>, D.F.C. (placed on (h.p., Scale B.)</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>1373</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -326,7 +335,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Mack</Key>
-      <Text>worth, Lt.-Col. John Dolben, \ C.B.E. (rel. temp, commn. on acc. of ill-health contracted on active service, and granted . rank of Col), Sub. Not</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>2096</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -335,7 +346,11 @@
       <Key>MacLaren</Key>
       <Title>Sqdn.</Title>
       <Forenames>Leader Donald Roderick</Forenames>
-      <Text>, D.S.O., M.C., D.F.C. (resigns perm, commn. and retains rank of Maj.), Sub. Not</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>692</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -441,7 +456,9 @@
       <Key>Mansell</Key>
       <Title>Flight Lt.</Title>
       <Forenames>Reginald Baynes</Forenames>
-      <Text>, O.B.E. (restd. to active list)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>781</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -535,14 +552,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Mawbey</Key>
-      <Text>. Flying Offr. Lawrence Walter (rel. short serv. commn. on acc. of ill-health contracted in the service, and retains rank of Lt.)</Text>
+      <Forenames>Flying Offr</Forenames>
+      <Text>. Lawrence Walter (rel. short serv. commn. on acc. of ill-health contracted in the service, and retains rank of Lt.)</Text>
       <PageNumber>1283</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Maxwell</Key>
-      <Text>. Lt. Francis Severn (trd. to unempld. list), Sub. Note</Text>
+      <Title>Lt.</Title>
+      <Forenames>Francis Severn</Forenames>
+      <Text>(trd. to unempld. list), Sub. Note</Text>
       <PageNumber>377</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -553,7 +573,11 @@
       </Key>
       <Title>Flight Lt.</Title>
       <Forenames>Gerald Joseph Constable</Forenames>
-      <Text>, M.C.. D.F.C., A.F.C. (resigns perm, commn., and granted rank of Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>D.F.C.</Honour>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>2095</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -607,7 +631,9 @@
     <MainItem>
       <Key>Meynell</Key>
       <Forenames>Flying Offr</Forenames>
-      <Text>. E., D.C.M. (granted perm, commn., and retains subst. rank)</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>184</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -616,7 +642,9 @@
       <Key>Millar</Key>
       <Title>Sqdn.</Title>
       <Forenames>Leader Exley Living-</Forenames>
-      <Text>ston, M.B.E. (rel. perm. ' commn. on acc. of ill-health contracted in the service, and retains rank of Maj.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>949</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -662,7 +690,9 @@
       </Key>
       <Title>Flight Lt.</Title>
       <Forenames>Thomas Coates</Forenames>
-      <Text>, M.C. (granted perm, commn. for Aoct. duties)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>949</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -726,7 +756,11 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Title>Lt.</Title>
-      <Text>-CoL William Gore, Sutherland, D.S.O., M.C., A.F.C. . (graded for pay and allces. as Col. (Staff))</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>1582</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -742,7 +776,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mcn</Key>
-      <Text>.ro, 2nd Lt. R. W. (Lt.)</Text>
+      <Text>ro, 2nd Lt. R. W. (Lt.)</Text>
       <PageNumber>63</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -847,14 +881,16 @@
       <PageNumber>781</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Placed at head of list of Flying and Obsvr. Offrs.</Text>
+      <Text>Placed at head of list of Flying and Obsvr. Offrs</Text>
       <PageNumber>781</PageNumber>
     </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Moynagh-Bloom</Key>
-      <Text>. Cadet Charles (Hon. 2nd Lt.)</Text>
+      <Title>Cadet</Title>
+      <Forenames>Charles</Forenames>
+      <Text>(Hon. 2nd Lt.)</Text>
       <PageNumber>1191</PageNumber>
     </MainItem>
   </ItemGroup>

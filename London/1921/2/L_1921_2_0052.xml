@@ -3,7 +3,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Beckwith</Key>
-      <Text>Smith, Capt. M. B., D.S.O., M.C. (temp. Maj. .whilst G.S.O., 2nd Gr.)</Text>
+      <Forenames>Smith</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2983</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -30,7 +34,10 @@
       <Key>Beddy</Key>
       <Title>Col.</Title>
       <Forenames>P. L.</Forenames>
-      <Text>, C.M.G., D.S.O. (date of promn. to Col.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>2969</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -226,7 +233,10 @@
       <Key>Bell</Key>
       <Title>Maj.</Title>
       <Forenames>A. H.</Forenames>
-      <Text>, D.S.O., O.B.E. (R.E.) (actg. Lt.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3978</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -248,7 +258,10 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>D. W.</Forenames>
-      <Text>, M.C. (rel. appt. . of Adjt. on ceasing to be empld. with M.G.C., Infy.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>4258</PageNumber>
     </MainItem>
     <SubItem>
@@ -262,7 +275,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Title>temp. Lt.</Title>
-      <Text>. F.,. M.C. (rel. . commn. on completion of service, and retains rank of . Lt.) ... '</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3350</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -293,7 +308,9 @@
       </Key>
       <Title>temp. Maj.</Title>
       <Forenames>G. G.</Forenames>
-      <Text>, O.B.E. (rel. commn. on completion of service, and retains rank of Maj.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3829</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -359,7 +376,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>J. R.</Forenames>
-      <Text>, D.F.C. (resigns commn. on appt. to perm commn. in R.A.F.)</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>3988</PageNumber>
     </MainItem>
   </ItemGroup>

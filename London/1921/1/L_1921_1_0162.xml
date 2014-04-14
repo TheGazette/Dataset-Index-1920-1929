@@ -76,7 +76,9 @@
       </Key>
       <Title>temp. Capt.</Title>
       <Forenames>Z. B.</Forenames>
-      <Text>, O.B.E. (rel. commn. on completion of service and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>1973</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -85,7 +87,16 @@
       <Key>Ruthven</Key>
       <Title>Lt.-Col. the Hon.</Title>
       <Forenames>A. G. A. Hore</Forenames>
-      <Text>, V.C., C.B., C.M.G., D.S.O. (see Hore-Ruthven, Lt.Col. the Hon. A. G. A., V.C., C.B., C.M.G., D.S.O.) Rutledge, Lt., C. J. (rel. commn. and. retains rank of Lt.)</Text>
+      <Text>
+        <Honour>V.C.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>V.C.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1349</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -94,7 +105,9 @@
       <Key>Ruxton</Key>
       <Title>temp. Maj.</Title>
       <Forenames>R. M. C</Forenames>
-      <Text>, O.B.E. (rel. commn. on completion of service and retains rank of Maj.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>19</PageNumber>
     </MainItem>
     <SubItem>
@@ -120,7 +133,9 @@
       </Key>
       <Title>temp. Chapln., 4th CI., Rev.</Title>
       <Forenames>W. J.</Forenames>
-      <Text>, O.B.E. (Cbapln., 4th CI.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>761</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -167,7 +182,10 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>E. N.</Forenames>
-      <Text>, M.B.E., D.C.M. (seed, for service on the Staff)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>140</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -241,7 +259,9 @@
       <Key>Sadler</Key>
       <Title>Lt.</Title>
       <Forenames>H.</Forenames>
-      <Text>, M.C. (rel. commn. and granted rank of Oa.pt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1043</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -252,7 +272,10 @@
       </Key>
       <Title>Supern. Maj.</Title>
       <Forenames>H. K.</Forenames>
-      <Text>, D.S.O., M.C. (restd. to estabt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>351</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -322,28 +345,36 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>. Barbe, temp. Lt. F. (rel. oammn. on completion of ser' vice and retains rank of Lt.)</Text>
+      <Forenames>Barbe</Forenames>
+      <Text>, temp. Lt. F. (rel. oammn. on completion of ser' vice and retains rank of Lt.)</Text>
       <PageNumber>1259</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. Bernards-Bryan, temp. Ca.pt. C. G. (rel. commn. on completion of service and retains rank of Capt.)</Text>
+      <Key>St. Bernards-Bryan</Key>
+      <Title>temp. Ca.</Title>
+      <Text>pt. C. G. (rel. commn. on completion of service and retains rank of Capt.)</Text>
       <PageNumber>1686</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. Clair, Supern. Maj. G. J. P., D.S.O. (restd. to estabt.)</Text>
+      <Key>St. Clair</Key>
+      <Title>Supern. Maj.</Title>
+      <Forenames>G. J. P.</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>2163</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. Hill, Lt. H. (rel. commn. and retains rank of Lt.)</Text>
+      <Key>St. Hill</Key>
+      <Title>Lt.</Title>
+      <Forenames>H.</Forenames>
+      <Text>(rel. commn. and retains rank of Lt.)</Text>
       <PageNumber>681</PageNumber>
     </MainItem>
     <KeyDitto>___ ___</KeyDitto>
@@ -370,7 +401,9 @@
       </Key>
       <Title>Bt. Col.</Title>
       <Forenames>R. S.</Forenames>
-      <Text>, CLE., D.S.O. (retains temp, rank of BrigGen, whilst Comdt., Administrative Base in India)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>681</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -381,14 +414,17 @@
       </Key>
       <Title>Maj. (Bt. Col.) (temp. Brig.Gen.)</Title>
       <Forenames>R. S.</Forenames>
-      <Text>, CLE., D.S.O. (Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1525</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. Knight, I.O.W. and Maj. H. (aotg. S.I.O.W. and Lt.-Col.)</Text>
+      <Key>St. Knight</Key>
+      <Forenames>I.O.W.</Forenames>
+      <Text>and Maj. H. (aotg. S.I.O.W. and Lt.-Col.)</Text>
       <PageNumber>774</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -397,7 +433,9 @@
       <Key>Salier</Key>
       <Title>Capt. and Bt. Maj.</Title>
       <Forenames>E. L.</Forenames>
-      <Text>, M.C. (temp. Maj. for service with W. Afr. Fron. Force)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>353</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -468,7 +506,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>S. A.</Forenames>
-      <Text>, M.C. (rel. aotg. rank of Capt. on ceasing to be Adjt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>548</PageNumber>
     </MainItem>
     <SubItem>
@@ -481,7 +521,11 @@
       <Key>Salmond</Key>
       <Title>Lt.-Col. Sir</Title>
       <Forenames>W. G. H.</Forenames>
-      <Text>, K.C.M.G., C.B., D.S.O. (resigns commri. on appt. to perm. commn. in R.A.F.)</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>446</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -499,7 +543,10 @@
       <Key>Salt</Key>
       <Title>Bt. Col.</Title>
       <Forenames>H. F.</Forenames>
-      <Text>. C.M.G., D.S.O. (Col., from Maj.. R.A.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1649</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -573,8 +620,8 @@
     <MainItem>
       <Key>Salusbury-Trelawny</Key>
       <Title>temp. Capt.</Title>
-      <Forenames>L. D. St</Forenames>
-      <Text>. A. (rel. commn. on completion, of service and granted rank of Maj.)</Text>
+      <Forenames>L. D. St. A</Forenames>
+      <Text>. (rel. commn. on completion, of service and granted rank of Maj.)</Text>
       <PageNumber>565</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -583,7 +630,9 @@
       <Key>Salvesen</Key>
       <Title>temp. Capt.</Title>
       <Forenames>C. A.</Forenames>
-      <Text>, M.C. (rel. commn. on completion of service and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1142</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -621,7 +670,9 @@
       <Key>Sampson</Key>
       <Title>temp. Capt.</Title>
       <Forenames>J. D.</Forenames>
-      <Text>, M.C. (rel. commn. on completion of service and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>773</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -632,7 +683,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>W. H.</Forenames>
-      <Text>, M.C. (rel. temp. rank of Capt., Tank Corps)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>135</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -681,7 +734,11 @@
       <Key>Sandels</Key>
       <Title>temp. Lt.</Title>
       <Forenames>C. A. Anglesea</Forenames>
-      <Text>, M.B.E.; M.C (see AngleseaSandels, temp. Lt. C. A., M.B.E., M.C.). Sandeman, temp. 2nd Jjt. D. G. (rel. commn. on completion of service and retains rank of 2nd Lt.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+        <Honour>M.B.E.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2294</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -740,7 +797,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Sand</Key>
-      <Text>ford, Maj. and Bt. Lt.-Col. D. A., D.S.O. (placed on h.p. list)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1964</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -793,7 +853,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Sanford</Key>
-      <Text>. Lt. A. J. (rel. aotg. rank of Capt.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>A. J.</Forenames>
+      <Text>(rel. aotg. rank of Capt.)</Text>
       <PageNumber>1042</PageNumber>
     </MainItem>
   </ItemGroup>

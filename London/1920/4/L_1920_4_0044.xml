@@ -44,7 +44,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Van</Key>
-      <Text>de Pol, Florence Clara, Mrs., Member, Order of the British Empire</Text>
+      <Forenames>de Pol</Forenames>
+      <Text>, Florence Clara, Mrs., Member, Order of the British Empire</Text>
       <PageNumber>10614</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -60,7 +61,10 @@
     <MainItem>
       <Key>Venables</Key>
       <Forenames>Harry Archbutt</Forenames>
-      <Text>, O.B.E., I.S.O., Commander, Order of the British Empire,</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>I.S.O</Honour>
+      </Text>
       <PageNumber>11556</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -93,7 +97,9 @@
     <MainItem>
       <Key>Wade</Key>
       <Forenames>Francis Richard</Forenames>
-      <Text>, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>10612</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -191,14 +197,20 @@
   <ItemGroup>
     <MainItem>
       <Key>Walsh</Key>
-      <Text>Sub-Condr. James Edward, Member, Order of the British Empire</Text>
+      <Forenames>Sub-Condr</Forenames>
+      <Text>. James Edward, Member, Order of the British Empire</Text>
       <PageNumber>10167</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Walshe</Key>
-      <Text>Payr. Comdr. Francis Weldon, O.B.E., Member, 4th CI., Royal Victorian Order</Text>
+      <Title>Payr. Comdr.</Title>
+      <Forenames>Francis Weldon</Forenames>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>9987</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -223,21 +235,26 @@
   <ItemGroup>
     <MainItem>
       <Key>Waterlow</Key>
-      <Text>Sydney Philip Perigal, C.B.E.. First Secretary in H. M. Diplomatic Service</Text>
+      <Forenames>Sydney Philip Perigal</Forenames>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>9993</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Waters</Key>
-      <Text>Alfred John, Member, Order of the British Empire,</Text>
+      <Forenames>Alfred John</Forenames>
+      <Text>, Member, Order of the British Empire,</Text>
       <PageNumber>10099</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Watkins</Key>
-      <Text>Frederick Henry,. I. S.O., Member of the Executive Council of the Presidency of St. Christopher and Njjvi's</Text>
+      <Forenames>Frederick Henry</Forenames>
+      <Text>,. I. S.O., Member of the Executive Council of the Presidency of St. Christopher and Njjvi's</Text>
       <PageNumber>10409</PageNumber>
     </MainItem>
     <SubItem>

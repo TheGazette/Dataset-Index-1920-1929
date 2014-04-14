@@ -38,7 +38,9 @@
     <MainItem>
       <Key>Dugdale</Key>
       <Forenames>Ethcl Innes</Forenames>
-      <Text>.Mrs.,A.R.R.C., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>A.R.R.C.</Honour>
+      </Text>
       <PageNumber>3784</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -56,8 +58,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Duggan</Key>
-      <Forenames>The Revd</Forenames>
-      <Text>. Mother Mary, Member, Order of the British Empire</Text>
+      <Title>The Revd.</Title>
+      <Forenames>Mother Mary</Forenames>
+      <Text>, Member, Order of the British Empire</Text>
       <PageNumber>3827</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -147,7 +150,9 @@
       </Key>
       <Title>Maj. and Bt. Lt.-Col.</Title>
       <Forenames>Henry Clare</Forenames>
-      <Text>, D.S.O., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1801</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -216,7 +221,9 @@
     <MainItem>
       <Key>Dunlop</Key>
       <Forenames>Frederick George</Forenames>
-      <Text>, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3784</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -226,7 +233,9 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>William Louis Martial</Forenames>
-      <Text>, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3784</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -298,7 +307,9 @@
       <Key>Durell</Key>
       <Title>Col.</Title>
       <Forenames>Arthur James Vavasor</Forenames>
-      <Text>, C.B., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>3764</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -328,7 +339,10 @@
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Durrant</Forenames>
-      <Text>, Sir Arthur Isaac, M.V.O., O.B.E.. Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3764</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -337,7 +351,9 @@
       <Key>Durward</Key>
       <Title>Miss</Title>
       <Forenames>Aggie Jane Don</Forenames>
-      <Text>, A.R.R.C., Royal Red Cross, 1st Cl</Text>
+      <Text>
+        <Honour>A.R.R.C.</Honour>
+      </Text>
       <PageNumber>1917</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -375,7 +391,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>Ralph Matthew Legge</Forenames>
-      <Text>, M.C., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1379</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -392,7 +410,9 @@
     <MainItem>
       <Key>Duveen</Key>
       <Forenames>Joseph</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>3431</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -570,7 +590,10 @@
       <Key>Easton</Key>
       <Title>Col.</Title>
       <Forenames>George</Forenames>
-      <Text>, T.D., D.L., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+        <Honour>D.L.</Honour>
+      </Text>
       <PageNumber>3764</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -657,7 +680,9 @@
     <MainItem>
       <Key>Edgar</Key>
       <Forenames>Edward Mackay</Forenames>
-      <Text>, created Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>3432</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -683,7 +708,9 @@
     <MainItem>
       <Key>Edmeades</Key>
       <Forenames>Alfred</Forenames>
-      <Text>, D.L., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.L.</Honour>
+      </Text>
       <PageNumber>3764</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -720,7 +747,10 @@
     <MainItem>
       <Key>Edridge-Green</Key>
       <Forenames>Frederick William</Forenames>
-      <Text>, M.D., F.R.C.S., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>3765</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -826,7 +856,9 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>John</Forenames>
-      <Text>, O.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3764</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -857,7 +889,10 @@
       </Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Patrick Harrington</Forenames>
-      <Text>, D.S.O., Bar to D.S.O</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>1375</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -889,7 +924,9 @@
       </Key>
       <Title>Col.</Title>
       <Forenames>Richard Fielding</Forenames>
-      <Text>, C.M.G., Official Member of the Executive Council of Malta</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>713</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -956,7 +993,9 @@
     <MainItem>
       <Key>Eggar</Key>
       <Forenames>James</Forenames>
-      <Text>, O.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3764</PageNumber>
     </MainItem>
   </ItemGroup>

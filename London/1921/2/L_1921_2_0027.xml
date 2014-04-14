@@ -27,7 +27,9 @@
     <MainItem>
       <Key>Carter</Key>
       <Forenames>John Hilton</Forenames>
-      <Text>, Member, 4th CI., Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4535</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -44,7 +46,9 @@
     <MainItem>
       <Key>Catto</Key>
       <Forenames>Thomas Sievewright</Forenames>
-      <Text>, created Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>4530</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -78,7 +82,9 @@
     <MainItem>
       <Key>Charles</Key>
       <Forenames>Noel Hughes Haveloek</Forenames>
-      <Text>, M.C., Second Secretary, H.M. Diplomatic Service</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2570</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -93,7 +99,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Chelmsford</Key>
-      <Text>the Rt. Hon. Frederic John Napier, Baron, G.C.S.I., G.C.M.G., G.C.I.E., G.B.E., created Viscount (Viscount Chelmsford of Chelmsford)</Text>
+      <Text>
+        <Honour>G.C.M.G.</Honour>
+        <Honour>G.B.E.</Honour>
+      </Text>
       <PageNumber>4823</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -171,7 +180,10 @@
       <Key>Clerk</Key>
       <Title>Sir</Title>
       <Forenames>George Russell</Forenames>
-      <Text>, K.C.M.G., C.B., H.M. Envoy Extraordinary and Minister Plenipotentiary to Republic of Czecho-Slovakia and H.M. Consul-General</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>2571</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -180,7 +192,9 @@
       <Key>Clifford</Key>
       <Title>Sir</Title>
       <Forenames>Hugh Charles</Forenames>
-      <Text>, K. C.M.G., Knight Grand Cross St. Michael and St George</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>4533</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -189,7 +203,10 @@
       <Key>Climo</Key>
       <Title>Maj.-Gen.</Title>
       <Forenames>Skipton Hill</Forenames>
-      <Text>, C.B., D.S.O., Knight Commander, Order of Bath</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4693</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -197,7 +214,10 @@
     <MainItem>
       <Key>Clough</Key>
       <Forenames>Robert</Forenames>
-      <Text>, M.P., Knighted</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>4530</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -215,7 +235,9 @@
       <Key>Cobden</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>George Gough</Forenames>
-      <Text>, O.B.E., Commander, Order of the British Empire Cocks, George Arthur, Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>2661</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -223,7 +245,9 @@
     <MainItem>
       <Key>Codrington</Key>
       <Title>Lt.</Title>
-      <Text>-Gen. Sir Alfred Edward, K.C.V.O., C.B Knight Commander, Order of Bath</Text>
+      <Text>
+        <Honour>K.C.V.O.</Honour>
+      </Text>
       <PageNumber>4532</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -233,7 +257,9 @@
         <KeyDitto>___</KeyDitto>
       </Key>
       <Forenames>William Melville</Forenames>
-      <Text>, M.C., Second Secretary, H.M. Diplomatic Service</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2570</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -251,7 +277,10 @@
       <Key>Coleridge</Key>
       <Title>Col.</Title>
       <Forenames>Francis Stanhope</Forenames>
-      <Text>Duke, C.M.G., D.S.O., Companion, Order of Bath</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4532</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -276,7 +305,9 @@
       <Key>Congreve</Key>
       <Title>Capt. and Bt. Maj.</Title>
       <Forenames>Charles Ralph</Forenames>
-      <Text>, D.S.O., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4375</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -305,7 +336,11 @@
       </Key>
       <Title>Col. (T./Maj.-Gen.)</Title>
       <Forenames>Herbert Fothergill</Forenames>
-      <Text>, C.B., D.S.O., Companion, Star of India</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Star of India</Honour>
+      </Text>
       <PageNumber>4533</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -321,7 +356,9 @@
     <MainItem>
       <Key>Cooper</Key>
       <Forenames>James Alexander</Forenames>
-      <Text>, C.B.E., F.S.A.A., Knight Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>4820</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -330,7 +367,10 @@
       <Key>Cornwall</Key>
       <Title>Sir</Title>
       <Forenames>Edwin Andrew</Forenames>
-      <Text>, Bt., M.P. H.M. Privy Council</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4629</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -341,7 +381,11 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>Edwin Andrew</Forenames>
-      <Text>, Bart., D.L., J.P., M.P., Sworn of J H.M. Privy Council</Text>
+      <Text>
+        <Honour>Bart</Honour>
+        <Honour>D.L.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4529</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -367,7 +411,10 @@
       <Key>Cox</Key>
       <Title>Gen. Sir</Title>
       <Forenames>Herbert Vaughan</Forenames>
-      <Text>, K.C.B., K.C.M.G., C.S.T., Knight Grand Cross, Order of Bath</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>K.C.M.G.</Honour>
+      </Text>
       <PageNumber>4532</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -388,7 +435,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Stephen</Forenames>
-      <Text>, M.B.E., Companion, Order of Indian Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>4534</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -508,7 +557,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Dalziel</Key>
-      <Text>the Rt. Hon. Sir James Henry, Bart., created Baron</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>4529</PageNumber>
     </MainItem>
   </ItemGroup>

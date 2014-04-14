@@ -280,16 +280,24 @@
   <ItemGroup>
     <MainItem>
       <Key>Aberdeen</Key>
-      <Text>: Duncan, Col. Macbeth Moir, C.M.G., V.D</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>6030</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Gill, Col. William Smith, C.B., V.D:</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>6030</PageNumber>
     </SubItem>
     <SubItem>
       <Text>
+        <Honour>D.S.O.</Honour>
         <PageNumber>6030</PageNumber>
+        <Honour>C.B.E.</Honour>
+        <Honour>M.V.O.</Honour>
+        <Honour>T.D</Honour>
       </Text>
       <PageNumber>6030</PageNumber>
     </SubItem>
@@ -313,11 +321,16 @@
     <MainItem>
       <Key>East</Key>
       <Forenames>Riding</Forenames>
-      <Text>: Moss-Blundell, Frederick Blundell, C.M.G., D.S.O., T.D</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4956</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Hall, Col. Robert, T.D</Text>
+      <Text>
+        <Honour>T.D</Honour>
+      </Text>
       <PageNumber>4956</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -343,14 +356,20 @@
     <MainItem>
       <Key>Leicester</Key>
       <Forenames>Haslerigg</Forenames>
-      <Text>, Sir Arthur Grey, Bart</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>5214</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Surrey</Key>
-      <Text>: Few, Bt. Col. Robert Jebb, D.S.O., T.D</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>T.D</Honour>
+      </Text>
       <PageNumber>4456</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -651,7 +670,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Binkowski</Key>
-      <Text>Israel, change of name by deed poll to Cyril Sidney Benson</Text>
+      <Forenames>Israel</Forenames>
+      <Text>, change of name by deed poll to Cyril Sidney Benson</Text>
       <PageNumber>5604</PageNumber>
     </MainItem>
   </ItemGroup>

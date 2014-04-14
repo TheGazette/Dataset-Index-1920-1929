@@ -229,7 +229,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Christian</Key>
-      <Text>. C. D. H</Text>
+      <Forenames>C. D. H.</Forenames>
       <PageNumber>1573</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -373,7 +373,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Clode</Key>
-      <Text>. C. M</Text>
+      <Forenames>C. M .</Forenames>
       <PageNumber>1272</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -387,7 +387,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Coates</Key>
-      <Text>. H</Text>
+      <Forenames>H.</Forenames>
       <PageNumber>874</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -457,7 +457,9 @@
       <Key>Coghill</Key>
       <Title>Sir</Title>
       <Forenames>M. N. P. S.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>2231</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -635,7 +637,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cousens</Key>
-      <Text>. C. H</Text>
+      <Forenames>C. H</Forenames>
       <PageNumber>959</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -757,7 +759,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Crozier</Key>
-      <Text>. J. C. T</Text>
+      <Forenames>J. C. T</Forenames>
       <PageNumber>2324</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -841,7 +843,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Oust</Key>
-      <Text>. L. G. A</Text>
+      <Forenames>L. G. A.</Forenames>
       <PageNumber>1722</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1002,10 +1004,38 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Pree</Forenames>
-      <Text>, H. D</Text>
+      <Key>de Hoghton</Key>
+      <Forenames>G</Forenames>
+      <PageNumber>376</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Pree</Key>
+      <Forenames>H. D</Forenames>
       <PageNumber>52</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Putron</Key>
+      <Forenames>C</Forenames>
+      <PageNumber>2429</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Vitre</Key>
+      <Forenames>P. T. Denis</Forenames>
+      <Text>, see Denis de Vitre, P. T. de Wiart, A. C</Text>
+      <PageNumber>470</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Winton</Key>
+      <Forenames>R. P.</Forenames>
+      <PageNumber>958</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1064,7 +1094,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Denis</Key>
-      <Text>de Vitre, P. T</Text>
+      <Forenames>de Vitre</Forenames>
+      <Text>, P. T</Text>
       <PageNumber>2025</PageNumber>
       <PageNumber>2609</PageNumber>
     </MainItem>
@@ -1103,8 +1134,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dickinson</Key>
-      <Forenames>N. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>N. St. J</Forenames>
       <PageNumber>2134</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1227,7 +1257,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Downes</Key>
-      <Text>. G. W</Text>
+      <Forenames>G. W.</Forenames>
       <PageNumber>874</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1270,8 +1300,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>du Cros</Key>
+      <Forenames>E. H</Forenames>
+      <PageNumber>155</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Duckworth</Key>
-      <Text>. H. V</Text>
+      <Forenames>H. V</Forenames>
       <PageNumber>1459</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1322,7 +1359,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dunsby</Key>
-      <Text>. J. T. W</Text>
+      <Forenames>J. T. W.</Forenames>
       <PageNumber>1572</PageNumber>
     </MainItem>
   </ItemGroup>

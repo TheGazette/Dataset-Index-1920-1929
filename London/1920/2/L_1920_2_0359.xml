@@ -34,8 +34,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Welsh</Key>
-      <Forenames>William O</Forenames>
-      <Text>'Doniell</Text>
+      <Forenames>William O'Doniell</Forenames>
       <PageNumber>7054</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -70,7 +69,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Whincup</Key>
-      <Forenames>John</Forenames>
+      <Title>John .</Title>
       <PageNumber>6628</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -111,7 +110,7 @@
       <Key>
         <KeyDitto>___ ___ .</KeyDitto>
       </Key>
-      <Forenames>Henry</Forenames>
+      <Title>Henry .</Title>
       <PageNumber>6271</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -125,7 +124,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Whitelock</Key>
-      <Forenames>Anna</Forenames>
+      <Title>Anna .</Title>
       <PageNumber>5303</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -229,7 +228,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Leah</Forenames>
+      <Title>Leah .</Title>
       <PageNumber>6741</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -316,7 +315,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Willis</Key>
-      <Forenames>William</Forenames>
+      <Title>William .</Title>
       <PageNumber>6739</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -330,8 +329,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilsm</Key>
-      <Forenames>Emily</Forenames>
-      <Text>... «</Text>
+      <Title>Emily .</Title>
+      <Text>.. «</Text>
       <PageNumber>6390</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -523,7 +522,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Elizabeth</Forenames>
+      <Title>Elizabeth .</Title>
       <PageNumber>6740</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -532,7 +531,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>George</Forenames>
+      <Title>George .</Title>
       <PageNumber>4518</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -555,8 +554,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wyld</Key>
-      <Title>Revd.</Title>
-      <Forenames>Canon Edwin George</Forenames>
+      <Title>Revd. Canon</Title>
+      <Forenames>Edwin George</Forenames>
       <PageNumber>4622</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -579,7 +578,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Yates</Key>
-      <Forenames>Ann</Forenames>
+      <Title>Ann .</Title>
       <PageNumber>5309</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -657,9 +656,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Flymen</Forenames>
-      <Text>, Soloman Amos, G. M. ___ ___ ___ . — \</Text>
+      <Key>Van Flymen</Key>
+      <Forenames>Soloman Amos</Forenames>
+      <Text>, G. M. ___ ___ ___ . — \</Text>
       <PageNumber>6655</PageNumber>
     </MainItem>
     <SubItem>
@@ -689,8 +688,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Associated</Key>
-      <Forenames>Publishing Co</Forenames>
-      <Text>. . Astbury, A. N</Text>
+      <Forenames>Publishing</Forenames>
+      <Text>Co. . Astbury, A. N</Text>
       <PageNumber>4923</PageNumber>
       <PageNumber>5051</PageNumber>
       <PageNumber>7059</PageNumber>
@@ -731,7 +730,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cywan</Key>
-      <Text>H Bacon, C. W</Text>
+      <Forenames>H</Forenames>
+      <Text>Bacon, C. W</Text>
       <PageNumber>5793</PageNumber>
       <PageNumber>5886</PageNumber>
       <PageNumber>5797</PageNumber>
@@ -740,7 +740,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dunsdon</Key>
-      <Text>C f</Text>
+      <Forenames>C</Forenames>
+      <Text>f</Text>
       <PageNumber>4537</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -786,7 +787,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Millet</Key>
-      <Text>M — \</Text>
+      <Forenames>M</Forenames>
+      <Text>— \</Text>
       <PageNumber>6843</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -891,14 +893,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Ainsley</Key>
-      <Text>W —</Text>
+      <Forenames>W</Forenames>
+      <Text>—</Text>
       <PageNumber>4642</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Alcock</Key>
-      <Text>C — Boad, Hove) _ ___ ___ —</Text>
+      <Forenames>C</Forenames>
+      <Text>— Boad, Hove) _ ___ ___ —</Text>
       <PageNumber>5323</PageNumber>
     </MainItem>
   </ItemGroup>

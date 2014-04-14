@@ -90,7 +90,9 @@
       <Key>Worsdell</Key>
       <Title>Capt. and Bt. Maj.</Title>
       <Forenames>G. B.</Forenames>
-      <Text>, O.B.E. (rem. seed, for service with R.C. of Sigs.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4828</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -99,7 +101,9 @@
       <Key>Worsley</Key>
       <Title>Maj.</Title>
       <Forenames>H. G.</Forenames>
-      <Text>, M.C. (placed temp, on h.p. list on acc. of illhealth)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3132</PageNumber>
     </MainItem>
     <SubItem>
@@ -114,7 +118,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>R. H. W.</Forenames>
-      <Text>, D.S.O. (restd. to estabt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3212</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -134,7 +140,9 @@
       </Key>
       <Title>temp.</Title>
       <Forenames>I.</Forenames>
-      <Text>O.M., 2nd CI., and Capt. W. E. (rel. commn. on completion of service and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>O.M.</Honour>
+      </Text>
       <PageNumber>4724</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -192,7 +200,9 @@
       </Key>
       <Title>temp.</Title>
       <Forenames>A.C.O.</Forenames>
-      <Text>and Capt. C, M.B.E. (rel. commn. on completion of service and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>2796</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -225,7 +235,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>Hedley D.</Forenames>
-      <Text>. M.B. (temp. Maj., R.A.M.C., Spec. Res., from 3rd Mair. to 17th . Mav, 1918. and from 24th June to 12th Aug., 1918)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2704</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -329,7 +341,9 @@
     <MainItem>
       <Key>Wrigley</Key>
       <Title>Ord. Off., 1st CI.</Title>
-      <Text>, and Col. C. C., C.B. (retires on ret. pay on acc. of ill-health and resumes the hon. rank of Brig.-Gen.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>4552</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -368,7 +382,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wroth</Key>
-      <Text>C. (Lt,. Bee. Armv Res. of Offrs.. Regtl. List, R.G.A., late Lt., R.G.A.)</Text>
+      <Forenames>C.</Forenames>
+      <Text>(Lt,. Bee. Armv Res. of Offrs.. Regtl. List, R.G.A., late Lt., R.G.A.)</Text>
       <PageNumber>2793</PageNumber>
     </MainItem>
     <SubItem>
@@ -379,7 +394,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Wyatt</Key>
-      <Text>Lt.-Col. (h.p. list) G. N., D. S.O. (retires on ret. pay)</Text>
+      <Title>Lt.-Col. (h.p. list)</Title>
+      <Forenames>G. N.</Forenames>
+      <Text>
+        <Honour>D. S.O.</Honour>
+      </Text>
       <PageNumber>3212</PageNumber>
     </MainItem>
     <SubItem>
@@ -390,21 +409,29 @@
   <ItemGroup>
     <MainItem>
       <Key>Wyld</Key>
-      <Text>Capt, .T. W. F.. M.O. (placed on h.p. list on vacating appt. at War Office)</Text>
+      <Forenames>Capt</Forenames>
+      <Text>, .T. W. F.. M.O. (placed on h.p. list on vacating appt. at War Office)</Text>
       <PageNumber>3300</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Wyler</Key>
-      <Text>temp. Capt. Edwin J.. M.C., M.D. (rel. commn. and retains Tank of Capt.)</Text>
+      <Title>temp. Capt.</Title>
+      <Forenames>Edwin J.</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>4063</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Wvlie</Key>
-      <Text>temp. Lt. J. K. (rel. commn. on completion of service and granted rank of Capt.)</Text>
+      <Title>temp. Lt.</Title>
+      <Forenames>J. K.</Forenames>
+      <Text>(rel. commn. on completion of service and granted rank of Capt.)</Text>
       <PageNumber>3857</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -435,14 +462,21 @@
       </Key>
       <Title>Lt.-Col. (h.p. list)</Title>
       <Forenames>H. E. S.</Forenames>
-      <Text>, C.M.G.. D.S.O. (retires on ret. pay)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4722</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Wynne-Williams</Key>
-      <Text>Lt. A. I.. M.C. (placed on temp. h.p. list on acc. of ill-health)</Text>
+      <Title>Lt.</Title>
+      <Forenames>A. I.</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3785</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -451,7 +485,9 @@
       <Key>Wynter</Key>
       <Title>Capt.</Title>
       <Forenames>R. C</Forenames>
-      <Text>, M.C. (seed, for service under the Colonial Office)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4476</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -469,7 +505,9 @@
       <Key>Yates</Key>
       <Title>Qrmr. and Maj.</Title>
       <Forenames>H.</Forenames>
-      <Text>, M.C. (R.W. Fus.) (retires on ret. pay, having attained the age limit fpr retirement)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2795</PageNumber>
     </MainItem>
   </ItemGroup>

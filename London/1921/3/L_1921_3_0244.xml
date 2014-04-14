@@ -3,7 +3,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Maj</Key>
-      <Text>.) G. D. Graham, (temp</Text>
+      <Text>) G. D. Graham, (temp</Text>
       <PageNumber>6603</PageNumber>
     </MainItem>
     <SubItem>
@@ -299,7 +299,10 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>A. L.</Forenames>
-      <Text>, O.B.E., M.C. (rel. commn., and granted rank of Maj.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6604</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -326,7 +329,7 @@
       <PageNumber>5360</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Temp. Capt</Text>
+      <Text>Temp. Capt.</Text>
       <PageNumber>5736</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -386,7 +389,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Horsman</Key>
-      <Text>. Capt. H., M.C. (rel. commn.)</Text>
+      <Title>Capt.</Title>
+      <Forenames>H.</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5736</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -441,14 +448,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Hunsworth</Key>
-      <Text>. E. (Lt.)</Text>
+      <Forenames>E.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>7690</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hurndall</Key>
-      <Text>. Lt. M. J. (rel. commn.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>M. J.</Forenames>
+      <Text>(rel. commn.)</Text>
       <PageNumber>7461</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -463,14 +473,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Hutchison</Key>
-      <Text>. E. (corr. of initial)</Text>
+      <Forenames>E.</Forenames>
+      <Text>(corr. of initial)</Text>
       <PageNumber>7312</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Jackson</Key>
-      <Text>. E. (Lt.)</Text>
+      <Forenames>E.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>6034</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -831,7 +843,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ling</Key>
-      <Text>. F. G. (Capt.)</Text>
+      <Forenames>F. G.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>6603</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -850,7 +863,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>O.</Forenames>
-      <Text>, M.C. (temp. Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6603</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -870,7 +885,9 @@
     <MainItem>
       <Key>Longstaffc</Key>
       <Forenames>J. W.</Forenames>
-      <Text>, M.B.E. (Capt.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>6176</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -912,7 +929,9 @@
     <MainItem>
       <Key>Luxton</Key>
       <Forenames>W. J.</Forenames>
-      <Text>, M.B.E. (temp. .Capt.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>7690</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1279,7 +1298,9 @@
       <Key>Minet</Key>
       <Title>Capt.</Title>
       <Forenames>E. C</Forenames>
-      <Text>, D.S.O., M.C (rel. temp, commn.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7691</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1354,7 +1375,9 @@
     <MainItem>
       <Key>Moxon</Key>
       <Forenames>F.</Forenames>
-      <Text>, M.C. (rel. commn.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7312</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1510,8 +1533,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, J. M. D. (Lt.)</Text>
+      <Key>O'Brien</Key>
+      <Forenames>J. M. D.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>573</PageNumber>
     </MainItem>
   </ItemGroup>

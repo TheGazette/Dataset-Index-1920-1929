@@ -232,7 +232,10 @@
     <MainItem>
       <Key>Leman</Key>
       <Title>Capt.</Title>
-      <Text>(actg. Maj.) C. M., M.C., D.F.C. (trd. to unempld. list) .. .. -</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>4139</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -300,7 +303,7 @@
       <PageNumber>4851</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Trd.to unempld.list,Sub.Not</Text>
+      <Text>Trd.to unempld.list,Sub.Not.</Text>
       <PageNumber>5847</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -336,7 +339,7 @@
       <PageNumber>5251</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Capt. Admin. &amp; graded » for pay &amp; allceB. as Lt</Text>
+      <Text>Capt. Admin. &amp; graded » for pay &amp; allceB. as Lt.</Text>
       <PageNumber>5251</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -511,8 +514,8 @@
     <MainItem>
       <Key>Littlewood</Key>
       <Title>2nd Lt.</Title>
-      <Forenames>W. St</Forenames>
-      <Text>. J. (Lt. Gr. A.)</Text>
+      <Forenames>W. St. J</Forenames>
+      <Text>. (Lt. Gr. A.)</Text>
       <PageNumber>5848</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -581,7 +584,7 @@
       <PageNumber>6588</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Granted short serv. commn</Text>
+      <Text>Granted short serv. commn.</Text>
       <PageNumber>5104</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -865,7 +868,7 @@
       <Key>
         <Forenames>Lyell</Forenames>
       </Key>
-      <Text>2nd Lt. John Wm. (trd. to</Text>
+      <Text>, 2nd Lt. John Wm. (trd. to</Text>
       <PageNumber>4718</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -908,7 +911,9 @@
     <MainItem>
       <Key>McConnell</Key>
       <Forenames>Pilot Offr</Forenames>
-      <Text>. (Hon. Flying Offr.) A. A., M.C. (reL R.A.F. commn.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5488</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -980,7 +985,9 @@
       <Key>McDonald</Key>
       <Title>Flight Lt. (A.)</Title>
       <Forenames>C. Y.</Forenames>
-      <Text>, A.F.C. (re-secd. to R.A.F.)</Text>
+      <Text>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>4850</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1036,7 +1043,9 @@
     <MainItem>
       <Key>Macfarlane</Key>
       <Forenames>Flying Offr</Forenames>
-      <Text>. (A.) R. M. C, M.C. (re-secd. to R.A.F.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4851</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1080,7 +1089,9 @@
       <Key>McHardy</Key>
       <Title>Rev.</Title>
       <Forenames>A.</Forenames>
-      <Text>, M.A., M.C. (granted perm, commn.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6087</PageNumber>
     </MainItem>
   </ItemGroup>

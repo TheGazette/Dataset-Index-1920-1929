@@ -64,7 +64,9 @@
     <MainItem>
       <Key>Najibullah</Key>
       <Forenames>Khan</Forenames>
-      <Text>, Subadar Major, Ind. O.M. (appt. to Unattd. List, Indian Army, as 2nd Lt.)</Text>
+      <Text>
+        <Honour>O.M.</Honour>
+      </Text>
       <PageNumber>2803</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -73,7 +75,9 @@
       <Key>Nash</Key>
       <Title>Capt.</Title>
       <Forenames>Edgar L. F.</Forenames>
-      <Text>, M.C., M.B. (actg. Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4722</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -104,7 +108,11 @@
       <Key>Neame</Key>
       <Title>Bt. Maj.</Title>
       <Forenames>P.</Forenames>
-      <Text>, V.C., D.S.O. (Bt. Lt.Col.)</Text>
+      <Text>
+        <Honour>V.C.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4722</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -113,7 +121,9 @@
       <Key>Neate</Key>
       <Title>Capt.</Title>
       <Forenames>A. C. B.</Forenames>
-      <Text>, M.C. (local Maj. whilst spec, enipld.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3414</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -167,7 +177,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Lt-</Forenames>
-      <Text>Col. W., D.S.O. (placed on h.p. list on completing period of service in comd.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3004</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -178,7 +190,10 @@
       </Key>
       <Title>Maj. and Bt. Lt.-Col.</Title>
       <Forenames>W. G.</Forenames>
-      <Text>, C.M.G., D.S.O. (Lt.-Col.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3122</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -277,7 +292,9 @@
       <Key>Newton</Key>
       <Title>temp. Lt.</Title>
       <Forenames>G. C</Forenames>
-      <Text>, M.C. (rel. actg. rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4062</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -296,7 +313,10 @@
     <MainItem>
       <Key>Niblett</Key>
       <Title>temp. Qrmr.</Title>
-      <Text>and&gt;Capt. H. E. N., O.B.E., D.C.M. (rel. commn. on completion of service and granted rank of Maj.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>3014</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -385,7 +405,9 @@
       </Key>
       <Title>Capt. and Bt. Maj.</Title>
       <Forenames>G.</Forenames>
-      <Text>, M.C. (placed on h.p. list on acc. of ill-health)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3122</PageNumber>
     </MainItem>
     <SubItem>
@@ -399,7 +421,9 @@
       <Key>Nicolson</Key>
       <Title>Maj. the Hon.</Title>
       <Forenames>F. A.</Forenames>
-      <Text>, M.C. (retires on ret. pay)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4475</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -408,7 +432,9 @@
       <Key>Nightingale</Key>
       <Title>Capt. and Bt. Maj.</Title>
       <Forenames>G. W.</Forenames>
-      <Text>, M.C. (seed, for service with Yemen Inf.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4828</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -450,7 +476,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>P. J.</Forenames>
-      <Text>, M.C. (retires, receiving a gratuity)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4552</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -459,7 +487,12 @@
       <Key>Nooth</Key>
       <Title>Capt.</Title>
       <Forenames>R. G. Wright-</Forenames>
-      <Text>, M.C., , see Wright-Nooth, Capt. R. G., M.C. Norman, Col. C. X.., D.S.O., M.V.O. (granted hon. rank of Brig.-Gen. on retirement)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>3958</PageNumber>
     </MainItem>
     <SubItem>
@@ -538,7 +571,10 @@
         <KeyDitto>___ ___ ___ .</KeyDitto>
       </Key>
       <Title>Lt.</Title>
-      <Text>-iCol. J. G. Pleydell, D.S.O., see Pleydell-Nott, Lt.-Col. J. G., D.S.O. Nowell, Lt. (late temp. Lt., The King's R. Serv. Bn.) E. (rel. rank of Lt. on enlistment in T.A.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4404</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -546,7 +582,10 @@
     <MainItem>
       <Key>Nur</Key>
       <Forenames>Ahmad Khan</Forenames>
-      <Text>, Risalder, M.C., Ind. O.M. (appt. to Unattached List for I.A. as 2nd Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>O.M.</Honour>
+      </Text>
       <PageNumber>3610</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -583,8 +622,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, temp. Qrmr. and Capt. D. (rel. commn. on completion of service and retains rank of Capt.)</Text>
+      <Key>O'Brien</Key>
+      <Title>temp. Qrmr. and Capt.</Title>
+      <Forenames>D.</Forenames>
+      <Text>(rel. commn. on completion of service and retains rank of Capt.)</Text>
       <PageNumber>2796</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -621,8 +662,11 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, temp. Chapln., 4th Cl., the Revd. A., M.C. (rel. commn. and apptd. Hon. Chapln., 3rd Cl.)</Text>
+      <Key>O'Connor</Key>
+      <Title>temp. Chapln.</Title>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3314</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -633,7 +677,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>C. C</Forenames>
-      <Text>, M.C. (placed temp. on h.p. list on acc. of illhealth)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3004</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -677,7 +723,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>W.</Forenames>
-      <Text>, M.C. (retires, receiving a gratuity)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4331</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -695,7 +743,9 @@
       <Key>Odbert</Key>
       <Title>Lt. (h.p. list)</Title>
       <Forenames>W. H.</Forenames>
-      <Text>, M.C. (retires on ret. pay on acc. of ill-health contracted on active service)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3686</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -710,15 +760,21 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Dowd, Lt. R. E. D. (resigns commn. and retains rank)</Text>
+      <Key>O'Dowd</Key>
+      <Title>Lt.</Title>
+      <Forenames>R. E. D.</Forenames>
+      <Text>(resigns commn. and retains rank)</Text>
       <PageNumber>3415</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Farrell, temp. Maj. Emanuel M. J., F.R.C.S. (rel. commn. and retains rank of Maj.) ... ,</Text>
+      <Key>O'Farrell</Key>
+      <Title>temp. Maj.</Title>
+      <Forenames>Emanuel M. J.</Forenames>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>3854</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -729,7 +785,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>R. C</Forenames>
-      <Text>, M.C. (placed temp. on h.p. list on acc. of illhealth) §</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>219</PageNumber>
     </MainItem>
   </ItemGroup>

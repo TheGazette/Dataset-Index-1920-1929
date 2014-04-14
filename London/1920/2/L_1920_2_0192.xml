@@ -26,7 +26,9 @@
         <KeyDitto>-</KeyDitto>
       </Key>
       <Forenames>Peploe</Forenames>
-      <Text>, Capt. and Bt. Maj. J. R. (seed, for service as an Adjt., T.F.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4561</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -35,7 +37,9 @@
       <Key>Pepys</Key>
       <Title>Maj.</Title>
       <Forenames>W.</Forenames>
-      <Text>(Hon. Lt.-Col., T.F. Rea.) D.S.O. (rel. temp, rank of Lt.-Col. on ceasing to be empld. with Tank Corps), Sub. Not</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6565</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -44,7 +48,10 @@
       <Key>Perceval</Key>
       <Title>Maj.-Gen.</Title>
       <Forenames>E. M.</Forenames>
-      <Text>, C.B., D.S.O. (retired on ret. pay)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4974</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -66,7 +73,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>R. R. M.</Forenames>
-      <Text>, M.C. (rel. actg. rank of Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5072</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -75,7 +84,9 @@
       <Key>Percival</Key>
       <Title>Lt.</Title>
       <Forenames>H. S.</Forenames>
-      <Text>, M.C. (rel. commn. and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6767</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -113,7 +124,9 @@
       <Key>Perkins</Key>
       <Title>Lt.</Title>
       <Forenames>A. C. T.</Forenames>
-      <Text>, M.C. (rel. commn. and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6967</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -124,7 +137,10 @@
       </Key>
       <Title>Col.</Title>
       <Forenames>A. E. J.</Forenames>
-      <Text>, C.B., C.M.G. (h.p., retires on ret. pay and granted hon. rank of Brig.Gen.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>4200</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -176,7 +192,10 @@
         <KeyDitto>-</KeyDitto>
       </Key>
       <Forenames>Perreau</Forenames>
-      <Text>, Col. A. M., C.B., C.M.G. (h.p., retires on ret. pay and granted hon. rank of Brig.Gen.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>5338</PageNumber>
     </MainItem>
     <SubItem>
@@ -189,7 +208,9 @@
       <Key>Perrett</Key>
       <Title>temp. Lt.</Title>
       <Forenames>G. S.</Forenames>
-      <Text>, D.C.M. (rel. commn. on completion of service and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>4029</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -202,7 +223,7 @@
       <PageNumber>4662</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Rel. commn. on completion of . . service and granted rank of Capt</Text>
+      <Text>Rel. commn. on completion of . . service and granted rank of Capt.</Text>
       <PageNumber>4661</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -224,14 +245,19 @@
       </Key>
       <Title>temp. Capt.</Title>
       <Forenames>T.</Forenames>
-      <Text>, M.D., F.R.C.S. (rel. commn. on acc. of illhealth contracted on active service)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>5572</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Perry</Key>
-      <Text>Capt. A. C. (rel. commn. and retains rank of Capt.)</Text>
+      <Title>Capt.</Title>
+      <Forenames>A. C.</Forenames>
+      <Text>(rel. commn. and retains rank of Capt.)</Text>
       <PageNumber>6768</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -350,7 +376,10 @@
       <Key>Persse</Key>
       <Title>Capt.</Title>
       <Forenames>R.</Forenames>
-      <Text>, D.S.O., M.C. (seed, for service under the Colonial Office)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6550</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -377,7 +406,9 @@
       <Key>Peskett</Key>
       <Title>Capt.</Title>
       <Forenames>A. H.</Forenames>
-      <Text>, M.C. (rel. actg. rank of Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5072</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -404,7 +435,9 @@
       <Key>Peter</Key>
       <Title>Capt.</Title>
       <Forenames>J.</Forenames>
-      <Text>, M.C. (rel. commn. and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5904</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -499,7 +532,10 @@
       </Key>
       <Title>Capt. (now Bt.-Maj.)</Title>
       <Forenames>R. A.</Forenames>
-      <Text>, M.C. (rel. commn. and retains Bt. rank of Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6767</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -529,7 +565,9 @@
     <MainItem>
       <Key>Petersham</Key>
       <Title>Capt. and Bt.</Title>
-      <Text>-Maj. C. J. L., Visct., M.C. (retires, receiving a gratuity), Sub. Not</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5694</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -538,7 +576,10 @@
       <Key>Peterson</Key>
       <Title>Col.</Title>
       <Forenames>F. H.</Forenames>
-      <Text>, C.B., D.S.O. (granted hon. rank of Brig.Gen.) .. .. ,</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6019</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -558,7 +599,9 @@
       <Key>Petheram</Key>
       <Title>temp. Capt.</Title>
       <Forenames>C. S.</Forenames>
-      <Text>, M.C. (rel. commn. on completion of service and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6982</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -587,7 +630,9 @@
       </Key>
       <Title>temp. Capt.</Title>
       <Forenames>J. E. S.</Forenames>
-      <Text>, M.C. (rel. actg. rank of Maj. on ceasing to be 2nd in comd. 17th Serv. Bn. S. Lan. R.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5471</PageNumber>
     </MainItem>
     <SubItem>
@@ -600,7 +645,9 @@
       <Key>Petit</Key>
       <Title>Lt.</Title>
       <Forenames>G.</Forenames>
-      <Text>, M.C. (resigns commn.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7079</PageNumber>
     </MainItem>
     <SubItem>
@@ -647,7 +694,10 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Title>Capt. and Bt.</Title>
-      <Text>-Maj. E. L., D.S.O., M.C. (Adjt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5915</PageNumber>
     </MainItem>
   </ItemGroup>

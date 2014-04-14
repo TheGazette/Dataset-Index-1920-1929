@@ -2,22 +2,28 @@
 <Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="197" pageID="https://www.thegazette.co.uk/id/London/index/year/1922/volume/1/page/197" pagePDF="https://www.thegazette.co.uk/London/index/year/1922/volume/1/page/197" pageRDF="https://www.thegazette.co.uk/London/index/year/1922/volume/1/page/197?view=linked-data" type="index" volume="1" year="1922">
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Gorman, temp. 2nd Lt. M. L. J. (rel. commn. on completion of service and retains rank of 2nd Lt.)</Text>
+      <Key>O'Gorman</Key>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>M. L. J.</Forenames>
+      <Text>(rel. commn. on completion of service and retains rank of 2nd Lt.)</Text>
       <PageNumber>616</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hanlon, temp. Chapln., 4th CI., Rev. C. L. (rel. commn.)</Text>
+      <Key>O'Hanlon</Key>
+      <Title>temp. Chapln., 4th CI., Rev.</Title>
+      <Forenames>C. L.</Forenames>
+      <Text>(rel. commn.)</Text>
       <PageNumber>711</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hanrahan, temp. Lt. R. M. (rel. commn. on completion of service and retains rank of Lt.)</Text>
+      <Key>O'Hanrahan</Key>
+      <Title>temp. Lt.</Title>
+      <Forenames>R. M.</Forenames>
+      <Text>(rel. commn. on completion of service and retains rank of Lt.)</Text>
       <PageNumber>1161</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -32,15 +38,21 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Keeffe, temp. 2nd Lt. T., D.C.M. (rel. commn. on completion of service and retains rank of 2nd Lt.)</Text>
+      <Key>O'Keeffe</Key>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>T.</Forenames>
+      <Text>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>928</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Kelly, Lt. A. A. (rel. actg. rank of Maj., since reld. commn.), Sub. Not</Text>
+      <Key>O'Kelly</Key>
+      <Title>Lt.</Title>
+      <Forenames>A. A.</Forenames>
+      <Text>(rel. actg. rank of Maj., since reld. commn.), Sub. Not</Text>
       <PageNumber>256</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -217,8 +229,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Leary, Capt. H. H. (rel. commn. on appt. to Ind. Army)</Text>
+      <Key>O'Leary</Key>
+      <Title>Capt.</Title>
+      <Forenames>H. H.</Forenames>
+      <Text>(rel. commn. on appt. to Ind. Army)</Text>
       <PageNumber>123</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -260,7 +274,9 @@
       </Key>
       <Title>temp. 2nd Lt.</Title>
       <Forenames>C. F.</Forenames>
-      <Text>, M.M. (rel. commn. on completion of service and retains rank of 2nd Lt.)</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>140</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -293,7 +309,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>E.</Forenames>
-      <Text>'V., O.B.E. (Maj., Reg. Army Res. of Off., Regtl. List, R A.O.C., late R.A.O.C.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>2321</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -363,7 +381,9 @@
       </Key>
       <Title>temp. 2nd Lt.</Title>
       <Forenames>J. E.</Forenames>
-      <Text>, D.C.M. (rel. commn. on completion of service and retains rank of 2nd Lt.)</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>721</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -479,7 +499,7 @@
       <PageNumber>621</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Capt., Reg. Army Res. of Offrs., Regtl. List. R.H. and R.F.A., late R.F.A</Text>
+      <Text>Capt., Reg. Army Res. of Offrs., Regtl. List. R.H. and R.F.A., late R.F.A.</Text>
       <PageNumber>721</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -496,7 +516,10 @@
       <Key>Opie</Key>
       <Title>temp. Lt.</Title>
       <Forenames>W. L.</Forenames>
-      <Text>(rel. commn. on completion of service and granted rank of Capt.) Opitz, temp. 2nd Lt. B. H. A. (rel. commn. on completion of service and retains rank of 2nd Lt.) Oppenheim, Capt. &amp; Bt. Maj. R. W., O.B.E. (retires on ret. pay on acc. of ill-health, and granted rank of Lt.-Col.). Sub Not</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>919</PageNumber>
     </MainItem>
   </ItemGroup>

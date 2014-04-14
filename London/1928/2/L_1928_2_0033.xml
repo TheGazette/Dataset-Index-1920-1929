@@ -410,7 +410,9 @@
     <MainItem>
       <Key>Temple</Key>
       <Forenames>B.</Forenames>
-      <Text>Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4412</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -483,7 +485,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Woods</Key>
-      <Text>W. A</Text>
+      <Forenames>W. A.</Forenames>
       <PageNumber>4265</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -520,7 +522,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wyllie-Rodger</Key>
-      <Text>F. K</Text>
+      <Forenames>F. K</Forenames>
       <PageNumber>2975</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -658,8 +660,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Arcedeckne-Butler</Key>
-      <Title>St.</Title>
-      <Forenames>J. D.</Forenames>
+      <Title>St. J.</Title>
+      <Forenames>D.</Forenames>
       <PageNumber>3872</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1491,7 +1493,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rentinck</Key>
-      <Text>A. W. D</Text>
+      <Forenames>A. W. D</Forenames>
       <PageNumber>2635</PageNumber>
     </MainItem>
   </ItemGroup>

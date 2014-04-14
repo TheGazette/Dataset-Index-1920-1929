@@ -3,7 +3,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Hepburn</Key>
-      <Text>2nd Lt. W. A. F., M.C. {Lt.) „</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>W. A. F.</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>11081</PageNumber>
     </MainItem>
     <SubItem>
@@ -16,7 +20,9 @@
       <Key>Hepher</Key>
       <Title>Lt.</Title>
       <Forenames>W. L.</Forenames>
-      <Text>, M.C. (rel. commn. and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>12121</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -34,7 +40,9 @@
       <Key>Hepper</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>L. L.</Forenames>
-      <Text>, D.S.O. (placed on h.p. list on completion of 4 years' service as Regtl. Lt.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>12808</PageNumber>
     </MainItem>
     <SubItem>
@@ -67,7 +75,9 @@
       <Key>Herbert</Key>
       <Title>Lt.</Title>
       <Forenames>C. G. Y.</Forenames>
-      <Text>, M.C. (rel. commn. and granted rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>12812</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -89,7 +99,9 @@
       </Key>
       <Title>Maj. and Bt. Lt.-Col.</Title>
       <Forenames>G. M.</Forenames>
-      <Text>, D.S.O. (rel. temp., rank of Lt.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>11904</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -144,7 +156,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>M. G.</Forenames>
-      <Text>, M.C. (rel. commn. and granted rank of Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10837</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -166,7 +180,7 @@
       <PageNumber>10264</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Rel. commn. and retains rank of Lt</Text>
+      <Text>Rel. commn. and retains rank of Lt.</Text>
       <PageNumber>10921</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -242,7 +256,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Heriz-Smith</Key>
-      <Text>Capt. (now Bt. Maj.) G. V., M.C. (temp. Maj. whilst D.A.A. and Q.M.G. in India) :</Text>
+      <Title>Capt. (now Bt. Maj.)</Title>
+      <Forenames>G. V.</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>11592</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -301,7 +319,7 @@
       <PageNumber>10580</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Trd. to Gen. Res. of Offrs</Text>
+      <Text>Trd. to Gen. Res. of Offrs.</Text>
       <PageNumber>10581</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -309,8 +327,10 @@
     <MainItem>
       <Key>Hermon-Hodge</Key>
       <Title>Lt. the Hon.</Title>
-      <Forenames>L. St</Forenames>
-      <Text>. L., M.C. (rel. commn. and granted rank of Capt.)</Text>
+      <Forenames>L. St. L</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>12268</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -330,7 +350,10 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>George W.</Forenames>
-      <Text>, D.S.O., O.B.E. (rel. actg. rank of Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>12809</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -382,7 +405,9 @@
       </Key>
       <Title>temp. Capt.</Title>
       <Forenames>T. C</Forenames>
-      <Text>, M.C. (rel. commn. on completion of service, and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10711</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -462,7 +487,9 @@
       <Key>Hetherington</Key>
       <Title>temp. Lt.</Title>
       <Forenames>A. D.</Forenames>
-      <Text>, M.C. (temp. Capt,)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>12694</PageNumber>
     </MainItem>
     <SubItem>
@@ -510,14 +537,18 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>T. G.</Forenames>
-      <Text>, C.B.E. (resigns commn. on appt. to perm, commn. in R.A.F.)</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>9968</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hett</Key>
-      <Text>Lt. P. W. (rel. commn. and retains rank of Lt.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>P. W.</Forenames>
+      <Text>(rel. commn. and retains rank of Lt.)</Text>
       <PageNumber>12151</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -544,7 +575,9 @@
       <Key>Hewer</Key>
       <Title>temp. Capt.</Title>
       <Forenames>J. R.</Forenames>
-      <Text>, O.B.E. (rel. commn. on completion of service, and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>9877</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -573,7 +606,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>M. S.</Forenames>
-      <Text>, D.S.O. (temp. Lt.-Col. whilst holding spec. appt. in India, graded as Asst. Dir. of Supplies and Trans.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>11577</PageNumber>
     </MainItem>
     <SubItem>
@@ -687,7 +722,9 @@
       <Key>Hewland</Key>
       <Title>temp. Lt.</Title>
       <Forenames>E. W.</Forenames>
-      <Text>, M.C. (rel. actg. rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10397</PageNumber>
     </MainItem>
     <SubItem>
@@ -709,7 +746,9 @@
       <Key>Hewson</Key>
       <Title>Capt.</Title>
       <Forenames>F. L.</Forenames>
-      <Text>, O.B.E. (rel. temp, rank of Maj.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>9669</PageNumber>
     </MainItem>
     <SubItem>
@@ -755,7 +794,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>P.</Forenames>
-      <Text>, M.C. (rel. commn. and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>12151</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -764,7 +805,9 @@
       <Key>Heycock</Key>
       <Title>Col.</Title>
       <Forenames>C. H.</Forenames>
-      <Text>, O.B.E. (retires on an Indian pension)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>10064</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -773,7 +816,9 @@
       <Key>Hqyde</Key>
       <Title>temp. Lt.</Title>
       <Forenames>D.</Forenames>
-      <Text>, O.B.E. (rel. commn. on completion of service and granted rank of Maj.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>9962</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -822,11 +867,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Heymann</Key>
-      <Text>Capt, (Bt. Maj.) F. A.. O.B.E. (rel. actg. rank of Maj.)</Text>
+      <Forenames>Capt</Forenames>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>11574</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Trd. to R. Corps of .Sigs</Text>
+      <Text>Trd. to R. Corps of .Sigs.</Text>
       <PageNumber>11574</PageNumber>
     </SubItem>
   </ItemGroup>

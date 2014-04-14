@@ -5,7 +5,9 @@
       <Key>Barstow</Key>
       <Title>Sir</Title>
       <Forenames>George Lewis</Forenames>
-      <Text>, K.C.B., Member of the Royal Commission (extended powers) on Awards to Inventors</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+      </Text>
       <PageNumber>9807</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -61,7 +63,9 @@
     <MainItem>
       <Key>Baynes</Key>
       <Forenames>Charlotte Augusta</Forenames>
-      <Text>, Mrs., M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>10612</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -125,7 +129,9 @@
       <Key>Bell-Edgar</Key>
       <Title>Mrs.</Title>
       <Forenames>Jean</Forenames>
-      <Text>, A.R.R.C. (corr. of surname), Royal Red _ Cross, 1st CI.)</Text>
+      <Text>
+        <Honour>A.R.R.C.</Honour>
+      </Text>
       <PageNumber>11588</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -182,7 +188,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bickford</Key>
-      <Text>Charles Frederick, Member, Order of the British Empire</Text>
+      <Forenames>Charles Frederick</Forenames>
+      <Text>, Member, Order of the British Empire</Text>
       <PageNumber>10098</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -234,7 +241,9 @@
     <MainItem>
       <Key>Blankenberg</Key>
       <Forenames>Reginald Andrew</Forenames>
-      <Text>, O.B.E., Knieht Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>10098</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -251,7 +260,9 @@
       <Key>Blennerhassett</Key>
       <Title>Capt.</Title>
       <Forenames>William Lewis</Forenames>
-      <Text>, D.S.O., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>10612</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -259,7 +270,9 @@
     <MainItem>
       <Key>Blinman</Key>
       <Forenames>Harry</Forenames>
-      <Text>, Member, 5th CI., Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>9987</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -308,7 +321,9 @@
     <MainItem>
       <Key>Boulton</Key>
       <Forenames>Denis Harold</Forenames>
-      <Text>, Esquire, St. John of Jerusalem</Text>
+      <Text>
+        <Honour>Esquire, St. John of Jerusalem</Honour>
+      </Text>
       <PageNumber>10407</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -416,7 +431,10 @@
     <MainItem>
       <Key>Bridgeman</Key>
       <Forenames>Reginald Francis Orlando</Forenames>
-      <Text>, C.M.G., M.V.O., Counsellor of Embassy in H.M. Diplomatic Service</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>12591</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -426,7 +444,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>William Clive</Forenames>
-      <Text>, M.P., Sworn of H.M. Privy Council</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>9979</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -486,7 +506,10 @@
       <Key>Browne</Key>
       <Title>the Hon.</Title>
       <Forenames>Albert</Forenames>
-      <Text>, C.M.G., C.B.E., Knight. Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>10098</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -497,7 +520,11 @@
       </Key>
       <Title>Lt.-Col.</Title>
       <Forenames>John</Forenames>
-      <Text>' Gilbert, C.M.G., D.S.O., Esquire, St. John of Jerusalem</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Esquire, St. John of Jerusalem</Honour>
+      </Text>
       <PageNumber>11793</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -603,7 +630,9 @@
       <Key>Buller</Key>
       <Title>Miss</Title>
       <Forenames>Audrey Charlotte Georgina</Forenames>
-      <Text>, R.R.C., Dame Commander, Order of the British</Text>
+      <Text>
+        <Honour>R.R.C.</Honour>
+      </Text>
       <PageNumber>11555</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -655,7 +684,10 @@
       </Key>
       <Title>Comdr.</Title>
       <Forenames>James Douglas</Forenames>
-      <Text>, O.B.E., Member, 4th CI., Royal Victorian Order</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>9987</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -716,7 +748,13 @@
       <Key>Chappie</Key>
       <Title>Sir</Title>
       <Forenames>John Henry George</Forenames>
-      <Text>, K.C.B., C.V.O., Assistant Treasurer to H.M. the King, and Secretary of the Privy Purse Chaytor, Maj.-Gen. Sir Edward Walter Clerveaux, K.C.M.G., C.B., Knight Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>C.V.O.</Honour>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>9936</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -741,7 +779,9 @@
       <Key>Clarke</Key>
       <Title>Capt.</Title>
       <Forenames>Arthur Wellesley</Forenames>
-      <Text>, C.B.E., Knight Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>10195</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -770,7 +810,9 @@
     <MainItem>
       <Key>Clay</Key>
       <Forenames>Thomas William</Forenames>
-      <Text>, L.R.C.P., Esquire, St. John of Jerusalem</Text>
+      <Text>
+        <Honour>Esquire, St. John of Jerusa-</Honour>
+      </Text>
       <PageNumber>10407</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -796,7 +838,9 @@
       <Key>Clifford</Key>
       <Title>Capt.</Title>
       <Forenames>Bede Edmund Hugh</Forenames>
-      <Text>, Member, 4th CI., Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>9987</PageNumber>
     </MainItem>
   </ItemGroup>

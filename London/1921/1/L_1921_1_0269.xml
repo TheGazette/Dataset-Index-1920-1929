@@ -16,7 +16,9 @@
     <MainItem>
       <Key>Webster</Key>
       <Forenames>Flying Offr</Forenames>
-      <Text>. Eric John, D.F.C. (granted short serv</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>781</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -129,7 +131,9 @@
     <MainItem>
       <Key>Whilton</Key>
       <Forenames>Flying Offr</Forenames>
-      <Text>. F., D.C.M. (granted perm, commn. and retains subst. rank)</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>184</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -310,7 +314,10 @@
       </Key>
       <Title>2nd Lt. (Hon. Lt.)</Title>
       <Forenames>Robert Lancelot Gerrard</Forenames>
-      <Text>(rel. temp, commn. on appt. to Army commn.) Wrigley, 2nd Lt. Edward Whittaker (trd. to unempld. list) ... Wyer, Pilot Offr. John Mansfield, D.S.M. (Flying Offr.), Sub. Not Wynne-Eyton. Flight Lt. (from Sqdn. Leader) Charles Sandford, D.S.O. (granted short serv. commn.) Placed at head of list of Flight Lts. and retains seniority Yale, Flight Cadet William Corbet (granted perm, commn. as Pilot Offr.)</Text>
+      <Text>
+        <Honour>D.S.M.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1463</PageNumber>
     </MainItem>
     <SubItem>
@@ -336,7 +343,21 @@
   <ItemGroup>
     <MainItem>
       <Key>Aberdeen</Key>
-      <Text>: Davidson, Lt.rCol. Duncan Francis Anglesey : Dixon, Lt.-Col. Charles Egerton, O.B.E Dwyer Hampton, Lt.-Cbl. . Bertie Cunyiighame, D.S.O. Berkshire : Mount, William Arthur, M.P., C. B.E Chester : Norman, Sir Frederick, Knight Derbyshire : Bemrose, Brig.-Gen. William Wright, V.D Goodman, Col. Godfrey Davenport, C.M.G., D.S.O., V.D. HerbertHStiepney, Col. Cecil Champagne, D.S.O. ... Hill-Wood, Maj. Sir Samuel, Bart., M.P ... Hughes-Hallett, Norton Joseph Petersham, Maj. the Rt. Hon. Charles Joseph Leicester Stanhope, Viscount, M.C. ... Vernon, the Rt. Hon. Francis William Lawranoe VenablesVernon, Baron Walthall, Col. Edward Charles Walthall Delves, C.M.G., D. S.O ... Devon : Harrison, Gen. Sir Richard, G.C.B., C.M.G Vaughan, Col. Edward James Forester, C.M.G., D.S.O. ... Edinburgh : Paiul, Sir George Morison, J.P. Essex : The names of John Leveson Gower, Esq., and James Jackson, Esq., have been removed from ithe Roll of Deputy Lts. for County of Essex ... Hertfordshire : Pryor, Bt. Maj. Walter Marlborough, D.S.O. Lancaster : Bankes, George Hildyard, Esq</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.P.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Bart</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>G.C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Bt</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>376</PageNumber>
     </MainItem>
   </ItemGroup>

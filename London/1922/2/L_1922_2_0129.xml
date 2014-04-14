@@ -32,7 +32,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Atkinson</Key>
-      <Text>Thomas K. W</Text>
+      <Forenames>Thomas K. W.</Forenames>
       <PageNumber>3873</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -158,8 +158,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Donald</Key>
-      <Forenames>Archibald St</Forenames>
-      <Text>. C</Text>
+      <Forenames>Archibald St. C</Forenames>
       <PageNumber>3873</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -353,8 +352,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Millington</Key>
-      <Forenames>Richard C. St</Forenames>
-      <Text>. V</Text>
+      <Forenames>Richard C. St. V</Forenames>
       <PageNumber>3873</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -403,7 +401,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ravenhill</Key>
-      <Text>Ricard W</Text>
+      <Forenames>Ricard W</Forenames>
       <PageNumber>3873</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -483,14 +481,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Stedall</Key>
-      <Text>Eric A</Text>
+      <Forenames>Eric A</Forenames>
       <PageNumber>3873</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Stock</Key>
-      <Text>Howard C</Text>
+      <Forenames>Howard C</Forenames>
       <PageNumber>3873</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -609,7 +607,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Coles</Key>
-      <Text>Thomas</Text>
+      <Forenames>Thomas</Forenames>
       <PageNumber>2727</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -639,7 +637,9 @@
     <MainItem>
       <Key>Benfield</Key>
       <Forenames>Albert</Forenames>
-      <Text>II., D.S.C</Text>
+      <Text>
+        <Honour>D.S.C</Honour>
+      </Text>
       <PageNumber>2818</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -675,7 +675,9 @@
     <MainItem>
       <Key>Purnell</Key>
       <Forenames>James C</Forenames>
-      <Text>, D.S.C</Text>
+      <Text>
+        <Honour>D.S.C</Honour>
+      </Text>
       <PageNumber>3625</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -718,7 +720,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Norsworthy</Key>
-      <Text>Martin</Text>
+      <Title>Martin .</Title>
       <PageNumber>2727</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -764,7 +766,9 @@
     <MainItem>
       <Key>Bloodworth</Key>
       <Forenames>William S.</Forenames>
-      <Text>, M.B.E</Text>
+      <Text>
+        <Honour>M.B.E</Honour>
+      </Text>
       <PageNumber>2727</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -798,7 +802,9 @@
     <MainItem>
       <Key>Penfold</Key>
       <Forenames>Ernest A.</Forenames>
-      <Text>, D.S.O.. M.B</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3030</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -821,8 +827,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Colson</Key>
-      <Forenames>Henrv St</Forenames>
-      <Text>. C, M.B</Text>
+      <Forenames>Henrv St. C</Forenames>
+      <Text>, M.B</Text>
       <PageNumber>3329</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -845,7 +851,9 @@
     <MainItem>
       <Key>Markham</Key>
       <Forenames>Ernest L.</Forenames>
-      <Text>, O.B.E., M.B</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3713</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -861,7 +869,10 @@
     <MainItem>
       <Key>Stephens</Key>
       <Forenames>Horace E. R.</Forenames>
-      <Text>, O.B.E., M.B., F.R.C.S., D.P.H</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>3713</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -910,7 +921,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kirker</Key>
-      <Text>Gilbert. M.B</Text>
+      <Title>Gilbert.</Title>
+      <Forenames>M.B</Forenames>
       <PageNumber>4061</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -971,7 +983,9 @@
     <MainItem>
       <Key>Martin</Key>
       <Forenames>William E. R.</Forenames>
-      <Text>, C.M.G. (at own request)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>4329</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1018,7 +1032,9 @@
     <MainItem>
       <Key>Marks</Key>
       <Forenames>Percy</Forenames>
-      <Text>DE., C.M.G</Text>
+      <Text>
+        <Honour>C.M.G</Honour>
+      </Text>
       <PageNumber>4921</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1049,7 +1065,9 @@
     <MainItem>
       <Key>Bourchier</Key>
       <Forenames>John A. F.</Forenames>
-      <Text>, O.B.E</Text>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>3329</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1081,7 +1099,9 @@
     <MainItem>
       <Key>Hughes</Key>
       <Forenames>William H.</Forenames>
-      <Text>, O.B.E. (at own request)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3432</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1089,7 +1109,9 @@
     <MainItem>
       <Key>Meeson</Key>
       <Forenames>Charles M.</Forenames>
-      <Text>, O.B.E. (at own request)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4551</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1134,7 +1156,9 @@
     <MainItem>
       <Key>Townend</Key>
       <Forenames>Alfred B. S.</Forenames>
-      <Text>, O.B.E. (at own request)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4474</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1150,7 +1174,9 @@
     <MainItem>
       <Key>Cull</Key>
       <Forenames>Malcolm G. S.</Forenames>
-      <Text>, O.B.E</Text>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>2935</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1230,7 +1256,9 @@
     <MainItem>
       <Key>Watney</Key>
       <Forenames>Gilbert J.</Forenames>
-      <Text>, O.B.E. (at own request)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4329</PageNumber>
     </MainItem>
   </ItemGroup>

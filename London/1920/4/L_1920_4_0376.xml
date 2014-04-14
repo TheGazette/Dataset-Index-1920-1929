@@ -411,7 +411,9 @@
     <MainItem>
       <Key>MacLaren</Key>
       <Forenames>H.</Forenames>
-      <Text>, M.C. (with pay and allces. of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>12488</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -616,7 +618,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Applethwaite</Key>
-      <Text>R. H</Text>
+      <Forenames>R. H</Forenames>
       <PageNumber>11943</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -820,6 +822,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Burgh</Key>
+      <Forenames>U.</Forenames>
+      <PageNumber>10001</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Dickinson</Key>
       <Forenames>H. B. H.</Forenames>
       <PageNumber>10309</PageNumber>
@@ -836,7 +845,10 @@
     <MainItem>
       <Key>Duncan</Key>
       <Forenames>W. J. C</Forenames>
-      <Text>, D.S.O., M.C. (on prob.) S</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>821</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -915,7 +927,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hill</Key>
-      <Text>P</Text>
+      <Forenames>P.</Forenames>
       <PageNumber>10462</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -936,7 +948,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Jaques</Key>
-      <Text>B. W</Text>
+      <Forenames>B. W</Forenames>
       <PageNumber>10309</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -964,14 +976,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Laughton</Key>
-      <Text>F. E</Text>
+      <Forenames>F. E</Forenames>
       <PageNumber>10462</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Leeper</Key>
-      <Text>W. C</Text>
+      <Forenames>W. C.</Forenames>
       <PageNumber>12487</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -986,14 +998,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Mackenzie</Key>
-      <Text>I. D. (on prob.)</Text>
+      <Forenames>I. D.</Forenames>
+      <Text>(on prob.)</Text>
       <PageNumber>10756</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Mallaby</Key>
-      <Text>A. W. S</Text>
+      <Forenames>A. W. S</Forenames>
       <PageNumber>11350</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1069,8 +1082,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Gorman, B. E</Text>
+      <Key>O'Gorman</Key>
+      <Forenames>B. E.</Forenames>
       <PageNumber>11824</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1166,7 +1179,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Robinson</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>10862</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1272,7 +1285,9 @@
     <MainItem>
       <Key>Strachan</Key>
       <Forenames>J. P.</Forenames>
-      <Text>, M.M</Text>
+      <Text>
+        <Honour>M.M</Honour>
+      </Text>
       <PageNumber>10308</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1389,8 +1404,7 @@
   <ItemGroup>
     <MainItem>
       <Key>White</Key>
-      <Forenames>R.</Forenames>
-      <Text>de V</Text>
+      <Forenames>R. de V</Forenames>
       <PageNumber>10308</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1412,7 +1426,9 @@
     <MainItem>
       <Key>Woodcock</Key>
       <Forenames>T.</Forenames>
-      <Text>, M.M</Text>
+      <Text>
+        <Honour>M.M</Honour>
+      </Text>
       <PageNumber>10862</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1420,7 +1436,9 @@
     <MainItem>
       <Key>Wycherley</Key>
       <Forenames>R. H.</Forenames>
-      <Text>, M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>10002</PageNumber>
     </MainItem>
   </ItemGroup>

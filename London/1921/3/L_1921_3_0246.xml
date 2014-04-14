@@ -14,7 +14,9 @@
       <Key>Ogilvie</Key>
       <Title>Bt. Col. (now Col.)</Title>
       <Forenames>W. H.</Forenames>
-      <Text>, C.M.G., M.B. (whilst A.D.M.S., 7th Ind. Bn., Mesopotamia and Egyptian</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>6772</PageNumber>
     </MainItem>
     <SubItem>
@@ -29,7 +31,9 @@
     <MainItem>
       <Key>Buist</Key>
       <Forenames>A. W. T.</Forenames>
-      <Text>, M.D</Text>
+      <Text>
+        <Honour>M.D</Honour>
+      </Text>
       <PageNumber>6177</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -74,7 +78,9 @@
     <MainItem>
       <Key>Vinayak</Key>
       <Forenames>Narayan Bhajekar</Forenames>
-      <Text>, M.B.E., F.R.C.S.E. (granted hon. rank of Lt.-Col. on relg. hon. temp, commn.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>7312</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -107,7 +113,10 @@
     <MainItem>
       <Key>Jeudwine</Key>
       <Forenames>W. W.</Forenames>
-      <Text>, C.M.G., M.D. (whilst comdg. the Lucknow Casualty Clearing Station in France)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>6772</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -122,7 +131,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Shahme</Key>
-      <Text>. H. R. (whilst comdg. a Combined Field Amb.)</Text>
+      <Forenames>H. R.</Forenames>
+      <Text>(whilst comdg. a Combined Field Amb.)</Text>
       <PageNumber>6772</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -130,7 +140,9 @@
     <MainItem>
       <Key>Tresidder</Key>
       <Forenames>A. G.</Forenames>
-      <Text>, M.D. (whilst comdg. an Ind. Gen. Hosp.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>6399</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -140,7 +152,11 @@
     <MainItem>
       <Key>White</Key>
       <Forenames>W. W.</Forenames>
-      <Text>, C.B., C.M.G., M.D</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>M.D</Honour>
+      </Text>
       <PageNumber>6400</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -217,7 +233,9 @@
     <MainItem>
       <Key>Abdul</Key>
       <Forenames>Hamid Shaikh</Forenames>
-      <Text>, M.D</Text>
+      <Text>
+        <Honour>M.D</Honour>
+      </Text>
       <PageNumber>5562</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -272,7 +290,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bhaga</Key>
-      <Text>.t Ram Tandon, M.B</Text>
+      <Text>t Ram Tandon, M.B</Text>
       <PageNumber>6175</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -387,7 +405,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Manmatha</Key>
-      <Text>. Bhusan Chakraborty</Text>
+      <Forenames>Bhusan Chakraborty</Forenames>
       <PageNumber>6175</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -478,7 +496,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Oswald</Key>
-      <Text>. Louis, M.B</Text>
+      <Forenames>Louis</Forenames>
+      <Text>, M.B</Text>
       <PageNumber>6175</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -501,7 +520,9 @@
     <MainItem>
       <Key>Radhakrishan</Key>
       <Forenames>Tahilram Advani</Forenames>
-      <Text>, MB</Text>
+      <Text>
+        <Honour>MB</Honour>
+      </Text>
       <PageNumber>6175</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -695,7 +716,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Argemiro</Key>
-      <Text>de Gama Barreto</Text>
+      <Forenames>de Gama Barreto</Forenames>
       <PageNumber>7691</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -907,6 +928,13 @@
       <Text>And granted rank of Capt</Text>
       <PageNumber>7691</PageNumber>
     </SubItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Silva</Key>
+      <Forenames>George Patrick</Forenames>
+      <PageNumber>5360</PageNumber>
+    </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>

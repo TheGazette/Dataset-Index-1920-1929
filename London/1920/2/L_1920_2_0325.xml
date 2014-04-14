@@ -3,7 +3,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Sanders</Key>
-      <Text>Cadet R. L. (Hon. 2nd Lt.)</Text>
+      <Title>Cadet</Title>
+      <Forenames>R. L.</Forenames>
+      <Text>(Hon. 2nd Lt.)</Text>
       <PageNumber>6705</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -11,7 +13,9 @@
     <MainItem>
       <Key>Sanderson</Key>
       <Forenames>Flying Offr</Forenames>
-      <Text>. (A.) A. O, D.F.C. (granted short serv. commn.)</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>5609</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -22,7 +26,9 @@
       </Key>
       <Title>2nd Lt. (actg. Lt.)</Title>
       <Forenames>L. T.</Forenames>
-      <Text>, D.S.M. (corr. of name)</Text>
+      <Text>
+        <Honour>D.S.M.</Honour>
+      </Text>
       <PageNumber>5364</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -99,7 +105,11 @@
     <MainItem>
       <Key>Scott</Key>
       <Forenames>Wing Comdr</Forenames>
-      <Text>. A. J. L., C.B., M.C., A.F.C. (Group Capt.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>4035</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -357,7 +367,9 @@
       <Key>Seward</Key>
       <Title>Capt.</Title>
       <Forenames>W. E. L.</Forenames>
-      <Text>, M.C. (actg. Maj.) Sub. Not</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5105</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -413,7 +425,9 @@
       <Key>Sharpe</Key>
       <Title>Lt. (actg. Capt.)</Title>
       <Forenames>W.</Forenames>
-      <Text>, A.F.C. (rel. temp. R.A.F. commn. on retirement from Army &amp; retains rank of Capt)</Text>
+      <Text>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>7010</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -532,7 +546,9 @@
       <Key>Sherriff</Key>
       <Title>Flight Lt. (Ad.)</Title>
       <Forenames>F. G.</Forenames>
-      <Text>, M.C. (re-secd. to R.A.F.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4850</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -586,7 +602,9 @@
       <Key>Siedle</Key>
       <Title>Lt.</Title>
       <Forenames>G. E.</Forenames>
-      <Text>, D.F.C. (tfd. tp unempld. list)</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>5104</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -811,7 +829,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Pilot Offr</Forenames>
-      <Text>. J. H., M.B.E. (Flying Offr.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>5108</PageNumber>
     </MainItem>
     <SubItem>
@@ -845,7 +865,7 @@
       <PageNumber>4476</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Rel. hon. commn</Text>
+      <Text>Rel. hon. commn.</Text>
       <PageNumber>4477</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -950,7 +970,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>duty, Sub. Not. . Sqdn. Leader G. E., O.B.E. (rel. temp. R.A.F. oommn. on return to Army duty),</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4140</PageNumber>
     </MainItem>
     <SubItem>
@@ -1044,6 +1066,7 @@
     <SubItem>
       <Text>
         <PageNumber>4851</PageNumber>
+        <Honour>O.B.E.</Honour>
       </Text>
       <PageNumber>5609</PageNumber>
     </SubItem>
@@ -1228,7 +1251,9 @@
       <PageNumber>6794</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>D.S.O. (corr. of initials)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</PageNumber>
     </SubItem>
   </ItemGroup>

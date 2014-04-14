@@ -3,7 +3,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Treasury</Key>
-      <Text>: Appointments : Mallaby-Deeley, Sir H., Bt., Steward and Bailiff of the Manor of Northstead</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>1148</PageNumber>
     </MainItem>
     <SubItem>
@@ -64,7 +66,9 @@
       <PageNumber>1299</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Umpire under, Joseph Gerald Pease, C.B.E.</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>788</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -110,7 +114,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Viscounts</Key>
-      <Text>created : Younger, Sir George, Bart. (Viscount Younger of Leckie, of Alloa)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>1226</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -129,8 +135,10 @@
     </SubItem>
     <SubItem>
       <Text>
+        <Honour>M.D.</Honour>
         <PageNumber>50</PageNumber>
         <PageNumber>50</PageNumber>
+        <Honour>K.C.V.O.</Honour>
       </Text>
       <PageNumber>50</PageNumber>
     </SubItem>
@@ -186,7 +194,10 @@
       <Key>York</Key>
       <Title>H.R.H. Prince</Title>
       <Forenames>Albert Frederick Arthur George</Forenames>
-      <Text>, Duke of, K.G., G.C.V.O. : Addresses and Resolutions of Congratulation on occasion of betrothal to the Lady Elizabeth Bowes-Lyon</Text>
+      <Text>
+        <Honour>K.G.</Honour>
+        <Honour>G.C.V.O.</Honour>
+      </Text>
       <PageNumber>1149</PageNumber>
       <PageNumber>2163</PageNumber>
     </MainItem>
@@ -216,183 +227,8 @@
     </MainItem>
   </ItemGroup>
   <CategoryTitle>ECCLESIASTICAL APPOINTMENTS</CategoryTitle>
-  <ItemGroup>
-    <MainItem>
-      <Key>Abbott</Key>
-      <Title>Rev.</Title>
-      <Forenames>Leonard Byam Lewood</Forenames>
-      <Text>, presented to the Rectory of Conington with Knapwell</Text>
-      <PageNumber>1479</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Bellamy</Key>
-      <Title>Rev.</Title>
-      <Forenames>William Montagu</Forenames>
-      <Text>, M.A., presented to Vicarage of Holy Trinity, Forest of Dean</Text>
-      <PageNumber>285</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Davies</Key>
-      <Title>Rev.</Title>
-      <Forenames>John Timothy</Forenames>
-      <Text>, M.A., presented to Living of All Souls, Vauxhall, Liverpool</Text>
-      <PageNumber>1225</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Elder</Key>
-      <Title>Rev.</Title>
-      <Forenames>William Armstrong</Forenames>
-      <Text>, presented to Living of Kimblesworth</Text>
-      <PageNumber>2163</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Fennell</Key>
-      <Title>Rev.</Title>
-      <Forenames>William Whately</Forenames>
-      <Text>, M.A., presented to Vicarage of Holy Trinity with St. Stephen, .Seghill</Text>
-      <PageNumber>374</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Goudge</Key>
-      <Title>Rev.</Title>
-      <Forenames>Henry Leighton</Forenames>
-      <Text>, D.D., Regius Professor of Divinity in the University of Oxford, and Canon of the Cathedral Church of Christ, Oxford</Text>
-      <PageNumber>2071</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Headlam</Key>
-      <Title>Rev.</Title>
-      <Forenames>Arthur Cayley</Forenames>
-      <Text>, C. H., D.D., nominated Bishop of Gloucester</Text>
-      <PageNumber>50</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Kay</Key>
-      <Title>Rev.</Title>
-      <Forenames>Thomas George Brierley</Forenames>
-      <Text>, presented to Rectory of Christ Church, Lisson Grove, St. Marylebone</Text>
-      <PageNumber>2162</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Matthews</Key>
-      <Text>' Rev. Walter Robert, D. D., Chaplain to H.M. the King</Text>
-      <PageNumber>787</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Percival</Key>
-      <Title>Rev.</Title>
-      <Forenames>Prebendary Launce-</Forenames>
-      <Text>lot Jefferson, M.A., 'Domestic Chaplain to H.M. the King</Text>
-      <PageNumber>895</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Warren</Key>
-      <Title>Rev.</Title>
-      <Forenames>William W.</Forenames>
-      <Text>, presented to the Greenwich Hospital Living of Thorneyburn with Greystead</Text>
-      <PageNumber>606</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>White</Key>
-      <Title>Rev.</Title>
-      <Forenames>John Lawrenoe</Forenames>
-      <Text>, M.A., presented to Vicarage of St. Nicholas, Nuneaton</Text>
-      <PageNumber>1991</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Young</Key>
-      <Title>Rev.</Title>
-      <Forenames>Maxwell</Forenames>
-      <Text>, M.A., presented to All Saints, Habergham</Text>
-      <PageNumber>2071</PageNumber>
-    </MainItem>
-  </ItemGroup>
   <CategoryTitle>CIVIL PROMOTIONS</CategoryTitle>
-  <ItemGroup>
-    <MainItem>
-      <Key>Abdur</Key>
-      <Forenames>Raheem</Forenames>
-      <Text>, Companion, Order of the Indian Empire</Text>
-      <PageNumber>5</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Adam</Key>
-      <Forenames>Eric Graham Forbes</Forenames>
-      <Text>, Companion, St. Michael and St. George</Text>
-      <PageNumber>5</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Adams</Key>
-      <Forenames>John</Forenames>
-      <Text>, Officer, Order of the British Empire</Text>
-      <PageNumber>11</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Title>Professor</Title>
-      <Forenames>William George Stewart</Forenames>
-      <Text>, M.A., Commissioner under the Development and Road Improvement Funds Acts</Text>
-      <PageNumber>896</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Adkins</Key>
-      <Title>Sir</Title>
-      <Forenames>William Ryland Dent</Forenames>
-      <Text>, Kt., K.C., Member of Royal Commission on County Boroughs</Text>
-      <PageNumber>1147</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Adye-Curran</Key>
-      <Title>Lt.-Col.</Title>
-      <Forenames>William John Patrick</Forenames>
-      <Text>, O.B.E., Commander, Order of the British Empire</Text>
-      <PageNumber>7</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Aldam</Key>
-      <Forenames>Julia</Forenames>
-      <Text>, Mrs. Warde, see Warde-Aldam, Julia, Mrs. Anderson, the Rt. Honble. Sir John, K.C.B., Knight Grand Cross, Order of the Bath</Text>
-      <PageNumber>3</PageNumber>
-    </MainItem>
-  </ItemGroup>
+  <KeyDitto>___ ___</KeyDitto>
   <ItemGroup>
     <MainItem>
       <Key>
@@ -400,25 +236,28 @@
       </Key>
       <Title>temp. Lt.-Col.</Title>
       <Forenames>Nevill</Forenames>
-      <Text>, O.BTE., Commander, Order of the British Empire</Text>
-      <PageNumber>6</PageNumber>
+      <Text>
+        <Honour>K.C.V.O.</Honour>
+        <Honour>K.C.V.O.</Honour>
+      </Text>
+      <PageNumber>1479</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Annandale</Key>
-      <Forenames>Nekon</Forenames>
-      <Text>, D.Sc, Companion, Order of the Indian Empire ...*</Text>
-      <PageNumber>5</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Annesley</Key>
-      <Forenames>Lieutenant-General</Forenames>
-      <Text>Sir Arthur Lyttelton Lyttelton, K.C.V.O., see Lyttelton-Annesley, Lieutenant-General Sir Arthur Lyttelton, K.C.V.O. Appasaheb Patwardhan, Chief of Sangli, see Meherban Chintamahrav Dhundirav, Lt. . .</Text>
+    <SubItem>
+      <Text>
+        <PageNumber>5</PageNumber>
+        <PageNumber>5</PageNumber>
+      </Text>
+      <PageNumber>11</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>
+        <PageNumber>7</PageNumber>
+        <PageNumber>3</PageNumber>
+        <PageNumber>6</PageNumber>
+        <PageNumber>5</PageNumber>
+      </Text>
       <PageNumber>___ ___ ___ ___</PageNumber>
-    </MainItem>
+    </SubItem>
   </ItemGroup>
   <KeyDitto>___ ___ ___ ___</KeyDitto>
 </Index>

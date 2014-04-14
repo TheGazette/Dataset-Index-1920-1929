@@ -21,7 +21,9 @@
       <Key>Chadwick</Key>
       <Title>Lt. (temp. Capt.)</Title>
       <Forenames>F. D.</Forenames>
-      <Text>, M.C. (rel. commn., and granted rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2970</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -83,7 +85,9 @@
       </Key>
       <Title>temp.</Title>
       <Forenames>Lt</Forenames>
-      <Text>, R. M., M.C. (rel. commn. on completion of service, and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3814</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -111,7 +115,10 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>Charles Robert</Forenames>
-      <Text>, M.C., D.C.M. (corr. of name)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>4620</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -224,7 +231,9 @@
       <Key>Chance</Key>
       <Title>temp. Capt.</Title>
       <Forenames>Clifford C</Forenames>
-      <Text>, M.C., M.B. (rel. actg. rank of Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4257</PageNumber>
     </MainItem>
     <SubItem>
@@ -303,7 +312,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>M. T.</Forenames>
-      <Text>, D.S.O. (temp. Maj. whilst D.A.Q.M.G.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>2983</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -341,7 +352,11 @@
       </Key>
       <Title>Col.</Title>
       <Forenames>J. R. E.</Forenames>
-      <Text>, C.B., C.M.G., D.S.O. (temp. Col. on the Staff whilst Dir. of Staff Duties in India</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5218</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -352,14 +367,21 @@
       </Key>
       <Title>Bt. Lt.-Col.</Title>
       <Forenames>W. G.</Forenames>
-      <Text>, C.M.G.. D.S.O. (temp. Lt.-Col, whilst G.S.O., 1st Gr., in India)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4718</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Charteris</Key>
-      <Text>Bt, Col. (now Col. and temp. Col. on the Staff) J., C.M.G., D.S.O. (temp. Brig.Gen. whilst Dir. of Movements and Quarterings in India)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4718</PageNumber>
     </MainItem>
     <SubItem>
@@ -371,8 +393,8 @@
     <MainItem>
       <Key>Chase</Key>
       <Title>temp. 2nd Lt.</Title>
-      <Forenames>A. St</Forenames>
-      <Text>. J. C. (rel. commn. on completion of service, and retains rank of 2nd Lt.)</Text>
+      <Forenames>A. St. J</Forenames>
+      <Text>. C. (rel. commn. on completion of service, and retains rank of 2nd Lt.)</Text>
       <PageNumber>3508</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -465,14 +487,20 @@
       <Key>Cheesman</Key>
       <Title>Lt.</Title>
       <Forenames>W. J. W.</Forenames>
-      <Text>M.C. (ceases to be empld with M.G.C., Infy.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>3921</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Chenevix</Key>
-      <Text>Trench, Capt. R., O.B.E., M.C. (Maj., R. Corps of Sigs.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4711</PageNumber>
     </MainItem>
   </ItemGroup>

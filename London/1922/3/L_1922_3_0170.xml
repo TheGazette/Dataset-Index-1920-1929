@@ -235,7 +235,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Bros</Forenames>
+      <Title>Bros.</Title>
       <PageNumber>5822</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -399,7 +399,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Arch</Key>
-      <Forenames>Martha</Forenames>
+      <Title>Martha .</Title>
       <PageNumber>574</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -423,7 +423,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Armitage</Key>
-      <Forenames>Ben</Forenames>
+      <Title>Ben .</Title>
       <PageNumber>6611</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -444,7 +444,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Arpino</Key>
-      <Forenames>Vincent</Forenames>
+      <Title>Vincent .</Title>
       <PageNumber>5318</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -458,7 +458,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Asch</Key>
-      <Text>. William (otherwise Bertram WilhelmAsch)</Text>
+      <Forenames>William</Forenames>
+      <Text>(otherwise Bertram WilhelmAsch)</Text>
       <PageNumber>6270</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -486,7 +487,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Atherton</Key>
-      <Text>. Matilda Fanny</Text>
+      <Forenames>Matilda Fanny</Forenames>
       <PageNumber>5898</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -716,7 +717,9 @@
       <Key>Beaumont</Key>
       <Title>Adml. Sir</Title>
       <Forenames>Lewis</Forenames>
-      <Text>, G.C.B., K.C.M.G</Text>
+      <Text>
+        <Honour>G.C.B.</Honour>
+      </Text>
       <PageNumber>6490</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -862,7 +865,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Beresford</Key>
-      <Text>, the Rt. Hon. Ellen Jeromina Josephine de Mandelsloh, Lady</Text>
+      <Text>the Rt. Hon. Ellen Jeromina Josephine de Mandelsloh, Lady</Text>
       <PageNumber>5315</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -946,7 +949,7 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Forenames>Georee</Forenames>
+      <Title>Georee .</Title>
       <PageNumber>6192</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1018,7 +1021,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Blake</Key>
-      <Text>. Albert</Text>
+      <Forenames>Albert</Forenames>
       <PageNumber>6543</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1089,7 +1092,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bolton</Key>
-      <Text>. Mary (otherwise Marie) Elizabeth</Text>
+      <Forenames>Mary</Forenames>
+      <Text>(otherwise Marie) Elizabeth</Text>
       <PageNumber>6274</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1330,7 +1334,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Broadbent</Key>
-      <Forenames>Richard</Forenames>
+      <Title>Richard .</Title>
       <PageNumber>5240</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1452,7 +1456,11 @@
       <Key>Bryce</Key>
       <Title>The Rt. Hon.</Title>
       <Forenames>James</Forenames>
-      <Text>Viscount, P.C., O.M., G.C.V.O</Text>
+      <Text>
+        <Honour>P.C.</Honour>
+        <Honour>O.M.</Honour>
+        <Honour>G.C.V.O</Honour>
+      </Text>
       <PageNumber>5832</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1466,7 +1474,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Buck</Key>
-      <Text>. Allan</Text>
+      <Forenames>Allan</Forenames>
       <PageNumber>6545</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1503,7 +1511,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bullock</Key>
-      <Text>. Michael</Text>
+      <Forenames>Michael</Forenames>
       <PageNumber>6271</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1538,8 +1546,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Burgoyne-Wallace</Key>
-      <Title>Mrs.</Title>
-      <Forenames>Hannah</Forenames>
+      <Title>Mrs. Hannah .</Title>
       <PageNumber>6349</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1724,7 +1731,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cartland</Key>
-      <Text>. Frederick Howard</Text>
+      <Forenames>Frederick Howard</Forenames>
       <PageNumber>6276</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1747,7 +1754,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Carver</Key>
-      <Text>. Charles William Case, Alfred Peter Drackett (otherwise known as Alfred Peter Drackett)</Text>
+      <Forenames>Charles William Case</Forenames>
+      <Text>, Alfred Peter Drackett (otherwise known as Alfred Peter Drackett)</Text>
       <PageNumber>5394</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -30,7 +30,10 @@
       <Key>Ross</Key>
       <Title>Col. (temp. Col. Comdt.)</Title>
       <Forenames>Harry</Forenames>
-      <Text>, CLE., D.S.O., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3944</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -48,7 +51,9 @@
     <MainItem>
       <Key>Rothband</Key>
       <Forenames>Henry Lesser</Forenames>
-      <Text>, Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>4605</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -68,7 +73,11 @@
       </Key>
       <Title>the Hon.</Title>
       <Forenames>Odo William Theophilus Villiers</Forenames>
-      <Text>, C.B., C.V.O., Knight Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.V.O.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3522</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -77,14 +86,20 @@
       <Key>Rutherford</Key>
       <Title>Sir</Title>
       <Forenames>William Watson</Forenames>
-      <Text>, J.P., Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>4608</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>Johnston, Bt., Lt. Col. Thomas Reginald, Companion, St. Michael and St. George</Text>
+      <Forenames>Johnston</Forenames>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>Companion, St. Michael and St. George</Honour>
+      </Text>
       <PageNumber>3946</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -124,9 +139,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Scarborough</Key>
-      <Title>Maj.-Gen.</Title>
-      <Forenames>The</Forenames>
-      <Text>Earl of, G.B.E., K.C.B., Sub-Prior, Order of St. John of Jerusalem</Text>
+      <Title>Maj.-Gen. The Earl</Title>
+      <Text>
+        <Honour>G.B.E.</Honour>
+        <Honour>K.C.B.</Honour>
+      </Text>
       <PageNumber>3961</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -201,7 +218,9 @@
       <Key>Searle</Key>
       <Title>the Hon.</Title>
       <Forenames>Malcolm William</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>2640</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -219,7 +238,9 @@
       <Key>Segrave</Key>
       <Title>Capt.</Title>
       <Forenames>Thomas George</Forenames>
-      <Text>, C.B.E., knighthood conferred on</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>3943</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -227,7 +248,9 @@
     <MainItem>
       <Key>Severn</Key>
       <Forenames>Claud</Forenames>
-      <Text>, C.M.G., Knight Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>3950</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -235,7 +258,10 @@
     <MainItem>
       <Key>Shaftesbury</Key>
       <Forenames>Brig-Gen</Forenames>
-      <Text>. The Earl of, K.P., K.C.V.O., O.B.E., Knight of Justice of the Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>K.C.V.O.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3961</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -260,7 +286,10 @@
       <Key>Shea</Key>
       <Title>Lt. Gen. Sir</Title>
       <Forenames>John Stuart Mackenzie</Forenames>
-      <Text>, K.O.M.G., C.B., D.S.O., Knight Commander, Order of the Bath</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3944</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -269,7 +298,15 @@
       <Key>Shee</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Martin Archer</Forenames>
-      <Text>, C.M.G., D.S.O., M.P. .See Archer-Shee, Lt.-Col. Martin Archer, C.MG., D.S.O., M.P. Sheepshanks, Maj. Richard Hasell, D.S.O., Member, Royal Victorian Order</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.P.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.P.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3947</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -305,7 +342,10 @@
       </Key>
       <Title>Prof.</Title>
       <Forenames>William John Ritchie</Forenames>
-      <Text>, C.M.G., M.D., knighthood conferred on</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3944</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -313,7 +353,10 @@
     <MainItem>
       <Key>Singer</Key>
       <Forenames>Vice-</Forenames>
-      <Text>Admiral Sir Morgan, K.C.V.O., C.B., Knight Commander, Order of the Bath</Text>
+      <Text>
+        <Honour>K.C.V.O.</Honour>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>3944</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -355,7 +398,9 @@
       <Key>Slaney</Key>
       <Title>Miss</Title>
       <Forenames>Sybil Kenyon</Forenames>
-      <Text>. .See Kenyon-Slaney, Miss Sybil. Slater, Samuel Henry, CLE.. Companion, St. Michael and St. George</Text>
+      <Text>
+        <Honour>Companion, St. Michael and St. George</Honour>
+      </Text>
       <PageNumber>3946</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -374,7 +419,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>George Lewis Stan-</Forenames>
-      <Text>ley, M.C., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3948</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -387,7 +434,9 @@
       </Key>
       <Title>Maj. and Bt. Lt.-Col. (temp. Col.)</Title>
       <Forenames>Leonard Kirke</Forenames>
-      <Text>, D.S.O., Commander, Order British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3948</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -397,7 +446,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Philip Colville</Forenames>
-      <Text>, Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3947</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -439,7 +490,10 @@
       <Key>Spender-Clay</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Herbert Henry</Forenames>
-      <Text>, C.M.G., M.C, M.P., Charity Commisioner for England and Wales</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>3048</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -456,7 +510,9 @@
       <Key>Stack</Key>
       <Title>Maj. Gen. Sir</Title>
       <Forenames>Lee Oliver Fitzmaurice</Forenames>
-      <Text>, K.B.E., C.M.G,. Knight Grand Cross, Order of the British Empire</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+      </Text>
       <PageNumber>3949</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -472,7 +528,9 @@
     <MainItem>
       <Key>Stephenson</Key>
       <Forenames>Guy</Forenames>
-      <Text>, C.B., M.A., knighthood conferred on</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>4606</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -480,7 +538,9 @@
     <MainItem>
       <Key>Stevenson</Key>
       <Forenames>Malcolm</Forenames>
-      <Text>, C.M.G., Knight Commander, St. Michael and St. George</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>3945</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -497,7 +557,10 @@
       <Key>Stockley</Key>
       <Title>Maj.</Title>
       <Forenames>Henry Hudson Fraser</Forenames>
-      <Text>, O.B.E., Member, Royal Victorian Order</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3947</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -538,14 +601,18 @@
     <MainItem>
       <Key>Stradbroke</Key>
       <Forenames>Helene Violet Alice</Forenames>
-      <Text>, The Countess of, O.B.E., Lady of Grace, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3961</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Strathmore</Key>
-      <Text>and Kinghorne, Claude George, Earl of Knight Grand Cross, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3047</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -554,7 +621,15 @@
       <Key>Stuart</Key>
       <Title>Maj.-Gen.</Title>
       <Forenames>John Theodosius Burnett</Forenames>
-      <Text>, C.B., C.M.G., D.S.O., see Burnett-Stuart, Maj.-Gen. John Theodosius, C.B., C. M.G., D.S.O. Sugden, Lt.-Col. (temp. Brig.Gen.) Richard Edgar, D. S.O., Companion, St. Michael and St. George (correction)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>D. S.O.</Honour>
+        <Honour>Companion, St. Michael and St. George</Honour>
+      </Text>
       <PageNumber>4513</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -589,7 +664,10 @@
       <Key>Swinton</Key>
       <Title>Col. (Hon. Maj.-Gen.)</Title>
       <Forenames>Ernest Dunlon</Forenames>
-      <Text>, C.B., D.S.O., Knight Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3947</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -615,7 +693,9 @@
       <Key>Tanner</Key>
       <Title>Capt.</Title>
       <Forenames>Philip Henry</Forenames>
-      <Text>, M.C., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3949</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -624,7 +704,10 @@
       <Key>Taylor</Key>
       <Title>Capt.</Title>
       <Forenames>Georga Vere</Forenames>
-      <Text>, . ' D.S.O.. M.C..Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3948</PageNumber>
     </MainItem>
   </ItemGroup>

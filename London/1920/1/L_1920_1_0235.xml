@@ -3,7 +3,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Carroll-Leahy</Key>
-      <Text>? 2nd Lt. (now Lt.) J.; H. K J., M.C. (date cf cominn.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2271</PageNumber>
     </MainItem>
     <SubItem>
@@ -127,7 +129,10 @@
       </Key>
       <Title>Col.</Title>
       <Forenames>D. C</Forenames>
-      <Text>, C.B., C.M.G. (vacates appt. as a Comdt., (Remt.Depot)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>651</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -252,7 +257,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>L. J.</Forenames>
-      <Text>. D.S.O. (retires on ret. pay)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>168</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -274,7 +281,10 @@
       </Key>
       <Title>temp. Maj. (Lt.-Col., T.F. Res.)</Title>
       <Forenames>T.M.</Forenames>
-      <Text>, O.B.E., M.D. (rel. temp, commn. and . granted rank of Lt.-Col.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3746</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -325,7 +335,9 @@
       <Key>Carthew-Yorstoun</Key>
       <Title>Lt.</Title>
       <Forenames>M. A.</Forenames>
-      <Text>, M.B.E. (restd. to estabt.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>1342</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -352,7 +364,9 @@
       <Key>Cartwright</Key>
       <Title>temp. Lt.</Title>
       <Forenames>A. H.</Forenames>
-      <Text>, M.C. (Adjt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>188</PageNumber>
     </MainItem>
     <SubItem>
@@ -425,8 +439,8 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Title>temp. 2nd Lt.</Title>
-      <Forenames>K. T. St</Forenames>
-      <Text>. G. (rel. CQmrnn. on completion of service, and retains rank of 2nd Lt.)</Text>
+      <Forenames>K. T. St. G</Forenames>
+      <Text>. (rel. CQmrnn. on completion of service, and retains rank of 2nd Lt.)</Text>
       <PageNumber>652</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -437,7 +451,9 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>W.</Forenames>
-      <Text>, M.C. (rel. actg. . rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1059</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -474,7 +490,9 @@
       <Key>Carwithen</Key>
       <Title>Supern. Maj.</Title>
       <Forenames>S.</Forenames>
-      <Text>, D.S.O. (restd. to estabt.) '</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>292</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -501,14 +519,21 @@
   <ItemGroup>
     <MainItem>
       <Key>Casbolt</Key>
-      <Text>. Lt. C. (rel. temp, rank of Capt.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>C.</Forenames>
+      <Text>(rel. temp, rank of Capt.)</Text>
       <PageNumber>2400</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Case</Key>
-      <Text>. Maj. &amp; Bt. Lt.-Col. H. A., C.M.G.. D.S.O. (rel. temp, rank of Lt.-Col. on ceasing to comd. a Bn.)</Text>
+      <Title>Maj.</Title>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>805</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -524,7 +549,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Casev</Key>
-      <Text>. 2nd T.t. C. !F. '(Lit.)</Text>
+      <Text>2nd T.t. C. !F. '(Lit.)</Text>
       <PageNumber>2327</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -545,7 +570,9 @@
       </Key>
       <Title>temp. Lit.</Title>
       <Forenames>G. W.</Forenames>
-      <Text>. M.C. (rel.acts, rank lof Cnpt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>315</PageNumber>
     </MainItem>
     <SubItem>
@@ -645,7 +672,9 @@
       </Key>
       <Title>temp. Capt.</Title>
       <Forenames>D. S.</Forenames>
-      <Text>, M.D. (rel. commin. and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>2267</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -674,7 +703,9 @@
       <Key>
         <KeyDitto>—. ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>OoL H. G., C.B., C.MJG. (b.p. list, retires on ret. pay and granted ihon. rank of Brig.iGen.)-</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>182</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -710,7 +741,9 @@
         <KeyDitto>___ ___ ___ '</KeyDitto>
       </Key>
       <Title>temp.</Title>
-      <Text>iCapt. (actg. Maj.) 0. M., . M.C. (retains actg. rank ' iwhiiHt comdg. a British Report Centre)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2051</PageNumber>
     </MainItem>
     <SubItem>

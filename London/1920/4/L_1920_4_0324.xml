@@ -73,7 +73,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>Robert</Forenames>
-      <Text>, M.B. (Adjt. of R.A.M.C. School, of Instrn., South Midland Div., T.F.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10402</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -140,7 +142,10 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>A. H.</Forenames>
-      <Text>, D.S.O., T.D. (Lt.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>11583</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -151,7 +156,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>E. B.</Forenames>
-      <Text>, M.C. (resigns commn. and granted rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10716</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -184,7 +191,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>H.</Forenames>
-      <Text>, M.C. (Lt.-Col., T.F.R. Engrs.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>12817</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -339,7 +348,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>W. H.</Forenames>
-      <Text>, M.C. (trd. to T.F.R., Infy., from 7th Bn., Durh. L.I.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10952</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -350,11 +361,13 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>W. T.</Forenames>
-      <Text>, T.D. (resigns commn. and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>9974</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>. Resigns cpmmn. and retains rank of Capt., .with permission to wear, prescribed uni form), Sub.. Not</Text>
+      <Text>. Resigns cpmmn. and retains rank of Capt., .with permission to wear, prescribed uni form), Sub.. Not.</Text>
       <PageNumber>10843</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -414,7 +427,9 @@
       </Key>
       <Title>2nd Lt.</Title>
       <Forenames>V. C</Forenames>
-      <Text>, M.C. (Lt., and rem. seed., R.A.F.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>12569</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -454,7 +469,9 @@
       <Key>Davson</Key>
       <Title>Maj.</Title>
       <Forenames>I. B.</Forenames>
-      <Text>, T.D. (resigns commn. and granted rank of Lt.-Col., with permission to wear prescribed uniform)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>12366</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -483,7 +500,9 @@
       <Key>Dawes</Key>
       <Title>Maj. (Capt., ret.)</Title>
       <Forenames>E. S.</Forenames>
-      <Text>, T.D. (Lt.-Col., T.F.R., Yeo.)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>12569</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -512,7 +531,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>G. A.</Forenames>
-      <Text>, M.C. (resigns commn. and retains, rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>11570</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -534,7 +555,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>John</Forenames>
-      <Text>, M.C. (trd. to 2nd Wiltshire Heavy Bridging Co. (Army Troops) from Wilts Fort. Engrs.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9873</PageNumber>
     </MainItem>
     <SubItem>
@@ -601,8 +624,28 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>H. J. L.</Forenames>
-      <Text>, T.D. (resigns commn. and retains rank of Maj., with permission to wear prescribed uniform)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>10402</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Brisay</Key>
+      <Title>Lt.</Title>
+      <Forenames>A. C. D. C.</Forenames>
+      <Text>(resigns commn. and retains rank of Lt.)</Text>
+      <PageNumber>11322</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Geijer</Key>
+      <Title>Lt.</Title>
+      <Forenames>W. A. W. G.</Forenames>
+      <Text>(resigns commn. and granted rank of Capt.)</Text>
+      <PageNumber>10401</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -612,6 +655,24 @@
       <Forenames>E. S. G.</Forenames>
       <Text>(Lt.)</Text>
       <PageNumber>10927</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Pury</Key>
+      <Title>Lt.</Title>
+      <Forenames>C. F. P.</Forenames>
+      <Text>(trd. to T.F.R., Infy., from 4th Bn., London R.)</Text>
+      <PageNumber>11196</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Rothschild</Key>
+      <Title>Capt.</Title>
+      <Forenames>A. G.</Forenames>
+      <Text>(Maj.)</Text>
+      <PageNumber>11583</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -656,7 +717,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>D. J.</Forenames>
-      <Text>, V.C. (trd. to 4th Bn., E. Kent R., late Serv. Bn., R.W. Kent R.)</Text>
+      <Text>
+        <Honour>V.C.</Honour>
+      </Text>
       <PageNumber>9680</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -714,7 +777,9 @@
       <Key>Debenham</Key>
       <Title>Maj.</Title>
       <Forenames>A. M. G.</Forenames>
-      <Text>, M.C. (trd. to T.F.R., Infy., from 7th Bn., Lanes. Fus.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>12570</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -819,7 +884,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>R. I.</Forenames>
-      <Text>, M.C. (trd. to T.F.R., Engrs., from Northern Signal Cos. (ArmyTroops)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9674</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -915,7 +982,10 @@
       <Key>Dent</Key>
       <Title>Capt.</Title>
       <Forenames>A.</Forenames>
-      <Text>. O.B.E., M.C. (Maj.), Sub. Not</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9787</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -933,7 +1003,9 @@
       <Key>Desmond</Key>
       <Title>Lt.</Title>
       <Forenames>Arthur Edward</Forenames>
-      <Text>, M.B.E. (trd. to 2nd London Divl. Signals from 2nd London Divl. Engrs (Signal Coys.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>10586</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -285,8 +285,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wills</Key>
-      <Forenames>R. E.</Forenames>
-      <Text>de W</Text>
+      <Forenames>R. E. de W</Forenames>
       <PageNumber>866</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -295,7 +294,9 @@
       <Key>Wilmot</Key>
       <Title>Sir</Title>
       <Forenames>A. R.</Forenames>
-      <Text>Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>772</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -779,7 +780,8 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>Clair, G. J. P</Text>
+      <Forenames>Clair</Forenames>
+      <Text>, G. J. P</Text>
       <PageNumber>1196</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -807,7 +809,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Williams</Key>
-      <Text>A. E</Text>
+      <Forenames>A. E</Forenames>
       <PageNumber>1577</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1007,7 +1009,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Austin</Key>
-      <Text>A. J</Text>
+      <Forenames>A. J.</Forenames>
       <PageNumber>254</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1334,7 +1336,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Besley</Key>
-      <Text>R. G. P</Text>
+      <Forenames>R. G. P.</Forenames>
       <PageNumber>255</PageNumber>
     </MainItem>
   </ItemGroup>

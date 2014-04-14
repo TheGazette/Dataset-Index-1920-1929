@@ -14,12 +14,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Northumberland</Key>
-      <Text>: Baker-Baker, Vice-Adml. William Henry, O.B.E., J.P</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>9058</PageNumber>
     </MainItem>
     <SubItem>
       <Text>
+        <Honour>D.S.O.</Honour>
         <PageNumber>9058</PageNumber>
+        <Honour>D.S.O.</Honour>
         <PageNumber>9058</PageNumber>
       </Text>
       <PageNumber>9058</PageNumber>
@@ -32,7 +36,9 @@
       <PageNumber>9785</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Kensington, Rt. Hon. Lord, D.S.O, C.M.G. (resigns commn.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>8459</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -67,7 +73,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Southampton</Key>
-      <Text>: Footner, Lt.-Col. Foster Lake, D.S.O. ,</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>10499</PageNumber>
     </MainItem>
     <SubItem>
@@ -87,6 +95,7 @@
     </SubItem>
     <SubItem>
       <Text>
+        <Honour>D.S.O.</Honour>
         <PageNumber>9058</PageNumber>
       </Text>
       <PageNumber>9653</PageNumber>
@@ -133,7 +142,6 @@
       <PageNumber>8723</PageNumber>
     </SubItem>
   </ItemGroup>
-  <CategoryTitle>ADVERTISEMENTS</CategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>Aarons</Key>
@@ -183,7 +191,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Alexandra</Key>
-      <Text>(Newport and South Wales) Docks and Railway Acts, 1911, 1914, extension of time</Text>
+      <Title>(Newport and South Wales)</Title>
+      <Forenames>Docks</Forenames>
+      <Text>and Railway Acts, 1911, 1914, extension of time</Text>
       <PageNumber>9801</PageNumber>
     </MainItem>
   </ItemGroup>

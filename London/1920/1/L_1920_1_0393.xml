@@ -32,8 +32,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Wanless-O</Key>
-      <Text>'Gowan, Col. E., C.B., C.M.G. (placed on h.-p. list on vacating appt. as Comdr., Cannock Chase Res. Centre)</Text>
+      <Key>Wanless-O'Gowan</Key>
+      <Title>Col.</Title>
+      <Forenames>E.</Forenames>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>2035</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -60,7 +65,9 @@
       <Key>Warbrick</Key>
       <Title>temp. Capt.</Title>
       <Forenames>P.</Forenames>
-      <Text>, M.C. .(rel. actg. nank of Maj.), Sulb. Not</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>145</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -123,7 +130,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>J. R. N.</Forenames>
-      <Text>, M.C. (rel actg. rank of Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3621</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -165,7 +174,10 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>A. J.</Forenames>
-      <Text>, M.C., M.M. (retires receiving a gratuity)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>1358</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -198,7 +210,9 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>C. W.</Forenames>
-      <Text>, D.S.O. (rel. actg. rank of Capt. on ceasing to be empld. with an Oftr. Cadet Unit)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>817</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -280,7 +294,9 @@
       </Key>
       <Title>temp. Maj. and temp.</Title>
       <Forenames>Staff Payr</Forenames>
-      <Text>. J. D., O.B.E. (reL commn. on completion of service, and retains rank of Maj.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>317</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -289,7 +305,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>lit. iL., D.C.M. (retires receiving a gratuity)</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>1924</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -300,7 +318,9 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>O.</Forenames>
-      <Text>.F. M., M.C. (rel. temp, rank of Capt. on ceasing to. be spec, empld.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3520</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -404,8 +424,10 @@
     <MainItem>
       <Key>Warde-Aldam</Key>
       <Title>Capt. (Bt. Lt.-Col.)</Title>
-      <Forenames>W. St</Forenames>
-      <Text>. A., D.S.O. (Maj.)</Text>
+      <Forenames>W. St. A</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>293</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -433,7 +455,9 @@
         <KeyDitto>— ___ ___ ___ ___</KeyDitto>
       </Key>
       <Title>temp. Lit.</Title>
-      <Text>-Col, H. L., D.S.O. (rel. commn. on completion of service, and retains rank of Lt.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>2852</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -468,7 +492,7 @@
       <PageNumber>1195</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Rel. commn. on completion of service, and retains rank of lit</Text>
+      <Text>Rel. commn. on completion of service, and retains rank of lit.</Text>
       <PageNumber>2441</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -485,7 +509,9 @@
       <Key>Wardle</Key>
       <Title>2nd Lt.</Title>
       <Forenames>A.</Forenames>
-      <Text>, M.C. (Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1535</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -518,7 +544,10 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>M. K.</Forenames>
-      <Text>, D.S.O., M.C. (restd. to estabt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2568</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -558,7 +587,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Wardrop</Key>
-      <Text>tump. Maj. and temp. Sltaff Payr. D. R., O.B.E. (rel. commn. on completion of service, and retains rank of Maj.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3614</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -598,7 +629,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>S. W. P.</Forenames>
-      <Text>, O.B.E. (rel. actg. rank of Maj.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>2633</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -614,7 +647,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Warham</Key>
-      <Text>. 2nd Lt. E. H. (actg. Adjt., 9th Bn., with pay and allces. of Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>E. H.</Forenames>
+      <Text>(actg. Adjt., 9th Bn., with pay and allces. of Lt.)</Text>
       <PageNumber>308</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -630,7 +665,9 @@
     <MainItem>
       <Key>Waring</Key>
       <Title>Supem. Maj. (Bt. Lt.-Col.)</Title>
-      <Text>1 J., D.S.O. (restd. to estabt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>293</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -690,7 +727,9 @@
       <Key>Warneford</Key>
       <Title>Capt.</Title>
       <Forenames>H. W. B.</Forenames>
-      <Text>, M.C. (restd. to estabt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1179</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -699,7 +738,10 @@
       <Key>Warner</Key>
       <Title>Capt.</Title>
       <Forenames>E. C. T.</Forenames>
-      <Text>, D.S.O., M.C. (rel. actg. rank of Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1907</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -730,7 +772,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>S. W.</Forenames>
-      <Text>, M.C. (rel. temp. rank of Maj. on ceasing to foe empld. with a Serv. Bro.) 49!A Warrack, Miss H. P. M. (ceases to be empld. as Asst. Admins., Q.M.A.A.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1343</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -748,7 +792,9 @@
       <Key>Warre</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>H. C</Forenames>
-      <Text>, D.S.O. (placed on h.p. list on completing period of service in comd. of a Bn.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3410</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -770,7 +816,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>G. E.</Forenames>
-      <Text>, D.S.O. (retires on ret. pay)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>487</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -792,7 +840,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>L. E.</Forenames>
-      <Text>, D.S.O. (rel. actg. rank of Lt.-Col.) ... ..^</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>2729</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -802,7 +852,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Title>Capt. and Bt. Maj</Title>
-      <Text>; , (temp. Maj.) (actg. Lt.-Col.) T. R. P., C.B.E. (rel. temp, rank of Maj. and actg. rank of Lt.-Col., and seed.)</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>15</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -831,7 +883,10 @@
       <Key>Warrender</Key>
       <Title>2nd Lt. Sir</Title>
       <Forenames>V. A. G. A.</Forenames>
-      <Text>, Bt., M.C. (Lt.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>410</PageNumber>
     </MainItem>
     <SubItem>
@@ -881,7 +936,9 @@
       </Key>
       <Title>Miss</Title>
       <Forenames>E. M.</Forenames>
-      <Text>, M.B.E. (ceases to be empld. as Dep. Controller, Q.M.A.A.C.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>1344</PageNumber>
     </MainItem>
   </ItemGroup>

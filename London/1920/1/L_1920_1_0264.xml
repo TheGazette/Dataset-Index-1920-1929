@@ -13,7 +13,9 @@
     <MainItem>
       <Key>Faithorn</Key>
       <Forenames>E.</Forenames>
-      <Text>, M.C. (rel. temp, rank of Capt. on ceasing to be empld. with a Serv. Bn.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>296</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -53,7 +55,9 @@
       </Key>
       <Title>temp. Capt.</Title>
       <Forenames>K. D.</Forenames>
-      <Text>, M.C., M.B. (rel. commn. and granted rank of Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>294</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -73,7 +77,9 @@
       <Key>Falk</Key>
       <Title>Lt.</Title>
       <Forenames>C. J.</Forenames>
-      <Text>, M.C. (rel. actg. rank of Capt. on ceasing to comd. a Co., 7th Bn., Wilts R.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2853</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -82,7 +88,9 @@
       <Key>Falkiner</Key>
       <Title>temp. Capt.</Title>
       <Forenames>J.</Forenames>
-      <Text>McL, F.R.C.S., I. (rel. commn. and retains rank of Capt:) .. -</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>1925</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -91,7 +99,9 @@
       <Key>Fane</Key>
       <Title>Maj. (Bt. Lt.-Col.)</Title>
       <Forenames>J.</Forenames>
-      <Text>, D.S.O. (rel. tomp. rank of Lt.-Col. on ceasing to comd. the 8th Serv. Bn., Glouc. R., A. of O.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1931</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -100,7 +110,9 @@
       <Key>Fane-de-Salis</Key>
       <Title>Lt.</Title>
       <Forenames>E. W.</Forenames>
-      <Text>, M.C. (restd. to estabt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2849</PageNumber>
     </MainItem>
     <SubItem>
@@ -124,7 +136,10 @@
       </Key>
       <Title>Maj.-Gen. Sir</Title>
       <Forenames>H.D.</Forenames>
-      <Text>, K.C.M.G., ' C.B. (retires on ret. pay and granted hon. rank of Lt.Gen.)</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>2046</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -144,7 +159,10 @@
       <Key>
         <KeyDitto>___ ___ —</KeyDitto>
       </Key>
-      <Text>^___ ___ Maj.-Gen. Sir R., K.C.B., D.S.O. (retires on ret. pay), Sub. Not</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>317</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -162,7 +180,9 @@
       <Key>Faraday</Key>
       <Title>Lt.</Title>
       <Forenames>J. A. M.</Forenames>
-      <Text>, M.C. (placed on ret. list on acc. of ill-health caused by wounds)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3737</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -233,7 +253,11 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>Bt: Lt.-Col. H. M., C.M.G., D.S.O. (temp. Lt.-Col. whilst an A.A. and Q.M.G.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>182</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -246,7 +270,7 @@
       <PageNumber>1549</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Temp. Capt. whilst Asst. Technical Recruiting Offr</Text>
+      <Text>Temp. Capt. whilst Asst. Technical Recruiting Offr.</Text>
       <PageNumber>1549</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -281,7 +305,7 @@
       <PageNumber>14</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Trd. to Gen. Res. of Offrs</Text>
+      <Text>Trd. to Gen. Res. of Offrs.</Text>
       <PageNumber>17</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -332,7 +356,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Farmer</Key>
-      <Text>.temp. Lt. G. S. (rel. commn. on completion of service and retains rank of Lt.)</Text>
+      <Title>temp. Lt.</Title>
+      <Forenames>G. S.</Forenames>
+      <Text>(rel. commn. on completion of service and retains rank of Lt.)</Text>
       <PageNumber>492</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -361,7 +387,9 @@
       <Key>Farnham</Key>
       <Title>Maj.</Title>
       <Forenames>A. K.</Forenames>
-      <Text>, Lord, D.S.O. (rel. temp, rank of Lt.-Col. on ceasing to comd. a Bn., R. Inn. Fus.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>2167</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -436,7 +464,9 @@
       </Key>
       <Title>temp. Capt.</Title>
       <Forenames>D.</Forenames>
-      <Text>, M.C. (rel. commn. on completion of service and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1550</PageNumber>
     </MainItem>
     <SubItem>
@@ -524,7 +554,9 @@
       <Key>Farraday</Key>
       <Title>Qrmr. and Maj.</Title>
       <Forenames>W.</Forenames>
-      <Text>, M.B.E. (retires on ret. pay, having attained the age limit for retirement)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>154</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -533,7 +565,9 @@
       <Key>Farrall</Key>
       <Title>2nd Lt.</Title>
       <Forenames>S. A. R.</Forenames>
-      <Text>, M.C. (Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2572</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -551,7 +585,9 @@
       <Key>Farrance</Key>
       <Title>Lt.</Title>
       <Forenames>H.</Forenames>
-      <Text>, M.B.E. (placed on ret. pay, having attained the age limit fixed for compulsory retirement)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>2401</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -569,7 +605,9 @@
       <Key>Farrar</Key>
       <Title>temp. Lt.</Title>
       <Forenames>W. F.</Forenames>
-      <Text>, M.C. (rel. actg. rank of Capt. on ceasing to comd. a Sect., Tank Corps )</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2168</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -631,7 +669,9 @@
       </Key>
       <Title>Capt. (temp. Maj.)</Title>
       <Forenames>J. E.</Forenames>
-      <Text>, M.C. . (Adjt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1205</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -640,7 +680,10 @@
       <Key>Fasson</Key>
       <Title>Col.</Title>
       <Forenames>D. J. M.</Forenames>
-      <Text>, C.B., C.M.G. (rel. temp, rank of Brig.-Gen. on vacating appt. as Inspr. R.H. and R.F.A.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>2152</PageNumber>
     </MainItem>
     <SubItem>
@@ -654,7 +697,9 @@
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
       <Title>Dep. Commy.</Title>
-      <Text>of Ord. and Maj. T. W., O.B.E. (temp. Maj. with pay and allces. as Commy. of Ord. and extra duty pay) .. .,</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>816</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -700,7 +745,7 @@
       <PageNumber>2402</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Rel. commn. on completion of service and —« granted rank of Capt</Text>
+      <Text>Rel. commn. on completion of service and —« granted rank of Capt.</Text>
       <PageNumber>2026</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -760,7 +805,9 @@
       <Key>Faviell</Key>
       <Title>Maj.</Title>
       <Forenames>W. F. O.</Forenames>
-      <Text>, D.S.O. (rel. temp, rank of Lt.-Col. on ceasing to comd. 9th Bn.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1928</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -789,7 +836,9 @@
       <Key>Fawdry</Key>
       <Title>Lt. (temp. Capt.)</Title>
       <Forenames>F.</Forenames>
-      <Text>, M.B.E. (restd. to estabt.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>1519</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -800,7 +849,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>T.</Forenames>
-      <Text>, M.B.E. (seed, for serv. with R.A.F.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>2033</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -875,7 +926,7 @@
       <PageNumber>670</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Corr. of date of prom, to rank of Lt</Text>
+      <Text>Corr. of date of prom, to rank of Lt.</Text>
       <PageNumber>81</PageNumber>
     </SubItem>
   </ItemGroup>

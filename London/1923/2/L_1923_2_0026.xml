@@ -12,7 +12,11 @@
     <MainItem>
       <Key>Bowlby</Key>
       <Title>Maj.</Title>
-      <Text>-General Sir Anthony Alfred, K.C.B., K. C. M. G., K. C. V. O., F.R.C.S., Baronet</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>F.R.C.S.</Honour>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>4605</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -21,7 +25,9 @@
       <Key>Boxall</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Alleyne Perci-</Forenames>
-      <Text>val, T.D., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>3948</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -30,7 +36,9 @@
       <Key>Boyd-Carpenter</Key>
       <Title>Major</Title>
       <Forenames>Archi-</Forenames>
-      <Text>bald Boyd, M.P., Paymaster-General</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>3834</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -53,7 +61,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Briutoii</Key>
-      <Text>lit.-Col. John Chayter, D.S.O., M.V.O., Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.V.O.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3947</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -68,7 +80,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Broadmead</Key>
-      <Text>Philip Mainwaring, Second Secretary in H.M. Diplomatic Service</Text>
+      <Forenames>Philip Mainwaring</Forenames>
+      <Text>, Second Secretary in H.M. Diplomatic Service</Text>
       <PageNumber>4346</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -77,7 +90,10 @@
       <Key>Brown</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>John</Forenames>
-      <Text>, D.S.O., T.D., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>3947</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -136,7 +152,9 @@
       <Key>Bullen</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Stephen Darley</Forenames>
-      <Text>, Companion Distinguished Service Order (correction)</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>4517</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -153,7 +171,11 @@
       <Key>Burn</Key>
       <Title>Col.</Title>
       <Forenames>Charles Rosdew</Forenames>
-      <Text>, O.B.E., A.D.C., Baronet</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>A.D.C.</Honour>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>2811</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -162,7 +184,11 @@
       <Key>Burnett-Stuart</Key>
       <Title>Maj.-Gen.</Title>
       <Forenames>John Theodosius</Forenames>
-      <Text>, C.B., C.M.G., D.S.O., Knight Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>39451</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -196,7 +222,10 @@
     <MainItem>
       <Key>Butters</Key>
       <Forenames>John Henry</Forenames>
-      <Text>, M.B.E., Companion, St. Michael and St. George</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+        <Honour>Companion, St. Michael and St. George</Honour>
+      </Text>
       <PageNumber>3946</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -213,7 +242,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>General</Forenames>
-      <Text>the Lord, G.C.B., G. C. M. G., M. V. O., Knight of Grace, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>G.C.B.</Honour>
+      </Text>
       <PageNumber>3961</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -222,7 +253,9 @@
       <Key>Culiusac</Key>
       <Title>Capt.</Title>
       <Forenames>Arthur Nigel</Forenames>
-      <Text>, M.C., Esquire, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3961</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -254,7 +287,9 @@
     <MainItem>
       <Key>Campbell</Key>
       <Forenames>Honourable Alexander</Forenames>
-      <Text>, M.D., Member of the Legisative Council of tho Colony of Newfoundland</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>4127</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -274,7 +309,9 @@
         <KeyDitto>—— ___</KeyDitto>
       </Key>
       <Forenames>Gerald</Forenames>
-      <Text>, Companion, St. Michael and St. George</Text>
+      <Text>
+        <Honour>Companion, St. Michael and St. George</Honour>
+      </Text>
       <PageNumber>3940</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -284,7 +321,10 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>John</Forenames>
-      <Text>, O.B.E., Companion, Star of India</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>Companion, Star of India</Honour>
+      </Text>
       <PageNumber>3946</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -315,7 +355,9 @@
       </Key>
       <Title>Col.</Title>
       <Forenames>Ronald Bruco</Forenames>
-      <Text>, D.S.O., Commander, Order of tho British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3948</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -323,7 +365,12 @@
     <MainItem>
       <Key>Carnegie</Key>
       <Forenames>George David Howard Fullerton</Forenames>
-      <Text>, M.C., see Fullerton-Carnegie, G. D. H., M.C. Carpenter, Major Archibald Boyd Boyd, M.P., see BoydCarpenter, Major Archibald Boyd, M.P. Carr, Albert Bonus, Unofficial Member of the Legislative Council of the Colony of Trinidad and Tobago</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>M.P.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>3963</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -339,7 +386,12 @@
   <ItemGroup>
     <MainItem>
       <Key>Cecil</Key>
-      <Text>the Rt. Hon. Edgar Algernon Robert Gascoyne, K.C., M.P., see GascoyneCecil, the Rt. Hon. Edgar Algernon Robert, K.C, M.P. Chambers. Surg. Rear-Admiral Joseph, ' C.M.G., M.B., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+        <Honour>M.P.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3944</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -373,8 +425,8 @@
     <MainItem>
       <Key>Charles</Key>
       <Title>Capt.</Title>
-      <Forenames>Ulick</Forenames>
-      <Text>de Burgh, Commander, Order of the British Empire</Text>
+      <Forenames>Ulick de Burgh</Forenames>
+      <Text>, Commander, Order of the British Empire</Text>
       <PageNumber>3949</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -407,14 +459,19 @@
     <MainItem>
       <Key>Chelmsford</Key>
       <Forenames>Frederic John Napier</Forenames>
-      <Text>, Viscount, K.G.C.S.I., K.G.C.M.G., K.G.C.I.E., K.G.C.B.E., Chairman, Royal Commission on Land Subsidence</Text>
+      <Text>
+        <Honour>G.C.M.G.</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>4273</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Chenevix</Key>
-      <Text>Trench, Lt. Col. Richard Henry, O.B.E., Companion Order of the Indian Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3946</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -446,7 +503,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Clapham</Key>
-      <Text>Alfred William, F.S.A., Officer, Order of the BritishEmpire</Text>
+      <Forenames>Alfred William</Forenames>
+      <Text>, F.S.A., Officer, Order of the BritishEmpire</Text>
       <PageNumber>4607</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -484,7 +542,10 @@
       </Key>
       <Title>Col.</Title>
       <Forenames>Robert</Forenames>
-      <Text>, O.B.E., D.L., V.E., J.P., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>D.L.</Honour>
+      </Text>
       <PageNumber>4606</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -518,7 +579,9 @@
     <MainItem>
       <Key>Claughton</Key>
       <Forenames>Harold</Forenames>
-      <Text>, O.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4606</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -535,7 +598,10 @@
       <Key>Clive</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>George Windsor</Forenames>
-      <Text>, C.M.G., M.P. for Ludlow</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>2962</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -571,7 +637,9 @@
     <MainItem>
       <Key>Coleman</Key>
       <Forenames>Charles</Forenames>
-      <Text>, Member, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3947</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -579,7 +647,9 @@
     <MainItem>
       <Key>Collins</Key>
       <Forenames>James Richard</Forenames>
-      <Text>, C.M.G., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>3950</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -587,7 +657,9 @@
     <MainItem>
       <Key>Coteon</Key>
       <Forenames>Charles Henry</Forenames>
-      <Text>, O.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4606</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -646,7 +718,9 @@
     <MainItem>
       <Key>Courroux</Key>
       <Forenames>Edward Septimus</Forenames>
-      <Text>, Member, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3947</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -655,7 +729,10 @@
       <Key>Coventry</Key>
       <Title>Lt.-Col. the Hon.</Title>
       <Forenames>Charles John</Forenames>
-      <Text>, T.D., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3945</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -683,7 +760,9 @@
     <MainItem>
       <Key>Cowasji</Key>
       <Forenames>Jehangir</Forenames>
-      <Text>, C.I.E., O.B.E., member of the Executive Council of the Governor of Bombay</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4522</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -691,7 +770,9 @@
     <MainItem>
       <Key>Cox</Key>
       <Forenames>Belle</Forenames>
-      <Text>, Lady, O.B.E., Dame Commander Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3950</PageNumber>
     </MainItem>
   </ItemGroup>

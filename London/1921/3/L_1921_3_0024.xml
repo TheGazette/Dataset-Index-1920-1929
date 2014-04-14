@@ -102,7 +102,9 @@
       <Key>Alban</Key>
       <Title>Sister</Title>
       <Forenames>Alice Dorothy Merlyn</Forenames>
-      <Text>, A.R.R.C., Royal Red Cross, 1st Class</Text>
+      <Text>
+        <Honour>A.R.R.C.</Honour>
+      </Text>
       <PageNumber>7195</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -120,7 +122,10 @@
       <Key>Allen</Key>
       <Title>Col.</Title>
       <Forenames>William James</Forenames>
-      <Text>, D.S.O., M.P., Knight Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>5554</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -173,8 +178,10 @@
     <MainItem>
       <Key>Atkinson</Key>
       <Title>Maj.-Gen.</Title>
-      <Forenames>Edwin Henry</Forenames>
-      <Text>de Vere, C.B„ C.M.G., CLE., Knight Commander, Order of the British Empire</Text>
+      <Forenames>Edwin Henry de Vere</Forenames>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>7194</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -182,7 +189,9 @@
     <MainItem>
       <Key>Atlay</Key>
       <Forenames>Wilfred</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>7381</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -242,7 +251,9 @@
     <MainItem>
       <Key>Barnes</Key>
       <Title>Capt.</Title>
-      <Text>. (A. /Lt.-Col.) Cornelius William, M.C., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7194</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -277,7 +288,10 @@
       <Key>Beatty</Key>
       <Title>Col. (T./Col. Comdt.)</Title>
       <Forenames>Guy Archibald Hastings</Forenames>
-      <Text>, C. M.G., D.S.O., Companion, Star of India</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Star of India</Honour>
+      </Text>
       <PageNumber>7194</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -320,7 +334,10 @@
       <Key>Borwick</Key>
       <Title>Sir</Title>
       <Forenames>Robert Hudson</Forenames>
-      <Text>, Bt., Knight of Grace, St. John of Jerusalem</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>Knight of Grace, St. John of Jerusalem</Honour>
+      </Text>
       <PageNumber>6019</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -353,7 +370,9 @@
       <Key>Bradney</Key>
       <Title>Capt. and Bt. Maj.</Title>
       <Forenames>Edward</Forenames>
-      <Text>, Companion, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>6350</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -361,7 +380,9 @@
     <MainItem>
       <Key>Braham</Key>
       <Forenames>George Noel</Forenames>
-      <Text>, M.C., F.R.C.S.Ed., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5554</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -378,7 +399,9 @@
       <Key>Branson</Key>
       <Title>The Hon. Mr.</Title>
       <Forenames>Justice George Arthur Harwin</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>7382</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -396,7 +419,9 @@
       <Key>Bridges</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Arthur Holroyd</Forenames>
-      <Text>, D. S.O.. Companion, Order of the Indian Empire</Text>
+      <Text>
+        <Honour>D. S.O.</Honour>
+      </Text>
       <PageNumber>7194</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -413,7 +438,10 @@
       <Key>Brooke</Key>
       <Title>Capt. Sir</Title>
       <Forenames>Basil Stanlake</Forenames>
-      <Text>, Bt., M.C., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5554</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -431,7 +459,11 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>John Walton</Forenames>
-      <Text>, M.D., LL.D.. D.L., Knighted</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+        <Honour>D.L.</Honour>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>5553</PageNumber>
       <PageNumber>7381</PageNumber>
     </MainItem>
@@ -439,7 +471,12 @@
   <ItemGroup>
     <MainItem>
       <Key>Browning</Key>
-      <Text>. Jeffrey, C.B.E., I.S.O., Knighted ... '</Text>
+      <Forenames>Jeffrey</Forenames>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>I.S.O</Honour>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>7381</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -456,7 +493,10 @@
     <MainItem>
       <Key>Burke</Key>
       <Forenames>John</Forenames>
-      <Text>, J.P., D.L., Knighted</Text>
+      <Text>
+        <Honour>D.L.</Honour>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>5563</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -467,7 +507,27 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>Roy Neil Boyd</Forenames>
-      <Text>, O.B.E., Companion, D.S.O. ... Capper, Major-General Sir John Edward, K.C.B., Knight Commander, Royal Victorian Order Carroll, Maj. 'and Bt. Lt.-Col. Brian Maurice, Companion, Order of the Indian Empire ... Carver, Capt. Felix Edmond, Officer, Order of the British Empire Caryer, T./Capt. George Thomas, Officer, Order of the British Empire Cave, Edward Watkins, H.M. Counsel Chafy, Ralph Evelyn Westwood, H. M. Consul at The Piraeus ... Chamier, Capt. Anthony, Officer, Order of the British Empire ... Chaytor, Maj. Francis Clervaux, M.C., Officer, Order of the British Empire Chick, Herbert George, CLE., H.M. Consul at Shiraz ... Choo Kia Peng, Unofficial Member of Federal Council of Federated Malay States Clarkson, Eng. Rear-Admiral William, C.M.G., A.D.C, R.A.N., Knight Commander, Order of the British Empire (correction) Clift, William Richard, to superintend transfer of Lascars at Tilbury ... Clough, Robert, M.P., Knighted... Coates, William Frederick, D.L., created Baronet Coleman, Lt. Frederick William, M.C, Member, Order of, the British Empire Collingjwood, Lt. Francis William Norton,, Member, Order of the British Empire -. Colville, Admiral the Hon. Sir Stanley Cecil James, G.C.M.G.. G.C.V.O., K.C.B., Knight Grand Cross, Order of the Bath Coningham, Col. Frank Evelyn, C.B., C.M.G.. D.S.O.. Companion. Star of India Connop, Maj. Harry Ernest, Companion, D.S.O 'Cook, Basil Alfred Kemball, C.B.. see Kemball-Cook, Basil Alfred, C.B. Cooke, Capt. Gervase Mignon Borlase, Officer, Order of the British Empire Cornell, James, to superintend transfer of Lascars at Barrowin-Furness</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>K.C.B.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+        <Honour>Bt</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>M.P.</Honour>
+        <Honour>Knighted</Honour>
+        <Honour>D.L.</Honour>
+        <Honour>Baronet</Honour>
+        <Honour>G.C.M.G.</Honour>
+        <Honour>G.C.V.O.</Honour>
+        <Honour>K.C.B.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>7381</PageNumber>
     </MainItem>
   </ItemGroup>

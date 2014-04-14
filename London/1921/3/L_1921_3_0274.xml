@@ -55,7 +55,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bootle</Key>
-      <Forenames>Motor Co</Forenames>
+      <Forenames>Motor</Forenames>
+      <Text>Co</Text>
       <PageNumber>7268</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -92,7 +93,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Boyett</Key>
-      <Text>C, and 0</Text>
+      <Forenames>C</Forenames>
+      <Text>, and 0</Text>
       <PageNumber>5592</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -131,7 +133,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>Madame</Text>
+      <Title>Madame .</Title>
       <PageNumber>5673</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -265,7 +267,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Buff</Key>
-      <Forenames>Motor Co</Forenames>
+      <Forenames>Motor</Forenames>
+      <Text>Co</Text>
       <PageNumber>6421</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -353,7 +356,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cattlegate</Key>
-      <Forenames>Nurseries</Forenames>
+      <Title>Nurseries .</Title>
       <PageNumber>7405</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -530,7 +533,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cooperette</Key>
-      <Forenames>Sidecar Co</Forenames>
+      <Forenames>Sidecar</Forenames>
+      <Text>Co</Text>
       <PageNumber>5276</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -552,22 +556,23 @@
   <ItemGroup>
     <MainItem>
       <Key>Corah</Key>
-      <Forenames>Thos</Forenames>
-      <Text>., and Sons</Text>
+      <Title>Thos.</Title>
+      <Text>, and Sons</Text>
       <PageNumber>7337</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Corona</Key>
-      <Forenames>Fruit Preserving Co</Forenames>
+      <Forenames>Fruit Preserving</Forenames>
+      <Text>Co</Text>
       <PageNumber>5275</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Conlson</Key>
-      <Text>Capt. and Mrs</Text>
+      <Title>Capt. and Mrs</Title>
       <PageNumber>6625</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -928,7 +933,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Elliott</Key>
-      <Text>S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>5510</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -942,8 +947,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Enterprise</Key>
-      <Forenames>Manufacturing Co</Forenames>
-      <Text>. T</Text>
+      <Forenames>Manufacturing</Forenames>
+      <Text>Co. T</Text>
       <PageNumber>7597</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -980,7 +985,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Everton</Key>
-      <Forenames>Transport Co</Forenames>
+      <Forenames>Transport</Forenames>
+      <Text>Co</Text>
       <PageNumber>7083</PageNumber>
       <PageNumber>7482</PageNumber>
     </MainItem>
@@ -1122,7 +1128,8 @@
   <ItemGroup>
     <MainItem>
       <Key>General</Key>
-      <Forenames>Typewriter Accessories Co</Forenames>
+      <Forenames>Typewriter Accessories</Forenames>
+      <Text>Co</Text>
       <PageNumber>6122</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1161,7 +1168,7 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>6798</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1175,7 +1182,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gopsall</Key>
-      <Forenames>Motor Engineerin Co</Forenames>
+      <Forenames>Motor Engineerin</Forenames>
+      <Text>Co</Text>
       <PageNumber>6059</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1300,6 +1308,13 @@
       <Key>Hallinau</Key>
       <Text>and Fletcher</Text>
       <PageNumber>6234</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Hammond</Key>
+      <Title>Bros.</Title>
+      <PageNumber>7337</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1747,7 +1762,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hyde</Key>
-      <Forenames>Dyeingand Raising Co</Forenames>
+      <Forenames>Dyeingand Raising</Forenames>
+      <Text>Co</Text>
       <PageNumber>6698</PageNumber>
     </MainItem>
   </ItemGroup>

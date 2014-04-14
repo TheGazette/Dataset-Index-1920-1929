@@ -108,7 +108,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>G. A.</Forenames>
-      <Text>,M.C. (rel.conimn. and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>449</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -118,7 +120,9 @@
         <KeyDitto>— ___ ___ ___</KeyDitto>
       </Key>
       <Title>Lt.-Col.</Title>
-      <Text>, G. F., M.B., T.D. (rel. cemmn. and retains rank with permission to wear prescribed uniform)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>1579</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -164,14 +168,18 @@
       <Key>AVicks</Key>
       <Title>Capt.</Title>
       <Forenames>C.F.</Forenames>
-      <Text>, M.C. (rel. 'commn. and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>620</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Wicksteed</Key>
-      <Text>. Capt. H. (Capt. 7th Bn. Northd. Fus. Inf., from T.A. Res.) ... ._</Text>
+      <Title>Capt.</Title>
+      <Forenames>H.</Forenames>
+      <Text>(Capt. 7th Bn. Northd. Fus. Inf., from T.A. Res.) ... ._</Text>
       <PageNumber>1494</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -179,7 +187,11 @@
     <MainItem>
       <Key>AVigan</Key>
       <Title>Lt.-Col. (Hon. Brig.-Gen.)</Title>
-      <Text>, J. T., C.B., C.M.G., D.S.O. (Hon. Col.) (4th Bn. Essex R.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>546</PageNumber>
     </MainItem>
     <SubItem>
@@ -253,7 +265,9 @@
       <Key>Wiley</Key>
       <Title>Capt.</Title>
       <Forenames>T. P.</Forenames>
-      <Text>, O.B.E. (rel. comm. and ret ins rank of Capt.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>707</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -273,7 +287,9 @@
       </Key>
       <Title>Lt.-Col.</Title>
       <Forenames>U. M.</Forenames>
-      <Text>, T.D. (trd. to . T.A. Res., Regtl. List, Inf., from 5th Bn. R.S. Fus.)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>2219</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -284,7 +300,9 @@
       </Key>
       <Title>Lt.-Col.</Title>
       <Forenames>J. A.</Forenames>
-      <Text>T.D. (announcement in Uiiz. 30th Dec, 1921 cancelled)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>2506</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -368,8 +386,8 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Forenames>The Revd</Forenames>
-      <Text>. (Hon. Cliapln to the Forces, 4th CI.), Gordon Austin Wilmott, M. C., B A. (Chapln. 4th CI.)</Text>
+      <Title>The Revd. (Hon. Cliapln to the Forces, 4th CI.)</Title>
+      <Text>, Gordon Austin Wilmott, M. C., B A. (Chapln. 4th CI.)</Text>
       <PageNumber>2131</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -389,7 +407,9 @@
       </Key>
       <Title>Chailn. 1st CI, Rev.</Title>
       <Forenames>J.</Forenames>
-      <Text>, M.A., T.D. (rel. commn. and to be Hon. Chaplu. 1st CI.)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>1072</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -399,7 +419,9 @@
         <KeyDitto>— ___ ___</KeyDitto>
       </Key>
       <Title>Maj.</Title>
-      <Text>AV., T.D. (retired, having attained age limit and retains rank of Maj, with peimission to wear prescribed uniform)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>448</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -472,7 +494,9 @@
         <KeyDitto>-— ___ ___</KeyDitto>
       </Key>
       <Forenames>Capt</Forenames>
-      <Text>, C. G., M.C. (rel. commn and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>707</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -588,7 +612,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>H. C</Forenames>
-      <Text>, O.B.E. (rel. commn. and retains rank of Capt.) ._</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>717</PageNumber>
     </MainItem>
     <SubItem>
@@ -614,7 +640,9 @@
       </Key>
       <Title>Chapln. 4th CI. the Rev.</Title>
       <Forenames>H.S.F.</Forenames>
-      <Text>.M.C..B.A. (Chapln., 3rd CI.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2317</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -625,7 +653,10 @@
       </Key>
       <Title>Hon. Col. Sir</Title>
       <Forenames>J.</Forenames>
-      <Text>,Bt., G.CV.O., M.D. (vacates appt. as Hon, CpL of Welsh. Divn.) . ..,</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>1277</PageNumber>
     </MainItem>
   </ItemGroup>

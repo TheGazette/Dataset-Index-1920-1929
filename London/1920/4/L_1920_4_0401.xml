@@ -92,7 +92,9 @@
       <Key>Workman</Key>
       <Title>Capt.</Title>
       <Forenames>F.</Forenames>
-      <Text>, M.C. (actg. Maj., Gr. A)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>11003</PageNumber>
     </MainItem>
     <SubItem>
@@ -180,7 +182,9 @@
       <Key>Young</Key>
       <Title>Lt.</Title>
       <Forenames>H. C.</Forenames>
-      <Text>A.F.C. (trd. to unempld. list)</Text>
+      <Text>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>12300</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -267,18 +271,24 @@
   <ItemGroup>
     <MainItem>
       <Key>Cornwall</Key>
-      <Text>: . . n ' Hanson, Sir Charles Augustin, Bart., M.P</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>12756</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Hood, Lt.-Col. the Hon. Neville Albert, C.M.G., D.S.O</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>12756</PageNumber>
     </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Dundee</Key>
-      <Text>: Don, Sir William, K.B.E</Text>
+      <Text>
+        <Honour>K.B.E</Honour>
+      </Text>
       <PageNumber>12195</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -289,25 +299,36 @@
       <PageNumber>10306</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Wigan, Biig.-Gen. J. T., C.B., C.M.G., D.S.O</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>10306</PageNumber>
     </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Glasgow</Key>
-      <Text>: Cargill. Sir John Trail, Bt., J. P</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>11118</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>McConnell, Edward, M.D., J.P</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>11119</PageNumber>
     </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Kincardineshire</Key>
-      <Text>: Burnett, Col. Lauderdale Gilbert, C.M.G., D.S.O</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>10754</PageNumber>
     </MainItem>
     <SubItem>
@@ -318,7 +339,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Lanark</Key>
-      <Text>: Stewart, Sir James Watson, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>12756</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -332,7 +355,12 @@
   <ItemGroup>
     <MainItem>
       <Key>Staffordshire</Key>
-      <Text>: Child, Col. Sir Smith Hill, C.B., C.M.G., D.S.O-, M.V.O., M.P</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>M.V.O.</Honour>
+        <Honour>M.P</Honour>
+      </Text>
       <PageNumber>12054</PageNumber>
     </MainItem>
     <SubItem>
@@ -349,8 +377,11 @@
     <SubItem>
       <Text>
         <PageNumber>12054</PageNumber>
+        <Honour>C.B.</Honour>
         <PageNumber>12054</PageNumber>
+        <Honour>C.B.</Honour>
         <PageNumber>12054</PageNumber>
+        <Honour>C.B.E.</Honour>
         <PageNumber>12054</PageNumber>
       </Text>
       <PageNumber>12054</PageNumber>

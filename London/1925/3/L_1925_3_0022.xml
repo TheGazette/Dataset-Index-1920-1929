@@ -3,7 +3,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wells</Key>
-      <Text>B. G</Text>
+      <Forenames>B. G.</Forenames>
       <PageNumber>5699</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -86,8 +86,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>J. W. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>J. W. St. J</Forenames>
       <PageNumber>5564</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -447,7 +446,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Woolmer</Key>
-      <Text>F. M</Text>
+      <Forenames>F. M.</Forenames>
       <PageNumber>5837</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -556,8 +555,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Martelli</Key>
-      <Forenames>H.</Forenames>
-      <Text>de C</Text>
+      <Forenames>H. de C</Forenames>
       <PageNumber>5699</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1203,7 +1201,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Beaumont</Key>
-      <Text>M. AV</Text>
+      <Forenames>M.</Forenames>
+      <Text>AV</Text>
       <PageNumber>5217</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1711,7 +1710,9 @@
       <Key>Bromley-Wilson</Key>
       <Title>Sir</Title>
       <Forenames>M.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>5285</PageNumber>
     </MainItem>
   </ItemGroup>

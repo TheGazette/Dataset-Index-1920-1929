@@ -145,7 +145,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hurst</Key>
-      <Text>)N., M.C. (retains actg. rank with pav, while performing duties of Adjt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9302</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -367,15 +369,18 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, B. P. T., M.C. {while comdg. Coy.)</Text>
+      <Key>O'Brien</Key>
+      <Forenames>B. P. T.</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9302</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connell, F. C</Text>
+      <Key>O'Connell</Key>
+      <Forenames>F. C.</Forenames>
       <PageNumber>7869</PageNumber>
     </MainItem>
     <SubItem>
@@ -507,7 +512,9 @@
     <MainItem>
       <Key>iShields</Key>
       <Forenames>C. R. C</Forenames>
-      <Text>, M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>8632</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -558,7 +565,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Stone</Key>
-      <Text>^ E. J., M.C. (rel. actg. rank)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7670</PageNumber>
     </MainItem>
     <SubItem>
@@ -594,7 +603,9 @@
     <MainItem>
       <Key>Tower</Key>
       <Forenames>H. G. E.</Forenames>
-      <Text>, M.C. (whilst Adjt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7670</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -715,7 +726,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wray</Key>
-      <Text>.L. H :</Text>
+      <Forenames>L. H</Forenames>
+      <Text>:</Text>
       <PageNumber>7670</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -974,6 +986,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Wilton</Key>
+      <Text>, J. D</Text>
+      <PageNumber>9451</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Dennes</Key>
       <Forenames>H. M.</Forenames>
       <PageNumber>9302</PageNumber>
@@ -1097,7 +1116,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Forsyth</Key>
-      <Text>. I. M</Text>
+      <Forenames>I. M</Forenames>
       <PageNumber>9453</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1182,7 +1201,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gtreenway</Key>
-      <Text>. J. A</Text>
+      <Forenames>J. A</Forenames>
       <PageNumber>8184</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1247,7 +1266,9 @@
     <MainItem>
       <Key>Hill</Key>
       <Forenames>E. O.</Forenames>
-      <Text>, M.C. (permitted to revert to British Service)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9452</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1304,7 +1325,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hunigerford</Key>
-      <Text>. W. T</Text>
+      <Forenames>W. T</Forenames>
       <PageNumber>7669</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1318,7 +1339,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hutohens</Key>
-      <Text>. F. K</Text>
+      <Forenames>F. K</Forenames>
       <PageNumber>8186</PageNumber>
     </MainItem>
   </ItemGroup>

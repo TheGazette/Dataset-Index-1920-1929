@@ -11,7 +11,9 @@
     <MainItem>
       <Key>Walters</Key>
       <Forenames>R. H.</Forenames>
-      <Text>, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>7009</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -51,7 +53,9 @@
     <MainItem>
       <Key>Andrew</Key>
       <Forenames>G. E.</Forenames>
-      <Text>, C.B., (amendment of previous orders)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>6362</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -100,7 +104,9 @@
     <MainItem>
       <Key>Collett</Key>
       <Forenames>J. A.</Forenames>
-      <Text>, O.B.E</Text>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>5944</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -130,7 +136,9 @@
     <MainItem>
       <Key>Boothby</Key>
       <Forenames>F. L. M.</Forenames>
-      <Text>, C.B.E</Text>
+      <Text>
+        <Honour>C.B.E</Honour>
+      </Text>
       <PageNumber>4717</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -189,7 +197,10 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>V. A. E.</Forenames>
-      <Text>, D.S.O., O.B.E</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>5100</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -226,7 +237,9 @@
     <MainItem>
       <Key>Macdonald</Key>
       <Forenames>W. B.</Forenames>
-      <Text>, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>6341</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -331,7 +344,9 @@
     <MainItem>
       <Key>Coppinger</Key>
       <Forenames>C</Forenames>
-      <Text>, D.S.C</Text>
+      <Text>
+        <Honour>D.S.C</Honour>
+      </Text>
       <PageNumber>5250</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -347,7 +362,9 @@
     <MainItem>
       <Key>Edwards</Key>
       <Forenames>K.</Forenames>
-      <Text>, D.S.C</Text>
+      <Text>
+        <Honour>D.S.C</Honour>
+      </Text>
       <PageNumber>5250</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -370,7 +387,9 @@
     <MainItem>
       <Key>Jones</Key>
       <Forenames>L. J. P.</Forenames>
-      <Text>, D.S.C</Text>
+      <Text>
+        <Honour>D.S.C</Honour>
+      </Text>
       <PageNumber>4989</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -401,7 +420,10 @@
     <MainItem>
       <Key>Peters</Key>
       <Forenames>F. T.</Forenames>
-      <Text>, D.S.O., D.S.C</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>D.S.C</Honour>
+      </Text>
       <PageNumber>4346</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -504,14 +526,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Champion</Key>
-      <Text>de Crespigny, F. P</Text>
+      <Forenames>de Crespigny</Forenames>
+      <Text>, F. P</Text>
       <PageNumber>4717</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Clark-Hall</Key>
-      <Text>W. C</Text>
+      <Forenames>W. C</Forenames>
       <PageNumber>5103</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -585,7 +608,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Fforde</Key>
-      <Text>C.H</Text>
+      <Text>
+        <Honour>C.H</Honour>
+      </Text>
       <PageNumber>5100</PageNumber>
     </MainItem>
     <SubItem>
@@ -671,8 +696,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Jessop</Key>
-      <Forenames>J.</Forenames>
-      <Text>de B</Text>
+      <Forenames>J. de B</Forenames>
       <PageNumber>5486</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -688,7 +712,9 @@
       <Key>Kenworthy</Key>
       <Title>the Hon.</Title>
       <Forenames>J. M.</Forenames>
-      <Text>, M.P</Text>
+      <Text>
+        <Honour>M.P</Honour>
+      </Text>
       <PageNumber>5944</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -710,7 +736,9 @@
     <MainItem>
       <Key>Legh</Key>
       <Forenames>J. A. P.</Forenames>
-      <Text>, D.S.C</Text>
+      <Text>
+        <Honour>D.S.C</Honour>
+      </Text>
       <PageNumber>5249</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -850,8 +878,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>John, A. B</Text>
+      <Key>St. John</Key>
+      <Forenames>A. B.</Forenames>
       <PageNumber>5847</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -860,7 +888,9 @@
       <Key>Salt</Key>
       <Title>Sir</Title>
       <Forenames>J. W. T.</Forenames>
-      <Text>, Bt ,</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4849</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -936,7 +966,9 @@
     <MainItem>
       <Key>Vigne</Key>
       <Forenames>B.</Forenames>
-      <Text>, O.B.E</Text>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>4717</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1080,7 +1112,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Eadie</Key>
-      <Text>D</Text>
+      <Forenames>D.</Forenames>
       <PageNumber>6101</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1635,7 +1667,9 @@
     <MainItem>
       <Key>Dewing</Key>
       <Forenames>A. P. Dick</Forenames>
-      <Text>, R. M., D.S.C., '</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>6188</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1686,7 +1720,9 @@
     <MainItem>
       <Key>Forbes</Key>
       <Forenames>H. M. S.</Forenames>
-      <Text>, D.S.C</Text>
+      <Text>
+        <Honour>D.S.C</Honour>
+      </Text>
       <PageNumber>6188</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1701,7 +1737,9 @@
     <MainItem>
       <Key>Freer</Key>
       <Forenames>G. F. D.</Forenames>
-      <Text>, D.S.C</Text>
+      <Text>
+        <Honour>D.S.C</Honour>
+      </Text>
       <PageNumber>6188</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1716,7 +1754,9 @@
     <MainItem>
       <Key>Garner</Key>
       <Forenames>F. E.</Forenames>
-      <Text>, D.S.C</Text>
+      <Text>
+        <Honour>D.S.C</Honour>
+      </Text>
       <PageNumber>6484</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -94,7 +94,11 @@
       </Key>
       <Title>Lt.-Col. (Hon. Brig.-Gen.) (Hon. Maj., late 3rd Devon R., Spec. Res.)</Title>
       <Forenames>W. F. S.</Forenames>
-      <Text>, C.B., C.M.G., D.S.O. (Col., Reg. Army Res. of Off., Gen. List, from Devon R., and retains hon. rank of Brig.-Gen.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1797</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -121,7 +125,9 @@
       <Key>Eeles</Key>
       <Title>Lt.</Title>
       <Forenames>George Nixon</Forenames>
-      <Text>(Lt., Reg. Army Res. of Off., Regtl. List, K.R.R.C., late Serv. Bn.)</Text>
+      <Text>
+        <Honour>R.R.C.</Honour>
+      </Text>
       <PageNumber>791</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -130,14 +136,18 @@
       <Key>Egan</Key>
       <Title>temp. Qrmr. and Lt.</Title>
       <Forenames>W.</Forenames>
-      <Text>, M.B.E. (rel. commn. on completion of service and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>704</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Egdell</Key>
-      <Text>2nd Lt, R. H., M.C. (Lt. and remains seed.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1362</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -145,7 +155,9 @@
     <MainItem>
       <Key>Egerton</Key>
       <Forenames>Geoffrey Bede</Forenames>
-      <Text>, M.B. (temp. Capt., R.A.M.C., late Capt., R.A.M.C, Spec. Res.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -235,7 +247,9 @@
       <Key>Elding</Key>
       <Title>temp. 2nd Lt.</Title>
       <Forenames>G.</Forenames>
-      <Text>, M.C. (rel. commn. on completion of service and retains rank of 2nd Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1790</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -350,8 +364,8 @@
     <MainItem>
       <Key>Elliott</Key>
       <Title>temp. 2nd Lt.</Title>
-      <Forenames>A.</Forenames>
-      <Text>de G. (rel. commn. on completion of service and retains rank of 2nd Lt.)</Text>
+      <Forenames>A. de G</Forenames>
+      <Text>. (rel. commn. on completion of service and retains rank of 2nd Lt.)</Text>
       <PageNumber>1576</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -395,7 +409,9 @@
       </Key>
       <Title>temp. 2nd Lt.</Title>
       <Forenames>F.</Forenames>
-      <Text>, M.C. (rel. commn. on completion of service and retains rank of ___ Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>125</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -439,7 +455,10 @@
       </Key>
       <Title>Bt. Lt.-Col.</Title>
       <Forenames>G. C. E.</Forenames>
-      <Text>, C.M.G., D.S.O. (rel. local rank of Col. on ceasing to be empld. as a C.R.E.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1787</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -449,8 +468,8 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Title>temp. Lt.</Title>
-      <Forenames>G. C. St</Forenames>
-      <Text>. C. (rel. commn. on completion of service and retains rank of Lt.)</Text>
+      <Forenames>G. C. St. C</Forenames>
+      <Text>. (rel. commn. on completion of service and retains rank of Lt.)</Text>
       <PageNumber>1366</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -470,7 +489,10 @@
       <Key>Elliott</Key>
       <Title>temp.</Title>
       <Forenames>I.</Forenames>
-      <Text>O.M., 1st CI., and Maj. H. F., M.C. (rel. commn. on completion of service and retains rank of Maj.)</Text>
+      <Text>
+        <Honour>O.M.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>269</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -503,7 +525,9 @@
       </Key>
       <Title>temp. Qrmr. and Lt.</Title>
       <Forenames>J. H.</Forenames>
-      <Text>, M.B.E. (rel. commn. on completion of service and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>704</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -548,7 +572,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>A. J.</Forenames>
-      <Text>, D.S.O. (rel. temp, rank of Lt.-Col.), Sub. Not</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1786</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -676,7 +702,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>H. S.</Forenames>
-      <Text>, M.C. (seed. whilst Student at Staff Coll., Qnetta)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2128</PageNumber>
     </MainItem>
   </ItemGroup>

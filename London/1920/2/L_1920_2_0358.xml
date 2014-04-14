@@ -249,7 +249,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rosenblum</Key>
-      <Forenames>Louis</Forenames>
+      <Title>Louis .</Title>
       <PageNumber>5304</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -383,7 +383,9 @@
       <Key>Salt</Key>
       <Title>Sir</Title>
       <Forenames>Shirley Harris</Forenames>
-      <Text>, Bart</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>5303</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -398,7 +400,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sarah</Key>
-      <Forenames>Laura</Forenames>
+      <Title>Laura.</Title>
       <PageNumber>6119</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -496,7 +498,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Seaber</Key>
-      <Forenames>Thomas</Forenames>
+      <Title>Thomas .</Title>
       <PageNumber>4776</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -615,7 +617,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Simon-Barboux</Key>
-      <Forenames>Solange</Forenames>
+      <Title>Solange .</Title>
       <PageNumber>6120</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -636,8 +638,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sinclair</Key>
-      <Forenames>Cuthbert</Forenames>
-      <Text>... Skertchly, Sydney Alfred Rackstrow</Text>
+      <Title>Cuthbert .</Title>
+      <Text>.. Skertchly, Sydney Alfred Rackstrow</Text>
       <PageNumber>6122</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -788,6 +790,14 @@
       <Text>4918</Text>
       <PageNumber>6119</PageNumber>
     </SubItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Steele</Key>
+      <Forenames>William</Forenames>
+      <Text>___ ___ Mary 5163</Text>
+      <PageNumber>4390</PageNumber>
+    </MainItem>
     <SubItem>
       <Text>5037</Text>
       <PageNumber>6736</PageNumber>
@@ -891,7 +901,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Thickett</Key>
-      <Text>William Wates, Kate Ambrose 4618</Text>
+      <Forenames>William Wates</Forenames>
+      <Text>, Kate Ambrose 4618</Text>
       <PageNumber>5162</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -62,7 +62,9 @@
       <Key>Broadimead</Key>
       <Title>temp. Capt.</Title>
       <Forenames>P. M.</Forenames>
-      <Text>, M.C. (rel. commn. on completion of service, and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>268</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -82,7 +84,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>J.</Forenames>
-      <Text>, M.C. (seed, for service on the Staff)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2496</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -171,7 +175,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Brockbank</Key>
-      <Text>. Lt. J. E. (Lt., Reg. Army Res. of Off., Regtl. List, R.E., late R.E.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>J. E.</Forenames>
+      <Text>(Lt., Reg. Army Res. of Off., Regtl. List, R.E., late R.E.)</Text>
       <PageNumber>1176</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -219,7 +225,9 @@
     <MainItem>
       <Key>Brookman</Key>
       <Forenames>Gentleman</Forenames>
-      <Text>Cadet Alan Godfrey Drake, see DrakeBrockman, Gentleman Cadet Alan Godfrey. Brodie, temp. Maj. C. G., M.C. (rel. commn. on completion of service, and retains rank of Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1066</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -393,7 +401,10 @@
       </Key>
       <Title>Lt.-Col. (Hon. Brig.-Gen.) (ret. pay)</Title>
       <Forenames>C. R. I.</Forenames>
-      <Text>, C.M.G., D.S.O. (Col.. Reg. Army Res. of Off., Gen. List, from K.O.Y.L.I., and retains hon. rank of Brig.-Gen.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1797</PageNumber>
     </MainItem>
   </ItemGroup>

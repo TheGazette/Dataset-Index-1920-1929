@@ -96,7 +96,9 @@
     <MainItem>
       <Key>Hay</Key>
       <Title>Capt.</Title>
-      <Text>(Hon. Capt. in Army, late Capt., 3rd Bn., Berks. R.) H. C. F., T.D. (Maj., T.F., Res.) (rel. commn., having been</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>2988</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -718,7 +720,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Reid</Key>
-      <Text>temp. Capt, W. C. (rel. oommn. and granted hon. rank of Capt.)</Text>
+      <Title>temp.</Title>
+      <Forenames>Capt</Forenames>
+      <Text>, W. C. (rel. oommn. and granted hon. rank of Capt.)</Text>
       <PageNumber>2883</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -756,7 +760,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Ridlev</Key>
-      <Text>temp. Lt. J. C. (rel. commn. and to be Hon. Lt.)</Text>
+      <Title>temp. Lt.</Title>
+      <Forenames>J. C.</Forenames>
+      <Text>(rel. commn. and to be Hon. Lt.)</Text>
       <PageNumber>4715</PageNumber>
     </MainItem>
   </ItemGroup>

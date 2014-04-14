@@ -88,7 +88,9 @@
     <MainItem>
       <Key>Price</Key>
       <Forenames>W. A.</Forenames>
-      <Text>, O.B.E. (date of retirement)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>11798</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -99,7 +101,7 @@
       <PageNumber>10754</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Sub Not</Text>
+      <Text>Sub Not.</Text>
       <PageNumber>11347</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -209,8 +211,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Woods</Key>
-      <Forenames>C. H.</Forenames>
-      <Text>de M</Text>
+      <Forenames>C. H. de M</Forenames>
       <PageNumber>9891</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -497,7 +498,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Nicholls</Key>
-      <Text>A. (date of retirement)</Text>
+      <Forenames>A.</Forenames>
+      <Text>(date of retirement)</Text>
       <PageNumber>10305</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -527,14 +529,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Rice</Key>
-      <Text>H. M. (date of retirement)</Text>
+      <Forenames>H. M.</Forenames>
+      <Text>(date of retirement)</Text>
       <PageNumber>10305</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Sandy</Key>
-      <Text>A. (date of retirement]</Text>
+      <Forenames>A.</Forenames>
+      <Text>(date of retirement]</Text>
       <PageNumber>10305</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -742,7 +746,10 @@
     <MainItem>
       <Key>Sheldrake</Key>
       <Forenames>J. W.</Forenames>
-      <Text>, M.V.O., M.B.E. (date of retirement)</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>11798</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -775,7 +782,9 @@
     <MainItem>
       <Key>Brewster</Key>
       <Title>(actg. Lt.)</Title>
-      <Text>, B. T., D.S.C</Text>
+      <Text>
+        <Honour>D.S.C</Honour>
+      </Text>
       <PageNumber>11002</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -870,7 +879,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Aris</Key>
-      <Text>W. L., M.B.E</Text>
+      <Forenames>W. L.</Forenames>
+      <Text>
+        <Honour>M.B.E</Honour>
+      </Text>
       <PageNumber>12658</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -885,7 +897,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Veerha-ult</Key>
-      <Text>W. J</Text>
+      <Forenames>W. J</Forenames>
       <PageNumber>11798</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -967,7 +979,9 @@
     <MainItem>
       <Key>Lendy</Key>
       <Forenames>T.</Forenames>
-      <Text>, M.B.E</Text>
+      <Text>
+        <Honour>M.B.E</Honour>
+      </Text>
       <PageNumber>9891</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1024,7 +1038,12 @@
       <Key>Hill</Key>
       <Title>Sir</Title>
       <Forenames>R.</Forenames>
-      <Text>, K.C.M.G., C.B., C.V.O., F.R.C.S., Ed</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>C.V.O.</Honour>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>10860</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1043,7 +1062,9 @@
     <MainItem>
       <Key>Bradbury</Key>
       <Forenames>W.</Forenames>
-      <Text>, D.S.O., M.B</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>11002</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1072,7 +1093,10 @@
     <MainItem>
       <Key>McCowen</Key>
       <Forenames>G. R.</Forenames>
-      <Text>, O.B.E., M.D</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.D</Honour>
+      </Text>
       <PageNumber>11002</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1095,7 +1119,9 @@
     <MainItem>
       <Key>Richardson</Key>
       <Forenames>A. V. J.</Forenames>
-      <Text>, O.B.E. M.B., B.A., D.P.H</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>11002</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1110,8 +1136,9 @@
   <SubSubSectionTitle>Retired List</SubSubSectionTitle>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Keeffe, T. F., M.B</Text>
+      <Key>O'Keeffe</Key>
+      <Forenames>T. F.</Forenames>
+      <Text>, M.B</Text>
       <PageNumber>10000</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1120,7 +1147,9 @@
     <MainItem>
       <Key>Alton</Key>
       <Forenames>F. C</Forenames>
-      <Text>, O.B.E., M.B. (reinstated on active list, with original seny.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>11237</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1128,7 +1157,9 @@
     <MainItem>
       <Key>Brownfield</Key>
       <Forenames>O. D.</Forenames>
-      <Text>, O.B.E., M.B., B.S</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>10305</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1195,7 +1226,9 @@
     <MainItem>
       <Key>Pullen</Key>
       <Forenames>W.</Forenames>
-      <Text>LeG., C.B. (Sub. Not.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>12658</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1204,7 +1237,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hammond</Key>
-      <Text>F. W</Text>
+      <Forenames>F. W</Forenames>
       <PageNumber>11942</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1219,7 +1252,9 @@
     <MainItem>
       <Key>Ward</Key>
       <Forenames>C. H. A.</Forenames>
-      <Text>, C.B.E. (date of retirement)</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>11798</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1235,7 +1270,9 @@
     <MainItem>
       <Key>Cavanaah</Key>
       <Forenames>J. D. M.</Forenames>
-      <Text>, C.M.G</Text>
+      <Text>
+        <Honour>C.M.G</Honour>
+      </Text>
       <PageNumber>9891</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1250,7 +1287,9 @@
     <MainItem>
       <Key>Heather</Key>
       <Forenames>P.</Forenames>
-      <Text>, O.B.E</Text>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>10754</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1258,7 +1297,9 @@
     <MainItem>
       <Key>Johnson</Key>
       <Forenames>C. S.</Forenames>
-      <Text>, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>9891</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1309,7 +1350,9 @@
     <MainItem>
       <Key>Syson</Key>
       <Forenames>J. L.</Forenames>
-      <Text>, O.B.E</Text>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>9891</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1317,7 +1360,9 @@
     <MainItem>
       <Key>Thursfield</Key>
       <Forenames>R. S.</Forenames>
-      <Text>, C.M.G</Text>
+      <Text>
+        <Honour>C.M.G</Honour>
+      </Text>
       <PageNumber>10754</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1325,7 +1370,9 @@
     <MainItem>
       <Key>Woolf</Key>
       <Forenames>T. A.</Forenames>
-      <Text>, O.B.E</Text>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>9891</PageNumber>
     </MainItem>
   </ItemGroup>

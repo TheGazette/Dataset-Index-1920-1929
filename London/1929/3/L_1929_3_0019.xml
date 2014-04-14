@@ -277,15 +277,16 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connell, T&gt;. G</Text>
+      <Key>O'Connell</Key>
+      <Forenames>T</Forenames>
+      <Text>&gt;. G</Text>
       <PageNumber>5774</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, P. B</Text>
+      <Key>O'Connor</Key>
+      <Forenames>P. B</Forenames>
       <PageNumber>5277</PageNumber>
       <PageNumber>5277</PageNumber>
     </MainItem>
@@ -313,8 +314,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Grady, W. D. P. A</Text>
+      <Key>O'Grady</Key>
+      <Forenames>W. D. P. A</Forenames>
       <PageNumber>6033</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -356,8 +357,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, Lord</Text>
+      <Key>O'Neill</Key>
+      <Title>Lord</Title>
       <PageNumber>5641</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -384,8 +385,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Rorke, F. D. W</Text>
+      <Key>O'Rorke</Key>
+      <Forenames>F. D. W</Forenames>
       <PageNumber>5646</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -769,7 +770,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Phillimore</Key>
-      <Text>. R, H</Text>
+      <Forenames>R</Forenames>
+      <Text>, H</Text>
       <PageNumber>4990</PageNumber>
       <PageNumber>5493</PageNumber>
     </MainItem>
@@ -777,7 +779,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Phillips</Key>
-      <Text>. R. M</Text>
+      <Forenames>R. M</Forenames>
       <PageNumber>5853</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1104,7 +1106,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Radford</Key>
-      <Text>. J. V. D</Text>
+      <Forenames>J. V. D.</Forenames>
       <PageNumber>6167</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1431,7 +1433,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>T. L. H.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4541</PageNumber>
     </MainItem>
   </ItemGroup>

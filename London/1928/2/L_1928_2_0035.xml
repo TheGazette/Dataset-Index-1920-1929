@@ -49,7 +49,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Duplock</Key>
-      <Text>F. \V. M</Text>
+      <Forenames>F.</Forenames>
+      <Text>\V. M</Text>
       <PageNumber>4345</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -418,7 +419,9 @@
       <Key>Floyd</Key>
       <Title>Sir</Title>
       <Forenames>H. R. K.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>3051</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -574,7 +577,9 @@
     <KeyDitto>___ ___ ___ ...</KeyDitto>
     <KeyDitto>___ ___ ...</KeyDitto>
     <SubItem>
-      <Text>Sir J. G. H. F., Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>2674</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1035,8 +1040,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hamilton</Key>
-      <Forenames>C.</Forenames>
-      <Text>de C</Text>
+      <Forenames>C. de C</Forenames>
       <PageNumber>3734</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1111,7 +1115,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hargreaves</Key>
-      <Text>A. J. G</Text>
+      <Forenames>A. J. G.</Forenames>
       <PageNumber>2902</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1150,7 +1154,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Harrington</Key>
-      <Text>A. M. S</Text>
+      <Forenames>A. M. S.</Forenames>
       <PageNumber>4108</PageNumber>
     </MainItem>
   </ItemGroup>

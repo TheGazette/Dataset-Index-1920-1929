@@ -45,7 +45,10 @@
       <Key>McLean</Key>
       <Title>Maj.</Title>
       <Forenames>C. W. W.</Forenames>
-      <Text>, C.M.G., D. S.O. (Lt.-Col.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D. S.O.</Honour>
+      </Text>
       <PageNumber>1819</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -84,7 +87,10 @@
       <Key>Macleod</Key>
       <Title>Lt.-Col. and Bt. Col.</Title>
       <Forenames>C. W.</Forenames>
-      <Text>, C.M.G., D.S.O. (Col., from R.A.S.C.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>909</PageNumber>
     </MainItem>
     <SubItem>
@@ -126,7 +132,9 @@
       <Key>McNaughtan</Key>
       <Title>Capt. and Bt. Maj.</Title>
       <Forenames>William</Forenames>
-      <Text>, O.B.E., M.B. (rel. temp, rank of Maj.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>2074</PageNumber>
     </MainItem>
     <SubItem>
@@ -183,7 +191,9 @@
       <Key>Mair</Key>
       <Title>Col.</Title>
       <Forenames>R. J. B.</Forenames>
-      <Text>, C.M.G. (ceases to belong to Reg. Army Res. of Off., having attained age limit of liability to recall)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>997</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -269,7 +279,9 @@
     <MainItem>
       <Key>Manuelle</Key>
       <Title>Ord. Off., 4th CI.</Title>
-      <Text>, and Capt. G. M., M.C. (Adjt., R.A.O.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1912</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -377,7 +389,9 @@
       <Key>Marson</Key>
       <Title>Capt.</Title>
       <Forenames>L. F.</Forenames>
-      <Text>, M.C. (Capt., 4th/7th D.G., from 4th D.G., and remains seed.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1152</PageNumber>
     </MainItem>
     <SubItem>
@@ -414,14 +428,19 @@
       </Key>
       <Title>Supern. Maj.</Title>
       <Forenames>J. E.</Forenames>
-      <Text>. D.S.O., M.C. (restd. to estabt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>803</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Martin</Key>
-      <Text>. Maj. A. D. De R. (retires on ret, pav)</Text>
+      <Title>Maj.</Title>
+      <Forenames>A. D. De R</Forenames>
+      <Text>. (retires on ret, pav)</Text>
       <PageNumber>803</PageNumber>
     </MainItem>
     <SubItem>
@@ -447,7 +466,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>C. J.</Forenames>
-      <Text>, O.B.E. (Adjt.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>63</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -458,7 +479,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>E. T.</Forenames>
-      <Text>, D.S.O. [seed, for service with T.A.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>452</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -469,7 +492,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>F. A.</Forenames>
-      <Text>, M.C. (retires, receiving a gratuity)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1992</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -480,7 +505,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>F. W.</Forenames>
-      <Text>, M.C. (Capt., E. Lan. R., from Inniskilling Fus.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1302</PageNumber>
     </MainItem>
     <SubItem>
@@ -495,7 +522,12 @@
       </Key>
       <Title>Maj. and Bt. Lt.-Col.</Title>
       <Forenames>G. H.</Forenames>
-      <Text>, C.M.G., D.S.O., O.B.E. (Col., from K.R.R.C.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>O.B.E.</Honour>
+        <Honour>R.R.C.</Honour>
+      </Text>
       <PageNumber>221</PageNumber>
     </MainItem>
     <SubItem>
@@ -534,7 +566,10 @@
       <Key>Mascall</Key>
       <Title>Maj.</Title>
       <Forenames>M. E.</Forenames>
-      <Text>, D.S.O., O.B.E. (seed, for service on the Staff)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>377</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -617,7 +652,9 @@
       </Key>
       <Title>Gapt.</Title>
       <Forenames>R. C</Forenames>
-      <Text>, M.C. (seed, for service as Adit., T.A.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1911</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -703,7 +740,11 @@
       </Key>
       <Title>Col. Sir</Title>
       <Forenames>C. C. M.</Forenames>
-      <Text>, K.C.B., C.M.G., D.S.O. (Maj.-Gen.)</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>63</PageNumber>
     </MainItem>
   </ItemGroup>

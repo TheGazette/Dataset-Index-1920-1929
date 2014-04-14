@@ -34,7 +34,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Bet</Key>
-      <Text>teuton, Henry Bucbniall, O.B.E., M.P., lOommamder, Order of the British 'Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>3761</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -78,7 +81,9 @@
     <MainItem>
       <Key>Beverley</Key>
       <Forenames>T.</Forenames>
-      <Text>/Capt. Robert, M.C., Companion, D.S.O</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>681</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -130,7 +135,9 @@
     <MainItem>
       <Key>Bickerstetih</Key>
       <Forenames>John Joseph</Forenames>
-      <Text>, M.B.E.. Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3777</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -138,7 +145,9 @@
     <MainItem>
       <Key>Biddiseomibe</Key>
       <Forenames>George</Forenames>
-      <Text>, D.C.M., Member, Order of the Rritish Empire</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>3816</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -146,7 +155,9 @@
     <MainItem>
       <Key>Biddulph</Key>
       <Title>Eleanor. Lady.</Title>
-      <Text>M.B.E.. Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3777</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -195,14 +206,18 @@
     <MainItem>
       <Key>Biglev</Key>
       <Forenames>Francis William Hudson</Forenames>
-      <Text>, M.D.. B.Ch.. Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>1238</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Billinton</Key>
-      <Text>. temp. Lt.-Col. Lawson (corr. of name). Oommaimler, Order of the British Empire</Text>
+      <Title>temp. Lt.-Col.</Title>
+      <Forenames>Lawson</Forenames>
+      <Text>(corr. of name). Oommaimler, Order of the British Empire</Text>
       <PageNumber>3998</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -210,7 +225,9 @@
     <MainItem>
       <Key>Bingham</Key>
       <Title>Miss</Title>
-      <Text>ConsLnwe Gwendoline, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3777</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -235,14 +252,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Bimis</Key>
-      <Text>. Arthur. Commander, Order of the British Empire</Text>
+      <Title>Arthur. Commander</Title>
+      <Text>, Order of the British Empire</Text>
       <PageNumber>3761</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Birch</Key>
-      <Text>. Charles. Member. Order of the British Empire</Text>
+      <Title>Charles. Member.</Title>
+      <Forenames>Order</Forenames>
+      <Text>of the British Empire</Text>
       <PageNumber>3816</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -268,7 +288,12 @@
   <ItemGroup>
     <MainItem>
       <Key>Riivhenough</Key>
-      <Text>. Sir Henry, K.C.M.G.. created Baronet</Text>
+      <Title>Sir</Title>
+      <Forenames>Henry</Forenames>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
     </MainItem>
     <SubItem>
@@ -283,7 +308,10 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>John Henry</Forenames>
-      <Text>. K.C.M.G.. created Baronet</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>3432</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -343,7 +371,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bishop</Key>
-      <Text>. Mi-s Alice Margaret, Mem ber. Order of the British Em pi re</Text>
+      <Forenames>Mi-s Alice Margaret</Forenames>
+      <Text>, Mem ber. Order of the British Em pi re</Text>
       <PageNumber>3816</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -384,7 +413,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Black</Key>
-      <Text>. Maj. George Cumine Strahan, Officer. Order of the British Empire</Text>
+      <Title>Maj.</Title>
+      <Forenames>George Cumine Stra-</Forenames>
+      <Text>han, Officer. Order of the British Empire</Text>
       <PageNumber>1379</PageNumber>
     </MainItem>
     <SubItem>
@@ -395,7 +426,9 @@
   <ItemGroup>
     <MainItem>
       <Key>BlatLadder</Key>
-      <Text>. David. Mem/bey, Order of the British Empire</Text>
+      <Title>David.</Title>
+      <Forenames>Mem</Forenames>
+      <Text>/bey, Order of the British Empire</Text>
       <PageNumber>3816</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -404,7 +437,10 @@
       <Key>Black-bum</Key>
       <Title>Capt. (A./Maj.)</Title>
       <Forenames>John Cecil</Forenames>
-      <Text>, M.C., Companion, D.S.O</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>1375</PageNumber>
     </MainItem>
     <SubItem>
@@ -415,7 +451,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Blackden</Key>
-      <Text>. Col. and Hon. Brig.-Gen. Leomaid Shad well, Commander, Order of the British Empire</Text>
+      <Title>Col. and Hon. Brig.-Gen.</Title>
+      <Forenames>Leomaid Shad</Forenames>
+      <Text>well, Commander, Order of the British Empire</Text>
       <PageNumber>2261</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -423,14 +461,18 @@
     <MainItem>
       <Key>Blacker</Key>
       <Forenames>George</Forenames>
-      <Text>, M.D . F.iR.C.P.. F.R.C.S., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>1237</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Black-hurst</Key>
-      <Text>. Arthur. Member, Order of the British Empire</Text>
+      <Title>Arthur.</Title>
+      <Forenames>Member</Forenames>
+      <Text>, Order of the British Empire</Text>
       <PageNumber>3816</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -462,7 +504,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Blackmore</Key>
-      <Text>. Miss Constance Marie. Membtr. Order of the British Empire</Text>
+      <Title>Miss</Title>
+      <Forenames>Constance Marie</Forenames>
+      <Text>. Membtr. Order of the British Empire</Text>
       <PageNumber>3816</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -477,21 +521,24 @@
   <ItemGroup>
     <MainItem>
       <Key>Block</Key>
-      <Text>well. Maj. Francis Victor. M.C.. Commander. Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3761</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Blain</Key>
-      <Text>. Herbert Edwin. Comma.mirr. Order &gt;f the British Empi-v</Text>
+      <Forenames>Herbert Edwin</Forenames>
+      <Text>. Comma.mirr. Order &gt;f the British Empi-v</Text>
       <PageNumber>3761</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>P</Key>
-      <Text>.ake. Arlnur Ernest, J.P.. Knight Commander. Order of ;lnBritisr Empire</Text>
+      <Text>ake. Arlnur Ernest, J.P.. Knight Commander. Order of ;lnBritisr Empire</Text>
       <PageNumber>3758</PageNumber>
     </MainItem>
     <SubItem>
@@ -559,7 +606,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bla</Key>
-      <Text>.teh, William Bernard, Member, Order of the British Empire</Text>
+      <Text>teh, William Bernard, Member, Order of the British Empire</Text>
       <PageNumber>3817</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -585,7 +632,9 @@
     <MainItem>
       <Key>Blennerhassett</Key>
       <Forenames>T.</Forenames>
-      <Text>/Capt, William Lewis Rowland Paul Sebastian, Companion D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>919</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -612,7 +661,9 @@
       <Key>Bliss</Key>
       <Title>Miss</Title>
       <Forenames>Gertrude Alice</Forenames>
-      <Text>, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3777</PageNumber>
     </MainItem>
     <SubItem>
@@ -625,7 +676,9 @@
       <Key>Blood</Key>
       <Title>Maj.</Title>
       <Forenames>Joseph</Forenames>
-      <Text>FitzGerald, ; M.D.. M.Ch.. Memlber. Order of the British Empire</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>1238</PageNumber>
     </MainItem>
   </ItemGroup>

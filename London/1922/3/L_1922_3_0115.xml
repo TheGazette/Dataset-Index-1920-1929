@@ -76,7 +76,9 @@
       <Key>Kemm</Key>
       <Title>Lt.</Title>
       <Forenames>A. H.</Forenames>
-      <Text>, M.C. (resigns commn. and granted rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6317</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -177,7 +179,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>K. H. H.</Forenames>
-      <Text>, M.C. (resigns commn. on acc. of illhealth) ,</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6585</PageNumber>
     </MainItem>
     <SubItem>
@@ -309,7 +313,9 @@
       <Key>Key-Mouat</Key>
       <Title>Lt.</Title>
       <Forenames>C. G.</Forenames>
-      <Text>, O.B.E. (resigns commn. and retains rank of Lt,)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>6388</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -344,7 +350,9 @@
       <Key>Kiddle</Key>
       <Title>Capt.</Title>
       <Forenames>J. A. C</Forenames>
-      <Text>, M.C. (resigns commn. and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6385</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -655,7 +663,9 @@
       <Key>Kinloch</Key>
       <Title>temp. Maj.</Title>
       <Forenames>G.</Forenames>
-      <Text>, D.S.O., (rel. commn.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5041</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -717,7 +727,9 @@
       <Key>Kirkwood</Key>
       <Title>Maj. (temp. Lt.-Col.)</Title>
       <Forenames>A. S.</Forenames>
-      <Text>, O.B.E. (temp. Lt.-Col. while Asst. Dir. of Grass Farms)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>5208</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -726,7 +738,9 @@
       <Key>Kirwan</Key>
       <Title>Lt.</Title>
       <Forenames>L. E.</Forenames>
-      <Text>, M.B.E. (resigns commn. and granted rank of Capt.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>6318</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -762,7 +776,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Kittoe</Key>
-      <Text>Capt. (temp, non-effective list) M. C. S. H. (retires on acc. of ill-health)</Text>
+      <Title>Capt. (temp, non-effective list)</Title>
+      <Forenames>M. C. S. H.</Forenames>
+      <Text>(retires on acc. of ill-health)</Text>
       <PageNumber>5210</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -821,7 +837,11 @@
       </Key>
       <Title>Maj.-Gen. Sir</Title>
       <Forenames>W. C</Forenames>
-      <Text>, K.C.I.E., C.B., C.S.I. D.S.O. (retirement)</Text>
+      <Text>
+        <Honour>K.C.I.E.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6718</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -910,7 +930,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>J. H. G.</Forenames>
-      <Text>, M.C. (retirement)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5870</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1007,7 +1029,9 @@
     <MainItem>
       <Key>Labh</Key>
       <Forenames>Singh</Forenames>
-      <Text>, Subadar-Major and Hon. Lt., Sardar Bahadur, I.D.S.M. (Hon. Capt.)</Text>
+      <Text>
+        <Honour>D.S.M.</Honour>
+      </Text>
       <PageNumber>6920</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1054,7 +1078,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Lake</Key>
-      <Text>2nd Lt. C. H. Wynne (resigns commn. and retains rank of 2nd Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>C. H. Wynne</Forenames>
+      <Text>(resigns commn. and retains rank of 2nd Lt.)</Text>
       <PageNumber>6585</PageNumber>
     </MainItem>
   </ItemGroup>

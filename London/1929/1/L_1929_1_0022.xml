@@ -34,7 +34,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>George Williamson</Forenames>
-      <Text>, M.A., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>1438</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -236,7 +238,9 @@
     <MainItem>
       <Key>Willis</Key>
       <Title>Lieut.</Title>
-      <Text>-Colonel George Henry, C.I.E., M.V.O., knighted</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>2160</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -254,16 +258,23 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Title>Lieut.</Title>
-      <Text>-Colonel the Right Hon. Sir Leslie Orme, G.C.I.E., C.M.G.; D.S.O., Knight Grand Commander, Order of the Star of India</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1438</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Wilson</Key>
-      <Title>Brigadier</Title>
+      <Title>Brigadier-</Title>
       <Forenames>General</Forenames>
-      <Text>Sir Samuel Herbert, K.C.B., K.C.M.G., K.B.E., Knight Grand Cross, Order of Saint Michael and Saint George</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>K.B.E.</Honour>
+      </Text>
       <PageNumber>1439</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -298,7 +309,9 @@
       <Key>Withers</Key>
       <Title>Colonel</Title>
       <Forenames>Charles</Forenames>
-      <Text>McGregor, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>1437</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1170,8 +1183,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Winterbotham</Key>
-      <Forenames>H. St</Forenames>
-      <Text>. J. L</Text>
+      <Forenames>H. St. J</Forenames>
+      <Text>. L</Text>
       <PageNumber>1041</PageNumber>
     </MainItem>
   </ItemGroup>

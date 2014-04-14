@@ -21,7 +21,9 @@
       <Key>Coiebatch</Key>
       <Title>the Hon.</Title>
       <Forenames>Hal Pateshall</Forenames>
-      <Text>, C.M.G., Knight</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
       <PageNumber>1111</PageNumber>
     </MainItem>
@@ -30,7 +32,9 @@
     <MainItem>
       <Key>Colvile</Key>
       <Forenames>Ernest Frederick</Forenames>
-      <Text>, Companion, Order of St. Michael and St. George ... r Cope, Sir Arthur Stockdale, .R.A., Knight Commander, Royal Victorian Order ... (</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>5</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -48,7 +52,10 @@
       <Key>Cornwallis</Key>
       <Title>Col.</Title>
       <Forenames>Fiennes Stanley Wykeham</Forenames>
-      <Text>, C.B.E., T.D., Baron Cornwallis, of Linton</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>1</PageNumber>
       <PageNumber>722</PageNumber>
     </MainItem>
@@ -58,7 +65,12 @@
       <Key>Cory</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Evan James Trevor</Forenames>
-      <Text>, O.B.E., T.D.,M.D., Knight of Grace, St. John of Jerusalem</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>T.D.</Honour>
+        <Honour>M.D.</Honour>
+        <Honour>Knight of Grace, St. John of Jerusalem</Honour>
+      </Text>
       <PageNumber>39</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -75,7 +87,10 @@
       <Key>Courthope</Key>
       <Title>Sir</Title>
       <Forenames>George Loyd</Forenames>
-      <Text>, Bart., M.C., Member, Royal Commission on Land Drainage</Text>
+      <Text>
+        <Honour>Bart</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2048</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -84,7 +99,9 @@
       <Key>Cox</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Charles Henry Fortnom</Forenames>
-      <Text>, R.A D.S.O., Companion, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -93,7 +110,9 @@
       <Key>Craig</Key>
       <Title>Rt. Hon. Sir</Title>
       <Forenames>James</Forenames>
-      <Text>, Bt., Viscount Craigavon of Stormont</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>1</PageNumber>
       <PageNumber>509</PageNumber>
     </MainItem>
@@ -101,7 +120,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Cromer</Key>
-      <Text>the Rt; Hon. Rowland Thomas, Earl of, G.C.I.E., C. V.O., Knight Grand Cross, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>6</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -125,7 +146,9 @@
     <MainItem>
       <Key>Davies</Key>
       <Forenames>Rear</Forenames>
-      <Text>Admiral Arthur John, Companion, Order of the Bath :</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -136,7 +159,10 @@
       </Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Charles Stewart</Forenames>
-      <Text>, C.M.G., D.S.O., Nominated Official Member of the Legislative Council of the Colony of Kenya</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1878</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -145,7 +171,9 @@
       <Key>Dawson</Key>
       <Title>Sir</Title>
       <Forenames>Edward Rae</Forenames>
-      <Text>, Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>1</PageNumber>
       <PageNumber>1111</PageNumber>
     </MainItem>
@@ -155,7 +183,10 @@
       <Key>Denbigh</Key>
       <Title>Col.</Title>
       <Forenames>Rudolph Robert Basil</Forenames>
-      <Text>, Earl of, C.V.O., Knight Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>C.V.O.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>6</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -179,7 +210,9 @@
       <Key>Doherty</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Andrew Gahan</Forenames>
-      <Text>, M.C., Nominated Official Member of the Legislative Council of the Colony of Kenya</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1878</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -187,34 +220,179 @@
     <MainItem>
       <Key>Douglas</Key>
       <Forenames>Robert Douglas Argyll</Forenames>
-      <Text>M.B.E., M.D., F.R.C.S., Ed., Officer, Order of St. John of Jerusalem ... ... Drummond, Francis Dudley Williams, C.B.E., Member, Royal Commission on Land Drainage Duveen, Sir Joseph, Baronet</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+        <Honour>M.D.</Honour>
+        <Honour>F.R.C.S.</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
+      <PageNumber>2048</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Duveen</Key>
+      <Title>Sir</Title>
+      <Forenames>Joseph</Forenames>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>1</PageNumber>
+      <PageNumber>1111</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Earle</Key>
       <Forenames>Charles Westwood</Forenames>
-      <Text>, Companion, Order of St. Michael and St. George ... Ebrahim Haroon Jaffer, Khan Bahadur, Knighted ... Edmonds, William Stanley, O.B.E., Companion, Order of St. Michael and St. George ... ... ... Etherton, George Hammond, O.B.E., Knight</Text>
-      <PageNumber>2</PageNumber>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
+      <PageNumber>1111</PageNumber>
     </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Edmonds</Key>
+      <Forenames>William Stanley</Forenames>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
+      <PageNumber>2</PageNumber>
+      <PageNumber>1111</PageNumber>
+    </MainItem>
+    <SubItem>
+      <Text>Member, Royal Commission on Land Drainage</Text>
+      <PageNumber>2048</PageNumber>
+    </SubItem>
   </ItemGroup>
   <KeyDitto>___ ___</KeyDitto>
   <ItemGroup>
     <MainItem>
       <Key>Gaselee</Key>
-      <Text>. Stephen, C.B.E.. F.S.A.. Officer, Order of St. John of Jerusalem ... Gbulam Husain Hidayntallah, Khan Bahadur Shaikh, knighted Gibh, Col. Evan, C.M.G., C.B.E., D.S.O., Companion, Order of the Bath</Text>
+      <Forenames>Stephen</Forenames>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
+      <PageNumber>39</PageNumber>
+    </MainItem>
+    <SubItem>
+      <Text>
+        <PageNumber>5</PageNumber>
+      </Text>
+      <PageNumber>646</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>
+        <PageNumber>4</PageNumber>
+        <PageNumber>6</PageNumber>
+      </Text>
+      <PageNumber>39</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>
+        <PageNumber>2</PageNumber>
+        <PageNumber>6</PageNumber>
+        <PageNumber>39</PageNumber>
+        <PageNumber>39</PageNumber>
+      </Text>
+      <PageNumber>1111</PageNumber>
+    </SubItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Gibh</Key>
+      <Title>Col.</Title>
+      <Forenames>Evan</Forenames>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>C.B.E.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+        <Honour>K.C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
+      <PageNumber>2</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Greenacre</Key>
+      <Title>Lt.</Title>
+      <Forenames>Walter Douglas Campbell</Forenames>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+        <Honour>Bt</Honour>
+      </Text>
+      <PageNumber>1</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Grossmith</Key>
+      <Forenames>George</Forenames>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+        <Honour>K.C.B.</Honour>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>C.B.E.</Honour>
+        <Honour>M.B.E.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+        <Honour>D.S.C.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+        <Honour>Bt</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>3</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Graham, John Fuller, Judge of the High Court of Judica5 ture at Calcutta</Text>
+      <Text>,</Text>
+      <PageNumber>3</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>
+        <PageNumber>6</PageNumber>
+      </Text>
       <PageNumber>1613</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>4 Hammond, Egbert Laurie Lucas, C.S.I., C.B.E., Governor of Assam</Text>
-      <PageNumber>1965</PageNumber>
+      <Text>
+        <PageNumber>6</PageNumber>
+      </Text>
+      <PageNumber>434</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>
+        <PageNumber>4</PageNumber>
+      </Text>
+      <PageNumber>1602</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>
+        <PageNumber>4</PageNumber>
+      </Text>
+      <PageNumber>2048</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>
+        <PageNumber>5</PageNumber>
+        <PageNumber>3</PageNumber>
+        <PageNumber>6</PageNumber>
+      </Text>
+      <PageNumber>2048</PageNumber>
     </SubItem>
   </ItemGroup>
-  <KeyDitto>___ ___ ___</KeyDitto>
+  <KeyDitto>___</KeyDitto>
 </Index>
 

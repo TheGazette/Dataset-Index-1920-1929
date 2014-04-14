@@ -14,7 +14,11 @@
       <Key>Sugden</Key>
       <Title>Lt.-Col. (Hon. Brig. Gen.) (Hon. Lt. in the Army from the T.A. Res.)</Title>
       <Forenames>R. E.</Forenames>
-      <Text>, C.M.G., D.S.O., T.D. (Col., and rel. hon. rank of Brig.-Gen.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>5868</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -32,7 +36,9 @@
       <Key>Sutcliffo</Key>
       <Title>Capt.</Title>
       <Forenames>A. J.</Forenames>
-      <Text>, M.C. (apptd. to 4/5th Bo., Ches. R., from4th Bn.,Cues R., and retains rank of Capt. and precedence)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5969</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -51,7 +57,10 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>D.</Forenames>
-      <Text>, M.C., T.D. (apptd. to 4/5th Bn., Seaforth, from 5th Bn., Seaforth, and retains rank of Maj. and precedenee)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>5971</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -111,7 +120,9 @@
       <Key>Swanston</Key>
       <Title>Lt.</Title>
       <Forenames>D. S.</Forenames>
-      <Text>, M.M. (apptd. to 4/5th Bn., R. Scots, from 5th Bn., R. Scots, and retains rank of Lt. and precedence)</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>5968</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -195,7 +206,9 @@
       <Key>Tasker</Key>
       <Title>Capt.</Title>
       <Forenames>W. W.</Forenames>
-      <Text>, M.C. (Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5107</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -245,20 +258,228 @@
       <PageNumber>5711</PageNumber>
     </MainItem>
   </ItemGroup>
-  <KeyDitto>___ ___</KeyDitto>
-  <KeyDitto>___ ___ ___</KeyDitto>
-  <KeyDitto>___ ___</KeyDitto>
-  <KeyDitto>___ ___</KeyDitto>
-  <KeyDitto>___ ___</KeyDitto>
-  <KeyDitto>___ ___ ___ ___</KeyDitto>
-  <KeyDitto>___ ___</KeyDitto>
-  <KeyDitto>___ ___ ___ ___</KeyDitto>
-  <KeyDitto>___ ___ ___</KeyDitto>
-  <KeyDitto>___ ___</KeyDitto>
-  <KeyDitto>___ ___ ___</KeyDitto>
-  <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
-  <KeyDitto>___ ___ ___</KeyDitto>
-  <KeyDitto>___ ___ ___</KeyDitto>
+  <ItemGroup>
+    <MainItem>
+      <Key>Taylor</Key>
+      <Title>Lt.</Title>
+      <Forenames>H. A.</Forenames>
+      <Text>(apptd. to 5/7th Bn., Hamps. R., from 7th Bn., Hamps. R., and retains rank of Lt. and precedence)</Text>
+      <PageNumber>5970</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Title>Lt.</Title>
+      <Forenames>J.</Forenames>
+      <Text>(Lt., T.A. Res., Regtl. List, 46th (N. Mid.) Div. Sigs., from active list)</Text>
+      <PageNumber>5968</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___</KeyDitto>
+      </Key>
+      <Title>Maj.</Title>
+      <Forenames>J. W.</Forenames>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
+      <PageNumber>6300</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Title>Capt.</Title>
+      <Forenames>R. H.</Forenames>
+      <Text>(apptd. to 4/5th Bn., E. Lan. R., from 4th Bn., E. Lan. R.,and retains rank of Capt. and precedence)</Text>
+      <PageNumber>5969</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Title>Lt.</Title>
+      <Forenames>R. R.</Forenames>
+      <Text>(Capt. Prov.)</Text>
+      <PageNumber>5781</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Title>Maj. Sir</Title>
+      <Forenames>W.</Forenames>
+      <Text>
+        <Honour>K.B.E.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
+      <PageNumber>5711</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Teichman</Key>
+      <Title>Capt.</Title>
+      <Forenames>O.</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
+      <PageNumber>5711</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Thicknesse</Key>
+      <Title>Hon. Chapln.</Title>
+      <Text>, 4th Cl., Rev. Cuthbert Carroll, M.-A. (Chapln., 4th Cl )</Text>
+      <PageNumber>5283</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Thorn</Key>
+      <Title>Capt.</Title>
+      <Forenames>J. A.</Forenames>
+      <Text>(apptd. to 6/7th Bn., Black Watch, from 7th Bn., Black Watch, and retains rank of Capt. and precedence)</Text>
+      <PageNumber>5971</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Thomas</Key>
+      <Title>Qrmr. and Lt.</Title>
+      <Forenames>A. T.</Forenames>
+      <Text>(rel. commn. and retains rank of L\)</Text>
+      <PageNumber>6580</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___ ___</KeyDitto>
+      </Key>
+      <Title>Capt. (and Adjt.)</Title>
+      <Forenames>C.</Forenames>
+      <Text>(J. (apptd. to4/5th Bn., D.C.L.I., from 4th Bn., D.C.L.I., and retains rank of Capt. and precedence)</Text>
+      <PageNumber>5970</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Forenames>Charles Ivor</Forenames>
+      <Text>(2nd Lt., 53rd (Welsh) Divl. Engrs., late Cadet Cpl., Taunton School Contgt., Jun. Div., OT.C.)</Text>
+      <PageNumber>5868</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___ ___</KeyDitto>
+      </Key>
+      <Title>Lt.</Title>
+      <Forenames>F. L.</Forenames>
+      <Text>(reL commn. and granted rank of Capt.)</Text>
+      <PageNumber>5030</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___</KeyDitto>
+      </Key>
+      <Title>Capt.</Title>
+      <Forenames>G. F.</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
+      <PageNumber>5435</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Title>Capt.</Title>
+      <Forenames>G. I.</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
+      <PageNumber>5712</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___</KeyDitto>
+      </Key>
+      <Title>Lt.</Title>
+      <Forenames>W. J.</Forenames>
+      <Text>(Capt.)</Text>
+      <PageNumber>5207</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Thompson</Key>
+      <Title>Lt.</Title>
+      <Forenames>C. E.</Forenames>
+      <Text>(Lt , Gen. List, Manch. Univ. Cont., Sen. Div., O.T.C.)</Text>
+      <PageNumber>6643</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
+      </Key>
+      <Forenames>Cyril George Kay</Forenames>
+      <Text>(2nd Lt., 19th Lothian and Border Horse, Armoured Car Co., late Cadet L.-Cpl., Denstone Coll. Cont., Jun. Div., O.T.C.)</Text>
+      <PageNumber>5966</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___</KeyDitto>
+      </Key>
+      <Title>Lt.</Title>
+      <Forenames>F.</Forenames>
+      <Text>(trd. to 50th (Northn.) Div. Engrs., K.E., from Durham R.G.A) ... -</Text>
+      <PageNumber>5107</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___</KeyDitto>
+      </Key>
+      <Title>Capt.</Title>
+      <Forenames>G. E.</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
+      <PageNumber>5972</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>
@@ -266,12 +487,44 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>J. R.</Forenames>
-      <Text>(announcement in Gaz. of 5th Dec,</Text>
-      <PageNumber>1921</PageNumber>
+      <Text>(announcement in Gaz. of 5th Dec, 1921, cancelled)</Text>
+      <PageNumber>6581</PageNumber>
+    </MainItem>
+    <SubItem>
+      <Text>Lt., T.A. Kes.,Gen. List, Infy., from N. Cyc Bn.</Text>
+      <PageNumber>6581</PageNumber>
+    </SubItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___ ___</KeyDitto>
+      </Key>
+      <Title>Maj.</Title>
+      <Forenames>R. P.</Forenames>
+      <Text>(Maj., T. A. Res., Regtl. List, Arty., Kent Coa«t Bde., from Active List)</Text>
+      <PageNumber>6581</PageNumber>
     </MainItem>
   </ItemGroup>
-  <KeyDitto>___ ___ ___ ___</KeyDitto>
-  <KeyDitto>___ ___ ___ ___</KeyDitto>
+  <ItemGroup>
+    <MainItem>
+      <Key>Thomson</Key>
+      <Forenames>G. H.</Forenames>
+      <Text>(2nd Lt., 14thBn., London R., late Lt.-Comdr., R.N.)</Text>
+      <PageNumber>6099</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___ ___</KeyDitto>
+      </Key>
+      <Title>Capt.</Title>
+      <Forenames>J. W.</Forenames>
+      <Text>,M.B. (is retired, having attained the age limit, and granted rank of Maj.)</Text>
+      <PageNumber>5781</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>
@@ -279,42 +532,34 @@
       </Key>
       <Title>2nd Lt.</Title>
       <Forenames>R. G.</Forenames>
-      <Text>(apptd. to4/5th Bn., R.S. Fas.,from4thBo., R.S. Fus., and retains rank of 2ad Lt. and precedence) Lt. Thorburn, Lt.-Col. W., D.S.O., T.D. (resigns commn. and retains rank of Lt.-Col., with 5970 permission to wear prescribed uniform) — .„</Text>
-      <PageNumber>5282</PageNumber>
+      <Text>(apptd. to4/5th Bn., R.S. Fas.,from4thBo., R.S. Fus., and retains rank of 2ad Lt. and precedence)</Text>
+      <PageNumber>5969</PageNumber>
     </MainItem>
-    <SubSectionTitle>see McCreagh-Thornhill.Capt</SubSectionTitle>
     <SubItem>
-      <Text>Tibbi, Lt. E. H. (rel. commn. and retains rank of Lt</Text>
-      <PageNumber>6580</PageNumber>
-    </SubItem>
-    <SubItem>
-      <Text>Tollemache, Capt. C. H., M.B.E. (ceases to hold a ommn. ia T.A.)</Text>
+      <Text>Lt.</Text>
       <PageNumber>5036</PageNumber>
     </SubItem>
-    <SubItem>
-      <Text>Tonks, Qrmr. and Lt. W. H. (trd. to T.A.R.O., R.A.M.C., Gen. List, from Gen, List, T.A.)</Text>
-      <PageNumber>5710</PageNumber>
-    </SubItem>
-    <SubItem>
-      <Text>Date of precedence</Text>
-      <PageNumber>5434</PageNumber>
-    </SubItem>
-    <SubItem>
-      <Text>Treffry, Capt. R. C , M.C. (Maj.)</Text>
-      <PageNumber>5780</PageNumber>
-    </SubItem>
-    <SubItem>
-      <Text>Tratman, Lt. H. T. (restd. to estabt.)</Text>
-      <PageNumber>5528</PageNumber>
-    </SubItem>
-    <SubItem>
-      <Text>Resigns commn. and retains rank of Lt</Text>
-      <PageNumber>6514</PageNumber>
-    </SubItem>
-    <SubItem>
-      <Text>Tapper, Lt. H., M.C. (resign* commn. and granted rank of Capt.) -</Text>
-      <PageNumber>5108</PageNumber>
-    </SubItem>
+  </ItemGroup>
+  <SubSectionTitle>see McCreagh-Thornhill.Capt</SubSectionTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___ ___</KeyDitto>
+      </Key>
+      <Title>2nd Lt.</Title>
+      <Forenames>William Hayhurst</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>M.D.</Honour>
+        <Honour>T.D.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
+      <PageNumber>5282</PageNumber>
+    </MainItem>
   </ItemGroup>
 </Index>
 

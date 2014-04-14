@@ -4,7 +4,9 @@
     <MainItem>
       <Key>Radford</Key>
       <Forenames>Capt</Forenames>
-      <Text>,. A., M.C., M.B. (cel. commn. and granted rank . of Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1578</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -37,7 +39,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>G. W.</Forenames>
-      <Text>, M.C. (rel. commn. and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1925</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -66,7 +70,9 @@
       </Key>
       <Title>Maj. (Hon. Lt. in Army)</Title>
       <Forenames>G. S.</Forenames>
-      <Text>, T.D. (rel. commn. and retains rank of Maj., with permission to wear prescribed uniform)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>365</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -95,7 +101,9 @@
       <Key>Railton</Key>
       <Title>Chapln., 4th CI., the Rev.</Title>
       <Forenames>D.</Forenames>
-      <Text>, M.C. (Chapln., 3rd CI.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>448</PageNumber>
     </MainItem>
     <SubItem>
@@ -153,7 +161,9 @@
       <Key>Rait</Key>
       <Title>Lt.</Title>
       <Forenames>A. M.</Forenames>
-      <Text>, M.B.E. (rel. commn. and granted rank of . Capt.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>356</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -199,7 +209,9 @@
       <Key>Rambaut</Key>
       <Title>Maj.</Title>
       <Forenames>G. M.</Forenames>
-      <Text>, D.S.O. (rel. commn. and retains rank of Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>716</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -245,7 +257,7 @@
       <PageNumber>343</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Adjt., 28th Bn., Lond. R</Text>
+      <Text>Adjt., 28th Bn., Lond. R.</Text>
       <PageNumber>343</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -352,7 +364,9 @@
       <Key>Rapp</Key>
       <Title>Capt.</Title>
       <Forenames>T. C</Forenames>
-      <Text>, M.C. (rel. commn. and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>346</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -361,7 +375,9 @@
       <Key>Rasch</Key>
       <Title>Maj. (Res. M Off.) Sir</Title>
       <Forenames>F. C.</Forenames>
-      <Text>, Bt. (Lt.-Col., 5th Bn., Essex R.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>930</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -451,7 +467,9 @@
       <Key>Ray</Key>
       <Title>Maj.</Title>
       <Forenames>J. H.</Forenames>
-      <Text>, M.B., F.R.C.S. (Lt.-Col. comdg 2nd W. Genl Hosp.)</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>1495</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -497,7 +515,10 @@
       <Key>Rayner</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>F.</Forenames>
-      <Text>, D.S.O., T.D. (rel. commn. and retains rank of Lt.-Col. with permission to wear prescribed uniform)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>272</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -531,7 +552,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Recki</Key>
-      <Text>.tt, Maj. F. N. (rel. commn. and retains rank of Maj.)</Text>
+      <Text>tt, Maj. F. N. (rel. commn. and retains rank of Maj.)</Text>
       <PageNumber>132</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -549,7 +570,9 @@
       <Key>Redman</Key>
       <Title>Maj.</Title>
       <Forenames>H. G.</Forenames>
-      <Text>, O.B.E. (rel. commn. and retains rank of Maj.) Redston, 'Lt. T. V. (rel. commn. and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>130</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -565,7 +588,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Reed</Key>
-      <Text>. Lt. C. (rel. commn. and retains rank of Lt.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>C.</Forenames>
+      <Text>(rel. commn. and retains rank of Lt.)</Text>
       <PageNumber>10</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -587,7 +612,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>G. W.</Forenames>
-      <Text>, O.B.E. (rel. commn. and retains rank of Maj.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>717</PageNumber>
     </MainItem>
   </ItemGroup>

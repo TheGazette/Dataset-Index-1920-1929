@@ -4,7 +4,9 @@
     <MainItem>
       <Key>Bell</Key>
       <Forenames>Pilot Offr</Forenames>
-      <Text>. James William, D.S.M. (Flying Offr.)</Text>
+      <Text>
+        <Honour>D.S.M.</Honour>
+      </Text>
       <PageNumber>8370</PageNumber>
     </MainItem>
     <SubItem>
@@ -36,7 +38,9 @@
     <MainItem>
       <Key>Benson</Key>
       <Forenames>Flying Offr</Forenames>
-      <Text>. Seymour Stewart, A.F.C. (Fit. Lt.)</Text>
+      <Text>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>10720</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -53,7 +57,9 @@
       <Key>Biggs</Key>
       <Title>Lt. (actg. Capt.)</Title>
       <Forenames>Jack Pel-</Forenames>
-      <Text>ham Percival Leslie, M.B.E. (rel temp, commn. on ceasing to be empld. and granted rank of Maj.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>10142</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -100,7 +106,9 @@
       <Key>Blandy</Key>
       <Title>Maj. and Bt. Lt.-Col.</Title>
       <Forenames>Lyster Fettiplace</Forenames>
-      <Text>, D.S.O. (Controller of Communications, Air Ministry)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8369</PageNumber>
     </MainItem>
     <SubItem>
@@ -191,7 +199,10 @@
       <Key>Boyle</Key>
       <Title>Sqdn.</Title>
       <Forenames>Leaded Archibald Robert</Forenames>
-      <Text>, O.B.E., M.C. (resecd. for duty with R.A.F. for further two years)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8103</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -229,7 +240,12 @@
       <Key>Brand</Key>
       <Title>Fit. Lt. Sir</Title>
       <Forenames>Christopher Josepr Quintan</Forenames>
-      <Text>, K.B.E., D.S.O., M.C., D.F.C. (Squad. Leader)</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>10720</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -246,7 +262,10 @@
     <MainItem>
       <Key>Briggs</Key>
       <Forenames>Wing Cdr</Forenames>
-      <Text>. Edward Feathenstone, D.S.O., C.B.E. (Group Capt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>10719</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -263,7 +282,12 @@
     <MainItem>
       <Key>Brooke-Popham</Key>
       <Forenames>Air Commodore Henry Robert Moore</Forenames>
-      <Text>, C.B., C.M.G., D.S.O., A.F.C. (rel. appt. of Dir. of Research, Air Ministry)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>8943</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -341,7 +365,9 @@
     <MainItem>
       <Key>Bunstead</Key>
       <Forenames>Leslie Bernard James</Forenames>
-      <Text>, M.C. (granted short service commn. as Pilot Offr. on prob.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9058</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -350,7 +376,9 @@
       <Key>Burchall</Key>
       <Title>Sqdn.</Title>
       <Forenames>Leader Percival Russell</Forenames>
-      <Text>, O.B.E. (placed on half pay, Scale A, until further notice)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>9257</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -370,7 +398,9 @@
       </Key>
       <Title>Fit. Lt.</Title>
       <Forenames>Cyril Gordon</Forenames>
-      <Text>, O.B.E. (Squad. Leader)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>10720</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -378,7 +408,10 @@
     <MainItem>
       <Key>Burnett</Key>
       <Forenames>Group</Forenames>
-      <Text>Capt. Charles Stuart, O.B.E., D.S.O. (restd. to active list from half pay)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8369</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -395,14 +428,18 @@
     <MainItem>
       <Key>Busk</Key>
       <Forenames>Flying Offr</Forenames>
-      <Text>. Clifford Westly, M.C. (re-secd. for duty with R.A.F. for further two years)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8103</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Butler</Key>
-      <Text>, Flying Offr. Maurice Henry, D.F.C. (Fit. Lt.)</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>10720</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -473,7 +510,9 @@
     <MainItem>
       <Key>Catchpole</Key>
       <Forenames>Flying Offr</Forenames>
-      <Text>. William, A.F.C. (placed on h.p., Scale B)</Text>
+      <Text>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>10373</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -481,7 +520,9 @@
     <MainItem>
       <Key>Catherall</Key>
       <Forenames>Flying Offr</Forenames>
-      <Text>. John Eric, M.B.E. (re-secd. for duty with R.A.F. for further two years)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3103</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -497,7 +538,9 @@
     <MainItem>
       <Key>Cave-Brown-</Key>
       <Forenames>Cave</Forenames>
-      <Text>, Wing Coindr. Thomas Reginald, C.B.E. (apptd. Dep. Dir. of Airship Research, Air Ministry)</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>9058</PageNumber>
     </MainItem>
     <SubItem>

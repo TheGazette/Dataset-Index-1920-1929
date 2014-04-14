@@ -75,7 +75,9 @@
     <MainItem>
       <Key>Godwin</Key>
       <Forenames>Claud Herbert</Forenames>
-      <Text>, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>2728</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -104,7 +106,9 @@
     <MainItem>
       <Key>Naylor</Key>
       <Forenames>Charles Granville</Forenames>
-      <Text>, M.V.O</Text>
+      <Text>
+        <Honour>M.V.O</Honour>
+      </Text>
       <PageNumber>2727</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -119,7 +123,9 @@
     <MainItem>
       <Key>Phillips</Key>
       <Forenames>Philip Esmonde</Forenames>
-      <Text>, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>2728</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -134,8 +140,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Renouf</Key>
-      <Forenames>Edward</Forenames>
-      <Text>de Faye</Text>
+      <Forenames>Edward de Faye</Forenames>
       <PageNumber>2728</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -150,7 +155,9 @@
     <MainItem>
       <Key>Stuart</Key>
       <Forenames>Charles Gage</Forenames>
-      <Text>, D.S.O., D.S.C ... -</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>2728</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -173,7 +180,9 @@
     <MainItem>
       <Key>Bacchus</Key>
       <Forenames>Boy</Forenames>
-      <Text>, D.S.O. (at own request)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4921</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -290,7 +299,9 @@
     <MainItem>
       <Key>Breton</Key>
       <Forenames>Colin G.</Forenames>
-      <Text>, O.B.E. (at own request)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4474</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -298,7 +309,9 @@
     <MainItem>
       <Key>Goold</Key>
       <Forenames>Hubert</Forenames>
-      <Text>, O.B.E. (at own request) ..'</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4474</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -448,7 +461,9 @@
     <MainItem>
       <Key>Busbridge</Key>
       <Forenames>Frank P.</Forenames>
-      <Text>, D.S.C</Text>
+      <Text>
+        <Honour>D.S.C</Honour>
+      </Text>
       <PageNumber>3522</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -456,7 +471,9 @@
     <MainItem>
       <Key>Clavell</Key>
       <Forenames>Richard C</Forenames>
-      <Text>, O.B.E</Text>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>3235</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -497,8 +514,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Gaisford-St</Key>
-      <Text>Lawrence, Stephen F</Text>
+      <Key>Gaisford-St. Lawrence</Key>
+      <Forenames>Stephen F.</Forenames>
       <PageNumber>4642</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -541,7 +558,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kerr</Key>
-      <Text>Mark P. C</Text>
+      <Forenames>Mark P. C</Forenames>
       <PageNumber>3235</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -579,7 +596,9 @@
     <MainItem>
       <Key>MaoMillan</Key>
       <Forenames>James C. N.</Forenames>
-      <Text>, O.B.E</Text>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>2818</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -621,8 +640,11 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>Lawrence, Stephen F. Gakford-, see Gaisfora-St. Lawrence, Stephen F. Shoppee, Denys C. G., D.S.C</Text>
+      <Key>St. Lawrence</Key>
+      <Forenames>Stephen F. Gakford-</Forenames>
+      <Text>
+        <Honour>D.S.C</Honour>
+      </Text>
       <PageNumber>4642</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -644,8 +666,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tyler</Key>
-      <Forenames>Trevor St</Forenames>
-      <Text>. V. F</Text>
+      <Forenames>Trevor St. V</Forenames>
+      <Text>. F</Text>
       <PageNumber>3874</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -706,7 +728,9 @@
     <MainItem>
       <Key>Bradshaw</Key>
       <Forenames>George F.</Forenames>
-      <Text>, D.S.O. (at own request)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4720</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -750,7 +774,9 @@
     <MainItem>
       <Key>Hunt</Key>
       <Forenames>Robert G. M. D.</Forenames>
-      <Text>, D.S.O. (at own request)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4329</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1277,7 +1303,9 @@
     <MainItem>
       <Key>Orman</Key>
       <Forenames>Leonard C</Forenames>
-      <Text>, D.S.C. (seniority)</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>4061</PageNumber>
     </MainItem>
   </ItemGroup>

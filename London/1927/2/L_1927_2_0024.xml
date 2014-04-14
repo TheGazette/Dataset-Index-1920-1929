@@ -3,9 +3,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Franks</Key>
-      <Title>Major</Title>
+      <Title>Major-</Title>
       <Forenames>General George</Forenames>
-      <Text>McKenzie, C.B., Knight Commander, Order of the Bath</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>3605</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -23,7 +25,9 @@
         <KeyDitto>___</KeyDitto>
       </Key>
       <Forenames>John Hugh Ronald</Forenames>
-      <Text>, O.B.E., Companion, Order of the Indian Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3607</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -32,7 +36,10 @@
       <Key>Premantle</Key>
       <Title>Major</Title>
       <Forenames>John Morton</Forenames>
-      <Text>, M.B.E., D.C.M., Companion, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>3607</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -71,7 +78,9 @@
     <MainItem>
       <Key>Furley</Key>
       <Title>Lady</Title>
-      <Text>, R.R.C., Dame Grand Cross, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>R.R.C.</Honour>
+      </Text>
       <PageNumber>3836</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -105,7 +114,9 @@
       <Key>Gallagher</Key>
       <Title>Lieut.-Col.</Title>
       <Forenames>Albert Ei-nest</Forenames>
-      <Text>, D.S.O., Commander, Order of the . British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3617</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -170,7 +181,9 @@
       <Key>Gatt</Key>
       <Title>Capt.</Title>
       <Forenames>Alfred Joseph</Forenames>
-      <Text>, M.C., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3609</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -179,7 +192,9 @@
       <Key>Gedye</Key>
       <Title>Sister Miss</Title>
       <Forenames>Winifred Mary</Forenames>
-      <Text>, A.R.R.C., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>A.R.R.C.</Honour>
+      </Text>
       <PageNumber>3610</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -188,7 +203,9 @@
       <Key>Gee</Key>
       <Title>Capt.</Title>
       <Forenames>Robert</Forenames>
-      <Text>, V.C., Steward and Bailiff of Manor of Northstead</Text>
+      <Text>
+        <Honour>V.C.</Honour>
+      </Text>
       <PageNumber>3051</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -262,7 +279,9 @@
     <MainItem>
       <Key>Godsell</Key>
       <Forenames>James Stanley Pool</Forenames>
-      <Text>, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3613</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -323,7 +342,11 @@
       <Key>Goschen</Key>
       <Title>Sir</Title>
       <Forenames>Harry William Henry Neville</Forenames>
-      <Text>, K.B.E., J.P., D.L., Baronet</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+        <Honour>D.L.</Honour>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>3603</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -355,7 +378,9 @@
       <Key>Grant</Key>
       <Title>Commander</Title>
       <Forenames>Alexander</Forenames>
-      <Text>, D.S.C., R.N. (retd.), Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>3608</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -375,7 +400,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>John Peter</Forenames>
-      <Text>, M.C., SheriffSubstitute of the Sheriffdom of Inverness</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2690</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -384,7 +411,11 @@
       <Key>Green</Key>
       <Title>Colonel (temporary Colonel Commandant)</Title>
       <Forenames>Wil-</Forenames>
-      <Text>frith Gerald Key, C.M.G., D.S.O., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3605</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -393,7 +424,11 @@
       <Key>Greenall</Key>
       <Title>Sir</Title>
       <Forenames>Gilbert</Forenames>
-      <Text>, Baronet, C.V.O., J.P., D.L., Baron</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+        <Honour>C.V.O.</Honour>
+        <Honour>D.L.</Honour>
+      </Text>
       <PageNumber>4138</PageNumber>
       <PageNumber>3603</PageNumber>
     </MainItem>
@@ -410,7 +445,9 @@
     <MainItem>
       <Key>Griffith</Key>
       <Forenames>George Herbert</Forenames>
-      <Text>, O.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3615</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -427,7 +464,9 @@
       <Key>Guise</Key>
       <Title>Maj.</Title>
       <Forenames>Vernon Robert</Forenames>
-      <Text>, M.C., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3609</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -458,7 +497,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Haakon</Key>
-      <Text>VII, H.M., The King of Norway, K.G., G.C.B., G.C.V.O., etc., Bailiff Grand Cross, Order of St. John of Jerusalem (Associate)</Text>
+      <Text>
+        <Honour>K.G.</Honour>
+        <Honour>G.C.B.</Honour>
+        <Honour>G.C.V.O.</Honour>
+      </Text>
       <PageNumber>3836</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -483,7 +526,9 @@
     <MainItem>
       <Key>Halford</Key>
       <Forenames>Richard John</Forenames>
-      <Text>, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3613</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -507,7 +552,10 @@
     <MainItem>
       <Key>Hand</Key>
       <Forenames>John Pierce</Forenames>
-      <Text>, C.M.G., M.B.E., Unofficial Member of Executive Council of Bermudas orSomers Islands</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>4138</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -516,7 +564,10 @@
       <Key>Hankey</Key>
       <Title>Colonel (temporary Colonel Commandant)</Title>
       <Forenames>Edward Barnard</Forenames>
-      <Text>, D.S.O., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3605</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -540,7 +591,9 @@
     <MainItem>
       <Key>Harding</Key>
       <Forenames>Alfred John</Forenames>
-      <Text>, O.B.E., Commander, Order of the .British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3612</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -549,7 +602,11 @@
       <Key>Uarington</Key>
       <Title>Colonel (temporary Colonel on the Staff)</Title>
       <Forenames>John</Forenames>
-      <Text>, C.M.G., D.S.O., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3605</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -557,7 +614,9 @@
     <MainItem>
       <Key>Harlech</Key>
       <Title>Rt. Hon. Lord</Title>
-      <Text>, C.B., Harlech Castle, Constable</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>3446</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -565,7 +624,9 @@
     <MainItem>
       <Key>Harris</Key>
       <Forenames>Squadron Leader Arthur Travers</Forenames>
-      <Text>, A.F.C. Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>3611</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -586,7 +647,11 @@
       </Key>
       <Title>Major</Title>
       <Forenames>George Arthur</Forenames>
-      <Text>, D.S.O., O.B.E., T.D., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>O.B.E.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>3612</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -655,7 +720,9 @@
     <MainItem>
       <Key>Hav</Key>
       <Forenames>Thomas</Forenames>
-      <Text>, Member, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3608</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -688,7 +755,9 @@
       <Key>Heath</Key>
       <Title>Sir</Title>
       <Forenames>Henry Frank</Forenames>
-      <Text>, K.C.B., Knight Grand Cross, Order of the British Empire</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+      </Text>
       <PageNumber>3611</PageNumber>
     </MainItem>
   </ItemGroup>

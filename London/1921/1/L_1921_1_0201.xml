@@ -37,7 +37,9 @@
     <MainItem>
       <Key>Bythell</Key>
       <Forenames>J. F.</Forenames>
-      <Text>(2nd Lt.) Caddick-Adams, Capt. C, M.C. (resigns commn. and granted</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2395</PageNumber>
     </MainItem>
     <SubItem>
@@ -99,7 +101,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Title>Lt.</Title>
-      <Text>'H. F., M.C. (trd. to T.F.R. Infy., from 4th Bn., Black Watch)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2080</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -141,7 +145,9 @@
       <Key>Calderwood</Key>
       <Title>Lt.</Title>
       <Forenames>R. G. M.</Forenames>
-      <Text>, M.C. (trd. to T.F.R. Infy., from 5th Bn., H.L.I.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1264</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -154,7 +160,7 @@
       <PageNumber>2378</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Trd. to T.F.R. Infy., from 8th Bn., King's R.</Text>
+      <Text>Trd. to T.F.R. Infy., from 8th Bn., King's R</Text>
       <PageNumber>675</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -223,7 +229,7 @@
       <PageNumber>145</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Resigns commn. and retains rank of Lt.</Text>
+      <Text>Resigns commn. and retains rank of Lt</Text>
       <PageNumber>673</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -260,7 +266,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>J. S. T.</Forenames>
-      <Text>, T.D. (resigns commn. and retains rank of Maj. with permission to wear prescribed uniform)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>1033</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -304,7 +312,9 @@
       </Key>
       <Title>Qrmr. and Capt.</Title>
       <Forenames>T. D.</Forenames>
-      <Text>, M.B.E. (retires having attained the age limit for retirement and retains rank)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>1545</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -340,7 +350,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>E.</Forenames>
-      <Text>, M.C. (trd. to T.F.R., Infy., from 1st Lowland Bde.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1130</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -363,7 +375,9 @@
       </Key>
       <Title>Lt. (Adjt. and temp. Capt.)</Title>
       <Forenames>John</Forenames>
-      <Text>, M.B.E. (trd. to 49th W. Riding Divl. Sigs., from K.E., T.F., and Adjt. and t;mp. Capt., with pay and allces. as Lt. whilst holding aPPt-)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>443</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -378,7 +392,7 @@
       <PageNumber>1529</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Seed, under the conditions of para. 112. T.F. Regns.</Text>
+      <Text>Seed, under the conditions of para. 112. T.F. Regns</Text>
       <PageNumber>1525</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -437,7 +451,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>N. R.</Forenames>
-      <Text>, M.C. (Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1984</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -470,7 +486,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>S.</Forenames>
-      <Text>, M.C. (Capt., T.F.R., Infy.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1440</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -497,21 +515,29 @@
   <ItemGroup>
     <MainItem>
       <Key>Canning</Key>
-      <Text>. Lt. Miles Howell, M.C. (trd. to 56th Lond. Divl. Engis., from Kent. Fortress Engrs., Field Co.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>Miles Howell</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1547</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Capewell</Key>
-      <Text>. 2nd Lt. W. (resigns commn. and retains rank of 2nd Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>W.</Forenames>
+      <Text>(resigns commn. and retains rank of 2nd Lt.)</Text>
       <PageNumber>1529</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Caporn</Key>
-      <Text>. Capt. A. C. (restd. to T.F.I</Text>
+      <Title>Capt.</Title>
+      <Forenames>A. C.</Forenames>
+      <Text>(restd. to T.F.I</Text>
       <PageNumber>1263</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -548,14 +574,19 @@
   <ItemGroup>
     <MainItem>
       <Key>Cargill</Key>
-      <Text>. Lt. G. M. designs commn. and retains rank of Lt.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>G. M.</Forenames>
+      <Text>designs commn. and retains rank of Lt.)</Text>
       <PageNumber>2181</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Carlebacl</Key>
-      <Text>. Lt.-Col. (Hon. Coll P , C.M.G., T~,D. (resigns Hon. Colo, of the 2nd Bn., Lond. R.l</Text>
+      <Title>Lt.-Col.</Title>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>1129</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -583,7 +614,12 @@
   <ItemGroup>
     <MainItem>
       <Key>Carlton</Key>
-      <Text>. Capt. Charles Hope, M.C.. M.B. (trd. to Gen. List, R.A.M.C. late Spec R.)</Text>
+      <Title>Capt.</Title>
+      <Forenames>Charles Hope</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>776</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -630,7 +666,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Carnes</Key>
-      <Text>2nd Lt, C, M.C. (Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>937</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -639,7 +677,10 @@
       <Key>Carnwath</Key>
       <Title>Capt.</Title>
       <Forenames>T.</Forenames>
-      <Text>, D.S.O. (trd. to Gen. List, R.A.M.C., from T.F. Res.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>922</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -648,7 +689,9 @@
       <Key>Carpenter</Key>
       <Title>Lt.</Title>
       <Forenames>G. E.</Forenames>
-      <Text>, M.C. (resigns commn. and granted rank of</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>156</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -726,7 +769,9 @@
       <Key>Carrier</Key>
       <Title>Lt.</Title>
       <Forenames>P.</Forenames>
-      <Text>, M.C. (resigns commn. and granted rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1252</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -766,7 +811,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>W. D.</Forenames>
-      <Text>, M.B. (trd. to Gen. List, R.A.M.C., from 1st Lond. (City of London) Sanitary Co.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1538</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -775,7 +822,10 @@
       <Key>Carse</Key>
       <Title>Lt.</Title>
       <Forenames>D. A.</Forenames>
-      <Text>, M.C., M.M. (trd. to 74th Northn Bde., late R.F.A., Spec. Res.), Sub. Not</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>1884</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -793,7 +843,9 @@
       <Key>Carson</Key>
       <Title>Capt.</Title>
       <Forenames>F. S.</Forenames>
-      <Text>, M.C., M.B. (resigns commn. and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2540</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -855,7 +907,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>E. P. Q.</Forenames>
-      <Text>, M.C. (trd. to T.F.R., Infy., from 5th</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2541</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -877,7 +931,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>Harry William</Forenames>
-      <Text>, M.C. (trd. to 47th (London) Divl. Sigs., from R.E., T.F.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>756</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -943,21 +999,27 @@
       <Key>Cartwricht</Key>
       <Title>Maj.</Title>
       <Forenames>W.</Forenames>
-      <Text>, T.D. (trd. to T.F.R.. Infy., from 7th Bn., Lane. Fus.)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>1047</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Case-Morris</Key>
-      <Text>. Maj. and Adjt. C. W. (vacates appt. of Adjt., 5th Bn., Cheshire Regt.)</Text>
+      <Title>Maj. and Adjt.</Title>
+      <Forenames>C. W.</Forenames>
+      <Text>(vacates appt. of Adjt., 5th Bn., Cheshire Regt.)</Text>
       <PageNumber>137</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Cash</Key>
-      <Text>. Lt. D. (trd. to T.F.R., Infy., from 5th Bn., Foresters)</Text>
+      <Title>Lt.</Title>
+      <Forenames>D.</Forenames>
+      <Text>(trd. to T.F.R., Infy., from 5th Bn., Foresters)</Text>
       <PageNumber>2182</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -966,7 +1028,9 @@
       <Key>Casper</Key>
       <Title>Lt.</Title>
       <Forenames>C. F.</Forenames>
-      <Text>, M.C. (resigns commn. and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1652</PageNumber>
     </MainItem>
   </ItemGroup>

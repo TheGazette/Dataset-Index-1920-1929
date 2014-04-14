@@ -75,7 +75,10 @@
       <Key>Davidson-Houston</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>W. B.</Forenames>
-      <Text>, C.M.G. (Lt.-Col., Reg. Army Res. of Off., Gen. List, Inf., from R.D. .Fus.,)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>910</PageNumber>
     </MainItem>
     <SubItem>
@@ -110,7 +113,10 @@
       </Key>
       <Title>Capt. (now R. Sussex R.)</Title>
       <Forenames>F. E.</Forenames>
-      <Text>, M.C. (ceases to be empld. with M.G.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>1071</PageNumber>
     </MainItem>
     <SubItem>
@@ -194,7 +200,10 @@
       </Key>
       <Title>temp. Capt.</Title>
       <Forenames>Thomas A.</Forenames>
-      <Text>, M.D. (rel. commn. and retains rank of Capt.) Davis, 2nd Lt. G. F., M.C. (Lt., Reg. Army Res. of Off., Regtl. List, R.G.A.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>530</PageNumber>
     </MainItem>
     <SubItem>
@@ -220,7 +229,9 @@
       </Key>
       <Title>temp. Capt.</Title>
       <Forenames>L. S.</Forenames>
-      <Text>, O.B.E. (Lt.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>1819</PageNumber>
     </MainItem>
     <SubItem>
@@ -233,7 +244,9 @@
       <Key>Davison</Key>
       <Title>Capt.</Title>
       <Forenames>D. A.</Forenames>
-      <Text>, O.B.E. (seed, whilst empld. as Comdt., Detention Barracks)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>608</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -241,7 +254,11 @@
     <MainItem>
       <Key>Dawes</Key>
       <Title>Maj.</Title>
-      <Text>and Bt, Lt.-Col. G. W. P., D.S.O., A.F.C. (retires on ret. pay and granted rank of Lt.-Col. in Reg. Army Res. of Off.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>528</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -262,46 +279,103 @@
       <Text>COand Lt. G. H. (rel. commn. on completion of service and retains rank)</Text>
       <PageNumber>1155</PageNumber>
     </MainItem>
-    <SubItem>
-      <Text>
-        <PageNumber>1911</PageNumber>
-      </Text>
-      <PageNumber>1911</PageNumber>
-    </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Text>la Pryine, Maj. (late W. York R.) W. H. A., D.S.O. (placed on h.p. list on acc. of ill-health on termination of employment on the Staff)</Text>
+      <Key>
+        <PageNumber>___ ___ ___</PageNumber>
+        <KeyDitto>___ ___ ___</KeyDitto>
+      </Key>
+      <Forenames>Fonblartque</Forenames>
+      <Text>, Capt. E. B. (seed, whilst nolaung appt. at Sen. of Equitation)</Text>
+      <PageNumber>452</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Grey</Key>
+      <Title>Uapt. and Bt. Maj.</Title>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
+      <PageNumber>1229</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>R</Key>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>909</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>La Taste</Forenames>
+      <Key>La</Key>
+      <Forenames>Taste</Forenames>
       <Text>, temp. 2nd Lt. J. M. (rel. commn. on completion of service and retains rank of 2nd Lt.)</Text>
       <PageNumber>609</PageNumber>
     </MainItem>
-    <SubItem>
-      <Text>Seed, for service under Colonial Office</Text>
-      <PageNumber>2237</PageNumber>
-    </SubItem>
-    <SubItem>
-      <Text>Retires, receiving a gratuity, and granted rank of Capt.</Text>
-      <PageNumber>1230</PageNumber>
-    </SubItem>
-    <SubItem>
-      <Text>Lt., Reg. Army Res. of Off., Regtl. List, R.A.S.C., late R.A.S.C</Text>
-      <PageNumber>1496</PageNumber>
-    </SubItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Miremont</Key>
+      <Title>Capt.</Title>
+      <Forenames>G. E. R.</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
+      <PageNumber>2167</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Moulin</Key>
+      <Title>Lt.</Title>
+      <Forenames>C. A.</Forenames>
+      <Text>(rel. temp, rank of Capt. on ceasing to be empld. as Education Oftr.)</Text>
+      <PageNumber>304</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Satge</Key>
+      <Title>2nd Lt.</Title>
+      <Forenames>M. V.</Forenames>
+      <Text>(resigns commn.)</Text>
+      <PageNumber>2167</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Vail</Key>
+      <Title>temp. Lt.</Title>
+      <Forenames>C.</Forenames>
+      <Text>(rel. commn. on completion of service and retains rank of Lt.)</Text>
+      <PageNumber>996</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Watteville</Key>
+      <Title>Maj. and Bt.</Title>
+      <Forenames>Lt</Forenames>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
+      <PageNumber>220</PageNumber>
+    </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Deacon</Key>
       <Title>Lt.-Col. (ret, pay)</Title>
       <Forenames>A. F.</Forenames>
-      <Text>(Lt.-Col., Reg. Army Res. of Off., Regtl. List, R.A.V.C.)</Text>
+      <Text>
+        <Honour>V.C.</Honour>
+      </Text>
       <PageNumber>1821</PageNumber>
     </MainItem>
     <SubItem>
@@ -343,7 +417,11 @@
       <Key>Deedes</Key>
       <Title>Maj. and Bt. Lt.-Col. Sir</Title>
       <Forenames>Wyndham H.</Forenames>
-      <Text>. Knt., C.M.G., D.S.O. (Maj., H.L.I., from K.R.R.C., and retains present appt.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>R.R.C.</Honour>
+      </Text>
       <PageNumber>1153</PageNumber>
     </MainItem>
     <SubItem>
@@ -387,7 +465,9 @@
       <Key>Denning</Key>
       <Title>Lt.</Title>
       <Forenames>L. R.</Forenames>
-      <Text>, M.C. (Lt., Reg. Army Res. of Off , Regtl. List, R.H. and R.F.A., late R.F.A., Spec Res.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>805</PageNumber>
     </MainItem>
     <SubItem>
@@ -400,7 +480,9 @@
       <Key>Denniss</Key>
       <Title>Supern. Maj.</Title>
       <Forenames>C. E. B.</Forenames>
-      <Text>, D.S.O. (restd. to establl</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>452</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -408,8 +490,8 @@
     <MainItem>
       <Key>Denny</Key>
       <Title>Lt.</Title>
-      <Forenames>A. De C.</Forenames>
-      <Text>McG. (retires, receiving a gratuity)</Text>
+      <Forenames>A. De C</Forenames>
+      <Text>. McG. (retires, receiving a gratuity)</Text>
       <PageNumber>1495</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -418,7 +500,10 @@
       <Key>Dent</Key>
       <Title>Capt.</Title>
       <Forenames>J. R. C.</Forenames>
-      <Text>D.S.O., M.C. CCapt,. S. Staff. R., from Inniskilling Fus.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1302</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -440,17 +525,20 @@
   <ItemGroup>
     <MainItem>
       <Key>
-        <KeyDitto>___ ___ ___</KeyDitto>
+        <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Title>Capt.</Title>
-      <Text>(now' Col., C.B.E., D.S.O.} W. (temp. Maj. whilst G.S.O.. 2nd Grade)</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>2167</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>
-        <KeyDitto>___ ___ ___</KeyDitto>
+        <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Title>Lt.</Title>
       <Forenames>W. H. N.</Forenames>
@@ -531,7 +619,9 @@
       </Key>
       <Title>Capt. (ret., from R. Mun. Fus.)</Title>
       <Forenames>N.</Forenames>
-      <Text>, M.C. (Capt., Reg. Army Res. of Off., Gen. List, Intelligence), Sub. Not</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>305</PageNumber>
     </MainItem>
     <SubItem>
@@ -544,7 +634,9 @@
       <Key>Dick</Key>
       <Title>Capt.</Title>
       <Forenames>Carl K. G.</Forenames>
-      <Text>, M.C. (retires, receiving a gratuity)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>378</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -580,7 +672,10 @@
       <Key>Dill</Key>
       <Title>Col.</Title>
       <Forenames>J. G.</Forenames>
-      <Text>, C.M.G., D.S.O. (placed on h.p. on ceasing to be empld.), Sub. Not</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>378</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -589,7 +684,11 @@
       <Key>Dillon</Key>
       <Title>Capt. and Bt. Maj.</Title>
       <Forenames>S. S. Hill</Forenames>
-      <Text>, D.S.O., see Hill-Dillon, Capt. and Bt. Maj. S. S., D. S.O. Dimes, Capt. D. H. (empld. under Colonial Office)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Bt</Honour>
+        <Honour>D. S.O.</Honour>
+      </Text>
       <PageNumber>2168</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -598,7 +697,9 @@
       <Key>Disney</Key>
       <Title>Lt.</Title>
       <Forenames>T. B. L</Forenames>
-      <Text>, M.C. (Lt., R.C. of Sigs., from Oxf. and Bucks L.I.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1409</PageNumber>
     </MainItem>
     <SubItem>
@@ -611,7 +712,9 @@
       <Key>Dixon</Key>
       <Title>Lt.</Title>
       <Forenames>B. E. C</Forenames>
-      <Text>, M.C. (Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1911</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -620,7 +723,9 @@
       <Key>Dobbin</Key>
       <Title>Maj. (ret. pay)</Title>
       <Forenames>A. W.</Forenames>
-      <Text>, D.S.O. (Maj., Reg. Army Res. of Off., Regtl. List, R.G.A.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1994</PageNumber>
     </MainItem>
     <SubItem>
@@ -633,7 +738,9 @@
       <Key>Dobbs</Key>
       <Title>Col.</Title>
       <Forenames>C. R.</Forenames>
-      <Text>, O.B.E. (ceases to belong to Reg. Army Res. of Off., having attained age limit of liability to recall)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>219</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -644,7 +751,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>J.F. K.</Forenames>
-      <Text>, M.C. (retires on ret. pay)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>995</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -668,14 +777,18 @@
   <ItemGroup>
     <MainItem>
       <Key>Dohevty</Key>
-      <Text>. 2nd Lt. James Michael /2nd Lt,, Ree. Army Res. of Off., Regtl. List. Inf.. Inniskilline Fus., late Serv. Bns.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>James Michael</Forenames>
+      <Text>/2nd Lt,, Ree. Army Res. of Off., Regtl. List. Inf.. Inniskilline Fus., late Serv. Bns.)</Text>
       <PageNumber>305</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Dolman</Key>
-      <Text>. Gent. Cadet Gerald Louis (2nd Lt.. Loyal R., from R. Mil. Coll.)</Text>
+      <Title>Gent. Cadet</Title>
+      <Forenames>Gerald Louis</Forenames>
+      <Text>(2nd Lt.. Loyal R., from R. Mil. Coll.)</Text>
       <PageNumber>807</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -684,7 +797,9 @@
       <Key>Domvile</Key>
       <Title>Lt.</Title>
       <Forenames>J. P.</Forenames>
-      <Text>(Lt., 7th H., from K.R.R.C.)</Text>
+      <Text>
+        <Honour>R.R.C.</Honour>
+      </Text>
       <PageNumber>302</PageNumber>
     </MainItem>
     <SubItem>
@@ -708,7 +823,9 @@
       </Key>
       <Title>Capt. (ret. pay)</Title>
       <Forenames>W.</Forenames>
-      <Text>. M.C. (Capt.. Beg. Armv Bes. of Off.. Regtl. List, R.H. and~ R.F.A.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1912</PageNumber>
     </MainItem>
     <SubItem>

@@ -23,7 +23,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Shirley</Forenames>
-      <Text>, O.B.E., Commander of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3858</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -48,7 +50,10 @@
       <Key>Edmonds</Key>
       <Title>Brigadier</Title>
       <Forenames>General J</Forenames>
-      <Text>ames Edward C.B., C.M.G., Knight</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>3846</PageNumber>
       <PageNumber>4410</PageNumber>
     </MainItem>
@@ -75,7 +80,11 @@
       <Key>Eliot</Key>
       <Title>Hon.</Title>
       <Forenames>Montague Charles</Forenames>
-      <Text>, M.V.O., O.B.E., Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+        <Honour>O.B.E.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3851</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -100,7 +109,10 @@
       <Key>Ensor</Key>
       <Title>Colonel</Title>
       <Forenames>Howard</Forenames>
-      <Text>, C.B., C. M.G., D.S.O., M.B., Corhmander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3851</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -109,7 +121,9 @@
       <Key>Evans</Key>
       <Title>Major</Title>
       <Forenames>William Owen</Forenames>
-      <Text>, M.B.E., L.R.C.P. &amp; S.Ed., Officer, Order' of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>4264</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -117,7 +131,9 @@
     <MainItem>
       <Key>Everinghaih</Key>
       <Forenames>Quartermaster</Forenames>
-      <Text>and Lieutenant Colonel Arthur Edward, .D.S.O., Officer, Order of the British, Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3852</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -140,9 +156,13 @@
   <ItemGroup>
     <MainItem>
       <Key>Fawcus</Key>
-      <Title>Major</Title>
+      <Title>Major-</Title>
       <Forenames>General Harold Ben O.M.G.</Forenames>
-      <Text>, D.S.O., M.B., K.H.P., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>K.H.P.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3848</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -158,7 +178,9 @@
     <MainItem>
       <Key>Felling</Key>
       <Forenames>Christian Ludolph Neethling</Forenames>
-      <Text>, C.M.G., Knight</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>3847</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -192,7 +214,11 @@
       <Key>Fetherstonhaugh</Key>
       <Title>Colonel (tenir porary Brigadier)</Title>
       <Forenames>William Albany</Forenames>
-      <Text>, C.B.E., D.S.O., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3848</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -201,7 +227,10 @@
       <Key>Findlay</Key>
       <Title>Sir</Title>
       <Forenames>John Ritchie</Forenames>
-      <Text>, Bart., K.B.E., Lieut, of County of Banff</Text>
+      <Text>
+        <Honour>Bart</Honour>
+        <Honour>K.B.E.</Honour>
+      </Text>
       <PageNumber>2740</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -258,7 +287,9 @@
     <MainItem>
       <Key>Ford</Key>
       <Forenames>Quartermaster</Forenames>
-      <Text>and Captain James Henry William, T.D., Officer Order of the British Empire</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>3852</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -269,7 +300,10 @@
       </Key>
       <Title>Colonel</Title>
       <Forenames>Richard Vernon Tredinnick</Forenames>
-      <Text>, C.B.E., R.M., Companion of the Bath</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>Companion of the Bath</Honour>
+      </Text>
       <PageNumber>3847</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -278,7 +312,10 @@
       <Key>Fordham</Key>
       <Title>Colonel (temporary Brigadier)</Title>
       <Forenames>William Marshall</Forenames>
-      <Text>, C.B.E., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3848</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -295,7 +332,9 @@
       <Key>Fowlds</Key>
       <Title>Hon.</Title>
       <Forenames>George</Forenames>
-      <Text>, C.B.E., . Knight</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>3847</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -313,7 +352,9 @@
     <MainItem>
       <Key>Franklin</Key>
       <Forenames>Lieutenant</Forenames>
-      <Text>Colonel George Denne O.B.E., Companion, Order of the Indian Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3850</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -358,7 +399,11 @@
     <MainItem>
       <Key>Fuller</Key>
       <Forenames>Vice-</Forenames>
-      <Text>Admiral Cyril Thomas Moulden, C.B., C.M.G., D.S.O., Knight Commander, Order of the Bath</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3847</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -366,7 +411,9 @@
     <MainItem>
       <Key>Fulljames</Key>
       <Forenames>Edith Marianne</Forenames>
-      <Text>, Mrs., M.B.E., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>4264</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -431,7 +478,10 @@
     <MainItem>
       <Key>Garwood</Key>
       <Forenames>Engineer Rear-</Forenames>
-      <Text>Admiral Hugh Sydney, O.B.E., Companion of the Bath'</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>Companion of the Bath</Honour>
+      </Text>
       <PageNumber>3847</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -496,7 +546,9 @@
     <MainItem>
       <Key>Gillatt</Key>
       <Forenames>Lieutenant</Forenames>
-      <Text>Colonel John Maxwell, D.S.O., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3852</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -652,7 +704,11 @@
       <Key>Gretton</Key>
       <Title>Colonel The Rt. Hon.</Title>
       <Forenames>John</Forenames>
-      <Text>, P.C., C.B.E., V.D.. M.P., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>P.C.</Honour>
+        <Honour>C.B.E.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4264</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -661,7 +717,9 @@
       <Key>Grierson</Key>
       <Title>Sir</Title>
       <Forenames>George Abraham</Forenames>
-      <Text>, K.C.I.E., Ph.D., D.Litt., LL.D., Order of Merit</Text>
+      <Text>
+        <Honour>K.C.I.E.</Honour>
+      </Text>
       <PageNumber>3848</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -677,7 +735,9 @@
     <MainItem>
       <Key>Goffe</Key>
       <Forenames>Herbert</Forenames>
-      <Text>, C.M.G., Knight Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>3858</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -686,7 +746,10 @@
       <Key>Goodland</Key>
       <Title>Colonel</Title>
       <Forenames>Herbert Tom</Forenames>
-      <Text>, D.S.O., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3848</PageNumber>
     </MainItem>
   </ItemGroup>

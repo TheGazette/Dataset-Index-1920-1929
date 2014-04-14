@@ -92,7 +92,10 @@
       <Key>Horsley</Key>
       <Title>temp. Maj.</Title>
       <Forenames>B. H.</Forenames>
-      <Text>, D.S.O., M.C. (rel. commn. on completion of service and retains rank of Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>722</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -103,7 +106,9 @@
       </Key>
       <Title>Maj. and Bt. Lt.-Col. (h.p. list)</Title>
       <Forenames>C. D.</Forenames>
-      <Text>, M.C. (retires on ret. pay and granted rank of Lt.-Col. in Reg. Army, Res. of Off., late 21st L.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1680</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -134,7 +139,9 @@
       </Key>
       <Title>temp. Qrmr. and Lt.</Title>
       <Forenames>W. W.</Forenames>
-      <Text>, M.C. (rel. commn. on completion of service and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1056</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -225,7 +232,9 @@
       </Key>
       <Title>temp. Capt.</Title>
       <Forenames>S. C</Forenames>
-      <Text>, O.B.E. (rel. commn. on completion of service and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>906</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -277,7 +286,10 @@
       </Key>
       <Title>Lt.-Col. (Commr. of Police of the Metropolis) (Hon. Brig.Gen.) Sir</Title>
       <Forenames>W. T. F.</Forenames>
-      <Text>, K.C.B., D.S.O. (Col., Reg. ArmyRes, of Off., Gen. List, from 5th L., and retains hon. rank of Brig.-Gen.)</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1796</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -295,7 +307,9 @@
       <Key>Hosier-Baker</Key>
       <Title>Capt.</Title>
       <Forenames>Francis</Forenames>
-      <Text>, M.C. (Capt., Reg. Army Res. of Off., Regtl. List, Som. L.I., late Serv. Bn.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1566</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -311,7 +325,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hosking</Key>
-      <Text>. temp. Lt. T. S. (rel. commn. on completion of service and retains rank of Lt.)</Text>
+      <Title>temp. Lt.</Title>
+      <Forenames>T. S.</Forenames>
+      <Text>(rel. commn. on completion of service and retains rank of Lt.)</Text>
       <PageNumber>2408</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -351,7 +367,10 @@
       <Key>Hotblack</Key>
       <Title>Capt.</Title>
       <Forenames>F. E.</Forenames>
-      <Text>D.S.O., M.C. (seed, for service on the Staff)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2496</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -381,7 +400,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Cant</Forenames>
-      <Text>, P. T.. M.C. (Capt., RegArmy Res. of Offrs., Regtl. List, R.E.. late R.E.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1481</PageNumber>
     </MainItem>
     <SubItem>
@@ -405,7 +426,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>F.</Forenames>
-      <Text>(Lt.. Reg. Army Res. of Offrs., Gen. List, Machine Gun, late M.G.C.)</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>137</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -453,7 +476,7 @@
       <PageNumber>1922</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Rel. commn. on completion of service and granted rank of Capt</Text>
+      <Text>Rel. commn. on completion of service and granted rank of Capt.</Text>
       <PageNumber>2590</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -476,14 +499,20 @@
       </Key>
       <Title>temp. 2nd Lt.</Title>
       <Forenames>W. H.</Forenames>
-      <Text>, M.M. (rel. commn. on completion of service and retains rank of 2nd Lt.)</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>792</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Houlder</Key>
-      <Text>. temp. 2nd Lt. P.. M.M. (rel. commn. on completion of service and retains rank of 2nd Lt.)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>P.</Forenames>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>1716</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -226,7 +226,10 @@
     <MainItem>
       <Key>MacRoberts</Key>
       <Forenames>N.</Forenames>
-      <Text>de P., D.S.O., M.C. (temp. 2nd Lt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3547</PageNumber>
     </MainItem>
     <SubItem>
@@ -383,7 +386,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Middleton-Stewart</Key>
-      <Text>C. E. (Lt.)</Text>
+      <Forenames>C. E.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>3935</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -449,7 +453,9 @@
     <MainItem>
       <Key>Morin</Key>
       <Forenames>A. H.</Forenames>
-      <Text>, D.S.O., V.D. (granted rank as Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4305</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1205,7 +1211,9 @@
     <MainItem>
       <Key>Shepherd</Key>
       <Forenames>W. I.</Forenames>
-      <Text>, O.B.E. (Capt.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3546</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1213,8 +1221,8 @@
     <MainItem>
       <Key>Sibborn</Key>
       <Title>Lt.</Title>
-      <Forenames>A. St</Forenames>
-      <Text>. J. (corr. of date of temp, commn.)</Text>
+      <Forenames>A. St. J</Forenames>
+      <Text>. (corr. of date of temp, commn.)</Text>
       <PageNumber>3754</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1340,8 +1348,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Staunton</Key>
-      <Forenames>M.</Forenames>
-      <Text>de L. (temp. Lt.) Steeds, Lt. F. G. (rel. commn.)</Text>
+      <Forenames>M. de L</Forenames>
+      <Text>. (temp. Lt.) Steeds, Lt. F. G. (rel. commn.)</Text>
       <PageNumber>4739</PageNumber>
     </MainItem>
   </ItemGroup>

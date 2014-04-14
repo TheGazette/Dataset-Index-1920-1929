@@ -54,8 +54,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. Aubyn, Cyril E</Text>
+      <Key>St. Aubyn</Key>
+      <Forenames>Cyril E</Forenames>
       <PageNumber>7384</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -233,7 +233,9 @@
     <MainItem>
       <Key>Wenn</Key>
       <Forenames>Frederick W.</Forenames>
-      <Text>, O.B.E. (seniority adjusted)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>6771</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -249,7 +251,9 @@
     <MainItem>
       <Key>White</Key>
       <Forenames>John P.</Forenames>
-      <Text>, D.S.C. (corr. of seniority)</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>7054</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -326,7 +330,9 @@
     <MainItem>
       <Key>Day</Key>
       <Forenames>George E. Finlay</Forenames>
-      <Text>, see Finlayl Day, George E. Dolphin, Edgar H., D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>5358</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -390,7 +396,7 @@
   <ItemGroup>
     <MainItem>
       <Key>IcCullock</Key>
-      <Text>. James</Text>
+      <Forenames>James</Forenames>
       <PageNumber>7384</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -838,8 +844,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bacon</Key>
-      <Forenames>Cedric O. H.</Forenames>
-      <Text>de Lacey, see de Lacey-Bacon, Cedric 0. H. Balfour, Ronald H</Text>
+      <Forenames>Cedric O. H. de Lacey</Forenames>
+      <Text>, see de Lacey-Bacon, Cedric 0. H. Balfour, Ronald H</Text>
       <PageNumber>7459</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -961,6 +967,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Lacey-Baoon</Key>
+      <Forenames>Cedric</Forenames>
+      <Text>0. H</Text>
+      <PageNumber>7459</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Dowling</Key>
       <Forenames>Roy R</Forenames>
       <PageNumber>6398</PageNumber>
@@ -969,8 +983,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Edmondstone</Key>
-      <Forenames>Edward St</Forenames>
-      <Text>. J</Text>
+      <Forenames>Edward St. J</Forenames>
       <PageNumber>7459</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1132,8 +1145,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Laurence</Key>
-      <Forenames>Gerald</Forenames>
-      <Text>de C. B</Text>
+      <Forenames>Gerald de C</Forenames>
+      <Text>. B</Text>
       <PageNumber>7459</PageNumber>
     </MainItem>
   </ItemGroup>

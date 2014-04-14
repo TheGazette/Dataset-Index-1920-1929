@@ -46,7 +46,9 @@
     <MainItem>
       <Key>Boskruge</Key>
       <Forenames>Francis J.</Forenames>
-      <Text>, D.S.O., O.B.E</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>9057</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -69,7 +71,9 @@
     <MainItem>
       <Key>Stone</Key>
       <Forenames>Charles E.</Forenames>
-      <Text>, O.B.E</Text>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>9057</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -93,7 +97,9 @@
     <MainItem>
       <Key>Torrance</Key>
       <Forenames>William S.</Forenames>
-      <Text>, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>9057</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -108,7 +114,9 @@
     <MainItem>
       <Key>White</Key>
       <Forenames>Arthur F.</Forenames>
-      <Text>, O.B.E</Text>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>10025</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -150,7 +158,9 @@
       <Key>Dawson</Key>
       <Title>Sir</Title>
       <Forenames>Arthur T.</Forenames>
-      <Text>, Bart, (in recognition of services rendered during war)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>9468</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -167,7 +177,9 @@
     <MainItem>
       <Key>Robinson</Key>
       <Forenames>Leonard</Forenames>
-      <Text>, O.B.E</Text>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>9057</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -197,7 +209,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Edwards</Key>
-      <Text>MacLeod, G. A., O.B.E</Text>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>10719</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -335,10 +349,19 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Pass</Key>
+      <Forenames>Daniel</Forenames>
+      <PageNumber>8292</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Dowding</Key>
       <Title>Wm.</Title>
       <Forenames>K. D.</Forenames>
-      <Text>, D.S.C</Text>
+      <Text>
+        <Honour>D.S.C</Honour>
+      </Text>
       <PageNumber>9151</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -382,7 +405,9 @@
     <MainItem>
       <Key>Hartnoll</Key>
       <Forenames>Henry J.</Forenames>
-      <Text>, D.S.O. Heath, John M</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8292</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -472,7 +497,9 @@
     <MainItem>
       <Key>Brodorick</Key>
       <Forenames>Richard</Forenames>
-      <Text>, O.B.E</Text>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>7983</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -564,7 +591,9 @@
     <MainItem>
       <Key>Barnes</Key>
       <Forenames>Horace N.</Forenames>
-      <Text>, D.S.C</Text>
+      <Text>
+        <Honour>D.S.C</Honour>
+      </Text>
       <PageNumber>10025</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -618,7 +647,9 @@
     <MainItem>
       <Key>Branson</Key>
       <Forenames>Douglas M.</Forenames>
-      <Text>, D.S.C. (seniority)</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>8723</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -669,7 +700,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Evelegh</Key>
-      <Text>. Markham H. (seniority)</Text>
+      <Forenames>Markham H.</Forenames>
+      <Text>(seniority)</Text>
       <PageNumber>8292</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -777,7 +809,9 @@
     <MainItem>
       <Key>Slater</Key>
       <Forenames>William R.</Forenames>
-      <Text>, D.S.C. (seniority)</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>10499</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -799,7 +833,9 @@
     <MainItem>
       <Key>Willett</Key>
       <Forenames>Basil R.</Forenames>
-      <Text>, D.S.C. (seniority)</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>8292</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -812,6 +848,13 @@
     </MainItem>
   </ItemGroup>
   <SubSectionTitle>Emergency List</SubSectionTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Mauny</Key>
+      <Forenames>Victor A. C. H. G.</Forenames>
+      <PageNumber>7984</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Priest</Key>
@@ -997,7 +1040,9 @@
     <MainItem>
       <Key>Terrill</Key>
       <Forenames>Frank</Forenames>
-      <Text>, O.B.E</Text>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>9150</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1020,7 +1065,9 @@
     <MainItem>
       <Key>Uden</Key>
       <Forenames>Walter J.</Forenames>
-      <Text>. M.B.E</Text>
+      <Text>
+        <Honour>M.B.E</Honour>
+      </Text>
       <PageNumber>8942</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1101,7 +1148,9 @@
     <MainItem>
       <Key>Hollins</Key>
       <Forenames>George O.</Forenames>
-      <Text>, D.S.C</Text>
+      <Text>
+        <Honour>D.S.C</Honour>
+      </Text>
       <PageNumber>9653</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1170,7 +1219,9 @@
     <MainItem>
       <Key>Dickinscn</Key>
       <Forenames>Norman V.</Forenames>
-      <Text>, D.S.C</Text>
+      <Text>
+        <Honour>D.S.C</Honour>
+      </Text>
       <PageNumber>8634</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1279,7 +1330,9 @@
     <MainItem>
       <Key>Haines</Key>
       <Forenames>Ernest</Forenames>
-      <Text>, M.B.E. (retired at own request and granted rank of Lt.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>7891</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1330,7 +1383,9 @@
     <MainItem>
       <Key>Skuse</Key>
       <Forenames>Peter J.</Forenames>
-      <Text>, D.S.C</Text>
+      <Text>
+        <Honour>D.S.C</Honour>
+      </Text>
       <PageNumber>8204</PageNumber>
     </MainItem>
   </ItemGroup>

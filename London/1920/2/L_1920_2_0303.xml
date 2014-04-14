@@ -189,7 +189,9 @@
       <Key>Page-Wood</Key>
       <Title>Sir</Title>
       <Forenames>J. S.</Forenames>
-      <Text>, Bart</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>6188</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -341,7 +343,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Chapman</Key>
-      <Text>M. A</Text>
+      <Forenames>M. A</Forenames>
       <PageNumber>7010</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -689,7 +691,9 @@
     <MainItem>
       <Key>Johnson</Key>
       <Forenames>W. C</Forenames>
-      <Text>, D.S.C. .-</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>4717</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -755,7 +759,9 @@
     <MainItem>
       <Key>Lonsdale-Cooper</Key>
       <Forenames>L.</Forenames>
-      <Text>, D.S.C</Text>
+      <Text>
+        <Honour>D.S.C</Honour>
+      </Text>
       <PageNumber>6793</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -816,7 +822,9 @@
     <MainItem>
       <Key>Madan</Key>
       <Forenames>A. G.</Forenames>
-      <Text>, D.S.C</Text>
+      <Text>
+        <Honour>D.S.C</Honour>
+      </Text>
       <PageNumber>4717</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1044,7 +1052,9 @@
     <MainItem>
       <Key>Sharp</Key>
       <Forenames>G. A. C</Forenames>
-      <Text>, D.S.C</Text>
+      <Text>
+        <Honour>D.S.C</Honour>
+      </Text>
       <PageNumber>6341</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1091,7 +1101,9 @@
     <MainItem>
       <Key>Stokes</Key>
       <Forenames>A. H. J.</Forenames>
-      <Text>, D.S.C</Text>
+      <Text>
+        <Honour>D.S.C</Honour>
+      </Text>
       <PageNumber>6188</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1099,7 +1111,9 @@
     <MainItem>
       <Key>Taylor</Key>
       <Forenames>R. M.</Forenames>
-      <Text>, D.S.C</Text>
+      <Text>
+        <Honour>D.S.C</Honour>
+      </Text>
       <PageNumber>6701</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1240,7 +1254,9 @@
     <MainItem>
       <Key>Heraud</Key>
       <Forenames>S. F.</Forenames>
-      <Text>, M.B.E</Text>
+      <Text>
+        <Honour>M.B.E</Honour>
+      </Text>
       <PageNumber>7010</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1276,8 +1292,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Dwyer, D. P</Text>
+      <Key>O'Dwyer</Key>
+      <Forenames>D. P</Forenames>
       <PageNumber>5249</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1417,7 +1433,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bowden</Key>
-      <Text>A. W</Text>
+      <Forenames>A. W.</Forenames>
       <PageNumber>5102</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -41,7 +41,9 @@
       <Key>Harvey</Key>
       <Title>Capt.</Title>
       <Forenames>Edward Murray</Forenames>
-      <Text>, M.C., Officer; Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10612</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -128,7 +130,11 @@
       <Key>
         <KeyDitto>— ___ ___ ___</KeyDitto>
       </Key>
-      <Text>the late Capt. George Stuart, D.S.O., M.C., Victoria Cross ... .;</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>Victoria Cross</Honour>
+      </Text>
       <PageNumber>10579</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -163,7 +169,9 @@
       <Key>Heritage</Key>
       <Title>Col.</Title>
       <Forenames>Francis Bede</Forenames>
-      <Text>, Member, 4th CI., Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>9987</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -198,7 +206,9 @@
     <MainItem>
       <Key>Hislop</Key>
       <Forenames>James</Forenames>
-      <Text>, O.B.E., Member, 4th CI., Royal Victorian O^der</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>9987</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -248,7 +258,9 @@
     <MainItem>
       <Key>Hobson</Key>
       <Forenames>T.</Forenames>
-      <Text>/Capt. (A./Maj.) Hugh George. M.C.. Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10165</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -329,7 +341,9 @@
     <MainItem>
       <Key>Hopkins</Key>
       <Forenames>Harry Sinclair</Forenames>
-      <Text>, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>10612</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -451,14 +465,17 @@
     <MainItem>
       <Key>Hutson</Key>
       <Forenames>John</Forenames>
-      <Text>, M.B., M.B.E., Member of the Legislative » Council of the Island of Barbados</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>9887</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hutton</Key>
-      <Forenames>The Very</Forenames>
+      <Title>The</Title>
+      <Forenames>Very</Forenames>
       <Text>Rev. William Holden, Dean of Winchester, Chapln., St. John, of Jerusalem</Text>
       <PageNumber>10407</PageNumber>
     </MainItem>
@@ -467,7 +484,9 @@
     <MainItem>
       <Key>Hynard</Key>
       <Forenames>William George</Forenames>
-      <Text>, O.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>11556</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -475,7 +494,9 @@
     <MainItem>
       <Key>Illingworth</Key>
       <Forenames>Dudley Holden</Forenames>
-      <Text>, Knight of Grace, St. John of Jerusalem</Text>
+      <Text>
+        <Honour>Knight of Grace, St. John of Jerusalem</Honour>
+      </Text>
       <PageNumber>10407</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -509,7 +530,10 @@
       <Key>James</Key>
       <Title>Capt.</Title>
       <Forenames>Ernest Homewood</Forenames>
-      <Text>, M.C., Member, 5th CI., Royal Victorian Order</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>9987</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -517,7 +541,10 @@
     <MainItem>
       <Key>Janion</Key>
       <Title>Payr. Lt.</Title>
-      <Text>-Cdr. Arthur Cyril Austin, O.B.E., Member, 4th 01., Royal Victorian Order</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>9937</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -542,7 +569,10 @@
       <Key>Jess</Key>
       <Title>Lt.-Col. (Hon. Brig.-Gen.)</Title>
       <Forenames>Carl Herman</Forenames>
-      <Text>, C.M.G., D.S.O., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>10095</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -573,7 +603,10 @@
       </Key>
       <Title>Brig.-Gen.</Title>
       <Forenames>George Jamieson</Forenames>
-      <Text>, C.B., C.M.G., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>10095</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -608,7 +641,9 @@
     <MainItem>
       <Key>Jordan</Key>
       <Forenames>Alfred Charles</Forenames>
-      <Text>, M.D., M.R.C.P., Commander, Order of the British Empire ... Whtfo Jordon, Engr.-Lt. William Thomas Arthur, Officer, Onder of the British Empire</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>10975</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -633,7 +668,9 @@
       <Key>Keatinge</Key>
       <Title>Chapln., 1st CI., Rt. Rev.</Title>
       <Forenames>Bishop William</Forenames>
-      <Text>, C.M.G., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>10167</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -797,7 +834,9 @@
       <Key>Lavy</Key>
       <Title>Revd.</Title>
       <Forenames>Ernest Edward</Forenames>
-      <Text>, M.D., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>10615</PageNumber>
     </MainItem>
   </ItemGroup>

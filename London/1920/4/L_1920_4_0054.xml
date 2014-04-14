@@ -3,7 +3,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Ltw</Key>
-      <Text>!s, temp. Lt. J. C, O.B.E. (rel. emplt. on Disposal of Surplus Stores, Cl. X, and temp, rank of Lt.-Col.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>10364</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -39,7 +41,11 @@
       <Key>Ling</Key>
       <Title>Maj.</Title>
       <Forenames>R. W.</Forenames>
-      <Text>, C.B.E., D.S.O., M.C. (temp. C.S.O., 3rd Gr., at War Office)</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10600</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -48,7 +54,9 @@
       <Key>Linton</Key>
       <Title>Lt.</Title>
       <Forenames>A.</Forenames>
-      <Text>, M.C. (rel. appt. as G.S.O., 3rd Gr., General Staff, and temp, rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10819</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -57,7 +65,9 @@
       <Key>Little</Key>
       <Title>Bt. Lt.-Col.</Title>
       <Forenames>J.</Forenames>
-      <Text>, O.B.E. (ret. pay, rel. spec, appt., Cl. IBB, and temp, rank of Lt.Col.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>10599</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -68,7 +78,10 @@
       </Key>
       <Title>Bt. Maj.</Title>
       <Forenames>W. B.</Forenames>
-      <Text>, D.S.O., M.C. (rel. appt. as Asst. Dir. of Rlv. Traffic, CI. X, and temp, rank of Lt. Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>12476</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -85,8 +98,11 @@
     <MainItem>
       <Key>Livesay</Key>
       <Title>Col.</Title>
-      <Forenames>R. O</Forenames>
-      <Text>'H., C.M.G., D.S.O. (rel. temp, rank of Brig.-Gen.)</Text>
+      <Forenames>R. O'H</Forenames>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>12370</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -99,7 +115,7 @@
       <PageNumber>9960</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Rel. appt.as Dep. Asst. Dir. of Engineering Stores, Cl. BB, and temp, rank of Maj</Text>
+      <Text>Rel. appt.as Dep. Asst. Dir. of Engineering Stores, Cl. BB, and temp, rank of Maj.</Text>
       <PageNumber>11067</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -110,7 +126,10 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>H. W. C.</Forenames>
-      <Text>D.S.O., M.C. (temp. G.S.O., 3rd Gr.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10600</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -121,7 +140,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>J. A.</Forenames>
-      <Text>(temp., A.D.C.)</Text>
+      <Text>
+        <Honour>A.D.C.</Honour>
+      </Text>
       <PageNumber>10600</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -182,21 +203,29 @@
   <ItemGroup>
     <MainItem>
       <Key>Lyons-Campbell</Key>
-      <Text>Lt. A. (rel. spec. appt,, Cl. II)</Text>
+      <Title>Lt.</Title>
+      <Forenames>A.</Forenames>
+      <Text>(rel. spec. appt,, Cl. II)</Text>
       <PageNumber>10599</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>McCali</Key>
-      <Text>; Bt, Lt.-Col. H. '.W., C.M.G., D.S.O. (rel. .appt. as A.A. and Q.M.G. and temp. rank of Lt.-Col.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>12263</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>McCallur</Key>
-      <Text>i, Lt. D., M.C. (spec. appt., Cl. FF)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10730</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -209,14 +238,16 @@
       <PageNumber>12160</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Rel. Emplt. under Directe. of Engineering Stores. Cl. FF, and temp, rank of Capt</Text>
+      <Text>Rel. Emplt. under Directe. of Engineering Stores. Cl. FF, and temp, rank of Capt.</Text>
       <PageNumber>12369</PageNumber>
     </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>McClellan</Key>
-      <Text>Bt, Lt.-Col. H. T. (Offr. i/c of a Record Office)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>10600</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -225,7 +256,9 @@
       <Key>McClintock</Key>
       <Title>Maj.</Title>
       <Forenames>A. G.</Forenames>
-      <Text>, D.S.O. (spec, appt., Cl. BB, whilst instr. 'xaiik 'Corps Gunnery Sch.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>10918</PageNumber>
     </MainItem>
     <SubItem>
@@ -246,7 +279,9 @@
       <Key>McCullagh</Key>
       <Title>temp. Lt.</Title>
       <Forenames>F</Forenames>
-      <Text>,, M.B.E. (rel. spec, appt., CI. FF, and temp, rank of Capt.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>10931</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -259,7 +294,7 @@
       <PageNumber>12476</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Rel. Emplt. under Directe. of Engineering Stores, Cl. FF, and temp, rank of Capt</Text>
+      <Text>Rel. Emplt. under Directe. of Engineering Stores, Cl. FF, and temp, rank of Capt.</Text>
       <PageNumber>12693</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -268,7 +303,9 @@
       <Key>Macdonald</Key>
       <Title>Lt.</Title>
       <Forenames>A. H.</Forenames>
-      <Text>, M.C. .(rel. appt, as Staff Capt., attd. to Hd.-Qr. Unit, and temp, rank «jf Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>12807</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -286,14 +323,18 @@
       <Key>Mcdonald</Key>
       <Title>temp.</Title>
       <Forenames>Capt</Forenames>
-      <Text>, C. J. L., O.B.E. (Dep. Asst. Controller of Transportation, Cl. BB, and temp. Maj.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>12148</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>MacDonald</Key>
-      <Text>iCapt, G.. M.C. (Staff Capt. attd. to Hd.-Qr. Unit)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10052</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -302,7 +343,9 @@
       <Key>Mac-Duff</Key>
       <Title>temp. Capt.</Title>
       <Forenames>A. J.</Forenames>
-      <Text>, M.C. (rel. appt. as Staff Capt. attd. to Hd.-Qr. Unit)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>11889</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -311,7 +354,10 @@
       <Key>Macfarlane</Key>
       <Title>Capt.</Title>
       <Forenames>F. A. J.</Forenames>
-      <Text>, D.S.O., O.B.E. (rel. appt. as D.A.Q.M.G. and temp, rank . of Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>11781</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -320,7 +366,9 @@
       <Key>McGovem</Key>
       <Title>Lt.</Title>
       <Forenames>F.</Forenames>
-      <Text>, M.C. (rel. temp, rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>11574</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -328,7 +376,9 @@
     <MainItem>
       <Key>McGuire</Key>
       <Forenames>Capt</Forenames>
-      <Text>, G. P., O.B.E. (rel. appt. as D.A.Q.M.G. and temp, rank of Maj.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>12461</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -337,7 +387,9 @@
       <Key>Mclndoe</Key>
       <Title>Lt.</Title>
       <Forenames>W.</Forenames>
-      <Text>, M.C. (Empld. under Directe. of Graves Registration and Enquiries, Cl. FF) ... -</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>12148</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -353,7 +405,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Mackay</Key>
-      <Text>Lt. J. I. (rel. spec. appt., Cl. HH)</Text>
+      <Title>Lt.</Title>
+      <Forenames>J. I.</Forenames>
+      <Text>(rel. spec. appt., Cl. HH)</Text>
       <PageNumber>10729</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -362,7 +416,9 @@
       <Key>Mackenzie</Key>
       <Title>Lt.</Title>
       <Forenames>D.</Forenames>
-      <Text>. M.C. (rel. appt. as Staff Capt.. attd. to Hd.-Qr. Unit and temp, rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>12807</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -407,7 +463,10 @@
       <Key>McLachlan</Key>
       <Title>temp. Capt.</Title>
       <Forenames>T.</Forenames>
-      <Text>. D.S.O., M.C. (rel.. appt. as Dep. Asst. Dir. of Graves Registration and Enquiries, Cl. BB, and temp, rank of Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>11889</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -423,7 +482,9 @@
   <ItemGroup>
     <MainItem>
       <Key>MacLaren</Key>
-      <Text>. temp. Capt. G.. O.B.E. (rel. spec. appt. as Mil. Govr., Cl. BB, and temp, rank of Maj.) ,</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>11207</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -437,7 +498,9 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>W. A. C.</Forenames>
-      <Text>(rel. appt. at Rly. Traffic Offr., Cl. FF, and temp, rank of Capt,) Marx, Lt. (now Maj., Res. of Off.) E., M.C. (rel. appt. as G.S.O., 3rd Gr., General Staff, and temp, rank of Capt.) Mashiter, temp. Qrmr. and Lt. T., TvI.B.E. (rel. emplt. under Directe. of Graves Eegistration and Enquiries, Cl. FF)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>12118</PageNumber>
     </MainItem>
   </ItemGroup>

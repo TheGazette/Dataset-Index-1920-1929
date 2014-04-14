@@ -122,7 +122,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Title>temp. Lt.-Col.</Title>
-      <Text>and Group Comdt. G. M., T.D. (rel. commn. and to be Hon. Lt.-Col.)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>3527</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -232,7 +234,9 @@
       <Key>Jarvis</Key>
       <Title>temp. Maj.</Title>
       <Forenames>T.</Forenames>
-      <Text>MoL., D.S.O. .(re!, commn., and to foe Hon. Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3298</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -249,7 +253,10 @@
     <MainItem>
       <Key>Jeffreys</Key>
       <Title>temp. Lt.-Col.</Title>
-      <Text>and Group 'Conidt. (Hon. Brig.-Gen., ret. pay) P. D., C.B., O.B.E. (rel. column., and granted hon. rank of Lt.-Cbl.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3755</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -337,7 +344,8 @@
   <ItemGroup>
     <MainItem>
       <Key>JenJkinBon</Key>
-      <Text>. temp. 2nd Lt. iS. (rel. oomimn., and to be Hon. 2nd lit.)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Text>iS. (rel. oomimn., and to be Hon. 2nd lit.)</Text>
       <PageNumber>192</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -423,7 +431,9 @@
       </Key>
       <Title>temp. Maj.</Title>
       <Forenames>H. D.</Forenames>
-      <Text>, M.D. (rel. commn., and to foe Hon. Maj.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3428</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -473,7 +483,10 @@
         <KeyDitto>___</KeyDitto>
       </Key>
       <Title>temp. Col.</Title>
-      <Text>and County Oomdt. (Hon. Maj.-Gen., ret. pay) F. F., C.B., C.B.E. (rei: oomimn., and granted hon. rank of Col.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>3755</PageNumber>
     </MainItem>
   </ItemGroup>

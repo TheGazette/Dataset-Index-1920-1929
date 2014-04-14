@@ -28,7 +28,11 @@
     <MainItem>
       <Key>Tarver</Key>
       <Title>Lt.-Col.</Title>
-      <Text>(Bt. Col., temp. Brig.-Gen. A. L., CLE., D.S.O., A.D.C. (Col.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>A.D.C.</Honour>
+      </Text>
       <PageNumber>1525</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -59,7 +63,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>G. V.</Forenames>
-      <Text>, M.C. (rel. oommn. and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1966</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -117,7 +123,9 @@
       <Key>Taylor</Key>
       <Title>temp. Capt.</Title>
       <Forenames>A.</Forenames>
-      <Text>,-M.C. (rel. commn. on completion of service and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>342</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -175,8 +183,8 @@
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
       <Title>temp. Maj.</Title>
-      <Forenames>B.</Forenames>
-      <Text>van S. (rel. commn. on completion of service and retains rank of Maj.)</Text>
+      <Forenames>B. van S</Forenames>
+      <Text>. (rel. commn. on completion of service and retains rank of Maj.)</Text>
       <PageNumber>1968</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -209,7 +217,9 @@
       </Key>
       <Title>Maj. and Bt. Lt.-Col.</Title>
       <Forenames>C. L.</Forenames>
-      <Text>, D.S.O. (Lt.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>916</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -221,7 +231,9 @@
       </Key>
       <Title>Capt. and Bt. Maj.</Title>
       <Forenames>C. W. H.</Forenames>
-      <Text>, D. S.O., rel. commn. and retains rank)</Text>
+      <Text>
+        <Honour>D. S.O.</Honour>
+      </Text>
       <PageNumber>1133</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -243,7 +255,9 @@
       </Key>
       <Title>Sister Miss</Title>
       <Forenames>Dorothea Matilda</Forenames>
-      <Text>, R.R.C. (Matron, Q.A.I.M.N.S.)</Text>
+      <Text>
+        <Honour>R.R.C.</Honour>
+      </Text>
       <PageNumber>848</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -253,7 +267,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Title>temp. Capt.</Title>
-      <Text>IE., M.C. (rel. commn. on completion of service and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1257</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -295,7 +311,9 @@
       </Key>
       <Title>temp. Capt.</Title>
       <Forenames>F. T.</Forenames>
-      <Text>, M.C. (rel. commn. on completion of service and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1687</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -340,7 +358,9 @@
       </Key>
       <Title>Miaj.</Title>
       <Forenames>G. J. S.</Forenames>
-      <Text>, D.S.O. (Lt.-. Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>262</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -351,7 +371,9 @@
       </Key>
       <Title>temp. Capt.</Title>
       <Forenames>G. M. C</Forenames>
-      <Text>, M.C. (rel. commn. an completion of service and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1142</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -362,7 +384,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>George Piritchard</Forenames>
-      <Text>, D. S.O., M.C, M.B. (Maj.)</Text>
+      <Text>
+        <Honour>D. S.O.</Honour>
+      </Text>
       <PageNumber>917</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -385,7 +409,9 @@
       </Key>
       <Title>temp.</Title>
       <Forenames>Capt</Forenames>
-      <Text>, H. A., M.C. (rel. commn. and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1527</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -503,7 +529,9 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>J. W. A.</Forenames>
-      <Text>, M.C. (rel. commn. on completion of service and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>446</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -551,7 +579,7 @@
       <PageNumber>841</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Rel. commn. and retains rank of *U.</Text>
+      <Text>Rel. commn. and retains rank of *U</Text>
       <PageNumber>2178</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -621,7 +649,9 @@
       </Key>
       <Title>2nd Lt.</Title>
       <Forenames>W.</Forenames>
-      <Text>(Welch R.) (Lt.)... Templer, Lt.-Col. and Staff Paymr. W. F., C.B.E. (retires on ret. pay)</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>538</PageNumber>
     </MainItem>
   </ItemGroup>

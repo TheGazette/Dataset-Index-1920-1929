@@ -37,7 +37,7 @@
       <PageNumber>6029</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Rel. commn. on completion of service and retains rank of Lt</Text>
+      <Text>Rel. commn. on completion of service and retains rank of Lt.</Text>
       <PageNumber>6029</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -66,7 +66,9 @@
       <Key>Utterson</Key>
       <Title>Capt.</Title>
       <Forenames>A. T. Ie M.</Forenames>
-      <Text>, D.S.O. (seed, for serv. as an Adjt., Indian Defence Force)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6561</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -75,7 +77,10 @@
       <Key>Utterson-Kelso</Key>
       <Title>Capt.</Title>
       <Forenames>K. E.</Forenames>
-      <Text>, D.S.O., M.C. (seed, for service as an Adjt., T.F.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4816</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -84,7 +89,9 @@
       <Key>Utterton</Key>
       <Title>Lt.</Title>
       <Forenames>A.</Forenames>
-      <Text>, M.B.E. (retires on ret. pay and granted rank of ., CaP*;)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>4807</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -146,7 +153,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>D.</Forenames>
-      <Text>, M.C. (rel. temp. appt. of Acct. Offr., 5th CI., on ceasing to be empld. with Corps ot Mil. Acctts.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5085</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -176,15 +185,17 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Title>Capt.</Title>
-      <Forenames>V.</Forenames>
-      <Text>de V. M. .(Maj.)</Text>
+      <Forenames>V. de V</Forenames>
+      <Text>. M. .(Maj.)</Text>
       <PageNumber>4684</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Vallentin</Key>
-      <Text>€apt. C. M., M.C. (rel. actg. rank of Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5571</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -195,7 +206,10 @@
       </Key>
       <Title>Lt.-Col.</Title>
       <Forenames>H. E.</Forenames>
-      <Text>, O.B.E., D.S.O. (h.p. list, retires on ret. pay)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5074</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -212,7 +226,8 @@
       <Key>
         <KeyDitto>-</KeyDitto>
       </Key>
-      <Text>van Dam, temp. Maj. (Lt.-Col., S. Afr. Def. Force) G. C. A. (rel. temp, commn. and retains rank of Maj.)</Text>
+      <Forenames>van Dam</Forenames>
+      <Text>, temp. Maj. (Lt.-Col., S. Afr. Def. Force) G. C. A. (rel. temp, commn. and retains rank of Maj.)</Text>
       <PageNumber>5676</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -220,15 +235,18 @@
     <MainItem>
       <Key>Van</Key>
       <Forenames>Der Weyden</Forenames>
-      <Text>, Lt. H., -M.C. (rel. commn. and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4809</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Someren</Forenames>
-      <Text>, Capt. E. L. (resigns commn. and granted rank of Maj.)</Text>
+      <Key>Van Someren</Key>
+      <Title>Capt.</Title>
+      <Forenames>E. L.</Forenames>
+      <Text>(resigns commn. and granted rank of Maj.)</Text>
       <PageNumber>4027</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -237,7 +255,9 @@
       <Key>Van-Straubenzee</Key>
       <Title>Capt.</Title>
       <Forenames>A. B.</Forenames>
-      <Text>, M.C. (rel. actg. rank of Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4659</PageNumber>
     </MainItem>
     <SubItem>
@@ -247,9 +267,12 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Zeller</Forenames>
-      <Text>, temp. Lt. T. A., M.C. (rel. commn. on acc. of illhealth caused by wounds, and retains rank of Lt.)</Text>
+      <Key>Van Zeller</Key>
+      <Title>temp. Lt.</Title>
+      <Forenames>T. A.</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5200</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -329,7 +352,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Title>Lt.</Title>
-      <Text>(F. J., M.C. (resigns oomimn. and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4417</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -376,7 +401,9 @@
     <MainItem>
       <Key>Varwell</Key>
       <Title>Capt.</Title>
-      <Text>and ©t. Mag. R. P., M.C. Ijsaod. for service on the Staff)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6427</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -399,7 +426,9 @@
       <Key>Vatoher</Key>
       <Title>temp. Lt. (actg. Gapt.)</Title>
       <Forenames>H. M.</Forenames>
-      <Text>, M.C. (aotg. Mag.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4217</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -410,7 +439,7 @@
       <PageNumber>4821</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>OEtel. conimn. on ace. of illhealth caused by wounds, ain&lt;d granted rank of Capt</Text>
+      <Text>OEtel. conimn. on ace. of illhealth caused by wounds, ain&lt;d granted rank of Capt.</Text>
       <PageNumber>4821</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -443,11 +472,15 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>K.</Forenames>
-      <Text>(rel. a.ctg. rank of Maj. on. ceasing to ooand. a Co., M.G.C., Infy.)</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>4976</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Aotg. Maj. oomdg. a Co.., M.G.C., Infy</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>4976</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -467,7 +500,9 @@
       <Key>Vaughan-IHughes</Key>
       <Title>Lt.</Title>
       <Forenames>G. B.</Forenames>
-      <Text>, M.C. (rel. laotg. rank of Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5451</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -573,7 +608,10 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>M. H.</Forenames>
-      <Text>(rel. actg. rank of Capt., oorr. from R..E.), Sub. No* — Rel. oommn. and granted ramk of CaptVernon-Smith, temp. Lt. H. J., M.C. (rel. common, on completion of service and retains rank of Lt.) Rel. commn. on completion of service and retains rank of Lt. (Sub. Not.) Verra.ll, temp. Capt. 'P. J., M.B., F.iR.C.S. (Icorr. of date of relg. oonumn.j Vertue, Lt. H. B. (rel. commn. and retains rank of !Lt.) Vesturme-iBunlbury, [Lt.-Col. C. H. (h.p. list, retires on ret. pay)... Vetch, temp. Capt. T&gt;. H. (rel. commn. on completion of service and granted rank of lit.-Col.) ... Vey, Capt. D. C. L.. M.C. (rel. cormmn. and retains rank of . Capt.) Vial, temp. Lt. H. F. (rel. oommn. on completion of service and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6307</PageNumber>
     </MainItem>
     <SubItem>

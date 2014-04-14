@@ -140,7 +140,10 @@
     <MainItem>
       <Key>Rorie</Key>
       <Forenames>D.</Forenames>
-      <Text>, D.S.O., M.D. (temp. Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>4069</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -170,7 +173,9 @@
     <MainItem>
       <Key>Roscoe</Key>
       <Forenames>W.</Forenames>
-      <Text>, M.C. (temp. Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3744</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -178,7 +183,9 @@
     <MainItem>
       <Key>Roscorla</Key>
       <Forenames>P.</Forenames>
-      <Text>, M.C. (temp. Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3633</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -196,7 +203,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>E. A.</Forenames>
-      <Text>, C.B.E. (temp. Maj.)</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>3982</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -216,7 +225,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>N. F.</Forenames>
-      <Text>, M.B.E. (temp. Capt.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3352</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -272,7 +283,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>C. T.</Forenames>
-      <Text>, O.B.E. (temp. Qr.-Mr., with rank of Capt.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3647</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -312,7 +325,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>H. D.</Forenames>
-      <Text>. M.C. (temp. Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3733</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -362,7 +377,9 @@
     <MainItem>
       <Key>Round</Key>
       <Forenames>A. I.</Forenames>
-      <Text>, M.C. (temp. Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3634</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -396,7 +413,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>C. W.</Forenames>
-      <Text>, M.B.E. (temp. Maj.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3263</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -406,7 +425,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>E.</Forenames>
-      <Text>, M.C. (temp. Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3646</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -462,14 +483,17 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>J.</Forenames>
-      <Text>, M.C. (temp. Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3376</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Rowlands</Key>
-      <Text>H. R. (temp. Lt.)</Text>
+      <Forenames>H. R.</Forenames>
+      <Text>(temp. Lt.)</Text>
       <PageNumber>5209</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -477,7 +501,9 @@
     <MainItem>
       <Key>Rowlev</Key>
       <Forenames>R. H. T.</Forenames>
-      <Text>, M.C. (temp. Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3516</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -492,7 +518,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Roy</Key>
-      <Text>W. H. (temp. Lt.)</Text>
+      <Forenames>W. H.</Forenames>
+      <Text>(temp. Lt.)</Text>
       <PageNumber>3998</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -570,7 +597,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>J. H.</Forenames>
-      <Text>, M.C. (temp. Qrmr., with rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3637</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -645,7 +674,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ruston</Key>
-      <Text>J. H. (temp. Lt.)</Text>
+      <Forenames>J. H.</Forenames>
+      <Text>(temp. Lt.)</Text>
       <PageNumber>3819</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -663,7 +693,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>D. D.</Forenames>
-      <Text>, M.C. (temp. Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4266</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -697,7 +729,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Rvan</Key>
-      <Text>J.. M.C. (temp. Capt.)</Text>
+      <Forenames>J.</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3526</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -808,7 +843,9 @@
     <MainItem>
       <Key>Sampson</Key>
       <Forenames>J. I</Forenames>
-      <Text>)., M.C. (temp. Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3352</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -826,7 +863,9 @@
     <MainItem>
       <Key>Samuel</Key>
       <Forenames>H. T.</Forenames>
-      <Text>, D.S.O. (temp. Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4069</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -912,7 +951,9 @@
     <MainItem>
       <Key>Sandwell</Key>
       <Forenames>H. E.</Forenames>
-      <Text>, M.M. (temp. Lt.)</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>3732</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -920,7 +961,9 @@
     <MainItem>
       <Key>Saner</Key>
       <Forenames>J. D. Z.</Forenames>
-      <Text>, M.C. (temp. Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3373</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -936,7 +979,9 @@
     <MainItem>
       <Key>Saunders</Key>
       <Forenames>B</Forenames>
-      <Text>R., M.C. (temp. Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3352</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -946,7 +991,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>C. J.</Forenames>
-      <Text>, M.C. (temp. Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3265</PageNumber>
       <PageNumber>4078</PageNumber>
     </MainItem>
@@ -957,7 +1004,10 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>H. C</Forenames>
-      <Text>, D.S.O., T.D. (temp. Lt.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>3363</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1005,7 +1055,9 @@
     <MainItem>
       <Key>Savill</Key>
       <Forenames>E. H.</Forenames>
-      <Text>, M.C. (temp. Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3823</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1035,7 +1087,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>S. R.</Forenames>
-      <Text>, 3.S.O., M.C. (temp. Lt.-Col.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3264</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1079,7 +1133,10 @@
     <MainItem>
       <Key>Scaife</Key>
       <Forenames>J.</Forenames>
-      <Text>, M.C., D.C.M. (temp. Qrmr., with rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>3262</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1096,7 +1153,9 @@
       <Key>Scarlett</Key>
       <Title>Maj. and Bt. Lt.-Col. (temp. Lt.-Col., T.F.) the Hon.</Title>
       <Forenames>H. R.</Forenames>
-      <Text>, D.S.O. (granted rank of temp. Lt.-Col. whilst comdg. the Home Counties Brig. (D.))</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4614</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1104,7 +1163,9 @@
     <MainItem>
       <Key>Schnadhurst</Key>
       <Forenames>C. E.</Forenames>
-      <Text>, M.C. (temp. Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3376</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1152,7 +1213,9 @@
     <MainItem>
       <Key>Schoon</Key>
       <Forenames>C. F.</Forenames>
-      <Text>, D.C.M. (temp. Qrmr., with rank of Capt.)</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>3734</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1161,7 +1224,10 @@
       <Key>Scott</Key>
       <Title>Capt.</Title>
       <Forenames>A.</Forenames>
-      <Text>, D.S.O., M.C. (temp. Capt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3979</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1221,7 +1287,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>E.</Forenames>
-      <Text>, D.S.O., M.B. (temp. Capt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3356</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1251,7 +1319,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>G.</Forenames>
-      <Text>, D.S.O. (temp. Lt.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3991</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1376,7 +1446,10 @@
     <MainItem>
       <Key>Seaton</Key>
       <Forenames>W.</Forenames>
-      <Text>, M.C., D.C.M. (temp. Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>3732</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1415,7 +1488,9 @@
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Senhouse</Forenames>
-      <Text>, G. J. P., T.D. (temp. Capt.)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>3636</PageNumber>
     </MainItem>
     <SubItem>
@@ -1427,7 +1502,9 @@
     <MainItem>
       <Key>Senior</Key>
       <Forenames>A.</Forenames>
-      <Text>, M.C. (temp. Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3363</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1539,7 +1616,11 @@
     <MainItem>
       <Key>Sharp</Key>
       <Forenames>A. D.</Forenames>
-      <Text>, C.B., C.M.G., T.D. (temp. Col.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>3997</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1549,7 +1630,9 @@
         <KeyDitto>___</KeyDitto>
       </Key>
       <Forenames>B. M. R.</Forenames>
-      <Text>, M.C. (temp. Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4807</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1589,7 +1672,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>R.</Forenames>
-      <Text>, O.B.E. (temp. Lt.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3819</PageNumber>
     </MainItem>
     <SubItem>
@@ -1611,7 +1696,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>G. L.</Forenames>
-      <Text>, D.S.O. (temp. Lt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3820</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1621,7 +1708,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>G. W.</Forenames>
-      <Text>, O.B.E. (temp. Lt.Col.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3526</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1653,7 +1742,9 @@
     <MainItem>
       <Key>Shaw</Key>
       <Forenames>A. L.</Forenames>
-      <Text>, D.S.O. (temp. Lt.Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3627</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1757,7 +1848,9 @@
     <MainItem>
       <Key>Sheen</Key>
       <Forenames>F. A.</Forenames>
-      <Text>, M.C. (temp. Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3651</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1773,7 +1866,9 @@
     <MainItem>
       <Key>Sheldon</Key>
       <Forenames>A. T.</Forenames>
-      <Text>, M.M. (temp. Lt.)</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>3364</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1902,7 +1997,10 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>J. J.</Forenames>
-      <Text>, D.S.O., M.C. (temp. Capt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3264</PageNumber>
     </MainItem>
     <SubItem>
@@ -1916,7 +2014,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>M.</Forenames>
-      <Text>, M.C. (temp. Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3351</PageNumber>
     </MainItem>
     <SubItem>
@@ -1967,14 +2067,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Sherwood</Key>
-      <Text>J. (temp. Capt.)</Text>
+      <Forenames>J.</Forenames>
+      <Text>(temp. Capt.)</Text>
       <PageNumber>3652</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Shields</Key>
-      <Text>C. (temp. 2nd Lt.)</Text>
+      <Forenames>C.</Forenames>
+      <Text>(temp. 2nd Lt.)</Text>
       <PageNumber>3734</PageNumber>
     </MainItem>
   </ItemGroup>

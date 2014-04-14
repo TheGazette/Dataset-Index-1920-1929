@@ -5,7 +5,10 @@
       <Key>Nightingale</Key>
       <Title>Col. (temp. Col.Comdt.)</Title>
       <Forenames>M. R. W.</Forenames>
-      <Text>, C.M.G., C. I.E., D.S.O. (date of promn. to rank of Col.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5310</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -15,7 +18,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>W. M.</Forenames>
-      <Text>, M.B.E. (granted temp, rank as Lt. for services with Forces in E. Africa)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>6339</PageNumber>
     </MainItem>
     <SubItem>
@@ -37,7 +42,9 @@
       <Key>Nind</Key>
       <Title>temp. Capt.</Title>
       <Forenames>H. J.</Forenames>
-      <Text>, O.B.E. (rel. commn. on completion of service and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>7644</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -46,7 +53,9 @@
       <Key>Nisbet</Key>
       <Title>temp.</Title>
       <Forenames>Lt</Forenames>
-      <Text>, H. A , M.C. (rel. commn. on completion of service and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7644</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -95,7 +104,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Noah</Key>
-      <Text>. temp. 2nd Lt. W. J. (rel. commn. on completion of service and retains rank of 2nd Lt,)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>W. J.</Forenames>
+      <Text>(rel. commn. on completion of service and retains rank of 2nd Lt,)</Text>
       <PageNumber>7623</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -251,7 +262,11 @@
       </Key>
       <Title>Col. (temp. Col. Comdt.)</Title>
       <Forenames>C. L.</Forenames>
-      <Text>, D.S.O., M.V.O., A.D.C. (date of promn. to rank of Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.V.O.</Honour>
+        <Honour>A.D.C.</Honour>
+      </Text>
       <PageNumber>5310</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -282,7 +297,9 @@
       </Key>
       <Title>Col. (temp. Col. on the Staff)</Title>
       <Forenames>W. H.</Forenames>
-      <Text>, D.S.O. (date of promn. to rank of Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5310</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -357,7 +374,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Title>Capt.</Title>
-      <Text>(Lt.-Col., 3rd R. Berks. R., Spec. Res.) P. W., D.S.O. (ceases to belong to Res. of Offrs., having attained the age limit of liability to recall)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6343</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -384,7 +403,9 @@
       <Key>Norton</Key>
       <Title>Maj. and Bt. Lt.-Col.</Title>
       <Forenames>A. E.</Forenames>
-      <Text>, D.S.O. (Maj., B.U. Rif., from W.I.R.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6823</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -444,7 +465,9 @@
       </Key>
       <Title>temp. Lt.-Col.</Title>
       <Forenames>W. K.</Forenames>
-      <Text>, D.S.O. (rel. commn. on completion of service, and retains rank of Lt.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6759</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -514,8 +537,8 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Title>2nd Lt.</Title>
-      <Forenames>O. St</Forenames>
-      <Text>. G. P. (Lt,)</Text>
+      <Forenames>O. St. G</Forenames>
+      <Text>. P. (Lt,)</Text>
       <PageNumber>7034</PageNumber>
     </MainItem>
   </ItemGroup>

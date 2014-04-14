@@ -54,7 +54,10 @@
       <Key>Stordy</Key>
       <Title>temp. Maj.</Title>
       <Forenames>R. J.</Forenames>
-      <Text>, C.B.E., D.S.O. (rel. commn. on completion of service and granted rank of Col.)</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>9612</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -74,7 +77,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>Thomas C</Forenames>
-      <Text>, M.C. M.B. (rel. aotg. rank of Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8352</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -101,7 +106,10 @@
       <Key>Storrs</Key>
       <Title>temp. Col.</Title>
       <Forenames>R.</Forenames>
-      <Text>, C.M.G., O.B.E. (rel. commn. on completion of service and retains rank of Col.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>9290</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -132,7 +140,9 @@
       </Key>
       <Title>temp. Capt.</Title>
       <Forenames>M. D.</Forenames>
-      <Text>, M.C. (rel. , commn. on completion of service and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9129</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -180,7 +190,9 @@
       <Key>Strachey</Key>
       <Title>Lt.</Title>
       <Forenames>R. C</Forenames>
-      <Text>, M.C. (rel. actg. rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7738</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -212,7 +224,10 @@
       <PageNumber>7837</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Capt. and Bt. Maj. G. H., M.C. (restd. to estabt.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8566</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -221,7 +236,9 @@
       <Key>Stranack</Key>
       <Title>Lt.</Title>
       <Forenames>J. R. S.</Forenames>
-      <Text>, M.C. (rel. commn. land retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8568</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -265,7 +282,11 @@
       <PageNumber>7733</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Capt. L. A., D.S.O., M.C., D.F.C. (resigns commn. on appt. to perm, commn. in R.A.F.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>9589</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -278,7 +299,7 @@
       <PageNumber>8369</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Trd. to Gen. Res. of Offrs.</Text>
+      <Text>Trd. to Gen. Res. of Offrs</Text>
       <PageNumber>8370</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -414,7 +435,9 @@
       <Key>Streetor</Key>
       <Title>Lt.</Title>
       <Forenames>G. A.</Forenames>
-      <Text>, M.C. (actg. Capt. whilst Adjt., Manch. R., ..A. of 0.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7298</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -470,11 +493,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Strode-Jackson</Key>
-      <Text>. Capt. and Bt. Maj. A. N. S., D.S.O. (resigns commn.)</Text>
+      <Title>Capt. and Bt. Maj.</Title>
+      <Forenames>A. N. S.</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7293</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Lt.-Col.. Gen. Res. of Offrs.</Text>
+      <Text>Lt.-Col.. Gen. Res. of Offrs</Text>
       <PageNumber>7396</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -540,7 +567,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Struthers</Key>
-      <Text>. Lt. R. W. (rel. commn. and retains rank of Lt.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>R. W.</Forenames>
+      <Text>(rel. commn. and retains rank of Lt.)</Text>
       <PageNumber>7939</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -600,7 +629,9 @@
       </Key>
       <Title>Lt.-Col.</Title>
       <Forenames>H. C</Forenames>
-      <Text>, D.S.O. (rel. temp, rank of Lt.-Col. on ceasing to be empld. with Lab. Corps)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8140</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -666,7 +697,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>E. E.</Forenames>
-      <Text>, M.C. (temp. Lt., Gen. List, whilst spec. empld.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9037</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -708,14 +741,20 @@
       <Key>Stubington</Key>
       <Title>Lt.</Title>
       <Forenames>F.</Forenames>
-      <Text>(rel. commn. and granted rank of Capt.) Studd. Lt.-Col. and Bt. Col. (temp. Col.) H. W., C.B., O.M.G., D.S.O. (Col.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>9421</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Studholme</Key>
-      <Text>. temp. Lt. G. (rel. commn. on completion of service and retains rank of IA.)</Text>
+      <Title>temp. Lt.</Title>
+      <Forenames>G.</Forenames>
+      <Text>(rel. commn. on completion of service and retains rank of IA.)</Text>
       <PageNumber>7655</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -737,7 +776,9 @@
       <Key>Sturdy</Key>
       <Title>Lt.</Title>
       <Forenames>A. E.</Forenames>
-      <Text>, M.B.E. (resigns commn.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>8361</PageNumber>
     </MainItem>
     <SubItem>
@@ -752,7 +793,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>J. R.</Forenames>
-      <Text>, M.C. (temp. Capt. whilst Station Staff Offr., 1st 01., in India)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8149</PageNumber>
     </MainItem>
     <SubItem>
@@ -786,7 +829,9 @@
       <Key>Shirt</Key>
       <Title>temp., Chapln., 4th CI., Rev.</Title>
       <Forenames>D. E.</Forenames>
-      <Text>, M.C. (rel. commn., and to be Hon. Ohapln., 4th CI.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7203</PageNumber>
     </MainItem>
   </ItemGroup>

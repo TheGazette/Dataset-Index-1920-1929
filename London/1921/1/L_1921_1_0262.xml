@@ -152,10 +152,30 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Pass</Key>
+      <Title>2nd Lt. (Hon. Lt.)</Title>
+      <Forenames>Ronald David</Forenames>
+      <Text>(rel.' temp, commn. on appt. to temp, commn. in Ind. Army)</Text>
+      <PageNumber>1190</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Sarigny</Key>
+      <Title>Lt.</Title>
+      <Forenames>Victor Marcel C. B.</Forenames>
+      <Text>(rel. temp, commn. on appt. to a commn. in Army), Sub. Not</Text>
+      <PageNumber>1794</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Demel</Key>
       <Title>Lt. (actg. Capt.)</Title>
       <Forenames>William Henry</Forenames>
-      <Text>, D.F.C. (rel. temp, commn. on,appt. to T.F., and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>1794</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -173,7 +193,9 @@
       <Key>Dickson</Key>
       <Title>Flight Lt.</Title>
       <Forenames>John Charles Oswald</Forenames>
-      <Text>, D.F.C. (trd. to Res., €1. A)</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>692</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -215,14 +237,19 @@
   <ItemGroup>
     <MainItem>
       <Key>Dopfer</Key>
-      <Text>. Canadian Cadet Thomas Sylvester (corr. of surname)</Text>
+      <Forenames>Canadian</Forenames>
+      <Text>Cadet Thomas Sylvester (corr. of surname)</Text>
       <PageNumber>1283</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Bore</Key>
-      <Text>. Maj. (actg. Lt.-Col.) Alan Sydney Wihitehorne, D.S.O. (rel. temp, commn. on appt. to T.F.R., and granted rank of Lt.-Col.)</Text>
+      <Title>Maj. (actg. Lt.-Col.)</Title>
+      <Forenames>Alan Sydney Wihitehorne</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>692</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -231,7 +258,10 @@
       <Key>Douglas</Key>
       <Title>Sqdn.</Title>
       <Forenames>Leader William Shoto</Forenames>
-      <Text>, M.C., D.F.C. (granted perm, commn.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>376</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -249,7 +279,10 @@
       <Key>Drummond</Key>
       <Title>Flight Lt.</Title>
       <Forenames>Roy Max-</Forenames>
-      <Text>well, D.S.O., M.C. (placed on h.p., Scale B)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1190</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -284,7 +317,9 @@
       <Key>Durston</Key>
       <Title>Capt.</Title>
       <Forenames>Albert</Forenames>
-      <Text>, A.F.C. (graded for pay and allces. as Maj. S.), Sub. Not</Text>
+      <Text>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>1581</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -330,7 +365,9 @@
       <Key>Edwards</Key>
       <Title>Lt.</Title>
       <Forenames>Reginald Threlkeld</Forenames>
-      <Text>, A.F.C. (rel. temp, commn. on appt. to T.F., and retains rank)</Text>
+      <Text>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>1463</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -341,7 +378,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>Samuel John</Forenames>
-      <Text>, D.S.M. (placed on retd. list)</Text>
+      <Text>
+        <Honour>D.S.M.</Honour>
+      </Text>
       <PageNumber>1900</PageNumber>
     </MainItem>
     <SubItem>
@@ -409,7 +448,9 @@
     <MainItem>
       <Key>Evans</Key>
       <Forenames>Flying Offr</Forenames>
-      <Text>. Arthur Edward, D.F.C. (rel. temp, commn. on return to Army duty)</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>1900</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -482,7 +523,9 @@
       <Key>Eyton</Key>
       <Title>Flight Lt.</Title>
       <Forenames>C. S. Wynne</Forenames>
-      <Text>, D.S.O. (see Wynne-Eyton, Lt. C. S.). Fairbairn, Flying Offr. W. R. (granted perm, commn. as Flying Offr., and trd. to Stores Branch)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>376</PageNumber>
     </MainItem>
     <SubItem>
@@ -527,7 +570,10 @@
       <Key>Frerichs</Key>
       <Title>Cadet</Title>
       <Forenames>J. T.</Forenames>
-      <Text>(Hon. 2nd Lt.) Frost, Flight Lt. Oliver Harry, M.B.E., M.C. (resigns perm, commn., and retains rank of Capt.) Fulford, Pilot Offr. E. (date of appt. as 2nd Lt., A. and S.) ... Flying Offr Fuller, Flying Offr. (from Sqdn. Leader) Charles Drury (granted short serv. commn.) H</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>90</PageNumber>
     </MainItem>
     <SubItem>

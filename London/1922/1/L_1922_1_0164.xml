@@ -69,7 +69,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>E. S.</Forenames>
-      <Text>, O.B.E. (dismissed the Service by sentence of a General Court Martial)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>1363</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -189,7 +191,11 @@
       <Key>Ling</Key>
       <Title>Maj.</Title>
       <Forenames>E. W.</Forenames>
-      <Text>, C.B.E., D.S.O., M.C. (seed, whilst student at Staff Coll., Camberley) '</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2127</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -198,7 +204,9 @@
       <Key>Linnell</Key>
       <Title>temp. Lt.</Title>
       <Forenames>F. S.</Forenames>
-      <Text>, M.C. (rel. commn. on completion of service and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1151</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -250,7 +258,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Linton</Key>
-      <Text>. Capt. and Bt. Maj. F. H., D.S.O. (Maj.)</Text>
+      <Title>Capt. and Bt. Maj.</Title>
+      <Forenames>F. H.</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1786</PageNumber>
     </MainItem>
     <SubItem>
@@ -301,8 +313,8 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Title>Lt.</Title>
-      <Forenames>H. T.</Forenames>
-      <Text>de B. (seed, for service with Tank Corps)</Text>
+      <Forenames>H. T. de B</Forenames>
+      <Text>. (seed, for service with Tank Corps)</Text>
       <PageNumber>135</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -370,7 +382,10 @@
       <Key>Lister</Key>
       <Title>temp.</Title>
       <Forenames>I.</Forenames>
-      <Text>O.M., 3rd CL, and Lt. J. E. (rel. commn. on completion of service and granted grade and rank of I.O.M., 2nd CI., and Capt.)</Text>
+      <Text>
+        <Honour>O.M.</Honour>
+        <Honour>O.M.</Honour>
+      </Text>
       <PageNumber>911</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -470,7 +485,9 @@
       </Key>
       <Title>temp. 2nd Lt.</Title>
       <Forenames>A. F.</Forenames>
-      <Text>. M.M. (rel. commn. on completion of service and retains rank of 2nd Lt.)</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>1799</PageNumber>
     </MainItem>
   </ItemGroup>

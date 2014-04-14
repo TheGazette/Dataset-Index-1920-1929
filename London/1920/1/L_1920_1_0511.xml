@@ -93,8 +93,18 @@
     <MainItem>
       <Key>Craighead</Key>
       <Forenames>A. C</Forenames>
-      <Text>, MB., Ch.B., D.P.H</Text>
+      <Text>
+        <Honour>MB</Honour>
+      </Text>
       <PageNumber>1952</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Souiza</Key>
+      <Forenames>P. J.</Forenames>
+      <Text>{rel. temp, rank)</Text>
+      <PageNumber>206</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -351,7 +361,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Prabodh</Key>
-      <Text>.Nath Bagohi (temp.)</Text>
+      <Forenames>Nath Bagohi</Forenames>
+      <Text>(temp.)</Text>
       <PageNumber>987</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -520,7 +531,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hayes</Key>
-      <Text>., S. N., M.R.C.S., L.R.C.P</Text>
+      <Text>, S. N., M.R.C.S., L.R.C.P</Text>
       <PageNumber>1698</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -664,7 +675,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Satoh</Key>
-      <Text>.it Kumar Sarkar, iM.B. (temp.)</Text>
+      <Text>it Kumar Sarkar, iM.B. (temp.)</Text>
       <PageNumber>1952</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -774,8 +785,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Heflerman</Key>
-      <Forenames>W. St</Forenames>
-      <Text>. M</Text>
+      <Forenames>W. St. M</Forenames>
       <PageNumber>1834</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -804,9 +814,8 @@
   <SubSectionTitle>titnwr Assistant Surgeons and Captains</SubSectionTitle>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Souza</Forenames>
-      <Text>, A. B</Text>
+      <Key>De Souza</Key>
+      <Forenames>A. B .</Forenames>
       <PageNumber>3541</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -862,17 +871,15 @@
   <SectionTitle>Senior Assistant Surgeons and Lieutenants</SectionTitle>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Penning</Forenames>
-      <Text>, H. F</Text>
+      <Key>De Penning</Key>
+      <Forenames>H. F</Forenames>
       <PageNumber>1950</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Easdbn</Key>
-      <Forenames>L. V. O</Forenames>
-      <Text>'B</Text>
+      <Forenames>L. V. O'B</Forenames>
       <PageNumber>1950</PageNumber>
     </MainItem>
   </ItemGroup>

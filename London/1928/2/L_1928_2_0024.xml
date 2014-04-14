@@ -4,7 +4,9 @@
     <MainItem>
       <Key>Chaudhri</Key>
       <Forenames>Fazal Ali</Forenames>
-      <Text>, Khan Bahadur, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3859</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -19,7 +21,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Cheers</Key>
-      <Text>; Joseph McGregor, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3859</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -47,7 +51,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>John</Forenames>
-      <Text>, M.P., J.P., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>3855</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -57,7 +63,9 @@
       <Key>Clay</Key>
       <Title>Miss</Title>
       <Forenames>Johanna Margaret</Forenames>
-      <Text>, R.R.C., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>R.R.C.</Honour>
+      </Text>
       <PageNumber>3855</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -73,7 +81,9 @@
     <MainItem>
       <Key>Clementi</Key>
       <Forenames>Marie Penelope Rose</Forenames>
-      <Text>, Lady, M.B.E., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>4264</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -82,7 +92,9 @@
       <Key>Clifford</Key>
       <Title>Captain</Title>
       <Forenames>Esmond Hum-</Forenames>
-      <Text>phrey Miller, M.C., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3852</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -107,7 +119,9 @@
     <MainItem>
       <Key>Cocks</Key>
       <Forenames>George Arthur</Forenames>
-      <Text>, C.B.E., Companion, Order of the Indian Empire</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>3850</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -131,8 +145,18 @@
     <MainItem>
       <Key>Collard</Key>
       <Forenames>Cecil Wharton</Forenames>
-      <Text>, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3855</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Comeau</Key>
+      <Forenames>Ernest Alexander</Forenames>
+      <Text>, H.M. Consul at Santo Domingo</Text>
+      <PageNumber>2813</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -186,7 +210,11 @@
       <Key>Cope</Key>
       <Title>Major</Title>
       <Forenames>William</Forenames>
-      <Text>, T.D., J.P., M.P., Baronet</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+        <Honour>M.P.</Honour>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>3846</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -201,7 +229,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Corson</Key>
-      <Text>. James Frederick, M.D., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3861</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -209,7 +239,9 @@
     <MainItem>
       <Key>Gory</Key>
       <Forenames>Percy Albert</Forenames>
-      <Text>, O.B.E., ^ Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3859</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -218,8 +250,50 @@
       <Key>Coupland</Key>
       <Title>Professor</Title>
       <Forenames>Reginald</Forenames>
-      <Text>, Companion, Order of the Indian Empire ... ... Cowan, Miss Minna Galbraith, M.A.; Officer, Order of the British Empire Coward, Cecil Allen, Knight</Text>
+      <Text>, Companion, Order of the Indian Empire</Text>
+      <PageNumber>3850</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Cowan</Key>
+      <Title>Miss</Title>
+      <Forenames>Minna Galbraith</Forenames>
+      <Text>, M.A.; Officer, Order of the British Empire</Text>
+      <PageNumber>3855</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Coward</Key>
+      <Forenames>Cecil Allen</Forenames>
+      <Text>, Knight</Text>
       <PageNumber>3846</PageNumber>
+      <PageNumber>4410</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Cowell</Key>
+      <Forenames>Hubert Russell</Forenames>
+      <Text>, Companion, Order of Saint Michael and Saint George</Text>
+      <PageNumber>3849</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Craig</Key>
+      <Forenames>James</Forenames>
+      <Text>, Member, Order of the British Empire</Text>
+      <PageNumber>3856</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Craigie</Key>
+      <Forenames>Robert Leslie</Forenames>
+      <Text>, Counsellor of Embassy in H.M. Diplomatic Service</Text>
+      <PageNumber>3652</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -231,29 +305,472 @@
       <Forenames>William Alex-</Forenames>
       <Text>ander, M.A., LL.D., D.Litt., Knight</Text>
       <PageNumber>3846</PageNumber>
+      <PageNumber>4410</PageNumber>
     </MainItem>
   </ItemGroup>
-  <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
-  <KeyDitto>___ ___</KeyDitto>
-  <KeyDitto>___ ___</KeyDitto>
-  <KeyDitto>___ ___</KeyDitto>
+  <ItemGroup>
+    <MainItem>
+      <Key>Cranbpurne</Key>
+      <Forenames>Robert Arthur James Gascoyne-Cecil</Forenames>
+      <Text>, Viscount</Text>
+      <PageNumber>2670</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Crapp</Key>
+      <Forenames>Herbert William</Forenames>
+      <Text>, Officer, Order of the British Empire</Text>
+      <PageNumber>3855</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Crapper</Key>
+      <Forenames>Francis Hoyland</Forenames>
+      <Text>, Member, Order of the British Empire</Text>
+      <PageNumber>3856</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Crocker</Key>
+      <Forenames>Ernest Lionel Victor</Forenames>
+      <Text>, Officer, Order of the Britisli Empire</Text>
+      <PageNumber>3855</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Crosby</Key>
+      <Forenames>Josiah</Forenames>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
+      <PageNumber>3858</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Crowther</Key>
+      <Forenames>James</Forenames>
+      <Text>, Officer, Order of the British Empire</Text>
+      <PageNumber>3855</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Cumming</Key>
+      <Title>Mr.</Title>
+      <Forenames>Justice Arthur Herbert</Forenames>
+      <Text>, Knight</Text>
+      <PageNumber>4410</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Cunningham</Key>
+      <Forenames>Elizabeth Harley</Forenames>
+      <Text>, Mrs., Officer, Order of the British Empire</Text>
+      <PageNumber>3855</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
+      </Key>
+      <Forenames>Lieutenant-</Forenames>
+      <Text>Colonel John, Companion, Order of the Indian Empire</Text>
+      <PageNumber>3850</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Forenames>Wilfred Bertram</Forenames>
+      <Text>, H.M. Consul at Dairen</Text>
+      <PageNumber>2812</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Forenames>William Irwin</Forenames>
+      <Text>, Member, Order of the British Empire</Text>
+      <PageNumber>3856</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Curran</Key>
+      <Forenames>Cornelius</Forenames>
+      <Text>, Member, Order of the British Empire</Text>
+      <PageNumber>3856</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Cursons</Key>
+      <Forenames>George Robert Alfred</Forenames>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
+      <PageNumber>4264</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Cutlibert</Key>
+      <Forenames>David Andrew Rollo</Forenames>
+      <Text>, Clerk to the Justices of the Peace of the County of Kinross</Text>
+      <PageNumber>3581</PageNumber>
+    </MainItem>
+    <SubItem>
+      <Text>Sheriff Clerk of Kinross</Text>
+      <PageNumber>3580</PageNumber>
+    </SubItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Forenames>Sydney</Forenames>
+      <Text>, Officer, Order of the British Empire</Text>
+      <PageNumber>3860</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Cutler</Key>
+      <Forenames>Thomas Robert</Forenames>
+      <Text>, Officer, Order of the British Empire</Text>
+      <PageNumber>3860</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Dalrymple-Hay</Key>
+      <Forenames>Charles John</Forenames>
+      <Text>
+        <Honour>M.V.O.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
+      <PageNumber>3851</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Dalton</Key>
+      <Forenames>Robert William</Forenames>
+      <Text>, Companion, Order of Saint Michael and Saint George</Text>
+      <PageNumber>3849</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Daniel</Key>
+      <Forenames>Francis Lionel Mem-</Forenames>
+      <Text>ber, Order of the British Empire</Text>
+      <PageNumber>3861</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Dartmouth</Key>
+      <Title>Rt. Hon.</Title>
+      <Forenames>William Heneage</Forenames>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
+      <PageNumber>3851</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Davidson</Key>
+      <Forenames>Colin John</Forenames>
+      <Text>
+        <Honour>C.V.O.</Honour>
+      </Text>
+      <PageNumber>2812</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Davies</Key>
+      <Forenames>Henry Jones</Forenames>
+      <Text>, Development Commissioner</Text>
+      <PageNumber>3423</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>John Adolphus Songo</Forenames>
-      <Text>, Member, Order of the British Empire Davis, Sir Charles Thomas, K.C.M.G., Knight Grand 3850 Cross, Order of Saint Michael and Saint George</Text>
+      <Text>, Member, Order of the British Empire</Text>
+      <PageNumber>3861</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Davis</Key>
+      <Title>Sir</Title>
+      <Forenames>Charles Thomas</Forenames>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+      </Text>
       <PageNumber>3849</PageNumber>
     </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___ ___</KeyDitto>
+      </Key>
+      <Forenames>David</Forenames>
+      <Text>
+        <Honour>D.L.</Honour>
+      </Text>
+      <PageNumber>3855</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Dawe</Key>
+      <Forenames>Morley Thomas</Forenames>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
+      <PageNumber>4181</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Deed</Key>
+      <Title>Major</Title>
+      <Forenames>Leslie Charles Bertram</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
+      <PageNumber>3852</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Degazon</Key>
+      <Forenames>William Victor</Forenames>
+      <Text>, Nominated Member of the Legislative Council of St. Lucia</Text>
+      <PageNumber>3734</PageNumber>
+    </MainItem>
     <SubItem>
-      <Text>Dods, Marcus, Sheriff-Substitute of Glasgow</Text>
-      <PageNumber>3133</PageNumber>
+      <Text>Nominated Member, Legislative Council of St. Lucia, cancelled</Text>
+      <PageNumber>4018</PageNumber>
     </SubItem>
-    <SubItem>
-      <Text>Dunhill, Thomas Peel, C.M.G., M.D., Surgeon to H.M. Household</Text>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Dempster</Key>
+      <Forenames>Herbert George</Forenames>
+      <Text>, Officer, Order of the British Empire</Text>
+      <PageNumber>3860</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Donton</Key>
+      <Forenames>Gwendolyne</Forenames>
+      <Text>, Mrs., Commander, Order of the British Empire</Text>
+      <PageNumber>3855</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Derby</Key>
+      <Title>Rt. Hon.</Title>
+      <Forenames>Edward George Villiers</Forenames>
+      <Text>, Earl of, Custos Rotulorum Pacis in the County Palatine of Lancaster</Text>
       <PageNumber>2442</PageNumber>
-    </SubItem>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Derbyshire</Key>
+      <Forenames>Harold</Forenames>
+      <Text>, King's Counsel</Text>
+      <PageNumber>2812</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Desborough</Key>
+      <Forenames>William Henry</Forenames>
+      <Text>
+        <Honour>G.C.V.O.</Honour>
+      </Text>
+      <PageNumber>2737</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Devon</Key>
+      <Forenames>George Campbell</Forenames>
+      <Text>, Officer, Order of the British Empire</Text>
+      <PageNumber>3859</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Dewar</Key>
+      <Forenames>Terence Purves</Forenames>
+      <Text>, Officer, Order of the British Empire</Text>
+      <PageNumber>3859</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Dewrance</Key>
+      <Title>Sir</Title>
+      <Forenames>John</Forenames>
+      <Text>
+        <Honour>K.B.E.</Honour>
+      </Text>
+      <PageNumber>3854</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Dey</Key>
+      <Forenames>George Goodair</Forenames>
+      <Text>, Companion, Order of the Eimpire</Text>
+      <PageNumber>3850</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Diacono</Key>
+      <Forenames>Robert</Forenames>
+      <Text>, Member, Order of the British Empire</Text>
+      <PageNumber>3858</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Dick</Key>
+      <Forenames>James Wright</Forenames>
+      <Text>, Member, Order of the British Empire</Text>
+      <PageNumber>3856</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Dobbs</Key>
+      <Title>Cecil.</Title>
+      <Forenames>Moore</Forenames>
+      <Text>, Officer, Order of the British Empire</Text>
+      <PageNumber>3860</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Dods</Key>
+      <Forenames>Marcus</Forenames>
+      <Text>, Sheriff-Substitute of Glasgow</Text>
+      <PageNumber>3133</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Douglas</Key>
+      <Title>Major</Title>
+      <Forenames>Sholto William</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
+      <PageNumber>3855</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Du</Key>
+      <Forenames>Oane General</Forenames>
+      <Text>
+        <Honour>K.C.B.</Honour>
+      </Text>
+      <PageNumber>3847</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Dudley</Key>
+      <Forenames>Georgiana Elizabeth</Forenames>
+      <Text>, Countess of, R.R.C, Dame of Justice, Order of St. John of Jerusalem</Text>
+      <PageNumber>4264</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Duff</Key>
+      <Forenames>Charles Patrick</Forenames>
+      <Text>
+        <Honour>C.V.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
+      <PageNumber>3848</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Dunbar</Key>
+      <Forenames>Robert</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
+      <PageNumber>3652</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Duncan</Key>
+      <Forenames>James Lawrie</Forenames>
+      <Text>, Member, Order of the British Empire</Text>
+      <PageNumber>3858</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Dunhill</Key>
+      <Forenames>Thomas Peel</Forenames>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
+      <PageNumber>2442</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Dunlop</Key>
+      <Forenames>Daniel Nicol</Forenames>
+      <Text>, Officer, Order of the British Empire ... ... .:</Text>
+      <PageNumber>3855</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Durbar</Key>
+      <Forenames>Shri Vala Mulu Surag</Forenames>
+      <Text>, ' Companion, Order of the Indian Empire</Text>
+      <PageNumber>3850</PageNumber>
+    </MainItem>
   </ItemGroup>
 </Index>
 

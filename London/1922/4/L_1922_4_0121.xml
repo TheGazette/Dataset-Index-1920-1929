@@ -149,8 +149,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Moyse Buckoall</Forenames>
+      <Key>De Moyse</Key>
+      <Forenames>Buckoall</Forenames>
       <Text>, Observer Offr. Silvio Paul Bernini (trans-</Text>
       <PageNumber>8958</PageNumber>
     </MainItem>
@@ -285,7 +285,9 @@
     <MainItem>
       <Key>Evans</Key>
       <Forenames>Arthur Edward</Forenames>
-      <Text>, D.F.C. (granted short service commn. as Flying Offr.)</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>7466</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -380,7 +382,9 @@
       <Key>Frost</Key>
       <Title>Flight Lt.</Title>
       <Forenames>Sydney George</Forenames>
-      <Text>, M.B.E. (placed on retd. list on account of ill-health contracted in the Service)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>7874</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -429,7 +433,9 @@
     <MainItem>
       <Key>Gibbons</Key>
       <Forenames>Flying Offr</Forenames>
-      <Text>. Frank George D.F.C. (grantedperm, commn.)</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>9119</PageNumber>
     </MainItem>
     <SubItem>
@@ -467,7 +473,11 @@
       <Key>Goble</Key>
       <Title>Sqdn.</Title>
       <Forenames>Leader</Forenames>
-      <Text>(Hon. Wing Comdr.) Stanley James, D.S.O., O.B.E., D.S.C. (resigns perm, commn. on appt. to R.A.A.F.j</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>O.B.E.</Honour>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>8039</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -531,8 +541,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gratte</Key>
-      <Forenames>Alfred Edward St</Forenames>
-      <Text>. George (granted short service commn. as Pilot Offr. on prob.)</Text>
+      <Forenames>Alfred Edward St. George</Forenames>
+      <Text>(granted short service commn. as Pilot Offr. on prob.)</Text>
       <PageNumber>8416</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -573,7 +583,9 @@
     <MainItem>
       <Key>Grenfell</Key>
       <Forenames>Wing Comdr</Forenames>
-      <Text>. George Pascoe, D.S.O. (rested to full pay from half pay)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6989</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -615,7 +627,9 @@
       <Key>Hamilton</Key>
       <Title>Obs. Offr.</Title>
       <Forenames>Robert</Forenames>
-      <Text>, M.C. (trd. to Reserve, Class B)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7467</PageNumber>
     </MainItem>
   </ItemGroup>

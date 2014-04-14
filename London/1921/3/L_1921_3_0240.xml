@@ -12,7 +12,9 @@
     <MainItem>
       <Key>Rogers</Key>
       <Forenames>G. G.</Forenames>
-      <Text>, M.C. (temp. appt. whilst D.A.A.G.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6176</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -51,7 +53,9 @@
     <MainItem>
       <Key>Wauchope</Key>
       <Forenames>R. S.</Forenames>
-      <Text>, O.B.E. (temp, whilst Dep. Asst. Dir. of Works)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>6034</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -204,8 +208,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Luxmore</Key>
-      <Forenames>C.</Forenames>
-      <Text>de J. (corr. of date of retirement)</Text>
+      <Forenames>C. de J</Forenames>
+      <Text>. (corr. of date of retirement)</Text>
       <PageNumber>5737</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -275,7 +279,11 @@
       <Key>Wilson</Key>
       <Title>(Bt. Lt.-Col.), Sir.</Title>
       <Forenames>A. T.</Forenames>
-      <Text>, K.C.I.E., C.S.I., C.M.G., D.S.O. (corr. of rank)</Text>
+      <Text>
+        <Honour>K.C.I.E.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7462</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -284,7 +292,10 @@
     <MainItem>
       <Key>Drew</Key>
       <Title>(Bt. Lt.-Col.)</Title>
-      <Text>, B. C. H., C.M.G., C.B.E. (appt. to perm, commn. in R.A.F.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>5736</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -293,7 +304,9 @@
     <MainItem>
       <Key>Bald</Key>
       <Forenames>E. A.</Forenames>
-      <Text>, M.C. (whilst 2nd in comd.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5735</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -360,7 +373,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Harvey</Key>
-      <Text>; C. W. L., M.C. (whilst 2nd in comd.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6947</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -380,7 +395,9 @@
     <MainItem>
       <Key>Mein</Key>
       <Forenames>D. B.</Forenames>
-      <Text>, M.C. (whilst 2nd in comd.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5562</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -395,8 +412,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Murison</Key>
-      <Forenames>G. De H.</Forenames>
-      <Text>(whilst 2nd in comd.)</Text>
+      <Forenames>G. De H</Forenames>
+      <Text>. (whilst 2nd in comd.)</Text>
       <PageNumber>6947</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -510,8 +527,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Avery</Key>
-      <Forenames>A. H. St</Forenames>
-      <Text>. J. TCapt.)</Text>
+      <Forenames>A. H. St. J</Forenames>
+      <Text>. TCapt.)</Text>
       <PageNumber>7690</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -644,7 +661,9 @@
     <MainItem>
       <Key>Bunning</Key>
       <Forenames>W. H.</Forenames>
-      <Text>, M.C. (corr. of date of promn.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6946</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -667,7 +686,9 @@
     <MainItem>
       <Key>Chamberlain</Key>
       <Forenames>L. L.</Forenames>
-      <Text>, M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>6946</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -812,6 +833,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Boinville</Key>
+      <Forenames>G. A. C</Forenames>
+      <PageNumber>6602</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Delamain</Key>
       <Forenames>J. H</Forenames>
       <PageNumber>7460</PageNumber>
@@ -890,7 +918,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fox</Key>
-      <Forenames>R. De V. R.</Forenames>
+      <Forenames>R. De V</Forenames>
+      <Text>. R</Text>
       <PageNumber>7460</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1239,8 +1268,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lovett</Key>
-      <Forenames>O.</Forenames>
-      <Text>de T</Text>
+      <Forenames>O. de T</Forenames>
       <PageNumber>7460</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1426,15 +1454,16 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, M. J</Text>
+      <Key>O'Connor</Key>
+      <Forenames>M. J</Forenames>
       <PageNumber>5734</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Leary, M. G., M.B.E</Text>
+      <Key>O'Leary</Key>
+      <Forenames>M. G.</Forenames>
+      <Text>, M.B.E</Text>
       <PageNumber>5734</PageNumber>
     </MainItem>
   </ItemGroup>

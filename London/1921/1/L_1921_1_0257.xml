@@ -115,7 +115,9 @@
     <MainItem>
       <Key>Woolley</Key>
       <Forenames>John B.</Forenames>
-      <Text>, D.S.C</Text>
+      <Text>
+        <Honour>D.S.C</Honour>
+      </Text>
       <PageNumber>1372</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -167,7 +169,9 @@
     <MainItem>
       <Key>Pyke-Nott</Key>
       <Forenames>James G. Welman</Forenames>
-      <Text>, A. E. P., D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>588</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -197,7 +201,9 @@
     <MainItem>
       <Key>Anderson</Key>
       <Forenames>Hugh B.</Forenames>
-      <Text>, D.S.C</Text>
+      <Text>
+        <Honour>D.S.C</Honour>
+      </Text>
       <PageNumber>2304</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -235,7 +241,9 @@
     <MainItem>
       <Key>Brewster</Key>
       <Forenames>Basil T.</Forenames>
-      <Text>, D.S.C</Text>
+      <Text>
+        <Honour>D.S.C</Honour>
+      </Text>
       <PageNumber>2225</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -363,8 +371,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hamilton</Key>
-      <Forenames>Gerald</Forenames>
-      <Text>de C</Text>
+      <Forenames>Gerald de C</Forenames>
       <PageNumber>469</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -444,7 +451,9 @@
     <MainItem>
       <Key>Mountstephens</Key>
       <Forenames>R.</Forenames>
-      <Text>, O.B.E</Text>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>2224</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -464,8 +473,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Leary, Edward A</Text>
+      <Key>O'Leary</Key>
+      <Forenames>Edward A .</Forenames>
       <PageNumber>2225</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -808,7 +817,9 @@
     <MainItem>
       <Key>Farrow</Key>
       <Forenames>John W.</Forenames>
-      <Text>, D.S.C</Text>
+      <Text>
+        <Honour>D.S.C</Honour>
+      </Text>
       <PageNumber>1063</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -845,7 +856,9 @@
     <MainItem>
       <Key>Pope</Key>
       <Forenames>H. E.</Forenames>
-      <Text>, D.S.C</Text>
+      <Text>
+        <Honour>D.S.C</Honour>
+      </Text>
       <PageNumber>1790</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -916,7 +929,9 @@
     <MainItem>
       <Key>Carpenter</Key>
       <Forenames>George</Forenames>
-      <Text>, M.B.E</Text>
+      <Text>
+        <Honour>M.B.E</Honour>
+      </Text>
       <PageNumber>2407</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -924,7 +939,9 @@
     <MainItem>
       <Key>Rogers</Key>
       <Forenames>James G.</Forenames>
-      <Text>, M.B.E</Text>
+      <Text>
+        <Honour>M.B.E</Honour>
+      </Text>
       <PageNumber>1462</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1155,9 +1172,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Cane</Forenames>
-      <Text>, P</Text>
+      <Key>Du Cane</Key>
+      <Forenames>P.</Forenames>
       <PageNumber>469</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1342,8 +1358,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Micklethwait</Key>
-      <Title>St.</Title>
-      <Forenames>J. A.</Forenames>
+      <Title>St. J.</Title>
+      <Forenames>A.</Forenames>
       <PageNumber>469</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -3,7 +3,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Transport</Key>
-      <Text>. Royal Commission on, Member, Sir Robert Donald, G.B.E</Text>
+      <Text>
+        <Honour>G.B.E</Honour>
+      </Text>
       <PageNumber>7216</PageNumber>
     </MainItem>
     <SubItem>
@@ -69,7 +71,9 @@
       <PageNumber>6764</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>.at Colombo, Llewellyn E. Thompson, Jun. ... 7066 at Singapore, Roy E. B. Bower</Text>
+      <Text>
+        <PageNumber>7066</PageNumber>
+      </Text>
       <PageNumber>7066</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -80,6 +84,17 @@
       <Text>sul, Henry Charles Sillery Vale</Text>
       <PageNumber>6986</PageNumber>
     </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Venezuela</Key>
+      <Text>: Consul at Demerara, Don Jose Gregorio Arismandi Bracho</Text>
+      <PageNumber>6764</PageNumber>
+    </MainItem>
+    <SubItem>
+      <Text>Vice-Consul at Southampton, Don Ricardo \ Perez Peyer</Text>
+      <PageNumber>7066</PageNumber>
+    </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
@@ -121,7 +136,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wild</Key>
-      <Text>Birds Protection Acts. (See under Home Office.) Workmen's Compensation Act. (See under Home Office.) Yarmouth,. Nova Scotia, Consul of U.S.A., Charles W. Lewis, Jun</Text>
+      <Forenames>Birds Protection Acts</Forenames>
+      <Text>. (See under Home Office.) Workmen's Compensation Act. (See under Home Office.) Yarmouth,. Nova Scotia, Consul of U.S.A., Charles W. Lewis, Jun</Text>
       <PageNumber>7066</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -244,7 +260,9 @@
       <Key>Acland</Key>
       <Title>Rt. Hon. Sir Francis .</Title>
       <Forenames>Dyke</Forenames>
-      <Text>, Bart., Forestry Commissioner</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>7936</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -268,7 +286,10 @@
     <MainItem>
       <Key>Amulree</Key>
       <Forenames>William Warren-</Forenames>
-      <Text>der, Baron, K.G., C.B.E., Chairman, Royal Commis'.. sion on Licensing</Text>
+      <Text>
+        <Honour>K.G.</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>6405</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -312,7 +333,9 @@
     <MainItem>
       <Key>Atholl</Key>
       <Forenames>Katharine Mariory</Forenames>
-      <Text>, Duchess of, D.C.B.E., Member, Royal Commission on the Civil Service</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>7064</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -329,7 +352,9 @@
       <Key>Baillie</Key>
       <Title>James.</Title>
       <Forenames>Black</Forenames>
-      <Text>, O.B.E., .Member, Royal Commission on the Civil Service</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>7064</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -344,7 +369,9 @@
     <MainItem>
       <Key>Batenian</Key>
       <Forenames>Charles Harold</Forenames>
-      <Text>, M.C., ' First Secretary H.M. Diplomatic Service</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6764</PageNumber>
     </MainItem>
   </ItemGroup>

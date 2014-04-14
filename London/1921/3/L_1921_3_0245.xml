@@ -31,7 +31,9 @@
       <Key>Pearc-e</Key>
       <Title>Capt.</Title>
       <Forenames>W. G. J.</Forenames>
-      <Text>, O.B.E. (rel. commn.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>6773</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -138,7 +140,9 @@
       <Key>Pollock</Key>
       <Title>Capt.</Title>
       <Forenames>H. A.</Forenames>
-      <Text>, D.S.O. (rel. commn.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7461</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -306,7 +310,7 @@
       <PageNumber>5735</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Rel. prob. appt</Text>
+      <Text>Rel. prob. appt.</Text>
       <PageNumber>6604</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -378,8 +382,8 @@
     <MainItem>
       <Key>Ronaldson</Key>
       <Title>Lt.</Title>
-      <Forenames>E. C. St</Forenames>
-      <Text>. J. (resigns commn.)</Text>
+      <Forenames>E. C. St. J</Forenames>
+      <Text>. (resigns commn.)</Text>
       <PageNumber>6177</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -433,18 +437,21 @@
   <ItemGroup>
     <MainItem>
       <Key>Seobie</Key>
-      <Text>. A. (temp. Lt.)</Text>
+      <Forenames>A.</Forenames>
+      <Text>(temp. Lt.)</Text>
       <PageNumber>5736</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Rel. eommn</Text>
+      <Text>Rel. eommn.</Text>
       <PageNumber>6604</PageNumber>
     </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Scott</Key>
-      <Text>. Lt. S. (rel. commn.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>S.</Forenames>
+      <Text>(rel. commn.)</Text>
       <PageNumber>6400</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -690,7 +697,7 @@
       <PageNumber>5735</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Rel. prob. appt</Text>
+      <Text>Rel. prob. appt.</Text>
       <PageNumber>6604</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -899,7 +906,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>N. T. B.</Forenames>
-      <Text>, M.B.E. (rel. commn. and granted rank of Capt.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>6035</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -916,8 +925,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Den Bogaerde</Forenames>
+      <Key>Van Den</Key>
+      <Forenames>Bogaerde</Forenames>
       <Text>, L. A. F. (Lt.)</Text>
       <PageNumber>6034</PageNumber>
     </MainItem>
@@ -1089,7 +1098,9 @@
       <Key>White</Key>
       <Title>Capt.</Title>
       <Forenames>C. R.</Forenames>
-      <Text>, M.C. (rel. commn. and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5736</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1105,7 +1116,9 @@
     <MainItem>
       <Key>Wilkinson</Key>
       <Forenames>E. J.</Forenames>
-      <Text>, M.B.E. (Capt.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>6033</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1267,7 +1280,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Young</Key>
-      <Text>. Lt. E. II. (resigns, and retains rank of Lt,)</Text>
+      <Title>Lt.</Title>
+      <Forenames>E.</Forenames>
+      <Text>II. (resigns, and retains rank of Lt,)</Text>
       <PageNumber>7462</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1286,7 +1301,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Bowie-Evans</Key>
-      <Text>. G. H., C.M.G., C.B.E.. M.B</Text>
+      <Forenames>G. H.</Forenames>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>6602</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1294,7 +1313,13 @@
     <MainItem>
       <Key>Evans</Key>
       <Forenames>G. H. Bowie</Forenames>
-      <Text>, C.M.G., C.B.E., MB., see BowieEvans, G. H., C.M.G., C.B.E., M.B Wall, F., C.M.G</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>C.B.E.</Honour>
+        <Honour>MB</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>6602</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1311,7 +1336,9 @@
     <MainItem>
       <Key>Milne</Key>
       <Forenames>C</Forenames>
-      <Text>, O.B.E., M.B</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>7140</PageNumber>
     </MainItem>
   </ItemGroup>

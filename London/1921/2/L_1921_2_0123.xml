@@ -11,8 +11,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Farrell, temp. 2nd Lt. G. F. P. (rel. commn. on completion of service, and retains rank of 2nd Lt.)</Text>
+      <Key>O'Farrell</Key>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>G. F. P.</Forenames>
+      <Text>(rel. commn. on completion of service, and retains rank of 2nd Lt.)</Text>
       <PageNumber>4068</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -50,7 +52,10 @@
       <Key>Ogilvie</Key>
       <Title>Bt. Col. (now Col., ret pay)</Title>
       <Forenames>E. C</Forenames>
-      <Text>, C.M.G., C.B.E. (temp. Col. whilst Dep. Dir. of Works) ... .'</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>4257</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -59,7 +64,9 @@
       <Key>Ogilvy</Key>
       <Title>Maj. (Bt. Lt.-Col.)</Title>
       <Forenames>D.</Forenames>
-      <Text>, D.S.O. (actg. Lt.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3987</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -82,8 +89,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Grady, Col. (now temp. Col. Comdt.) H. de C, CLE. (date of promn. to Col.)</Text>
+      <Key>O'Grady</Key>
+      <Title>Col. (now temp. Col. Comdt.)</Title>
+      <Forenames>H. de C</Forenames>
+      <Text>, CLE. (date of promn. to Col.)</Text>
       <PageNumber>2969</PageNumber>
     </MainItem>
     <SubItem>
@@ -102,8 +111,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hara, temp. 2nd Lt. W. (temp. Lt.)</Text>
+      <Key>O'Hara</Key>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>W.</Forenames>
+      <Text>(temp. Lt.)</Text>
       <PageNumber>4389</PageNumber>
     </MainItem>
     <SubItem>
@@ -113,19 +124,28 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Keefe, Lt. (late temp. Lt., Y. and L. R., Serv. Bns.) T. F. M.M. (rel. rank of Lt. on reenlistment in the ranks)</Text>
+      <Key>O'Keefe</Key>
+      <Title>Lt.</Title>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>4795</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Kelly, Lt. Edward (Lt., R.A.V.C., late R.A.S.C.)</Text>
+      <Key>O'Kelly</Key>
+      <Title>Lt.</Title>
+      <Forenames>Edward</Forenames>
+      <Text>
+        <Honour>V.C.</Honour>
+      </Text>
       <PageNumber>4618</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Lt., on prob., R.A.V.C., late R.A.S.C. (Sub. Not.)</Text>
+      <Text>
+        <Honour>V.C.</Honour>
+      </Text>
       <PageNumber>4712</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -215,7 +235,9 @@
       <Key>Oliphant</Key>
       <Title>temp. Lt.</Title>
       <Forenames>J.</Forenames>
-      <Text>, M.C. .(rel. commn. on completion of service, and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2635</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -330,14 +352,21 @@
       <Key>Olver</Key>
       <Title>Maj. and Bt. Lt.-Col.</Title>
       <Forenames>A.</Forenames>
-      <Text>, C.B., C.M.G., F.R.CV.S. (actg. Lt. Col. whilst A.D.V.S.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>4523</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Malley, temp. Maj. John F., F.R.C.S. (rel. commn., and retains rank of Maj.)</Text>
+      <Key>O'Malley</Key>
+      <Title>temp. Maj.</Title>
+      <Forenames>John F.</Forenames>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>4538</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -359,14 +388,18 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>V. D.</Forenames>
-      <Text>, M.C. (seed, for service with Yemen Inf.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3920</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, temp. Lt. E. N. (rel. commn. on completion of service, and granted rank of Capt.)</Text>
+      <Key>O'Neill</Key>
+      <Title>temp. Lt.</Title>
+      <Forenames>E. N.</Forenames>
+      <Text>(rel. commn. on completion of service, and granted rank of Capt.)</Text>
       <PageNumber>3370</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -377,7 +410,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>H. D.</Forenames>
-      <Text>, A.F.C. (rel. commn. on appt. to R.A.F.)</Text>
+      <Text>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>2878</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -452,15 +487,21 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Regan, temp. 2nd Lt. A. J. (rel. commn. on completion of service, and retains rank of 2nd Lt.)</Text>
+      <Key>O'Regan</Key>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>A. J.</Forenames>
+      <Text>(rel. commn. on completion of service, and retains rank of 2nd Lt.)</Text>
       <PageNumber>2628</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Reilly, Lt. F., D.C.M. (retires receiving a gratuity)</Text>
+      <Key>O'Reilly</Key>
+      <Title>Lt.</Title>
+      <Forenames>F.</Forenames>
+      <Text>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>4984</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -544,8 +585,12 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Rorke, Capt. (now Maj.) J. M. W., D.S.O. (temp. Maj. whilst G.S.O., 2nd Gr.)</Text>
+      <Key>O'Rorke</Key>
+      <Title>Capt. (now Maj.)</Title>
+      <Forenames>J. M. W.</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>2983</PageNumber>
     </MainItem>
     <SubItem>
@@ -569,7 +614,9 @@
       </Key>
       <Title>Col.</Title>
       <Forenames>G. M.</Forenames>
-      <Text>, D.S.O. (date of promn. to Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>2969</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -679,12 +726,15 @@
       <Key>Osborne</Key>
       <Title>Capt. and Bt. Maj.</Title>
       <Forenames>E. A.</Forenames>
-      <Text>, D.S.O. (trd. from R.E. to Royal Corps of Signals, and retains present Staff appt.), Sub. Not. ..v</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>2766</PageNumber>
     </MainItem>
     <SubItem>
       <Text>
         <PageNumber>4711</PageNumber>
+        <Honour>Bt</Honour>
       </Text>
       <PageNumber>4992</PageNumber>
     </SubItem>
@@ -696,7 +746,9 @@
       </Key>
       <Title>temp. Capt. (Lt., Res. of Off., late Vols.)</Title>
       <Forenames>R. T.</Forenames>
-      <Text>, M.C. (rel. temp, commn. on ceasing to be empld., and granted rank of Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3918</PageNumber>
     </MainItem>
     <SubItem>

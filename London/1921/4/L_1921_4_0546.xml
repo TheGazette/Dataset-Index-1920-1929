@@ -279,8 +279,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. John Puvirajazinghe</Text>
+      <Key>St. John</Key>
+      <Forenames>Puvirajazinghe</Forenames>
       <PageNumber>10027</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -705,7 +705,9 @@
     <MainItem>
       <Key>Rodgers</Key>
       <Forenames>R. T.</Forenames>
-      <Text>, M.B.E</Text>
+      <Text>
+        <Honour>M.B.E</Honour>
+      </Text>
       <PageNumber>10657</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -736,7 +738,9 @@
     <MainItem>
       <Key>Dick</Key>
       <Forenames>A.</Forenames>
-      <Text>MacD., M.B., F.R.C.S</Text>
+      <Text>
+        <Honour>F.R.C.S</Honour>
+      </Text>
       <PageNumber>7891</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -758,8 +762,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hendricks</Key>
-      <Title>St.</Title>
-      <Forenames>J. E</Forenames>
+      <Title>St. J.</Title>
+      <Forenames>E</Forenames>
       <PageNumber>8293</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -818,7 +822,9 @@
     <MainItem>
       <Key>Evans</Key>
       <Forenames>G. H.</Forenames>
-      <Text>, C.I.E., C.B.E</Text>
+      <Text>
+        <Honour>C.B.E</Honour>
+      </Text>
       <PageNumber>9060</PageNumber>
     </MainItem>
   </ItemGroup>

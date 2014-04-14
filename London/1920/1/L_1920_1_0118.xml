@@ -127,7 +127,9 @@
     <MainItem>
       <Key>Baxter</Key>
       <Forenames>Fane Fleming</Forenames>
-      <Text>, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3776</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -219,7 +221,9 @@
       <Key>Beale</Key>
       <Title>Lt. (T./Capt,)</Title>
       <Forenames>Allan Oswald</Forenames>
-      <Text>' Rufus, M.C., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1376</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -255,7 +259,9 @@
         <KeyDitto>___</KeyDitto>
       </Key>
       <Forenames>Joseph James</Forenames>
-      <Text>, O.B.E.. Commander. Order of the British Empire'</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3761</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -291,14 +297,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Beath</Key>
-      <Text>. David (Leslie. M.R.C.S., L.R.C.IP., Officer, Order of the British Empire</Text>
+      <Forenames>David</Forenames>
+      <Text>(Leslie. M.R.C.S., L.R.C.IP., Officer, Order of the British Empire</Text>
       <PageNumber>3776</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Ueattie</Key>
-      <Text>.Maj. (T./Lt.-Col.) Alexander Elder, M.C., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -308,7 +317,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Alderman Andrew</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -318,7 +329,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Andrew</Forenames>
-      <Text>, D. L., Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>3431</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -363,7 +376,9 @@
       <Key>Beausire</Key>
       <Title>Miss</Title>
       <Forenames>Clara Constance</Forenames>
-      <Text>, O.B.E.. Commander, Older uf the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3761</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -426,7 +441,9 @@
       </Key>
       <Title>Copt.</Title>
       <Forenames>Oliver Lawrence</Forenames>
-      <Text>, C.B.E., Companion, D.S.O</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>2861</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -441,7 +458,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Beckett</Key>
-      <Text>. WiilliaJii Mail-row, Member, ber. Order of the British Empire</Text>
+      <Text>WiilliaJii Mail-row, Member, ber. Order of the British Empire</Text>
       <PageNumber>3815</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -517,7 +534,9 @@
     <MainItem>
       <Key>Begg</Key>
       <Forenames>Alexander Clarke</Forenames>
-      <Text>. M.D.. iCh.B., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3777</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -540,21 +559,24 @@
   <ItemGroup>
     <MainItem>
       <Key>Rielchamber</Key>
-      <Text>. Frcderick Augustus. Officer, Order of the British Empire</Text>
+      <Forenames>Frcderick Augustus</Forenames>
+      <Text>. Officer, Order of the British Empire</Text>
       <PageNumber>3777</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Belcher</Key>
-      <Text>. -Edmund Obs.rles. Member. Order of the British Empire</Text>
+      <Text>-Edmund Obs.rles. Member. Order of the British Empire</Text>
       <PageNumber>3815</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Bell</Key>
-      <Text>. Andrew. J.P.. Member. Order of the British -Empire</Text>
+      <Title>Andrew.</Title>
+      <Forenames>J.P.</Forenames>
+      <Text>. Member. Order of the British -Empire</Text>
       <PageNumber>3815</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -564,7 +586,10 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Title>Lt.-Col.</Title>
-      <Text>'Charles Francis, D.S.O., O.B.E.. Commander, Order of the British. Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3761</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -614,7 +639,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>James</Forenames>
-      <Text>, -Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>6</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -624,21 +651,27 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Thomas Norman Jarvds</Forenames>
-      <Text>, D.L., Officer, Order of tthe British Empire</Text>
+      <Text>
+        <Honour>D.L.</Honour>
+      </Text>
       <PageNumber>3777</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Bellamy</Key>
-      <Text>-Copt.. (T./Maj.) Hugh Maurice, D.iS.O., M.C., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1376</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Bel</Key>
-      <Text>.ilingham, Lelgarde Harry Florence, the Hon. Lady, Lady of Grace, St. John of Jerusalem</Text>
+      <Text>
+        <Honour>Lady of Grace, St. John of Jerusalem</Honour>
+      </Text>
       <PageNumber>1684</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -761,8 +794,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Phillip</Forenames>
-      <Text>de Gylpyii, Commander, Order oif the British Empire</Text>
+      <Forenames>Phillip de Gylpyii</Forenames>
+      <Text>, Commander, Order oif the British Empire</Text>
       <PageNumber>3761</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -810,14 +843,18 @@
   <ItemGroup>
     <MainItem>
       <Key>Berkley</Key>
-      <Text>. 'Ernest James Gibson, F.R.C.S., Member, Order of .the British Empire</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>3816</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Berridge</Key>
-      <Text>. Maj. Harold, Companion. Order of the -Indian Empire</Text>
+      <Title>Maj.</Title>
+      <Forenames>Harold</Forenames>
+      <Text>, Companion. Order of the -Indian Empire</Text>
       <PageNumber>978</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -835,7 +872,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Berry</Key>
-      <Text>. Arthur, Officer, Order of the British Empire</Text>
+      <Forenames>Arthur</Forenames>
+      <Text>, Officer, Order of the British Empire</Text>
       <PageNumber>3777</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -846,7 +884,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>Hairy Poole</Forenames>
-      <Text>. M.B., M.R.C.S..' T.D.. Officer, Order of .the British. Empire</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>3777</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -883,7 +923,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Bersev</Key>
-      <Text>. Stanley Howard. M.B.E., ' Officer. 'Order of the British Empire</Text>
+      <Forenames>Stanley Howard</Forenames>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3777</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -898,7 +941,9 @@
     <MainItem>
       <Key>Bertram</Key>
       <Forenames>Francis George Laiwder</Forenames>
-      <Text>. O.B.E.. Commander. Order of the British .Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3761</PageNumber>
     </MainItem>
   </ItemGroup>

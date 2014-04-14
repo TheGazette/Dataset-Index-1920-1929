@@ -185,8 +185,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lonsdale</Key>
-      <Forenames>The</Forenames>
-      <Text>Earl of</Text>
+      <Title>The Earl</Title>
+      <Text>of</Text>
       <PageNumber>4690</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1002,7 +1002,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Neilson</Key>
-      <Text>I. B. C</Text>
+      <Forenames>I. B. C.</Forenames>
       <PageNumber>5767</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1097,15 +1097,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, H. W</Text>
+      <Key>O'Brien</Key>
+      <Forenames>H. W</Forenames>
       <PageNumber>5136</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Callaghan, G. A</Text>
+      <Key>O'Callaghan</Key>
+      <Forenames>G. A.</Forenames>
       <PageNumber>4790</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1133,8 +1133,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Grady, T. S</Text>
+      <Key>O'Grady</Key>
+      <Forenames>T. S.</Forenames>
       <PageNumber>5073</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1406,8 +1406,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>H. St</Forenames>
-      <Text>. M. M</Text>
+      <Forenames>H. St. M</Forenames>
+      <Text>. M</Text>
       <PageNumber>4858</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1840,8 +1840,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>L.</Forenames>
-      <Text>de C</Text>
+      <Forenames>L. de C</Forenames>
       <PageNumber>4925</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1930,7 +1929,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>C. T.</Forenames>
-      <Text>(B.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5343</PageNumber>
     </MainItem>
   </ItemGroup>

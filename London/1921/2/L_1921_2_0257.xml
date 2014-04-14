@@ -133,7 +133,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Montagu</Key>
-      <Text>Montacute, Monthermer and Pole of Montagu, Baronies of, notice</Text>
+      <Forenames>Montacute</Forenames>
+      <Text>, Monthermer and Pole of Montagu, Baronies of, notice</Text>
       <PageNumber>4961</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -262,7 +263,9 @@
       <PageNumber>3330</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>Campbell-Taylor, Arthur Edwin, O.B.E. (from A. E. Taylor)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3491</PageNumber>
     </SubItem>
     <SubItem>

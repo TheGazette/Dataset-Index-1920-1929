@@ -275,31 +275,8 @@
       <PageNumber>___ ___ ___ ___ ___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Davidson</Key>
-      <Forenames>A .</Forenames>
-      <PageNumber>8172</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___</KeyDitto>
-      </Key>
-      <Forenames>A. W .</Forenames>
-      <PageNumber>8401</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>D. S .</Forenames>
-      <PageNumber>6634</PageNumber>
-    </MainItem>
-  </ItemGroup>
+  <KeyDitto>___ ___ ___</KeyDitto>
+  <KeyDitto>___ ___</KeyDitto>
   <ItemGroup>
     <MainItem>
       <Key>Davies</Key>
@@ -380,18 +357,45 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Lacy</Forenames>
-      <Text>, J. C</Text>
+      <Key>de Burgh</Key>
+      <Forenames>H. G.</Forenames>
+      <PageNumber>7467</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Klee</Key>
+      <Forenames>F. B .</Forenames>
+      <PageNumber>8171</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Lacy</Key>
+      <Forenames>J. C.</Forenames>
       <PageNumber>6347</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Lisle</Forenames>
-      <Text>, Sir H. De B</Text>
+      <Key>de Linde</Key>
+      <Forenames>C. A .</Forenames>
+      <PageNumber>7125</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Lisle</Key>
+      <Title>Sir</Title>
+      <Forenames>H. De B</Forenames>
       <PageNumber>6852</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Robeck</Key>
+      <Forenames>B. L.</Forenames>
+      <PageNumber>8540</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -435,7 +439,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Denis</Key>
-      <Text>de Vitro, E. C</Text>
+      <Forenames>de Vitro</Forenames>
+      <Text>, E. C</Text>
       <PageNumber>6495</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -449,7 +454,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dennis</Key>
-      <Text>B. R</Text>
+      <Forenames>B. R.</Forenames>
       <PageNumber>8171</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -615,8 +620,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dudley</Key>
-      <Forenames>G.</Forenames>
-      <Text>de S</Text>
+      <Forenames>G. de S</Forenames>
       <PageNumber>6495</PageNumber>
     </MainItem>
   </ItemGroup>

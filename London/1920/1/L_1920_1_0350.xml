@@ -14,7 +14,9 @@
       <Key>Piatt</Key>
       <Title>Capt. and Bt. Maj.</Title>
       <Forenames>W.</Forenames>
-      <Text>, D.S.O. (restd. to estabt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1203</PageNumber>
     </MainItem>
     <SubItem>
@@ -110,7 +112,9 @@
       <Key>Blimsold</Key>
       <Title>Lt.</Title>
       <Forenames>S. R. C</Forenames>
-      <Text>, M.C. (rel. actg. 'rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1340</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -128,7 +132,9 @@
       <Key>Plowden</Key>
       <Title>Capt.</Title>
       <Forenames>J. C</Forenames>
-      <Text>, M.C. (restd. to estabt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1519</PageNumber>
     </MainItem>
     <SubItem>
@@ -141,7 +147,9 @@
       <Key>Pluckett</Key>
       <Title>temp. Lt.</Title>
       <Forenames>F.</Forenames>
-      <Text>, O.B.E. (red. actg. rank of. Capt. on ceasing to comd. a Lab. Co., coir, of date)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>675</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -159,7 +167,9 @@
       <Key>PJuimmer</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>E. W.</Forenames>
-      <Text>, D.S.O., R.A. (placed temp, on ih.p. list on aoc. of idi-health caused by wounds)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>2324</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -229,7 +239,11 @@
       <Key>Pdunkett</Key>
       <Title>Capt.</Title>
       <Forenames>J. F.</Forenames>
-      <Text>, D.S.O., M.C., D.C.M. (rel. temp, rank of Lt.Col. on ceasing to eomd. a. Serv. IBn. R. Inn. Fus.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>1082</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -249,7 +263,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>F.</Forenames>
-      <Text>, M.C. '(rel. actg. rank of Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>315</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -265,7 +281,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Pogbee</Key>
-      <Text>2nd.Lt. H. A. M.C. (Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>303</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -274,7 +292,9 @@
       <Key>Poignant</Key>
       <Title>temp. Maj.</Title>
       <Forenames>A. J. A.</Forenames>
-      <Text>, M.C. (red. temp, rank of Lt.-Cod. oni ceasing to be spec, empld.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>148</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -299,7 +319,9 @@
       <Key>Polden</Key>
       <Title>temp. Lt.</Title>
       <Forenames>A. W.</Forenames>
-      <Text>, M.C. (red. actg. rank of Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>144</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -308,7 +330,9 @@
       <Key>Pole</Key>
       <Title>temp. 2nd Lt.</Title>
       <Forenames>W. T.</Forenames>
-      <Text>, O.B.E. (temp. Lt.) ;</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>308</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -325,14 +349,20 @@
       <Key>Polgreen</Key>
       <Title>temp. Capt.</Title>
       <Forenames>L. J. T.</Forenames>
-      <Text>, M.C. '(rel. comma on completion of service and retains rank . of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2052</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>PoLliik</Key>
-      <Text>.Lt. E. R. H., M.C. (resigns. ©ommn.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>E. R. H.</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>668</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -378,7 +408,11 @@
       </Key>
       <Title>Col.</Title>
       <Forenames>J. H. W.</Forenames>
-      <Text>, C.B., C.M.G., D.S.O. (placed on h.p. list on vacating comd. of the 3rd Eastern Brig. Northern Comd.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>672</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -422,11 +456,13 @@
       <Key>Pollitt</Key>
       <Title>temp. Lt.</Title>
       <Forenames>H.</Forenames>
-      <Text>, M.C. (rel. actg. rank of Capt. on ceasing to comd. Divi. Empit. Co.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1367</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Red. commn. on completion of service and! granted rank of Capt</Text>
+      <Text>Red. commn. on completion of service and! granted rank of Capt.</Text>
       <PageNumber>1367</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -457,7 +493,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>A. J. C.</Forenames>
-      <Text>, O.B.E. (reJ. actg. rank of Maj.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>15</PageNumber>
     </MainItem>
     <SubItem>
@@ -476,7 +514,7 @@
       <PageNumber>1906</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Trd. to Gen Res. of Offrs</Text>
+      <Text>Trd. to Gen Res. of Offrs.</Text>
       <PageNumber>1909</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -487,7 +525,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>J. A.</Forenames>
-      <Text>, D.S.O. (retires on ret. pay and granted rank of Lt.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>411</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -496,7 +536,9 @@
       <Key>Pollok</Key>
       <Title>Maj.</Title>
       <Forenames>A. B.</Forenames>
-      <Text>, O.B.E. (placed on lip. list and retains appt. din, fRemt. Serv.), Sub. Not</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>952</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -516,7 +558,9 @@
       <Key>Poillok-Morris</Key>
       <Title>Bt., Lt.-Col.</Title>
       <Forenames>T. A.</Forenames>
-      <Text>, O.B.E. (temp. Lt.-Col. whilst G. S.O.lst Gr.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3422</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -525,7 +569,11 @@
       <Key>Poison</Key>
       <Title>Maj. Sir</Title>
       <Forenames>T. A.</Forenames>
-      <Text>, K.B.E., C.M.G., T.D. (red. actg. grading of Ord. Off. 1st CI. and actg. rank of Cod.)</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>1776</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -543,7 +591,9 @@
       <Key>Pomfret</Key>
       <Title>temp. Maj. (Capt. Res. of Offrs.) (Hon. Capt. in Army)</Title>
       <Forenames>H. T.</Forenames>
-      <Text>, M.C. (red. actg. rank of Lt.-Col. on ceasing to comd. a Bn. Northd. Fus.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2893</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -585,7 +635,9 @@
       </Key>
       <Title>Capt. and Bt. Maj.</Title>
       <Forenames>J. M.</Forenames>
-      <Text>, M.C. (restd. to estabt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1619</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -594,7 +646,9 @@
       <Key>Pomsomby</Key>
       <Title>Maj.</Title>
       <Forenames>R. G.</Forenames>
-      <Text>, D.S.O. (red. actg. rank of Lt.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>168</PageNumber>
     </MainItem>
     <SubItem>
@@ -647,7 +701,11 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Title>Supern. Lt.-Col. and Bt. Cod.</Title>
-      <Text>{now Col.) Sir F. C, K.B.E., C. B., C.M.G., D.S.O. (restd. to estabt.)</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1923</PageNumber>
     </MainItem>
     <SubItem>
@@ -684,7 +742,10 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>L. T.</Forenames>
-      <Text>, D.S.O., M.C., M.B. (red. actg. rank of Lt.Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1061</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -724,7 +785,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>A. N.</Forenames>
-      <Text>, O.B.E. (restd. to estabt.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>316</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -735,7 +798,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>E. B.</Forenames>
-      <Text>, D.S.O. (rel. temp. rank of Capt.' on ceasing to be empld. with 8th Bn.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>308</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -798,7 +863,10 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Title>Capt. and Bt. Maj.</Title>
-      <Text>v. V. D. S.O., M.C. (restd. to estabt.)</Text>
+      <Text>
+        <Honour>D. S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1204</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -806,7 +874,9 @@
     <MainItem>
       <Key>Pope-Hennessy</Key>
       <Title>Lt.-Col. and Bt.</Title>
-      <Text>Col. L. H. R-, D.S.O. (removed from Regtl. List on appt. as an A.A.G. at the War Office)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3509</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -852,7 +922,9 @@
       </Key>
       <Title>Capt. (Bt. Maj.)</Title>
       <Forenames>C. P.</Forenames>
-      <Text>, D.S.O. (actg. Maj. whilst 2nd io comd. Dispersal Unit, Crystal Palace)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>821</PageNumber>
     </MainItem>
     <SubItem>
@@ -914,7 +986,9 @@
       <Key>Portal</Key>
       <Title>Capt.</Title>
       <Forenames>J. L.</Forenames>
-      <Text>, D.S.O. {restd. to estabt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1342</PageNumber>
     </MainItem>
   </ItemGroup>

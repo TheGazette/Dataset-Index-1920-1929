@@ -26,14 +26,17 @@
     <MainItem>
       <Key>Nutt</Key>
       <Title>Lt.-Col. (Hon. Col.)</Title>
-      <Text>(Lt.-Col. , and Hon. Col., ret., T.F.) H. J., T.D. (Col.)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>3753</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Clery, C. A. (2nd Lt. for serv. with Campbell Coll. Contingent, Jnr. Div., O.T.C.)</Text>
+      <Key>O'Clery</Key>
+      <Forenames>C. A.</Forenames>
+      <Text>(2nd Lt. for serv. with Campbell Coll. Contingent, Jnr. Div., O.T.C.)</Text>
       <PageNumber>678</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -51,7 +54,10 @@
       <Key>Ogilvie</Key>
       <Title>Lt.-Col. (temp. Col.) Sir</Title>
       <Forenames>A. M. J.</Forenames>
-      <Text>, K.B.E., C.B., V.D. (resigns commn., and granted rank of Col., with permission to wear uniform)</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>799</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -110,8 +116,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Leary, Maj. J. McC. (Adjt.)</Text>
+      <Key>O'Leary</Key>
+      <Title>Maj.</Title>
+      <Forenames>J.</Forenames>
+      <Text>McC. (Adjt.)</Text>
       <PageNumber>3753</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -131,7 +139,9 @@
       </Key>
       <Title>temp. Capt.</Title>
       <Forenames>T. A. H.</Forenames>
-      <Text>, M.C. (rel. actg. rank of Maj. on ceasing to be 2nd in comd. of the Bn., A. of O.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3295</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -151,7 +161,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>H.</Forenames>
-      <Text>, T.D. (Maj., T.F.R.)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>311</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -180,7 +192,9 @@
       <Key>Ollis</Key>
       <Title>2nd Lt. (actg. Capt. and Adjt.) (now Lt.)</Title>
       <Forenames>W. R.</Forenames>
-      <Text>, M.C. (vacates appt. of Adjt., and rel. actg. rank of Capt. on ceasing to be empld.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2274</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -225,7 +239,9 @@
       <Key>Orme</Key>
       <Title>Capt. (temp. Maj.)</Title>
       <Forenames>E</Forenames>
-      <Text>, R., M.C. (rel. commn. on acc. of illhealth caused by wounds, and granted rank of Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3000</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -293,14 +309,18 @@
       <Key>Osmond</Key>
       <Title>Capt.</Title>
       <Forenames>C. F.</Forenames>
-      <Text>, D.S.O. (Adjt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3625</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Ovey</Key>
-      <Text>.Maj. R, L., D.S.O. {Lt.Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>2273</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -320,7 +340,9 @@
       </Key>
       <Title>temp. Lt. Sir</Title>
       <Forenames>J. A.</Forenames>
-      <Text>, Bt. (actg. Capt. oomdgr a Co., A. of 0.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>1540</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -351,11 +373,14 @@
       <Key>Owen</Key>
       <Title>Capt. (Bt. Maj.)</Title>
       <Forenames>W. L.</Forenames>
-      <Text>, D.S.O., M.C. (trd. from 5th Bn. to 8th Bn., Liverpool R.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2747</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Lt.-Col</Text>
+      <Text>Lt.-Col.</Text>
       <PageNumber>2747</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -393,7 +418,9 @@
       <Key>Paine</Key>
       <Title>Lt.</Title>
       <Forenames>H.</Forenames>
-      <Text>&gt;H., M.C. (rel. commn., and granted rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3267</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -402,7 +429,9 @@
       <Key>Pakeman</Key>
       <Title>2nd Lt.</Title>
       <Forenames>O. H.</Forenames>
-      <Text>, M.M. (Lt.)</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>677</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -411,7 +440,9 @@
       <Key>Palmer</Key>
       <Title>Capt.</Title>
       <Forenames>E. C</Forenames>
-      <Text>, M.C. (resigns commn., and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2170</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -422,7 +453,10 @@
       </Key>
       <Title>Lt.-Col. (Hon. iBrig.-Gen. in Army)</Title>
       <Forenames>G. L.</Forenames>
-      <Text>, C.B., T.D. (retired, having attained the age limit, and retains rank, with permission to wear uniform)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>2274</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -433,7 +467,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>H. W. T.</Forenames>
-      <Text>, D.S.O. (Adjt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3426</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -442,11 +478,15 @@
       <Key>Pank</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>C. H.</Forenames>
-      <Text>, C.M.G., D.S.O., T.D. (vacates comd. of Bn. on ceasing to be enirpld.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>22</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Trd. to 7th Bn., Middx Regt</Text>
+      <Text>Trd. to 7th Bn., Middx Regt.</Text>
       <PageNumber>324</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -455,11 +495,14 @@
       <Key>Pannall</Key>
       <Title>Lt.</Title>
       <Forenames>C</Forenames>
-      <Text>, D.S.O., M.C. (Adjt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3520</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Temp. Capt. in T.F. whilst Adjt</Text>
+      <Text>Temp. Capt. in T.F. whilst Adjt.</Text>
       <PageNumber>3526</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -507,7 +550,9 @@
       <Key>Parker</Key>
       <Title>Lt.</Title>
       <Forenames>C. J.</Forenames>
-      <Text>, M.C. (trd. to T.F.R.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>915</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -562,7 +607,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>J. E.</Forenames>
-      <Text>, T.D. (retired, having attained the age limit, and retains rank, with permission to wear uniform)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>416</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -584,7 +631,10 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>W.</Forenames>
-      <Text>, D.S.O., T.D. (Lt.Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>2332</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -595,7 +645,9 @@
       </Key>
       <Title>Lt.-Col. (Bt. Col.)</Title>
       <Forenames>W. F.</Forenames>
-      <Text>(rel. commn. »in T.F. on .completion of period of comd., and retains rank of Lt.-Col. (Bt, Col.))</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>1196</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -613,7 +665,9 @@
       <Key>Parkin</Key>
       <Title>Maj.</Title>
       <Forenames>F. L.</Forenames>
-      <Text>, D.S.O. (Lt.Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>2160</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -701,7 +755,11 @@
     <MainItem>
       <Key>Parry</Key>
       <Title>Lt.-Col. (Hon. Capt. in Army)</Title>
-      <Text>(Lt.-Col. and Hon. Col., ret., T.F.) L. E. S., C.B.E., D.S.O., T.D. (reverts to ret. list, having attained the age limit, and retains rank, with permission to wear uniform)</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>1654</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -712,7 +770,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>T. H.</Forenames>
-      <Text>, D.S.O. (Lt.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>2748</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -743,7 +803,9 @@
       </Key>
       <Title>Maj. (Capt. ret.)</Title>
       <Forenames>L.</Forenames>
-      <Text>, D.S.O. (trd. to Brecknock Bn., S.W. Bord./</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>2748</PageNumber>
     </MainItem>
     <SubItem>
@@ -791,7 +853,9 @@
     <MainItem>
       <Key>Patmore</Key>
       <Title>Capt.</Title>
-      <Text>(Capt. and Hon. Maj. late 5th V.B., H.L.I.) J. S., T.D. (rel. commn. on ceasing to be empld., and retains rank with' permission to wear uniform)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>325</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -838,7 +902,9 @@
       <Key>Paxton</Key>
       <Title>Capt.</Title>
       <Forenames>G. A. M.</Forenames>
-      <Text>, M.C. (Adjt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3626</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -858,7 +924,9 @@
       </Key>
       <Title>Capt. and Hon. Maj.</Title>
       <Forenames>P. M.</Forenames>
-      <Text>, T.D. (granted rank of Maj., T.F.R.), Sub. Not</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>3399</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -927,7 +995,9 @@
       <Key>Pearce</Key>
       <Title>Lt.</Title>
       <Forenames>H. C</Forenames>
-      <Text>, M.B.E. (rel. commn. on acc. of ill-health caused by wounds, and retains rank of Lt.), Sub. Not</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>694</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1009,7 +1079,9 @@
       </Key>
       <Title>2nd Lt.</Title>
       <Forenames>J.</Forenames>
-      <Text>, M.M. (Lt.)</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>2312</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1042,7 +1114,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>R. S.</Forenames>
-      <Text>, O.B.E. (resigns commn., and retains rank of Maj., with permission to wear uniform)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3635</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1053,7 +1127,10 @@
       </Key>
       <Title>Maj. (Bt. Lt.-Col.) (actg. Lt.. Col.)</Title>
       <Forenames>T. W.</Forenames>
-      <Text>, D.S.O., T.D. (rel. actg. rank of Lt.-Col. on ceasing to comd. a Brigade R.F.A., T.F.), Sub. Not</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>541</PageNumber>
     </MainItem>
     <SubItem>

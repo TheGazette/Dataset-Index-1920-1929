@@ -4,7 +4,9 @@
     <MainItem>
       <Key>Battcock</Key>
       <Forenames>Lieutenant-</Forenames>
-      <Text>Colonel and Brevet Colonel Granville Arthur, T.D., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>3851</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -20,7 +22,9 @@
     <MainItem>
       <Key>Buynes</Key>
       <Forenames>Edward William</Forenames>
-      <Text>, O.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3860</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -79,7 +83,10 @@
       <Key>Bernard</Key>
       <Title>Professor</Title>
       <Forenames>Albert Victor</Forenames>
-      <Text>, M.B.E., M.D., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3860</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -95,7 +102,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Best</Key>
-      <Text>l?ear-Admiral the Honourable Robert Matthew, D.S.O., M.V.O., Companion of the Bath</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.V.O.</Honour>
+        <Honour>Companion of the Bath</Honour>
+      </Text>
       <PageNumber>3847</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -105,7 +116,9 @@
         <KeyDitto>___ —— ___ ___</KeyDitto>
       </Key>
       <Forenames>Paymaster</Forenames>
-      <Text>Commander Thomas Robert, R.D., R.N.R., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>3856</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -129,9 +142,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Bingham</Key>
-      <Title>Major</Title>
+      <Title>Major-</Title>
       <Forenames>General</Forenames>
-      <Text>the Honourable Sir Cecil Edward, K.C.M.G., C.B.,. C.V.O., Knight Grand Cross, Royal Victorian Order</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>C.V.O.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3851</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -179,7 +197,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Blackledge</Key>
-      <Forenames>The Venerable George Robert</Forenames>
+      <Title>The</Title>
+      <Forenames>Venerable George Robert</Forenames>
       <Text>, Officer, Order of the British Empire</Text>
       <PageNumber>3860</PageNumber>
     </MainItem>
@@ -199,7 +218,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Title>Lieut.</Title>
-      <Text>Colonel William, D.S.O., M.B., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4264</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -208,7 +229,10 @@
       <Key>Blades</Key>
       <Title>Sir</Title>
       <Forenames>George Rowland</Forenames>
-      <Text>, G.B.E., M.P., Baron</Text>
+      <Text>
+        <Honour>G.B.E.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>3845</PageNumber>
     </MainItem>
     <SubItem>
@@ -221,7 +245,9 @@
       <Key>Boal</Key>
       <Title>Major</Title>
       <Forenames>Robert</Forenames>
-      <Text>, D.S.O., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3852</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -252,7 +278,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bosanquet</Key>
-      <Text>Vivian Henry Courthope, H.M. ConsulGeneral at Frankfort</Text>
+      <Forenames>Vivian Henry Courthope</Forenames>
+      <Text>, H.M. ConsulGeneral at Frankfort</Text>
       <PageNumber>2813</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -261,7 +288,10 @@
       <Key>Boughey</Key>
       <Title>Sir</Title>
       <Forenames>George Menteth</Forenames>
-      <Text>, Bt., O.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3854</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -270,7 +300,11 @@
       <Key>Boulton</Key>
       <Title>Colonel</Title>
       <Forenames>Harold</Forenames>
-      <Text>, C.B.E., M.D., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>M.D.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3848</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -286,7 +320,9 @@
     <MainItem>
       <Key>Bowen</Key>
       <Forenames>Alderman George Bevan</Forenames>
-      <Text>, J.P., D.L., Knight Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.L.</Honour>
+      </Text>
       <PageNumber>3854</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -318,7 +354,9 @@
     <MainItem>
       <Key>Bowker</Key>
       <Forenames>Leslie Cecil Black-</Forenames>
-      <Text>more, M.C., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3855</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -367,7 +405,9 @@
     <MainItem>
       <Key>Bradfield</Key>
       <Forenames>Lieutenant-</Forenames>
-      <Text>Colonel Ernest William Charles, O.B.E., Companion, Order of the Indian Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3850</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -391,7 +431,9 @@
     <MainItem>
       <Key>Brass</Key>
       <Forenames>Thomas Francis</Forenames>
-      <Text>, O.B.E., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4264</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -399,7 +441,9 @@
     <MainItem>
       <Key>Brennan</Key>
       <Forenames>John Fitzgerald</Forenames>
-      <Text>, C.M.G., H.M. Consul in China</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>3500</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -434,7 +478,9 @@
     <MainItem>
       <Key>Brock</Key>
       <Forenames>Laurence George</Forenames>
-      <Text>, C.B., Commissioner under Mental Deficiency Act</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>2558</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -442,7 +488,9 @@
     <MainItem>
       <Key>Brockington</Key>
       <Forenames>William Allport</Forenames>
-      <Text>, O.B.E., M.A., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3854</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -450,7 +498,9 @@
     <MainItem>
       <Key>Brodrick</Key>
       <Forenames>William John Henrv</Forenames>
-      <Text>, O.B.E., Magistrate of Police Courts of the Metropolis</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>2550</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -472,14 +522,6 @@
       <PageNumber>3853</PageNumber>
     </MainItem>
   </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Brown</Key>
-      <Forenames>James Godfrey Lyon</Forenames>
-      <Text>, M.B., Officer, Order of the British Empire</Text>
-      <PageNumber>3858</PageNumber>
-    </MainItem>
-  </ItemGroup>
   <KeyDitto>___ ___</KeyDitto>
   <KeyDitto>___ ___ ___</KeyDitto>
   <ItemGroup>
@@ -488,8 +530,11 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Rupert George Drayton Sinclair</Forenames>
-      <Text>, Member of Legislative Council of Island of Barbadoes ... Cecil, The Hon. Lady, O.B.E., Dame Grand Cross, Order of St. John of Jerusalem ... Challis, Colonel Harry Thornton, M.D., V.D., Commander, Order of St. John of Jerusalem Chan Sze Jin, Nominated Unofficial Member of Legislative Council of Straits Settlements Chapell, Lieutenant Colonel Clarence Horatio, Officer, Order of the British Empire</Text>
-      <PageNumber>3856</PageNumber>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
+      <PageNumber>3858</PageNumber>
     </MainItem>
   </ItemGroup>
   <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>

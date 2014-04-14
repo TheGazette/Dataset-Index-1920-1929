@@ -78,7 +78,9 @@
       <Key>Downes</Key>
       <Title>temp. Capt.</Title>
       <Forenames>E.</Forenames>
-      <Text>, M.C. (rel. commn. on completion of service and granted rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6922</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -259,7 +261,9 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>D.</Forenames>
-      <Text>, M.C. (granted temp. rank as Lt. for services with Forces in E. Africa)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6338</PageNumber>
     </MainItem>
     <SubItem>
@@ -348,8 +352,19 @@
     <MainItem>
       <Key>Du</Key>
       <Forenames>Cane</Forenames>
-      <Text>, temp. Maj. C. G., O.B.E. (rel. commn. on completion of service and granted rank of Lt.-Col.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>6366</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>du Cros</Key>
+      <Title>Lt.</Title>
+      <Forenames>E. H.</Forenames>
+      <Text>(rems. seed, for service with R.C. of Sigs.)</Text>
+      <PageNumber>7363</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -364,7 +379,10 @@
     <MainItem>
       <Key>Du</Key>
       <Forenames>Plat</Forenames>
-      <Text>, Taylor, Maj. G. P., O.B.E., see Taylor, Maj. G. P. Du Plat, O.B.E. Du Sautoy, temp. Maj. E. F. (rel. commn.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>6663</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -373,7 +391,9 @@
       <Key>Duck</Key>
       <Title>Capt.</Title>
       <Forenames>F. P.</Forenames>
-      <Text>, D.S.O. (Adjt., 1st. R. Guernsey L.I.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7295</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -409,7 +429,9 @@
       <Key>Dudgeon</Key>
       <Title>temp. Capt.</Title>
       <Forenames>A. F.</Forenames>
-      <Text>, O.B.E. (granted temp, rank as Maj. for services with Forces in E. Africa)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>6751</PageNumber>
     </MainItem>
     <SubItem>
@@ -446,7 +468,9 @@
       </Key>
       <Title>Col.</Title>
       <Forenames>F. A.</Forenames>
-      <Text>, C.B. (Maj.-Gen.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>6545</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -477,7 +501,10 @@
       </Key>
       <Title>temp. Capt.</Title>
       <Forenames>G. V.</Forenames>
-      <Text>, D.S.O., M.C. (rel. commn. on completion of service and granted rank of Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7620</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -488,7 +515,9 @@
       </Key>
       <Title>temp.</Title>
       <Forenames>Capt</Forenames>
-      <Text>, H. W:, O.B.E. (re), commn. on completion of service and granted rank of Maj.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>6268</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -504,7 +533,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Duff</Key>
-      <Text>. Miss Brigid Mary, R.R.C. (Staff Nurse, Q.A.M.F.N.S.)</Text>
+      <Title>Miss</Title>
+      <Forenames>Brigid Mary</Forenames>
+      <Text>
+        <Honour>R.R.C.</Honour>
+      </Text>
       <PageNumber>6930</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -515,7 +548,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>D. F. G.</Forenames>
-      <Text>(rel. actg. rank of Maj. on ceasing to be empld. with M.G.C., Cav.)</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>6143</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -547,7 +582,10 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>temp, Capt. R. B.. M.C. (rel. commn. on completion of service and granted rank of Maj.) ... Dunman, temp. Capt. H. B.. M.C. (rel. commn. on completion of service and granted rank of Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7110</PageNumber>
     </MainItem>
   </ItemGroup>

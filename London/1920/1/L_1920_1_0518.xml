@@ -4,7 +4,9 @@
     <MainItem>
       <Key>Lyness</Key>
       <Title>Lt.</Title>
-      <Text>&lt;Sdr. iR. B., R.D. (placed on retd. list)</Text>
+      <Text>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>1098</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -60,7 +62,9 @@
     <MainItem>
       <Key>Man</Key>
       <Title>Sub-Lt</Title>
-      <Text>. (actg.) W., D.F.C. (removed from list of offrs. on being granted perm, commn. an R.A.F.)</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>3673</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -123,7 +127,9 @@
     <MainItem>
       <Key>Miles</Key>
       <Forenames>F.</Forenames>
-      <Text>(R R.D. IfComdr.)</Text>
+      <Text>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -164,7 +170,9 @@
       <Key>Morgan</Key>
       <Title>Payr. Lt.</Title>
       <Forenames>J. W. G.</Forenames>
-      <Text>, M.B.E. {placed on retd. list)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>1425</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -172,7 +180,10 @@
     <MainItem>
       <Key>Muir</Key>
       <Forenames>H. G.</Forenames>
-      <Text>, D.S.O., R.D. (Capt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -188,7 +199,9 @@
     <MainItem>
       <Key>Nicholson</Key>
       <Forenames>C</Forenames>
-      <Text>, R.D. (Capt., retd.)</Text>
+      <Text>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>3434</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -226,8 +239,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Beirne, D. (Payr. Lt.-Cdr.)</Text>
+      <Key>O'Beirne</Key>
+      <Forenames>D.</Forenames>
+      <Text>(Payr. Lt.-Cdr.)</Text>
       <PageNumber>3188</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -250,7 +264,9 @@
     <MainItem>
       <Key>Padfield</Key>
       <Forenames>A. J.</Forenames>
-      <Text>, R.D. (Payr. iLt.Cdr.)</Text>
+      <Text>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>3187</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -258,7 +274,9 @@
     <MainItem>
       <Key>Page</Key>
       <Title>Payr.</Title>
-      <Text>(Lt.^Cdr. H. N., R.D. (seniority antedated)</Text>
+      <Text>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>1831</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -266,7 +284,9 @@
     <MainItem>
       <Key>Parker</Key>
       <Forenames>W.H.</Forenames>
-      <Text>, C.B.E., IR.D. (Capt., retd.)</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>1264</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -283,7 +303,9 @@
     <MainItem>
       <Key>Payne</Key>
       <Title>Payr. Lt.</Title>
-      <Text>-Cdr. R. R., R.D. (seniority antedated)</Text>
+      <Text>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>1831</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -316,14 +338,16 @@
     <MainItem>
       <Key>Pilkington</Key>
       <Title>Lt.</Title>
-      <Text>JOdr. C. E., R.D. (placed on retd. list with rank of Cdr.)</Text>
+      <Text>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>2338</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>P</Key>
-      <Text>.ibcairn, C. M. (Lt.)</Text>
+      <Text>ibcairn, C. M. (Lt.)</Text>
       <PageNumber>2906</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -331,7 +355,9 @@
     <MainItem>
       <Key>Plummer</Key>
       <Forenames>C.E.</Forenames>
-      <Text>, R.D. (IPiayr. Lt.Cdr.)</Text>
+      <Text>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>3188</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -363,7 +389,9 @@
     <MainItem>
       <Key>Rae</Key>
       <Forenames>G. M. M.</Forenames>
-      <Text>, R.D. {Payr. Lt.Odr.)</Text>
+      <Text>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>3188</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -438,7 +466,9 @@
     <MainItem>
       <Key>Ridler</Key>
       <Forenames>B. H.</Forenames>
-      <Text>, R.D. (Payr. Lt.Cdr.)</Text>
+      <Text>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>3188</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -455,7 +485,9 @@
     <MainItem>
       <Key>Robson</Key>
       <Forenames>S. S.</Forenames>
-      <Text>, R.D. (Payr. Lt.Odr.)</Text>
+      <Text>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>3187</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -479,7 +511,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rouffiifnac</Key>
-      <Text>. J. (Payr. Lt.-Cdr.)</Text>
+      <Forenames>J.</Forenames>
+      <Text>(Payr. Lt.-Cdr.)</Text>
       <PageNumber>3188</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -494,7 +527,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Salmon</Key>
-      <Text>iR., D.S.O. ifCdr., ret.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1425</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -559,7 +594,9 @@
     <MainItem>
       <Key>Shepherd</Key>
       <Forenames>R. W.</Forenames>
-      <Text>, R.D. (Comdr.)</Text>
+      <Text>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -567,7 +604,9 @@
     <MainItem>
       <Key>Sindal</Key>
       <Forenames>E. R.</Forenames>
-      <Text>, D.S.C. (temp. actg. Lt.) ;</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>1690</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -610,7 +649,9 @@
     <MainItem>
       <Key>Stiibbs</Key>
       <Forenames>J. R. W.</Forenames>
-      <Text>, R.D. (Payr. Lt.Cdr.)</Text>
+      <Text>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>3188</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -618,7 +659,9 @@
     <MainItem>
       <Key>Stoy</Key>
       <Title>Payr. Lt.</Title>
-      <Text>-Cdr. A. F., R.D. (seniority antedated)</Text>
+      <Text>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>1831</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -626,7 +669,9 @@
     <MainItem>
       <Key>Such</Key>
       <Title>Payr. Lt.</Title>
-      <Text>-Cdr. H. V., R.D. (seniority antedated)</Text>
+      <Text>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>1831</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -643,7 +688,9 @@
     <MainItem>
       <Key>Sykes</Key>
       <Title>Payr. Lt.</Title>
-      <Text>-Cdr. P. S., O.B.E. (seniority antedated)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>1831</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -729,7 +776,9 @@
     <MainItem>
       <Key>Tocque</Key>
       <Forenames>C. H. S.</Forenames>
-      <Text>, R.D. (Capt., retd.)</Text>
+      <Text>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>3434</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -761,7 +810,9 @@
     <MainItem>
       <Key>Tuffill</Key>
       <Title>Payr. Lt.</Title>
-      <Text>-Cdr. H. B., R.D. (seniority antedated)</Text>
+      <Text>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>1831</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -850,7 +901,9 @@
     <MainItem>
       <Key>Welsh</Key>
       <Title>Sub-Lt</Title>
-      <Text>. W. L., D.S.O. (removed from the list on being granted perm. commn. in R.A.F.) ... .,</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>2760</PageNumber>
       <PageNumber>3673</PageNumber>
     </MainItem>
@@ -863,7 +916,9 @@
       <PageNumber>1831</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>R.D. (seniority antedated)</Text>
+      <Text>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>3188</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -932,7 +987,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Woodward</Key>
-      <Text>. J. W. P. (Payr. Lt-.)</Text>
+      <Forenames>J. W. P.</Forenames>
+      <Text>(Payr. Lt-.)</Text>
       <PageNumber>3188</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -940,7 +996,9 @@
     <MainItem>
       <Key>Yeomans</Key>
       <Forenames>W. J.</Forenames>
-      <Text>. R.D. (Cdr., retd. list)</Text>
+      <Text>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>3435</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -963,7 +1021,9 @@
       <Key>Adams</Key>
       <Title>Comd.</Title>
       <Forenames>J. B.</Forenames>
-      <Text>, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>3673</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1098,7 +1158,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Jones</Key>
-      <Text>(Lt.-Odr. B. Ov, O.B.E</Text>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>3673</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1189,7 +1251,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>H. E. G. Scott</Forenames>
-      <Text>, O.B.E</Text>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>3673</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1231,7 +1295,9 @@
       <Key>Whittle</Key>
       <Title>Cdr.</Title>
       <Forenames>W. H.</Forenames>
-      <Text>, O.B.E</Text>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>1831</PageNumber>
     </MainItem>
   </ItemGroup>

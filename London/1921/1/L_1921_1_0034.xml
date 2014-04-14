@@ -5,7 +5,12 @@
       <Key>Dandy</Key>
       <Title>Maj.</Title>
       <Forenames>M. H .</Forenames>
-      <Text>D.S.O., M.C. (Brig. Maj.) Dening, Bt. Maj. B. C, M.C. (temp. G.S.O., 3rd Gr.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>Bt</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1522</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -30,7 +35,12 @@
       </Key>
       <Title>Bt. Lt.-Col. (temp. Lt.-Col.)</Title>
       <Forenames>H. C</Forenames>
-      <Text>, D.S.O.. O.B.E. (temp. G.S.O., 1st Gr., General Staff, and retains temp, rank of Lt.-Col., from an A.A. and Q.M.G.) ... Dundas, Lt.-Col. (now Col.) P. H., D.S.O.. O.B.E. (rel. apot. as Administrative Comdt., CI. X, attd. to Hd.-Qr. Unit) Dunlop. Lt. A..G. (rel. spec. apnt. as Dep. Asst. Adminis.. CI. |FF, and temp, rank of Capt.),</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>O.B.E.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>760</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -44,7 +54,12 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>R. C</Forenames>
-      <Text>, O.B.E. (rel. appt. as Dep: Asst. Dir. of Graves Registration and Enquiries, Cl. BB, and temp. rank of Maj.) Fairerieve. Lt. W. P. (spec, appt., Cl. GG, from CI. HH) ... . ... Rel. spec, appt., Cl. GG ... Falconer, temp. Lt. D. A. (empld. under Directe. of Graves Registration and Enquiries, Cl. II) Farmar. Bt. Lt.-Col. H. M., C.M.G.. D.S.O. (spec. appt.. Cl. X. from a D.A.A. and Q.M.G.) . Farmer, temp. Capt. D. (rel. apnt. as Asst. Lab. Comdt., Cl. FF)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>Bt</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>359</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -75,7 +90,10 @@
       <Key>Fellowes</Key>
       <Title>Bt. Maj.</Title>
       <Forenames>R. T.</Forenames>
-      <Text>D.S.O., M.C. (G.S.O., 2nd Gr , at War Office, from 3rd Gr.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1888</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -84,7 +102,9 @@
       <Key>Findlay</Key>
       <Title>Bt. Lt.-Col.</Title>
       <Forenames>H.</Forenames>
-      <Text>, C.B.E. (A.A. and Q.M.G., 15th Dec, 1920)</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>360</PageNumber>
     </MainItem>
     <SubItem>
@@ -99,7 +119,10 @@
       <Key>Finlayson</Key>
       <Title>Bt. Col.</Title>
       <Forenames>R. G.</Forenames>
-      <Text>, C.M.G., D. S.O. (G.S.O., 1st Gr., at War Office)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D. S.O.</Honour>
+      </Text>
       <PageNumber>933</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -175,7 +198,9 @@
       <Key>Foley</Key>
       <Title>Maj.</Title>
       <Forenames>P. G.</Forenames>
-      <Text>, O.B.E. (Asst. Prov.-Marshal, Cl. BB, attd. to Hd.-Qr. Unit)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>1541</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -184,7 +209,9 @@
       <Key>Foot</Key>
       <Title>temp. Lt.</Title>
       <Forenames>R. W.</Forenames>
-      <Text>, M.C. (corr. of date of relg. appt. as Staff Capt., attd. to Hd.-Qr. Unit, and temp, rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>533</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -203,14 +230,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Ford</Key>
-      <Text>. temp. Inspr. of Works and Capt. C. G. (rel. appt. as Inspr. of Works. Imperial War Graves Commn., and temp. rank of Lt.-Cbl.)</Text>
+      <Title>temp. Inspr.</Title>
+      <Text>of Works and Capt. C. G. (rel. appt. as Inspr. of Works. Imperial War Graves Commn., and temp. rank of Lt.-Cbl.)</Text>
       <PageNumber>2075</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Fordbam</Key>
-      <Text>. Lt.-Col. W. M. (rel. appt. as A.A. and Q.MG.)</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>W. M.</Forenames>
+      <Text>(rel. appt. as A.A. and Q.MG.)</Text>
       <PageNumber>1763</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -144,7 +144,9 @@
       <Key>Cordingley</Key>
       <Title>Sqdn.</Title>
       <Forenames>Lead J. W.</Forenames>
-      <Text>, O.B.E. (granted perm. commn.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>12400</PageNumber>
     </MainItem>
     <SubItem>
@@ -165,7 +167,9 @@
     <MainItem>
       <Key>Coryton</Key>
       <Forenames>W. A.</Forenames>
-      <Text>, M.V.O. (Flight Lt.)</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>12758</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -203,7 +207,10 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Flying Officer W. R.</Forenames>
-      <Text>, M.C., A.F.C. (granted perm. commn.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>12400</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -260,7 +267,9 @@
       <Key>Crichton</Key>
       <Title>Flight Lt.</Title>
       <Forenames>H.</Forenames>
-      <Text>. L., M.B.E. (granted perm, commn. and trd. to Stores Branch)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>11003</PageNumber>
     </MainItem>
     <SubItem>
@@ -323,7 +332,9 @@
     <MainItem>
       <Key>Cummings</Key>
       <Forenames>Flying</Forenames>
-      <Text>and Obsvr. Offr. P. H., D.F.C. (Flight Lt.)</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>12758</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -381,7 +392,9 @@
     <MainItem>
       <Key>Dalgleish</Key>
       <Forenames>Wing Comdr</Forenames>
-      <Text>. J. W. O., O.B.E. (placed on Retd. List on acc. of ill-health contracted on active service, and retains rank)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>9815</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -508,7 +521,9 @@
       <Key>Davison</Key>
       <Title>Lt. (Hon. Capt.) (actg. Capt.)</Title>
       <Forenames>J. F.</Forenames>
-      <Text>, M.C. (trd. to unempld. list)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10107</PageNumber>
     </MainItem>
     <SubItem>
@@ -546,8 +561,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>La Plane</Forenames>
+      <Key>De La</Key>
+      <Forenames>Plane</Forenames>
       <Text>, 2nd Lt. P. L. (trd. to unempld. list)</Text>
       <PageNumber>10629</PageNumber>
     </MainItem>
@@ -576,14 +591,18 @@
   <ItemGroup>
     <MainItem>
       <Key>Debenham</Key>
-      <Text>Lt. H. G. W. (trd. to unempld. list)</Text>
+      <Title>Lt.</Title>
+      <Forenames>H. G. W.</Forenames>
+      <Text>(trd. to unempld. list)</Text>
       <PageNumber>11823</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Demaine</Key>
-      <Text>2nd Lt. G. B. (trd. to unempld. list)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>G. B.</Forenames>
+      <Text>(trd. to unempld. list)</Text>
       <PageNumber>10107</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -677,7 +696,10 @@
       <Key>Donald</Key>
       <Title>Flight Lt.</Title>
       <Forenames>D. G.</Forenames>
-      <Text>, D.F.C., A.F.C. (Sqn. Leader)</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>12758</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -708,7 +730,10 @@
       </Key>
       <Title>Sqdn.</Title>
       <Forenames>Leader W. S.</Forenames>
-      <Text>, M.C., D.F.C. (granted perm. commn.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>12400</PageNumber>
     </MainItem>
     <SubItem>
@@ -730,7 +755,9 @@
       <Key>Draper</Key>
       <Title>Sqdn.</Title>
       <Forenames>Leader C</Forenames>
-      <Text>, D.S.C. (granted short serv. commn.)</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>9815</PageNumber>
     </MainItem>
   </ItemGroup>

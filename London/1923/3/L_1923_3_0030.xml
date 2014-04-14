@@ -24,8 +24,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>John, S. B. M</Text>
+      <Key>St. John</Key>
+      <Forenames>S. B. M</Forenames>
       <PageNumber>5844</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -614,7 +614,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Straker</Key>
-      <Text>R</Text>
+      <Forenames>R.</Forenames>
       <PageNumber>6277</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -777,8 +777,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Taylor</Key>
-      <Forenames>E. A. P.</Forenames>
-      <Text>von S</Text>
+      <Forenames>E. A. P. von S</Forenames>
       <PageNumber>6055</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -888,7 +887,9 @@
         <KeyDitto>___ ___ ___ .</KeyDitto>
       </Key>
       <Forenames>P.</Forenames>
-      <Text>(Essex Coast. Bt., li.G.A.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>5137</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1025,7 +1026,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Townell</Key>
-      <Text>S. H</Text>
+      <Forenames>S. H</Forenames>
       <PageNumber>5137</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1126,9 +1127,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Millingen</Forenames>
-      <Text>, E. F. M</Text>
+      <Key>Van Millingen</Key>
+      <Forenames>E. F. M.</Forenames>
       <PageNumber>4924</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1458,8 +1458,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wellesley-Wesley</Key>
-      <Forenames>C. M. St</Forenames>
-      <Text>. M</Text>
+      <Forenames>C. M. St. M</Forenames>
       <PageNumber>6498</PageNumber>
     </MainItem>
   </ItemGroup>

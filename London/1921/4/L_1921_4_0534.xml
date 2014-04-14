@@ -18,8 +18,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hewett</Key>
-      <Forenames>J. P. B. O</Forenames>
-      <Text>'C</Text>
+      <Forenames>J. P. B. O'C</Forenames>
       <PageNumber>8104</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -173,8 +172,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mellor</Key>
-      <Forenames>L. A. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>L. A. St. J</Forenames>
       <PageNumber>10026</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -210,7 +208,9 @@
     <MainItem>
       <Key>Mulroney</Key>
       <Forenames>V.</Forenames>
-      <Text>, M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>7891</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -226,14 +226,16 @@
     <MainItem>
       <Key>Norrish</Key>
       <Forenames>F.</Forenames>
-      <Text>, M.C. (corr. of description)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7892</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donnell, F. G</Text>
+      <Key>O'Donnell</Key>
+      <Forenames>F. G</Forenames>
       <PageNumber>7766</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -366,8 +368,11 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. Ruth, G. H. B., M.C</Text>
+      <Key>St. Ruth</Key>
+      <Forenames>G. H. B.</Forenames>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>9059</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -644,7 +649,10 @@
     <MainItem>
       <Key>Pitman</Key>
       <Forenames>C. R. L.</Forenames>
-      <Text>, D.S.O., M.C.(resigns)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8294</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -692,7 +700,9 @@
     <MainItem>
       <Key>Thacker</Key>
       <Forenames>N.</Forenames>
-      <Text>, M.C. (and granted rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10027</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -726,7 +736,9 @@
     <MainItem>
       <Key>Guthrie</Key>
       <Forenames>A.</Forenames>
-      <Text>, M.B.E. (and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>9785</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -742,7 +754,9 @@
     <MainItem>
       <Key>Puech</Key>
       <Forenames>A. G.</Forenames>
-      <Text>, O.B.E., V.D. (and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>9785</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -758,7 +772,9 @@
     <MainItem>
       <Key>Tedman</Key>
       <Forenames>C</Forenames>
-      <Text>, M.C. (and retains .rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9785</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -861,7 +877,9 @@
       <Key>Crooke</Key>
       <Title>Lt.</Title>
       <Forenames>F. W. M.</Forenames>
-      <Text>, M.M. (rel. actg. rank, on ceasing to be Adjt.) ..'</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>8105</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -989,7 +1007,9 @@
       <Key>Mauld</Key>
       <Title>Lt.</Title>
       <Forenames>B. S.</Forenames>
-      <Text>, M.C. (rel. actg. rank on ceasing to comd. a Co.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7892</PageNumber>
     </MainItem>
   </ItemGroup>

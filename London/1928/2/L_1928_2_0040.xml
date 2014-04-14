@@ -385,8 +385,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Horgan</Key>
-      <Forenames>M. O</Forenames>
-      <Text>'C</Text>
+      <Forenames>M. O'C</Forenames>
       <PageNumber>4414</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -482,7 +481,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hue-Williams</Key>
-      <Text>R. G</Text>
+      <Forenames>R. G.</Forenames>
       <PageNumber>3948</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -639,8 +638,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Johnston</Key>
-      <Forenames>I. St</Forenames>
-      <Text>. J. L</Text>
+      <Forenames>I. St. J</Forenames>
+      <Text>. L</Text>
       <PageNumber>3656</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -929,7 +928,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Leslie</Key>
-      <Text>W</Text>
+      <Forenames>W.</Forenames>
       <PageNumber>3656</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1309,8 +1308,7 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Forenames>W.</Forenames>
-      <Text>de G</Text>
+      <Forenames>W. de G</Forenames>
       <PageNumber>2637</PageNumber>
       <PageNumber>2816</PageNumber>
       <PageNumber>3949</PageNumber>
@@ -1536,7 +1534,9 @@
       <Key>Monro</Key>
       <Title>Sir</Title>
       <Forenames>C. C</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>2903</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1791,8 +1791,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, F. J</Text>
+      <Key>O'Brien</Key>
+      <Forenames>F. J .</Forenames>
       <PageNumber>3735</PageNumber>
     </MainItem>
   </ItemGroup>

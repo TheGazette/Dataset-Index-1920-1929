@@ -22,7 +22,9 @@
       <Key>Lee</Key>
       <Title>the Hon.</Title>
       <Forenames>Walter Henry</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>12592</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -63,7 +65,9 @@
     <MainItem>
       <Key>Lepe</Key>
       <Forenames>Rachel Cicely</Forenames>
-      <Text>, The Lady Forster of, Lady of Grace, St. John of Jerusalem</Text>
+      <Text>
+        <Honour>Lady of Grace, St. John of Jerusalem</Honour>
+      </Text>
       <PageNumber>11793</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -71,7 +75,9 @@
     <MainItem>
       <Key>Lewis</Key>
       <Forenames>Ernest Harry</Forenames>
-      <Text>, M.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>10098</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -109,7 +115,9 @@
     <MainItem>
       <Key>Ley</Key>
       <Forenames>Henry James</Forenames>
-      <Text>, M.D., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>10612</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -117,7 +125,9 @@
     <MainItem>
       <Key>Light</Key>
       <Forenames>Edgar William</Forenames>
-      <Text>, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>11557</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -140,7 +150,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Lindsay</Key>
-      <Text>^ The Hon. Ronald . Charles, C.V.O., H.M. Minister Plenipotentiary to the French Eepublio</Text>
+      <Text>
+        <Honour>C.V.O.</Honour>
+      </Text>
       <PageNumber>9886</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -165,8 +177,13 @@
   <ItemGroup>
     <MainItem>
       <Key>Liverpool</Key>
-      <Forenames>The Eight</Forenames>
-      <Text>Hon. Sir Arthur William De Brito Savile, Earl of, G.C.M.G., G.B.E., M.V.O., Knight : Grand Cross, Order of the Bath</Text>
+      <Title>The</Title>
+      <Forenames>Eight</Forenames>
+      <Text>
+        <Honour>G.C.M.G.</Honour>
+        <Honour>G.B.E.</Honour>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>10095</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -174,7 +191,11 @@
     <MainItem>
       <Key>Lloyfd</Key>
       <Title>Brig.</Title>
-      <Text>-Ge-n. Herbeitfb William, C.B., C.M.G.. D.S.O., Commander, Eoyal Victorian Order</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>9987</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -217,7 +238,9 @@
     <MainItem>
       <Key>Low</Key>
       <Forenames>John Spencer</Forenames>
-      <Text>, B.Sc , MB Ch.B., D.P.H., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>MB</Honour>
+      </Text>
       <PageNumber>11556</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -226,7 +249,10 @@
       <Key>Luoan</Key>
       <Title>Hon. Brig.-Gen. Sir</Title>
       <Forenames>George Charles</Forenames>
-      <Text>, Earl of, K.B E C.B., A.D.C., Lord-in: Waiting in Ordinary to H.M. the King</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>A.D.C.</Honour>
+      </Text>
       <PageNumber>11103</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -234,7 +260,9 @@
     <MainItem>
       <Key>Lucas-Tooth</Key>
       <Forenames>Hugh Vere Huntly Duff</Forenames>
-      <Text>, created Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>12190</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -257,7 +285,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lyall</Key>
-      <Text>Beatrix Margaret, Mrs Commander, Order of the British Empire</Text>
+      <Forenames>Beatrix Margaret</Forenames>
+      <Text>, Mrs Commander, Order of the British Empire</Text>
       <PageNumber>11556</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -299,7 +328,9 @@
     <MainItem>
       <Key>McBeath</Key>
       <Forenames>William George</Forenames>
-      <Text>, C.B.E., Knight Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>10095</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -384,7 +415,9 @@
       <Key>Mackay</Key>
       <Title>Maj.-Gen. the Hon.</Title>
       <Forenames>James Alexander Kenneth</Forenames>
-      <Text>, C.B., V.D., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>10096</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -441,7 +474,9 @@
     <MainItem>
       <Key>McVilly</Key>
       <Forenames>Richard William</Forenames>
-      <Text>, Member, 4th CI., Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>9987</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -449,7 +484,9 @@
     <MainItem>
       <Key>Madge</Key>
       <Forenames>Henry Ashley</Forenames>
-      <Text>, O.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>11556</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -484,7 +521,9 @@
       <Key>Manifold</Key>
       <Title>The Hon.</Title>
       <Forenames>Walter Synnot</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>12592</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -502,7 +541,11 @@
       <Key>Mansel-Jonos</Key>
       <Title>Col.</Title>
       <Forenames>Conwyn</Forenames>
-      <Text>, V.C., C.M.G., D.S.O., appointed to H.M. Body Guard of the Honourable Corps of Gentlemen-at-Arms</Text>
+      <Text>
+        <Honour>V.C.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>12292</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -556,7 +599,9 @@
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Maule</Forenames>
-      <Text>, Capt. William Harry Fowke, D.S.O., Member, Order of the British Empire 10166-Medcalf, William Harald, Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>10612</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -581,7 +626,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Mercer</Key>
-      <Text>SirWilliam Hepworth, K.C.M.G., Crown Agent for the Colonies</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+      </Text>
       <PageNumber>12053</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -614,7 +661,11 @@
       <Key>Milne</Key>
       <Title>Gen. Sir</Title>
       <Forenames>George Francis</Forenames>
-      <Text>, G. C.M.G., K.C.B., D.S.O. (Lieutenant of the Tower of London)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>K.C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>12394</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -633,7 +684,9 @@
       <Key>Milner</Key>
       <Title>Engr. Comdr.</Title>
       <Forenames>John Wil-</Forenames>
-      <Text>liam, Member, 4th CI., Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>9987</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -641,7 +694,9 @@
     <MainItem>
       <Key>Mir</Key>
       <Forenames>Jafar Khan</Forenames>
-      <Text>, Sardar Bahadur, I.O.M., Hon. Capt., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.M.</Honour>
+      </Text>
       <PageNumber>10167</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -684,7 +739,9 @@
     <MainItem>
       <Key>Mollison</Key>
       <Forenames>William Mayhew</Forenames>
-      <Text>, M.A., M.Ch., F.R.C.S., Commander, .Order of the British Empire</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>11556</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -692,7 +749,9 @@
     <MainItem>
       <Key>Montgomery</Key>
       <Forenames>Charles Hubert</Forenames>
-      <Text>, C.B., C.V.O.j Vice-Marshal of the Diplomatic Corps in H.M. Royal Household</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>9988</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -807,7 +866,9 @@
     <MainItem>
       <Key>Mountbatten</Key>
       <Title>Sub-Lt</Title>
-      <Text>. the Lord Louis Francis Albert Victor ' Nicholas, Member, 5th CI., Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>9987</PageNumber>
     </MainItem>
   </ItemGroup>

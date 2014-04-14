@@ -13,7 +13,9 @@
     <MainItem>
       <Key>Jarrett</Key>
       <Forenames>George William Symonds</Forenames>
-      <Text>, M.P., County of Kent, Dartford Division</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>8705</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -21,7 +23,9 @@
     <MainItem>
       <Key>Jenkins</Key>
       <Forenames>William</Forenames>
-      <Text>, M.P., County of Glamorgan, Neath Division</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>8705</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -31,7 +35,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>William Albert</Forenames>
-      <Text>, M.P., County of Brecon and Radnor,</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>8703</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -39,7 +45,9 @@
     <MainItem>
       <Key>Jephcott</Key>
       <Forenames>Alfred Roger</Forenames>
-      <Text>, M.P., Borough of Birmingham, Yardley Division</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>8702</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -55,12 +63,16 @@
     <MainItem>
       <Key>Jodrell</Key>
       <Forenames>Neville Paul</Forenames>
-      <Text>, M.P., Knighthood conferred on</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>8016</PageNumber>
       <PageNumber>9029</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>M.P., County of Norfolk, King's Lynn Division</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>8708</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -68,7 +80,9 @@
     <MainItem>
       <Key>John</Key>
       <Forenames>William</Forenames>
-      <Text>, M.P., Borough of Rhdndda, West Division</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>8709</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -77,7 +91,9 @@
       <Key>Johnson</Key>
       <Title>Sir</Title>
       <Forenames>Louis Stanley</Forenames>
-      <Text>, Kt., M.P., Borough of Walthamstow, East Division</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>8711</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -85,7 +101,9 @@
     <MainItem>
       <Key>Johnston</Key>
       <Forenames>Thomas</Forenames>
-      <Text>, M.P., County of Stirling and Clackmannan, Western Division</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>8713</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -103,7 +121,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Henry Haydn</Forenames>
-      <Text>, M.P., County of Merioneth</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>8707</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -115,7 +135,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>John Joseph</Forenames>
-      <Text>, M.P., Borough of West Ham, Silvertown Division</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>8711</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -125,7 +147,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Morgan</Forenames>
-      <Text>, M.P., County of Glamorgan, Caerphilly Division</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>8705</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -135,7 +159,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Robert Thomas</Forenames>
-      <Text>, M.P., County of Carnarvon</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>8703</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -145,7 +171,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Thomas Isaac Mardy-</Forenames>
-      <Text>, see Mardy-Jones, Thomas Isaac. Jowett, Frederick William, M.P., Borough of Bradford, East Division</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>8702</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -164,7 +192,9 @@
     <MainItem>
       <Key>Jowitt</Key>
       <Forenames>William Allen</Forenames>
-      <Text>, K.C., M.P., The Hartlepools</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>8705</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -173,7 +203,10 @@
       <Key>Joynspn-Hicks</Key>
       <Title>Sir</Title>
       <Forenames>William</Forenames>
-      <Text>, Bt., M.P., County of Middlesex, Twickenham Division</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>8708</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -182,7 +215,10 @@
       <Key>Kearsley</Key>
       <Title>Col. (Hon. Brig.-Gen.)</Title>
       <Forenames>Robert Harvey</Forenames>
-      <Text>, C.M.G., D.S.O.,. H.M. Body Guard of the. Hon. Corps of Gentlemenat-Arms</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8951</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -190,7 +226,11 @@
     <MainItem>
       <Key>Keith-Murray</Key>
       <Forenames>Mason</Forenames>
-      <Text>, Lt.-Col. Glyn, D.S.O., see Mason, Lt.Col. Glyn Keith-Murray, D.S.O. Kelley, Frederic Arthur, M.P., Rotherham</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>8709</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -207,7 +247,9 @@
       <Key>Kennedy</Key>
       <Title>Capt.</Title>
       <Forenames>Myles Storr Nigel</Forenames>
-      <Text>, M.P., County of Lancaster, Lonsdale Division</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>8705</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -224,7 +266,9 @@
     <MainItem>
       <Key>Kenvon</Key>
       <Forenames>Barnet</Forenames>
-      <Text>, M.P., County of Derby, Chesterfield Division</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>8704</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -233,7 +277,9 @@
       <Key>Kerr</Key>
       <Title>Sir</Title>
       <Forenames>John Henry</Forenames>
-      <Text>, K.C.I.E., C.S.I., I.C.S., Governor of Assam</Text>
+      <Text>
+        <Honour>K.C.I.E.</Honour>
+      </Text>
       <PageNumber>7135</PageNumber>
     </MainItem>
     <SubItem>
@@ -252,7 +298,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Khan</Key>
-      <Text>.Sahib Mahmud Khan, H.M. Consul at Kandahar</Text>
+      <Forenames>Sahib Mahmud Khan</Forenames>
+      <Text>, H.M. Consul at Kandahar</Text>
       <PageNumber>7281</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -277,18 +324,27 @@
     <MainItem>
       <Key>King</Key>
       <Forenames>Henry Douglas</Forenames>
-      <Text>, C.B.E., D.S.O., M.P., Lord Commissioner of the Treasury</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>8793</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>M.P., Borough of Paddington, South Division</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>8709</PageNumber>
     </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Kinloch</Key>
-      <Text>Cooke, Sir Clement, K.B.E., M.P., Borough of Plymouth, Devonport Division</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>8709</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -296,7 +352,9 @@
     <MainItem>
       <Key>Kirkwood</Key>
       <Forenames>David</Forenames>
-      <Text>, M.P., Burghs of Dumbarton District</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>8712</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -312,14 +370,20 @@
     <MainItem>
       <Key>Lamb</Key>
       <Forenames>Joseph Quinton</Forenames>
-      <Text>, M.P., County of Stafford, Stone Division</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>8710</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Lambert</Key>
-      <Text>. Rt. Hon. George, M.P., County of Devon, South Molton Division</Text>
+      <Title>Rt. Hon.</Title>
+      <Forenames>George</Forenames>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>8704</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -337,19 +401,25 @@
     <MainItem>
       <Key>Lansbury</Key>
       <Forenames>George</Forenames>
-      <Text>, M.P., Borough of Poplar, Bow and Bromley Division</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>8709</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Law</Key>
-      <Text>. Rt. Hon. Andrew Bonar, First Lord of the Treasury</Text>
+      <Title>Rt. Hon.</Title>
+      <Forenames>Andrew Bonar</Forenames>
+      <Text>, First Lord of the Treasury</Text>
       <PageNumber>7527</PageNumber>
       <PageNumber>7531</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>M.P., Burgh of Glasgow, Central Division</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>8713</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -357,7 +427,9 @@
     <MainItem>
       <Key>Lawson</Key>
       <Forenames>John James</Forenames>
-      <Text>, M.P., County of Durham, Chester-le-Street Division</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>8704</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -382,7 +454,9 @@
     <MainItem>
       <Key>Lee</Key>
       <Forenames>Frank</Forenames>
-      <Text>, M.P., County of Derby, North-eastern Division</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>8704</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -392,14 +466,19 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Gordon Ambrose</Forenames>
-      <Text>de Lisle, C.B., Norroy King of Arms and Principal Herald of the North part of England</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>9162</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Lee</Key>
-      <Text>of Fareham, Rt. Hon. Arthur Hamilton, Baron, G.B.E., K.C.B., Viscountcy conferred on</Text>
+      <Text>
+        <Honour>G.B.E.</Honour>
+        <Honour>K.C.B.</Honour>
+      </Text>
       <PageNumber>8015</PageNumber>
     </MainItem>
     <SubItem>
@@ -411,7 +490,9 @@
     <MainItem>
       <Key>Lees-Smith</Key>
       <Forenames>Hastings Bertrand</Forenames>
-      <Text>, M.P., Countv of York, West Riding, Keighley Division</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>8712</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -420,7 +501,10 @@
       <Key>Leigh</Key>
       <Title>Sir</Title>
       <Forenames>John</Forenames>
-      <Text>, Bt., M.P., Borough of Wandsworth Clapham Division</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>8711</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -429,7 +513,12 @@
       <Key>Leslie</Key>
       <Title>Col. (temp. Maj.-Gen.)</Title>
       <Forenames>Walter Stewart</Forenames>
-      <Text>, C.B., C.M.G., D.S.O., A.D.C., Knight Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>A.D.C.</Honour>
+      </Text>
       <PageNumber>8950</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -438,7 +527,10 @@
       <Key>Lever</Key>
       <Title>Sir</Title>
       <Forenames>Arthur Levy</Forenames>
-      <Text>, Bt., M.P., Borough of Hackney, Central Division</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>8705</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -483,7 +575,9 @@
         <KeyDitto>___ —— ___ ___</KeyDitto>
       </Key>
       <Forenames>Thomas Arthur</Forenames>
-      <Text>, M.P., University of Wales</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>8710</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -492,7 +586,9 @@
       <Key>Lickman</Key>
       <Title>Capt. (actg. Maj.)</Title>
       <Forenames>Harry Svlvanus</Forenames>
-      <Text>, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>8955</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -508,7 +604,9 @@
     <MainItem>
       <Key>Linfield</Key>
       <Forenames>Frederick Caesar</Forenames>
-      <Text>, M.P., County of Bedford, Mid Division</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>8702</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -516,7 +614,9 @@
     <MainItem>
       <Key>Llovd</Key>
       <Forenames>Cyril Edward</Forenames>
-      <Text>, M.P., Dudley</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>8704</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -524,7 +624,9 @@
     <MainItem>
       <Key>Lloyd</Key>
       <Forenames>George</Forenames>
-      <Text>, Gwilym, M.P., County of Pembroke</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>8709</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -533,7 +635,9 @@
       <Key>Lloyd-Greame</Key>
       <Title>Rt. Hon. Sir</Title>
       <Forenames>Philip</Forenames>
-      <Text>, M.P., County of Middlesex, Hendon Division</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>8708</PageNumber>
     </MainItem>
     <SubItem>
@@ -561,7 +665,10 @@
       </Key>
       <Title>Col. (temp. Col. Comdt.)</Title>
       <Forenames>Gran-</Forenames>
-      <Text>villeGeorge, C.M.G.,D.S.O., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8950</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -569,11 +676,15 @@
     <MainItem>
       <Key>Locker-Lampson</Key>
       <Forenames>Godfrey Lampson Tennyson</Forenames>
-      <Text>, M.P., Charity Commissioner for England and Wales</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>8410</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>M.P., County of Middlesex, Wood Green Division</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>8708</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -584,14 +695,19 @@
       </Key>
       <Title>Cdr.</Title>
       <Forenames>Oliver Stillingfleet</Forenames>
-      <Text>, C.M:G., D.S.O., M.P., Borough of Birmingham, Handsworth Division</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>8702</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Lort</Key>
-      <Text>Williams, John Rolleston, Greaves-Lord, Walter, K.C. Lorden, John William, M.P., Borough of St. Pancras, North Division</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>8709</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -599,14 +715,18 @@
     <MainItem>
       <Key>Lorimer</Key>
       <Forenames>Henry Dubs</Forenames>
-      <Text>, M.P., County of Derby, Southern Division</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>8704</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Lort</Key>
-      <Text>Williams, John Rolleston, K.C., M.P.., Borough of Bermondsey,. Rotherhithe Division</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>8702</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -623,7 +743,9 @@
       <Key>Low</Key>
       <Title>Maj.</Title>
       <Forenames>Gordon Steuart</Forenames>
-      <Text>, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>8955</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -632,7 +754,10 @@
       <Key>Lowe</Key>
       <Title>Sir</Title>
       <Forenames>Francis William</Forenames>
-      <Text>, Bt., M.P., Borough of Birmingham, Edgbaston Division</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>8702</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -640,7 +765,9 @@
     <MainItem>
       <Key>Lowth</Key>
       <Forenames>Thomas</Forenames>
-      <Text>, M.P., Borough of Manchester, Ardwick Division</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>8707</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -648,7 +775,9 @@
     <MainItem>
       <Key>Loyd</Key>
       <Forenames>Arthur Thomas</Forenames>
-      <Text>, M.P., County of Berkshire, Abingdon Division</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>8702</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -657,7 +786,11 @@
       <Key>Lucan</Key>
       <Title>Brig.-Gen.</Title>
       <Forenames>George Charles</Forenames>
-      <Text>, Earl of, K.B.E., C.B., A.D.C., Lord in Waiting in Ordinary to His Majesty</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>A.D.C.</Honour>
+      </Text>
       <PageNumber>8292</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -665,21 +798,28 @@
     <MainItem>
       <Key>Lumley</Key>
       <Forenames>Laurence Roger</Forenames>
-      <Text>, M.P., Borough of Kingston-uponHull. East Division</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>8706</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Lunn</Key>
-      <Text>. William, M.P., County of York, West Riding, Rothwell Division</Text>
+      <Forenames>William</Forenames>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>8712</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Lyle</Key>
-      <Text>Samuel. Alexander, M.P., County of East Suffolk, Eye Division</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>8710</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -687,7 +827,9 @@
     <MainItem>
       <Key>Lynn</Key>
       <Forenames>Robert John</Forenames>
-      <Text>, M.P.. Borough of Belfast, West Belfast Division</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>8713</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -695,7 +837,9 @@
     <MainItem>
       <Key>McConnell</Key>
       <Forenames>Thomas Edward</Forenames>
-      <Text>, M.P., Borough of Belfast, North Belfast</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>8713</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -704,7 +848,9 @@
       <Key>McCurdv</Key>
       <Title>Rt. Hon.</Title>
       <Forenames>Charles Albert</Forenames>
-      <Text>, M.P., Borough of Northampton</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>8708</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -712,7 +858,9 @@
     <MainItem>
       <Key>Macdonald</Key>
       <Forenames>James Ramsay</Forenames>
-      <Text>, M.P.,. County of Glamorgan, Aberavon Division</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>8705</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -723,7 +871,11 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>Murdoch</Forenames>
-      <Text>, K.C.M.G., C.B., M.P., County of Inverness, Ross and Cromarty, Inverness Division</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>8713</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -731,7 +883,9 @@
     <MainItem>
       <Key>McEntee</Key>
       <Forenames>Valentine La Touche</Forenames>
-      <Text>, M.P., Borough of Walthamstow, West Division</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>8711</PageNumber>
     </MainItem>
   </ItemGroup>

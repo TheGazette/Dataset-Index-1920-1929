@@ -266,7 +266,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cowell</Key>
-      <Forenames>Susan</Forenames>
+      <Title>Susan .</Title>
       <PageNumber>5395</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -350,7 +350,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cruickshank</Key>
-      <Forenames>Helen</Forenames>
+      <Title>Helen .</Title>
       <PageNumber>6275</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -538,10 +538,24 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Title>Montbron.</Title>
+      <Key>de Graffenried</Key>
+      <Forenames>Mary Clare</Forenames>
+      <PageNumber>6269</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Montbron</Key>
       <Forenames>Comte Etienne</Forenames>
       <PageNumber>5825</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Winton</Key>
+      <Title>Mrs.</Title>
+      <Forenames>Florence Rose</Forenames>
+      <PageNumber>6488</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -582,7 +596,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dearlove</Key>
-      <Text>. John Thomas</Text>
+      <Forenames>John Thomas</Forenames>
       <PageNumber>5563</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -698,8 +712,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Sarah</Forenames>
-      <Text>... '</Text>
+      <Title>Sarah .</Title>
+      <Text>.. '</Text>
       <PageNumber>6049</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -777,7 +791,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Driver</Key>
-      <Forenames>George</Forenames>
+      <Title>George .</Title>
       <PageNumber>5479</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -980,7 +994,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Elsworth</Key>
-      <Text>. George Thomas Stuart</Text>
+      <Forenames>George Thomas Stuart</Forenames>
       <PageNumber>6351</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1075,7 +1089,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ewart</Key>
-      <Forenames>Barbara</Forenames>
+      <Title>Barbara .</Title>
       <PageNumber>5395</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1119,7 +1133,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fisher</Key>
-      <Text>. Ann (formerlv Horridge)</Text>
+      <Forenames>Ann</Forenames>
+      <Text>(formerlv Horridge)</Text>
       <PageNumber>6421</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1173,7 +1188,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Forshaw</Key>
-      <Text>. John</Text>
+      <Forenames>John</Forenames>
       <PageNumber>5319</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1196,14 +1211,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Fortescue</Key>
-      <Text>. Charles</Text>
+      <Forenames>Charles</Forenames>
       <PageNumber>5316</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Foster</Key>
-      <Text>. Herbert Josiah</Text>
+      <Forenames>Herbert Josiah</Forenames>
       <PageNumber>5242</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1826,7 +1841,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hambrough</Key>
-      <Text>. Albert Fitzroy</Text>
+      <Forenames>Albert Fitzroy</Forenames>
       <PageNumber>6542</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1889,7 +1904,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Harris</Key>
-      <Text>. Mrs. Alice</Text>
+      <Title>Mrs.</Title>
+      <Forenames>Alice</Forenames>
       <PageNumber>5661</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -36,7 +36,9 @@
       <Key>Pridham</Key>
       <Title>Capt.</Title>
       <Forenames>R. P.</Forenames>
-      <Text>, M.C. (resigns commn. and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>66</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -54,7 +56,9 @@
       <Key>Proud</Key>
       <Title>Lt.</Title>
       <Forenames>F.</Forenames>
-      <Text>, M.C. (Lt., Gen, List, for service with Royal (Dick) Vet. Coll. Cont., Sen. Div., O.T.C., late R.F.A) ... U</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>67</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -90,7 +94,12 @@
       <Key>Purves</Key>
       <Title>Maj.</Title>
       <Forenames>R. B.</Forenames>
-      <Text>, D.S.O., M.B., F.R.C.S., T.D., (Lt.-Col., T.A. Res., Gen. List, R.A.M.C., from Gen. List)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>F.R.C.S.</Honour>
+        <Honour>T.D.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>810</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -126,7 +135,9 @@
       <Key>Rainforth</Key>
       <Title>Capt.</Title>
       <Forenames>J. J.</Forenames>
-      <Text>, M.B., F.R.C.S. (rel. commn. and granted rank of Maj.)</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>1412</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -153,7 +164,9 @@
       <Key>Rammell</Key>
       <Title>Capt.</Title>
       <Forenames>J. W.</Forenames>
-      <Text>, M.C. (rel. commn. and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1305</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -162,7 +175,9 @@
       <Key>Ramsay</Key>
       <Title>Maj.</Title>
       <Forenames>A. M.</Forenames>
-      <Text>, M.D. (is retired, having attained age limit, and retains rank of Maj.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>2169</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -171,7 +186,10 @@
       <Key>Ramsbottom</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>G. O.</Forenames>
-      <Text>, D.S.O. (Bt. Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>532</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -222,7 +240,9 @@
       <Key>Rawling</Key>
       <Title>Maj.</Title>
       <Forenames>L. B.</Forenames>
-      <Text>, M.B., F.R.C.S. (is retired, having attained age limit, and retains rank of Maj.)</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>306</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -259,7 +279,10 @@
       </Key>
       <Title>Capt. Sir</Title>
       <Forenames>A. D.</Forenames>
-      <Text>, K.B.E., C.M.G. (is retired, having attained p.gc Limit, and granted rank of Lt.-Col.)</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>381</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -270,7 +293,11 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>A.</Forenames>
-      <Text>.VV., F.R.C.V.S., T.D. (Capt., R.A.V.C., late R.A.V.C., T.F.), Sub. Not</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+        <Honour>V.C.</Honour>
+        <Honour>V.C.</Honour>
+      </Text>
       <PageNumber>1074</PageNumber>
     </MainItem>
     <SubItem>
@@ -296,7 +323,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>J. L.</Forenames>
-      <Text>, M.C. (Maj., T.A. Res., Regtl. List^ 5th Bn., Green Howards, from Active List)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>809</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -360,7 +389,10 @@
       <Key>Rennet</Key>
       <Title>Maj. (Bt. Lt.-Col.)</Title>
       <Forenames>D.</Forenames>
-      <Text>, M.B.E., M.D. (is retired, having attained age limit, and retains rank)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>1995</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -396,11 +428,15 @@
       <Key>Reynolds</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>L. L. C</Forenames>
-      <Text>, D.S.O., T.D. (Lt.-Col., T.A. Res., Regtl. List, Inf., Bucks Bn., Oxf. and Bucks iL.I., from Active List)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>66</PageNumber>
     </MainItem>
     <SubItem>
       <Text>
+        <Honour>T.D.</Honour>
         <PageNumber>2241</PageNumber>
       </Text>
       <PageNumber>2241</PageNumber>
@@ -409,7 +445,12 @@
   <ItemGroup>
     <MainItem>
       <Key>Rich</Key>
-      <Text>. Maj. (Hon. Lt, in Army) T., O.B.E., T.D., A.M.I.E.E. (rel. commn. and retains rank of Maj., with permission to wear prescribed uniform)</Text>
+      <Title>Maj. (Hon. Lt, in Army)</Title>
+      <Forenames>T.</Forenames>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>1156</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -417,7 +458,9 @@
     <MainItem>
       <Key>Richards</Key>
       <Forenames>Capt</Forenames>
-      <Text>, E. D. (Capt., T.A. Res., Gen. List, R.A.M.C., from Gen. List)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2241</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -448,7 +491,9 @@
       <Key>Richardson</Key>
       <Title>Capt.</Title>
       <Forenames>A.</Forenames>
-      <Text>, M.B., F.R.C.S. (rel. commn. and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>1157</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -484,7 +529,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>R. L. T.</Forenames>
-      <Text>, M.C. (trd. to T.A. Res., Regtl. List, 7/9th Bn., R. Scots, from 7th Bn., retaining rank of Lt. and precedence)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>613</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -495,7 +542,10 @@
       </Key>
       <Title>Lt.-Col.</Title>
       <Forenames>W. G.</Forenames>
-      <Text>, M.B., F.R.C.S., T.D. (is retired, having attained age Ifmit, and retains rank of Lt.-Col.)</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>457</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -513,7 +563,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Richmond</Key>
-      <Text>) Capt. A. E., O.B.E. (Divl. Adjt., R.A.M.C., Gen. List, 55th (W. Lanes.) Divh., from Schl. of Instn., and retains date of appt.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>381</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -556,7 +609,10 @@
     <MainItem>
       <Key>Rigby</Key>
       <Forenames>Capt</Forenames>
-      <Text>, (Bt. Lt.-Col.) Sir H. M., K.C.V.O., M.B., F.R.O.S. (is retired, having attained age limit, and granted rank of Col.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>K.C.V.O.</Honour>
+      </Text>
       <PageNumber>306</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -641,7 +697,10 @@
       <Key>Robertson</Key>
       <Title>Capt.</Title>
       <Forenames>A. L.</Forenames>
-      <Text>(Capt., R.A.V.C., late R.A.V.C.)</Text>
+      <Text>
+        <Honour>V.C.</Honour>
+        <Honour>V.C.</Honour>
+      </Text>
       <PageNumber>2320</PageNumber>
     </MainItem>
     <SubItem>
@@ -656,7 +715,10 @@
       </Key>
       <Title>Col.</Title>
       <Forenames>C.</Forenames>
-      <Text>McL., D.S.O.. T.D. (Hon. Col., 26th (High.) Pack Bde., R.G.A.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>65</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -678,7 +740,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>W.</Forenames>
-      <Text>, M.D. (is retired, having attained age limit, and granted rank of Lt.Col.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>1995</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -720,7 +784,10 @@
       </Key>
       <Title>Lt.-Col.</Title>
       <Forenames>T. C</Forenames>
-      <Text>, D.S.O., T.D. (Lt.-Col., T.A. Res., Regtl. . List, 4th/5th Bn., E. Lanes. R., from Active List)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>1822</PageNumber>
     </MainItem>
     <SubItem>

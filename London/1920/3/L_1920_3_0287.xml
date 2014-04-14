@@ -19,7 +19,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Whiteley</Key>
-      <Text>. Fly ins; Ottr (A) F. M. (resigns short serv. commn. and retains rank)</Text>
+      <Forenames>Fly</Forenames>
+      <Text>ins; Ottr (A) F. M. (resigns short serv. commn. and retains rank)</Text>
       <PageNumber>8092</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -411,7 +412,9 @@
       </Key>
       <Title>Flight Lt.</Title>
       <Forenames>W. F.</Forenames>
-      <Text>, M.C., M. B. (granted short serv. conimn.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7458</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -492,7 +495,7 @@
   <ItemGroup>
     <MainItem>
       <Key>W</Key>
-      <Text>.)od, 2nd (Hon. Lt.) G. O. (trd. to unempld. list)</Text>
+      <Text>)od, 2nd (Hon. Lt.) G. O. (trd. to unempld. list)</Text>
       <PageNumber>9450</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -803,7 +806,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Bute</Key>
-      <Text>: Graham, the Marquis of, C.B., C.V.O</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>7122</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -811,7 +816,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Haverfordwest</Key>
-      <Text>: Philipps, Henry Erasmus Edward, D.L., J.P</Text>
+      <Text>
+        <Honour>D.L.</Honour>
+      </Text>
       <PageNumber>8710</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -819,11 +826,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Caithness</Key>
-      <Text>: Baird, Brig. -Gen. Edward William David, C.B.E</Text>
+      <Text>
+        <Honour>C.B.E</Honour>
+      </Text>
       <PageNumber>8484</PageNumber>
     </MainItem>
     <SubItem>
       <Text>
+        <Honour>G.C.B.</Honour>
+        <Honour>K.C.M.G.</Honour>
         <PageNumber>8484</PageNumber>
         <PageNumber>8484</PageNumber>
       </Text>
@@ -837,7 +848,10 @@
       <PageNumber>8092</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Stirling, Brig.-Gen. James Wilfred, C.B., C.M.G</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G</Honour>
+      </Text>
       <PageNumber>8485</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -880,7 +894,9 @@
   <ItemGroup>
     <MainItem>
       <Key>London</Key>
-      <Text>: Gilbert, James Daniel, J.P., M.P</Text>
+      <Text>
+        <Honour>M.P</Honour>
+      </Text>
       <PageNumber>7776</PageNumber>
     </MainItem>
     <SubItem>
@@ -898,7 +914,10 @@
     </MainItem>
     <SubItem>
       <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.P.</Honour>
         <PageNumber>9450</PageNumber>
+        <Honour>C.M.G</Honour>
       </Text>
       <PageNumber>9450</PageNumber>
     </SubItem>
@@ -913,7 +932,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Wiltshire</Key>
-      <Text>: Ailesbury, The Most Hon. The Marquess of, D.S.O. .-</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7776</PageNumber>
     </MainItem>
     <SubItem>

@@ -30,8 +30,8 @@
     <MainItem>
       <Key>Stringer</Key>
       <Title>Lt.</Title>
-      <Forenames>B.</Forenames>
-      <Text>de H. (retirement)</Text>
+      <Forenames>B. de H</Forenames>
+      <Text>. (retirement)</Text>
       <PageNumber>308</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -40,7 +40,9 @@
       <Key>Strong</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>A. D.</Forenames>
-      <Text>, D.S.O. (retirement)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>2077</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -48,7 +50,9 @@
     <MainItem>
       <Key>Sutcliffe</Key>
       <Forenames>Capt O. D.</Forenames>
-      <Text>, M.C., (retirement)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>308</PageNumber>
     </MainItem>
     <SubItem>
@@ -152,7 +156,9 @@
       <Key>Thomas</Key>
       <Title>Capt.</Title>
       <Forenames>L. C</Forenames>
-      <Text>, M.C. (rel. temp, commn. on appt. to commn. in Reg. Army)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2242</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -228,7 +234,9 @@
     <MainItem>
       <Key>Tikka</Key>
       <Title>Khan. Bahadur.</Title>
-      <Text>s I.O.M., Snbadar-Maj. (Hon. Lt.)</Text>
+      <Text>
+        <Honour>O.M.</Honour>
+      </Text>
       <PageNumber>1000</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -270,7 +278,9 @@
     <MainItem>
       <Key>Toovey</Key>
       <Forenames>Cecil Wooton</Forenames>
-      <Text>, M.C. (promotion to Capt. antedated)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>999</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -362,7 +372,9 @@
       <Key>Tnngate</Key>
       <Title>2nd Lt.</Title>
       <Forenames>W. C</Forenames>
-      <Text>,M.C. (Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1307</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -434,7 +446,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Tyndall</Key>
-      <Text>.Maj. (now Lt.-Col.) H. S. D.S.O. (actg. Lt.Col. while comdg. a Bn.)</Text>
+      <Title>Maj. (now Lt.-Col.)</Title>
+      <Forenames>H. S.</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1915</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -443,7 +459,9 @@
       <Key>Tyrrell</Key>
       <Title>Capt. (now Lt.-Col.)</Title>
       <Forenames>A. C. L.</Forenames>
-      <Text>, O.B.E. (granted temp. rank of Maj. while holding appt. as D.A.A. and Q.M.G.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>1158</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -478,7 +496,9 @@
       <Key>Vivian</Key>
       <Title>2nd Lt.</Title>
       <Forenames>V. P. T.</Forenames>
-      <Text>, O.B.E. (resigns commn. and granted rank of Maj.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>811</PageNumber>
     </MainItem>
     <SubItem>
@@ -517,7 +537,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Lt Col</Forenames>
-      <Text>.G. K., CLE., O.B.E., F.R.C.V.S. (Col.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>617</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -526,7 +548,9 @@
       <Key>Wallace</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>E. C. L.</Forenames>
-      <Text>, D.S.O. (retirement)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>308</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -598,7 +622,9 @@
       <Key>Watson</Key>
       <Title>Maj.</Title>
       <Forenames>S. T.</Forenames>
-      <Text>, D.S.O. (actg. Lt.-Col. while comdg. a Bn.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1158</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -607,7 +633,9 @@
       <Key>Watt</Key>
       <Title>Capt.</Title>
       <Forenames>W. R.</Forenames>
-      <Text>, M.C. (retirement)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>308</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -631,7 +659,10 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>W. F. R.</Forenames>
-      <Text>, D.S.O. (Bt. Lt.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>64</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -845,7 +876,9 @@
       <Key>Wilson-Johnson</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>W. E.</Forenames>
-      <Text>, CLE.,D.S.O. (Col.), Sub. Not</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>2166</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -986,7 +1019,9 @@
     <MainItem>
       <Key>Yeld</Key>
       <Forenames>R. K.</Forenames>
-      <Text>, O.B.E. (granted rank of Maj. on retirement)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>617</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1004,7 +1039,9 @@
       <Key>Young</Key>
       <Title>Capt.</Title>
       <Forenames>J.</Forenames>
-      <Text>, M.B.E. (resigns commn., 12th May, 1922, on appt. to the Reg. Army Res. ot Officers, R.E.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>1916</PageNumber>
     </MainItem>
     <SubItem>
@@ -1085,7 +1122,9 @@
     <MainItem>
       <Key>Anaut</Key>
       <Forenames>Yashwant Dabholkar</Forenames>
-      <Text>, Capt., M.C. (grading and seniority)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>458</PageNumber>
     </MainItem>
   </ItemGroup>

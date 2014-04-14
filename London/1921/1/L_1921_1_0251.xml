@@ -4,7 +4,9 @@
     <MainItem>
       <Key>Thorn</Key>
       <Forenames>T. C</Forenames>
-      <Text>, M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>2228</PageNumber>
     </MainItem>
     <SubItem>
@@ -165,7 +167,9 @@
     <MainItem>
       <Key>Williams</Key>
       <Forenames>W. E. R.</Forenames>
-      <Text>, O.B.E., M.B., I.M.S. (temp. whilst D.AD.M.S., Advance Section L. of O, Mesopotamia)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>281</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -265,7 +269,9 @@
     <MainItem>
       <Key>Hill</Key>
       <Forenames>E. O.</Forenames>
-      <Text>, M.C. (corr. of rank)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>283</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -282,7 +288,9 @@
     <MainItem>
       <Key>Carr-White</Key>
       <Forenames>P. A.</Forenames>
-      <Text>, M.C. (resigns)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1902</PageNumber>
     </MainItem>
     <SubItem>
@@ -375,7 +383,9 @@
     <MainItem>
       <Key>Maghar</Key>
       <Forenames>Singh</Forenames>
-      <Text>, Sardar Bahadur, I.O.M., I.D.S.M</Text>
+      <Text>
+        <Honour>O.M.</Honour>
+      </Text>
       <PageNumber>2228</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -517,7 +527,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Edward</Key>
-      <Text>. W. D</Text>
+      <Forenames>W. D</Forenames>
       <PageNumber>2227</PageNumber>
     </MainItem>
     <SubItem>
@@ -633,7 +643,7 @@
       <PageNumber>2227</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Not, in Gaz. of 4 Nov., 1919, cancelled .:.</Text>
+      <Text>Not, in Gaz. of 4 Nov., 1919, cancelled .:</Text>
       <PageNumber>2227</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -722,8 +732,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Ferrall, J. L. F. (with pay and allces. of Lieut, whilst Adjt.)</Text>
+      <Key>O'Ferrall</Key>
+      <Forenames>J. L. F.</Forenames>
+      <Text>(with pay and allces. of Lieut, whilst Adjt.)</Text>
       <PageNumber>2306</PageNumber>
     </MainItem>
     <SubItem>
@@ -898,7 +909,10 @@
     <MainItem>
       <Key>Bhim</Key>
       <Forenames>Singh Thapa</Forenames>
-      <Text>, M.C., I.O.M</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>O.M</Honour>
+      </Text>
       <PageNumber>2097</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -912,8 +926,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Birnie</Key>
-      <Forenames>E. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>E. St. J</Forenames>
       <PageNumber>591</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -991,7 +1004,9 @@
     <MainItem>
       <Key>Hissam-ud-Din</Key>
       <Forenames>Bahadur</Forenames>
-      <Text>, I.D.S.M. Jehangir Rustom Hormasji Cama</Text>
+      <Text>
+        <Honour>D.S.M.</Honour>
+      </Text>
       <PageNumber>2097</PageNumber>
     </MainItem>
     <SubItem>
@@ -1079,7 +1094,9 @@
     <MainItem>
       <Key>Mit</Key>
       <Forenames>Singh</Forenames>
-      <Text>, M.C,, I.D.S.M</Text>
+      <Text>
+        <Honour>D.S.M</Honour>
+      </Text>
       <PageNumber>862</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1094,7 +1111,10 @@
     <MainItem>
       <Key>Muhammad</Key>
       <Forenames>Akhbar Khan</Forenames>
-      <Text>(temp.) Muirson, K. B. McKenzie, M.C. (see McKenzie-Muirson, K. B., M.C.) Pemberton, H. Sandys (see SandysPemberton, H.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2097</PageNumber>
     </MainItem>
   </ItemGroup>

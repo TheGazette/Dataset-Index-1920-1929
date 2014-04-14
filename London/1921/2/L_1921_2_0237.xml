@@ -52,7 +52,9 @@
     <MainItem>
       <Key>Tyrie</Key>
       <Forenames>D. A.</Forenames>
-      <Text>, V.D., A.D.C. (temp.)</Text>
+      <Text>
+        <Honour>A.D.C.</Honour>
+      </Text>
       <PageNumber>2801</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -60,7 +62,9 @@
     <MainItem>
       <Key>Walker</Key>
       <Forenames>G. K</Forenames>
-      <Text>, CLE., O.B.E</Text>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>4102</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -86,9 +90,12 @@
   <SubSectionTitle>Relinquishment of Commissions</SubSectionTitle>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Boulay</Forenames>
-      <Text>, Sir J. H., K.C.I.E., C.S.I, (and permitted to retain rank)</Text>
+      <Key>Du Boulay</Key>
+      <Title>Sir</Title>
+      <Forenames>J. H.</Forenames>
+      <Text>
+        <Honour>K.C.I.E.</Honour>
+      </Text>
       <PageNumber>2677</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -200,7 +207,9 @@
     <MainItem>
       <Key>Cox</Key>
       <Forenames>G. C. A.</Forenames>
-      <Text>, M.C., V.D</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3095</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -341,14 +350,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Kendrick</Key>
-      <Text>S. J</Text>
+      <Forenames>S. J</Forenames>
       <PageNumber>3095</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Leege</Key>
-      <Text>FC, C.B.E., V.D</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>3095</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -378,7 +389,9 @@
     <MainItem>
       <Key>Marshall</Key>
       <Forenames>G. W</Forenames>
-      <Text>, I.S.O., V.D. (and permitted to retain rank)</Text>
+      <Text>
+        <Honour>I.S.O</Honour>
+      </Text>
       <PageNumber>2677</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -423,7 +436,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Radley</Key>
-      <Text>B. V., V.D</Text>
+      <Forenames>B. V.</Forenames>
+      <Text>, V.D</Text>
       <PageNumber>3095</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -488,7 +502,9 @@
     <MainItem>
       <Key>Sidgwick</Key>
       <Forenames>C. K. D.</Forenames>
-      <Text>, D.S.O., V.D</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5019</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -496,7 +512,9 @@
     <MainItem>
       <Key>Stovold</Key>
       <Forenames>H. W.</Forenames>
-      <Text>, O.B.E. (temp.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>2801</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -729,7 +747,9 @@
     <MainItem>
       <Key>Burn</Key>
       <Forenames>E. M.</Forenames>
-      <Text>, O.B.E., V.D</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4739</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -888,7 +908,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fawcus</Key>
-      <Text>G. E. (temp.)</Text>
+      <Forenames>G. E.</Forenames>
+      <Text>(temp.)</Text>
       <PageNumber>2801</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -902,7 +923,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Flowerdew</Key>
-      <Text>S. P</Text>
+      <Forenames>S. P</Forenames>
       <PageNumber>3937</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1264,7 +1285,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>J. J.</Forenames>
-      <Text>, O.B.E., V.D</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>5142</PageNumber>
     </MainItem>
   </ItemGroup>

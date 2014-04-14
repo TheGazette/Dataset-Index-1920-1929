@@ -212,7 +212,9 @@
     <MainItem>
       <Key>Marsh</Key>
       <Forenames>B. C.</Forenames>
-      <Text>, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>6605</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -231,7 +233,10 @@
     <MainItem>
       <Key>Bolton</Key>
       <Forenames>R. E. C</Forenames>
-      <Text>, O.B.E., D.S.O</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>7313</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -259,7 +264,9 @@
     <MainItem>
       <Key>Merriman</Key>
       <Forenames>R. D.</Forenames>
-      <Text>, D.S.C. (corr. of date of promn.)</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>6604</PageNumber>
       <PageNumber>7141</PageNumber>
     </MainItem>
@@ -355,7 +362,9 @@
     <MainItem>
       <Key>Scaife</Key>
       <Forenames>Arthur Lewis</Forenames>
-      <Text>, M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>6948</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -398,8 +407,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Garniss</Key>
-      <Title>St.</Title>
-      <Forenames>John Aylmer Duff</Forenames>
+      <Forenames>St. John Aylmer Duff</Forenames>
       <PageNumber>7141</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -487,7 +495,9 @@
       <Key>Gilbert</Key>
       <Title>Capt.</Title>
       <Forenames>Thomas D.</Forenames>
-      <Text>, C.B</Text>
+      <Text>
+        <Honour>C.B</Honour>
+      </Text>
       <PageNumber>6021</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -496,7 +506,10 @@
       <Key>Hyde</Key>
       <Title>Capt.</Title>
       <Forenames>Richard</Forenames>
-      <Text>, O.B., C.B.E., M.V.O</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>M.V.O</Honour>
+      </Text>
       <PageNumber>6021</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -505,7 +518,11 @@
       <Key>Kelly</Key>
       <Title>Capt.</Title>
       <Forenames>William A. H.</Forenames>
-      <Text>, C.B., C.M.G., M.V.O. ... '</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>6021</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -514,7 +531,10 @@
       <Key>McClintock</Key>
       <Title>Capt. (Comdre., 2nd CI.)</Title>
       <Forenames>John W. L.</Forenames>
-      <Text>, C.B., D.S.O</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>6021</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -523,7 +543,9 @@
       <Key>Royds</Key>
       <Title>Capt.</Title>
       <Forenames>Percy M. R.</Forenames>
-      <Text>, C.M.G</Text>
+      <Text>
+        <Honour>C.M.G</Honour>
+      </Text>
       <PageNumber>6021</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -532,7 +554,10 @@
       <Key>Woollcombe</Key>
       <Title>Capt. (Comdre., 2nd CI.)</Title>
       <Forenames>Louis-</Forenames>
-      <Text>CS., C.B., M.V.O</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>M.V.O</Honour>
+      </Text>
       <PageNumber>6021</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -542,7 +567,9 @@
       <Key>Charlton</Key>
       <Title>Sir</Title>
       <Forenames>Edward F. P.</Forenames>
-      <Text>, K.C.M.G., C.B</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+      </Text>
       <PageNumber>5733</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -551,7 +578,9 @@
       <Key>Duff</Key>
       <Title>Sir</Title>
       <Forenames>A. L.</Forenames>
-      <Text>, K.C.B</Text>
+      <Text>
+        <Honour>K.C.B</Honour>
+      </Text>
       <PageNumber>5487</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -560,7 +589,12 @@
       <Key>Sturdee</Key>
       <Title>Sir</Title>
       <Forenames>Frederick C. Doveton</Forenames>
-      <Text>, Bart., G.C.B., K.C.M.G., C.V.O., LL.D</Text>
+      <Text>
+        <Honour>Bart</Honour>
+        <Honour>G.C.B.</Honour>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>C.V.O.</Honour>
+      </Text>
       <PageNumber>5733</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -569,7 +603,9 @@
     <MainItem>
       <Key>Allenby</Key>
       <Forenames>Reginald A.</Forenames>
-      <Text>, D.S.O., M.V.O</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5733</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -577,7 +613,9 @@
     <MainItem>
       <Key>Erskine</Key>
       <Forenames>Seymour E.</Forenames>
-      <Text>, C.B</Text>
+      <Text>
+        <Honour>C.B</Honour>
+      </Text>
       <PageNumber>5733</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -585,7 +623,10 @@
     <MainItem>
       <Key>Hutchison</Key>
       <Forenames>John</Forenames>
-      <Text>de M., C.M.G., C.V.O</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>C.V.O</Honour>
+      </Text>
       <PageNumber>5733</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -594,7 +635,10 @@
       <Key>Meux</Key>
       <Title>The Hon. Sir</Title>
       <Forenames>Hedworth</Forenames>
-      <Text>; , G.C.B., K.C.V.O</Text>
+      <Text>
+        <Honour>G.C.B.</Honour>
+        <Honour>K.C.V.O</Honour>
+      </Text>
       <PageNumber>5733</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -602,7 +646,9 @@
     <MainItem>
       <Key>Napier</Key>
       <Forenames>C. L.</Forenames>
-      <Text>, C.B</Text>
+      <Text>
+        <Honour>C.B</Honour>
+      </Text>
       <PageNumber>5487</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -611,7 +657,11 @@
       <Key>Troubridge</Key>
       <Title>Sir</Title>
       <Forenames>Ernest C. T.</Forenames>
-      <Text>, K.C.M.G., C.B., M.V.O</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>M.V.O</Honour>
+      </Text>
       <PageNumber>5487</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -621,7 +671,11 @@
       <Key>Halsey</Key>
       <Title>Sir</Title>
       <Forenames>Lionel</Forenames>
-      <Text>, G.C.V.O., K.C.M.G., C.B. .:</Text>
+      <Text>
+        <Honour>G.C.V.O.</Honour>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>5733</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -630,7 +684,9 @@
       <Key>Lambert</Key>
       <Title>Sir</Title>
       <Forenames>C. F.</Forenames>
-      <Text>, K.C.B</Text>
+      <Text>
+        <Honour>K.C.B</Honour>
+      </Text>
       <PageNumber>5486</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -639,14 +695,22 @@
       <Key>Stanley</Key>
       <Title>The Hon.</Title>
       <Forenames>V. A.</Forenames>
-      <Text>, C.B., M.V.O</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>M.V.O</Honour>
+      </Text>
       <PageNumber>5487</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Tothill</Key>
-      <Text>. Sir H. H. D., K.C.M.G., ' C.B</Text>
+      <Title>Sir</Title>
+      <Forenames>H. H. D.</Forenames>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>C.B</Honour>
+      </Text>
       <PageNumber>5486</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -655,7 +719,9 @@
     <MainItem>
       <Key>Ballard</Key>
       <Forenames>G. A.</Forenames>
-      <Text>, C.B</Text>
+      <Text>
+        <Honour>C.B</Honour>
+      </Text>
       <PageNumber>5486</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -663,7 +729,9 @@
     <MainItem>
       <Key>Carpendale</Key>
       <Forenames>Charles D.</Forenames>
-      <Text>, C.B</Text>
+      <Text>
+        <Honour>C.B</Honour>
+      </Text>
       <PageNumber>5733</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -671,7 +739,9 @@
     <MainItem>
       <Key>Church</Key>
       <Forenames>W. D.</Forenames>
-      <Text>, C.B.E</Text>
+      <Text>
+        <Honour>C.B.E</Honour>
+      </Text>
       <PageNumber>5486</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -679,7 +749,10 @@
     <MainItem>
       <Key>Dumaresq</Key>
       <Forenames>J. S.</Forenames>
-      <Text>, C.B., C.V.O., , A.D.C</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.V.O.</Honour>
+      </Text>
       <PageNumber>5486</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -695,7 +768,9 @@
     <MainItem>
       <Key>Farririgton</Key>
       <Forenames>Alexander</Forenames>
-      <Text>, C.M.G</Text>
+      <Text>
+        <Honour>C.M.G</Honour>
+      </Text>
       <PageNumber>5486</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -703,7 +778,11 @@
     <MainItem>
       <Key>Fuller</Key>
       <Forenames>Cyril T. M.</Forenames>
-      <Text>, C.B., C.M.G., ' D.S.O</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>5486</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -718,7 +797,9 @@
     <MainItem>
       <Key>Kennedy</Key>
       <Forenames>Theobald W. B.</Forenames>
-      <Text>, C.M.G</Text>
+      <Text>
+        <Honour>C.M.G</Honour>
+      </Text>
       <PageNumber>5733</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -726,14 +807,20 @@
     <MainItem>
       <Key>Powell</Key>
       <Forenames>G. B.</Forenames>
-      <Text>, C.M.G</Text>
+      <Text>
+        <Honour>C.M.G</Honour>
+      </Text>
       <PageNumber>5486</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Reeves</Key>
-      <Text>. Edward, C.B., A.D.C</Text>
+      <Forenames>Edward</Forenames>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>A.D.C</Honour>
+      </Text>
       <PageNumber>5486</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -741,7 +828,10 @@
     <MainItem>
       <Key>Waistell</Key>
       <Forenames>A. K.</Forenames>
-      <Text>, C.B., A.D.C</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>A.D.C</Honour>
+      </Text>
       <PageNumber>6487</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -750,7 +840,9 @@
     <MainItem>
       <Key>Church</Key>
       <Forenames>W. D.</Forenames>
-      <Text>, C.B.E</Text>
+      <Text>
+        <Honour>C.B.E</Honour>
+      </Text>
       <PageNumber>5486</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -758,7 +850,9 @@
     <MainItem>
       <Key>Farrington</Key>
       <Forenames>A.</Forenames>
-      <Text>, C.M.G</Text>
+      <Text>
+        <Honour>C.M.G</Honour>
+      </Text>
       <PageNumber>5486</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -799,7 +893,9 @@
     <MainItem>
       <Key>Hore</Key>
       <Title>Fred.</Title>
-      <Text>, C.B</Text>
+      <Text>
+        <Honour>C.B</Honour>
+      </Text>
       <PageNumber>7459</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -807,7 +903,9 @@
     <MainItem>
       <Key>Paul</Key>
       <Forenames>O. R.</Forenames>
-      <Text>, C.B.E. (at own request)</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>7679</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -817,7 +915,10 @@
     <MainItem>
       <Key>Share</Key>
       <Title>Payr.</Title>
-      <Text>-Capt. Sir Hamnet H., K.B.E., C.B</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+        <Honour>C.B</Honour>
+      </Text>
       <PageNumber>5358</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -826,7 +927,9 @@
     <MainItem>
       <Key>Bridges</Key>
       <Forenames>H. D.</Forenames>
-      <Text>, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>5244</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -871,7 +974,9 @@
     <MainItem>
       <Key>Mackinnon</Key>
       <Forenames>E. J. G.</Forenames>
-      <Text>, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>5244</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -879,7 +984,9 @@
     <MainItem>
       <Key>Plowden</Key>
       <Forenames>R. A. A.</Forenames>
-      <Text>, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>5244</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -893,8 +1000,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wake</Key>
-      <Title>St.</Title>
-      <Forenames>A. B.</Forenames>
+      <Title>St. A.</Title>
+      <Forenames>B.</Forenames>
       <PageNumber>5244</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1030,7 +1137,10 @@
     <MainItem>
       <Key>Bromwich</Key>
       <Forenames>G. H.</Forenames>
-      <Text>, D.S.O., O.B.E</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>5245</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1046,7 +1156,9 @@
     <MainItem>
       <Key>Smith</Key>
       <Forenames>H. F.</Forenames>
-      <Text>, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>5245</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1054,7 +1166,9 @@
     <MainItem>
       <Key>Stocker</Key>
       <Forenames>P.</Forenames>
-      <Text>, O.B.E</Text>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>5245</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1091,7 +1205,9 @@
     <MainItem>
       <Key>Bonham-Carter</Key>
       <Forenames>S. S.</Forenames>
-      <Text>, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>5245</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1114,7 +1230,10 @@
     <MainItem>
       <Key>Carter</Key>
       <Forenames>S. S. Bonham</Forenames>
-      <Text>, D.S.C, see Bonham-Carter, S. S., D.S.O. Chalmers, W. S., D.S.C</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>D.S.C</Honour>
+      </Text>
       <PageNumber>5245</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1122,7 +1241,9 @@
     <MainItem>
       <Key>Corson</Key>
       <Forenames>E. R.</Forenames>
-      <Text>, D.S.C</Text>
+      <Text>
+        <Honour>D.S.C</Honour>
+      </Text>
       <PageNumber>5245</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1143,7 +1264,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Haddon</Key>
-      <Text>. R. D. B., D.S.C</Text>
+      <Forenames>R. D. B.</Forenames>
+      <Text>
+        <Honour>D.S.C</Honour>
+      </Text>
       <PageNumber>5245</PageNumber>
     </MainItem>
   </ItemGroup>

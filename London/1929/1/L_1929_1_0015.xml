@@ -43,6 +43,15 @@
       <PageNumber>685</PageNumber>
     </MainItem>
   </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Workmen</Key>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
+      <PageNumber>1343</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <CategoryTitle>ECCLESIASTICAL APPOINTMENTS. ,</CategoryTitle>
   <ItemGroup>
     <MainItem>
@@ -55,10 +64,48 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>Batcheldor</Key>
+      <Title>Rev.</Title>
+      <Forenames>Fred</Forenames>
+      <Text>, ap. pointed to the Vicarage of , St. Mary the Virgin, Par</Text>
+      <PageNumber>1568</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Booth</Key>
+      <Title>Rev.</Title>
+      <Forenames>Herbert William</Forenames>
+      <Text>, appointed to the Vicarage of All Saints, Moxley</Text>
+      <PageNumber>313</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Elliott</Key>
+      <Forenames>R</Forenames>
+      <Text>«v. Wallace Harold, . M.A., appointed to the Canonry in the Cathedral Church of Saint Paul, London</Text>
+      <PageNumber>541</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Jenkins</Key>
+      <Title>Rev.</Title>
+      <Forenames>Claude</Forenames>
+      <Text>, M.A., D.D., presented to the Canonry in the Cathedral and Metropolitical Church of Christ in Canterbury ,</Text>
+      <PageNumber>1893</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Kay</Key>
       <Title>Rev.</Title>
       <Forenames>William</Forenames>
-      <Text>, D.S.O., M.C., M.A., presented to the vicarage of St. Mary Magdalene, Newark-onTrent</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1263</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -196,7 +243,9 @@
     <MainItem>
       <Key>Allum</Key>
       <Forenames>Horace Benjamin</Forenames>
-      <Text>, M.B.E., Officer, Order of ,, the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>1441</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -212,7 +261,9 @@
     <MainItem>
       <Key>Arbab</Key>
       <Forenames>Dost Muhammad Khan</Forenames>
-      <Text>, Khan Bahadur Nawab, O.B.E., Knight</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>1436</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -228,7 +279,9 @@
     <MainItem>
       <Key>Axmitage-Smith</Key>
       <Forenames>Sydney Armi-</Forenames>
-      <Text>tage, C.B., Knight Commander, Order of the. British Empire</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>1440</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -240,42 +293,8 @@
       <PageNumber>50</PageNumber>
     </MainItem>
   </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>Lieutenant-General</Forenames>
-      <Text>Sir Edwin Henry de Vere, K.B.E., C.B., C.M.G., CLE., Knight Commander, Order of the Bath Avice, Tristan, Officer, Order of the British Empire</Text>
-      <PageNumber>1444</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Aykroyd</Key>
-      <Forenames>Frederic Alfred</Forenames>
-      <Text>, Baronet ... ... ... Ayson, Hugh Fraser, Companion, Order of S. Michael and S. George</Text>
-      <PageNumber>1439</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Badgerow</Key>
-      <Title>Lieut.</Title>
-      <Text>Colonel Sir George Washington, C.M.G., M.B., F.R.C.S., Officer, Order of St. John of Jerusalem Bahawalpur, Captain H. H., the Nawab of, K.C.V.O</Text>
-      <PageNumber>1438</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___</KeyDitto>
-      </Key>
-      <Forenames>Stephen</Forenames>
-      <Text>, Serving Brother, Order of St. John of Jerusalem Bartolo, Professor Augueto, LL.D., B.Litt., Knight</Text>
-      <PageNumber>1437</PageNumber>
-    </MainItem>
-  </ItemGroup>
+  <KeyDitto>___ ___</KeyDitto>
+  <KeyDitto>___ ___ ___</KeyDitto>
   <ItemGroup>
     <MainItem>
       <Key>

@@ -3,7 +3,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Halliday</Key>
-      <Text>. temp. Lt. R. (rel. commn. on completion of service, and retains rank of Lt.)</Text>
+      <Title>temp. Lt.</Title>
+      <Forenames>R.</Forenames>
+      <Text>(rel. commn. on completion of service, and retains rank of Lt.)</Text>
       <PageNumber>8909</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -94,7 +96,9 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>R.</Forenames>
-      <Text>, M.C. (rel. comma. on completion of service, and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8274</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -221,7 +225,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>T.</Forenames>
-      <Text>, D.C.M. (Lt. Roy. Corps of Sigs., Reg. Army Res. of Offrs., late R.E.)</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>8349</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -230,7 +236,9 @@
       <Key>Hamill</Key>
       <Title>2nd Lt.</Title>
       <Forenames>R. J.</Forenames>
-      <Text>, M.M. (rel. commn., and retains rank of 2nd Lt.)</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>7858</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -250,7 +258,9 @@
       </Key>
       <Title>Lt. (now Capt.)</Title>
       <Forenames>A. K.</Forenames>
-      <Text>, M.C. (seed, for service as Asst. Instr., Small Arms School, India, and to remain seed, on promn. to Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10198</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -292,8 +302,8 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Title>Capt.</Title>
-      <Forenames>C.</Forenames>
-      <Text>de C, (Adjt.) Bermuda Mila. Art., Sub. Not</Text>
+      <Forenames>C. de C</Forenames>
+      <Text>, (Adjt.) Bermuda Mila. Art., Sub. Not</Text>
       <PageNumber>9007</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -337,7 +347,9 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>D. J.</Forenames>
-      <Text>, M.C. (rel. commn. on completion of service, and granted rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7961</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -406,7 +418,9 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>J.</Forenames>
-      <Text>(M.G.C. Infy.) ^ (rel. commn. on completion of service, and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>8900</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -417,7 +431,9 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>J. B.</Forenames>
-      <Text>, M.C. (rel. commn. on completion of service, and granted rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9119</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -576,7 +592,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Hamilton</Key>
-      <Text>of Dalzell, Capt. (Maj. in Army) the Lord, K.T., C.V.O., M.C. (Maj., Reg. Army Res. of Offrs.)</Text>
+      <Text>
+        <Honour>K.T.</Honour>
+        <Honour>C.V.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10567</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -692,7 +712,10 @@
       </Key>
       <Title>Lt.-Col. and Hon. Col. (temp. Brig.-Gen.)</Title>
       <Forenames>D. T.</Forenames>
-      <Text>, C.B., C.B.E. (rel. commn. on completion of tenure of comd., and granted hon. rank of Brig.-Gec. with permission to wear prescribed uniform), Sub. Not</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>10568</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -736,7 +759,9 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>H. T.</Forenames>
-      <Text>, M.C. (rel. commn. on completion of service, and granted rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8443</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -27,7 +27,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Heisey</Key>
-      <Text>. Canadian Cadet K. B. (Hon. 2nd Lt.)</Text>
+      <Forenames>Canadian</Forenames>
+      <Text>Cadet K. B. (Hon. 2nd Lt.)</Text>
       <PageNumber>3193</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -308,7 +309,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Henry</Key>
-      <Text>. Canadian Cadet G. (Hon. 2nd Lt.)</Text>
+      <Forenames>Canadian</Forenames>
+      <Text>Cadet G. (Hon. 2nd Lt.)</Text>
       <PageNumber>3193</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -853,7 +855,7 @@
       <PageNumber>2466</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Lt</Text>
+      <Text>Lt.</Text>
       <PageNumber>2908</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1040,7 +1042,7 @@
       <PageNumber>3311</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Trd. to unempld. list, Sub. Not</Text>
+      <Text>Trd. to unempld. list, Sub. Not.</Text>
       <PageNumber>3537</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1086,7 +1088,9 @@
       <Key>Hinchliffe</Key>
       <Title>Capt.</Title>
       <Forenames>W. G. R.</Forenames>
-      <Text>, D.F.C. (trd. to unempld. list)</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>984</PageNumber>
     </MainItem>
     <SubItem>

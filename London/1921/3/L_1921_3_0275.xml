@@ -39,21 +39,21 @@
   <ItemGroup>
     <MainItem>
       <Key>Jowett</Key>
-      <Forenames>Brothers</Forenames>
+      <Title>Brothers .</Title>
       <PageNumber>5765</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>K</Key>
-      <Text>T.S. Piano Co</Text>
+      <Forenames>T.S. Piano Co</Forenames>
       <PageNumber>7009</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Karibco</Key>
-      <Forenames>Co</Forenames>
+      <Title>Co.</Title>
       <PageNumber>5765</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -89,14 +89,15 @@
   <ItemGroup>
     <MainItem>
       <Key>L</Key>
-      <Text>B.S. Engineering Co</Text>
+      <Forenames>B.S. Engineering Co</Forenames>
       <PageNumber>5511</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Lancashire</Key>
-      <Forenames>Bazaar Co</Forenames>
+      <Forenames>Bazaar</Forenames>
+      <Text>Co</Text>
       <PageNumber>7164</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -157,14 +158,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Lawson</Key>
-      <Text>E. A. and Co</Text>
+      <Forenames>E. A.</Forenames>
+      <Text>and Co</Text>
       <PageNumber>6516</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Laycock</Key>
-      <Forenames>Manufacturing Co</Forenames>
+      <Forenames>Manufacturing</Forenames>
+      <Text>Co</Text>
       <PageNumber>5592</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -337,7 +340,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McCumiskey</Key>
-      <Text>P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>7715</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -351,7 +354,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Manchester</Key>
-      <Forenames>Road Garage Co</Forenames>
+      <Forenames>Road Garage</Forenames>
+      <Text>Co</Text>
       <PageNumber>7337</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -527,7 +531,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mersey</Key>
-      <Forenames>Transport Co</Forenames>
+      <Forenames>Transport</Forenames>
+      <Text>Co</Text>
       <PageNumber>6625</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -663,7 +668,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Murphy</Key>
-      <Text>C, and J</Text>
+      <Forenames>C</Forenames>
+      <Text>, and J</Text>
       <PageNumber>6799</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -881,7 +887,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pentone</Key>
-      <Forenames>Knitting Co</Forenames>
+      <Forenames>Knitting</Forenames>
+      <Text>Co</Text>
       <PageNumber>6059</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -987,8 +994,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Savoy</Key>
-      <Forenames>Restaurant</Forenames>
-      <Text>.. Saxon Hill Poultry and Live Stock</Text>
+      <Title>Restaurant .</Title>
+      <Text>. Saxon Hill Poultry and Live Stock</Text>
       <PageNumber>6697</PageNumber>
     </MainItem>
     <SubItem>
@@ -1015,7 +1022,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Scarlett</Key>
-      <Text>J M</Text>
+      <Forenames>J</Forenames>
+      <Text>M</Text>
       <PageNumber>7082</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1107,7 +1115,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Shorters</Key>
-      <Forenames>Brothers</Forenames>
+      <Title>Brothers .</Title>
       <PageNumber>5423</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1157,7 +1165,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Smith</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>5592</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1326,7 +1334,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Standard</Key>
-      <Forenames>Metal Window Co</Forenames>
+      <Forenames>Metal Window</Forenames>
+      <Text>Co</Text>
       <PageNumber>7165</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1504,7 +1513,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Taymac</Key>
-      <Forenames>Quarries</Forenames>
+      <Title>Quarries .</Title>
       <PageNumber>6123</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1555,7 +1564,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Trogau</Key>
-      <Forenames>Engineering Co</Forenames>
+      <Forenames>Engineering</Forenames>
+      <Text>Co</Text>
       <PageNumber>5275</PageNumber>
     </MainItem>
   </ItemGroup>

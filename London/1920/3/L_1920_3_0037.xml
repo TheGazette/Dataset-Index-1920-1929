@@ -20,8 +20,10 @@
     <SubItem>
       <Text>
         <PageNumber>8058</PageNumber>
+        <Honour>Bt</Honour>
         <PageNumber>8056</PageNumber>
         <PageNumber>8059</PageNumber>
+        <Honour>O.M.</Honour>
         <PageNumber>8066</PageNumber>
       </Text>
       <PageNumber>7762</PageNumber>
@@ -42,6 +44,8 @@
     </SubItem>
     <SubItem>
       <Text>
+        <Honour>Bt</Honour>
+        <Honour>D.S.O.</Honour>
         <PageNumber>8059</PageNumber>
         <PageNumber>8057</PageNumber>
       </Text>
@@ -61,6 +65,7 @@
       <Text>
         <PageNumber>8068</PageNumber>
         <PageNumber>8068</PageNumber>
+        <Honour>O.M.</Honour>
         <PageNumber>7761</PageNumber>
       </Text>
       <PageNumber>8061</PageNumber>
@@ -84,6 +89,8 @@
     <SubItem>
       <Text>
         <PageNumber>8060</PageNumber>
+        <Honour>Bt</Honour>
+        <Honour>D.S.O.</Honour>
       </Text>
       <PageNumber>8060</PageNumber>
     </SubItem>
@@ -112,6 +119,9 @@
     <SubItem>
       <Text>
         <PageNumber>8067</PageNumber>
+        <Honour>Bt</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
       </Text>
       <PageNumber>7574</PageNumber>
     </SubItem>
@@ -189,6 +199,7 @@
     <SubItem>
       <Text>
         <PageNumber>8060</PageNumber>
+        <Honour>O.B.E.</Honour>
         <PageNumber>7574</PageNumber>
         <PageNumber>8060</PageNumber>
       </Text>
@@ -204,6 +215,7 @@
     </SubItem>
     <SubItem>
       <Text>
+        <Honour>D. S.O.</Honour>
         <PageNumber>8056</PageNumber>
         <PageNumber>7764</PageNumber>
       </Text>
@@ -214,7 +226,9 @@
       <PageNumber>8066</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>Young, Maj. and Bt. Lt.-Col. E. de L</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>8069</PageNumber>
     </SubItem>
     <SubItem>
@@ -309,7 +323,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Smith</Key>
-      <Text>the Right Rev. Martin Linton, D.D., D.S.O., elected Bishop of the See of Hereford</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7969</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -318,7 +334,9 @@
       <Key>Talbot</Key>
       <Title>the Rev.</Title>
       <Forenames>Edward Keble</Forenames>
-      <Text>, M.C., M.A., Chaplain to H.M. the King</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7120</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -354,7 +372,9 @@
     <MainItem>
       <Key>Abdul</Key>
       <Forenames>Karim Abdul Shakur Jiamal</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>8861</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -362,7 +382,9 @@
     <MainItem>
       <Key>Abdul</Key>
       <Forenames>Majid Khan</Forenames>
-      <Text>, Capt., M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>8050</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -370,7 +392,9 @@
     <MainItem>
       <Key>Abdul</Key>
       <Forenames>Samad Shah</Forenames>
-      <Text>, Hon. Capt., M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>7758</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -387,7 +411,9 @@
       <Key>Acton</Key>
       <Title>Mr.</Title>
       <Forenames>Justice Edward</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>8861</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -405,7 +431,10 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>SidineyRolbert, M.D., Knighted</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>8860</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -414,7 +443,9 @@
       <Key>AUbutt</Key>
       <Title>Sir</Title>
       <Forenames>Thomas Clifford</Forenames>
-      <Text>, K.C.B., M.ID.. F.R.S., siworn of H.M. Privy Council</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+      </Text>
       <PageNumber>7765</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -439,14 +470,18 @@
   <ItemGroup>
     <MainItem>
       <Key>Alsop</Key>
-      <Text>. T./Lt. Antlhony, Memher, Order of the British Empire</Text>
+      <Forenames>T.</Forenames>
+      <Text>/Lt. Antlhony, Memher, Order of the British Empire</Text>
       <PageNumber>7573</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Anderson</Key>
-      <Text>. John, created Baronet</Text>
+      <Forenames>John</Forenames>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>8860</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -455,7 +490,9 @@
       <Key>Andrews</Key>
       <Title>Profr.</Title>
       <Forenames>Frederick William</Forenames>
-      <Text>, M.D., F.R.S., Kniahted</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>8860</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -466,7 +503,9 @@
       </Key>
       <Title>late temp. Gapt.</Title>
       <Forenames>Henry Jtohn</Forenames>
-      <Text>, . Victoria Cross</Text>
+      <Text>
+        <Honour>Victoria Cross</Honour>
+      </Text>
       <PageNumber>9133</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -474,14 +513,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Anson</Key>
-      <Text>. Maj. George Frank Wemyss, Officer, Order of the British Empire '</Text>
+      <Title>Maj.</Title>
+      <Forenames>George Frank Wemyss</Forenames>
+      <Text>, Officer, Order of the British Empire '</Text>
       <PageNumber>8050</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Archer</Key>
-      <Text>. Henry George Fuller, Officer, Order of the British Empire</Text>
+      <Forenames>Henry George Fuller</Forenames>
+      <Text>, Officer, Order of the British Empire</Text>
       <PageNumber>8709</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -501,14 +543,17 @@
       <Key>Arthur</Key>
       <Title>Maj. (T./Lt.-Cnl.)</Title>
       <Forenames>Lionel Francis</Forenames>
-      <Text>. D.S.O.. Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8050</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Ashtnn</Key>
-      <Text>. Antinna Edward, Officer, Order of the British Empire (corr. of name) '</Text>
+      <Forenames>Antinna Edward</Forenames>
+      <Text>, Officer, Order of the British Empire (corr. of name) '</Text>
       <PageNumber>7853</PageNumber>
     </MainItem>
   </ItemGroup>

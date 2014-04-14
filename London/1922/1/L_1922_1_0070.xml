@@ -102,7 +102,11 @@
     <MainItem>
       <Key>Cobbe</Key>
       <Title>Lt.</Title>
-      <Text>-Gen, Sir A. S., V.C., K.C.B., K.C.S.I., D.S.O. (Col., S. Wales Bord.)</Text>
+      <Text>
+        <Honour>V.C.</Honour>
+        <Honour>K.C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>2016</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -172,7 +176,9 @@
       </Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Edward W. W.</Forenames>
-      <Text>, D.S.O., M.B. (retires on ret. pay and granted rank of Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1490</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -262,7 +268,9 @@
       </Key>
       <Title>temp. Maj.</Title>
       <Forenames>G. E.</Forenames>
-      <Text>. O.B.E. (rel. commn. on completion of servioe and granted rank of Lt.^Col.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>1379</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -284,7 +292,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>R.</Forenames>
-      <Text>, O.B.E. (placed on ret. pay on attaining age fixed for compulsory retirement)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>2697</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -308,7 +318,9 @@
     <MainItem>
       <Key>Cockerill</Key>
       <Title>Maj. (Col., ret., Spec. Res.)</Title>
-      <Text>(Hon. Brig.-Gen. G. K., C.B. (Col., Reg. Army Res. of Off., Gen. List, from R. Fus., and retains hon. rank of Brig.Gen.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>1797</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -411,7 +423,9 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>E. H.</Forenames>
-      <Text>, M.C. (rel. commn. on completion of service and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1372</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -542,7 +556,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Colchester</Key>
-      <Text>. Gentleman Cadet George (2nd Lt.) .:</Text>
+      <Forenames>Gentleman</Forenames>
+      <Text>Cadet George (2nd Lt.) .:</Text>
       <PageNumber>930</PageNumber>
     </MainItem>
   </ItemGroup>

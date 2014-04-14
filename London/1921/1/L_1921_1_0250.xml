@@ -12,7 +12,9 @@
     <MainItem>
       <Key>Thorn</Key>
       <Forenames>T. C</Forenames>
-      <Text>, M.C. (whilst comdg. Field Coy.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>282</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -146,7 +148,9 @@
     <MainItem>
       <Key>Belcher</Key>
       <Forenames>D. W.</Forenames>
-      <Text>, V.C</Text>
+      <Text>
+        <Honour>V.C</Honour>
+      </Text>
       <PageNumber>862</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -211,7 +215,9 @@
     <MainItem>
       <Key>Bowtell-Harris</Key>
       <Forenames>J. F.</Forenames>
-      <Text>, M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>281</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -246,8 +252,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brisley</Key>
-      <Forenames>F.</Forenames>
-      <Text>de B</Text>
+      <Forenames>F. de B</Forenames>
       <PageNumber>2305</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -278,7 +283,9 @@
     <MainItem>
       <Key>Butcher</Key>
       <Forenames>A. L.</Forenames>
-      <Text>, M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>186</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -299,8 +306,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Campbell</Key>
-      <Forenames>C. M. St</Forenames>
-      <Text>. A</Text>
+      <Forenames>C. M. St. A</Forenames>
       <PageNumber>1701</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -420,8 +426,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Croft</Key>
-      <Forenames>T.</Forenames>
-      <Text>de C</Text>
+      <Forenames>T. de C</Forenames>
       <PageNumber>1701</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -520,7 +525,10 @@
     <MainItem>
       <Key>Duncan</Key>
       <Forenames>W. J. C</Forenames>
-      <Text>, D.S.O., M.C</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>186</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -674,7 +682,10 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>J. F. Bowtell</Forenames>
-      <Text>, M.C. (see Bowtell-Harris, J. F., M.C.) Harrison, W. B. (temp, whilst Staff Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>282</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -682,7 +693,9 @@
     <MainItem>
       <Key>Hartigan</Key>
       <Forenames>G. E. R. S.</Forenames>
-      <Text>, M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>1701</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -874,7 +887,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lewis</Key>
-      <Text>. E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>591</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -923,7 +936,7 @@
       <PageNumber>1284</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Temp, whilst Staff Capt.</Text>
+      <Text>Temp, whilst Staff Capt</Text>
       <PageNumber>1065</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -938,7 +951,9 @@
     <MainItem>
       <Key>Maffett</Key>
       <Forenames>D. B</Forenames>
-      <Text>Maguire, G. E., M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>2305</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1044,8 +1059,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mungavin</Key>
-      <Forenames>H. St</Forenames>
-      <Text>. J. (temp, whilst Asst. Embkn. Staff Offr., graded as Staff Capt.)</Text>
+      <Forenames>H. St. J</Forenames>
+      <Text>. (temp, whilst Asst. Embkn. Staff Offr., graded as Staff Capt.)</Text>
       <PageNumber>1065</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1065,7 +1080,7 @@
       <PageNumber>1701</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Temp, whilst Staff Capt.</Text>
+      <Text>Temp, whilst Staff Capt</Text>
       <PageNumber>282</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1115,8 +1130,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Reilly, R. (temp, whilst Staff Capt.)</Text>
+      <Key>O'Reilly</Key>
+      <Forenames>R.</Forenames>
+      <Text>(temp, whilst Staff Capt.)</Text>
       <PageNumber>1284</PageNumber>
     </MainItem>
     <SubItem>
@@ -1126,8 +1142,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan, E. T</Text>
+      <Key>O'Sullivan</Key>
+      <Forenames>E. T</Forenames>
       <PageNumber>186</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1180,7 +1196,9 @@
     <MainItem>
       <Key>Rana</Key>
       <Forenames>Jodha Jang Bahadur</Forenames>
-      <Text>, M.B.E., M.C</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>591</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1237,8 +1255,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ross-Hurst</Key>
-      <Forenames>W. J. O</Forenames>
-      <Text>'B</Text>
+      <Forenames>W. J. O'B</Forenames>
       <PageNumber>1901</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1392,7 +1409,10 @@
     <MainItem>
       <Key>Strong</Key>
       <Forenames>C. A.</Forenames>
-      <Text>, O.B.E., M.C</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>2226</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1421,7 +1441,9 @@
     <MainItem>
       <Key>Teague</Key>
       <Forenames>J.</Forenames>
-      <Text>, M.C. (temp, whilst Staff Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1065</PageNumber>
     </MainItem>
   </ItemGroup>

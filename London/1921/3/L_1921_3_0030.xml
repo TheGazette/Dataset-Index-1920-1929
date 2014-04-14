@@ -14,7 +14,11 @@
       <Key>Dunbar</Key>
       <Title>Maj. Sir</Title>
       <Forenames>G. Duff-Suther-</Forenames>
-      <Text>land, Bt., see Duff-SutherlandDunbar, Maj. Sir G., Bt. Dunphy, Lt. G. A. L., M.C. (rel. spec, appt., CI. GG)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>Bt</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6655</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -59,7 +63,9 @@
       <Key>Edmonstone</Key>
       <Title>Lt.</Title>
       <Forenames>A. C.</Forenames>
-      <Text>(rel. temp. appt. as A.D.C. Extra)</Text>
+      <Text>
+        <Honour>A.D.C.</Honour>
+      </Text>
       <PageNumber>6544</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -68,7 +74,9 @@
       <Key>Edwards</Key>
       <Title>Capt.</Title>
       <Forenames>A. W.</Forenames>
-      <Text>, M.C. (Staff Capt., War Office)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7743</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -92,7 +100,9 @@
       <Key>Egerton</Key>
       <Title>Maj.</Title>
       <Forenames>J. S.</Forenames>
-      <Text>(A.D.C.)</Text>
+      <Text>
+        <Honour>A.D.C.</Honour>
+      </Text>
       <PageNumber>5447</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -101,7 +111,9 @@
       <Key>Elgood</Key>
       <Title>Maj.</Title>
       <Forenames>P. G.</Forenames>
-      <Text>, C.M.G. (ret., pay, rel. aipt. as Base Comdt., CI. X, attd. to Hd.-Qr. Unit, and temp, rank of Lt.^Col., and granted rank of Lt.-Col.), Sub. Not</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>6543</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -114,7 +126,7 @@
       <PageNumber>5797</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Rel. temp. appt. as Staff Capt., uttd. to Hd.-Qr. Unit, and temp, rank of Capt</Text>
+      <Text>Rel. temp. appt. as Staff Capt., uttd. to Hd.-Qr. Unit, and temp, rank of Capt.</Text>
       <PageNumber>6149</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -123,14 +135,20 @@
       <Key>Elsworthy</Key>
       <Title>Capt.</Title>
       <Forenames>A. L.</Forenames>
-      <Text>, M.B.E. (rel. temp. appt. as G.S.O., 3rd Gr., at War Office)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>7743</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Krskine</Key>
-      <Text>. Lt. the Hon. F. W. (A.D.C. to the Gov.-Gen. and Comdr.-in-Chief of Dominion of Canada)</Text>
+      <Title>Lt. the Hon.</Title>
+      <Forenames>F. W.</Forenames>
+      <Text>
+        <Honour>A.D.C.</Honour>
+      </Text>
       <PageNumber>6911</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -150,14 +168,18 @@
       </Key>
       <Title>Bt. Maj.</Title>
       <Forenames>J. M. J.</Forenames>
-      <Text>, M.C. (temp. Dep. Asst. Dir. of the T.F. at War Office, from a Staff Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5804</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Everitt</Key>
-      <Text>tenr&gt;. Capt. A. F. G. (temp. A.D.C., Personal Staff), Sub. Not</Text>
+      <Text>
+        <Honour>A.D.C.</Honour>
+      </Text>
       <PageNumber>5707</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -166,7 +188,9 @@
       <Key>Kwald</Key>
       <Title>Maj.</Title>
       <Forenames>F. C. T.</Forenames>
-      <Text>. D.S.O. (rel. temp. appt. as G.S.O.,2nd Gr.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6150</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -194,7 +218,9 @@
         <KeyDitto>— ___ ___</KeyDitto>
       </Key>
       <Forenames>Cant</Forenames>
-      <Text>, J. O., M.C. (temp. Staff Capt. at War Office)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6651</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -210,14 +236,21 @@
   <ItemGroup>
     <MainItem>
       <Key>Fetherston</Key>
-      <Text>. Lt. H. B., M.B.E., M.C. (temn. Controller of Lab., CI. FF, Hd.-Qrs. of .Admin. Servs. and Dents., and temp. Cant.), Sub. Not</Text>
+      <Title>Lt.</Title>
+      <Forenames>H. B.</Forenames>
+      <Text>
+        <Honour>M.B.E.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5460</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Field</Key>
-      <Text>. Lt. (temp. Cant.) R. E., O.B.F.. (temp. D.A.A.G. at War Office, from a Staff Capt.. nnd retains temp, rank of Capt.)</Text>
+      <Title>Lt. (temp. Cant.)</Title>
+      <Forenames>R. E.</Forenames>
+      <Text>, O.B.F.. (temp. D.A.A.G. at War Office, from a Staff Capt.. nnd retains temp, rank of Capt.)</Text>
       <PageNumber>7117</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -235,7 +268,23 @@
       <Key>Frewin</Key>
       <Title>temp. Capt.</Title>
       <Forenames>H. M.</Forenames>
-      <Text>(rel. spec, appt., CI. FF) Maj. F. D., C.B.E., M.C. (rel. appt. as Dep. Dir. of Lab., CI. T, and temp, rank of Col., Hd.-Qrs. of Admin. Servs. and Depts.) teirap. 2nd Lt. (temp. Lt.) R. H. C. (rel. appt. as Rly. Traffic Offr., CI. GG, Hd.Qrs of Admin. Servs. and Depts.) Fryer, temp. Capt. C. R. (rel. appt. as D.A.A.G., A.G.'s and Q.M.G.'s Staff, and temp, rank of Maj.) Fulton, Capt. J. D., M.C. (rel. appt. as Brig.-Maj., attd. to Hd.-Qr. Unit) Furley, Lt. A., M.C. (temp. Asst. Mil. Landing Offr., CI. FF, Hd.-Qrs. for Embarkation Duties, from a Staff Capt., and rel. temp, rank of Capt.) ... Furze, Maj. E. K. B., D.S.O., M.C. (rel. temp. appt. as G.S.O., 3rd Gr., at War Office) Temp. soec. appt., CI. FF... Lt. E. H., M.C. (temp. A.D.C., Extra) Gairdner, Lt. C. H. (temp. spec, appt,, CI. GG, whilst Brig. Intelligence Offr.) Temp. spec, appt., CI. GO ... Oalpin, Lt. S. G. (temp. spec. apot.. CI. GG, from CI. HH)... Gai-rod, Capt. W. F. (tpifo. Staff Capt., attd. to Hd.-Qr. Unit) Rel. appt. as Staff Capt., attd.* to Hd.-Qr. Unit ... Lt. L. C. M.C. (rel. temp. sne=. aopt.. CI. GG) Gemmill, Bt. Maj. J. D., M.C. (rel. temp. appt. as Staff Capt. at War Offic-) Gilholme, Lt. F... M.C. (rel. appt. as A.D.C. Personal Staff) ... Gilkes, Lt. G. H. (temp. spec, appt., CI. FF, from CI. GG, and temp. Capt.) Gilmiip, tcmn. Lt. G. E C. R. (rel. appt. as Staff Officer to Chief Engineer. CI. CC, attd. to Hd.Qr. Unit, and temp, rank of Capt.) Gilpin, Cant. W. J., M.C. (temp. Staff Canll Girling. Lt. F. E. B.. M.C. (temn. spec, appt., CI. FF, from CI. GG) Gittins. temn. Lt. C. R. (rel. appt. as Empld. under Directe. of Rnquisitions and Hirings, CI. FF, Hd.-Qrs. of Admin. Servs. and Depts., and temp rank of Capt.)</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>A.D.C.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>Bt</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>A.D.C.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5985</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -244,7 +293,10 @@
       <Key>Gough</Key>
       <Title>temp. Maj.</Title>
       <Forenames>A. T.</Forenames>
-      <Text>, O.B.E., M.C. (rel. appt. as Brig.-Maj., attd. to Hd.-Qr. Unit)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5627</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -255,7 +307,12 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>T. W.</Forenames>
-      <Text>(temp. Asst. Emb. Staff Offr., CI. FF, EU-Qrs. for Embarkation Duties) ... Greene, Capt. E. A., M.C., T.D. (A.D.C. to the Gov.-Gen. and Comdr.-in-Chief of Dominion of Canada) Greenhill, Capt. H. M. (temp. Staff Capt.) Rel. temp. appt. as Staff Capt. Greenslade, Lt. C, O.B.E. (temp. spec, appt., CI. FF) Gregory, Lt. C. (corr. of date of relg. appt. as Comdt., CI. FF. attd. to Hd.-Qr. Unit, and temp, rank of Capt.) ... ... ___ ___ Lt. W. J. I. D. (rel. Emplt. under Directe. of Requisitions and Hirings, CI. FF, Hd.-Qrs. of Admin. Servs. and Depts., and temp, rank of Capt.) Grey, Lt. B. M. (rel. temp. spec, appt., CI. HH, on ceasing to be empld. in a Record Office)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>T.D.</Honour>
+        <Honour>A.D.C.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>5790</PageNumber>
     </MainItem>
   </ItemGroup>

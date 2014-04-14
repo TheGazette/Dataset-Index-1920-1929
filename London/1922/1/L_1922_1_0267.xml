@@ -152,7 +152,7 @@
       <PageNumber>1788</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Rel. commn. on appt. to civil duties under Colonial Office and granted rank of Capt</Text>
+      <Text>Rel. commn. on appt. to civil duties under Colonial Office and granted rank of Capt.</Text>
       <PageNumber>1802</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -185,7 +185,10 @@
       </Key>
       <Title>Lt.-Col.</Title>
       <Forenames>M. R.</Forenames>
-      <Text>, C.M.G., M.C. (Col.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2504</PageNumber>
     </MainItem>
     <SubItem>
@@ -219,14 +222,18 @@
       <Key>Walsham</Key>
       <Title>temp. Lt. Sir</Title>
       <Forenames>J. S.</Forenames>
-      <Text>, Bt. (rel. commn. on completion of service and granted rank of Capt.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>794</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Walshaw</Key>
-      <Text>. temp. 2nd Lt. L. J. (rel. commn. on completion of aer.&gt;'So» and retains rank of 2nd Lt.)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>L. J.</Forenames>
+      <Text>(rel. commn. on completion of aer.&gt;'So» and retains rank of 2nd Lt.)</Text>
       <PageNumber>1168</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -242,7 +249,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Walter</Key>
-      <Text>. Lt.-Col. F. (rel. commn.. having attained age limit of liabilitv to recall, and retains rank of Lt.-Col.)</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>F.</Forenames>
+      <Text>(rel. commn.. having attained age limit of liabilitv to recall, and retains rank of Lt.-Col.)</Text>
       <PageNumber>1918</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -282,7 +291,9 @@
       </Key>
       <Title>temp. Chapln., 4th CI., Rev.</Title>
       <Forenames>G. F.</Forenames>
-      <Text>, M.C. (rel. commn. and apptd. Hon. Chapln., 3rd CI.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>711</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -292,8 +303,11 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Title>Lt.-Col.</Title>
-      <Forenames>H.</Forenames>
-      <Text>de L., C.M.G., D.S.O. (placed on h.p. list on completion of four years' service as Regtl. Lt.Col.)</Text>
+      <Forenames>H. de L</Forenames>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>2594</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -369,7 +383,9 @@
       </Key>
       <Title>temp. 2nd Lt.</Title>
       <Forenames>S. E.</Forenames>
-      <Text>, M.C. (rel. commn. on completion of service and retains rank of 2nd Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>140</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -515,7 +531,9 @@
       <Key>Wanliss</Key>
       <Title>Lt.-Col. (ret. pay)</Title>
       <Forenames>C</Forenames>
-      <Text>, O.B.E. (ceases to belong to the Res. of Off., havins attained the age limit of liability to recall) '</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>1566</PageNumber>
     </MainItem>
   </ItemGroup>

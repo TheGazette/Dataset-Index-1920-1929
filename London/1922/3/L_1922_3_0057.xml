@@ -13,7 +13,9 @@
     <MainItem>
       <Key>Sigrist</Key>
       <Forenames>D.C.O.</Forenames>
-      <Text>and Capt. E., O.B.E. (retires on ret. pay, having attained the age limit for retirement, and granted grade and rank of Co. of O. and Maj.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>5527</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -53,7 +55,9 @@
       </Key>
       <Title>Lt. (now Lt., P.W. Vols.)</Title>
       <Forenames>S. B. G.</Forenames>
-      <Text>, M.C. (seed, for service with Tank Corps)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6159</PageNumber>
     </MainItem>
     <SubItem>
@@ -77,7 +81,9 @@
       <Key>Simonds</Key>
       <Title>Lt.-Col. (ret. pay)</Title>
       <Forenames>C. B.</Forenames>
-      <Text>, D.S.O. (ceases to belong to Res. of Off., having attained the age limit of liability to recall)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5432</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -97,7 +103,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>Charles Frederick Wil-</Forenames>
-      <Text>liam, M.C. (Lt., Reg. Army Res. of Off., Regtl. List, R.W. Fus., late Serv. Bns.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6378</PageNumber>
     </MainItem>
     <SubItem>
@@ -122,7 +130,9 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Title>Capt.</Title>
-      <Text>andBt. Maj. G.. O.B.E. (rel. actg. rank of Maj. on ceasing to comd. a M.T „°)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>6096</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -133,7 +143,10 @@
       </Key>
       <Title>Supern. Lt.-Col.</Title>
       <Forenames>H. C</Forenames>
-      <Text>C.M.G., D.S.O. (restd. to estabt.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5033</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -144,21 +157,14 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>J. G.</Forenames>
-      <Text>, D.S.O., M.C. (restd. to estabt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5034</PageNumber>
     </MainItem>
   </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___ —</KeyDitto>
-      </Key>
-      <Title>2nd Lt.</Title>
-      <Forenames>J. R.</Forenames>
-      <Text>(Lt.)</Text>
-      <PageNumber>5359</PageNumber>
-    </MainItem>
-  </ItemGroup>
+  <KeyDitto>___ ___ ___ —</KeyDitto>
   <ItemGroup>
     <MainItem>
       <Key>Sims</Key>
@@ -186,7 +192,9 @@
       <Key>Sinauer</Key>
       <Title>Capt.</Title>
       <Forenames>E. M.</Forenames>
-      <Text>, M.C. (Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6840</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -257,7 +265,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Sinker</Key>
-      <Text>Gent. Cadet Alick Jahleel Brenton (2nd Lt., Unattd</Text>
+      <Title>Gent. Cadet</Title>
+      <Forenames>Alick Jahleel Brenton</Forenames>
+      <Text>(2nd Lt., Unattd</Text>
       <PageNumber>6380</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -275,7 +285,9 @@
       <Key>Skelton</Key>
       <Title>Maj. and Bt. Lt.-Col.</Title>
       <Forenames>Dud-</Forenames>
-      <Text>ley S., D.S.O. (restd. to estabt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5779</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -310,26 +322,252 @@
       </Key>
       <Title>2nd Lt.</Title>
       <Forenames>Claude Mowbray Kirby</Forenames>
-      <Text>, see Kirby-Smith, 2nd Lt. Claude Mowbray. Smith, Staff Nurse Miss Daisy A. (resigns appt. Q.A.M.F.N.S.)</Text>
+      <Text>, see Kirby-Smith, 2nd Lt. Claude Mowbray</Text>
+      <PageNumber>6297</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Smith</Key>
+      <Title>Staff Nurse Miss</Title>
+      <Forenames>Daisy A.</Forenames>
+      <Text>(resigns appt. Q.A.M.F.N.S.)</Text>
       <PageNumber>6512</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Title>Ord. Off., 4th CI. (on prob.)</Title>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
+      <PageNumber>5779</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___</KeyDitto>
+      </Key>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>Ernest</Forenames>
+      <Text>(rel. commn. on completion of service and retains rank of 2nd Lt.)</Text>
+      <PageNumber>5963</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___ ___</KeyDitto>
+      </Key>
+      <Title>Lt.</Title>
+      <Forenames>E. A.</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
+      <PageNumber>6711</PageNumber>
     </MainItem>
     <SubItem>
       <Text>Date of seniority</Text>
       <PageNumber>6711</PageNumber>
     </SubItem>
-    <SubItem>
-      <Text>___ ___ ___ temp. Lt. J. C. (rel. commn. on appt. to commn. in Ind. Army)</Text>
+  </ItemGroup>
+  <KeyDitto>___ ___</KeyDitto>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Title>temp. Inspr.</Title>
+      <Text>of Works and Lt. F. (rel. temp, rank of Capt. on ceasing to be empld. as Div. Offr., R.E.)</Text>
+      <PageNumber>5034</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___</KeyDitto>
+      </Key>
+      <Title>temp.</Title>
+      <Forenames>I.O.W.</Forenames>
+      <Text>and Lt. Frank (rel. commn. on completion of service and granted rank of Capt.) -</Text>
+      <PageNumber>5036</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___</KeyDitto>
+      </Key>
+      <Title>temp. Capt.</Title>
+      <Forenames>F. P.</Forenames>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
+      <PageNumber>6774</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Title>Capt.</Title>
+      <Forenames>G.</Forenames>
+      <Text>' (rel. commn. and granted hon. rank of Maj. with permission to wear prescribed uniform)</Text>
+      <PageNumber>5780</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Title>temp. Lt.</Title>
+      <Forenames>G. A.</Forenames>
+      <Text>(rel. commn. on completion of service and retains rank of Lt.)</Text>
+      <PageNumber>6230</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <KeyDitto>___ ___</KeyDitto>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Title>Lt.</Title>
+      <Forenames>G. W. Quin-</Forenames>
+      <Text>, see QuinSmith, Lt. G. W. : ___ ___ Col. H. A., CLE., M.B. (Hon. Surg, to the King)</Text>
+      <PageNumber>5361</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Title>2nd Lt.</Title>
+      <Forenames>Henry Alfred</Forenames>
+      <Text>(2nd Lt., Reg. Army Res. of Off., Regtl. List, Northd Fus.)</Text>
+      <PageNumber>5035</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Title>2nd Lt.</Title>
+      <Forenames>Joseph</Forenames>
+      <Text>(2nd Lt., Reg. Army Res. of Off., Regtl. List, K.O.S.B., late Serv. Bn.)</Text>
+      <PageNumber>5968</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___</KeyDitto>
+      </Key>
+      <Title>temp. Lt.</Title>
+      <Forenames>J. C.</Forenames>
+      <Text>(rel. commn. on appt. to commn. in Ind. Army)</Text>
       <PageNumber>5778</PageNumber>
-    </SubItem>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Title>Lt.</Title>
+      <Forenames>R.</Forenames>
+      <Text>(seed, for service under Colonial Office), Sub. Not</Text>
+      <PageNumber>6297</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Title>Vet. Capt.</Title>
+      <Forenames>R. T.</Forenames>
+      <Text>
+        <Honour>V.C.</Honour>
+      </Text>
+      <PageNumber>6298</PageNumber>
+    </MainItem>
     <SubItem>
       <Text>Date of seniority</Text>
       <PageNumber>6298</PageNumber>
     </SubItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___ ___</KeyDitto>
+      </Key>
+      <Title>2nd Lt.</Title>
+      <Forenames>Stanley George</Forenames>
+      <Text>(2nd Lt., Reg. Army Res. of Off., Regtl. List, Som. L.L, late Serv. Bn.)</Text>
+      <PageNumber>5362</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <KeyDitto>___ ___</KeyDitto>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Title>Qr.</Title>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
+      <PageNumber>6713</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Title>Lt.</Title>
+      <Forenames>T. A.</Forenames>
+      <Text>(Lt., Reg. Army Res. of Off., Regtl. List, R.E., late R.E.)</Text>
+      <PageNumber>6443</PageNumber>
+    </MainItem>
     <SubItem>
       <Text>Date of seniority</Text>
       <PageNumber>6443</PageNumber>
     </SubItem>
   </ItemGroup>
-  <KeyDitto>___ ___ ___</KeyDitto>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___ ___</KeyDitto>
+      </Key>
+      <Title>temp. Lt.</Title>
+      <Forenames>T. A. M.</Forenames>
+      <Text>(rel. commn. on completion of service and retains rank of Lt.)</Text>
+      <PageNumber>5610</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <KeyDitto>___ ___</KeyDitto>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___</KeyDitto>
+      </Key>
+      <Forenames>A.</Forenames>
+      <Text>
+        <Honour>O.M.</Honour>
+      </Text>
+      <PageNumber>5709</PageNumber>
+    </MainItem>
+  </ItemGroup>
 </Index>
 

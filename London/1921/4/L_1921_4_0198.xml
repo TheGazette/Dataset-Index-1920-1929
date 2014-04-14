@@ -25,7 +25,9 @@
       </Key>
       <Title>Col. (h.p.)</Title>
       <Forenames>J. B.</Forenames>
-      <Text>, D.S.O. (retires on ret. pay), Sub. Not</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>10220</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -86,7 +88,10 @@
     <MainItem>
       <Key>McLare</Key>
       <Forenames>T.</Forenames>
-      <Text>/I.O.M., 3rd CI., and Capt. J. P. (I.O.M., 2nd CI., and Capt., without pay and allces.), Sub. Not :</Text>
+      <Text>
+        <Honour>O.M.</Honour>
+        <Honour>O.M.</Honour>
+      </Text>
       <PageNumber>9447</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -147,7 +152,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Maclauchlan</Key>
-      <Text>.temp. Chapln., 4th CI.. Rev. F. J. (rel. commn. and to be Hon. Chapln.. 4th Gl.)</Text>
+      <Title>temp. Chapln., 4th CI.</Title>
+      <Text>. Rev. F. J. (rel. commn. and to be Hon. Chapln.. 4th Gl.)</Text>
       <PageNumber>9018</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -163,7 +169,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Maclaughlin</Key>
-      <Text>. temp. Chapln., 4th CI., Rev. D. (rel. commn.)</Text>
+      <Title>temp. Chapln., 4th CI., Rev.</Title>
+      <Forenames>D.</Forenames>
+      <Text>(rel. commn.)</Text>
       <PageNumber>9018</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -181,7 +189,9 @@
       <Key>McLaughlin</Key>
       <Title>Capt.</Title>
       <Forenames>W. R.</Forenames>
-      <Text>, O.B.E. (Tel. commn. and granted rank of Maj.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>10200</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -210,7 +220,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>A. C</Forenames>
-      <Text>, O.B.E. (ret. pay, ceases to belong to Res. of Off., having attained the age limit of liability to recall)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>8896</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -228,7 +240,11 @@
   <ItemGroup>
     <MainItem>
       <Key>MacLeari</Key>
-      <Text>. temp. Chapln.. 4th CI., Rev. A. M., C.M.G., B.D., T.D. (rel. commn.)</Text>
+      <Title>temp. Chapln.</Title>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>9018</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -237,7 +253,9 @@
       <Key>MacLean</Key>
       <Title>temp. Lt.</Title>
       <Forenames>C. H.</Forenames>
-      <Text>, M.C. (rel. commn. on completion of service and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9623</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -275,7 +293,9 @@
       <Key>McLean</Key>
       <Title>temp. 2nd Lt.</Title>
       <Forenames>M.</Forenames>
-      <Text>, M.M. (rel. commn. on completion of service and retains rank of 2nd Lt.)</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>10438</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -329,7 +349,9 @@
       <Key>McLean</Key>
       <Title>temp. 2nd Lt.</Title>
       <Forenames>W.</Forenames>
-      <Text>(M.G.C., Infy.) (rel. commn. on completion of service and retains rank of 2nd Lt.)</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>10202</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -387,7 +409,9 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>J.</Forenames>
-      <Text>. M.C. (rel. commn. on oompletion of service and retains rank of LU</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9119</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -407,7 +431,10 @@
       <Key>MacLeod</Key>
       <Title>temp. Maj.</Title>
       <Forenames>A. G.</Forenames>
-      <Text>, D.S.O.. O.B.E. (rel. commn. on completion of service and , retains rank of Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>9768</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -418,14 +445,19 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>D.</Forenames>
-      <Text>. D.S.O.. M.C. (reF-itrns commn. :&lt;nrl granteil rank of Lt.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9859</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>McLpod</Key>
-      <Text>. temp. Cant, E. R. (rel. commn. on completion of service and retains rank of Capt.)</Text>
+      <Title>temp.</Title>
+      <Forenames>Cant</Forenames>
+      <Text>, E. R. (rel. commn. on completion of service and retains rank of Capt.)</Text>
       <PageNumber>9020</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -445,7 +477,9 @@
       </Key>
       <Title>temp. Capt.</Title>
       <Forenames>G. F.</Forenames>
-      <Text>. M.C. (rel. commn. on completion of service and retains rank of Cant.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7965</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -459,7 +493,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McT-ood</Key>
-      <Text>. temp: Chapln.. 4th CI., P°v. J. (rel. commn. a.nd to be Hon. Chapln., 4th CI.)</Text>
+      <Text>temp: Chapln.. 4th CI., P°v. J. (rel. commn. a.nd to be Hon. Chapln., 4th CI.)</Text>
       <PageNumber>9018</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -468,7 +502,9 @@
       <Key>MacLeod</Key>
       <Title>temp. 2nd Lt.</Title>
       <Forenames>J. T.</Forenames>
-      <Text>, D.C.M. (rel. commn. on completion of service and retains rank of 2nd Lt.)</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>8810</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -582,7 +618,9 @@
       <Key>Macmanaway</Key>
       <Title>temp. Chapln., 4th CI., Rev.</Title>
       <Forenames>J. J.</Forenames>
-      <Text>, M.C. (rel. commn. and to be Hon. Chapln., 3rd CI.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8895</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -659,7 +697,9 @@
       <Key>Macmillan</Key>
       <Title>temp. Lt.</Title>
       <Forenames>D. D.</Forenames>
-      <Text>, M.C. (rel. commn. on completion of service and retains rank of ' Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8176</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -668,7 +708,9 @@
       <Key>McMillan</Key>
       <Title>temp. 2nd Lt.</Title>
       <Forenames>E. A.</Forenames>
-      <Text>, M.C. (rel. commn. on completion of service and retains rank of 2nd Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9988</PageNumber>
     </MainItem>
   </ItemGroup>

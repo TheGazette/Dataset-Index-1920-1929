@@ -280,6 +280,56 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Bathe</Key>
+      <Forenames>C. A.</Forenames>
+      <PageNumber>686</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Chair</Key>
+      <Forenames>G. H. B .</Forenames>
+      <PageNumber>517</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Foubert</Key>
+      <Forenames>G .</Forenames>
+      <PageNumber>1776</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Guerin</Key>
+      <Forenames>T. W. M.</Forenames>
+      <PageNumber>1427</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Havilland</Key>
+      <Forenames>P. H.</Forenames>
+      <PageNumber>593</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Robeck</Key>
+      <Forenames>J. H. E.</Forenames>
+      <PageNumber>1168</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Trafford</Key>
+      <Forenames>H. E.</Forenames>
+      <PageNumber>854</PageNumber>
+      <PageNumber>855</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Deacon</Key>
       <Forenames>E. H.</Forenames>
       <Text>.:</Text>
@@ -495,7 +545,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Douglass</Key>
-      <Text>. A. F. S</Text>
+      <Forenames>A. F. S.</Forenames>
       <PageNumber>1954</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -538,7 +588,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dresing</Key>
-      <Text>. H. G</Text>
+      <Forenames>H. G.</Forenames>
       <PageNumber>1776</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -828,7 +878,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Elphinstone</Key>
-      <Text>. Dalrymple, Sir F. N., Bt</Text>
+      <Forenames>Dalrymple</Forenames>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>54</PageNumber>
       <PageNumber>1072</PageNumber>
     </MainItem>
@@ -996,7 +1049,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fairfax</Key>
-      <Text>. B. G. F. '</Text>
+      <Forenames>B. G. F.</Forenames>
+      <Text>'</Text>
       <PageNumber>778</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1353,15 +1407,16 @@
       <Key>Floyd</Key>
       <Title>Sir</Title>
       <Forenames>H. R. K.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>777</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Floyer</Key>
-      <Forenames>M.</Forenames>
-      <Text>du B</Text>
+      <Forenames>M. du B</Forenames>
       <PageNumber>1428</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1668,7 +1723,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gane</Key>
-      <Text>. N. G</Text>
+      <Forenames>N. G .</Forenames>
       <PageNumber>778</PageNumber>
     </MainItem>
   </ItemGroup>

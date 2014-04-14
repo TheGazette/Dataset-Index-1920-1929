@@ -430,7 +430,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Bastian</Key>
-      <Text>. Cadet C. O. (Hon. 2nd Lt.)</Text>
+      <Title>Cadet</Title>
+      <Forenames>C. O.</Forenames>
+      <Text>(Hon. 2nd Lt.)</Text>
       <PageNumber>693</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -559,7 +561,9 @@
     <MainItem>
       <Key>Blennerhassett</Key>
       <Forenames>Flying Offr</Forenames>
-      <Text>. Giles Noble, M.C. (resigns short serv. commn., and granted rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>589</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -760,7 +764,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Flving Offr</Forenames>
-      <Text>. Hilton Oscar, M.M. (granted perm, commn.)</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>184</PageNumber>
     </MainItem>
   </ItemGroup>

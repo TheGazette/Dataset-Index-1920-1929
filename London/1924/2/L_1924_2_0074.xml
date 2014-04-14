@@ -174,7 +174,7 @@
   <ItemGroup>
     <MainItem>
       <Key>French</Key>
-      <Text>F. G</Text>
+      <Forenames>F. G.</Forenames>
       <PageNumber>3525</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -353,8 +353,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Harding</Key>
-      <Forenames>K. O</Forenames>
-      <Text>'B</Text>
+      <Forenames>K. O'B</Forenames>
       <PageNumber>3742</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -454,7 +453,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hossack</Key>
-      <Text>I. F</Text>
+      <Forenames>I. F</Forenames>
       <PageNumber>3214</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -475,7 +474,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hutcheson</Key>
-      <Text>W. C</Text>
+      <Forenames>W. C</Forenames>
       <PageNumber>3215</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -866,8 +865,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mellor</Key>
-      <Forenames>L. A. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>L. A. St. J</Forenames>
       <PageNumber>3525</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1088,15 +1086,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hara, J. A. C</Text>
+      <Key>O'Hara</Key>
+      <Forenames>J. A. C</Forenames>
       <PageNumber>2804</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan, H. P</Text>
+      <Key>O'Sullivan</Key>
+      <Forenames>H. P.</Forenames>
       <PageNumber>4990</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1468,7 +1466,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Skeham</Key>
-      <Text>W. J</Text>
+      <Forenames>W. J</Forenames>
       <PageNumber>3214</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1781,7 +1779,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Tuck</Key>
-      <Text>CH.A</Text>
+      <Text>
+        <Honour>CH</Honour>
+      </Text>
       <PageNumber>4990</PageNumber>
     </MainItem>
   </ItemGroup>

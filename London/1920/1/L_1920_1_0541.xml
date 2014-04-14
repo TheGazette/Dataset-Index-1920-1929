@@ -12,7 +12,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Garrard</Key>
-      <Text>. Lt. C. L. J. (corr. of surname)</Text>
+      <Title>Lt.</Title>
+      <Forenames>C. L. J.</Forenames>
+      <Text>(corr. of surname)</Text>
       <PageNumber>2466</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -48,7 +50,9 @@
       <Key>Garrood</Key>
       <Title>Lt.</Title>
       <Forenames>G. W. T.</Forenames>
-      <Text>, A.F.C. (trd. to unempld. list)</Text>
+      <Text>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>202</PageNumber>
     </MainItem>
     <SubItem>
@@ -94,7 +98,10 @@
     <MainItem>
       <Key>Gaskell-Blackburn</Key>
       <Title>Sqdn. Ldr.</Title>
-      <Text>(S.O. V., D.S.C., A.F.C. (Sqdn. Ldr. A. &amp; S.)</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>561</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -208,7 +215,9 @@
       <Key>Gawthorne</Key>
       <Title>2nd Lt.</Title>
       <Forenames>G. J.</Forenames>
-      <Text>, D.S.M. (trd. to unempld. list)</Text>
+      <Text>
+        <Honour>D.S.M.</Honour>
+      </Text>
       <PageNumber>1692</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -266,7 +275,9 @@
       <Key>Geary</Key>
       <Title>Lt.</Title>
       <Forenames>H. V.</Forenames>
-      <Text>, M.C. (rel. R.A.F. commn. on appt. as a probr. for . perm, commn. in the Ind. Army)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2907</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -403,7 +414,9 @@
       <Key>Gendle</Key>
       <Title>Flight Lt. (T)</Title>
       <Forenames>A. E.</Forenames>
-      <Text>, O.B.E. (granted perm, commn.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>983</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -512,7 +525,9 @@
     <MainItem>
       <Key>Gerrard</Key>
       <Forenames>Group</Forenames>
-      <Text>Capt. E. L., G.M.G., D.S.O. (placed on h.p. list)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>2075</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -599,7 +614,9 @@
     <MainItem>
       <Key>Gibbons</Key>
       <Forenames>Lt</Forenames>
-      <Text>, F. G., D.F.C. (trd. to unempld. list)</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>2907</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -630,7 +647,9 @@
       </Key>
       <Title>Flight Lt. (S.O.)</Title>
       <Forenames>V. R.</Forenames>
-      <Text>, D.S.C. (Flight Lt., A.)</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>561</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1014,7 +1033,9 @@
     <MainItem>
       <Key>Gillespie</Key>
       <Title>2nd Lt.</Title>
-      <Text>(Hon. Lt.j A. McKay, M.M. (rel. temp. R.A.F. commn. on return to Army duty)</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>2907</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1112,7 +1133,9 @@
       </Key>
       <Title>Maj. (S.O.)</Title>
       <Forenames>T. E.</Forenames>
-      <Text>, O.B.E. (trd. to unempld. list)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>2075</PageNumber>
     </MainItem>
   </ItemGroup>

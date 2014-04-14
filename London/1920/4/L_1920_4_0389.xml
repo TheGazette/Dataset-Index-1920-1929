@@ -30,7 +30,9 @@
     <MainItem>
       <Key>Worthington</Key>
       <Forenames>R. E.</Forenames>
-      <Text>, D.S.C</Text>
+      <Text>
+        <Honour>D.S.C</Honour>
+      </Text>
       <PageNumber>11347</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -55,7 +57,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Capell</Key>
-      <Text>R. H. A</Text>
+      <Forenames>R. H. A .</Forenames>
       <PageNumber>10107</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -76,7 +78,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Easterbrook</Key>
-      <Text>A. R</Text>
+      <Forenames>A. R</Forenames>
       <PageNumber>9815</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -182,7 +184,7 @@
       <PageNumber>9891</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Sub. Not</Text>
+      <Text>Sub. Not.</Text>
       <PageNumber>11793</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -249,7 +251,9 @@
     <MainItem>
       <Key>Hallding</Key>
       <Forenames>P.</Forenames>
-      <Text>, M.C. (date of seniority)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10861</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -291,7 +295,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kilburn</Key>
-      <Text>Rev R. de Lingen M.A., B.D</Text>
+      <Forenames>Rev R. de Lingen M.A.</Forenames>
+      <Text>, B.D</Text>
       <PageNumber>10107</PageNumber>
     </MainItem>
     <SubItem>
@@ -336,8 +341,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, Rev. P. W. (date of seniority)</Text>
+      <Key>O'Connor</Key>
+      <Title>Rev.</Title>
+      <Forenames>P. W.</Forenames>
+      <Text>(date of seniority)</Text>
       <PageNumber>10861</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -346,7 +353,9 @@
       <Key>Pollen</Key>
       <Title>Rev.</Title>
       <Forenames>A. C. H.</Forenames>
-      <Text>, D.S.C. (date of seniority)</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>10861</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -434,7 +443,9 @@
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Boswell</Forenames>
-      <Text>, A. E., O.B.E. (Lt.-Cdr., retd.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>12713</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -481,7 +492,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Connaught</Key>
-      <Text>and Strathearn, FieldMarshal H.R.H. the Duke of, C.K.G., K.T., K.P., P.C., G.C.B., G.C.S.I., G.C.M.G., G.C.I.E., G.C.V.O., G.B.E (Hon. Capt.)</Text>
+      <Text>
+        <Honour>K.G.</Honour>
+        <Honour>K.T.</Honour>
+        <Honour>P.C.</Honour>
+        <Honour>G.C.B.</Honour>
+        <Honour>G.C.M.G.</Honour>
+        <Honour>G.C.V.O.</Honour>
+      </Text>
       <PageNumber>11793</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -505,7 +523,9 @@
     <MainItem>
       <Key>Davis</Key>
       <Forenames>H. C</Forenames>
-      <Text>, D.S.C. (placed on Retd. List with rank of Comdr.)</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>11002</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -529,7 +549,9 @@
     <MainItem>
       <Key>Fletcher</Key>
       <Forenames>W. M.</Forenames>
-      <Text>, R.D. (placed on Retd. List with rank of Engr. Lt.-Cdr.)</Text>
+      <Text>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>12486</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -697,7 +719,9 @@
     <MainItem>
       <Key>Robinson</Key>
       <Forenames>Lt</Forenames>
-      <Text>, Cdr. L., O.B.E. (placed on Ret. List)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>9694</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -722,7 +746,9 @@
     <MainItem>
       <Key>Smitlhard</Key>
       <Forenames>E. G.</Forenames>
-      <Text>, D.S.C. (Lt.)</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>12658</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -933,7 +959,14 @@
       <Key>Connaught</Key>
       <Title>Maj.-Gen. H.R.H. Prince</Title>
       <Forenames>Arthur</Forenames>
-      <Text>of, K.G., K.T., P.C., G.C.M.G., G. C.V.O., C.B. (Hon. Capt.)</Text>
+      <Text>
+        <Honour>K.G.</Honour>
+        <Honour>K.T.</Honour>
+        <Honour>P.C.</Honour>
+        <Honour>G.C.M.G.</Honour>
+        <Honour>C.V.O.</Honour>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>11793</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -959,7 +992,9 @@
       <Key>Searle</Key>
       <Title>Actg. Cdr.</Title>
       <Forenames>Sydney</Forenames>
-      <Text>, O.B.E</Text>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>10208</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1008,7 +1043,10 @@
       <Key>Bruce</Key>
       <Title>Capt.</Title>
       <Forenames>W. M.</Forenames>
-      <Text>, O.B.E., R.D. (placed on Ret. List)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>10305</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1154,14 +1192,17 @@
       <Key>Pearce</Key>
       <Title>temp. Lt.</Title>
       <Forenames>C. A.</Forenames>
-      <Text>, D.S.M. (appt. to Spec. Res. of Offrs., in R.M., in rank last held on Active List)</Text>
+      <Text>
+        <Honour>D.S.M.</Honour>
+      </Text>
       <PageNumber>11345</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Phillips</Key>
-      <Text>Col. 2nd Comdt. F. T. (placed on Ret. List)</Text>
+      <Title>Col.</Title>
+      <Text>2nd Comdt. F. T. (placed on Ret. List)</Text>
       <PageNumber>12194</PageNumber>
     </MainItem>
   </ItemGroup>

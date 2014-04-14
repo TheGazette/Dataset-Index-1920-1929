@@ -3,12 +3,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Devon</Key>
-      <Text>: Acland.-The Rt. Hon. Francis Dyke, P.O., M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>6842</PageNumber>
     </MainItem>
     <SubItem>
       <Text>
+        <Honour>Bart</Honour>
         <PageNumber>6945</PageNumber>
+        <Honour>C.B.</Honour>
         <PageNumber>6945</PageNumber>
       </Text>
       <PageNumber>7240</PageNumber>
@@ -17,7 +21,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Dorset</Key>
-      <Text>: Stalbridge, Lt. The Rt. Hon. Hugh Grosvenor, Lord, M.C., J.P</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6945</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -38,7 +44,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Glamorgan</Key>
-      <Text>: Tyler, Maj.-Gen. Trevor Bruce, C.B., C.S.I., J.P</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>6945</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -49,7 +57,9 @@
       <PageNumber>5245</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Samson, Sir Edward Marlay, K.B.E., K.C</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+      </Text>
       <PageNumber>5245</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -63,6 +73,8 @@
       <Text>
         <PageNumber>5245</PageNumber>
         <PageNumber>5245</PageNumber>
+        <Honour>D.L.</Honour>
+        <Honour>D.L.</Honour>
       </Text>
       <PageNumber>5245</PageNumber>
     </SubItem>
@@ -70,6 +82,7 @@
       <Text>
         <PageNumber>6674</PageNumber>
         <PageNumber>5245</PageNumber>
+        <Honour>M.V.O</Honour>
       </Text>
       <PageNumber>5245</PageNumber>
     </SubItem>
@@ -93,7 +106,10 @@
     </MainItem>
     <SubItem>
       <Text>
+        <Honour>M.V.O.</Honour>
+        <Honour>D.S.O.</Honour>
         <PageNumber>5832</PageNumber>
+        <Honour>C.M.G.</Honour>
       </Text>
       <PageNumber>6674</PageNumber>
     </SubItem>
@@ -118,7 +134,6 @@
     </SubItem>
   </ItemGroup>
   <SubSectionTitle>see Arnold-Foster, E. P</SubSectionTitle>
-  <CategoryTitle>ADVERTISEMENTS</CategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>Aarons</Key>

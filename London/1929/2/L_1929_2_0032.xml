@@ -12,7 +12,9 @@
     <MainItem>
       <Key>Glyn</Key>
       <Forenames>Ralph George Campbell</Forenames>
-      <Text>, M.P. for Abingdon</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4106</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -44,7 +46,9 @@
     <MainItem>
       <Key>Goldsmith</Key>
       <Forenames>Edward</Forenames>
-      <Text>, O.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3683</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -69,7 +73,9 @@
       <Key>Gordon</Key>
       <Title>Miss</Title>
       <Forenames>Elizabeth Adam</Forenames>
-      <Text>, A.R.R.C., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>A.R.R.C.</Honour>
+      </Text>
       <PageNumber>3676</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -84,7 +90,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Goschen</Key>
-      <Text>of Hawk-hurst, Lieut.Colonel and Honorary Colonel George Joachim, Viscount, G.C.I.E., C.B.E., V.D., acting GovernorGeneral of India</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>2768</PageNumber>
     </MainItem>
     <SubItem>
@@ -96,7 +104,9 @@
     <MainItem>
       <Key>Gosling</Key>
       <Forenames>Harry</Forenames>
-      <Text>, M.P. for Whitechapel and St. George's</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4114</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -104,7 +114,9 @@
     <MainItem>
       <Key>Gossling</Key>
       <Forenames>Archibald George</Forenames>
-      <Text>, M.P. for Yardley Division, Birmingham</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4106</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -122,7 +134,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Frederick</Forenames>
-      <Text>, M.P. for Frome</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4114</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -131,7 +145,9 @@
       <Key>Cower</Key>
       <Title>Sir</Title>
       <Forenames>Robert Vaughan</Forenames>
-      <Text>, Kt., M.P. for Gillingham</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4113</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -149,14 +165,18 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>John</Forenames>
-      <Text>, M.P. for Wirral</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4107</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Graham</Key>
-      <Text>. Duncan McGregor, M.P. for Hamilton</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4117</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -166,7 +186,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Frederick Fergus</Forenames>
-      <Text>, M.P. for Northern Cumberland</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4108</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -201,7 +223,9 @@
       <PageNumber>3856</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>M.P. for Edinburgh, Central</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4117</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -209,7 +233,10 @@
     <MainItem>
       <Key>Grahame</Key>
       <Title>The Rt. Hon. Sir</Title>
-      <Text>___ George Dixon, G.C.V.O., K.C.M.G., Knight Grand Cross, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>G.C.V.O.</Honour>
+        <Honour>K.C.M.G.</Honour>
+      </Text>
       <PageNumber>3670</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -228,7 +255,11 @@
       </Key>
       <Title>Colonel</Title>
       <Forenames>John Duncan</Forenames>
-      <Text>, V.C., D.S.O., Companion, Order of the Bath -</Text>
+      <Text>
+        <Honour>V.C.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3668</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -247,7 +278,9 @@
     <MainItem>
       <Key>Granville</Key>
       <Forenames>Edgar Louis</Forenames>
-      <Text>, M.P. for Eye ..-</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4114</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -256,7 +289,9 @@
       <Key>Grattan-Doyle</Key>
       <Title>Sir</Title>
       <Forenames>Nicholas</Forenames>
-      <Text>, Kt., M.P. for Newcastleupon-Tyne, North</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4112</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -264,7 +299,9 @@
     <MainItem>
       <Key>Gray</Key>
       <Forenames>Milner</Forenames>
-      <Text>, M.P. for Mid. Division, Bedford County</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4106</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -280,7 +317,9 @@
       <Key>Greaves-Lord</Key>
       <Title>Sir</Title>
       <Forenames>Walter</Forenames>
-      <Text>, K.C., M.P. for Norwood '</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4110</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -296,7 +335,9 @@
     <MainItem>
       <Key>Greene</Key>
       <Forenames>William Pomeroy Craw-</Forenames>
-      <Text>ford, M.P. for Worcester</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4116</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -313,7 +354,9 @@
     <MainItem>
       <Key>Greenwell</Key>
       <Title>Major and Brevet Lieut.</Title>
-      <Text>Colonel (local Colonel) William Basil, D.S.O., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3672</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -322,7 +365,9 @@
       <Key>Greenwood</Key>
       <Title>Rt. Hon.</Title>
       <Forenames>Arthur</Forenames>
-      <Text>, M.P. for Nelson and Colne</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4112</PageNumber>
     </MainItem>
     <SubItem>
@@ -337,7 +382,9 @@
       </Key>
       <Title>Rt. Hon. Sir</Title>
       <Forenames>Hamar</Forenames>
-      <Text>, Bt., K.C., Baron</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4352</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -371,7 +418,9 @@
     <MainItem>
       <Key>Grenfell</Key>
       <Forenames>David Rees</Forenames>
-      <Text>, M.P. for Gower</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4109</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -381,7 +430,9 @@
         <KeyDitto>___ ___ .</KeyDitto>
       </Key>
       <Forenames>Edward Charles</Forenames>
-      <Text>, M.P. for London</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4107</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -389,7 +440,9 @@
     <MainItem>
       <Key>Gretton</Key>
       <Forenames>John</Forenames>
-      <Text>, M.P. for Burton</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4111</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -405,7 +458,9 @@
     <MainItem>
       <Key>Griffith</Key>
       <Forenames>Frank Kingsley</Forenames>
-      <Text>, M.P. for Middlesbrough, West</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4112</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -413,7 +468,9 @@
     <MainItem>
       <Key>Griffiths</Key>
       <Forenames>Thomas</Forenames>
-      <Text>, M.P. for Pontypool</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4112</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -429,7 +486,9 @@
     <MainItem>
       <Key>Gritten</Key>
       <Forenames>William George Howard</Forenames>
-      <Text>, M.P. for the Hartlepools</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4109</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -445,7 +504,9 @@
     <MainItem>
       <Key>Groves</Key>
       <Forenames>Thomas Edward</Forenames>
-      <Text>, M.P. for Stratford</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4115</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -453,7 +514,9 @@
     <MainItem>
       <Key>Grundv</Key>
       <Forenames>Thomas Walter</Forenames>
-      <Text>, M.P. for Rother Valley</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4116</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -461,7 +524,9 @@
     <MainItem>
       <Key>Guest</Key>
       <Forenames>John</Forenames>
-      <Text>, M.P. for Hemsworth</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4116</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -470,7 +535,10 @@
       <Key>Guinness</Key>
       <Title>Rt. Hon.</Title>
       <Forenames>Walter Edward</Forenames>
-      <Text>, D.S.O., M.P. for Bury St. Edmunds</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4114</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -487,14 +555,19 @@
       <Key>Gunston</Key>
       <Title>Capt.</Title>
       <Forenames>Derrick Wel-</Forenames>
-      <Text>lesley, M.C., M.P. for Thornbury</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4109</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Gwynne</Key>
-      <Text>Vaughan, Professor Dame Helen Charlotte Isabella, D.B.E., LL.D., D.Sc, Dame Grand Cross, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.B.E.</Honour>
+      </Text>
       <PageNumber>3675</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -509,7 +582,12 @@
   <ItemGroup>
     <MainItem>
       <Key>Hacking</Key>
-      <Text>Captain Douglas Hewitt, O.B.E., M.P. for Chorley</Text>
+      <Title>Captain</Title>
+      <Forenames>Douglas Hewitt</Forenames>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4110</PageNumber>
     </MainItem>
     <SubItem>
@@ -540,7 +618,12 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Title>Lt.</Title>
-      <Text>-Colonel Sir Frederick, Bt., K.B.E., D.S.O., M.P. for Dulwich</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>K.B.E.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4107</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -550,7 +633,9 @@
         <KeyDitto>___ ___ ___ ___ .</KeyDitto>
       </Key>
       <Forenames>Frederick</Forenames>
-      <Text>, M.P. for Normanton</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4116</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -560,7 +645,9 @@
         <KeyDitto>___ —— ___ ___</KeyDitto>
       </Key>
       <Forenames>George Henry</Forenames>
-      <Text>, M.P. for Aberdare</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4112</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -581,7 +668,9 @@
       </Key>
       <Title>Captain</Title>
       <Forenames>William George</Forenames>
-      <Text>, M.P. for Portsmouth, Central</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4113</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -608,7 +697,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>George Clements</Forenames>
-      <Text>, Kt., .M.P. for Ilford</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4110</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -629,7 +720,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Mary Agnes</Forenames>
-      <Text>, M.P. for Blackburn</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4106</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -640,7 +733,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>Robert William</Forenames>
-      <Text>, Kt., M.P. for Orkney and Zetland</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4117</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -648,7 +743,9 @@
     <MainItem>
       <Key>Hammersley</Key>
       <Forenames>Samuel Schofield</Forenames>
-      <Text>, M.P. for Stockport</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4114</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -664,7 +761,9 @@
     <MainItem>
       <Key>Hanbury</Key>
       <Forenames>Cecil</Forenames>
-      <Text>, M.P. for Northern Dorset</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4108</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -672,7 +771,9 @@
     <MainItem>
       <Key>Hankey</Key>
       <Title>Lieut.</Title>
-      <Text>-Colonel Sir Maurice Pascal Alers, G.C.B., Knight Grand Cross, Order of Saint Michael and Saint George</Text>
+      <Text>
+        <Honour>G.C.B.</Honour>
+      </Text>
       <PageNumber>3669</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -680,7 +781,9 @@
     <MainItem>
       <Key>Hankins</Key>
       <Forenames>William Smith</Forenames>
-      <Text>, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3683</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -696,7 +799,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Hannon</Key>
-      <Text>Patrick Joseph Henry, M.P. for Moseley Division, Birmingham</Text>
+      <Forenames>Patrick Joseph Henry</Forenames>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4106</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -722,14 +828,18 @@
     <MainItem>
       <Key>Harbison</Key>
       <Forenames>Thomas James Stanis-</Forenames>
-      <Text>laus, M.P. for Fermanagh and Tyrone</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4118</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Harbord</Key>
-      <Text>' Arthur, M.P. for Great Yarmouth</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4109</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -745,7 +855,9 @@
     <MainItem>
       <Key>Hardie</Key>
       <Forenames>George Downie</Forenames>
-      <Text>, M.P. for Springburn</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4117</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -777,7 +889,9 @@
     <MainItem>
       <Key>Harris</Key>
       <Forenames>Percv Alfred</Forenames>
-      <Text>, M.P. for Betbnal Green, South-West</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4106</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -785,14 +899,20 @@
     <MainItem>
       <Key>Hartington</Key>
       <Forenames>Edward William Spencer Cavendish</Forenames>
-      <Text>, Marquess of, M.P. for Western Derby</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4108</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hartshorn</Key>
-      <Text>Rt. Hon. Vernon, M.P. for Ogmore</Text>
+      <Title>Rt. Hon.</Title>
+      <Forenames>Vernon</Forenames>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4109</PageNumber>
     </MainItem>
   </ItemGroup>

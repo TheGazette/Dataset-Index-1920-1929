@@ -53,8 +53,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donahue, temp. Lt. i(Adjt., Capt., additd.) .... M. (laotg. Capt. oomdg. a -Co.)</Text>
+      <Key>O'Donahue</Key>
+      <Title>temp. Lt.</Title>
+      <Text>i(Adjt., Capt., additd.) .... M. (laotg. Capt. oomdg. a -Co.)</Text>
       <PageNumber>1368</PageNumber>
     </MainItem>
     <SubItem>
@@ -67,7 +68,9 @@
       <Key>Gulton</Key>
       <Title>Capt. (actg. Maj.)</Title>
       <Forenames>W. P.</Forenames>
-      <Text>, M.C. {temp. Lt.-Col. comdg. tihe ah 'Serv. Bn., R. Ir. Regt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2272</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -76,7 +79,9 @@
       <Key>Ouzman</Key>
       <Title>temp. Lt.</Title>
       <Forenames>W. J. C</Forenames>
-      <Text>, M.C. '(aotg Capt. oomidg. a Oo. (corr. of date), 'Sub. Not</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>939</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -94,14 +99,19 @@
       <Key>Ponmall</Key>
       <Title>temp. Maj. (Lt., R.W. iSurr. iR.)</Title>
       <Forenames>C</Forenames>
-      <Text>, DJS.O., M.C. ifaotg. 'Lt.-Col. oomidg. tlhe 20th Serv. Bn., Durh. L.I.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>189</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Parish</Key>
-      <Text>,Maj F. W., D.S.O., M.C. .(rel.. aotg. rank of Lt.-OoJ. on ceasing to oomd. ,13th Serv. Bn.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>189</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -110,7 +120,9 @@
       <Key>Parker</Key>
       <Title>temp. Lt.</Title>
       <Forenames>W. R.</Forenames>
-      <Text>, D.C.M. i(rel. aatig. rank of Capt. on ceas tog to comd. a Co.)</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>2444</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -123,7 +135,7 @@
       <PageNumber>175</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>'Rel. temp, rank of lit.-Col. on ceasing to ooimd. the 20th Serv. Bn., Diumh. L.I</Text>
+      <Text>'Rel. temp, rank of lit.-Col. on ceasing to ooimd. the 20th Serv. Bn., Diumh. L.I.</Text>
       <PageNumber>2897</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -135,7 +147,7 @@
       <PageNumber>1085</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Aictg. Maj .-whilst 2nd in oomd. of the 10th Serv. Bn</Text>
+      <Text>Aictg. Maj .-whilst 2nd in oomd. of the 10th Serv. Bn.</Text>
       <PageNumber>1653</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -143,7 +155,9 @@
     <MainItem>
       <Key>Perry</Key>
       <Title>Oaplt.</Title>
-      <Text>'(Bit. Maj.) B. H. H., D.S.O., M.O. {acibg. Maj. whilst End in comd. of the 53rd Serv. 'Bn., Northd Fus.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>20</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -206,18 +220,22 @@
       <Key>Powell-Jones</Key>
       <Title>temp. Capt.</Title>
       <Forenames>F. A</Forenames>
-      <Text>, G. . M.C. (rel. aotg. rank of Maj. on ceasing to he 2nd in ©ornid. of the 6th Serv. Bn., R.W. iSlurr. R.) ;</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>540</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Power</Key>
-      <Text>. Miaj. {.Bt. Lt.-Obd.) R. E., D.IS.O. (rel. temp, rank of lA.Col. on ceasing to comid. the 53rd iServ. Bn., Notts, and Derby. R.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>1211</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Rel. actg. rank of Capt. on ceasing to comd. a Co., Wore. R</Text>
+      <Text>Rel. actg. rank of Capt. on ceasing to comd. a Co., Wore. R.</Text>
       <PageNumber>494</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -237,7 +255,10 @@
       <Key>Prior</Key>
       <Title>Capt. (St. Miaj.)</Title>
       <Forenames>G. E. R.</Forenames>
-      <Text>, D.S.O., M.C. (rel. actg. rank of iMaj. on ©easing to ibe 2nd iin .comd. of the 62nd Serv. B,n,) ,</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>189</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -273,14 +294,18 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>iLt. R., M.C. (rel. aotg. rank of Capt. on ceasing to ibe Adljt., 45th IServ. 'Bin., R. Fus.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>20</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Ran</Key>
-      <Text>.gecroift, temp. Lt. H. Q., M.C. (red. oommn. on oompdetaion of service, and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>541</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -311,7 +336,9 @@
       <Key>Ridley</Key>
       <Title>temp. Capt.</Title>
       <Forenames>T. K. G.</Forenames>
-      <Text>, M.C. i(Adjt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>323</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -329,7 +356,10 @@
       <Key>Roderick</Key>
       <Title>temp. Lt.</Title>
       <Forenames>W. D.</Forenames>
-      <Text>, D.S.O., 'M.C. (actg. Capt. comdg. a Co.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3426</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -354,7 +384,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Sawyer</Key>
-      <Text>. Maj. G. K.} D.S.O. (rel. actg. rank of Lt.-Col. on ceasing to comd. the 10th Serv. Bn., R. W. Surr. iR.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>189</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -394,7 +426,9 @@
       <Key>Seagrim</Key>
       <Title>Maj.</Title>
       <Forenames>A. H.</Forenames>
-      <Text>, D.S.O. (Tel. temp, rank of Lt.-Col. on ceasing to comd. the 10th Serv. Bn., High. L.I.-)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>298</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -403,7 +437,9 @@
       <Key>Seligmann</Key>
       <Title>temp. Lt.</Title>
       <Forenames>L. B.</Forenames>
-      <Text>, M.C. i(actg. Capt. comdg. a Co., R. Fus.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1667</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -412,7 +448,9 @@
       <Key>Shearman</Key>
       <Title>Capt.</Title>
       <Forenames>C.</Forenames>
-      <Text>IE. G., D.S:0., M.C. (actg. Maj. whilst 2nd in comd. of the 53rd Serv. Bn., corr. of dates), Sub. Not</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1211</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -421,7 +459,9 @@
       <Key>Shepherdson</Key>
       <Title>temp. Lt.</Title>
       <Forenames>L. W.</Forenames>
-      <Text>M.C. (rel. actg. rank of Capt. on ceasing to comd. a Co.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2897</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -482,7 +522,9 @@
       <Key>Sturman</Key>
       <Title>temp. Lt.</Title>
       <Forenames>W. E. C</Forenames>
-      <Text>, M.C. (actg. Capt. comdg. a Co.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2897</PageNumber>
     </MainItem>
     <KeyDitto>—</KeyDitto>

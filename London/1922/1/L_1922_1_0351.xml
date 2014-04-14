@@ -3,7 +3,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Falgar</Key>
-      <Text>.Capt. R. J., M.B.E. (resigns conimn. and granted rank of Maj.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>2435</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -74,7 +76,9 @@
       <Key>Gray</Key>
       <Title>Capt.</Title>
       <Forenames>J. W.</Forenames>
-      <Text>M.C. (resigns commn. and granted rank of Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>965</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -238,7 +242,9 @@
       <Key>Rudkin</Key>
       <Title>Lt.</Title>
       <Forenames>J.</Forenames>
-      <Text>, M.C. (rel. temp. commn.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>554</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -486,7 +492,9 @@
   <ItemGroup>
     <MainItem>
       <Key>White</Key>
-      <Text>. 2nd Lt. L. W. N. (corr. of of promn. to Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>L. W. N.</Forenames>
+      <Text>(corr. of of promn. to Lt.)</Text>
       <PageNumber>2621</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -593,7 +601,9 @@
     <MainItem>
       <Key>Bennett</Key>
       <Forenames>V. B.</Forenames>
-      <Text>. M.B.-, F.R.C.S.,</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>2621</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -601,14 +611,18 @@
     <MainItem>
       <Key>Sprawson</Key>
       <Forenames>Lt-</Forenames>
-      <Text>Col. C. A., CLE., ' . M.D., F.R.C.P. (temp , while Consulting Physician in Mesopotamia)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>2048</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Turner</Key>
-      <Text>R. G., G.M.G., D.S.O., F.R.C.S</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>2621</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -616,7 +630,9 @@
     <MainItem>
       <Key>Wall</Key>
       <Forenames>F.</Forenames>
-      <Text>, C.M.G. (coir, of date of prom.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>2621</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -625,7 +641,9 @@
     <MainItem>
       <Key>Milne</Key>
       <Forenames>C</Forenames>
-      <Text>, O.B.E., M.B. (coir, of date) ... -. '.. £</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>622</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -657,7 +675,10 @@
     <MainItem>
       <Key>OMeara</Key>
       <Forenames>E. J.</Forenames>
-      <Text>, O.B.E., F.R.C.S</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>F.R.C.S</Honour>
+      </Text>
       <PageNumber>2435</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -672,7 +693,9 @@
     <MainItem>
       <Key>Smith</Key>
       <Forenames>G. Mcl</Forenames>
-      <Text>. C, C.M.G., M.B</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>2242</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -680,7 +703,9 @@
     <MainItem>
       <Key>Williams</Key>
       <Forenames>T. S. B.</Forenames>
-      <Text>, M.D.,</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>204</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -702,7 +727,7 @@
       <PageNumber>1415</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>While comdg. Ind. Gen. Hos</Text>
+      <Text>While comdg. Ind. Gen. Hos.</Text>
       <PageNumber>2622</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -745,7 +770,9 @@
       <Key>Rodger</Key>
       <Title>Capt.</Title>
       <Forenames>J.</Forenames>
-      <Text>, M.C. (rel. actg. rank on ceasing to be empld as Registrar of an Ind. Gen. Hosp.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1415</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -118,7 +118,9 @@
       <Key>Gillefct</Key>
       <Title>Lt.</Title>
       <Forenames>B. G.</Forenames>
-      <Text>. O.B.E. (resigns commn. and granted rank of Capt.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>6318</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -275,7 +277,9 @@
       <Key>Gladstone</Key>
       <Title>Capt.</Title>
       <Forenames>A. C</Forenames>
-      <Text>, M.B.E. (rel. commn. and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>5041</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -286,7 +290,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>S. D.</Forenames>
-      <Text>, M.C. (resigns commn. and granted rank of . Capt,)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6316</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -438,7 +444,9 @@
       <Key>Goldsmith</Key>
       <Title>Capt. and Bt. Maj.</Title>
       <Forenames>H. A.</Forenames>
-      <Text>, M.C. (Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6778</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -536,7 +544,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>L. C. H.</Forenames>
-      <Text>, M.C. (resigns commn. and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6717</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -609,7 +619,10 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>J.</Forenames>
-      <Text>de la H., O.B.E., M.C. (trd. to Supy. List)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5973</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -714,15 +727,16 @@
     <MainItem>
       <Key>Gosselin</Key>
       <Title>Lt.</Title>
-      <Forenames>H.</Forenames>
-      <Text>de Vere (resigns commn. and granted rank of Capt.)</Text>
+      <Forenames>H. de Vere</Forenames>
+      <Text>(resigns commn. and granted rank of Capt.)</Text>
       <PageNumber>6317</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Gotch</Key>
-      <Forenames>Lieut C. W.</Forenames>
+      <Title>Lieut</Title>
+      <Forenames>C. W.</Forenames>
       <Text>(resigns comnin. ^nd retains rank of Lt.)</Text>
       <PageNumber>6385</PageNumber>
     </MainItem>
@@ -874,7 +888,9 @@
       <Key>Cover</Key>
       <Title>Maj.</Title>
       <Forenames>A</Forenames>
-      <Text>C, M.C. (retirement)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6101</PageNumber>
     </MainItem>
   </ItemGroup>

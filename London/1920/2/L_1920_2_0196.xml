@@ -69,7 +69,9 @@
       <Key>Pragnell</Key>
       <Title>Bt. Lt.-Col.</Title>
       <Forenames>T. W.</Forenames>
-      <Text>, D.S.O. (temp. Maj. whilst D.A.Q.M.G.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5454</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -91,7 +93,7 @@
       <PageNumber>4447</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Rel. commn. and retains rank of Lt</Text>
+      <Text>Rel. commn. and retains rank of Lt.</Text>
       <PageNumber>7074</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -109,7 +111,9 @@
       <Key>Pratt</Key>
       <Title>Maj. and Bt. Lt.-Col.</Title>
       <Forenames>A. G.</Forenames>
-      <Text>, D.S.O. (retires on ret. pay on acc. of ill-health caused by wounds)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5209</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -120,7 +124,10 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>A. M.</Forenames>
-      <Text>, M.C.(rel. actg. rank of Maj. on ceasing to comd. a Co., M.G.C. Infy.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>4448</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -254,7 +261,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>L. V.</Forenames>
-      <Text>, M.C. (rel. commn. and granted rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4675</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -276,7 +285,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>T.</Forenames>
-      <Text>, M.C. (rel. commn. and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6309</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -300,7 +311,7 @@
       <PageNumber>4554</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Rel. commn. on completion of service, and retains rank of 2nd Lt., corr. of date of relinquishment, Sub. Not</Text>
+      <Text>Rel. commn. on completion of service, and retains rank of 2nd Lt., corr. of date of relinquishment, Sub. Not.</Text>
       <PageNumber>5458</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -309,7 +320,9 @@
       <Key>Prescott-Decie</Key>
       <Title>Col. (temp. Brig.Gen.)</Title>
       <Forenames>C</Forenames>
-      <Text>, D.S.O. (retires on ret. pay, and granted hon. rank of Brig.-Gen.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4219</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -373,7 +386,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>P. F.</Forenames>
-      <Text>, M.C. (rel. commn. and granted rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6553</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -422,7 +437,9 @@
       <Key>Pretyman</Key>
       <Title>Lt.</Title>
       <Forenames>E. R.</Forenames>
-      <Text>, M.C. (rel. temp, rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4673</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -473,7 +490,11 @@
       </Key>
       <Title>Lt.-Col. and Bt. Col.</Title>
       <Forenames>B. G.</Forenames>
-      <Text>, C.B., C.M.G., D.S.O. (Col.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4950</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -495,7 +516,10 @@
       </Key>
       <Title>temp. Maj.</Title>
       <Forenames>C. W.</Forenames>
-      <Text>, O.B.E., M.C. (rel. commn. on completion of service and granted rank of Lt.-Col.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5929</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -527,8 +551,8 @@
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
       <Title>Lt.</Title>
-      <Forenames>F.</Forenames>
-      <Text>de B. (rel. commn. and retains rank of Lt.)</Text>
+      <Forenames>F. de B</Forenames>
+      <Text>. (rel. commn. and retains rank of Lt.)</Text>
       <PageNumber>5440</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -583,12 +607,14 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>H. L.</Forenames>
-      <Text>, M.C. (S. Wales Bord.) (rel. commn. on completion of service and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6685</PageNumber>
     </MainItem>
     <KeyDitto>___ ___</KeyDitto>
     <SubItem>
-      <Text>Rel. temp, rank of Capt</Text>
+      <Text>Rel. temp, rank of Capt.</Text>
       <PageNumber>4199</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -621,7 +647,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>O. L.</Forenames>
-      <Text>, D.S.O. (rel. actg. rank of Lt-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5558</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -665,7 +693,10 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>T. R.</Forenames>
-      <Text>, D.S.O., M.C. (seed. for serv. with Tank Corps)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4333</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -696,7 +727,9 @@
       <Key>Prichard</Key>
       <Title>Qrmr. and Maj.</Title>
       <Forenames>F. T.</Forenames>
-      <Text>, M.C. (retires on ret. pay, having attained the age limit for retirement), Sub. Not</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4679</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -707,7 +740,9 @@
       </Key>
       <Title>temp. Maj.</Title>
       <Forenames>R. G.</Forenames>
-      <Text>, O.B.E. (rel. commn. on completion of service and retains rank of Maj.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4413</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -735,7 +770,9 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>^ temp. 2nd Lt. L. B., M.C. (rel. commn. on completion of service and retains rank of 2nd Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5819</PageNumber>
     </MainItem>
   </ItemGroup>

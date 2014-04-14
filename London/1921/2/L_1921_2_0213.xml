@@ -3,7 +3,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Low</Key>
-      <Text>bridge, G. C., M.C. (temp. Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3741</PageNumber>
     </MainItem>
     <SubItem>
@@ -15,7 +17,9 @@
     <MainItem>
       <Key>Lowe</Key>
       <Forenames>D. M.</Forenames>
-      <Text>, D.C.M. (temp. Capt.)</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>3260</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -92,7 +96,9 @@
     <MainItem>
       <Key>Lucas</Key>
       <Forenames>E.</Forenames>
-      <Text>, M.C. (temp. Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3264</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -170,7 +176,9 @@
     <MainItem>
       <Key>Lyall</Key>
       <Forenames>G. T.</Forenames>
-      <Text>, V.C. (temp. Capt.)</Text>
+      <Text>
+        <Honour>V.C.</Honour>
+      </Text>
       <PageNumber>3633</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -186,7 +194,9 @@
     <MainItem>
       <Key>Lyle</Key>
       <Forenames>A. A.</Forenames>
-      <Text>, O.B.E. (temp. Lt.Col.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4072</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -196,7 +206,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>A. M. P.</Forenames>
-      <Text>M.C. (temp. Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3818</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -286,7 +298,9 @@
     <MainItem>
       <Key>Macadam</Key>
       <Forenames>I. S.</Forenames>
-      <Text>, O.B.E. (temp. Capt,)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3819</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -378,7 +392,9 @@
     <MainItem>
       <Key>McCarthy</Key>
       <Forenames>T. G.</Forenames>
-      <Text>, M.C. (temp. Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3979</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -396,7 +412,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>W.</Forenames>
-      <Text>, D.S.O. (temp. Lt.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3264</PageNumber>
     </MainItem>
     <SubItem>
@@ -451,7 +469,9 @@
     <MainItem>
       <Key>McCracken</Key>
       <Forenames>W.</Forenames>
-      <Text>, D.S.O. (temp. Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3822</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -459,7 +479,9 @@
     <MainItem>
       <Key>McCreath</Key>
       <Forenames>D. C</Forenames>
-      <Text>, M.C. (temp. 2nd Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4266</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -483,7 +505,10 @@
     <MainItem>
       <Key>McCullagh</Key>
       <Forenames>A. C. H.</Forenames>
-      <Text>, D.S.O., M.D. (temp. Capt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3531</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -525,7 +550,9 @@
         <KeyDitto>___</KeyDitto>
       </Key>
       <Forenames>D. R.</Forenames>
-      <Text>.(R.A.M.C.) (temp. Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3923</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -624,7 +651,9 @@
     <MainItem>
       <Key>McEldowney</Key>
       <Forenames>R. J.</Forenames>
-      <Text>, M.C. (temp. Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3511</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -671,7 +700,8 @@
   <ItemGroup>
     <MainItem>
       <Key>McFadzean</Key>
-      <Text>A. (temp. Lt.)</Text>
+      <Forenames>A.</Forenames>
+      <Text>(temp. Lt.)</Text>
       <PageNumber>3513</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -686,7 +716,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Macfarlane</Key>
-      <Text>C. (temp. Lt.)</Text>
+      <Forenames>C.</Forenames>
+      <Text>(temp. Lt.)</Text>
       <PageNumber>3733</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -702,7 +733,10 @@
     <MainItem>
       <Key>Macfarlane</Key>
       <Forenames>W</Forenames>
-      <Text>D.S.O., T.D. (temp. Li.) '</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>3830</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -717,7 +751,10 @@
   <ItemGroup>
     <MainItem>
       <Key>MacGeorge</Key>
-      <Text>A. M., T.D. (temp 2nd Lt.)</Text>
+      <Forenames>A. M.</Forenames>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>4071</PageNumber>
     </MainItem>
     <SubItem>
@@ -872,7 +909,9 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>J. G.</Forenames>
-      <Text>. M.C. (temp. Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3510</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -888,7 +927,9 @@
     <MainItem>
       <Key>Mclntyre</Key>
       <Forenames>R. W.</Forenames>
-      <Text>, M.C. (temp. Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3821</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -904,7 +945,9 @@
     <MainItem>
       <Key>McKaig</Key>
       <Forenames>J. B.</Forenames>
-      <Text>, D.S.O. (temp. Lt.-Co.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3634</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -914,7 +957,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>W. R.</Forenames>
-      <Text>, M.C. (temp. Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3634</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -930,7 +975,9 @@
     <MainItem>
       <Key>Mackay</Key>
       <Forenames>G. E.</Forenames>
-      <Text>, T.D. (temp. Lt.)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>5096</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -977,7 +1024,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mackenzie</Key>
-      <Text>A. C. (temp. Capt.)</Text>
+      <Forenames>A. C.</Forenames>
+      <Text>(temp. Capt.)</Text>
       <PageNumber>3364</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -987,7 +1035,10 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>C. M.</Forenames>
-      <Text>, D.S.O., O.B.E. (temp. Lt.-Col )</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3265</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1021,7 +1072,10 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>F. B</Forenames>
-      <Text>, D.S.O., M.C. (temp. Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3526</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1031,7 +1085,10 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>H. G. G.</Forenames>
-      <Text>, D.S.O., M.D. (terip. Lt.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3516</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1061,7 +1118,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>L. A.</Forenames>
-      <Text>, M.C., M.B. (temp. Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3647</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1069,7 +1128,9 @@
     <MainItem>
       <Key>MacKenzie</Key>
       <Forenames>M.</Forenames>
-      <Text>, M.C. (temp. Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3822</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1077,7 +1138,11 @@
     <MainItem>
       <Key>Mackenzie</Key>
       <Forenames>R. H.</Forenames>
-      <Text>, D.S.O., M.C., T.D. (temp. Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>3741</PageNumber>
     </MainItem>
     <SubItem>
@@ -1157,7 +1222,9 @@
     <MainItem>
       <Key>Mackinnon</Key>
       <Forenames>J.</Forenames>
-      <Text>, D.S.O. (temp. Lt.Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3265</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1167,7 +1234,9 @@
         <KeyDitto>— ___ ___</KeyDitto>
       </Key>
       <Forenames>L.</Forenames>
-      <Text>, D.S.O. (temp. Lt.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3822</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1223,7 +1292,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>W.</Forenames>
-      <Text>, M.C. (temp. Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4619</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1239,7 +1310,9 @@
     <MainItem>
       <Key>Maclachlan</Key>
       <Forenames>D. N.</Forenames>
-      <Text>, M.C. (temp. Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3528</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1265,7 +1338,10 @@
     <MainItem>
       <Key>McLaren</Key>
       <Forenames>H.</Forenames>
-      <Text>, D.S.O., M.C. (temp. Capt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3922</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1309,7 +1385,9 @@
     <MainItem>
       <Key>Maclellan</Key>
       <Forenames>W. A.</Forenames>
-      <Text>, M.C. (temp. Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3632</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1431,7 +1509,9 @@
     <MainItem>
       <Key>McNaughton</Key>
       <Forenames>J.</Forenames>
-      <Text>, M.C. (temp. Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3352</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1449,7 +1529,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>A. J.</Forenames>
-      <Text>, D.S.O. (temp. Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4369</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1485,7 +1567,9 @@
     <MainItem>
       <Key>Macpherson</Key>
       <Forenames>Capt</Forenames>
-      <Text>, E. R., O.B.E. (temp. Ord. Off., 4th CI., R.A.O.C.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3647</PageNumber>
     </MainItem>
     <SubItem>
@@ -1523,7 +1607,9 @@
     <MainItem>
       <Key>Macquaker</Key>
       <Forenames>T. M.</Forenames>
-      <Text>, M.C. (temp. Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3366</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1531,7 +1617,9 @@
     <MainItem>
       <Key>Macrae</Key>
       <Forenames>J. D.</Forenames>
-      <Text>, M.M. (temp. Lt.)</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>3653</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1569,7 +1657,9 @@
     <MainItem>
       <Key>Macre</Key>
       <Forenames>W. D.</Forenames>
-      <Text>, M.C. (temp. Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3366</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1601,7 +1691,11 @@
     <MainItem>
       <Key>McSheehy</Key>
       <Forenames>O. W.</Forenames>
-      <Text>, D.S.O., O.B.E. (Maj., R.A.M.C.), (granted rank of temp. Lt.-Coi. while comdg. a Fd. Amb.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3832</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1609,7 +1703,9 @@
     <MainItem>
       <Key>Mactaggart</Key>
       <Forenames>C</Forenames>
-      <Text>, M.C. (temp. Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3733</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1625,7 +1721,9 @@
     <MainItem>
       <Key>Maddock</Key>
       <Forenames>A. V.</Forenames>
-      <Text>M.C. (temp. Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3730</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1635,7 +1733,10 @@
         <KeyDitto>___</KeyDitto>
       </Key>
       <Forenames>H. T. Finchett</Forenames>
-      <Text>, M.C. (See Finchett-Maddock, H. T., M.C.) Magnus, H. F. (temp. Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3744</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1703,7 +1804,9 @@
     <MainItem>
       <Key>Mainprice</Key>
       <Forenames>F. H.</Forenames>
-      <Text>, M.C. (temp. Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3527</PageNumber>
     </MainItem>
   </ItemGroup>

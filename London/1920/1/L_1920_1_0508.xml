@@ -49,7 +49,9 @@
     <MainItem>
       <Key>Blanford</Key>
       <Forenames>A. W.</Forenames>
-      <Text>M.C. (Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2076</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -80,7 +82,7 @@
       <PageNumber>2913</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Capt</Text>
+      <Text>Capt.</Text>
       <PageNumber>565</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -389,7 +391,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cohen</Key>
-      <Text>. N. H. (Capt.)</Text>
+      <Forenames>N. H.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>205</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -728,7 +731,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>J. R.</Forenames>
-      <Text>, M.C. (actg. Maj. whilst 1st Spec. S.O.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1695</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -781,9 +786,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Boinville</Forenames>
-      <Text>, G. A. G. (Capt.)</Text>
+      <Key>De Boinville</Key>
+      <Forenames>G. A. G.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>1267</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -896,7 +901,9 @@
     <MainItem>
       <Key>Dybell</Key>
       <Forenames>C. W.</Forenames>
-      <Text>, M.M. (2nd Lt.)</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>206</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -920,7 +927,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Eden</Key>
-      <Text>. B. (Cant.)</Text>
+      <Forenames>B.</Forenames>
+      <Text>(Cant.)</Text>
       <PageNumber>3440</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -935,7 +943,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Edwards</Key>
-      <Text>. C. P. (temp. 2nd Lt,)</Text>
+      <Forenames>C. P.</Forenames>
+      <Text>(temp. 2nd Lt,)</Text>
       <PageNumber>569</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -985,7 +994,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Evans</Key>
-      <Text>. A. G. (Cant.)</Text>
+      <Forenames>A. G.</Forenames>
+      <Text>(Cant.)</Text>
       <PageNumber>2913</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1015,21 +1025,24 @@
   <ItemGroup>
     <MainItem>
       <Key>Fairlev</Key>
-      <Text>. R. S. (Lt,.)</Text>
+      <Forenames>R. S.</Forenames>
+      <Text>(Lt,.)</Text>
       <PageNumber>206</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Tnithfull</Key>
-      <Text>. F. E. N. (Capt, )</Text>
+      <Forenames>F. E. N.</Forenames>
+      <Text>(Capt, )</Text>
       <PageNumber>3440</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Farrow</Key>
-      <Text>. G. U. (Lt,)</Text>
+      <Forenames>G. U.</Forenames>
+      <Text>(Lt,)</Text>
       <PageNumber>987</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1148,8 +1161,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>D. O</Forenames>
-      <Text>'C. (Lt.)</Text>
+      <Forenames>D. O'C</Forenames>
+      <Text>. (Lt.)</Text>
       <PageNumber>987</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1402,7 +1415,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Grav</Key>
-      <Text>. J. M. (Lt.)</Text>
+      <Forenames>J. M.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>566</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1601,7 +1615,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Harrop</Key>
-      <Text>. H. R. (Capt.)</Text>
+      <Forenames>H. R.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>1834</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1642,7 +1657,9 @@
     <MainItem>
       <Key>Haslehust</Key>
       <Forenames>Capt</Forenames>
-      <Text>: H. M., M.B.E. (rel. commn.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>1269</PageNumber>
     </MainItem>
     <SubItem>
@@ -1653,7 +1670,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hauser</Key>
-      <Text>. S. B. i(Capt.)</Text>
+      <Forenames>S. B.</Forenames>
+      <Text>i(Capt.)</Text>
       <PageNumber>1695</PageNumber>
     </MainItem>
   </ItemGroup>

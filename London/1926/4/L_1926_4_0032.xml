@@ -97,8 +97,8 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Forenames>H. St</Forenames>
-      <Text>. J. B</Text>
+      <Forenames>H. St. J</Forenames>
+      <Text>. B</Text>
       <PageNumber>7817</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -172,7 +172,7 @@
   <ItemGroup>
     <MainItem>
       <Key>White</Key>
-      <Text>F. H</Text>
+      <Forenames>F. H.</Forenames>
       <PageNumber>6373</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -627,7 +627,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Howard</Key>
-      <Text>de Walden, Lord</Text>
+      <Forenames>de Walden</Forenames>
+      <Text>, Lord</Text>
       <PageNumber>7126</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -963,8 +964,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Carruthers</Key>
-      <Forenames>H. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>H. St. J</Forenames>
       <PageNumber>8417</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -985,8 +985,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Channer</Key>
-      <Forenames>G. O.</Forenames>
-      <Text>de R</Text>
+      <Forenames>G. O. de R</Forenames>
       <PageNumber>6755</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1319,7 +1318,9 @@
       <Key>Jardine</Key>
       <Title>Sir</Title>
       <Forenames>C. A.</Forenames>
-      <Text>Bt. ,</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>7681</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1678,7 +1679,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Roche</Key>
-      <Text>V. W</Text>
+      <Forenames>V. W.</Forenames>
       <PageNumber>7682</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -40,7 +40,9 @@
       <Key>Goldsack</Key>
       <Title>Lt.</Title>
       <Forenames>W. G.</Forenames>
-      <Text>, M.C. (seed, for service under the Colonial Office)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7745</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -254,7 +256,10 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Title>Maj.</Title>
-      <Text>and Bt, Lt.-Col. G. J. P., D.S.O. (rel. actg. rank of Lt.-Col.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7621</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -327,11 +332,13 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>D.</Forenames>
-      <Text>McK., M.C. (resigns commn.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5448</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Trd. to Reg. Army Res. of Offrs</Text>
+      <Text>Trd. to Reg. Army Res. of Offrs.</Text>
       <PageNumber>5449</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -353,7 +360,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>H. F</Forenames>
-      <Text>: A., O.B.E. (resigns column, on appt. to permanent commn. in R.A.F.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>7621</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -407,7 +416,10 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Capt</Forenames>
-      <Text>, W., D.S.O., M.C. (retires on ret. pay and granted rank of Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7427</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -418,7 +430,10 @@
       </Key>
       <Title>Lt.-Col.</Title>
       <Forenames>W. A.</Forenames>
-      <Text>, C.M.G., CLE., D.S.O. (rel. commn. on completion of tenure of comd. and retains rank, with permission with wear prescribed uniform)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5901</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -468,7 +483,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Gore</Key>
-      <Text>tempCapt. C. H., O.B.E. (R.A.S.C.) (rel. commn. on completion of service and granted rank of Maj.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>5539</PageNumber>
     </MainItem>
   </ItemGroup>

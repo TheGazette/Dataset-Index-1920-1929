@@ -5,7 +5,9 @@
       <Key>Bowen</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>G. H.</Forenames>
-      <Text>, T.D. (rel. commn. and retains rank of Lt.Col., with permission to wear prescribed, uniform)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>365</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -16,7 +18,14 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>H. E. Webb</Forenames>
-      <Text>, C.M.G., D.S.O., T.D., A.M.I.M.E., A.M.I.E.E., see WebbBowen, Capt. H. E., C.M.G., D.S.O., T.D., A.M.I.M.E., A.M.I.E.E. Bowerman, Lt. R. B. (rel. commn. and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>T.D.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>350</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -34,7 +43,12 @@
       <Key>Bowlby</Key>
       <Title>Hon. Maj.-Gen. (retired) Sir</Title>
       <Forenames>A. A.</Forenames>
-      <Text>, K.C.B., K.C.M.G., K.C.V.O., F.R.C.S. (Hon. Col. of S. Mid. Divn.)</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>K.C.V.O.</Honour>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>1277</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -54,7 +68,9 @@
       </Key>
       <Title>Maj. (Hon. Lt. in Army)</Title>
       <Forenames>J. B.</Forenames>
-      <Text>, T.D. (rel. commn. and retains rank of Maj., with permission to wear prescribed uniform)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>9</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -112,7 +128,11 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>F. D.</Forenames>
-      <Text>, C.B., C.M.G., M.D., F.R.C.P. (retired, having attained age limit and granted rank of Capt.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>2506</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -163,7 +183,9 @@
       <Key>Boyle</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>S.</Forenames>
-      <Text>, M.C. (rel. commn. and retains rank of Lt.-Col.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>272</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -268,7 +290,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>S.</Forenames>
-      <Text>, D.C.M. (T.A. Res., Tnfy.) (rel. commn. and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>132</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -327,7 +351,9 @@
       <Key>Bramwell</Key>
       <Title>Capt.</Title>
       <Forenames>B. S.</Forenames>
-      <Text>, T.D. (rel. commn. and retains rank of Capt., with permission to wear prescribed uniform)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>716</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -457,7 +483,10 @@
       <Key>Brett</Key>
       <Title>Lt.-Col. (formerly Capt;, C. Gds.) Hon.</Title>
       <Forenames>M. V. B.</Forenames>
-      <Text>, O.B.E., M.V.O. (rel. commn. and retains rank of Lt-Col.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>365</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -481,7 +510,9 @@
       <Key>Brewerton</Key>
       <Title>Lt.</Title>
       <Forenames>F. A.</Forenames>
-      <Text>, M.C. (Capt., Prov.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2579</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -557,7 +588,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>E. E.</Forenames>
-      <Text>, M.C. (rel. commn. and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>133</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -617,7 +650,9 @@
       <Key>Briggs</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>E.</Forenames>
-      <Text>, D.S.O. (trd. to T.A. Res., Regtl. List, R.E., from 48th (S. Mid.) Divl. Engrs.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>2596</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -675,14 +710,20 @@
   <ItemGroup>
     <MainItem>
       <Key>Bristow</Key>
-      <Text>. Capt. (Bt. Maj.) W. R., M-B., F.R.C.S. (rel. commn. and granted rank of Maj)</Text>
+      <Title>Capt. (Bt. Maj.)</Title>
+      <Forenames>W. R.</Forenames>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>1173</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Brittan</Key>
-      <Text>. Lt. W. S. (resigns commn. and retains rank of Lt.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>W. S.</Forenames>
+      <Text>(resigns commn. and retains rank of Lt.)</Text>
       <PageNumber>362</PageNumber>
     </MainItem>
   </ItemGroup>

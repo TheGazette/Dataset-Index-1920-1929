@@ -8,7 +8,10 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>Godfrey Pattison</Forenames>
-      <Text>, K.B.E., ' CM.G., M.P., Charity Commissioner for England and Wales</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>11338</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -42,7 +45,9 @@
     <MainItem>
       <Key>iCooper</Key>
       <Title>Sir .</Title>
-      <Text>. Edward Ernest, created Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>10198</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -129,7 +134,9 @@
       <Key>Cox</Key>
       <Title>Sir.</Title>
       <Forenames>Edward Owen</Forenames>
-      <Text>, K.B.E., Knight Grand Cross, Order of the British Empire</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+      </Text>
       <PageNumber>10095</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -154,14 +161,17 @@
       <Key>Crichton</Key>
       <Title>Col. the Hon.</Title>
       <Forenames>George Arthur Charles</Forenames>
-      <Text>, C.V.O.. Comptroller of the Ceremonial Department in H.M. Royal Household</Text>
+      <Text>
+        <Honour>C.V.O.</Honour>
+      </Text>
       <PageNumber>9988</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Crone</Key>
-      <Text>William, Member, Order of the British Empire</Text>
+      <Forenames>William</Forenames>
+      <Text>, Member, Order of the British Empire</Text>
       <PageNumber>10613</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -193,7 +203,9 @@
     <MainItem>
       <Key>Cryer</Key>
       <Forenames>Joseph</Forenames>
-      <Text>, L.R.C.P., M.R.C:S., Esquire, St. John of Jerusalem ... -</Text>
+      <Text>
+        <Honour>Esquire, St. John of Jerusalem</Honour>
+      </Text>
       <PageNumber>10407</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -226,7 +238,9 @@
       <Key>dAbernon</Key>
       <Title>the Right Hon.</Title>
       <Forenames>Edgar</Forenames>
-      <Text>, . Lord, G. C.M.G., sworn of H.M. Privy Council</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>9979</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -258,7 +272,11 @@
   <ItemGroup>
     <MainItem>
       <Key>David</Key>
-      <Text>Professor. Tannatt.William Edgeworth, C.M.G., Knight Commander,. Order, of the British Empire</Text>
+      <Title>Professor. Tannatt.</Title>
+      <Forenames>William Edgeworth</Forenames>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>10095</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -313,8 +331,18 @@
       <Key>Dawson</Key>
       <Title>Brig.-Gen. Sir</Title>
       <Forenames>Douglas Frederick Rawdon</Forenames>
-      <Text>, Q:C.V.O., C. B., G.M.G., State Chamberlain to H.M. the King</Text>
+      <Text>
+        <Honour>C.V.O.</Honour>
+      </Text>
       <PageNumber>9988</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Beaufort</Key>
+      <Forenames>Arnoud Jan</Forenames>
+      <Text>, Officer, Order of the British Empire</Text>
+      <PageNumber>10612</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -326,10 +354,19 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Salis</Key>
+      <Title>Capt.</Title>
+      <Forenames>Count John Eugen</Forenames>
+      <Text>, Third Secretary in H.M. Diplomatic Service</Text>
+      <PageNumber>9994</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Dease</Key>
       <Title>Miss</Title>
-      <Forenames>Mary O</Forenames>
-      <Text>'Kelly, J.P., Member, Order of the British Empire</Text>
+      <Forenames>Mary O'Kelly</Forenames>
+      <Text>, J.P., Member, Order of the British Empire</Text>
       <PageNumber>10613</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -352,7 +389,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Derby</Key>
-      <Text>the . Right Hon. Sit Edward George Villiers, Earl of, K.G., G.C.V.O., C.B., Knight Grand Cross, Order of the Bath</Text>
+      <Text>
+        <Honour>K.G.</Honour>
+        <Honour>G.C.V.O.</Honour>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>12190</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -378,7 +419,10 @@
       <Key>Dodds</Key>
       <Title>Col.</Title>
       <Forenames>Thomas Henry</Forenames>
-      <Text>, C.M.G., D.S.O., Commander, Royal Victorian Ojder</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>9987</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -387,7 +431,9 @@
       <Key>Dolby</Key>
       <Title>Maj.</Title>
       <Forenames>George Alexander</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>9995</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -396,7 +442,9 @@
       <Key>Donald</Key>
       <Title>Maj.-Gen.</Title>
       <Forenames>Colin George</Forenames>
-      <Text>, C.B..Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>11555</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -454,7 +502,9 @@
     <MainItem>
       <Key>Duke</Key>
       <Forenames>Reginald Franklyn Hare</Forenames>
-      <Text>, M.B.E., Commander, Order -of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>10611</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -470,7 +520,10 @@
     <MainItem>
       <Key>Dumaresq</Key>
       <Forenames>Commodore John Saumarez</Forenames>
-      <Text>, C.B,, M.V.O., Commander, Royal Victorian Order '</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>9987</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -507,7 +560,11 @@
       <Key>Duncan-Hughes</Key>
       <Title>Capt.</Title>
       <Forenames>John Grant</Forenames>
-      <Text>, M.C., A.D.C., Member, 4th CI:, Royal Victorian Order *</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>A.D.C.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>9987</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -550,7 +607,9 @@
     <MainItem>
       <Key>Dyer</Key>
       <Forenames>Edward Jerome</Forenames>
-      <Text>, O.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>11555</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -602,7 +661,10 @@
       <Key>Edwards</Key>
       <Title>Maj.-Gen.</Title>
       <Forenames>Alfred Hamilton Mackenzie</Forenames>
-      <Text>, C.B., M.V.O., Knight Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>10098</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -644,7 +706,10 @@
       <Key>Ellis</Key>
       <Title>Sir</Title>
       <Forenames>Charles Edward</Forenames>
-      <Text>, K.G.B.E., K.C.B., Member of the Royal Commission (extended powers) on Awards to Inventors</Text>
+      <Text>
+        <Honour>G.B.E.</Honour>
+        <Honour>K.C.B.</Honour>
+      </Text>
       <PageNumber>9807</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -653,7 +718,11 @@
       <Key>Ellis</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Clarence Isidore</Forenames>
-      <Text>, C.M.G., M.D., Knight of Grace, St. John of Jerusalem</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>M.D.</Honour>
+        <Honour>Knight of Grace, St. John of Jerusalem</Honour>
+      </Text>
       <PageNumber>11793</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -699,7 +768,11 @@
     <MainItem>
       <Key>Everett</Key>
       <Forenames>Rear-Adml</Forenames>
-      <Text>. Sir Allan Frederic, K.C.M.G., C.B., Knight Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>9987</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -707,7 +780,9 @@
     <MainItem>
       <Key>Eves</Key>
       <Forenames>Charles</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>9995</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -766,7 +841,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Faure</Key>
-      <Text>Pieter Jacobus van Breda, M.B.E., Officer, Order of the British. Empire</Text>
+      <Forenames>Pieter Jacobus van Breda</Forenames>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>10098</PageNumber>
     </MainItem>
   </ItemGroup>

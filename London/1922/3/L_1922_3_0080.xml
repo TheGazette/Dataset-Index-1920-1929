@@ -1,15 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="080" pageID="https://www.thegazette.co.uk/id/London/index/year/1922/volume/3/page/080" pagePDF="https://www.thegazette.co.uk/London/index/year/1922/volume/3/page/080" pageRDF="https://www.thegazette.co.uk/London/index/year/1922/volume/3/page/080?view=linked-data" type="index" volume="3" year="1922">
-  <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
   <ItemGroup>
     <MainItem>
-      <Key>
-        <KeyDitto>
-          <PageNumber>___ ___</PageNumber>
-        </KeyDitto>
-      </Key>
-      <Forenames>Murdock</Forenames>
-      <Text>, Lt. W.(trd. to T.A. Res. Regtl. List, R.E., from 52nd Lowland Divl. Engrs.)</Text>
+      <Key>Murdock</Key>
+      <Title>Lt.</Title>
+      <Forenames>W.</Forenames>
+      <Text>(trd. to T.A. Res. Regtl. List, R.E., from 52nd Lowland Divl. Engrs.)</Text>
       <PageNumber>5037</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -18,7 +14,9 @@
       <Key>Murphy</Key>
       <Title>Capt.</Title>
       <Forenames>E. M.</Forenames>
-      <Text>, M.B.E. (Capt., 6th Bn., The King's R., from 8th Bn., The King's R.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>5036</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -30,22 +28,89 @@
       <Text>(is retired, having attained the age limit, and granted rank of Maj.)</Text>
       <PageNumber>6714</PageNumber>
     </MainItem>
-    <SubItem>
-      <Text>Capt. G., T.D. (apptd. to 4/5th Bn., Seaforth, from5th Bn., Seaforth, and retains rank of Capt. and precedence)</Text>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Title>Capt.</Title>
+      <Forenames>G.</Forenames>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>5971</PageNumber>
-    </SubItem>
-    <SubItem>
-      <Text>Capt. Kenneth (Capt. T.A. Res., Regtl. List,The Lovat Scouts, late 2nd Lovat's Scouts, Yeo.)</Text>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___ ___</KeyDitto>
+      </Key>
+      <Title>Capt.</Title>
+      <Forenames>G. D. K.</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
+      <PageNumber>5971</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___</KeyDitto>
+      </Key>
+      <Title>Capt.</Title>
+      <Forenames>Kenneth</Forenames>
+      <Text>(Capt. T.A. Res., Regtl. List,The Lovat Scouts, late 2nd Lovat's Scouts, Yeo.)</Text>
       <PageNumber>5968</PageNumber>
-    </SubItem>
-    <SubItem>
-      <Text>Lt. R. G. (apptd. to4/5th Bn., R. Scots, from 5th Bn., R. Scots, and retains rank of Lt. and precedence)</Text>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Title>Capt.</Title>
+      <Forenames>K. A. P. R.</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
+      <PageNumber>6445</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___</KeyDitto>
+      </Key>
+      <Title>Lt.</Title>
+      <Forenames>R. G.</Forenames>
+      <Text>(apptd. to4/5th Bn., R. Scots, from 5th Bn., R. Scots, and retains rank of Lt. and precedence)</Text>
       <PageNumber>5968</PageNumber>
-    </SubItem>
-    <SubItem>
-      <Text>2nd Lt. T. P. D. (apptd. to 4/5th Bn.,Black Watch,from 4th Bn., Black Watch, and retains rank of 2nd Lt. and precedence)</Text>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Title>Capt.</Title>
+      <Forenames>T.</Forenames>
+      <Text>(rel. commn. and retains rank of Capt.)</Text>
+      <PageNumber>6300</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Title>2nd Lt.</Title>
+      <Forenames>T. P. D.</Forenames>
+      <Text>(apptd. to 4/5th Bn.,Black Watch,from 4th Bn., Black Watch, and retains rank of 2nd Lt. and precedence)</Text>
       <PageNumber>5970</PageNumber>
-    </SubItem>
+    </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
@@ -84,10 +149,24 @@
       <Text>(apptd. to 5/6th Bn., A. and S.H., from 5th Bn., A. and S.H.,and retains rank of 2nd Lt. and precedence) „</Text>
       <PageNumber>5971</PageNumber>
     </MainItem>
-    <SubItem>
-      <Text>Capt. W. E. (resigns commn. and retains rank of Capt.)</Text>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Nash</Key>
+      <Title>Capt.</Title>
+      <Forenames>W. E.</Forenames>
+      <Text>(resigns commn. and retains rank of Capt.)</Text>
       <PageNumber>5037</PageNumber>
-    </SubItem>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Nave</Key>
+      <Title>Lt.</Title>
+      <Forenames>H. J.</Forenames>
+      <Text>(Capt. prov.) ,„</Text>
+      <PageNumber>5967</PageNumber>
+    </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
@@ -110,7 +189,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Nettlefold</Key>
-      <Text>Lt. J. H. (Res. of Off.) (Lt., N. Somerset Yeo.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>J. H.</Forenames>
+      <Text>(Res. of Off.) (Lt., N. Somerset Yeo.)</Text>
       <PageNumber>6513</PageNumber>
     </MainItem>
     <SubItem>
@@ -121,14 +202,273 @@
       <Text>Date of precedence (Sub. Not.)</Text>
       <PageNumber>6908</PageNumber>
     </SubItem>
-    <SubItem>
-      <Text>Lt. J. G. (apptd. to 5/7th Bn., Hamps. R., and retains rank of Lt. and precedence)</Text>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>New</Key>
+      <Title>Lt.</Title>
+      <Forenames>J. G.</Forenames>
+      <Text>(apptd. to 5/7th Bn., Hamps. R., and retains rank of Lt. and precedence)</Text>
       <PageNumber>5970</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>-— ___ ___</KeyDitto>
+      </Key>
+      <Title>Lt.</Title>
+      <Forenames>L. P.</Forenames>
+      <Text>(date, of precedence)</Text>
+      <PageNumber>5036</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Newman</Key>
+      <Text>(late Cadet C.S.M., Clifton Coll. Contgt., Jun. Div. O.T.C.), Sidney Herbert (2nd Lt., 4th Bn., Glouc R.)</Text>
+      <PageNumber>5527</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Newson</Key>
+      <Title>Lt.</Title>
+      <Forenames>W. H.</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
+      <PageNumber>6162</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Newton</Key>
+      <Title>Maj.</Title>
+      <Forenames>G</Forenames>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
+      <PageNumber>5435</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Mas</Key>
+      <Title>Capt.</Title>
+      <Forenames>A. W.</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
+      <PageNumber>5970</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Nicholl</Key>
+      <Title>2nd Lt.</Title>
+      <Forenames>E. W. S.</Forenames>
+      <Text>(apptd. to 4/5th Bn., Black Watch, from 4th Bn., Black Watch, and retains rank of 2nd Lt. and precedence)</Text>
+      <PageNumber>5970</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Nicholson</Key>
+      <Title>Hon. Lt.</Title>
+      <Forenames>George</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
+      <PageNumber>6099</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
+      </Key>
+      <Title>Lt.</Title>
+      <Forenames>W. H.</Forenames>
+      <Text>(resigns commn. on account of ill-health and retains rank of Lt.)</Text>
+      <PageNumber>6161</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Nickson</Key>
+      <Title>2nd Lt.</Title>
+      <Forenames>John Edgar</Forenames>
+      <Text>(2nd Lt, 6th Bn., The King's R., late R.W. Fus.)</Text>
+      <PageNumber>5780</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Nicoll</Key>
+      <Title>2nd Lt.</Title>
+      <Forenames>E. W. S.</Forenames>
+      <Text>(Lt.)</Text>
+      <PageNumber>6642</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Title>Maj.</Title>
+      <Forenames>J.</Forenames>
+      <Text>McD., M.B. (retired, having attained the age limit, and retains rank of Maj., with permission to wear prescribed uniform)</Text>
+      <PageNumber>5207</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Nish</Key>
+      <Title>Lt.</Title>
+      <Forenames>D</Forenames>
+      <Text>, 0. (Cape., Prov.)</Text>
+      <PageNumber>5282</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Norbary</Key>
+      <Title>Maj.</Title>
+      <Forenames>C.</Forenames>
+      <Text>(apptd. to 6/7th Bn., Manch. R., from 7th Bn., Manch. R., and retains rank of Maj. and precedence)</Text>
+      <PageNumber>5971</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Norman</Key>
+      <Title>Lt.</Title>
+      <Forenames>N. C.</Forenames>
+      <Text>(resigns commn. and retains rank of Lt.)</Text>
+      <PageNumber>6162</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___</KeyDitto>
+      </Key>
+      <Title>Capt.</Title>
+      <Forenames>R. A.</Forenames>
+      <Text>(resigns commn., and retains rank of Capt.)</Text>
+      <PageNumber>5868</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Norris</Key>
+      <Title>Lt.</Title>
+      <Forenames>A. G.</Forenames>
+      <Text>, A.M.I.E.E. (Capt.)</Text>
+      <PageNumber>5282</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Northbourne</Key>
+      <Title>Hon. Col.</Title>
+      <Text>the Lord (resigns Hon. Colcy, 9th Bn., Durh. L.I., and retains rank with permission to wear prescribed uniform)</Text>
+      <PageNumber>5207</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Oakley</Key>
+      <Title>Capt.</Title>
+      <Forenames>W. E.</Forenames>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
+      <PageNumber>6099</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>O'Brien</Key>
+      <Title>Capt.</Title>
+      <Forenames>R. F. C.</Forenames>
+      <Text>(Lt-Col. T. A. Res., Gen. List Infy. from Inns of Court O. T. C.)</Text>
+      <PageNumber>5968</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>O'Donahue</Key>
+      <Title>Capt.</Title>
+      <Forenames>J. M.</Forenames>
+      <Text>(Lt., Gen. List, fo&lt; service with Manchester Univ. Cont. (Infy. Unit), Sen. Dir., O.T.C., late 6th Bn. Loyal R.)</Text>
+      <PageNumber>6037</PageNumber>
+    </MainItem>
+    <SubItem>
+      <Text>
+        <PageNumber>5528</PageNumber>
+      </Text>
+      <PageNumber>5528</PageNumber>
     </SubItem>
   </ItemGroup>
-  <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
-  <KeyDitto>___ ___</KeyDitto>
-  <KeyDitto>___</KeyDitto>
+  <ItemGroup>
+    <MainItem>
+      <Key>Oglethorpe</Key>
+      <Title>Capt.</Title>
+      <Forenames>H. C.</Forenames>
+      <Text>(resigns commn. and retains rank of Capt.)</Text>
+      <PageNumber>5713</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>O'Grady</Key>
+      <Title>2nd Lt.</Title>
+      <Forenames>T. S.</Forenames>
+      <Text>(Lt.)</Text>
+      <PageNumber>5527</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Okeden</Key>
+      <Title>2nd Lt.</Title>
+      <Forenames>G. C. Parry-</Forenames>
+      <Text>
+        <Honour>D.C.M.</Honour>
+      </Text>
+      <PageNumber>5972</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Oram</Key>
+      <Title>Capt.</Title>
+      <Forenames>R. G.</Forenames>
+      <Text>(resigns commn. and retains rank of Capt.)</Text>
+      <PageNumber>5967</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Orcntt</Key>
+      <Title>Ralph.</Title>
+      <Forenames>Hitchcock</Forenames>
+      <Text>(2nd Lt., 68th South Midland. Bde. R.H. and R.F.A., late C.det Cpl., Rossall Sch. Cont. Jun. Div., O.T.C.)</Text>
+      <PageNumber>5966</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Orr</Key>
+      <Title>Qrmr. and Lt.</Title>
+      <Forenames>W.</Forenames>
+      <Text>(rel. commn. and retains rank of Lt.)</Text>
+      <PageNumber>6232</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>
@@ -137,34 +477,25 @@
       <Title>2nd Lt.</Title>
       <Forenames>W. E. A.</Forenames>
       <Text>(apptd. to 5/8th Bn., Cameronians, from 8th Bn., Cameronians, and retains rank of 2nd Lt and precedence)</Text>
-      <PageNumber>___ ___</PageNumber>
+      <PageNumber>5969</PageNumber>
     </MainItem>
   </ItemGroup>
+  <KeyDitto>___ ___ ___ .</KeyDitto>
+  <KeyDitto>___ ___</KeyDitto>
+  <KeyDitto>___</KeyDitto>
+  <KeyDitto>___ ___</KeyDitto>
+  <KeyDitto>___ ___</KeyDitto>
   <ItemGroup>
     <MainItem>
-      <Key>Osborne</Key>
-      <Title>Capt.</Title>
-      <Forenames>E.</Forenames>
-      <Text>(is retired, having attained the age limit, and granted the rank of Maj.)</Text>
-      <PageNumber>6844</PageNumber>
+      <Key>
+        <KeyDitto>___</KeyDitto>
+      </Key>
+      <Title>Maj.</Title>
+      <Forenames>W. K.</Forenames>
+      <Text>(apptd. to 5/7th Bn., Hamps. R., frjm 5th Bn., Hamps. R., and retains rank of Maj. and precedence) ...</Text>
+      <PageNumber>___ ___ ___ ___ ___ ___</PageNumber>
     </MainItem>
-    <SubItem>
-      <Text>___ ___ Capt. H. A. (restd. to estabt.)</Text>
-      <PageNumber>6382</PageNumber>
-    </SubItem>
-    <SubItem>
-      <Text>Parr, 2nd Lt. R. F. (Lt.)</Text>
-      <PageNumber>6514</PageNumber>
-    </SubItem>
-    <SubItem>
-      <Text>Parsons, Lt. E. R. (Capt., Prov.)</Text>
-      <PageNumber>5434</PageNumber>
-    </SubItem>
-    <SubItem>
-      <Text>Paterson, Lt. G. F. (apptd. to 4/5th Bn., Black Watch, from 5th Bn., Black Watch, and retains rank of Lt. and precedence)</Text>
-      <PageNumber>5970</PageNumber>
-    </SubItem>
   </ItemGroup>
-  <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
+  <KeyDitto>___</KeyDitto>
 </Index>
 

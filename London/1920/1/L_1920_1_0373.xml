@@ -58,7 +58,9 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>P. L.</Forenames>
-      <Text>, M.C. (rel. commn. on completion of service, and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>911</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -69,7 +71,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>B.</Forenames>
-      <Text>, M.C. (York and Lane. R.) (restd. to estabt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1204</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -102,7 +106,10 @@
       </Key>
       <Title>temp. Lt.-Col.</Title>
       <Forenames>R. A.</Forenames>
-      <Text>, D.S.O., M.C. (R. Fus.) (rel. commn. on completion of service, end retains rank of Lt.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1063</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -113,7 +120,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>R. A. B.</Forenames>
-      <Text>, M.C. (rel. actg. rank of Maj.), Sub. Not</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1072</PageNumber>
     </MainItem>
     <SubItem>
@@ -128,7 +137,9 @@
       </Key>
       <Title>temp. Capt.</Title>
       <Forenames>R. G.</Forenames>
-      <Text>(R.A.M.C.) (rey. commn., and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3614</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -204,7 +215,11 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Title>temp. Maj. (Maj.. Can. A.M.C.)</Title>
-      <Text>' S. A..' D.S.O., O.B.E. (R.A.M.C.) (rel. temp, commn.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>954</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -231,7 +246,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>S. H.</Forenames>
-      <Text>, M.C. (rel. actg. rank of Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3509</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -242,7 +259,9 @@
       </Key>
       <Title>temp. Capt.</Title>
       <Forenames>S. S.</Forenames>
-      <Text>. M.C. (E. York R.) (actg. Maj. whilst 2nd in comd.. 17th Bn.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1550</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -305,7 +324,9 @@
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Lf</Forenames>
-      <Text>, W.. M.C. (R.G.A.) (retires on ret, pay on acc. of ill-health contracted on active service)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3612</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -319,7 +340,7 @@
       <PageNumber>2045</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Lt</Text>
+      <Text>Lt.</Text>
       <PageNumber>3746</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -382,11 +403,16 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>W. C</Forenames>
-      <Text>, D.S.O., M.C. (actg. Maj.) whilst 2nd in comd. of the 20th Serv. Bn., K.R.R.C., A. of O.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>R.R.C.</Honour>
+      </Text>
       <PageNumber>798</PageNumber>
     </MainItem>
     <SubItem>
       <Text>
+        <Honour>R.R.C.</Honour>
         <PageNumber>913</PageNumber>
       </Text>
       <PageNumber>913</PageNumber>
@@ -399,7 +425,10 @@
       </Key>
       <Title>Lt.-Col. (actg. Col.)</Title>
       <Forenames>W. D.</Forenames>
-      <Text>, C.M.G., D.S.O. (Col.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>536</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -487,7 +516,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>W. W.</Forenames>
-      <Text>, M.C. (seed, for serv. with R.A.F.I</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2034</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -527,7 +558,11 @@
       <Key>Smithard</Key>
       <Title>Capt.</Title>
       <Forenames>R. G.</Forenames>
-      <Text>, D.S.O., D. S.O.. M.C. (rel.. temp, rank of Lt-Col. on ceasing to .comd. 7th Serv. Bn.. Shrops. L.I.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>D. S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2052</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -551,14 +586,16 @@
       <PageNumber>153</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Adit., Northd Fus., A. of O</Text>
+      <Text>Adit., Northd Fus., A. of O.</Text>
       <PageNumber>2053</PageNumber>
     </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Smithwiok</Key>
-      <Text>. temp. Mnj D. (rel. commn. on completion of service, and retains rank of Maj.)</Text>
+      <Title>temp.</Title>
+      <Forenames>Mnj D.</Forenames>
+      <Text>(rel. commn. on completion of service, and retains rank of Maj.)</Text>
       <PageNumber>1551</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -610,7 +647,9 @@
       </Key>
       <Title>Lt.-Col.</Title>
       <Forenames>G. A.</Forenames>
-      <Text>, D.S.O. (placed on h.p. list, having completed 6 years as a Eegtl. Lt.-Col)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>2265</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -668,7 +707,9 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Title>Lt., temp. Acct. Offr.</Title>
-      <Text>, 5th CI., R. H., M.C. (granted perm, commn. as Capt. and Acct. Offr., 5th CI.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1345</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -679,7 +720,10 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>R. R.</Forenames>
-      <Text>, C.M.G., D.S.O. (retires on ret. pay, and granted rank of Lt.-Col.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3421</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -721,7 +765,10 @@
       <Key>Smyth-Osbourne</Key>
       <Title>Bt. Lt.-Col.</Title>
       <Forenames>G. N.</Forenames>
-      <Text>. 'T., C.M.G., D.S.O. (temp. Maj. whilst D.A.A. and Q.M.G.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>183</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -734,7 +781,7 @@
       <PageNumber>670</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Trd. to Gen. Res. of Offrs</Text>
+      <Text>Trd. to Gen. Res. of Offrs.</Text>
       <PageNumber>672</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -754,7 +801,9 @@
       </Key>
       <Title>temp. Maj.</Title>
       <Forenames>H. A.</Forenames>
-      <Text>, O.B.E. (rel. commn. on completion of service, and retains rank of Maj.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>169</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -873,14 +922,19 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>F.</Forenames>
-      <Text>, M.C., D.C.M. (retires on ret. pay, and granted rank of Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>1924</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Snow</Key>
-      <Text>. temp. Maj. (Capt. ret) (Hon. Maj.. ret.. Spec.-Res.) A.D. (aotg. Lt.-Col. comdg. the 1st Garr. Bn., Lines. R.)</Text>
+      <Title>temp. Maj. (Capt. ret) (Hon. Maj.. ret.. Spec.-Res.)</Title>
+      <Forenames>A.D.</Forenames>
+      <Text>(aotg. Lt.-Col. comdg. the 1st Garr. Bn., Lines. R.)</Text>
       <PageNumber>956</PageNumber>
     </MainItem>
   </ItemGroup>

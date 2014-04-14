@@ -168,7 +168,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Sandars</Key>
-      <Text>. Lt. G. E. D. (seed, for service with the Tank Corps)</Text>
+      <Title>Lt.</Title>
+      <Forenames>G. E. D.</Forenames>
+      <Text>(seed, for service with the Tank Corps)</Text>
       <PageNumber>1160</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -186,7 +188,9 @@
       <Key>Sandell</Key>
       <Title>Lt.</Title>
       <Forenames>W. J.</Forenames>
-      <Text>, M.C. (retires on ret. pay)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1786</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -217,7 +221,9 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>W. Y.</Forenames>
-      <Text>. M.C. (rel. commn. on completion of service and retains rank of . . Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1572</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -289,7 +295,9 @@
       <Key>Sansome</Key>
       <Title>temp. 2nd Lt.</Title>
       <Forenames>F.</Forenames>
-      <Text>. M.M. (rel. commn. on completion of service and retains rank of 2nd Lt.) , ... Sanville, temp. 'Lt. G. (rel. cdmmn. on completion of service and retains rank of Lt.) ... ... Sara, temp. Cant. A. (rel. commn. on completion of service and retains rank of' Capt.) ... Sargant, temp. 2nd Lt, P. A. (rel. commn. on coihpletion of service and retains rank of 2nd Lt.) .... Sargent, temp. 2nd Lt. D. '(rel. commn. on. completion of service and retains rank of 2nd Lt,) ...</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>___ ___ ___ ___ ___ ___</PageNumber>
     </MainItem>
     <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>

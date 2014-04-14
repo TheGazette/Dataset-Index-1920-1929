@@ -256,7 +256,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Nicholls</Key>
-      <Text>J. A. (and permitted to retain rank)</Text>
+      <Forenames>J. A.</Forenames>
+      <Text>(and permitted to retain rank)</Text>
       <PageNumber>5019</PageNumber>
     </MainItem>
     <SubItem>
@@ -447,7 +448,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tomlinson</Key>
-      <Text>J. A</Text>
+      <Forenames>J. A</Forenames>
       <PageNumber>4304</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -569,7 +570,10 @@
     <MainItem>
       <Key>Luck</Key>
       <Forenames>C. M.</Forenames>
-      <Text>, C.M.G., D.S.O</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>4552</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -601,7 +605,9 @@
     <MainItem>
       <Key>Hamilton</Key>
       <Forenames>A.</Forenames>
-      <Text>, D.S.O. (temp., without pay, whilst Principal Port Offr., Bur:na)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4102</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -709,7 +715,10 @@
     <MainItem>
       <Key>Buller</Key>
       <Forenames>Capt H. T.</Forenames>
-      <Text>. C.B.. C.V.O</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.V.O</Honour>
+      </Text>
       <PageNumber>4005</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -719,7 +728,9 @@
       <Key>Tudor</Key>
       <Title>Sir</Title>
       <Forenames>F. C. T.</Forenames>
-      <Text>, K.C.M.G., C.B</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+      </Text>
       <PageNumber>4004</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -728,7 +739,10 @@
     <MainItem>
       <Key>Campbell</Key>
       <Forenames>H. H.</Forenames>
-      <Text>, C.B., C.V.O</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.V.O</Honour>
+      </Text>
       <PageNumber>4004</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -736,7 +750,9 @@
     <MainItem>
       <Key>Le</Key>
       <Forenames>Marchant</Forenames>
-      <Text>, E. R., D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>4004</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -745,7 +761,9 @@
       <Key>Tupper</Key>
       <Title>Sir</Title>
       <Forenames>R. G. O.</Forenames>
-      <Text>, K.C.B., C.V.O</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+      </Text>
       <PageNumber>4004</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -760,8 +778,12 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>John, F. G., C.B., M.V.O., A.D.C</Text>
+      <Key>St. John</Key>
+      <Forenames>F. G.</Forenames>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>3852</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -842,7 +864,10 @@
       <Key>Humphreys</Key>
       <Title>Sir</Title>
       <Forenames>H.</Forenames>
-      <Text>, K.C.M.G., C.B</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>C.B</Honour>
+      </Text>
       <PageNumber>3934</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -866,7 +891,11 @@
     <MainItem>
       <Key>Anderson</Key>
       <Forenames>D. M.</Forenames>
-      <Text>, C.M.G., M.V.O. (apptd. Naval A.D.C. to the King)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>M.V.O.</Honour>
+        <Honour>A.D.C.</Honour>
+      </Text>
       <PageNumber>4201</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -889,7 +918,9 @@
     <MainItem>
       <Key>Casement</Key>
       <Forenames>J.</Forenames>
-      <Text>, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>2675</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1067,6 +1098,16 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Caen</Key>
+      <Forenames>R.G.F.H</Forenames>
+      <Text>
+        <Honour>D.S.C</Honour>
+      </Text>
+      <PageNumber>2996</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Edwards</Key>
       <Forenames>H. W.</Forenames>
       <PageNumber>2996</PageNumber>
@@ -1125,7 +1166,9 @@
     <MainItem>
       <Key>Hotham</Key>
       <Forenames>C. E.</Forenames>
-      <Text>, D.S.C</Text>
+      <Text>
+        <Honour>D.S.C</Honour>
+      </Text>
       <PageNumber>3091</PageNumber>
       <PageNumber>3189</PageNumber>
     </MainItem>
@@ -1220,7 +1263,9 @@
       <Key>Wilson</Key>
       <Title>Alexander.</Title>
       <Forenames>G. B.</Forenames>
-      <Text>. D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>2674</PageNumber>
     </MainItem>
   </ItemGroup>

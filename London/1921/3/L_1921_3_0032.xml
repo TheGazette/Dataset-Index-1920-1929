@@ -18,7 +18,7 @@
       <PageNumber>5897</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Temp. Base Comdt., attd. to Hd.-Qr. Unit, and temp. Col.-Comdt</Text>
+      <Text>Temp. Base Comdt., attd. to Hd.-Qr. Unit, and temp. Col.-Comdt.</Text>
       <PageNumber>7643</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -36,7 +36,9 @@
       <Key>Landale</Key>
       <Title>Capt.</Title>
       <Forenames>C.</Forenames>
-      <Text>II.. M.C. (temp. D.A.Q.M.G., A.G.'s and Q.M.G.'s Staff, from a Brig.Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5913</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -44,7 +46,9 @@
     <MainItem>
       <Key>Lane</Key>
       <Title>Ma.</Title>
-      <Text>j. F. B., O.B.E. (temp. A.A.G., A.G.'s and Q.M.G.'s Staff)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>5797</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -62,11 +66,16 @@
       <Key>Law</Key>
       <Title>Capt.</Title>
       <Forenames>H. F.</Forenames>
-      <Text>dA. S., M.C. (A.D.C. to Gov. and C.-in-C, Malta)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>A.D.C.</Honour>
+      </Text>
       <PageNumber>7505</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Lt. Col. W. H. P., D.S.O. (temp. Asst. Controller of Surplus Stores and Salvage, from a D.A.D. of Supplies)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5804</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -92,7 +101,9 @@
       <Key>Ledingham</Key>
       <Title>Lt.</Title>
       <Forenames>R. J. W.</Forenames>
-      <Text>, M.C. (rel. appt. as Dep. Asst. Prov.Marshal. CI. GG, attd. to Hd.Qr. Unit)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5545</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -121,7 +132,10 @@
       <Key>Lpsslie</Key>
       <Title>Col. (now temp. Col.Comdt.)</Title>
       <Forenames>W. B.</Forenames>
-      <Text>, C.B., C.M.G. (temp. Inspr.-Gen. of Communications and temp. Brig.-Gen.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>5459</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -130,11 +144,17 @@
       <Key>Lewis</Key>
       <Title>Lt.</Title>
       <Forenames>K. F.</Forenames>
-      <Text>McK., M.C. (temp. A.D.C., Personal Staff)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>A.D.C.</Honour>
+      </Text>
       <PageNumber>7435</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Col. P. E., C.M.G., D.S.O. (rel. appt. as Dep.Mil. Sec. and Sec. of Selection Board at War Office, and temp, rank of Col. on the Staff)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6258</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -152,7 +172,9 @@
       <Key>Little</Key>
       <Title>Bt. Lt.-Col.</Title>
       <Forenames>C. H.</Forenames>
-      <Text>, D.S.O. (temp. spec, appt., CI. AA, whilst Asst. Comdt. of an Internment Camp)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6357</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -161,7 +183,9 @@
       <Key>Lloyd</Key>
       <Title>Bt. Lt.-Col.</Title>
       <Forenames>C. R.</Forenames>
-      <Text>, D.S.O. I (rel. appt. as Asst. Dir. of I Trans., Hd.-Qrs. of Admin. Servs. and Depts., and temp. rank of Lt.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5538</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -170,7 +194,9 @@
       <Key>Long</Key>
       <Title>Lt.</Title>
       <Forenames>H. E.</Forenames>
-      <Text>(rel. appt. as A.D.C., Personal Staff)</Text>
+      <Text>
+        <Honour>A.D.C.</Honour>
+      </Text>
       <PageNumber>7629</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -179,7 +205,12 @@
       <Key>Longmore</Key>
       <Title>Col.</Title>
       <Forenames>J. C. G.</Forenames>
-      <Text>, C.B., C.M.G., C.B.E., D.S.O. /rel. appt. as Col.-on-the-Staff, i./c. Administration, A.G.'s and Q.M.G.'s Staff, and temp, rank of Col.-on-the-Staff)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>C.B.E.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5459</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -188,7 +219,28 @@
       <Key>Lowick</Key>
       <Title>temp. Capt.</Title>
       <Forenames>F. G.</Forenames>
-      <Text>(rel. spec. appt. as Dep. Mil. Govr., CI. FF) ... Lowry, Capt. T. M., D.S.O., M.C. (rel. appt. as Inspr. of Works, Imperial War Graves Commn., on transfer to Civil Estabt. of Imperial War Graves Commn., and rel. temp, rank of Lt.-Col.), Sub. Not. Lowther, Qrmr. and Maj. T. E., M.B.E. (Camp Qrmr., Aldershot) Lyster-Smythe, Lt. C. St, G. (rel. spec, appt., CI. FF, and temp, rank of Capt.) McCleverty, Maj. G. M., D.S.O., M.C. (temp. G.S.O., 2nd Or., General Staff) Rel. appt. as G.S.O., 2nd Gr.. General List McCounel, Bt. Maj. J. K., D.S.O., M.C. (G.S.O., 3rd Gr.) ... MacEwen, Col. D. L., C.B., C.M.G. (temp. Col. on Staff, i./c. Administration, A.G.'s and Q.M.G.'s Staff) McGrath, Capt. H. W. S. (rel. temp. appt. as A.D.C.) ... Machan, Lt. D. P. (rel. spec. appt. as Spec. Service Offr.) ... McKay, Lt. (temp. Capt.) F. H. (temp. Emb. Staff Offr., CI. BB) Mackenzie, Col. G. B., C.B., C.M.G., D.S.O. (Col., R.A.)... Mackintosh, Lt. A. C. (temp. spec. appt., CI. GG, from CI. HH) Macintyre, Lt. F. P. O.B.E. (rel. appt. as D.A.A. and Q.M.G., A.G.'s and Q.M.G.'s Staff, and temp, rank of Maj.) McLean, temp. Lt. (actg. Capt.) A. (temp. Asst. Dir. of Works, CI. X, Hd.-Qrs. of Admin. Servs. and Depts., and temp. Lt.-Col.) Sub. Not. McMurray, temp. Capt. (temp. Maj.) S. F. (temp. Asst. Dir. of Inland Water Trans., CI. X, Hd.-Qns. of Admin. Servs. and Depts., and temp. Lt.-Col. from a Dep. Asst. Dir., CI. BB), Sub. Not McNamara, Lt. M. P. (temp. spec, appt., CI. GG, whilst Brig. Intelligence Offr.) McRobie, Lt. G. D. R. (temp, spec, appt., CI. GG, from CI. HH) Malpass, 2nd Lt. H. H. (temp, spec, appt., CI. HH, whilst Censor Offr.) Manyon, Capt. J. A., T.D. (rel. appt. as Staff Capt.) Mapleson, Ord Off., 4th CI. (on prob.), and Capt. C. H. (temp. Dep. Asst. Dir. of Equipment and Ord. Stores at War Office and temp. Maj. whilst so empld.) Marindin, Bt. Lt.-Col. C. C, C. B.E., D.S.O. (temp. G.S.O., 2nd Gr., General Staff) ... Temp. G.S.O.. 1st Gr., General Staff, from 2nd Gr Marriott, Lt. J. R. (rel. appt. as G.S.O., 3rd Gr., General Staff) Marshall, Maj. M. H. (temp. D. A.Q.M.G., A.G.'s and Q.M.G.'s Staff) ... ... Mnrtelli, Col. H. de C, D.S.O. (temp. Asst. Dir. of Quartering, at War Office) A.Q.M.G Martin, Capt. R. R. (rel. appt. as G.S.O., 3rd Gr., General Staff) !tf;irtvn, Cant. J. K., M.C. (temp. Dep. Asst. Dir. of Lab., CI. BB, Hd.-Qrs. of Admin. Servs. and Depts., and temp. Maj.), Sub. Mots</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>M.B.E.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>Bt</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>A.D.C.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>O.B.E.</Honour>
+        <Honour>T.D.</Honour>
+        <Honour>Bt</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6365</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -197,7 +249,10 @@
       <Key>Matheson</Key>
       <Title>Lt.</Title>
       <Forenames>N.</Forenames>
-      <Text>\V., D.S.O., M.C. (rel. appt. as lnspr. of Works, Imperial War Graves Commn. on transfer to Civil Estabt. of Imperial War Graves Commn., and rel. temp, rank of Lt.-Col.), Sub. Not</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5627</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -215,7 +270,11 @@
       <Key>Melville</Key>
       <Title>temp. Capt.</Title>
       <Forenames>D. L.</Forenames>
-      <Text>, M.C. (rel. appt. as D.A.Q.M.G., A.G.'s and Q.M.G.'s Staff, and temp, rank of Maj.), Sub. Not Metcalfe, temp. Maj. J. N., D.S.O., O.B.E. (rel. appt. as Asst. Dir. of Inland Water Trans., CI. X, Hd.-Qrs. of Admin. Servs. and Depts., and temp, rank of Lt.-Col.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>580</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -233,7 +292,12 @@
       <Key>Middleton</Key>
       <Title>Capt.</Title>
       <Forenames>M.</Forenames>
-      <Text>(rel. appt. as Staff Capt, attd. to Hd.-Qr. Unit) Miles, Lt. H. A. (rel. Emplt. under Directe. of Graves Registration and Enquiries, CI. FF, A.G. and Q.M.G.'s Staff) Milford, Maj. E., D.S.O. (ral. appt. as D.A.A.G., A.G.'s and Q.M.G.'s Staff) Miller, Bt. Lt.-Col. H. G. B., D.S.O., M.C. (rel. temp. appt. as A.A.G. at War Office, and temp, rank of Lt.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Bt</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>599</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -242,7 +306,9 @@
       <Key>Milward</Key>
       <Title>Bt. Lt.-Col.</Title>
       <Forenames>C. A.</Forenames>
-      <Text>, D.S.O. (rel. appt. as G.S.O., 1st Gr., General Staff, and temp, rank of Lt.-Col.) Mobbs, Lt. C. S. (rel. spec, appt., CI. HH)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>762</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -261,7 +327,12 @@
       <Key>Moss</Key>
       <Title>Col.</Title>
       <Forenames>L. B. Boyd</Forenames>
-      <Text>, C.M.G., D.S.O., see Bovd-Moss, Col. L. B., C.M.G., D.S.O.</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>___ ___ ___ ___ ___ ___ ___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>

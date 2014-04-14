@@ -23,7 +23,9 @@
     <MainItem>
       <Key>Southgate</Key>
       <Forenames>C</Forenames>
-      <Text>, M.C. (rel. actg. rank)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4581</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -186,7 +188,9 @@
     <MainItem>
       <Key>Baatin</Key>
       <Forenames>H. E.</Forenames>
-      <Text>, M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>4477</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -309,7 +313,9 @@
     <MainItem>
       <Key>Bunning</Key>
       <Forenames>W. H.</Forenames>
-      <Text>, M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>5963</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -432,7 +438,9 @@
     <MainItem>
       <Key>Coxe</Key>
       <Forenames>K. H.</Forenames>
-      <Text>, M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>6092</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -468,7 +476,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dagg</Key>
-      <Text>A. V</Text>
+      <Forenames>A. V.</Forenames>
       <PageNumber>4477</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -625,7 +633,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Flynn</Key>
-      <Text>G. E. C</Text>
+      <Forenames>G. E. C</Forenames>
       <PageNumber>5963</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -649,7 +657,9 @@
     <MainItem>
       <Key>Franklin</Key>
       <Forenames>E. A.</Forenames>
-      <Text>McA., M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>6346</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -698,7 +708,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Graham</Key>
-      <Text>ST. I., M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>6345</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -712,7 +724,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hampson</Key>
-      <Text>J. H. J</Text>
+      <Forenames>J. H. J.</Forenames>
       <PageNumber>5963</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -734,7 +746,9 @@
     <MainItem>
       <Key>Hargreavea</Key>
       <Forenames>H.</Forenames>
-      <Text>, M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>7012</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -756,7 +770,9 @@
     <MainItem>
       <Key>Hawkes</Key>
       <Forenames>G. E.</Forenames>
-      <Text>, M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>4579</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -972,7 +988,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Leslie-Smith</Key>
-      <Text>B. R</Text>
+      <Forenames>B. R.</Forenames>
       <PageNumber>7012</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -998,7 +1014,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>J. E.</Forenames>
-      <Text>, M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>6796</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1057,7 +1075,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>P. J. W.</Forenames>
-      <Text>, M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>5490</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1101,8 +1121,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Maclaren</Key>
-      <Forenames>W.</Forenames>
-      <Text>de B. Maloney, R. S. (whilst .pld. Mil. Wks. Servs.)</Text>
+      <Forenames>W. de B</Forenames>
+      <Text>. Maloney, R. S. (whilst .pld. Mil. Wks. Servs.)</Text>
       <PageNumber>6346</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1269,14 +1289,17 @@
     <MainItem>
       <Key>Oates</Key>
       <Forenames>A.</Forenames>
-      <Text>, D.S.O., M.C</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>5963</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Callaghan, C. H. D</Text>
+      <Key>O'Callaghan</Key>
+      <Forenames>C. H. D.</Forenames>
       <PageNumber>6345</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1406,7 +1429,9 @@
     <MainItem>
       <Key>Rawlings</Key>
       <Forenames>G. N.</Forenames>
-      <Text>, O.B.E</Text>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>6092</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1437,7 +1462,9 @@
     <MainItem>
       <Key>Rees</Key>
       <Forenames>T. W.</Forenames>
-      <Text>, D.S.O., M.C</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6345</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1452,7 +1479,10 @@
     <MainItem>
       <Key>Reid</Key>
       <Forenames>D. W.</Forenames>
-      <Text>, D.S.O., M.C</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>4477</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1777,7 +1807,9 @@
     <MainItem>
       <Key>Teague</Key>
       <Forenames>J.</Forenames>
-      <Text>, M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>6345</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1948,7 +1980,9 @@
     <MainItem>
       <Key>Wemyss</Key>
       <Forenames>A. F.</Forenames>
-      <Text>, M.C. .. /</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5490</PageNumber>
     </MainItem>
   </ItemGroup>

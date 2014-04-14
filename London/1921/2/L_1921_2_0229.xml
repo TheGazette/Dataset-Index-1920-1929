@@ -74,8 +74,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Moss</Key>
-      <Forenames>C. H.</Forenames>
-      <Text>de V</Text>
+      <Forenames>C. H. de V</Forenames>
       <PageNumber>3753</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -95,8 +94,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Leary, M. P</Text>
+      <Key>O'Leary</Key>
+      <Forenames>M. P</Forenames>
       <PageNumber>4550</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -316,8 +315,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Short</Key>
-      <Forenames>V. C. G. O</Forenames>
-      <Text>'B</Text>
+      <Forenames>V. C. G. O'B</Forenames>
       <PageNumber>3545</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -602,7 +600,9 @@
     <MainItem>
       <Key>Oates</Key>
       <Forenames>W. J. S.</Forenames>
-      <Text>, M.C. (resigns)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4739</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -610,7 +610,9 @@
     <MainItem>
       <Key>Pearson</Key>
       <Forenames>H. C</Forenames>
-      <Text>, M.C. (resigns)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2677</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -715,8 +717,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Arbuthnott</Key>
-      <Forenames>S. St</Forenames>
-      <Text>. C. (rel. actg. rank)</Text>
+      <Forenames>S. St. C</Forenames>
+      <Text>. (rel. actg. rank)</Text>
       <PageNumber>3936</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -929,7 +931,9 @@
     <MainItem>
       <Key>Crooke</Key>
       <Forenames>F. M. W.</Forenames>
-      <Text>, M.M. (whilst Comd. a Coy</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>3936</PageNumber>
     </MainItem>
     <SubItem>
@@ -977,7 +981,9 @@
     <MainItem>
       <Key>Erskine</Key>
       <Forenames>W. R.</Forenames>
-      <Text>, M.C. (whilst comdg. a Coy.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4303</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1197,7 +1203,9 @@
     <MainItem>
       <Key>Lundy</Key>
       <Forenames>C. R. C</Forenames>
-      <Text>, M.C. (rel. actg. rank on ceasing to be on field set vice)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2800</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1205,7 +1213,9 @@
     <MainItem>
       <Key>MacLaren</Key>
       <Forenames>H.</Forenames>
-      <Text>, M.C. (retains actg. rank whilst Adjt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3547</PageNumber>
       <PageNumber>5018</PageNumber>
     </MainItem>
@@ -1213,7 +1223,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Mauld</Key>
-      <Text>B. S., M.C. (whilst comdg. a Coy.)</Text>
+      <Forenames>B. S.</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4101</PageNumber>
     </MainItem>
   </ItemGroup>

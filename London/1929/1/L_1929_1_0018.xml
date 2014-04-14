@@ -4,7 +4,9 @@
     <MainItem>
       <Key>Gunter</Key>
       <Forenames>Eustace Edward</Forenames>
-      <Text>, O.B.E., Companiona, Order of the Indian Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>1439</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -12,7 +14,9 @@
     <MainItem>
       <Key>Haggard</Key>
       <Forenames>Godfrey Digby Napier</Forenames>
-      <Text>, O.B.E., H.M. Consul-General at Chicago</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>686</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -55,7 +59,9 @@
     <MainItem>
       <Key>Hari</Key>
       <Forenames>Singh</Forenames>
-      <Text>, Colonel H.H. Maharaja, Sir, Indar Mahindar Bahadur Sipar-iS a 1 t a n a t, K.O.I.E., K.C.V.O., Knight Grand Commander, Order of the Indian Empire</Text>
+      <Text>
+        <Honour>K.C.V.O.</Honour>
+      </Text>
       <PageNumber>1438</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -126,7 +132,10 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>Percival HortonSmith</Forenames>
-      <Text>, C.V.O., M.D., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>C.V.O.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>49</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -159,9 +168,13 @@
   <ItemGroup>
     <MainItem>
       <Key>Hay</Key>
-      <Title>Major</Title>
+      <Title>Major-</Title>
       <Forenames>General Charles John Bruce</Forenames>
-      <Text>, C.M.G., C. B.E., D.S.O., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>1437</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -177,7 +190,10 @@
       <Key>Headlam</Key>
       <Title>Captain</Title>
       <Forenames>Edward James</Forenames>
-      <Text>, C.S.I., C.M.G., D. S.O., knighted</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D. S.O.</Honour>
+      </Text>
       <PageNumber>2160</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -197,7 +213,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Maurice</Forenames>
-      <Text>, Francis, C.B., Companion, Order of S. Michael and S. George</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>1439</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -221,7 +239,9 @@
     <MainItem>
       <Key>Henderson</Key>
       <Forenames>David Patrick</Forenames>
-      <Text>, J.P., D.L., Knight</Text>
+      <Text>
+        <Honour>D.L.</Honour>
+      </Text>
       <PageNumber>1436</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -248,7 +268,9 @@
     <MainItem>
       <Key>Herbert</Key>
       <Forenames>Dennis Henry</Forenames>
-      <Text>, J.P., M.P., Knight Commander of the British (Empire</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>1440</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -256,7 +278,9 @@
     <MainItem>
       <Key>Hewison</Key>
       <Forenames>Robert</Forenames>
-      <Text>, O.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>1442</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -272,7 +296,9 @@
     <MainItem>
       <Key>Hill</Key>
       <Forenames>George Francis</Forenames>
-      <Text>, M.A., Litt.D., LL.D., F.B.A., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>1438</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -314,7 +340,9 @@
     <MainItem>
       <Key>Holland</Key>
       <Forenames>Edward John</Forenames>
-      <Text>, J.P., D.L. Knight</Text>
+      <Text>
+        <Honour>D.L.</Honour>
+      </Text>
       <PageNumber>1436</PageNumber>
       <PageNumber>2160</PageNumber>
     </MainItem>
@@ -343,7 +371,10 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Maurice Gerald</Forenames>
-      <Text>, O.B.E., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>1438</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -359,7 +390,9 @@
     <MainItem>
       <Key>Home</Key>
       <Forenames>William Edgar</Forenames>
-      <Text>, Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>1435</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -376,7 +409,10 @@
       <Key>Humphris</Key>
       <Title>Major</Title>
       <Forenames>Francis Howard</Forenames>
-      <Text>, M.D., R.A.M.C. (Retd.), Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>49</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -419,7 +455,10 @@
     <MainItem>
       <Key>Hurcomb</Key>
       <Forenames>Cyril William</Forenames>
-      <Text>, C.B., . O.B.E., Knight Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>1440</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -427,7 +466,9 @@
     <MainItem>
       <Key>Hurst</Key>
       <Forenames>Alfred William</Forenames>
-      <Text>, C.B., Knight Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>1440</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -437,7 +478,10 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Gerald Berkeley</Forenames>
-      <Text>, T.D., M.A., K.C, M.P., Knight</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>1436</PageNumber>
       <PageNumber>2160</PageNumber>
     </MainItem>
@@ -453,8 +497,12 @@
   <ItemGroup>
     <MainItem>
       <Key>Irwin</Key>
-      <Forenames>The Venerable Ronald John Beresford</Forenames>
-      <Text>, D.S.O., M.C., Archdeacon of Dorking, Chaplain, Order of St. John of Jerusalem</Text>
+      <Title>The</Title>
+      <Forenames>Venerable Ronald John Beresford</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>49</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -479,7 +527,9 @@
     <MainItem>
       <Key>Jackson</Key>
       <Forenames>John</Forenames>
-      <Text>, O.B.E., Knight</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>1436</PageNumber>
       <PageNumber>2160</PageNumber>
     </MainItem>
@@ -506,7 +556,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Jammu</Key>
-      <Text>and Kashmir, Colonel H. H. the Maharaja of, . K.O.I.E., K.C.V.O</Text>
+      <Text>
+        <Honour>K.C.V.O</Honour>
+      </Text>
       <PageNumber>1438</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -514,243 +566,19 @@
     <MainItem>
       <Key>Janardan</Key>
       <Forenames>Atmaram Madan</Forenames>
-      <Text>, Companion, Order of the Indian Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>M.D.</Honour>
+        <Honour>K.C.I.E.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+        <Honour>Companion, Order of the Star of India</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>C.V.O.</Honour>
+      </Text>
       <PageNumber>1439</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Jang</Key>
-      <Forenames>Bahadur Maulvi Nizam-</Forenames>
-      <Text>ud-Din Ahmad, Nawab Nizlamat, C.I.E., O.B.E., Knight</Text>
-      <PageNumber>1436</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Jatindra</Key>
-      <Forenames>Nath</Forenames>
-      <Text>, Roy, O.B.E., Companion, Order of the Indian Empire</Text>
-      <PageNumber>1438</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Jayasekera</Key>
-      <Forenames>Frances Janet</Forenames>
-      <Text>, Mrs., Member, Order of the British Empire</Text>
-      <PageNumber>1444</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Jeffery</Key>
-      <Title>Miss</Title>
-      <Forenames>Dorothy</Forenames>
-      <Text>, Member, Order of the Britisli Empire</Text>
-      <PageNumber>1442</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Jerram</Key>
-      <Forenames>Cecil Bertrand</Forenames>
-      <Text>, H.M. Consul at Tallinn</Text>
-      <PageNumber>767</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Jewell</Key>
-      <Forenames>Norman Parsons</Forenames>
-      <Text>, M.C., M.D., Officer, Order of the British Empire</Text>
-      <PageNumber>1444</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Jogendra</Key>
-      <Forenames>Singh</Forenames>
-      <Text>, Sardar, Knight</Text>
-      <PageNumber>1436</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Johnston</Key>
-      <Title>Sir</Title>
-      <Forenames>Frederick Wil-</Forenames>
-      <Text>liam, K.C.I.E., C.S.I.. H.M. Consul-General at Bushire</Text>
-      <PageNumber>686</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Jones</Key>
-      <Forenames>John Archibald Bris-</Forenames>
-      <Text>tow, Member, Order of the British Empire</Text>
-      <PageNumber>1443</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Judd</Key>
-      <Forenames>Clifford James Win-</Forenames>
-      <Text>. thorpe, Serving Brother, . Order of St. John of Jerusalem</Text>
-      <PageNumber>50</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Julius</Key>
-      <Forenames>George Alfred</Forenames>
-      <Text>, Knight</Text>
-      <PageNumber>1436</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Jupp</Key>
-      <Forenames>Percy William</Forenames>
-      <Text>, F.A.I., Member, Order of the British' Empire</Text>
-      <PageNumber>1442</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Karslake</Key>
-      <Title>Colonel (temp. Brig.)</Title>
-      <Forenames>Henry</Forenames>
-      <Text>, O.M.G., D.S.O., Companion, Order of the Bath</Text>
-      <PageNumber>1437</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Kater</Key>
-      <Forenames>Honourable Norman William</Forenames>
-      <Text>, Knight</Text>
-      <PageNumber>1436</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Keane</Key>
-      <Forenames>Michael</Forenames>
-      <Text>, CLE., Companion, Order of the Star of India</Text>
-      <PageNumber>1438</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Keating</Key>
-      <Title>Lieut.</Title>
-      <Text>-Colonel John Bernard, Officer, Order of the British Empire</Text>
-      <PageNumber>1443</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Keays</Key>
-      <Forenames>Superintending</Forenames>
-      <Text>Sister Evelyn Muriel, Royal Red Cross, 1st Class</Text>
-      <PageNumber>1446</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Kemp</Key>
-      <Forenames>James</Forenames>
-      <Text>, Serving Brother, Order of St. John of Jerusalem</Text>
-      <PageNumber>50</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Kennard</Key>
-      <Forenames>Howard William</Forenames>
-      <Text>, C.M.G., C.V.O., Knight Commander, Order of S. Michael and S. George</Text>
-      <PageNumber>1440</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Kent</Key>
-      <Forenames>Percy</Forenames>
-      <Text>, Officer, Order of the British Empire</Text>
-      <PageNumber>1443</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Kersley</Key>
-      <Forenames>Charles Walter</Forenames>
-      <Text>, Serving Brother, Order of St. John of Jerusalem</Text>
-      <PageNumber>60</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Khwaia</Key>
-      <Forenames>Muhammad Nur</Forenames>
-      <Text>, Khan Bahadur, Commander, Order of the British Empire</Text>
-      <PageNumber>1443</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Kinmonth</Key>
-      <Forenames>William</Forenames>
-      <Text>, Member, Order of the British Empire'</Text>
-      <PageNumber>1443</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Knaggs</Key>
-      <Forenames>William Robert</Forenames>
-      <Text>, Serving Brother, Order of St. John of Jerusalem</Text>
-      <PageNumber>50</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Knight</Key>
-      <Forenames>Laura</Forenames>
-      <Text>, Mrs., A.R.A., Dame Commander, Order of the British Empire</Text>
-      <PageNumber>1440</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Knox</Key>
-      <Forenames>Geoffrey George</Forenames>
-      <Text>, Companion, Order of S. Michael and S. George</Text>
-      <PageNumber>1440</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Lavington</Key>
-      <Forenames>Cyril Claude</Forenames>
-      <Text>, M.B., Commander, Order of St. John of Jerusalem</Text>
-      <PageNumber>49</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Le</Key>
-      <Forenames>Souef-Simpson</Forenames>
-      <Text>, Francis Frederick, Officer, Order of St. John of Jerusalem</Text>
-      <PageNumber>49</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Leach</Key>
-      <Forenames>Leonard Haines</Forenames>
-      <Text>, H.M. Consul at Brest</Text>
-      <PageNumber>686</PageNumber>
     </MainItem>
   </ItemGroup>
   <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>

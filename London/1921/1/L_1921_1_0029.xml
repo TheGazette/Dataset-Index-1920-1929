@@ -3,8 +3,12 @@
   <ItemGroup>
     <MainItem>
       <Key>Pollock</Key>
-      <Forenames>The Rt</Forenames>
-      <Text>. Revd. Bertram, C.V.O., Lord Bishopof Norwich, Knight Commander, Royal Victorian Order</Text>
+      <Title>The Rt. Revd.</Title>
+      <Forenames>Bertram</Forenames>
+      <Text>
+        <Honour>C.V.O.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>8</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -23,7 +27,11 @@
       <Key>Ponsonby</Key>
       <Title>The Rt. Hon. Sir</Title>
       <Forenames>Frederick Edward Grey</Forenames>
-      <Text>K.C.B., K.C.V.O., Knignt Grand Cross, Royal Victorian Order Porter, Ludovic Charles, C.S.I., CLE., Member of the Executive Council of the Governor of the United Provinces</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>K.C.V.O.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>1190</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -34,7 +42,10 @@
       </Key>
       <Title>Maj.-Gen.</Title>
       <Forenames>Robert</Forenames>
-      <Text>, C.B., C.M.G., M.B., Knight Commander, Order of Bath</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -42,7 +53,9 @@
     <MainItem>
       <Key>Powell</Key>
       <Title>Lt.</Title>
-      <Text>-Gen. Sir Robert Stephenson Smyth Baden. (See Baden-Powell) Power, Vice-Adml. Laurence Eliot, C. B., C.V.O., Knight Commander, Order of Bath</Text>
+      <Text>
+        <Honour>C.V.O.</Honour>
+      </Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -51,7 +64,10 @@
       <Key>Poynder</Key>
       <Title>Capt.</Title>
       <Forenames>Frederic Sinclair</Forenames>
-      <Text>, M.C., Member, 4th CI., Royal Victorian Order</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>2397</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -60,7 +76,12 @@
       <Key>Price-Davies</Key>
       <Title>Col.</Title>
       <Forenames>Llewelyn Alberic Emilius</Forenames>
-      <Text>, V.C., C.M.G., D. S.O., A.D.C., A.A.G., Companion, Order of Bath</Text>
+      <Text>
+        <Honour>V.C.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D. S.O.</Honour>
+        <Honour>A.D.C.</Honour>
+      </Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -95,7 +116,9 @@
       <Key>Raeburn</Key>
       <Title>Sir</Title>
       <Forenames>W. H.</Forenames>
-      <Text>, M.P., Member of the National Galleries of Scotland, Board of Trustees</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>57</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -111,7 +134,9 @@
     <MainItem>
       <Key>Rainy</Key>
       <Forenames>George</Forenames>
-      <Text>, CLE., Companion, Star of India</Text>
+      <Text>
+        <Honour>Companion, Star of India</Honour>
+      </Text>
       <PageNumber>5</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -137,7 +162,9 @@
       <Key>Reading</Key>
       <Title>Dame</Title>
       <Forenames>Alice Edith</Forenames>
-      <Text>, Countess of, G.B.E., Imperial Order of the Crown of India</Text>
+      <Text>
+        <Honour>G.B.E.</Honour>
+      </Text>
       <PageNumber>2092</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -154,7 +181,10 @@
     <MainItem>
       <Key>Refalo</Key>
       <Forenames>Michel</Forenames>
-      <Text>, Angelo, C.B.E., LL.D., Knighted</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -163,7 +193,10 @@
       <Key>Reid</Key>
       <Title>Maj.</Title>
       <Forenames>William</Forenames>
-      <Text>, M.B.E., Knighted</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>3</PageNumber>
       <PageNumber>1693</PageNumber>
     </MainItem>
@@ -182,7 +215,12 @@
     <MainItem>
       <Key>Rice</Key>
       <Forenames>Thomas Edmund</Forenames>
-      <Text>, Companion, St. Michael and St. George ... Richmond, Rear-Adml. Herbert William, Companion, Order of Bath Rimington, Maj.-Gen. (Hon. Lt.Gen.) Michael Frederic, C.B., C.V.O., Knight Commander, Order of Bath Risley, John Shuckburgh, C.B., H.M. Counsel</Text>
+      <Text>
+        <Honour>Companion, St. Michael and St. George</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>C.V.O.</Honour>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>1572</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -190,7 +228,9 @@
     <MainItem>
       <Key>Roberts</Key>
       <Forenames>His Honour Judge Wal-</Forenames>
-      <Text>worth Howland, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>3</PageNumber>
       <PageNumber>1693</PageNumber>
     </MainItem>
@@ -234,7 +274,9 @@
     <MainItem>
       <Key>Ross</Key>
       <Forenames>John</Forenames>
-      <Text>, LL.D., Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -244,15 +286,23 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Stewart Buckle Carne</Forenames>
-      <Text>, Officer Order of the British Empire Rowbotham, Thomas, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>3</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>, Rylands. William Peter, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>3</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>, —— ___ ___ the Rt. Revd. Bishop John Taylor, C.V.O., Companion, Order of Bath -— ___ ___ Sir Malcolm, K.B.E., Member of the Fishery Board for Scotland ___ ___ ___ Thomas, V.D., Knighted ... Snow, T./Lt. William, Member, Order of the British Empir*</Text>
+      <Text>
+        <Honour>C.V.O.</Honour>
+        <Honour>K.B.E.</Honour>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>1693</PageNumber>
     </SubItem>
     <SubItem>
@@ -295,7 +345,10 @@
       <Key>Spears</Key>
       <Title>Lt.-Col. (Hon. Brig.-Gen.)</Title>
       <Forenames>Edward Louis</Forenames>
-      <Text>, C.B.E., M.C., Companion, Order of Bath</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>371</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -304,7 +357,13 @@
       <Key>Spence</Key>
       <Title>Col.</Title>
       <Forenames>Gilbert Ormerod</Forenames>
-      <Text>, D.S.O., T.D., Companion, Order of Bath Spencer, Supt. Stephen Frederick, Member, 5th CI., Royal Victorian Order ... Sprigge, Samuel Squire, M.D., M.R.C.S., Knighted</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>T.D.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+        <Honour>M.D.</Honour>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>3</PageNumber>
       <PageNumber>1693</PageNumber>
     </MainItem>
@@ -321,7 +380,10 @@
     <MainItem>
       <Key>Stabb</Key>
       <Forenames>Newton John</Forenames>
-      <Text>, O.B.E., Knighted Standen, Bertram Prior, C.S.I., CLE., Member of the Executive Council of the Governor of the Central Provinces, India</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>470</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -329,7 +391,9 @@
     <MainItem>
       <Key>Stephenson</Key>
       <Forenames>Albert Edward</Forenames>
-      <Text>, C.M.G., Knight Commander, St. Michael and St. George ... Stewart, Alexander Miller, Macer in the Court of Session</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>278</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -354,7 +418,9 @@
     <MainItem>
       <Key>Stilgoe</Key>
       <Forenames>Henry Edward</Forenames>
-      <Text>, Member of the Fire Brigade Royal Commission Stockton, Edwin Forsyth, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>3</PageNumber>
       <PageNumber>1693</PageNumber>
     </MainItem>
@@ -364,7 +430,9 @@
       <Key>Stollery</Key>
       <Title>Col.</Title>
       <Forenames>John</Forenames>
-      <Text>, V.D., Companion, Order of Bath Strakosch, Henry, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>3</PageNumber>
       <PageNumber>1693</PageNumber>
     </MainItem>
@@ -390,7 +458,12 @@
       <Key>Stuart</Key>
       <Title>Sir</Title>
       <Forenames>Harold Arthur</Forenames>
-      <Text>, K.C.S.I., K.C.V.O., Knight Commander, St. Michael anct ___ ___ St. George Sturdeej Adml. Sir Frederick Charles Doveton, Bart., K.C.B., K.C.M.G., C.V.O-, Knights Grand Cross, Order of Bath Subdar Singh Majithia, Sirdar Bahadur, CLE., Member of the Executive Council of the Governor of the Punjab</Text>
+      <Text>
+        <Honour>K.C.V.O.</Honour>
+        <Honour>Bart</Honour>
+        <Honour>K.C.B.</Honour>
+        <Honour>K.C.M.G.</Honour>
+      </Text>
       <PageNumber>1190</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -398,7 +471,10 @@
     <MainItem>
       <Key>Surendra</Key>
       <Forenames>Nath Banerjea</Forenames>
-      <Text>, Knighted Swifte, Ernest Godwin, K.C., Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>3</PageNumber>
       <PageNumber>1693</PageNumber>
     </MainItem>
@@ -407,7 +483,9 @@
     <MainItem>
       <Key>Symonds</Key>
       <Forenames>Guy</Forenames>
-      <Text>, D.S.O., Member of the Fire Brigade Royal Commission Symons, Miss Ellen A., Bar to Order of Mercy ... '</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>178</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -415,11 +493,17 @@
     <MainItem>
       <Key>Tanner</Key>
       <Forenames>Alfred Richard Morley</Forenames>
-      <Text>, Member, Order of the British Empire Taylor, Miss Dorothea Matilda, R.R.C., Bar to Royal Red Cross Thakore Saheb Dolatsinhji Jeavantsinhji, Thakore Saheb of Limbdi, Ruling Chief, 2nd CI., Knight Commander, Order of 4 the Indian Empire Thomas, Frederick George, C.M.G., H.M. Counsel</Text>
+      <Text>
+        <Honour>R.R.C.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>1572</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>___ ___ Sir Godfrey, Bt., C.V.O., Private Secretary to H.R.H. the Prince of Wales</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>C.V.O.</Honour>
+      </Text>
       <PageNumber>55</PageNumber>
     </SubItem>
   </ItemGroup>

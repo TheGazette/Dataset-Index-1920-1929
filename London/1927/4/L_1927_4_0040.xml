@@ -175,6 +175,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Gruyther</Key>
+      <Forenames>A. N</Forenames>
+      <PageNumber>6472</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
@@ -393,7 +400,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hutchinson</Key>
-      <Text>. L. T. R</Text>
+      <Forenames>L. T. R</Forenames>
       <PageNumber>7746</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -606,7 +613,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Read</Key>
-      <Text>. W. D. B</Text>
+      <Forenames>W. D. B.</Forenames>
       <PageNumber>8247</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -834,8 +841,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Nott</Key>
-      <Forenames>M. H. St</Forenames>
-      <Text>. L</Text>
+      <Forenames>M. H. St. L</Forenames>
       <PageNumber>8248</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1054,9 +1060,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Bouley</Forenames>
-      <Text>, E. G. H</Text>
+      <Key>Du Bouley</Key>
+      <Forenames>E. G. H.</Forenames>
       <PageNumber>8333</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1142,7 +1147,9 @@
       <Key>Vavasour</Key>
       <Title>Sir</Title>
       <Forenames>Leonard P.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6398</PageNumber>
     </MainItem>
   </ItemGroup>

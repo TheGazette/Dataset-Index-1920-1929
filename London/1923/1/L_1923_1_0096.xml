@@ -27,7 +27,9 @@
       <Key>Newnhan</Key>
       <Title>Col. (temp. Col. Comdt.)</Title>
       <Forenames>C. C</Forenames>
-      <Text>, D.S.O. (rel. appt. of Bde. Comdr., Ambala Bde. Area)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>2079</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -35,7 +37,9 @@
     <MainItem>
       <Key>Nichol</Key>
       <Title>Lt. (temp. Capt.)</Title>
-      <Text>, M.C. (Not. in Gaz. 13th June, 1922, of appt. as Staff Capt., Waziristan Field Force, cancelled)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>819</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -43,7 +47,9 @@
     <MainItem>
       <Key>Nicholl</Key>
       <Title>Lt.</Title>
-      <Text>, M.C. (Staff L&lt;., Waziristan Field Foce)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>814</PageNumber>
     </MainItem>
     <SubItem>
@@ -78,14 +84,19 @@
       <Key>Gates</Key>
       <Title>Capt.</Title>
       <Forenames>A.</Forenames>
-      <Text>, D.S.O., M.C. (rel. appt. of G.S.O. 3rd Grade, A.H.Q., G.S. Bcb.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2079</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Grady, Col. (temp. Col. Comdt.) H. De C, CLE. (rel. appt. of Bde. Comdr. ,19thli,d. Inf. Bde.)</Text>
+      <Key>O'Grady</Key>
+      <Title>Col. (temp. Col. Comdt.)</Title>
+      <Forenames>H. De C</Forenames>
+      <Text>, CLE. (rel. appt. of Bde. Comdr. ,19thli,d. Inf. Bde.)</Text>
       <PageNumber>2079</PageNumber>
     </MainItem>
     <SubItem>
@@ -98,7 +109,9 @@
       <Key>Orr</Key>
       <Title>Col. (temp. Col. Comdt.)</Title>
       <Forenames>G. M.</Forenames>
-      <Text>, D. S.O. (Brig. Comdr., Waziristan Field Force)</Text>
+      <Text>
+        <Honour>D. S.O.</Honour>
+      </Text>
       <PageNumber>811</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -121,7 +134,14 @@
         <KeyDitto>___</KeyDitto>
       </Key>
       <Title>Maj.</Title>
-      <Text>&amp; Bt. Lt.-Col. (temp. Lt, Col.) L. I. G. Moigan, C.M.G..D.S.O.,see MorganOwen, Maj. &amp; Bt. Lt..Col. (temp. Lt. Col.) L. I. G., C.M.G., D.S.O. Palmer,Maj. (temp. Lt.-Col.) C. H. (AsVt. Dir. of Work-, WaziristariField Force)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Bt</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>815</PageNumber>
     </MainItem>
     <SubItem>
@@ -134,7 +154,9 @@
       <Key>Parkin</Key>
       <Title>Maj.</Title>
       <Forenames>J. F.</Forenames>
-      <Text>, D.S.O. (Dep. Asst. Adjt.-Gen., Waziristan Field Force)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>813</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -143,7 +165,9 @@
       <Key>Pattinsbn</Key>
       <Title>Lt. (temp. Capt.) (now Capt.)</Title>
       <Forenames>H. A.</Forenames>
-      <Text>,M.C. (StaffCapt., Waziristan Field Force. 4th Oct.,1919, to 3Lt Oct., 1920)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>813</PageNumber>
     </MainItem>
     <SubItem>
@@ -174,7 +198,9 @@
       <Key>Penton</Key>
       <Title>Maj.</Title>
       <Forenames>B. C</Forenames>
-      <Text>, D.S.O., (rel. appt. of D.A.Q.M.G., U.P. Dist.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>2079</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -182,7 +208,9 @@
     <MainItem>
       <Key>Phayre</Key>
       <Title>Capt.</Title>
-      <Text>&amp; Br. Maj. (temp. Maj.) (now Maj.) R. H., M.C. (Admin. Comdt., graded as Dep. Asst. Q.M.G., Waziristan Field Force)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>815</PageNumber>
     </MainItem>
     <SubItem>
@@ -214,7 +242,10 @@
       <Key>Profeit</Key>
       <Title>Col.</Title>
       <Forenames>C. W.</Forenames>
-      <Text>, C.M.G., C.S.I., D.S.O., M.B., K.H.S. (Dep. Dir. of Med. Services, Waziristan Field Force)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>816</PageNumber>
     </MainItem>
     <SubItem>
@@ -227,7 +258,15 @@
       <Key>Tryor</Key>
       <Title>Maj.-Gen.</Title>
       <Forenames>P. Holland</Forenames>
-      <Text>, C.B., C.M.G., D.S.O., M.V.O., see Holland-Pry or, Maj.-Gen. P, C.B., C.M.G., D.S.O., M. V.O. Quilter, Capt. (temp. Lt.-Col.) C. F. G. (Afst. Dir. of Postal Services, Waziiistan Field Force)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.V.O.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>818</PageNumber>
     </MainItem>
     <SubItem>
@@ -240,7 +279,9 @@
       <Key>Quinan</Key>
       <Title>Maj.</Title>
       <Forenames>E. P.</Forenames>
-      <Text>, O.B.E. (G.S.O., 2nd Grade, Intelligence, WaziristaD Field Force)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>812</PageNumber>
     </MainItem>
     <SubItem>
@@ -252,7 +293,9 @@
     <MainItem>
       <Key>Ramsay-Fairfax-</Key>
       <Forenames>Lucy</Forenames>
-      <Text>, Lt. E. A. R. (corr. of date of relinquishment of appt. as A.D.C. to G.O.C. Madras District)</Text>
+      <Text>
+        <Honour>A.D.C.</Honour>
+      </Text>
       <PageNumber>618</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -261,7 +304,9 @@
       <Key>Rebsch</Key>
       <Title>Maj.</Title>
       <Forenames>W. K.</Forenames>
-      <Text>, D.S.O. (Dep. Ass. Dir. of S. &amp;T., Waziristan Field Force)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>816</PageNumber>
     </MainItem>
     <SubItem>
@@ -294,7 +339,10 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>T. W.</Forenames>
-      <Text>, D.S.O., M.C. (Staff Capt,, Wazir Force)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2078</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -322,85 +370,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Reynolds</Key>
-      <Title>Lt.</Title>
-      <Forenames>J. R.</Forenames>
-      <Text>(Camp Comdt. and A.D.C., Waziristan Field Force)</Text>
-      <PageNumber>814</PageNumber>
-    </MainItem>
-    <SubItem>
-      <Text>Not. in Gaz. 13th June, 1922, of appt. as A.D.C., Waziriotan Field Force, cancelled</Text>
-      <PageNumber>819</PageNumber>
-    </SubItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Richdale</Key>
-      <Title>Capt.</Title>
-      <Forenames>C. R.</Forenames>
-      <Text>(Staff Capt., Waziristan Held Force)</Text>
-      <PageNumber>813</PageNumber>
-    </MainItem>
-    <SubItem>
-      <Text>Admin. Comdt. (graded as Staff Capt.), Waziristan Field Force</Text>
-      <PageNumber>815</PageNumber>
-    </SubItem>
-    <SubItem>
-      <Text>Adjt. and Qmr., Waziristan Field Foree</Text>
-      <PageNumber>818</PageNumber>
-    </SubItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
       <Key>Robinson</Key>
       <Title>Lt. (temp. Capt.) (now Capt.)</Title>
       <Forenames>N. P.</Forenames>
-      <Text>(Staff Capt., Waziristan Field Force)</Text>
-      <PageNumber>813</PageNumber>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>Bt</Honour>
+      </Text>
+      <PageNumber>1922</PageNumber>
     </MainItem>
-    <SubItem>
-      <Text>Corr. of name</Text>
-      <PageNumber>2079</PageNumber>
-    </SubItem>
-    <SubItem>
-      <Text>Corr. of Not. in Gaz. 28th July, 1922, of appt. as Staff Capt., Waziristan Field Force .„</Text>
-      <PageNumber>819</PageNumber>
-    </SubItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Rogers</Key>
-      <Title>Capt.</Title>
-      <Forenames>G. G.</Forenames>
-      <Text>M.C. (Bde. Maj., Waziristan Field Force)</Text>
-      <PageNumber>814</PageNumber>
-    </MainItem>
-    <SubItem>
-      <Text>Dep. Asst. Adjt.-Gen., Waziristan Field Force</Text>
-      <PageNumber>813</PageNumber>
-    </SubItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Holland</Key>
-      <Title>Lt.-Col. and Bt. Col. (temp. Col. on the Staff)</Title>
-      <Forenames>A. D.</Forenames>
-      <Text>SlO. (chief Engineer, Waziristan Field Force)</Text>
-      <PageNumber>815</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Ross-Magenty</Key>
-      <Title>Lt. (temp. Capt.)</Title>
-      <Forenames>E.</Forenames>
-      <Text>(Station Staff Officer, Lt Class, Waziristan Field Force)</Text>
-      <PageNumber>814</PageNumber>
-    </MainItem>
-    <SubItem>
-      <Text>Not. in Gaz. 13th June, 1922, of appt. as Staff Capt., Waziristan Field Force, cancelled</Text>
-      <PageNumber>819</PageNumber>
-    </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
@@ -409,86 +387,40 @@
       </Key>
       <Title>temp. Capt. (now Capt.)</Title>
       <Forenames>E.R.</Forenames>
-      <Text>(Staff Capt., Waziristan Field Force) _</Text>
-      <PageNumber>813</PageNumber>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
+      <PageNumber>1922</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Rousfield</Key>
-      <Title>Capt.</Title>
-      <Forenames>H. N.</Forenames>
-      <Text>(Not. in Gaz. 13th June, 1922, of appt. as Staff Capt., Waairistan Force, cancelled)</Text>
-      <PageNumber>819</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Routh</Key>
-      <Title>Maj. (temp. Lt.-Col.)</Title>
-      <Forenames>G. M.</Forenames>
-      <Text>D.S.O. (Asst. Dir. of Ord. Services, Waziristan Field Foree)</Text>
-      <PageNumber>816</PageNumber>
-    </MainItem>
-    <SubItem>
-      <Text>Not. in Gaz. 13th June, 1922, of appt. as Asst. Dir. of Ord. Services Waziristan Field Force, cancelled</Text>
-      <PageNumber>819</PageNumber>
-    </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Ruck</Key>
       <Title>Capt. (temp. Maj.)</Title>
       <Forenames>C</Forenames>
-      <Text>F. L. (Dep. Asst. Dir. of Sigs., Waziristan Field Force)</Text>
-      <PageNumber>817</PageNumber>
+      <Text>F. L. (Dep. Asst. Dir. of Sigs., Waziristan Field Force) . ... Rule, Lt. G. C. S. (Staff It. Waziristan Field Force) ... Not. in Gaz. 13th June,</Text>
+      <PageNumber>1922</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Rule</Key>
-      <Title>Lt.</Title>
-      <Forenames>G. C. S.</Forenames>
-      <Text>(Staff It. Waziristan Field Force)</Text>
-      <PageNumber>814</PageNumber>
-    </MainItem>
-    <SubItem>
-      <Text>Not. in Gaz. 13th June, 1922, of appt. as Staff Lt., Wazirietan Field Force, cancelled</Text>
-      <PageNumber>819</PageNumber>
-    </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Bundall</Key>
       <Title>Lt. (temp. Capt.)</Title>
       <Forenames>J. W.</Forenames>
-      <Text>(Station Staff Offr. 1st Class, Waziristan Field Force)</Text>
-      <PageNumber>814</PageNumber>
+      <Text>(Station Staff Offr. 1st Class, Waziristan Field Force) ... Not. in Gaz. 13th June,</Text>
+      <PageNumber>1922</PageNumber>
     </MainItem>
-    <SubItem>
-      <Text>Not. in Gaz. 13th June, 1922, of appt. as Station Staff Offr. let Class, Waziristan Field Force, cmiceiled</Text>
-      <PageNumber>819</PageNumber>
-    </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Russell</Key>
       <Title>Capt.</Title>
-      <Text>AV. B. (Field Cashier, Waziristan Field Force)</Text>
-      <PageNumber>818</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Rust</Key>
-      <Title>Capt. (temp. Maj.)</Title>
-      <Forenames>F. H.</Forenames>
-      <Text>(Dep. Asst. Dir. of S. and T., Waziristan Field Force)</Text>
-      <PageNumber>816</PageNumber>
+      <Text>AV. B. (Field Cashier, Waziristan Field Force) ... Rust, Capt. (temp. Maj.) F. H. (Dep. Asst. Dir. of S. and T., Waziristan Field Force) ... Not. in Gaz. 13th June,</Text>
+      <PageNumber>1922</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Not. in Gaz. 13th June, 1922, of appt. as Dep. A&gt;-st. Dir. of S. and T., Waziristan Field Foice, cancelled</Text>
-      <PageNumber>819</PageNumber>
+      <Text>, of appt. as Dep. A&gt;-st. Dir. of S. and T., Waziristan Field Foice, cancelled</Text>
+      <PageNumber>814</PageNumber>
     </SubItem>
   </ItemGroup>
 </Index>

@@ -19,7 +19,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kilcoin</Key>
-      <Text>2nd Lt. (temp. Maj. (now Lt.) C. L. (Dep. Asst. Dir. of Works, Waziristan Force, 19th Nov., 1919, to 18th Sept., 1920)</Text>
+      <Title>2nd Lt.</Title>
+      <Text>(temp. Maj. (now Lt.) C. L. (Dep. Asst. Dir. of Works, Waziristan Force, 19th Nov., 1919, to 18th Sept., 1920)</Text>
       <PageNumber>4483</PageNumber>
     </MainItem>
     <SubItem>
@@ -41,7 +42,9 @@
       <Key>Kirkpatrick</Key>
       <Title>Maj. and Bt. Lt.-Col. (temp. Lt.-Col.)</Title>
       <Forenames>C</Forenames>
-      <Text>, O.B.E. (G S.O., 1st Grade, Waziristan Force)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4480</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -98,7 +101,9 @@
       <Key>Layng</Key>
       <Title>Capt.</Title>
       <Forenames>T. M.</Forenames>
-      <Text>, M.C. (Bde. Maj., Waziristan Force)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4480</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -106,7 +111,9 @@
     <MainItem>
       <Key>Le</Key>
       <Forenames>Fanu</Forenames>
-      <Text>, Capt. R.. M.C. (Bde. Maj., 1st Ind. Inf. Bde.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4254</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -124,7 +131,10 @@
       <Key>Leslie</Key>
       <Title>Maj. and Bt. Col. (temp. Brig.-Gen.) (now Col.)</Title>
       <Forenames>W. S.</Forenames>
-      <Text>, C.M.G., D.S.O. (Brig.-Gen., Gen; Staff, Waziristan Force)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4479</PageNumber>
     </MainItem>
     <SubItem>
@@ -157,14 +167,21 @@
       </Key>
       <Title>Capt. (temp. Maj.)</Title>
       <Forenames>H. V.</Forenames>
-      <Text>. D.S.O., M.C. (Administrative Comdt., graded as Dep. Asst. Qrmr.-Gen., Waziristan Force)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4480</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Lindsay</Key>
-      <Text>Col. H. A. P., C.S.I., C. M.G., C.B.E. (Dep. Dir. of Supplies and Trans., Waziristan Force)</Text>
+      <Title>Col.</Title>
+      <Forenames>H. A. P.</Forenames>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>4482</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -173,7 +190,9 @@
       <Key>Lloyd</Key>
       <Title>Capt.</Title>
       <Forenames>F. E.</Forenames>
-      <Text>, M.C. (rel. appt. as Staff Capt,, Lahore Dist.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4255</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -182,7 +201,10 @@
       <Key>Loch</Key>
       <Title>Lt.-Col. and Bt. Col. (temp. Brig.-Gen.)</Title>
       <Forenames>G. G.</Forenames>
-      <Text>, C.M.G., D. S.O. (Bde. Comdr., Waziristan Force)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D. S.O.</Honour>
+      </Text>
       <PageNumber>4479</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -200,14 +222,21 @@
       <Key>Lucas</Key>
       <Title>Col. (temp. Brig.-Gen.)</Title>
       <Forenames>F. G.</Forenames>
-      <Text>, C.B., C.S.I., D.S.O. (Bde. Comdr. Waziristan Force)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4479</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Ludding</Key>
-      <Text>Maj. and Bt. Lt.-Col. T. S., O.B.E. (Dep. Asst. Dir. of Med. Services, Waziristan Force)</Text>
+      <Title>Maj. and Bt. Lt.-Col.</Title>
+      <Forenames>T. S.</Forenames>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4484</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -249,7 +278,9 @@
       <Key>McEnery</Key>
       <Title>Maj. and Bt. Lt.-Col.</Title>
       <Forenames>R. T.</Forenames>
-      <Text>, O.B.E. (Asst. Dir. of Supplies and Trans., Waziristan Force)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4483</PageNumber>
     </MainItem>
     <SubItem>
@@ -262,7 +293,10 @@
       <Key>Macintyre</Key>
       <Title>Lt. (temp. Maj.)</Title>
       <Forenames>J.</Forenames>
-      <Text>, M.C., D.C.M. (Dep. Asst. Dir. of Works, Waziristan Force)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>4483</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -280,7 +314,9 @@
       <Key>Maclachlan</Key>
       <Title>Col. (temp. Brig.Gen.)</Title>
       <Forenames>T. R.</Forenames>
-      <Text>, C.M.G. (Bde. Comdr., Waziristan Force)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>4479</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -356,7 +392,9 @@
       <Key>Matheson</Key>
       <Title>Maj.-Gen.</Title>
       <Forenames>T. G.</Forenames>
-      <Text>, C.B., C. M.G. (Force Commander, Waziristan Force)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>4479</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -365,7 +403,11 @@
       <Key>Maude</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>C. G.</Forenames>
-      <Text>, D.S.O., O.B.E., M.C. (Chief Inspector Educational Training, G.S. Bch.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4254</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -374,7 +416,9 @@
       <Key>May</Key>
       <Title>Capt.</Title>
       <Forenames>C. A. C</Forenames>
-      <Text>, M.C. (rel. appt. as Bde. Maj., Allahabad Bde)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4255</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -383,7 +427,9 @@
       <Key>Mayne</Key>
       <Title>Maj.</Title>
       <Forenames>A. G. O. M.</Forenames>
-      <Text>, D.S.O. (G.S.O., 2nd Grade, G.S. Bch.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3524</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -403,7 +449,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Meredith</Key>
-      <Text>Capt. (temp. Maj.) A. E. , M.C. (Dep. Asst. Dir. of Signals, Waziristan Force)</Text>
+      <Title>Capt. (temp. Maj.)</Title>
+      <Forenames>A. E.</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4483</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -419,7 +469,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Mitchell-Carruthers</Key>
-      <Text>Capt. N. L. (rel. appt. as Dep. Asst. Mil. Secretary, Mil. Sec. Bch.)</Text>
+      <Title>Capt.</Title>
+      <Forenames>N. L.</Forenames>
+      <Text>(rel. appt. as Dep. Asst. Mil. Secretary, Mil. Sec. Bch.)</Text>
       <PageNumber>4255</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -428,7 +480,10 @@
       <Key>Moens</Key>
       <Title>Col.</Title>
       <Forenames>A. W. H. M</Forenames>
-      <Text>„ C.M.G.. D. S.O. (G.S.O., 1st Grade, at India Office)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D. S.O.</Honour>
+      </Text>
       <PageNumber>4486</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -446,7 +501,9 @@
       <Key>Montgomery</Key>
       <Title>Maj.-Gen. Sir</Title>
       <Forenames>A. A.</Forenames>
-      <Text>, K.M.N.G.. C.B. (rel. appt. as Dep. Chief of Gen. Staff)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>4254</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -455,7 +512,10 @@
       <Key>Morgan-Owen</Key>
       <Title>Maj. and Bt.</Title>
       <Forenames>Lt</Forenames>
-      <Text>,iCol. (temp. Lt.-Col.) L. I. G., C.M.G., D.S.O. (Asst. Adjt. and Qrmr.-Gen.. Waziristan Force)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4481</PageNumber>
     </MainItem>
     <SubItem>
@@ -495,7 +555,12 @@
       </Key>
       <Title>Lt.-Col.</Title>
       <Forenames>K. D. B.</Forenames>
-      <Text>, D.S.O. (rel. appt. as A.Q.M.G., Pesh. Dist.) Muspratt, Lt.-Col. V. E. (rel. appt. as A.Q.M.G., E. Cond.) Myles, Capt. (temp. Maj.) R. B., O.B.E. (Dep. Asst. Dir. of Med. Services, Waziristan Force) Narriott, Capt. C. F. (Administrative Comdt., graded as Staff Capt., Waziristan Force) Neale, Maj. W. W. R., O.B.E. (Dep. Asst. Dir. of Vet. Services, Waziristan Force) Neville, 2nd Lt. V. R. W. (Staff Lt., Waziristan Force) Newnham, Col. C. C, D.S.O. (rel. appt. as Dep. Mil. Secretary, Mil. Sees. Bch.) ... Nichol, Lt. (temp. Capt.) M. C. (Staff Capt., Waziristan Force) Nicholl, Lt. M. C. (Staff Lt., Waziristan Force) Cipher Offr., Waziristan Force O'Reilly, Lt. (temp. Capt.) R. (Staff Capt., Waziristan Force, 3rd Dec., (1919, to 30th Sept.,</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>O.B.E.</Honour>
+        <Honour>O.B.E.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1920</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -506,7 +571,9 @@
       <Key>Phayre</Key>
       <Title>Capt. and Bt. Maj.</Title>
       <Forenames>R. B.</Forenames>
-      <Text>. M.C. (Administrative Comdt., graded as Dep. Asst. Qrmr.Gen.. Waziristan Force) Dept. Asst. Qrmr.-Gen., Waziristan Force</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4481</PageNumber>
     </MainItem>
   </ItemGroup>

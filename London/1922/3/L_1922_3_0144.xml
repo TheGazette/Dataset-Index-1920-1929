@@ -4,7 +4,9 @@
     <MainItem>
       <Key>Baker</Key>
       <Forenames>Samuel</Forenames>
-      <Text>, D.S.C. (at own request)</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>5032</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -206,7 +208,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Brinton</Key>
-      <Text>William R. (at own request)</Text>
+      <Forenames>William R.</Forenames>
+      <Text>(at own request)</Text>
       <PageNumber>6158</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -261,7 +264,9 @@
     <MainItem>
       <Key>Bunt</Key>
       <Forenames>Richard C</Forenames>
-      <Text>, M.B.E. (at own request)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>6773</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -403,7 +408,9 @@
     <MainItem>
       <Key>Coker</Key>
       <Forenames>George E.</Forenames>
-      <Text>, D.S.C. (at own request)</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>6773</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -552,6 +559,14 @@
       <Forenames>Robert M. S.</Forenames>
       <Text>(at own request)</Text>
       <PageNumber>6158</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Mowbray</Key>
+      <Forenames>Eric G. B.</Forenames>
+      <Text>(at own request)</Text>
+      <PageNumber>6092</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -859,7 +874,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Funnell</Key>
-      <Text>Joseph W</Text>
+      <Forenames>Joseph W.</Forenames>
       <PageNumber>5032</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -898,7 +913,9 @@
     <MainItem>
       <Key>Gates</Key>
       <Forenames>George</Forenames>
-      <Text>, D.S.C. (at own request)</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>5032</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1062,7 +1079,9 @@
         <KeyDitto>-</KeyDitto>
       </Key>
       <Forenames>Harris</Forenames>
-      <Text>, George, D.S.C. (at own request)</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>6509</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1095,7 +1114,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Richard</Forenames>
-      <Text>, D.S.C</Text>
+      <Text>
+        <Honour>D.S.C</Honour>
+      </Text>
       <PageNumber>6093</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1134,7 +1155,9 @@
     <MainItem>
       <Key>Henderson</Key>
       <Forenames>Oscar</Forenames>
-      <Text>, D.S.O. (at own request)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6018</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1209,7 +1232,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hobbs</Key>
-      <Text>Rudolf E</Text>
+      <Forenames>Rudolf E</Forenames>
       <PageNumber>6092</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1370,7 +1393,9 @@
     <MainItem>
       <Key>Ingram</Key>
       <Forenames>Arthur G.</Forenames>
-      <Text>, D.S.C. (at own request)</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>6576</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1576,7 +1601,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lines</Key>
-      <Text>William (on retirement)</Text>
+      <Forenames>William</Forenames>
+      <Text>(on retirement)</Text>
       <PageNumber>6509</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1661,7 +1687,9 @@
     <MainItem>
       <Key>Mackay</Key>
       <Forenames>John</Forenames>
-      <Text>, D.S.C</Text>
+      <Text>
+        <Honour>D.S.C</Honour>
+      </Text>
       <PageNumber>6003</PageNumber>
     </MainItem>
   </ItemGroup>

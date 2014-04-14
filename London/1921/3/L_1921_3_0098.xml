@@ -33,7 +33,9 @@
       <PageNumber>6446</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>temp. Maj. T. S., M.C. (rel. commn. on completion of service and retains rank of Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7365</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -41,7 +43,9 @@
     <MainItem>
       <Key>Layzell</Key>
       <Forenames>S.</Forenames>
-      <Text>, M.C. (granted temp, rank as Lt. for services with Forces in E. Africa)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6338</PageNumber>
     </MainItem>
     <SubItem>
@@ -58,7 +62,10 @@
       <Key>Lazzell</Key>
       <Title>temp. Lt.</Title>
       <Forenames>A.</Forenames>
-      <Text>, M.C., D.C.M. (rel. commn. on completion of service and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>6656</PageNumber>
     </MainItem>
     <SubItem>
@@ -78,7 +85,9 @@
       <PageNumber>5914</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>Pla, F. G. R., M.C. (granted temp, rank as Lt. for services with Forces in E. Africa)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6339</PageNumber>
     </SubItem>
     <SubItem>
@@ -87,6 +96,7 @@
     </SubItem>
     <SubItem>
       <Text>
+        <Honour>G.C.</Honour>
         <PageNumber>6343</PageNumber>
       </Text>
       <PageNumber>6652</PageNumber>
@@ -96,8 +106,8 @@
     <MainItem>
       <Key>Leach</Key>
       <Title>Capt.</Title>
-      <Forenames>C.</Forenames>
-      <Text>de L. (rel. commn. and retains rank of Capt.)</Text>
+      <Forenames>C. de L</Forenames>
+      <Text>. (rel. commn. and retains rank of Capt.)</Text>
       <PageNumber>7623</PageNumber>
     </MainItem>
     <SubItem>
@@ -112,11 +122,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Leader</Key>
-      <Text>. Maj. R. R. (trd. from W.I.R. to R. Ir. Fus.)</Text>
+      <Title>Maj.</Title>
+      <Forenames>R. R.</Forenames>
+      <Text>(trd. from W.I.R. to R. Ir. Fus.)</Text>
       <PageNumber>6823</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Capt. . H. (ceases to be empld. with M.G.C. Infy.)</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>5317</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -159,7 +173,9 @@
       <Key>Leatham</Key>
       <Title>temp. Capt.</Title>
       <Forenames>N. C</Forenames>
-      <Text>, O.B.E. (rel. oommn. on completion of service and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>5791</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -168,7 +184,9 @@
       <Key>Leathern</Key>
       <Title>Lt.</Title>
       <Forenames>G. J.</Forenames>
-      <Text>, M.C. (Capt., Bedfs. and Herts. R., from Middx R.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7109</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -278,7 +296,10 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>G. M.</Forenames>
-      <Text>M.C., D.F.C. (rel. temp, rank of Capt. on ceasing to be Asst. Political Offr.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>7294</PageNumber>
     </MainItem>
     <SubItem>
@@ -295,7 +316,9 @@
       </Key>
       <Title>temp. Maj.</Title>
       <Forenames>H. B.</Forenames>
-      <Text>, M.C. (rel. commn. on completion of service and retains rank of Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6366</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -339,7 +362,9 @@
       <PageNumber>7367</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Rel. temp, rank of Maj.. on ceasing to be empld-. with M.G.C. Infy</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>7367</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -351,7 +376,9 @@
       </Key>
       <Title>temp. Capt.</Title>
       <Forenames>T. C.</Forenames>
-      <Text>(rel. commn. on completion of service and retains rank of Capt.)... Lennox, Lt. W. (ceases to be empld. with M.G.C. Infy.) ... Restd. to estabt Not. of restoration to estabt. in Gaz., 19 July,</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>1921</PageNumber>
     </MainItem>
   </ItemGroup>

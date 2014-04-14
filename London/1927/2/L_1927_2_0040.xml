@@ -72,8 +72,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wintour</Key>
-      <Title>St.</Title>
-      <Forenames>J. F.</Forenames>
+      <Title>St. J.</Title>
+      <Forenames>F.</Forenames>
       <PageNumber>3210</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -375,7 +375,9 @@
       <Key>Leighton</Key>
       <Title>Sir</Title>
       <Forenames>R. T.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>2878</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -514,8 +516,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Barham</Key>
-      <Forenames>L.</Forenames>
-      <Text>de L</Text>
+      <Forenames>L. de L</Forenames>
       <PageNumber>2129</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1296,8 +1297,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Dowda, J. W</Text>
+      <Key>O'Dowda</Key>
+      <Forenames>J. W</Forenames>
       <PageNumber>3452</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1412,8 +1413,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. John, R. S</Text>
+      <Key>St. John</Key>
+      <Forenames>R. S.</Forenames>
       <PageNumber>2770</PageNumber>
       <PageNumber>2770</PageNumber>
       <PageNumber>2771</PageNumber>
@@ -1730,8 +1731,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Young</Key>
-      <Forenames>K.</Forenames>
-      <Text>de L</Text>
+      <Forenames>K. de L</Forenames>
       <PageNumber>2315</PageNumber>
     </MainItem>
   </ItemGroup>

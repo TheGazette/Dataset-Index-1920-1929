@@ -21,7 +21,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lt</Key>
-      <Text>W. H. (seed, for service under Colonial Office) Singh. Bahadur, Risaldar Maj, (Hon. Lt.)</Text>
+      <Forenames>W. H.</Forenames>
+      <Text>(seed, for service under Colonial Office) Singh. Bahadur, Risaldar Maj, (Hon. Lt.)</Text>
       <PageNumber>11316</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -83,7 +84,11 @@
       <PageNumber>12148</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>.Chair, Bt. Maj. G. H. B.. O.B.E.. M.C. (temp. Maj. whilst G.S.O., 2nd Gr.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10934</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -92,7 +97,9 @@
       <Key>De-Figueiredo</Key>
       <Title>Lt.</Title>
       <Forenames>E.</Forenames>
-      <Text>, M.C. (rel. commn. and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10161</PageNumber>
     </MainItem>
     <SubItem>
@@ -100,7 +107,9 @@
       <PageNumber>10839</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>Gaury, Gerald Simpson Hillairet Rutland Vere, M.C. (Lt., Essex R., from temp. Lt., Serv. Bn., Hamps. R.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>12264</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -167,7 +176,9 @@
       <Key>Court</Key>
       <Title>Lt.</Title>
       <Forenames>S. F. W. M.</Forenames>
-      <Text>, M.C. (actg. Capt. comdg. Spec. Serv. Co., Middx R.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10056</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -254,7 +265,10 @@
       <Key>Pree</Key>
       <Title>Col.</Title>
       <Forenames>H. D.</Forenames>
-      <Text>, C.B., C.M.G. D.S.O. (rel. temp, rank of Brig.-Gen., and to be temp. Col. Comdt. whilst holding present appt.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G. D.S.O.</Honour>
+      </Text>
       <PageNumber>12695</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -281,7 +295,10 @@
       <Key>Sausmarez</Key>
       <Title>Lt.-Col. (Bt. Col.)</Title>
       <Forenames>C</Forenames>
-      <Text>, C.M.G., D.S.O. (placed on h.p. list on completion of 4 vears' service as Regtl. Lt.Col.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>12808</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -314,7 +331,9 @@
     <MainItem>
       <Key>Trafford</Key>
       <Forenames>Lt</Forenames>
-      <Text>, G. E.. M.C. (rel. actg. rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10932</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -324,23 +343,37 @@
         <PageNumber>___ ___ ___ ___ ___ ___</PageNumber>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>de Trafford, temp. Capt, R. E., O.B,E. (rel. commn. on completion of service, and retains rank of Capt.)</Text>
+      <Forenames>de Trafford</Forenames>
+      <Text>, temp. Capt, R. E., O.B,E. (rel. commn. on completion of service, and retains rank of Capt.)</Text>
       <PageNumber>12119</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Veber</Forenames>
-      <Text>, temp. 2nd Lt. L. S. (rel. commn. on completion of service, and retains rank of 2nd Lt.)</Text>
+      <Key>De Veber</Key>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>L. S.</Forenames>
+      <Text>(rel. commn. on completion of service, and retains rank of 2nd Lt.)</Text>
       <PageNumber>11770</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Wardt</Forenames>
-      <Text>, Lt. A. (rel. commn. and retains rank of Lt.)</Text>
+      <Key>de Vine</Key>
+      <Title>temp. Chapln., 4th CI., Rev.</Title>
+      <Forenames>C. N.</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
+      <PageNumber>12383</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Wardt</Key>
+      <Title>Lt.</Title>
+      <Forenames>A.</Forenames>
+      <Text>(rel. commn. and retains rank of Lt.)</Text>
       <PageNumber>9784</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -351,8 +384,24 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>J. C</Forenames>
-      <Text>, A.M.I.E.E., T.D. (actg. Capt,)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>12382</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Wiart</Key>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>V.C.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>A.D.C.</Honour>
+      </Text>
+      <PageNumber>12695</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -415,7 +464,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>W. J.</Forenames>
-      <Text>, D.S.O. (rel. actg. rank of Maj.t</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>11590</PageNumber>
     </MainItem>
     <SubItem>
@@ -428,7 +479,10 @@
       <Key>Deakin</Key>
       <Title>Capt.</Title>
       <Forenames>E. B.</Forenames>
-      <Text>, D.S.O., M.C. (Capt., Army Educational Corps)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>11576</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -448,7 +502,10 @@
       <Key>Dealy</Key>
       <Title>Col.</Title>
       <Forenames>J. A.</Forenames>
-      <Text>, C.M.G... C I.E., D.S.O. (rel temp, rank of Brig.-Gen.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>12697</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -459,7 +516,10 @@
       </Key>
       <Title>Supern. Maj.</Title>
       <Forenames>A. C. H.</Forenames>
-      <Text>, O.B.E., D.S.O. (restd. to estabt.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>9781</PageNumber>
     </MainItem>
     <SubItem>
@@ -498,7 +558,9 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>D. J.</Forenames>
-      <Text>, V.C. (rel. commn. on completion of service, and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>V.C.</Honour>
+      </Text>
       <PageNumber>9784</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -535,7 +597,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>J. W.</Forenames>
-      <Text>, M.C. (rel. commn. and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10065</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -566,7 +630,9 @@
       <Key>Deane</Key>
       <Title>temp. Capt.</Title>
       <Forenames>C. H.</Forenames>
-      <Text>, M.C. (rel. commn. on completion of service, and granted rank of Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>11562</PageNumber>
     </MainItem>
   </ItemGroup>

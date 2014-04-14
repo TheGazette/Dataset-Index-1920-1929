@@ -5,7 +5,9 @@
       <Key>Chambers</Key>
       <Title>Surgeon</Title>
       <Forenames>Vice</Forenames>
-      <Text>Admiral Sir Joseph, K.C.B., C. M.G., Commander, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+      </Text>
       <PageNumber>4041</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -58,7 +60,13 @@
       <Key>Child</Key>
       <Title>Brig.-Gen. Sir</Title>
       <Forenames>Smith Hill</Forenames>
-      <Text>, Bart., C.B., C.M.G., D. S.O., M.V.O., Gentleman Usher in Ordinary to His Majesty</Text>
+      <Text>
+        <Honour>Bart</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D. S.O.</Honour>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>2601</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -67,7 +75,9 @@
       <Key>Chitty</Key>
       <Title>Sir</Title>
       <Forenames>Thomns Willes</Forenames>
-      <Text>, Bart., King's Counsel</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>2122</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -75,7 +85,9 @@
     <MainItem>
       <Key>Cholmeley</Key>
       <Forenames>Robert Francis</Forenames>
-      <Text>, O.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3612</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -163,7 +175,10 @@
       <Key>Clifford</Key>
       <Title>Sir</Title>
       <Forenames>Hugh Charles</Forenames>
-      <Text>, G.C.M.G., G.B.E., Governor and Commander-inChief of the Straits Settlements</Text>
+      <Text>
+        <Honour>G.C.M.G.</Honour>
+        <Honour>G.B.E.</Honour>
+      </Text>
       <PageNumber>2958</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -186,8 +201,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Clncas</Key>
-      <Forenames>George Frederick Com-</Forenames>
-      <Text>mander, Order of the British Empire</Text>
+      <Forenames>George Frederick</Forenames>
+      <Text>Commander, Order of the British Empire</Text>
       <PageNumber>3612</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -195,7 +210,9 @@
     <MainItem>
       <Key>Cochran</Key>
       <Forenames>Alexander Smith</Forenames>
-      <Text>, K.B.E., Officer (Associate), Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+      </Text>
       <PageNumber>4041</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -204,7 +221,10 @@
       <Key>Cockill</Key>
       <Title>Lieut.-Col.</Title>
       <Forenames>William Baron</Forenames>
-      <Text>, T.D., M.D., Commander, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>4040</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -212,7 +232,9 @@
     <MainItem>
       <Key>Cockshott</Key>
       <Forenames>John James</Forenames>
-      <Text>, O.B.E., Commander, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4040</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -221,7 +243,10 @@
       <Key>Coke</Key>
       <Title>Colonel</Title>
       <Forenames>Jacynth</Forenames>
-      <Text>DEwes F i t z E r o a 1 d, C.M.G., C.V.O., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>C.V.O.</Honour>
+      </Text>
       <PageNumber>3612</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -230,7 +255,10 @@
       <Key>Colo</Key>
       <Title>Lieut.-Col.</Title>
       <Forenames>Henry Walter George</Forenames>
-      <Text>, C.S.I., O.B.E., Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3608</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -249,7 +277,10 @@
       <Key>Colebrooke</Key>
       <Title>The Rt. Hon.</Title>
       <Forenames>Edward Arthur Baron</Forenames>
-      <Text>, K.C.V.O., Knight Grand Cross, Royal Victorian Order</Text>
+      <Text>
+        <Honour>K.C.V.O.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3603</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -258,7 +289,9 @@
       <Key>Coles</Key>
       <Title>Major</Title>
       <Forenames>Richard Charles</Forenames>
-      <Text>, T.D., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>3613</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -281,8 +314,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Congreve</Key>
-      <Title>Lieut.</Title>
-      <Text>-Commander Geoffrev Cecil, R.N., Baronet ,</Text>
+      <Title>Lieut.-Commander</Title>
+      <Forenames>Geoffrev Cecil</Forenames>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>3603</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -290,7 +326,12 @@
     <MainItem>
       <Key>Connaiight</Key>
       <Forenames>Field Marshal</Forenames>
-      <Text>H.R.H. The Duke of, K.G., K.T., K.P., P.C., G.C.B., &amp;c, Bailiff Grand Cross, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>K.G.</Honour>
+        <Honour>K.T.</Honour>
+        <Honour>P.C.</Honour>
+        <Honour>G.C.B.</Honour>
+      </Text>
       <PageNumber>3836</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -306,7 +347,9 @@
     <MainItem>
       <Key>Connor</Key>
       <Forenames>Anthony John</Forenames>
-      <Text>, M.B.E., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>4041</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -358,9 +401,13 @@
   <ItemGroup>
     <MainItem>
       <Key>Cooke</Key>
-      <Title>Major</Title>
+      <Title>Major-</Title>
       <Forenames>General Herbert Fothergill</Forenames>
-      <Text>, C.B., C.S.I., C.B.E., D.S.O., Knight Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.B.E.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3608</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -368,14 +415,19 @@
     <MainItem>
       <Key>Coombs</Key>
       <Forenames>William Walter</Forenames>
-      <Text>, M.B.E., Officer, Order of the British Empire '</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3612</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Cooper</Key>
-      <Text>. Thomas Mackay, O.B.E., Counsel to His Majestv</Text>
+      <Forenames>Thomas Mackay</Forenames>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>2310</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -386,7 +438,9 @@
       </Key>
       <Title>Lieut.-Col.</Title>
       <Forenames>Walter</Forenames>
-      <Text>, M.C., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3609</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -404,7 +458,9 @@
       <Key>Corbet</Key>
       <Title>Sir</Title>
       <Forenames>Gerald Vincent</Forenames>
-      <Text>, Bt., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4041</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -445,7 +501,10 @@
     <MainItem>
       <Key>Cotton</Key>
       <Forenames>George Frederick</Forenames>
-      <Text>. M.V.O., M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3612</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -453,7 +512,9 @@
     <MainItem>
       <Key>Cowasji</Key>
       <Forenames>Jehangir</Forenames>
-      <Text>, O.I.E., O.B.E., Knight Commander, Order of the Indian Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3607</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -479,7 +540,10 @@
     <MainItem>
       <Key>Craig</Key>
       <Forenames>Ernest</Forenames>
-      <Text>, J.P., M.P., Baronet</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>3603</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -488,7 +552,10 @@
       <Key>Cran</Key>
       <Title>Lieut.-Col.</Title>
       <Forenames>James</Forenames>
-      <Text>, M.D., O.B.E., V.D., Official Member of Legislative Council of British Honduras</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3206</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -565,7 +632,10 @@
     <MainItem>
       <Key>Critien</Key>
       <Title>Attilir.</Title>
-      <Text>M.B.E., M.D., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3617</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -573,7 +643,9 @@
     <MainItem>
       <Key>Crocker</Key>
       <Forenames>Paymaster</Forenames>
-      <Text>Captain William Ernest, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3605</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -581,7 +653,9 @@
     <MainItem>
       <Key>Croker</Key>
       <Forenames>George Norman</Forenames>
-      <Text>, M.C., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3615</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -622,7 +696,9 @@
       <Key>Cruickshank</Key>
       <Title>Miss</Title>
       <Forenames>Joanna Margaret</Forenames>
-      <Text>, R.R.C., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>R.R.C.</Honour>
+      </Text>
       <PageNumber>3611</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -680,7 +756,10 @@
     <MainItem>
       <Key>Dale</Key>
       <Forenames>Henry Hallett</Forenames>
-      <Text>, C.B.E., F.R.S., M.D., F.R.C.P., Member of General Council of Medical Education and Registration, in United Kingdom</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>2673</PageNumber>
     </MainItem>
   </ItemGroup>

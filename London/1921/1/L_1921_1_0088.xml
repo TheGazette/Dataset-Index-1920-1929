@@ -92,7 +92,9 @@
       </Key>
       <Title>temp. Capt.</Title>
       <Forenames>N. T.</Forenames>
-      <Text>, M.C. (rel. commn. on completion of service and granted rank of Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2370</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -125,7 +127,9 @@
       </Key>
       <Title>temp.</Title>
       <Forenames>Capt</Forenames>
-      <Text>, W., M.C. (rel. commn. on completion of service and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1528</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -169,7 +173,9 @@
       <Key>Ellissen</Key>
       <Title>temp. Capt.</Title>
       <Forenames>H.</Forenames>
-      <Text>, C.B.E. (rel. commn. and granted rank of Lt.-Col.. now empld. with Imperial War Graves Commn.)</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>1965</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -185,7 +191,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Ellwood</Key>
-      <Text>. Capt. A. A., D.S.O., O.B.E., M.C. (rel. temp, rank of Maj. on ceasing to be empld. with M.G.C. Infy.)</Text>
+      <Title>Capt.</Title>
+      <Forenames>A. A.</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>442</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -201,7 +214,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Elmslie</Key>
-      <Text>. W.O. (CI. I.) Alexander William (Lt., Army Educational Corps, from Instr., Educational)</Text>
+      <Forenames>W.O.</Forenames>
+      <Text>(CI. I.) Alexander William (Lt., Army Educational Corps, from Instr., Educational)</Text>
       <PageNumber>671</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -228,21 +242,29 @@
       <Key>Elsbury</Key>
       <Title>Lt.</Title>
       <Forenames>A.</Forenames>
-      <Text>, M.C. (ceases to be empld. with Tank Corps)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1262</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Elsmie</Key>
-      <Text>. Col. (temp. Brig.-Gen.) A. M. S., C.B., C.M.G. (Maj.Gen.)</Text>
+      <Title>Col. (temp. Brig.-Gen.)</Title>
+      <Forenames>A. M. S.</Forenames>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>537</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Elstob</Key>
-      <Text>. temp. 2nd Lt. (Hon. Capt., late R.A.F.), F. C. (rel. commn. on ceasing to be empld.)</Text>
+      <Title>temp. 2nd Lt. (Hon. Capt., late R.A.F.)</Title>
+      <Text>, F. C. (rel. commn. on ceasing to be empld.)</Text>
       <PageNumber>1030</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -266,7 +288,7 @@
       <PageNumber>535</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Trd. to Gen. Res. of Offrs.</Text>
+      <Text>Trd. to Gen. Res. of Offrs</Text>
       <PageNumber>538</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -305,7 +327,10 @@
       <Key>Elveiy</Key>
       <Title>Capt.</Title>
       <Forenames>Philip G. M.</Forenames>
-      <Text>, D.S.O., M.C. (Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>917</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -323,7 +348,10 @@
       <Key>Elwes</Key>
       <Title>Maj.</Title>
       <Forenames>H. C</Forenames>
-      <Text>, D.S.O., M.V.O. (rel. commn. and granted rank of Lt.-Col., with permission to wear prescribed uniform)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>936</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -332,7 +360,9 @@
       <Key>Emerson</Key>
       <Title>temp. Maj.</Title>
       <Forenames>C. H.</Forenames>
-      <Text>, M.C. (rel. commn. on completion of service and retains rank of Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1882</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -341,7 +371,9 @@
       <Key>Emery</Key>
       <Title>temp. Capt.</Title>
       <Forenames>C. A.</Forenames>
-      <Text>, M.C. (rel. commn. on completion of service and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1044</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -449,7 +481,9 @@
       <Key>Ennis</Key>
       <Title>Chapln., 2nd CI., Rev.</Title>
       <Forenames>A. D. L.</Forenames>
-      <Text>. O.B.E., M.A..(Chapln., 1st CI.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>1355</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -494,7 +528,9 @@
       <Key>Erskine</Key>
       <Title>Maj. and Bt. Lt.-Col.</Title>
       <Forenames>A. E.</Forenames>
-      <Text>, D.S.O. (seed. whilst Equerry to the King)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1522</PageNumber>
     </MainItem>
     <KeyDitto>___ ___</KeyDitto>
@@ -519,7 +555,9 @@
       <Key>Erwin</Key>
       <Title>temp. Capt.</Title>
       <Forenames>H.</Forenames>
-      <Text>, O.B.E. (rel. commn. on completion of service and granted rank of Maj.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>563</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -608,7 +646,9 @@
       <Key>Eva</Key>
       <Title>Lt.</Title>
       <Forenames>Wilfred Harvey</Forenames>
-      <Text>, M.C. (trdi to Army Educational Corps from R.G.A., Spec. Res.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>669</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -617,7 +657,9 @@
       <Key>Evans</Key>
       <Title>Lt.</Title>
       <Forenames>A. E.</Forenames>
-      <Text>, D.F.C. (restd. to estabt.)</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>2185</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -657,7 +699,7 @@
       <PageNumber>841</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Rel. commn. and retains rank of Lt.</Text>
+      <Text>Rel. commn. and retains rank of Lt</Text>
       <PageNumber>1889</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -695,7 +737,12 @@
       </Key>
       <Title>Bt. Col. (temp. Col. on Staff)</Title>
       <Forenames>E.</Forenames>
-      <Text>, C.B., C.M.G., D.S.O., A.D.C. (Col.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>A.D.C.</Honour>
+      </Text>
       <PageNumber>918</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -717,7 +764,9 @@
       </Key>
       <Title>Lt.-Col.</Title>
       <Forenames>E. G.</Forenames>
-      <Text>, D.S.O. (h.p. list, retires on ret. pay)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>848</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -784,7 +833,9 @@
       </Key>
       <Title>temp. Capt.</Title>
       <Forenames>G. W. W.</Forenames>
-      <Text>, M.B.E. (rel. commn. and granted rank of Lt.-Col., now empld. with Imperial War Graves Commn.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>1965</PageNumber>
     </MainItem>
   </ItemGroup>

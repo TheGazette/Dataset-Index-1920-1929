@@ -132,7 +132,11 @@
     <MainItem>
       <Key>Leicester</Key>
       <Title>temp. Lt.-Col.</Title>
-      <Text>and County Comdt. (Col., ret. pay) (Hon. Col., 4th Bn., Norf. R. T. W., Earl of, G.C.V.O., C.M.G., A.D.C. (rel. commn., and granted hon. rank of Lt.. Col.)</Text>
+      <Text>
+        <Honour>G.C.V.O.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>A.D.C.</Honour>
+      </Text>
       <PageNumber>3995</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -200,7 +204,10 @@
         <KeyDitto />
       </Key>
       <Forenames>A.</Forenames>
-      <Text>, Bt., M.C. (rel. commn., and granted hon. rank of Lt.-Col.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3755</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -218,7 +225,9 @@
       <Key>Leman</Key>
       <Title>temp. Capt.</Title>
       <Forenames>T. C</Forenames>
-      <Text>, M.D. (rel. commn., and to be Hon. Cap*-</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>1215</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -316,7 +325,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Title>temp. Lt.-Col.</Title>
-      <Text>and County Comd&lt;t. (Bt. Col., ret. pay) D. F., C.LB. (rel. commnn; and granted bon. rank of Lt.Cod.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>3995</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -337,7 +348,10 @@
       </Key>
       <Title>temp. Maj.</Title>
       <Forenames>G. A.</Forenames>
-      <Text>, C.M.G., T.D. '(rel. commm,, and to be Hon. Maj.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>2899</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -478,7 +492,10 @@
     <MainItem>
       <Key>Lincolnshire</Key>
       <Title>temp. Lt.-Col.</Title>
-      <Text>and County Oomdt. (Hon. Col., ret., Mila.), The Rt. Hon. C. R., . Marquis of, K.G., G.C.M.G. (red. commn., and granted hon, rank of Lt.-Col.)</Text>
+      <Text>
+        <Honour>K.G.</Honour>
+        <Honour>G.C.M.G.</Honour>
+      </Text>
       <PageNumber>3754</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -602,7 +619,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lintott</Key>
-      <Text>. temp. T-t. C. (red. commn., and to lie Hon, Lt.)</Text>
+      <Title>temp.</Title>
+      <Text>T-t. C. (red. commn., and to lie Hon, Lt.)</Text>
       <PageNumber>916</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -72,7 +72,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Crabbe</Key>
-      <Text>.Lt. C. B. (retirement)</Text>
+      <Title>Lt.</Title>
+      <Forenames>C. B.</Forenames>
+      <Text>(retirement)</Text>
       <PageNumber>7542</PageNumber>
     </MainItem>
     <SubItem>
@@ -84,7 +86,9 @@
     <MainItem>
       <Key>Crombie</Key>
       <Title>Capt.</Title>
-      <Text>(now Bt. Lt. -Col., D. C. (temp. Maj. while G.S.O. 2nd grade)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>7378</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -152,7 +156,10 @@
       <Key>Cuming</Key>
       <Title>Col.</Title>
       <Forenames>R. J.</Forenames>
-      <Text>, D.S.O., O.B.E. (corr. of name)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>7951</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -161,7 +168,9 @@
       <Key>Cunningham</Key>
       <Title>Maj.</Title>
       <Forenames>C. C</Forenames>
-      <Text>, D.S.O. (retirement, and granted rank of Lt.-Col)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8527</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -218,7 +227,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>A. W.</Forenames>
-      <Text>, O.B.E. (Lt. Col.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>8116</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -245,7 +256,9 @@
       <Key>Dann</Key>
       <Title>Lt.</Title>
       <Forenames>Charles Walter</Forenames>
-      <Text>, M.C. (corr. of date of admission to I. A.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8116</PageNumber>
     </MainItem>
     <SubItem>
@@ -363,7 +376,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Davison</Key>
-      <Text>. Capt D. S., D.S.O. (Maj) ... '</Text>
+      <Forenames>Capt D. S.</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7794</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -388,7 +404,9 @@
     <MainItem>
       <Key>De</Key>
       <Forenames>Butls</Forenames>
-      <Text>, Capt F. C, D.S.O.,</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8116</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -416,7 +434,9 @@
       <Key>Dew</Key>
       <Title>Lt.-Col. Sir</Title>
       <Forenames>A. B.</Forenames>
-      <Text>, K.C.I.E., C.S.I, (retirement)</Text>
+      <Text>
+        <Honour>K.C.I.E.</Honour>
+      </Text>
       <PageNumber>8882</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -425,7 +445,9 @@
       <Key>Dickens</Key>
       <Title>Capt.</Title>
       <Forenames>W. S.</Forenames>
-      <Text>, M.B.E. (resigns commn. and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>8117</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -510,7 +532,9 @@
       <Key>Dow</Key>
       <Title>Lt. (no.w Capt.)</Title>
       <Forenames>Donald James</Forenames>
-      <Text>, M.C. (corr. of date of rank)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8723</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -528,7 +552,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dowlii</Key>
-      <Text>.g, Capt T. (retirement)</Text>
+      <Text>g, Capt T. (retirement)</Text>
       <PageNumber>8118</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -572,9 +596,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Pre</Forenames>
-      <Text>, Lt. M. D. A. G. (retirement)</Text>
+      <Key>Du Pre</Key>
+      <Title>Lt.</Title>
+      <Forenames>M. D. A. G.</Forenames>
+      <Text>(retirement)</Text>
       <PageNumber>7210</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -608,7 +633,9 @@
       <Key>Dnnlop</Key>
       <Title>Maj.</Title>
       <Forenames>C. A. M.</Forenames>
-      <Text>, M.C. (Lt.-Col.l</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8116</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -733,8 +760,8 @@
     <MainItem>
       <Key>Enimott</Key>
       <Title>2nd Lt.</Title>
-      <Forenames>R. St</Forenames>
-      <Text>. B. (Lt.)</Text>
+      <Forenames>R. St. B</Forenames>
+      <Text>. (Lt.)</Text>
       <PageNumber>8723</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -826,7 +853,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Fare</Key>
-      <Text>. Maj. A. J. M. Saville, see Saville-Fare, Maj. A. J. M. Farr, Lt. C. J. (retirement)</Text>
+      <Title>Maj.</Title>
+      <Forenames>A. J. M. Saville</Forenames>
+      <Text>, see Saville-Fare, Maj. A. J. M. Farr, Lt. C. J. (retirement)</Text>
       <PageNumber>9187</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -924,7 +953,9 @@
       <Key>Fleming</Key>
       <Title>Capt.</Title>
       <Forenames>J. G. G.</Forenames>
-      <Text>, D.S.O , M.C. (retirement)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7542</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -955,7 +986,9 @@
       <Key>Forbes</Key>
       <Title>Capt.</Title>
       <Forenames>G. H. N.</Forenames>
-      <Text>, O.B.E. (resigns commn., and granted rank of Lt -Col.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>8526</PageNumber>
     </MainItem>
   </ItemGroup>

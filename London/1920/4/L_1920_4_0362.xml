@@ -234,7 +234,9 @@
       <Key>Troup</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Alan Gordon</Forenames>
-      <Text>, D.S.O. (trd. to 48th South Midland Divl. Train from 2nd Mounted Divl. S.C.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>12168</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -243,7 +245,9 @@
       <Key>Troutbeck</Key>
       <Title>Lt.</Title>
       <Forenames>J. M.</Forenames>
-      <Text>, O.B.E. (Capt,)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>11076</PageNumber>
     </MainItem>
     <SubItem>
@@ -256,7 +260,9 @@
       <Key>Trubshaw</Key>
       <Title>Lt.</Title>
       <Forenames>A. R.</Forenames>
-      <Text>, M.B.E. (resigns commn. and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>10268</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -284,14 +290,18 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Lt</Forenames>
-      <Text>, G. H. (trd. to 5th Bn., Essex R:, late M.G.C.)</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>11585</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Tuck</Key>
-      <Text>2nd Lt. (temp. Lt.) C. H. (Lt.)</Text>
+      <Title>2nd Lt. (temp. Lt.)</Title>
+      <Forenames>C. H.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>12048</PageNumber>
     </MainItem>
     <SubItem>
@@ -304,7 +314,9 @@
       <Key>Tucker</Key>
       <Title>Maj.</Title>
       <Forenames>G.</Forenames>
-      <Text>, S., T.D. (resigns commn. and retains rank of Maj.)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>10716</PageNumber>
     </MainItem>
     <SubItem>
@@ -318,7 +330,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Lt</Forenames>
-      <Text>, .G. W., M.C. (trd. to T.F.R.. Infy., from 4th Bn., E. Yorks. R.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10717</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -453,7 +467,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>J. W.</Forenames>
-      <Text>, M.C. (trd. to T.F.R., Infy., from 8th Bn., Notts, and Derbv. R.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>11206</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -479,7 +495,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>R. F.</Forenames>
-      <Text>, T.D. (resigns commn. and retains rank of Maj.)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>9805</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -585,7 +603,9 @@
       <Key>Tyer</Key>
       <Title>Capt.</Title>
       <Forenames>A. A.</Forenames>
-      <Text>, M.V.O. (trd. to 28th Bn., Lond. R., late .R.F.A.)</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>10071</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -621,7 +641,9 @@
     <MainItem>
       <Key>Underhay</Key>
       <Forenames>Lt</Forenames>
-      <Text>, C. T., M.C. (trd. to T.F.R:, Infy., from 17th Bn., Ldn. R.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>12128</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -630,7 +652,9 @@
       <Key>Underwood</Key>
       <Title>2nd Lt.</Title>
       <Forenames>H. B.</Forenames>
-      <Text>, M.M. (Lt.)</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>12379</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -719,17 +743,17 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Duzer</Forenames>
-      <Text>, ,Capt. S. R. (trd. to T.E.R., Infy.,. from 4th Bn., York and Lanes. R.)</Text>
+      <Key>Van Duzer</Key>
+      <Text>,Capt. S. R. (trd. to T.E.R., Infy.,. from 4th Bn., York and Lanes. R.)</Text>
       <PageNumber>9797</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Emmichoven</Forenames>
-      <Text>, 2nd Lt. P. C. Z. (Lt.)</Text>
+      <Key>Van Emmichoven</Key>
+      <Title>2nd Lt.</Title>
+      <Forenames>P. C. Z.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>10587</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -743,8 +767,7 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Title>Tr.</Title>
+      <Key>Van Tr</Key>
       <Text>omp, .Lt. J. J. J. (resigns commn., and retains rank of Lt.)</Text>
       <PageNumber>10587</PageNumber>
     </MainItem>
@@ -849,7 +872,9 @@
       <Key>Venn</Key>
       <Title>Capt.</Title>
       <Forenames>H. W. S.</Forenames>
-      <Text>, O.B.E. (restd. to T.F.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>12378</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -867,7 +892,9 @@
       <Key>Verdin</Key>
       <Title>Maj.</Title>
       <Forenames>R. N. H.</Forenames>
-      <Text>, T.D. (Lt.Col., T.F.R. Yeo.)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>11323</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -902,7 +929,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Veysey</Key>
-      <Text>Lt. H. G. (resiens commn. and retains rank of Lt.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>H. G.</Forenames>
+      <Text>(resiens commn. and retains rank of Lt.)</Text>
       <PageNumber>12698</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -911,7 +940,9 @@
       <Key>Viccars</Key>
       <Title>2nd Lt.</Title>
       <Forenames>W. J.</Forenames>
-      <Text>, M.M. (Lt.) -</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>11598</PageNumber>
     </MainItem>
     <SubItem>
@@ -932,7 +963,9 @@
     <MainItem>
       <Key>Villa</Key>
       <Forenames>Lt</Forenames>
-      <Text>, E. C. M.C. (restd. in . . unit)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10827</PageNumber>
     </MainItem>
   </ItemGroup>

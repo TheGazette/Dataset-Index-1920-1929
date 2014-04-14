@@ -123,7 +123,9 @@
     <MainItem>
       <Key>Twinberrow</Key>
       <Forenames>J.</Forenames>
-      <Text>iD.. M.C. ... -</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1950</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -310,8 +312,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Adheson</Key>
-      <Forenames>I. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>I. St. G</Forenames>
       <PageNumber>1268</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -361,7 +362,9 @@
         <KeyDitto>— ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>T.</Forenames>
-      <Text>, M.C. (addtl.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3543</PageNumber>
     </MainItem>
     <SubItem>
@@ -387,7 +390,9 @@
     <MainItem>
       <Key>Aldersani</Key>
       <Forenames>V. C</Forenames>
-      <Text>, M.C. (retains actg. rank 'whilst Adjt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>567</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -439,8 +444,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Anbiatitonot</Key>
-      <Forenames>J. St</Forenames>
-      <Text>. C. (rel. aotg. ra.nk)</Text>
+      <Forenames>J. St. C</Forenames>
+      <Text>. (rel. aotg. ra.nk)</Text>
       <PageNumber>3679</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -553,7 +558,7 @@
       <PageNumber>2473</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Bel-aictg. rank oni ceasing to oomd, a Oo</Text>
+      <Text>Bel-aictg. rank oni ceasing to oomd, a Oo.</Text>
       <PageNumber>3543</PageNumber>
     </SubItem>
     <SubItem>
@@ -680,7 +685,9 @@
     <MainItem>
       <Key>Bond</Key>
       <Forenames>K. H.</Forenames>
-      <Text>, M.C. (rel. actg. rank)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>567</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -727,7 +734,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bramfitt</Key>
-      <Text>. A. E</Text>
+      <Forenames>A. E</Forenames>
       <PageNumber>1105</PageNumber>
     </MainItem>
     <SubItem>
@@ -804,7 +811,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bugler</Key>
-      <Text>. E. F., M.C</Text>
+      <Forenames>E. F.</Forenames>
+      <Text>, M.C</Text>
       <PageNumber>1106</PageNumber>
     </MainItem>
     <SubItem>
@@ -861,7 +869,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Burton</Key>
-      <Text>. V. M</Text>
+      <Forenames>V. M.</Forenames>
       <PageNumber>3542</PageNumber>
     </MainItem>
     <SubItem>
@@ -880,7 +888,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Butterfield</Key>
-      <Text>. L. H</Text>
+      <Forenames>L. H</Forenames>
       <PageNumber>2472</PageNumber>
     </MainItem>
     <SubItem>
@@ -891,14 +899,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Caieer</Key>
-      <Text>. A. C. E. (rel. actg. rank)</Text>
+      <Forenames>A. C. E.</Forenames>
+      <Text>(rel. actg. rank)</Text>
       <PageNumber>3316</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Campbell</Key>
-      <Text>. J. W. (rel. actg. rank)</Text>
+      <Forenames>J. W.</Forenames>
+      <Text>(rel. actg. rank)</Text>
       <PageNumber>2474</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -923,7 +933,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Carlinir</Key>
-      <Text>. T. E. (retains actg. rank while oomdg. a Co.)</Text>
+      <Forenames>T. E.</Forenames>
+      <Text>(retains actg. rank while oomdg. a Co.)</Text>
       <PageNumber>1107</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -938,7 +949,10 @@
     <MainItem>
       <Key>Carter</Key>
       <Forenames>A. V.</Forenames>
-      <Text>, M.C., M.M. (rel. acts, rank)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>3441</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -952,7 +966,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Challen</Key>
-      <Text>. B. S. (on ceasing to be actg. Maj., reverts to actg. Capt.) '</Text>
+      <Forenames>B. S.</Forenames>
+      <Text>(on ceasing to be actg. Maj., reverts to actg. Capt.) '</Text>
       <PageNumber>3441</PageNumber>
     </MainItem>
   </ItemGroup>

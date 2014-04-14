@@ -25,7 +25,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bears</Key>
-      <Text>.ed, Marcus, Lord</Text>
+      <Text>ed, Marcus, Lord</Text>
       <PageNumber>839</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -43,9 +43,11 @@
       <Title>Sir</Title>
       <Forenames>James</Forenames>
       <Text>, Kt., K.C.V.O</Text>
-      <PageNumber>840</PageNumber>
     </MainItem>
   </ItemGroup>
+  <Honour>
+    <PageNumber>840</PageNumber>
+  </Honour>
   <ItemGroup>
     <MainItem>
       <Key>
@@ -69,7 +71,9 @@
       <Key>Bethell</Key>
       <Title>Sir</Title>
       <Forenames>John Henry</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>840</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -134,7 +138,9 @@
       </Key>
       <Title>Col. Sir</Title>
       <Forenames>Thomas Vansit-</Forenames>
-      <Text>tart, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>839</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -148,7 +154,7 @@
   <ItemGroup>
     <MainItem>
       <Key>B</Key>
-      <Text>.ienton, Francis Garford</Text>
+      <Text>ienton, Francis Garford</Text>
       <PageNumber>840</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -195,7 +201,9 @@
       <Key>Burnett</Key>
       <Title>Col. Sir</Title>
       <Forenames>David</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>839</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -215,7 +223,9 @@
       <Key>Burnham</Key>
       <Title>Col.</Title>
       <Forenames>Harry Lawson Webster</Forenames>
-      <Text>, Lord, C.H</Text>
+      <Text>
+        <Honour>C.H</Honour>
+      </Text>
       <PageNumber>841</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -255,7 +265,9 @@
       <Key>Coke</Key>
       <Title>Col.</Title>
       <Forenames>Jacynth</Forenames>
-      <Text>DEwes FitzEarcald, C.M.G</Text>
+      <Text>
+        <Honour>C.M.G</Honour>
+      </Text>
       <PageNumber>841</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -264,7 +276,9 @@
       <Key>Colman</Key>
       <Title>Sir</Title>
       <Forenames>Jeremiah</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>841</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -272,7 +286,9 @@
     <MainItem>
       <Key>Colmer</Key>
       <Forenames>Joseph Grose</Forenames>
-      <Text>, C.M.G</Text>
+      <Text>
+        <Honour>C.M.G</Honour>
+      </Text>
       <PageNumber>841</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -289,7 +305,9 @@
       <Key>Cooper</Key>
       <Title>Sir</Title>
       <Forenames>Edward Ernest</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>839</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -359,15 +377,16 @@
         <KeyDitto>___</KeyDitto>
       </Key>
       <Forenames>Richard</Forenames>
-      <Text>, C.B.E</Text>
+      <Text>
+        <Honour>C.B.E</Honour>
+      </Text>
       <PageNumber>841</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Rougemont</Forenames>
-      <Text>, Charles Irving</Text>
+      <Key>De Rougemont</Key>
+      <Forenames>Charles Irving</Forenames>
       <PageNumber>841</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -383,7 +402,9 @@
       <Key>Dent</Key>
       <Title>Sir</Title>
       <Forenames>Francis Henry</Forenames>
-      <Text>, Kt., C.V.O</Text>
+      <Text>
+        <Honour>C.V.O</Honour>
+      </Text>
       <PageNumber>841</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -434,7 +455,9 @@
       <Key>Dunn</Key>
       <Title>Col. Sir</Title>
       <Forenames>William Henrv</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>839</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -465,7 +488,9 @@
       <Key>Elveden</Key>
       <Title>Capt.</Title>
       <Forenames>Rupert Edward Cecil Guinness</Forenames>
-      <Text>, Viscount, C.B., C.M.G</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>841</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -474,7 +499,9 @@
       <Key>Evans</Key>
       <Title>Maj. Sir</Title>
       <Forenames>Murland</Forenames>
-      <Text>de Grasse, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>841</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -506,7 +533,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>George F</Forenames>
-      <Text>a u d e 1, K.G.C.I.E., Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>840</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -524,7 +553,9 @@
       <Key>Flannery</Key>
       <Title>Sir</Title>
       <Forenames>James Fortes-</Forenames>
-      <Text>cue, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>841</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -590,7 +621,11 @@
       <Key>Goldney</Key>
       <Title>Sir</Title>
       <Forenames>Gabriel Prior</Forenames>
-      <Text>, Bt., C.B., C.V.O. .„</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>C.V.O.</Honour>
+      </Text>
       <PageNumber>840</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -599,7 +634,9 @@
       <Key>Green</Key>
       <Title>Maj. Sir</Title>
       <Forenames>Francis Haydn</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>841</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -631,7 +668,9 @@
       <Key>Hanbury</Key>
       <Title>Col.</Title>
       <Forenames>Lionel Henry</Forenames>
-      <Text>, C.B</Text>
+      <Text>
+        <Honour>C.B</Honour>
+      </Text>
       <PageNumber>840</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -649,7 +688,9 @@
       <Key>Hanson</Key>
       <Title>Col. Sir</Title>
       <Forenames>Charles Augustin</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>840</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -670,7 +711,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>Gerald Stanhope</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>840</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -737,7 +780,9 @@
       <Key>Holmden</Key>
       <Title>Sir</Title>
       <Forenames>Osborne George</Forenames>
-      <Text>, K.C.B.E</Text>
+      <Text>
+        <Honour>C.B.E</Honour>
+      </Text>
       <PageNumber>811</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -829,7 +874,9 @@
       <Key>Johnston</Key>
       <Title>Col. Sir</Title>
       <Forenames>Charles</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>839</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -868,7 +915,9 @@
       <Key>Kindersley</Key>
       <Title>Sir</Title>
       <Forenames>Robert Moles-</Forenames>
-      <Text>worth, K.G. C.B.E</Text>
+      <Text>
+        <Honour>K.G. C.B.E</Honour>
+      </Text>
       <PageNumber>840</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -893,7 +942,9 @@
       <Key>Knill</Key>
       <Title>Sir</Title>
       <Forenames>John</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>839</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -938,7 +989,9 @@
       <Key>Lipton</Key>
       <Title>Sir</Title>
       <Forenames>Thomas Johnstone</Forenames>
-      <Text>, St., K.C.V.O</Text>
+      <Text>
+        <Honour>K.C.V.O</Honour>
+      </Text>
       <PageNumber>841</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -946,7 +999,10 @@
     <MainItem>
       <Key>Lloyd</Key>
       <Title>Lt.</Title>
-      <Text>-Gen. Sir Francis, K.O.G.V.O., K.C.B., D.S.O</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>841</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1018,7 +1074,9 @@
       <Key>Meyer</Key>
       <Title>Sir</Title>
       <Forenames>Carl</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>841</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1034,8 +1092,7 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Forenames>Harold John</Forenames>
-      <Text>de Courcy</Text>
+      <Forenames>Harold John de Courcy</Forenames>
       <PageNumber>839</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1110,7 +1167,13 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Michael Seymour Spen-</Forenames>
-      <Text>cer, D.S.O., M.C. ... Smyth, Rupert... Soulsby, Sir William Jameson, K.C.B., CLE., U.V.O. ... Sonthwark, Richard Knight, Lord Staples, Sydney Francis Stevens, William Richard ... Stollery, Col. John Sutherland, Sir Thomas, K.G.C.M.G Thomas, Sir William Henry, C.B.E Thompson, William Jamei ... Tiarks, Frank Cyril ' Touche, Sir George Alexander, Bt Treloar, Sir William Purdie, Bt. Tritton, Joseph Herbert ... , Trotter, Henry Alexander ... -.'</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>K.C.B.</Honour>
+        <Honour>Bt</Honour>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>840</PageNumber>
     </MainItem>
   </ItemGroup>

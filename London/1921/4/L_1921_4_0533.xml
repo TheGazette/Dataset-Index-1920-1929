@@ -93,7 +93,9 @@
     <MainItem>
       <Key>Mears</Key>
       <Forenames>C. D.</Forenames>
-      <Text>, M.V.O</Text>
+      <Text>
+        <Honour>M.V.O</Honour>
+      </Text>
       <PageNumber>8499</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -101,7 +103,9 @@
     <MainItem>
       <Key>Minchin</Key>
       <Forenames>C. F.</Forenames>
-      <Text>, D.S.O. ... *</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8499</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -109,7 +113,9 @@
     <MainItem>
       <Key>Money</Key>
       <Forenames>E. F. D.</Forenames>
-      <Text>, D.S.O. (corr. of description)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>9786</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -179,7 +185,9 @@
       <Key>Bald</Key>
       <Title>Capt.</Title>
       <Forenames>E. A.</Forenames>
-      <Text>,. M.C. (whilst comdg. a Bn.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9151</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -207,8 +215,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Carey</Key>
-      <Forenames>T.</Forenames>
-      <Text>de B. (rel. actg. rank on disbandinent of Bn.)</Text>
+      <Forenames>T. de B</Forenames>
+      <Text>. (rel. actg. rank on disbandinent of Bn.)</Text>
       <PageNumber>10026</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -217,7 +225,9 @@
       <Key>Davson</Key>
       <Title>Maj.</Title>
       <Forenames>H. J. H.</Forenames>
-      <Text>, D.S.O. (rel. actg. rank on ceasing to comd. a Bn.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8293</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -225,7 +235,10 @@
     <MainItem>
       <Key>Fleming</Key>
       <Forenames>W. E.</Forenames>
-      <Text>, O.B.E., M.C. (whilst in comd. of a Bn.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9152</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -241,7 +254,9 @@
     <MainItem>
       <Key>Gunn</Key>
       <Forenames>A. D.</Forenames>
-      <Text>, D.S.O. (irel. actg. rank on ceasing to comd. a Bn.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>10499</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -249,7 +264,9 @@
     <MainItem>
       <Key>Knollys</Key>
       <Forenames>D. E.</Forenames>
-      <Text>, D.S.O. (rel. actg. rank on ceasing to comd. Bn.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>9469</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -270,7 +287,9 @@
     <MainItem>
       <Key>Maude</Key>
       <Forenames>E. A.</Forenames>
-      <Text>, D.S.O. (whilst oomdg. a Bn.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7766</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -326,14 +345,17 @@
     <MainItem>
       <Key>Bennett</Key>
       <Forenames>A. D.</Forenames>
-      <Text>, M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>9151</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Blandy</Key>
-      <Text>. R , M.C</Text>
+      <Forenames>R</Forenames>
+      <Text>, M.C</Text>
       <PageNumber>10499</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -364,15 +386,19 @@
     <MainItem>
       <Key>Crossfield</Key>
       <Forenames>E. A. K.</Forenames>
-      <Text>, M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>9785</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Daunt</Key>
-      <Forenames>C. O</Forenames>
-      <Text>'B., M.C</Text>
+      <Forenames>C. O'B</Forenames>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>8104</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -380,7 +406,9 @@
     <MainItem>
       <Key>Dubefly</Key>
       <Forenames>M. R. W.</Forenames>
-      <Text>, O.B.E</Text>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>9468</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -418,7 +446,9 @@
     <MainItem>
       <Key>Fowler</Key>
       <Forenames>E. K.</Forenames>
-      <Text>. M.C..... :</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9059</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -426,7 +456,9 @@
     <MainItem>
       <Key>Gordon</Key>
       <Forenames>K. A. G. Evans</Forenames>
-      <Text>, see Evans-Gordon, K. A. G. Hailes, W. L., M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>9059</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -471,7 +503,9 @@
     <MainItem>
       <Key>McSwiney</Key>
       <Forenames>H. F. C</Forenames>
-      <Text>, D.S.O., M.C</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>9151</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -493,7 +527,9 @@
     <MainItem>
       <Key>Ommanney</Key>
       <Forenames>W. M.</Forenames>
-      <Text>, O.B.E</Text>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>9059</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -561,8 +597,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Waller</Key>
-      <Forenames>E.</Forenames>
-      <Text>de W., M.C</Text>
+      <Forenames>E. de W</Forenames>
+      <Text>., M.C</Text>
       <PageNumber>9059</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -570,7 +606,9 @@
     <MainItem>
       <Key>Watson</Key>
       <Forenames>T. N.</Forenames>
-      <Text>, M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>10276</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -578,7 +616,9 @@
     <MainItem>
       <Key>Wells</Key>
       <Forenames>T. R.</Forenames>
-      <Text>, M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>9151</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -613,7 +653,9 @@
     <MainItem>
       <Key>Berkeley</Key>
       <Forenames>R. E. G.</Forenames>
-      <Text>, O.B.E. (on acc. of ill-health)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>10277</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -642,7 +684,10 @@
     <MainItem>
       <Key>Daniell</Key>
       <Forenames>J. A. S.</Forenames>
-      <Text>, D.S.O., O.B.E</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>8294</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -665,7 +710,9 @@
     <MainItem>
       <Key>Medlicott</Key>
       <Forenames>H. E.</Forenames>
-      <Text>, D.S.O. (and granted rank of Lt.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>10027</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -702,7 +749,9 @@
     <MainItem>
       <Key>Sheringham</Key>
       <Forenames>A. T.</Forenames>
-      <Text>, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>9471</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -748,7 +797,9 @@
     <MainItem>
       <Key>Allanson</Key>
       <Forenames>G. H.</Forenames>
-      <Text>, M.C. (while 2nd in commd. of Bn.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10026</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -756,7 +807,9 @@
     <MainItem>
       <Key>Boggs</Key>
       <Forenames>A. B.</Forenames>
-      <Text>, O.B.E. (whiht.2nd in comd. of a Bn.) ..:</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>9152</PageNumber>
     </MainItem>
     <SubItem>
@@ -830,8 +883,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, Capt, E. C (whilst 2nd in comd.)</Text>
+      <Key>O'Brien</Key>
+      <Forenames>Capt</Forenames>
+      <Text>, E. C (whilst 2nd in comd.)</Text>
       <PageNumber>7766</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1130,7 +1184,9 @@
     <MainItem>
       <Key>Chivers</Key>
       <Forenames>N. M.</Forenames>
-      <Text>, M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>9059</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1246,7 +1302,9 @@
     <MainItem>
       <Key>Finlay</Key>
       <Forenames>J.</Forenames>
-      <Text>, M.B.E</Text>
+      <Text>
+        <Honour>M.B.E</Honour>
+      </Text>
       <PageNumber>10276</PageNumber>
     </MainItem>
   </ItemGroup>

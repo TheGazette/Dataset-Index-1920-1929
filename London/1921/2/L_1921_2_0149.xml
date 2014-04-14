@@ -97,7 +97,9 @@
       </Key>
       <Title>Lt.-Col.</Title>
       <Forenames>W. M.</Forenames>
-      <Text>, D.S.O. (h.p. list, retires on ret. pay)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5219</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -128,7 +130,9 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>A. L.</Forenames>
-      <Text>, M.B.E. (rel. common, on completion of service, and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>5212</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -161,7 +165,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>E. L.</Forenames>
-      <Text>, D.S.O. (resigns commn., and granted rank of Lt.-Col., with permission to wear prescribed uniform)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5208</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -172,7 +178,9 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>G.</Forenames>
-      <Text>, M.C. (rel. commn. on acc. of illhealth caused by wounds, and retains rank of Lt.), corr. of surname and date (Sub. Not.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2636</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -267,7 +275,10 @@
       </Key>
       <Title>Lt.-Col. and Bt. Col.</Title>
       <Forenames>N. A.</Forenames>
-      <Text>, C.M.G., D.S.O. (Col.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3259</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -297,7 +308,10 @@
     <MainItem>
       <Key>Thorburn</Key>
       <Forenames>M.</Forenames>
-      <Text>ij. W., O.B.E., T.D. (rel. appt. as Education Offr.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>4265</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -306,7 +320,9 @@
       <Key>Thoresby-Jones</Key>
       <Title>temp. Lt.</Title>
       <Forenames>M.</Forenames>
-      <Text>(rel. oommn. cn completion of service and retains rank of Lt.) Thorn, Capt. A. C. (ceases to be empld. with M.G.C., Inf</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>3510</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -408,7 +424,9 @@
       </Key>
       <Title>temp. Capt.</Title>
       <Forenames>Francis R.</Forenames>
-      <Text>, M.C., M.B. (rel. commn. on appt. to Ind. Med. Serv.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4170</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -581,7 +599,10 @@
       <Key>Tillard</Key>
       <Title>Col.</Title>
       <Forenames>A. B.</Forenames>
-      <Text>, C.B.E., D.S.O. (date of prornn. to Col.)</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>2969</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -651,7 +672,9 @@
       <Key>Timson</Key>
       <Title>temp. Lt.</Title>
       <Forenames>S. D.</Forenames>
-      <Text>, M.C. (rel. commn. on completion of service and granted rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3064</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -669,7 +692,10 @@
       <Key>Titchener</Key>
       <Title>Lt.</Title>
       <Forenames>R. R. S.</Forenames>
-      <Text>, M.C. (ceases to be empld. with M.G.C., Inf.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>3519</PageNumber>
     </MainItem>
     <SubItem>
@@ -701,7 +727,9 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>M. N.</Forenames>
-      <Text>, O.B.E. (rel. commn. on completion of service and granted rank of Capt.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4990</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -712,14 +740,21 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>W.</Forenames>
-      <Text>, M.C. (restd. to estabt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5206</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Todd</Key>
-      <Text>Maj. A. G., C.B.E., D.S.O. (actg. Lt.-Col. whilst holding appt. of A.D.V.S.)</Text>
+      <Title>Maj.</Title>
+      <Forenames>A. G.</Forenames>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3371</PageNumber>
     </MainItem>
   </ItemGroup>

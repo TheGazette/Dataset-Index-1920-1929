@@ -4,7 +4,9 @@
     <MainItem>
       <Key>Linlithgow</Key>
       <Forenames>Victor Alexander John</Forenames>
-      <Text>, Marquess of, O.B.E., Chairman of the Royal Commission on Agriculture in India</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>2858</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -12,7 +14,10 @@
     <MainItem>
       <Key>Lloyd</Key>
       <Forenames>His L</Forenames>
-      <Text>^ceileuev The l.crd, P.C., G.C.S.I.' G.C.I.E., D.S.O., Knight of Grace,. Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>P.C.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4037</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -21,8 +26,8 @@
       <Key>
         <KeyDitto>— ___ ___</KeyDitto>
       </Key>
-      <Forenames>The</Forenames>
-      <Text>Lady, Lady of Grace, Order of St. John of Jerusalem</Text>
+      <Title>The Lady, Lady</Title>
+      <Text>of Grace, Order of St. John of Jerusalem</Text>
       <PageNumber>4038</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -30,7 +35,10 @@
     <MainItem>
       <Key>Lockyer</Key>
       <Forenames>Nicholas Colston</Forenames>
-      <Text>, C.B.E., I.S.O., Knight</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>I.S.O</Honour>
+      </Text>
       <PageNumber>2429</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -74,7 +82,9 @@
       <Key>Mackenzie</Key>
       <Title>The Rt. Hon. Lord</Title>
       <Forenames>Muir</Forenames>
-      <Text>, G.C.B., Member of Committee of Privy Council for Rating and Valuation Act</Text>
+      <Text>
+        <Honour>G.C.B.</Honour>
+      </Text>
       <PageNumber>4212</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -83,7 +93,9 @@
       <Key>McKevv</Key>
       <Title>Ven.</Title>
       <Forenames>Archdeacon Robert</Forenames>
-      <Text>, C.B.E., D.D., Honary Chaplain to H.M. King</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>3455</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -101,7 +113,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Lachlan Frederick Cop-</Forenames>
-      <Text>land, O.B.E., authority under Emergency Regulations</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3180</PageNumber>
       <PageNumber>3181</PageNumber>
     </MainItem>
@@ -127,7 +141,9 @@
       <Key>Macrae</Key>
       <Title>Major</Title>
       <Forenames>Colin William</Forenames>
-      <Text>, C.B.E., Knight of Justice, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>4037</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -169,7 +185,9 @@
       <Key>Mather</Key>
       <Title>Major</Title>
       <Forenames>James Smith</Forenames>
-      <Text>, M.B., R.A.M.C. (T.), Esquire, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4038</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -201,7 +219,10 @@
       <Key>Middleton</Key>
       <Title>Sir</Title>
       <Forenames>Thomas</Forenames>
-      <Text>, K.C.B.E., C.B., Member of the Royal Commission on Agriculture in India</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>2858</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -236,7 +257,11 @@
       <Key>Montgomery</Key>
       <Title>Maj. Gen. Sir</Title>
       <Forenames>Robert Arundel Kerr</Forenames>
-      <Text>, K.C.M.G., C.B., D.S.O., authority under Emergency Regulations</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3180</PageNumber>
       <PageNumber>3180</PageNumber>
     </MainItem>
@@ -263,7 +288,9 @@
     <MainItem>
       <Key>Mosley</Key>
       <Forenames>Alexander</Forenames>
-      <Text>, C.M.G., Knight</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>2429</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -271,7 +298,9 @@
     <MainItem>
       <Key>Moss</Key>
       <Forenames>Geoge Sinclair</Forenames>
-      <Text>, M.B.E., H.M. Consul in China ...-</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3174</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -305,7 +334,10 @@
     <MainItem>
       <Key>Nieholls</Key>
       <Forenames>Henry Alfred Alford</Forenames>
-      <Text>, C.M.G., M.D., Knight</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>2429</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -335,8 +367,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Reilly, William Edmund, H.M. Envoy Extraordinary and Minister Plenipotenary to the Republic of Albania</Text>
+      <Key>O'Reilly</Key>
+      <Forenames>William Edmund</Forenames>
+      <Text>, H.M. Envoy Extraordinary and Minister Plenipotenary to the Republic of Albania</Text>
       <PageNumber>3565</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -393,7 +426,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Pirie-Gordon</Key>
-      <Text>of Buthlaw, Edward, M.B.E., Knight of Grace, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>4037</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -410,7 +445,9 @@
       <Key>Pratt</Key>
       <Title>Colonel</Title>
       <Forenames>James John</Forenames>
-      <Text>, F.R.C.S., Esquire, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>4038</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -437,7 +474,9 @@
     <MainItem>
       <Key>Pritchett</Key>
       <Forenames>Theodore</Forenames>
-      <Text>, O.B.E., authority under Emergency Regulations</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3180</PageNumber>
       <PageNumber>3181</PageNumber>
     </MainItem>
@@ -454,8 +493,9 @@
     <MainItem>
       <Key>Rainbow</Key>
       <Forenames>William Thomas</Forenames>
-      <Text>, O.B.E., authority under Emergency Regulations</Text>
-      <PageNumber>3180</PageNumber>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3180</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -463,119 +503,17 @@
     <MainItem>
       <Key>Rajamantra</Key>
       <Forenames>Dhurnia Albion Rajkumar Banerji</Forenames>
-      <Text>, C.S.I , CLE., Knight !</Text>
-      <PageNumber>2429</PageNumber>
-    </MainItem>
-    <SubItem>
-      <Text>japuram Pallegondai Puttanna Chetty, Diwan Bahadur, C.I.E., Knight</Text>
-      <PageNumber>2429</PageNumber>
-    </SubItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Rapp</Key>
-      <Forenames>Thomas Cecil</Forenames>
-      <Text>. H.M. Vice-Consul at Saffi</Text>
-      <PageNumber>2614</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Raws</Key>
-      <Forenames>Lieutenant</Forenames>
-      <Text>Colonel William Lennon, C.B.E., Knight</Text>
-      <PageNumber>2429</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Reading</Key>
-      <Text>the Rt. Hon Rufus Daniel, Earl of, G.C.B., G.C.S.I., G.C.I.E., G.C.V.O., Marquess . of Reading</Text>
-      <PageNumber>3218</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Reed</Key>
-      <Forenames>Francis Ernest</Forenames>
-      <Text>, O.B.E., Nominated Member of Legislative Council for Jamaica</Text>
-      <PageNumber>2551</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Rees</Key>
-      <Forenames>Thomas Ifor</Forenames>
-      <Text>, H.M. Consul at Bilbao</Text>
-      <PageNumber>3966</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Reid</Key>
-      <Forenames>Alexander Moir</Forenames>
-      <Text>, Unofficial Member of Legislative Council, St. Christopher and Nevis</Text>
-      <PageNumber>2469</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Revelstoke</Key>
-      <Title>Rt. Hon.</Title>
-      <Forenames>John</Forenames>
-      <Text>, Baron, G.C.V.O., Lieutenant of the County of Middlesex</Text>
-      <PageNumber>3019</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Robb</Key>
-      <Title>Squad.</Title>
-      <Forenames>Leader James Milne</Forenames>
-      <Text>, D.F.C., Distinguished Service Order</Text>
-      <PageNumber>3458</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Roberts</Key>
-      <Forenames>Evan</Forenames>
-      <Text>, Junr., M.B.E., Knight of Grace, Order of St. John of Jerusalem</Text>
-      <PageNumber>4037</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Robinson</Key>
-      <Forenames>Henry George</Forenames>
-      <Text>, Nominated Member of the Council of Government of the Colony of Mauritius</Text>
-      <PageNumber>3822</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Rolston</Key>
-      <Forenames>Cecil Michell</Forenames>
-      <Text>, MID., Official M °f Executive and Legislative Councils of Presidency of Dominica</Text>
-      <PageNumber>3454</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Royds</Key>
-      <Forenames>William Massy</Forenames>
-      <Text>, H.M. Consul-General at, Kobe</Text>
-      <PageNumber>2614</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Rushton</Key>
-      <Title>Sir</Title>
-      <Forenames>Arnold</Forenames>
-      <Text>, authority under Emergency Regulations</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>G.C.B.</Honour>
+        <Honour>G.C.V.O.</Honour>
+        <Honour>O.B.E.</Honour>
+        <Honour>G.C.V.O.</Honour>
+        <Honour>D.F.C.</Honour>
+        <Honour>Distinguished Service Order</Honour>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3180</PageNumber>
-      <PageNumber>3181</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -583,89 +521,21 @@
       <Key>Rutledge</Key>
       <Title>Mr.</Title>
       <Forenames>Justice John Guy</Forenames>
-      <Text>, K.C., Knight</Text>
-      <PageNumber>2430</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Sadler</Key>
-      <Forenames>Charles</Forenames>
-      <Text>, Nominated Official Member of Legislative Council of Trinidad and Tobago</Text>
-      <PageNumber>2468</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Saiyid</Key>
-      <Forenames>Muhammad Abdul Raoof</Forenames>
-      <Text>, Khan Bahadur, Mr. Justice, Knight</Text>
-      <PageNumber>2429</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Sandbach</Key>
-      <Forenames>John Brown</Forenames>
-      <Text>, K.C., Magistrate of Police Courts</Text>
-      <PageNumber>2463</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Sargon</Key>
-      <Title>Capt.</Title>
-      <Forenames>Arthur Irons</Forenames>
-      <Text>, D.S.O., Officer, Order of the British Empire</Text>
-      <PageNumber>3453</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Scholes</Key>
-      <Forenames>Joseph</Forenames>
-      <Text>, O.B.E., authority under Emergency Regulations</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3180</PageNumber>
-      <PageNumber>3181</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Schwartze</Key>
       <Forenames>Helmuth Eric</Forenames>
-      <Text>, Unofficial Member of Executive Council, Kenya Colony</Text>
-      <PageNumber>2551</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Seed</Key>
-      <Forenames>Harry Hadlow</Forenames>
-      <Text>, Esquire, Order of St. John of Jerusalem</Text>
-      <PageNumber>4038</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Semper</Key>
-      <Forenames>Dudley Henry</Forenames>
-      <Text>, Official Member of Legislative Council, St. Christopher and Nevis</Text>
-      <PageNumber>2469</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Seton</Key>
-      <Text>Christopher, Captain Alfred Charles, J.P., Knight of Justice, Order of St. John of Jerusalem</Text>
-      <PageNumber>4037</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Shain</Key>
-      <Forenames>Giwergis</Forenames>
-      <Text>, Member, Order of the British Empire</Text>
-      <PageNumber>3453</PageNumber>
+      <Text>
+        <Honour>I.S.O</Honour>
+      </Text>
+      <PageNumber>3180</PageNumber>
     </MainItem>
   </ItemGroup>
 </Index>

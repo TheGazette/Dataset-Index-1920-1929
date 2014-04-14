@@ -361,7 +361,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Boot</Key>
-      <Text>M. N</Text>
+      <Forenames>M. N .</Forenames>
       <PageNumber>1193</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -874,8 +874,7 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Forenames>W. L.</Forenames>
-      <Text>de M</Text>
+      <Forenames>W. L. de M</Forenames>
       <PageNumber>1576</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1060,7 +1059,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Chanrier</Key>
-      <Forenames>H. K. De R.</Forenames>
+      <Forenames>H. K. De R</Forenames>
       <PageNumber>617</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1099,7 +1098,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cheeseman</Key>
-      <Text>W. A</Text>
+      <Forenames>W. A .</Forenames>
       <PageNumber>1043</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1178,7 +1177,9 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>E.</Forenames>
-      <Text>' M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>152</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1338,8 +1339,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Collins</Key>
-      <Forenames>A. F. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>A. F. St. C</Forenames>
       <PageNumber>320</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1567,15 +1567,14 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>P. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>P. St. J</Forenames>
       <PageNumber>866</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Coxall</Key>
-      <Text>G</Text>
+      <Forenames>G.</Forenames>
       <PageNumber>1346</PageNumber>
     </MainItem>
   </ItemGroup>

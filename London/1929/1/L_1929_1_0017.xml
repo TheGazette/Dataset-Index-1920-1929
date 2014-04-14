@@ -44,7 +44,9 @@
     <MainItem>
       <Key>Davidson</Key>
       <Forenames>John Wallace Ord</Forenames>
-      <Text>, O.B.E., H.M. Vice-Consul, . in China</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>686</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -95,21 +97,25 @@
   <ItemGroup>
     <MainItem>
       <Key>Deer</Key>
-      <Text>Reginald John Turner, Member. Order of the British Empire</Text>
+      <Forenames>Reginald John Turner</Forenames>
+      <Text>, Member. Order of the British Empire</Text>
       <PageNumber>1142</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Delano</Key>
-      <Text>Osborne, Colonel Osborne Herbert, C.M.G., Companion, Order of the . Bath</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>1437</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Delins</Key>
-      <Text>Frederick, Member, . Order of the Companions of Honour ... ... _</Text>
+      <Forenames>Frederick</Forenames>
+      <Text>, Member, . Order of the Companions of Honour ... ... _</Text>
       <PageNumber>1444</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -124,7 +130,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dennev</Key>
-      <Text>Edward John. Member, Order of the Britisih Empire</Text>
+      <Forenames>Edward John</Forenames>
+      <Text>. Member, Order of the Britisih Empire</Text>
       <PageNumber>1442</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -132,7 +139,9 @@
     <MainItem>
       <Key>Desborough</Key>
       <Forenames>Walter</Forenames>
-      <Text>, M.B.E.. Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>1441</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -166,7 +175,12 @@
   <ItemGroup>
     <MainItem>
       <Key>Dick</Key>
-      <Text>Colonel James Adam, C.M.G., M.D.,F.R.C.S.Ed., Commander, Order of St. John of Jerusalem</Text>
+      <Title>Colonel</Title>
+      <Forenames>James Adam</Forenames>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>49</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -175,7 +189,10 @@
       <Key>Dobbs</Key>
       <Title>Sir</Title>
       <Forenames>Henrv Robert Con-</Forenames>
-      <Text>wav, K.C.S.I., K.C.M.G., K.C.I.E., Knight Grand Cross, Order of the British Empire</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>K.C.I.E.</Honour>
+      </Text>
       <PageNumber>1443</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -190,15 +207,20 @@
   <ItemGroup>
     <MainItem>
       <Key>Donnelly</Key>
-      <Text>Thomas, Officer, Order '' of-St. John of Jerusalem</Text>
+      <Forenames>Thomas</Forenames>
+      <Text>, Officer, Order '' of-St. John of Jerusalem</Text>
       <PageNumber>49</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Douglas</Key>
-      <Forenames>Rear-</Forenames>
-      <Text>Admiral Henry Percy, C.M.G.. Companion, Order of the Bath</Text>
+      <Title>Rear-Admiral</Title>
+      <Forenames>Henry Percy</Forenames>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>1437</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -222,7 +244,9 @@
     <MainItem>
       <Key>Duff</Key>
       <Forenames>Vice-</Forenames>
-      <Text>Admiral Arthur ' Allan Morison, C.B., Knight Commander, Order of the Bath</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>1437</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -238,8 +262,12 @@
   <ItemGroup>
     <MainItem>
       <Key>Dutton</Key>
-      <Forenames>Rear-</Forenames>
-      <Text>Admiral the Hon. Arthur Braridreth Scott, C.M.G., Companion, Order of the Bath</Text>
+      <Title>Rear-Admiral the Hon.</Title>
+      <Forenames>Arthur Braridreth Scott</Forenames>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>1437</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -271,7 +299,9 @@
     <MainItem>
       <Key>Easten</Key>
       <Forenames>Stephen</Forenames>
-      <Text>, O.B.E., J.P., Knight</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>1436</PageNumber>
       <PageNumber>2160</PageNumber>
     </MainItem>
@@ -280,7 +310,9 @@
     <MainItem>
       <Key>Eckstein</Key>
       <Forenames>Friedrich Gustav Jonathan</Forenames>
-      <Text>, Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>1435</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -296,7 +328,10 @@
     <MainItem>
       <Key>Eddison</Key>
       <Forenames>Eric Rucker</Forenames>
-      <Text>, C.M.G., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>1438</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -312,7 +347,9 @@
     <MainItem>
       <Key>Edgcumbe</Key>
       <Forenames>John Aubrey Pearce</Forenames>
-      <Text>, C.B.E., Companion, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>1439</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -414,7 +451,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fielding</Key>
-      <Text>Edward, Serving Brother, Order of St. John of Jerusalem</Text>
+      <Forenames>Edward</Forenames>
+      <Text>, Serving Brother, Order of St. John of Jerusalem</Text>
       <PageNumber>49</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -445,7 +483,11 @@
     <MainItem>
       <Key>Fisher</Key>
       <Title>Colonel (temp. Brig.)</Title>
-      <Text>, Bertie Drew,' C.M.G., D. S.O.. Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D. S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>1437</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -463,7 +505,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Title>Lieut.</Title>
-      <Text>-Colonel John Kenneth Sorot, O.B.E.. Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>1443</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -471,7 +515,9 @@
     <MainItem>
       <Key>Fletcher</Key>
       <Forenames>Arthur George Miir-</Forenames>
-      <Text>chison, C.M.G. C.B.E. Knight</Text>
+      <Text>
+        <Honour>C.M.G. C.B.E.</Honour>
+      </Text>
       <PageNumber>1437</PageNumber>
       <PageNumber>2160</PageNumber>
     </MainItem>
@@ -486,6 +532,14 @@
       <PageNumber>1441</PageNumber>
     </MainItem>
   </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Fletcher</Key>
+      <Forenames>Carteret Ernest</Forenames>
+      <Text>, Knight</Text>
+      <PageNumber>1436</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <KeyDitto>___ ___ ___</KeyDitto>
   <KeyDitto>___ ___ ___</KeyDitto>
   <ItemGroup>
@@ -494,23 +548,24 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Mabel</Forenames>
-      <Text>McAfee, Mrs., Officer, Order of St. John of Jerusalem ... Gage, .Berkeley Everard Foley, Third Secretary in H.M. Diplomatic Service ... Gamblin, George Henry, Knight Game, Air Vice-Marshal Sir Philip Woolcott, K.C.B., D. S.O., Knight Grand Cross, Order of the British Empire Ganzoni, Capt. Sir (Francis) John Ohilds, M.A., M.P., Baronet Gaskell, Surgeon Vice-Admiral Arthur, C.B., O.B.E., F.R.C.S. (Eng.), L.R.C.P., D.P.H., Honorary Surgeon . to H.M. the King ... Gathorne-Hardy, Lient.-General The Hon. John Francis, C. B., C.M.G., D.S.O., Knight Commander, Order of the Bath Geoghehan, Colonel Norman Meredith, D.S.O., Companion, Order of the Bath</Text>
-      <PageNumber>1437</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Giles</Key>
-      <Forenames>Lancelot</Forenames>
-      <Text>, C.M.G., H.M. Consul-General in China ... Glasscock, Annie, Mrs., Officer, Order of St. John of Jerusalem ... Goodwin, Charles Arthur, M.B.E,, H.M. ConsulGeneral at Rio de Janeiro Gordon, Miss Elizabeth Adam, Royal Red Cross, second class Gordon, Lieut.-Colonel Granville Cecil Douglas, C.V.O., D. S.O., Officer, Order of St. John of Jerusalem ... Green, Robert Member, Order of the British. Empire ... Greg, Robert Hyde, Knight Commander, Order of St. Michael and St. George</Text>
-      <PageNumber>1439</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Greiffenhagen</Key>
-      <Forenames>Maurice Rodney</Forenames>
-      <Text>, Third Secretary in H.M. Diplomatic Service ... Grenfell, Sir Wilfred Thomason, K.C.M.G., M.D., Officer, Order of St. John of Jerusalem Grose, Francis Howard, . M.I.C.E., A.M.I.M.E., Officer, Order of the British Empire — —</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>D. S.O.</Honour>
+        <Honour>M.P.</Honour>
+        <Honour>Baronet</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>O.B.E.</Honour>
+        <Honour>F.R.C.S.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>C.V.O.</Honour>
+        <Honour>D. S.O.</Honour>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>2160</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -4,7 +4,9 @@
     <MainItem>
       <Key>Adam</Key>
       <Forenames>James</Forenames>
-      <Text>, C.B.E., King's Counsel ... -</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>3304</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -51,7 +53,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Edward William</Forenames>
-      <Text>, M.D., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3775</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -111,7 +115,9 @@
       </Key>
       <Title>Miss</Title>
       <Forenames>Maud Florence</Forenames>
-      <Text>, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3775</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -155,7 +161,9 @@
         <KeyDitto>___</KeyDitto>
       </Key>
       <Forenames>Patrick Dalreagle Agnew</Forenames>
-      <Text>, C.B.E., Knight Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>3758</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -218,7 +226,9 @@
   <ItemGroup>
     <MainItem>
       <Key>A</Key>
-      <Text>jab Khan, Hon. Capt, I.O.M., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.M.</Honour>
+      </Text>
       <PageNumber>3997</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -278,14 +288,18 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Samuel Kendrick</Forenames>
-      <Text>, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3775</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Aid</Key>
-      <Text>worth, Capt. Thomas Preston, D.S.O., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1801</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -326,7 +340,9 @@
       </Key>
       <Title>Miss</Title>
       <Forenames>Eleanor Jane</Forenames>
-      <Text>, A.R.R.C., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>A.R.R.C.</Honour>
+      </Text>
       <PageNumber>3812</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -336,7 +352,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Title>Kn.</Title>
-      <Text>gr.-Cdr Frederick. Con L panion, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>2861</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -387,7 +405,12 @@
       </Key>
       <Title>Brig.-Gen.</Title>
       <Forenames>William</Forenames>
-      <Text>, C.B., C.M.G., D.S.O., T.D., Knight Commander, Order of the. British Empire</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>3758</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -406,7 +429,9 @@
       </Key>
       <Title>Miss</Title>
       <Forenames>Jessie Whyte</Forenames>
-      <Text>, Officer, Order of the British Empire Allaidyce, Sir William Lamond, K.C.M.G., Governor of Tasmania and its Dependencies</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+      </Text>
       <PageNumber>3304</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -414,7 +439,9 @@
     <MainItem>
       <Key>Allcock</Key>
       <Forenames>William Barnes</Forenames>
-      <Text>* M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3775</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -432,7 +459,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Title>Maj. and Bt. Lt.</Title>
-      <Text>-Coi. Atwell Hayes-, O.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>409</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -556,7 +585,9 @@
         <KeyDitto>—___</KeyDitto>
       </Key>
       <Forenames>Walter Mnrnrt</Forenames>
-      <Text>.hur. O.B.E.. Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3761</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -570,7 +601,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Alliboue</Key>
-      <Text>. Abraham Cory. Officer, Order of the British Empire</Text>
+      <Forenames>Abraham Cory</Forenames>
+      <Text>. Officer, Order of the British Empire</Text>
       <PageNumber>3775</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -611,7 +643,9 @@
         <KeyDitto>___</KeyDitto>
       </Key>
       <Forenames>Richard John</Forenames>
-      <Text>. O.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3761</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -626,7 +660,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Alpin</Key>
-      <Text>. Lt.-Cul. William George Patrick. M.D., M.R.C.S., L.R.C.P.. Officer, Order of the British Empire ... ,</Text>
+      <Title>Lt.</Title>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>1237</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -637,7 +674,9 @@
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Alston</Forenames>
-      <Text>, Beiiliby Francis, C.B., H.M. Envoy Extraordinary and Minister Plenipotentiary to the Republic of China</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>2455</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -648,7 +687,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>Charles Henry</Forenames>
-      <Text>, T.D., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>3312</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -656,7 +697,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ambler</Key>
-      <Text>. Joseph Edward, Member, Order of the British Empire,</Text>
+      <Forenames>Joseph Edward</Forenames>
+      <Text>, Member, Order of the British Empire,</Text>
       <PageNumber>3812</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -805,7 +847,10 @@
       </Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Peter</Forenames>
-      <Text>, D.S.O.. Bar ifo D.S.O</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>1229</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -850,7 +895,9 @@
     <MainItem>
       <Key>Andrew</Key>
       <Forenames>Bennett</Forenames>
-      <Text>, Harvey, M.D., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3813</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -929,7 +976,9 @@
     <MainItem>
       <Key>Angler</Key>
       <Forenames>Frederick Leigh</Forenames>
-      <Text>, M.R.C..S., L.R.C.P., Officer, Order of the British Empire ... ... °' Anglesea-Sondels, itamp. Lt. iCecJ Arthur. M.C., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3997</PageNumber>
     </MainItem>
   </ItemGroup>

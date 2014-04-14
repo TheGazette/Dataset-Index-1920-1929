@@ -62,7 +62,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Coulcher</Key>
-      <Text>.Miss Mary Caroline.O. B. E., Commander,Order of the British Empire</Text>
+      <Title>Miss</Title>
+      <Forenames>Mary Caroline</Forenames>
+      <Text>.O. B. E., Commander,Order of the British Empire</Text>
       <PageNumber>3763</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -99,7 +101,9 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Josiah</Forenames>
-      <Text>, M.R.C.S., L.R.C.P., J.P., Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
       <PageNumber>3431</PageNumber>
     </MainItem>
@@ -141,7 +145,9 @@
       <Key>Coutts</Key>
       <Title>Maj.</Title>
       <Forenames>Frederick</Forenames>
-      <Text>, T.D., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>3824</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -166,7 +172,9 @@
     <MainItem>
       <Key>Cowan</Key>
       <Forenames>T.</Forenames>
-      <Text>/Lt. David John, M.C., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1225</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -177,7 +185,9 @@
       </Key>
       <Title>Qrmr. and Maj.</Title>
       <Forenames>Herbert Glad-</Forenames>
-      <Text>stone, D.C.M., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>1218</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -187,7 +197,9 @@
         <KeyDitto>___</KeyDitto>
       </Key>
       <Forenames>Coward</Forenames>
-      <Text>, Randulph Lewis, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3781</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -273,7 +285,9 @@
       </Key>
       <Title>Capt. (temp. Lt.-Col.)</Title>
       <Forenames>New-</Forenames>
-      <Text>man Lombard, D.S.O., Officer, Order of the British Empire (corr. of name)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3998</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -291,7 +305,9 @@
     <MainItem>
       <Key>Cran</Key>
       <Title>George.</Title>
-      <Text>M.D., F.D., J.P., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3824</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -315,7 +331,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Craslle</Key>
-      <Text>. Miss Mary, Member, Order of the British Empire</Text>
+      <Title>Miss</Title>
+      <Forenames>Mary</Forenames>
+      <Text>, Member, Order of the British Empire</Text>
       <PageNumber>3824</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -447,7 +465,9 @@
     <MainItem>
       <Key>Critehley</Key>
       <Forenames>Herbert Lawson</Forenames>
-      <Text>, M.B.E.. Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3782</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="020" pageID="https://www.thegazette.co.uk/id/London/index/year/1922/volume/2/page/020" pagePDF="https://www.thegazette.co.uk/London/index/year/1922/volume/2/page/020" pageRDF="https://www.thegazette.co.uk/London/index/year/1922/volume/2/page/020?view=linked-data" type="index" volume="2" year="1922">
   <SubItem>
-    <Text>Matheson, Maj.-Gen. T., C.B., C.M.G</Text>
+    <Text>
+      <Honour>C.B.</Honour>
+    </Text>
     <PageNumber>3309</PageNumber>
   </SubItem>
   <SubItem>
@@ -129,7 +131,9 @@
       <Key>Abbott</Key>
       <Title>Supt.</Title>
       <Forenames>Frederick William</Forenames>
-      <Text>, Member, 5th CI., Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4324</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -154,7 +158,9 @@
     <MainItem>
       <Key>Adam</Key>
       <Forenames>James</Forenames>
-      <Text>, O.B.E., K.C., | knighted</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>2917</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -194,7 +200,9 @@
     <MainItem>
       <Key>Allen</Key>
       <Forenames>Basil Copleston</Forenames>
-      <Text>, Companion, Star of India</Text>
+      <Text>
+        <Honour>Companion, Star of India</Honour>
+      </Text>
       <PageNumber>4322</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -203,7 +211,9 @@
       <Key>Amery</Key>
       <Title>Lt.Ccl.</Title>
       <Forenames>Leopold Charles Maurice Stennett</Forenames>
-      <Text>, M.P., sworn of H.M. Privy Council</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4318</PageNumber>
       <PageNumber>4621</PageNumber>
     </MainItem>
@@ -213,7 +223,9 @@
       <Key>Anderson</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Charles Llewel-</Forenames>
-      <Text>lyn, O.B.E., knighted</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4320</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -223,7 +235,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Hugh Kerr</Forenames>
-      <Text>, M.A., M.D., F.R.S., knighted</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>4318</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -234,7 +248,9 @@
       </Key>
       <Title>Maj.-Gen.</Title>
       <Forenames>Warren Hastings</Forenames>
-      <Text>, C.B., Knight Commander, Order of the Bath</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>4321</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -242,7 +258,9 @@
     <MainItem>
       <Key>Armstrong</Key>
       <Forenames>Capt John Dunamace Heaton</Forenames>
-      <Text>(see Heaton-Armstrong, Capt. John Dunamace). Aske, Sir Robt. William, Kt., Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>2916</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -250,7 +268,11 @@
     <MainItem>
       <Key>Asser</Key>
       <Title>Lt.</Title>
-      <Text>-Gen. Sir Joseph John, K.C.M.G., K.C.V.O., C.B., Governor and Commander-inChief of the Bermudas or Somers Islands</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>K.C.V.O.</Honour>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>4059</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -266,15 +288,24 @@
     <MainItem>
       <Key>Bahawalpur</Key>
       <Title>Lt. H.H.</Title>
-      <Text>the Nawab of, Knight Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4715</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Baker</Key>
-      <Forenames>Rear-</Forenames>
-      <Text>Admiral Lewis Clmton, C.B., C.B.E. (sec ClintonBaker, Rear-Admiral Lewis, C. B., C.B.E.). Balfour, Rt. Hon. Sir Arthur James, K.G., O.M. (Viscount Traprain of Whittingehame and Earl of Balfour)</Text>
+      <Title>Rear-Admiral</Title>
+      <Forenames>Lewis Clm-</Forenames>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.B.E.</Honour>
+        <Honour>C.B.E.</Honour>
+        <Honour>K.G.</Honour>
+        <Honour>O.M.</Honour>
+      </Text>
       <PageNumber>3512</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -291,7 +322,9 @@
       <Key>Barran</Key>
       <Title>Sir</Title>
       <Forenames>John N.</Forenames>
-      <Text>, Bt., Member of Gas Mantles Committee under iSafeguarding of Industries Act</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>3705</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -316,7 +349,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Barrett</Key>
-      <Text>.Maj. Cyril Charles Johnson, C.I.E., Companion, Star of India</Text>
+      <Text>
+        <Honour>Companion, Star of India</Honour>
+      </Text>
       <PageNumber>4322</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -326,7 +361,9 @@
         <KeyDitto>___ ___ ___ .</KeyDitto>
       </Key>
       <Forenames>Frank Ashley</Forenames>
-      <Text>, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>4322</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -336,7 +373,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>William Herbert</Forenames>
-      <Text>, Companion, St. Michael and St. George</Text>
+      <Text>
+        <Honour>Companion, St. Michael and St. George</Honour>
+      </Text>
       <PageNumber>4322</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -344,7 +383,9 @@
     <MainItem>
       <Key>Barron</Key>
       <Forenames>Claud Alexander</Forenames>
-      <Text>, C.S.I., CLE., Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4715</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -352,7 +393,9 @@
     <MainItem>
       <Key>Barrow</Key>
       <Forenames>Alfred</Forenames>
-      <Text>, O.B.E., knighted</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>2917</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -360,7 +403,9 @@
     <MainItem>
       <Key>Barth</Key>
       <Forenames>Jacob William</Forenames>
-      <Text>, C.B.E., knighted</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>4320</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -386,7 +431,9 @@
       <Key>Batty</Key>
       <Title>Lt.</Title>
       <Forenames>Archibald Douglas George Staunton</Forenames>
-      <Text>, Member, 4th CI., Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4715</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -416,7 +463,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Becker</Key>
-      <Text>Frederick Edward Robert, knighted</Text>
+      <Forenames>Frederick Edward Robert</Forenames>
+      <Text>, knighted</Text>
       <PageNumber>2917</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -424,7 +472,9 @@
     <MainItem>
       <Key>Bennett</Key>
       <Forenames>Andrew Percy</Forenames>
-      <Text>, C.M.G., H.M. Consul-General for Costa Rica</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>2916</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -434,7 +484,11 @@
         <KeyDitto>___ .</KeyDitto>
       </Key>
       <Forenames>Henry Hohywbod Curtis</Forenames>
-      <Text>, K.C. (see Curtis-Bennett, . . Henry Honywood, K.C.). Benson. Maj. Reginald Lindsay, D.S.O., M.C., Member, 4th CI., Royal Victorian Order</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4715</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -467,7 +521,10 @@
     <MainItem>
       <Key>Birch</Key>
       <Title>Lt.</Title>
-      <Text>-Gen. Sir James Frederick Noel, K.C.M.G., C.B., Knight Commander, Order of the Bath</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>4321</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -476,7 +533,9 @@
       <Key>Bird</Key>
       <Title>Sir</Title>
       <Forenames>Alfred Frederick</Forenames>
-      <Text>, Kt., Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>2916</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -502,7 +561,9 @@
     <MainItem>
       <Key>Bishop</Key>
       <Forenames>William George</Forenames>
-      <Text>, M.B.E., Imperial Service Order</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>4324</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -511,7 +572,9 @@
       <Key>Black</Key>
       <Title>Maj</Title>
       <Forenames>George Cumine Strahan</Forenames>
-      <Text>, O.B.E., Member, 4th CI., Royil Victorian Order</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4715</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -521,7 +584,9 @@
         <KeyDitto>___ ___ ___ .</KeyDitto>
       </Key>
       <Forenames>Robert James</Forenames>
-      <Text>, created Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>4318</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -541,7 +606,9 @@
       <Key>Blades</Key>
       <Title>Sir</Title>
       <Forenames>George Rowland</Forenames>
-      <Text>, Kt., Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>2916</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -558,7 +625,10 @@
       <Key>Blenkinsop</Key>
       <Title>Maj.-Gen.</Title>
       <Forenames>Alfred Percy</Forenames>
-      <Text>, C.B., C.M.G., Knight Commander, Order of the Bath</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>4321</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -567,7 +637,9 @@
       <Key>Blood</Key>
       <Title>Maj.</Title>
       <Forenames>William Holcroft</Forenames>
-      <Text>, Member, 4tn CI., Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4715</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -576,7 +648,10 @@
       <Key>Boles</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Dennis Fortescue</Forenames>
-      <Text>, C. B.E., D.L., J.P., created Baronet</Text>
+      <Text>
+        <Honour>D.L.</Honour>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>4318</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -585,7 +660,9 @@
       <Key>Borwick</Key>
       <Title>Sir</Title>
       <Forenames>Robert Hudson</Forenames>
-      <Text>, Bart., J.F., created Baron</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>4317</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -610,8 +687,13 @@
   <ItemGroup>
     <MainItem>
       <Key>Brand</Key>
-      <Forenames>Rear-</Forenames>
-      <Text>Admiral the Hon. Sir Hubert George, K.C.M.G., K.C.V.O., C.B., Extra Equerry to His Majesty</Text>
+      <Title>Rear-Admiral the Hon. Sir</Title>
+      <Forenames>Hubert George</Forenames>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>K.C.V.O.</Honour>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>2716</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -636,7 +718,12 @@
       <Key>Bromley-Davenport</Key>
       <Title>Brig.-Gen.</Title>
       <Forenames>William</Forenames>
-      <Text>, C.M.G., C.B.E., D. S.O., T.D., Companion, Order of Bath</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>C.B.E.</Honour>
+        <Honour>D. S.O.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>4321</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -645,7 +732,9 @@
       <Key>Brooke</Key>
       <Title>Capt.</Title>
       <Forenames>Basil Vernon</Forenames>
-      <Text>, R.N., Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4324</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -654,7 +743,12 @@
       <Key>Bryant</Key>
       <Title>Sir</Title>
       <Forenames>Francis Morgan</Forenames>
-      <Text>, C.B.E., M.V.O., I.S.O., Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>M.V.O.</Honour>
+        <Honour>I.S.O</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4324</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -672,7 +766,10 @@
     <MainItem>
       <Key>Buchanan</Key>
       <Forenames>George Seaton</Forenames>
-      <Text>, C.B., M.D., ~B.Sc., knighted</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>2917</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -681,7 +778,10 @@
       <Key>Buckley</Key>
       <Title>Brig.-Gen.</Title>
       <Forenames>Basil Thorold</Forenames>
-      <Text>, C.B., C.M.G., appointed to H.M. Body Guard of Honourable Corps of Gentlemen at Arms</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>4327</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -689,7 +789,9 @@
     <MainItem>
       <Key>Buckmaster</Key>
       <Forenames>Stanley Owen</Forenames>
-      <Text>, Baron, P.C., Commissioner for the care and custody of the Great Seal</Text>
+      <Text>
+        <Honour>P.C.</Honour>
+      </Text>
       <PageNumber>2812</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -698,7 +800,9 @@
       <Key>Budd</Key>
       <Title>Sir</Title>
       <Forenames>Cecil L.</Forenames>
-      <Text>, K.B.E.., Memof the Glass Bottles Committee urioer the Safeguarding of Industries Act</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+      </Text>
       <PageNumber>3326</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -731,7 +835,9 @@
       <Key>Burgoyne</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Alan Hughes</Forenames>
-      <Text>,M.P., knighted</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4319</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -749,7 +855,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Robert Reginald Frederick</Forenames>
-      <Text>, Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>2916</PageNumber>
     </MainItem>
   </ItemGroup>

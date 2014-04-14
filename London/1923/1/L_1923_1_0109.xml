@@ -18,7 +18,9 @@
     <MainItem>
       <Key>Frewen-Laton</Key>
       <Forenames>Ivo W. L.</Forenames>
-      <Text>, D.S.C</Text>
+      <Text>
+        <Honour>D.S.C</Honour>
+      </Text>
       <PageNumber>1492</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -40,8 +42,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ingham</Key>
-      <Forenames>Cameron St</Forenames>
-      <Text>. C</Text>
+      <Forenames>Cameron St. C</Forenames>
       <PageNumber>376</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -70,7 +71,10 @@
     <MainItem>
       <Key>Laton</Key>
       <Forenames>Ivo W. L. Frewen</Forenames>
-      <Text>, D.S.C. see Frewen-Laton, Ivo W. L., D.S.C. Mclntyre, Lionel</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>1227</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -136,7 +140,9 @@
     <MainItem>
       <Key>Tufnell</Key>
       <Forenames>Desmond N. C</Forenames>
-      <Text>, D.S.C</Text>
+      <Text>
+        <Honour>D.S.C</Honour>
+      </Text>
       <PageNumber>1227</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -205,6 +211,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Lisle</Key>
+      <Title>Lt. (retd.)</Title>
+      <Forenames>Rudolph H. E. M. P</Forenames>
+      <PageNumber>451</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Dolphin</Key>
       <Title>Lt. (retd.)</Title>
       <Forenames>Edgar H.</Forenames>
@@ -232,7 +246,9 @@
     <MainItem>
       <Key>Goddard</Key>
       <Forenames>Philip L.</Forenames>
-      <Text>, D.S.O. (atown request)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>801</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -810,7 +826,9 @@
     <MainItem>
       <Key>Maguire</Key>
       <Title>Alfred.</Title>
-      <Text>D.S.C. (seniority)</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>2316</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -825,7 +843,9 @@
     <MainItem>
       <Key>Melrose</Key>
       <Forenames>Walter J.</Forenames>
-      <Text>, D.S.C</Text>
+      <Text>
+        <Honour>D.S.C</Honour>
+      </Text>
       <PageNumber>706</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -875,7 +895,9 @@
     <MainItem>
       <Key>Oliver</Key>
       <Forenames>Robert D.</Forenames>
-      <Text>, D.S.C. (seniority)</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>1408</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -948,7 +970,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Salter</Key>
-      <Text>.-George.L. M</Text>
+      <Text>-George.L. M</Text>
       <PageNumber>2165</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -964,8 +986,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Searle</Key>
-      <Forenames>Malcolm W. St</Forenames>
-      <Text>. L</Text>
+      <Forenames>Malcolm W. St. L</Forenames>
       <PageNumber>1070</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1157,7 +1178,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Blake</Key>
-      <Text>. Charles K. (at own request)</Text>
+      <Forenames>Charles K.</Forenames>
+      <Text>(at own request)</Text>
       <PageNumber>1227</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1223,7 +1245,9 @@
     <MainItem>
       <Key>Burden</Key>
       <Forenames>Chief Offr</Forenames>
-      <Text>. Walter P., M.B.E., P.C.S</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>706</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1379,7 +1403,9 @@
     <MainItem>
       <Key>Cumming</Key>
       <Forenames>Alexander P.</Forenames>
-      <Text>, D.S.C. (at own request)</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>1228</PageNumber>
     </MainItem>
   </ItemGroup>

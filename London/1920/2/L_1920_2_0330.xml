@@ -60,7 +60,10 @@
       </Key>
       <Title>Flight Lt.(A.)</Title>
       <Forenames>R. H. C.</Forenames>
-      <Text>, M.C., A.F.C. (re-secd. to R.A.F.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>4850</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -122,33 +125,33 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Alstine</Forenames>
-      <Text>, Canadian Cadet E. E. (Hon. 2nd Lt.)</Text>
+      <Key>Van Alstine</Key>
+      <Forenames>Canadian</Forenames>
+      <Text>Cadet E. E. (Hon. 2nd Lt.)</Text>
       <PageNumber>4143</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Atter</Forenames>
-      <Text>, Canadian Cadet R. B. (Hon. 2nd Lt.)</Text>
+      <Key>Van Atter</Key>
+      <Forenames>Canadian</Forenames>
+      <Text>Cadet R. B. (Hon. 2nd Lt.)</Text>
       <PageNumber>4239</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Dusen</Forenames>
-      <Text>, Canadian Cadet H. F. (Hon. 2nd Lt.)</Text>
+      <Key>Van Dusen</Key>
+      <Forenames>Canadian</Forenames>
+      <Text>Cadet H. F. (Hon. 2nd Lt.)</Text>
       <PageNumber>4143</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Dyne</Forenames>
-      <Text>, Canadian Cadet H. C. (Hon. 2nd Lt.)</Text>
+      <Key>Van Dyne</Key>
+      <Forenames>Canadian</Forenames>
+      <Text>Cadet H. C. (Hon. 2nd Lt.)</Text>
       <PageNumber>4143</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -162,17 +165,17 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Home</Forenames>
-      <Text>, Canadian Cadet D. C. (Hon. 2nd Lt.)</Text>
+      <Key>Van Home</Key>
+      <Forenames>Canadian</Forenames>
+      <Text>Cadet D. C. (Hon. 2nd Lt.)</Text>
       <PageNumber>4143</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Nest</Forenames>
-      <Text>, Canadian Cadet H. A. (Hon. 2nd Lt.)</Text>
+      <Key>Van Nest</Key>
+      <Forenames>Canadian</Forenames>
+      <Text>Cadet H. A. (Hon. 2nd Lt.)</Text>
       <PageNumber>4239</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -180,23 +183,27 @@
     <MainItem>
       <Key>Van</Key>
       <Forenames>Ryneveld</Forenames>
-      <Text>, Wing Comdr. Sir H. A., K.B.E., D.S.O., M.C. (rel. R.A.F. commn. &amp; retains rank of Lt.-Col.)</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5847</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Sickle</Forenames>
-      <Text>, Canadian Cadet E. C. (Hon. 2nd Lt.)</Text>
+      <Key>Van Sickle</Key>
+      <Forenames>Canadian</Forenames>
+      <Text>Cadet E. C. (Hon. 2nd Lt.)</Text>
       <PageNumber>4240</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Wyck</Forenames>
-      <Text>, Canadian Cadet T..H. (Hon. 2nd Lt.)</Text>
+      <Key>Van Wyck</Key>
+      <Forenames>Canadian</Forenames>
+      <Text>Cadet T..H. (Hon. 2nd Lt.)</Text>
       <PageNumber>4240</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -303,7 +310,7 @@
       <PageNumber>4475</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Not. of 29 July to stand</Text>
+      <Text>Not. of 29 July to stand.</Text>
       <PageNumber>4475</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -401,7 +408,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>F. C</Forenames>
-      <Text>, D.F.C. (trd. to unempld. list)</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>6344</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1117,7 +1126,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>H. C. W.</Forenames>
-      <Text>, D.F.C. (rel. commn. on acc. of ill-health caused by wounds &amp; retains rank)</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>4139</PageNumber>
     </MainItem>
   </ItemGroup>

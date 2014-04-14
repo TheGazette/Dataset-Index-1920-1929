@@ -14,7 +14,10 @@
       <Key>Walsh</Key>
       <Title>Flight Lt.</Title>
       <Forenames>Louis Henry Pakenham-</Forenames>
-      <Text>, D.F.C., see Pakenham-Walsh, Flight Lt. Louis Henry, D.F.C. Walters, Flying Offr. Leslie Allan (trd to Reserve, Class A.)</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>7950</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -73,7 +76,9 @@
     <MainItem>
       <Key>White</Key>
       <Forenames>Flying Offr</Forenames>
-      <Text>. Victor Rodney Stokes, M.C. (placed on retd. lift on account of ill-health contracted on active service)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8799</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -125,7 +130,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Flying Offr</Forenames>
-      <Text>. Grenville Wainwright, A.F.C. (trd. to Reserve, Class C.)</Text>
+      <Text>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>8616</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -145,7 +152,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Flying Offr</Forenames>
-      <Text>. Percy, M.C. (rel. short service commn. on account of ill-health and granted rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7467</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -231,7 +240,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Patrick John Anthony Hume-</Forenames>
-      <Text>, see Hume-Wright, Patrick John Anthony. Wyatt, Observer Offr. Montague James, M.C. (trd. to Reserve, Class B.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8616</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -280,7 +291,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Renfrew</Key>
-      <Text>: Shaw Stewart, Col. Sir Michael Hugh, Bt., C.B</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>C.B</Honour>
+      </Text>
       <PageNumber>8519</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -295,7 +309,10 @@
   <ItemGroup>
     <MainItem>
       <Key>London</Key>
-      <Text>: Cheylesmore, Maj. Gen. Lord, K.C.M.G.,K.C.V.O</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>K.C.V.O</Honour>
+      </Text>
       <PageNumber>9029</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -310,7 +327,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Ayr</Key>
-      <Text>: Hunter, Gen. Sir Archibald, G.C.B., G.C.V.O., D.S.O. (resigns commn.)</Text>
+      <Text>
+        <Honour>G.C.B.</Honour>
+        <Honour>G.C.V.O.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7950</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -339,12 +360,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Edinburgh</Key>
-      <Text>: Clyde, Rt. Hon. James Avon, Lord, P.C., K.C. D.L.. J.P</Text>
+      <Text>
+        <Honour>P.C.</Honour>
+        <Honour>D.L.</Honour>
+      </Text>
       <PageNumber>7134</PageNumber>
     </MainItem>
     <SubItem>
       <Text>
         <PageNumber>7134</PageNumber>
+        <Honour>C.B.E.</Honour>
       </Text>
       <PageNumber>7134</PageNumber>
     </SubItem>
@@ -363,7 +388,9 @@
       <PageNumber>7794</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Collettj Sir Mark Edlmann, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>7794</PageNumber>
     </SubItem>
     <SubItem>
@@ -376,6 +403,8 @@
     </SubItem>
     <SubItem>
       <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
         <PageNumber>7794</PageNumber>
       </Text>
       <PageNumber>7794</PageNumber>
@@ -384,131 +413,33 @@
   <ItemGroup>
     <MainItem>
       <Key>Kincardine</Key>
-      <Text>: Innes, Capt. J. W. G. (resigns commn.)</Text>
-      <PageNumber>7134</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>London</Key>
-      <Text>: Cheylesmore, Maj.-Gen. the Rt. Hon. Lord, K.C.M.G., K.C.V.O., D.L., J.P</Text>
-      <PageNumber>9044</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Sutherland</Key>
-      <Text>; Wright, Col. Harry, C.M.G., D.S.O. (resignation)</Text>
-      <PageNumber>7873</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Aberavon</Key>
-      <Forenames>Labour Men</Forenames>
-      <Text>'s Club and Institute, cancelling of registry</Text>
-      <PageNumber>7316</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Abergwendraeth</Key>
-      <Forenames>Conservative Club</Forenames>
-      <Text>, cancelling of registry</Text>
-      <PageNumber>7977</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Abrahams</Key>
-      <Forenames>David</Forenames>
-      <Text>, change of name by deed pell to Alfred Arnold</Text>
-      <PageNumber>7750</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Acton</Key>
-      <Forenames>Wells Provident Tenants</Forenames>
-      <Text>' Cottage Society, cancelling of registry</Text>
-      <PageNumber>9213</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Adams</Key>
-      <Forenames>Thomas Fletcher</Forenames>
-      <Text>, change of name by deed poll to T. Fletcher-Adams</Text>
-      <PageNumber>8384</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Aire</Key>
-      <Text>and Calder Navigation Act, 1899, extension</Text>
-      <PageNumber>6992</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Aire</Key>
-      <Text>and Calder Navigation Act, 1908, extension</Text>
-      <PageNumber>6992</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Aire</Key>
-      <Text>and Calder Navigation Act, 1914, extension</Text>
-      <PageNumber>6992</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Alexander</Key>
-      <Forenames>Laskofsky Help Benefit Society</Forenames>
-      <Text>, cancelling of registry</Text>
-      <PageNumber>9057</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Anslow</Key>
-      <Forenames>Albert George</Forenames>
-      <Text>, ohange of name by deed poll to Georges Anthony Gerard</Text>
-      <PageNumber>8266</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Arguello</Key>
-      <Forenames>Ralph David</Forenames>
-      <Text>, see Canard, Ralph Arguello Aronson, George Philip, change of name by deed poll to to G. P. Anderson</Text>
-      <PageNumber>8266</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Ashman</Key>
-      <Forenames>Edgar Colnett</Forenames>
-      <Text>, change of name by deed poll to E. C. Ashleigh</Text>
-      <PageNumber>8767</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Auction</Key>
-      <Forenames>Sale</Forenames>
-      <Text>of Estates by, under Orders of Court of Chancery: Fenny Stratford, freehold honses, cottages and land (Geake v. Geake)</Text>
-      <PageNumber>7022</PageNumber>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>K.C.V.O.</Honour>
+        <Honour>D.L.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
+      <PageNumber>142</PageNumber>
+      <PageNumber>144</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Scott, Messrs. A. G. and Co., Ltd., business and goodwill of, and leasehold factory premises, Crown Wharf Grove Street and Hanlon Street, Deptford. etc. (Sturt, V. A. G. Scott and Co.)</Text>
-      <PageNumber>9143</PageNumber>
-    </SubItem>
-    <SubItem>
-      <Text>Trebanos, Hughes and Glynn Gwilym Seams (Barclay's Bank, Ltd. v. Graig Colliery Co.)</Text>
-      <PageNumber>7845</PageNumber>
+      <Text>
+        <PageNumber>88</PageNumber>
+        <PageNumber>90</PageNumber>
+        <PageNumber>92</PageNumber>
+        <PageNumber>94</PageNumber>
+        <PageNumber>96</PageNumber>
+        <PageNumber>98</PageNumber>
+        <PageNumber>100</PageNumber>
+        <PageNumber>102</PageNumber>
+        <PageNumber>160</PageNumber>
+        <PageNumber>36</PageNumber>
+      </Text>
+      <PageNumber>5</PageNumber>
+      <PageNumber>7</PageNumber>
+      <PageNumber>9</PageNumber>
+      <PageNumber>11</PageNumber>
     </SubItem>
   </ItemGroup>
   <ItemGroup>
@@ -516,9 +447,9 @@
       <Key>Avonmouth</Key>
       <Forenames>Garden Suburb</Forenames>
       <Text>, dissolution</Text>
-      <PageNumber>7739</PageNumber>
+      <PageNumber>7134</PageNumber>
     </MainItem>
   </ItemGroup>
-  <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
+  <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
 </Index>
 

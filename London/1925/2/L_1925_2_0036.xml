@@ -15,7 +15,7 @@
       <PageNumber>2842</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>284</Text>
+      <Text>284.</Text>
       <PageNumber>2</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -301,7 +301,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bissett</Key>
-      <Text>. V. O</Text>
+      <Forenames>V. O</Forenames>
       <PageNumber>3722</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -340,7 +340,9 @@
       <Key>Blake</Key>
       <Title>Sir</Title>
       <Forenames>F. D.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>3635</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -376,7 +378,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bodell</Key>
-      <Text>. E. L</Text>
+      <Forenames>E. L</Forenames>
       <PageNumber>4031</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -485,7 +487,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bowyer</Key>
-      <Text>. R</Text>
+      <Forenames>R.</Forenames>
       <PageNumber>4369</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -541,7 +543,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brettell</Key>
-      <Text>. W. N</Text>
+      <Forenames>W. N.</Forenames>
       <PageNumber>3223</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -576,7 +578,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brierley</Key>
-      <Text>. A. R</Text>
+      <Forenames>A. R.</Forenames>
       <PageNumber>3722</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -749,7 +751,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Buck</Key>
-      <Text>. E. M</Text>
+      <Forenames>E. M.</Forenames>
       <PageNumber>3793</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1356,8 +1358,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Collins</Key>
-      <Forenames>J. St</Forenames>
-      <Text>. B</Text>
+      <Forenames>J. St. B</Forenames>
       <PageNumber>2570</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1598,8 +1599,7 @@
     <MainItem>
       <Key>Crossley</Key>
       <Title>Hon.</Title>
-      <Forenames>J.</Forenames>
-      <Text>de B</Text>
+      <Forenames>J. de B</Forenames>
       <PageNumber>4116</PageNumber>
     </MainItem>
   </ItemGroup>

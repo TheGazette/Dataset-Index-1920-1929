@@ -223,8 +223,8 @@
         <KeyDitto>___ -— ___</KeyDitto>
       </Key>
       <Title>Lt.</Title>
-      <Forenames>A. G. St</Forenames>
-      <Text>. P. (resigns commn. and retains rank of Lt.)</Text>
+      <Forenames>A. G. St. P</Forenames>
+      <Text>. (resigns commn. and retains rank of Lt.)</Text>
       <PageNumber>7340</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -289,7 +289,9 @@
     <MainItem>
       <Key>Harris</Key>
       <Title>temp.</Title>
-      <Text>lit. IF. E., M.C. (rel. commn. on completion of service, and retains rank of Lt;)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9294</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -322,7 +324,11 @@
       </Key>
       <Title>Col.</Title>
       <Forenames>G. R</Forenames>
-      <Text>, C, Lord, G.C.S.I., G.C.I.E., C.B., T.D. (rel. appt. a9 Additional A.D.C. to the King having attained the age limit)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>T.D.</Honour>
+        <Honour>A.D.C.</Honour>
+      </Text>
       <PageNumber>7835</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -404,7 +410,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>J. R.</Forenames>
-      <Text>, O.B.E. (rel. commn. and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>7567</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -419,7 +427,7 @@
       <PageNumber>9514</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Trd. to Gen. Res. of Offrs.</Text>
+      <Text>Trd. to Gen. Res. of Offrs</Text>
       <PageNumber>9516</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -430,7 +438,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>R</Forenames>
-      <Text>, H., M.C. (rel. commn. and granted rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8767</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -508,7 +518,9 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>B. H.</Forenames>
-      <Text>, M.C. (rel. , commn. on completion of service and granted rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9599</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -543,7 +555,9 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>E. H.</Forenames>
-      <Text>, M.C. (Adjt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7293</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -564,7 +578,10 @@
       </Key>
       <Title>temp. Maj.</Title>
       <Forenames>F.</Forenames>
-      <Text>, O.B.E., M.C. (rel. commn. on completion of service and retains rank of Maj.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9134</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -575,11 +592,13 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>G.</Forenames>
-      <Text>, M.C. (rel. actg. rank of Maj. on ceasing to comd. a Co.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8683</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Rel. commn. on completion of service and granted rank of Maj.</Text>
+      <Text>Rel. commn. on completion of service and granted rank of Maj</Text>
       <PageNumber>8683</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -665,7 +684,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>J. G.</Forenames>
-      <Text>, M.C. (rel. actg. rank of Capt. on ceasing to be empld. with an addtl. Serv. Bn.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8842</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -762,7 +783,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>W. D.</Forenames>
-      <Text>, M.C. (rel. commn. and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9285</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -793,7 +816,9 @@
       <Key>Harrod</Key>
       <Title>temp. Lt.</Title>
       <Forenames>F. H.</Forenames>
-      <Text>, M.C. (rel. commn. on completion of service and granted rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8353</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -848,7 +873,10 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>G. A.</Forenames>
-      <Text>, D.S.O., M.C. (placed on ret. pay, having reached the age fixed for compulsory retirement, and granted rank of Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9596</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -881,7 +909,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>P. H.</Forenames>
-      <Text>. M.C. (rel. temp. rank of Capt. on ceasing to be empld. with Serv. Bn., W. York. R.), Sub. Not</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8777</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -892,7 +922,9 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>S.</Forenames>
-      <Text>, M.C. (rel. commn. on completion of . service and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8566</PageNumber>
     </MainItem>
   </ItemGroup>

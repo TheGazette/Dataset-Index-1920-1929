@@ -53,7 +53,7 @@
       <PageNumber>8887</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Trd. to anempid. list, Sub. Not.</Text>
+      <Text>Trd. to anempid. list, Sub. Not</Text>
       <PageNumber>7993</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -196,7 +196,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Gobbett</Key>
-      <Text>. Cadet H. R. (Hon. 2nd Lt.)</Text>
+      <Title>Cadet</Title>
+      <Forenames>H. R.</Forenames>
+      <Text>(Hon. 2nd Lt.)</Text>
       <PageNumber>8713</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -204,7 +206,11 @@
     <MainItem>
       <Key>Goble</Key>
       <Title>Sqdn.</Title>
-      <Text>LeaderS. J., D.S.O., O.B.E., D.S.C. (granted hon. rank of Wing Comdr. whilst empld. with Commonweal tli Govt, of Australia (Royal Australian Navy) )</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>O.B.E.</Honour>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>8183</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -303,7 +309,7 @@
       <PageNumber>7230</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Granted short serv. coinmn.</Text>
+      <Text>Granted short serv. coinmn</Text>
       <PageNumber>7355</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -314,7 +320,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>L. F.</Forenames>
-      <Text>M.C. (trd. to unempld. list)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8279</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -361,7 +369,9 @@
       <Key>Gordon-Dean</Key>
       <Title>Sqdn.</Title>
       <Forenames>Leader</Forenames>
-      <Text>(A.) H., A.F.C. (corr. of name)</Text>
+      <Text>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>9223</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -400,7 +410,7 @@
       <PageNumber>9371</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Hon. 2nd Lt.</Text>
+      <Text>Hon. 2nd Lt</Text>
       <PageNumber>7993</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -588,7 +598,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Grit</Key>
-      <Text>.ton, Lt. F. E. (trd. to unempld. list), Sub. Not</Text>
+      <Text>ton, Lt. F. E. (trd. to unempld. list), Sub. Not</Text>
       <PageNumber>9300</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -613,11 +623,12 @@
   <ItemGroup>
     <MainItem>
       <Key>Gunn</Key>
-      <Text>. Pilot Offr. A. B. G. (Flying Offr.)</Text>
+      <Forenames>Pilot Offr</Forenames>
+      <Text>. A. B. G. (Flying Offr.)</Text>
       <PageNumber>7668</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Trd. to unempld. list, Sub. Not.</Text>
+      <Text>Trd. to unempld. list, Sub. Not</Text>
       <PageNumber>7777</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -717,7 +728,9 @@
       </Key>
       <Title>Rev.</Title>
       <Forenames>R.</Forenames>
-      <Text>, O.B.E. (relative rank as Sqdn. Leader with rank of Group Capt. whilst Staff Chanln.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>8410</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -783,7 +796,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Flying Oftr</Forenames>
-      <Text>. (A) L., D.F.C., (granted short serv. commn.) .:</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>7776</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -801,7 +816,9 @@
       <Key>Hand</Key>
       <Title>Lt.</Title>
       <Forenames>H. H.</Forenames>
-      <Text>, M.M. (trd. to , anempid. list)</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>9145</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -810,7 +827,9 @@
       <Key>Haodnian</Key>
       <Title>Capt.</Title>
       <Forenames>A. H.</Forenames>
-      <Text>. M.B.E. (trd. to unempld. list)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>8485</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -837,7 +856,9 @@
       <Key>Hanson</Key>
       <Title>Rev.</Title>
       <Forenames>R. E. V.</Forenames>
-      <Text>, O.B.E., M.A. (rel. rank as Wing Comdr.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>8410</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1062,7 +1083,9 @@
       <Key>Hart</Key>
       <Title>Cadet</Title>
       <Forenames>P.</Forenames>
-      <Text>(Hon. 2nd Lt.) ... Hartung, Flying Offr. (A.) C. S. . M.M. (granted short sery</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>8278</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -9,15 +9,19 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Day, Lt. T. (actg. Capt. whilst 2nd in &lt;omd. of Ind. Mountain Batt.)</Text>
+      <Key>O'Day</Key>
+      <Title>Lt.</Title>
+      <Forenames>T.</Forenames>
+      <Text>(actg. Capt. whilst 2nd in &lt;omd. of Ind. Mountain Batt.)</Text>
       <PageNumber>10933</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Dea, temp. Lt. J. F. (rel. commn. on completion of service, and retains rank, of Lt.)</Text>
+      <Key>O'Dea</Key>
+      <Title>temp. Lt.</Title>
+      <Forenames>J. F.</Forenames>
+      <Text>(rel. commn. on completion of service, and retains rank, of Lt.)</Text>
       <PageNumber>10825</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -48,7 +52,9 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>O. F.</Forenames>
-      <Text>, O.B.E. (rel. commn. on completion of service, and granted rank of Maj.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>9869</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -83,8 +89,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donnell, late 2nd Lt. Aichibald (temp. : 2nd Lt., Gen. List, . whilst spec, empld.)</Text>
+      <Key>O'Donnell</Key>
+      <Title>late 2nd Lt.</Title>
+      <Forenames>Aichibald</Forenames>
+      <Text>(temp. : 2nd Lt., Gen. List, . whilst spec, empld.)</Text>
       <PageNumber>12383</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -101,15 +109,23 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donoghue, temp. Maj. R. J. L., D.S.O. (rel/commn. on completion of service, and retains rank of Maj.)</Text>
+      <Key>O'Donoghue</Key>
+      <Title>temp. Maj.</Title>
+      <Forenames>R. J. L.</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>12359</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donovan, temp. Lt. R. A., M.C. (Not. of relg. actg. rank of Capt. in Gaz., 27 Feb., 1920, cancelled)</Text>
+      <Key>O'Donovan</Key>
+      <Title>temp. Lt.</Title>
+      <Forenames>R. A.</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10721</PageNumber>
     </MainItem>
     <SubItem>
@@ -123,12 +139,17 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Dowda, Col. J. W., C.B., C.S.I., . C.M.G. (rel. temp, rank of *~ Brig.-Gen., and to be temp. Col. Comdt. whilst holding present appt.)</Text>
+      <Key>O'Dowda</Key>
+      <Title>Col.</Title>
+      <Forenames>J. W.</Forenames>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>12696</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Trd. to Gen. Res. of Offrs</Text>
+      <Text>Trd. to Gen. Res. of Offrs.</Text>
       <PageNumber>10721</PageNumber>
     </SubItem>
     <SubItem>
@@ -143,7 +164,7 @@
       <PageNumber>12280</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Lt.-Col</Text>
+      <Text>Lt.-Col.</Text>
       <PageNumber>11560</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -200,8 +221,12 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Gorman, temp. Maj. B., D.S.O. (rel. commn. on completion of service, and retains rank of Maj.)</Text>
+      <Key>O'Gorman</Key>
+      <Title>temp. Maj.</Title>
+      <Forenames>B.</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>12040</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -210,7 +235,11 @@
       <Key>Ogston</Key>
       <Title>Maj. and Bt. Lt.-Col.</Title>
       <Forenames>C</Forenames>
-      <Text>, C.B., C.M.G., D.S.O. (Lt.Col.) ... :</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>12264</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -227,36 +256,45 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hara, temp. 2nd Lt. R. P. (rel. commn. on completion of service, and retains rank of 2nd Lt.)</Text>
+      <Key>O'Hara</Key>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>R. P.</Forenames>
+      <Text>(rel. commn. on completion of service, and retains rank of 2nd Lt.)</Text>
       <PageNumber>12046</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>O</Key>
-      <Text>Hare, 2nd Lt. T. (Lt.)</Text>
+      <Forenames>Hare</Forenames>
+      <Text>, 2nd Lt. T. (Lt.)</Text>
       <PageNumber>12268</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hea, temp. Lt. J. J. (rel. commn. on completion of service, and retains rank of Lt.)</Text>
+      <Key>O'Hea</Key>
+      <Title>temp. Lt.</Title>
+      <Forenames>J. J.</Forenames>
+      <Text>(rel. commn. on completion of service, and retains rank of Lt.)</Text>
       <PageNumber>10364</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hear, temp. Lt. J. P. (rel. commn. on completion of service, and retains rank of Lt.)</Text>
+      <Key>O'Hear</Key>
+      <Title>temp. Lt.</Title>
+      <Forenames>J. P.</Forenames>
+      <Text>(rel. commn. on completion of service, and retains rank of Lt.)</Text>
       <PageNumber>11770</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Keefe, temp. Lt. A. R. W. M. (rel. commn. on completion of service, and granted rank of Capt.)</Text>
+      <Key>O'Keefe</Key>
+      <Title>temp. Lt.</Title>
+      <Forenames>A. R. W. M.</Forenames>
+      <Text>(rel. commn. on completion of service, and granted rank of Capt.)</Text>
       <PageNumber>10174</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -286,15 +324,19 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Keeffe, temp. Lt. C. F. (rel. commn., on. completion of service, and granted rank of Capt.) ... '</Text>
+      <Key>O'Keeffe</Key>
+      <Title>temp. Lt.</Title>
+      <Forenames>C. F.</Forenames>
+      <Text>(rel. commn., on. completion of service, and granted rank of Capt.) ... '</Text>
       <PageNumber>10842</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Kelly, Lt. A. A. (rel. commn. and granted rank ofMaj.)</Text>
+      <Key>O'Kelly</Key>
+      <Title>Lt.</Title>
+      <Forenames>A. A.</Forenames>
+      <Text>(rel. commn. and granted rank ofMaj.)</Text>
       <PageNumber>10582</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -323,7 +365,9 @@
       <Key>Oidershaw</Key>
       <Title>Lt.</Title>
       <Forenames>H.</Forenames>
-      <Text>, M.C. (rel. commn. and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10582</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -369,7 +413,11 @@
       </Key>
       <Title>Col.</Title>
       <Forenames>L. C. F.</Forenames>
-      <Text>, C.B., C.M.G., D.S.O. (rel. temp, rank of Brig.-Gen., and to be temp. Col. Comdt. whilst holding present appt.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>12695</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -380,7 +428,9 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>R. T.</Forenames>
-      <Text>, M.C. (rel. commn. on completion of service, and granted rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>11082</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -400,7 +450,9 @@
       </Key>
       <Title>temp. Capt.</Title>
       <Forenames>E. A.</Forenames>
-      <Text>, M.C. (rel. commn. .on completion of service, and retains rank .. of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10399</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -411,7 +463,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>S. A.</Forenames>
-      <Text>, M.C. (rel. commn: and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9871</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -420,14 +474,18 @@
       <Key>Oldman</Key>
       <Title>Bt. Col.</Title>
       <Forenames>R</Forenames>
-      <Text>: D. F., C. M.G., D.S.O. (rel. temp, rank of Bri.-Gen. and to be temp. Col. Comdt. whilst holding present appt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>12695</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Leary, 2nd Lt. M. D. (Lt.)</Text>
+      <Key>O'Leary</Key>
+      <Title>2nd Lt.</Title>
+      <Forenames>M. D.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>9871</PageNumber>
     </MainItem>
     <SubItem>
@@ -602,11 +660,15 @@
       </Key>
       <Title>temp. Capt.</Title>
       <Forenames>Stuart</Forenames>
-      <Text>(R.A.M.C.) (rel. commn. and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10377</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Temp. Capt, R.A.M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>12383</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -661,7 +723,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>W. F. L</Forenames>
-      <Text>, M.C. (Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10601</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -679,14 +743,19 @@
       <Key>Ollivant</Key>
       <Title>Col.</Title>
       <Forenames>J. S.</Forenames>
-      <Text>, C.B., C.M.G:, D. S.O. (h.p., retires on ret. T&gt;av and granted hon. rank of Brig.-Gen.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>D. S.O.</Honour>
+      </Text>
       <PageNumber>10919</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Olliver</Key>
-      <Text>Capt. C: O. (Adit.)</Text>
+      <Title>Capt.</Title>
+      <Forenames>C</Forenames>
+      <Text>: O. (Adit.)</Text>
       <PageNumber>11891</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -712,8 +781,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Mahonv, Capt. and Rt. Maj. C. C. Saunders. O.B:E. (temp. .Maj. whilst D.A.D. of 'Supplies and Trans.)</Text>
+      <Key>O'Mahonv</Key>
+      <Title>Capt. and Rt. Maj.</Title>
+      <Forenames>C. C. Saunders</Forenames>
+      <Text>. O.B:E. (temp. .Maj. whilst D.A.D. of 'Supplies and Trans.)</Text>
       <PageNumber>9879</PageNumber>
     </MainItem>
     <SubItem>

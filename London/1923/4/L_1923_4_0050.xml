@@ -308,7 +308,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Maxwell</Key>
-      <Text>F. S</Text>
+      <Forenames>F. S</Forenames>
       <PageNumber>9123</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -461,7 +461,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Moore</Key>
-      <Text>H. R. D</Text>
+      <Forenames>H. R. D.</Forenames>
       <PageNumber>6665</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -596,7 +596,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Munshi</Key>
-      <Text>Singh</Text>
+      <Forenames>Singh</Forenames>
       <PageNumber>7858</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -678,7 +678,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Nicolay</Key>
-      <Text>B. U</Text>
+      <Forenames>B. U</Forenames>
       <PageNumber>7464</PageNumber>
       <PageNumber>7461</PageNumber>
     </MainItem>
@@ -686,7 +686,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Nightingale</Key>
-      <Text>G. B</Text>
+      <Forenames>G. B</Forenames>
       <PageNumber>7041</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -736,8 +736,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor. D. N</Text>
+      <Key>O'Connor</Key>
+      <Forenames>D. N.</Forenames>
       <PageNumber>7859</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -783,8 +783,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Morchoe. N. C</Text>
+      <Key>O'Morchoe</Key>
+      <Forenames>N. C</Forenames>
       <PageNumber>7663</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -811,8 +811,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Toole, N. D G</Text>
+      <Key>O'Toole</Key>
+      <Forenames>N. D</Forenames>
+      <Text>G</Text>
       <PageNumber>6664</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -869,7 +870,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Palmer</Key>
-      <Text>G. W</Text>
+      <Forenames>G. W</Forenames>
       <PageNumber>7464</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -984,7 +985,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pollock</Key>
-      <Text>A. H</Text>
+      <Forenames>A. H</Forenames>
       <PageNumber>8540</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -998,7 +999,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ponsonbv</Key>
-      <Text>D. G</Text>
+      <Forenames>D. G.</Forenames>
       <PageNumber>7042</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1040,7 +1041,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pringle</Key>
-      <Text>J. H</Text>
+      <Forenames>J. H</Forenames>
       <PageNumber>7041</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1260,13 +1261,6 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Robertson</Key>
-      <Forenames>J. M.</Forenames>
-      <PageNumber>6664</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
       <Key>Robinson</Key>
       <Forenames>B. J</Forenames>
       <PageNumber>7859</PageNumber>
@@ -1286,8 +1280,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>G. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>G. St. J</Forenames>
       <PageNumber>9124</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1728,7 +1721,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Steveni</Key>
-      <Text>O. K</Text>
+      <Forenames>O. K.</Forenames>
       <PageNumber>7464</PageNumber>
     </MainItem>
   </ItemGroup>

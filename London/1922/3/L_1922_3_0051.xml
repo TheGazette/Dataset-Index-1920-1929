@@ -2,8 +2,10 @@
 <Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="051" pageID="https://www.thegazette.co.uk/id/London/index/year/1922/volume/3/page/051" pagePDF="https://www.thegazette.co.uk/London/index/year/1922/volume/3/page/051" pageRDF="https://www.thegazette.co.uk/London/index/year/1922/volume/3/page/051?view=linked-data" type="index" volume="3" year="1922">
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Coffey, Lt. S. W. (Lt., E. Lan. R., from Conn. Rangers)</Text>
+      <Key>O'Coffey</Key>
+      <Title>Lt.</Title>
+      <Forenames>S. W.</Forenames>
+      <Text>(Lt., E. Lan. R., from Conn. Rangers)</Text>
       <PageNumber>6578</PageNumber>
     </MainItem>
     <SubItem>
@@ -13,8 +15,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connell, Gent. Cadet Denys Goring (2nd Lt., 4th H.)</Text>
+      <Key>O'Connell</Key>
+      <Title>Gent. Cadet</Title>
+      <Forenames>Denys Goring</Forenames>
+      <Text>(2nd Lt., 4th H.)</Text>
       <PageNumber>6379</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -25,14 +29,18 @@
       </Key>
       <Title>Capt. Sir</Title>
       <Forenames>M. J. A.</Forenames>
-      <Text>, Bt., M.C. {retires, receiving a gratuity)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5962</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, Lt, C. A. (Lt., Wilts. R., from R. Ir. Regt.)</Text>
+      <Key>O'Connor</Key>
+      <Forenames>Lt</Forenames>
+      <Text>, C. A. (Lt., Wilts. R., from R. Ir. Regt.)</Text>
       <PageNumber>5707</PageNumber>
     </MainItem>
     <SubItem>
@@ -52,8 +60,8 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Title>Capt.</Title>
-      <Forenames>D. H. St</Forenames>
-      <Text>. J. (seed, for service with the Tank Corps)</Text>
+      <Forenames>D. H. St. J</Forenames>
+      <Text>. (seed, for service with the Tank Corps)</Text>
       <PageNumber>6839</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -64,7 +72,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>E. R.</Forenames>
-      <Text>, M.C. (Capt., King's Own R., from R. Mun. Fu3.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5431</PageNumber>
     </MainItem>
     <SubItem>
@@ -77,7 +87,9 @@
       <Key>Odium</Key>
       <Title>Maj.</Title>
       <Forenames>Benjamin A.</Forenames>
-      <Text>, O.B.E. (retires, receiving a gratuity)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>6230</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -86,7 +98,9 @@
       <Key>CDonnell</Key>
       <Title>Capt.</Title>
       <Forenames>M.</Forenames>
-      <Text>, M.C. (placed on ret. pay on attaining the age fixed for compulsory retirement)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6773</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -101,8 +115,12 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Gorman, Lt.-Col. Charles J., D.S.O. (Col. whilst spec, empld.)</Text>
+      <Key>O'Gorman</Key>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Charles J.</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5707</PageNumber>
     </MainItem>
     <SubItem>
@@ -187,7 +205,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>W. F. L.</Forenames>
-      <Text>, M.C. (retires, receiving a gratuity)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6578</PageNumber>
     </MainItem>
     <SubItem>
@@ -206,7 +226,9 @@
     <MainItem>
       <Key>Omond</Key>
       <Title>Ord. Off., 4th CI. (on prob.)</Title>
-      <Text>, and Capt, J. S., M.C. (retained or permanent service, confirmed in appt. as Ord.. Off., 4th CI., retaining present seniority)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5779</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -215,7 +237,9 @@
       <Key>CMorchoe</Key>
       <Title>Lt.</Title>
       <Forenames>K. G.</Forenames>
-      <Text>(Lt., Gordons, from R.D. Fus., and to rem. seed.)</Text>
+      <Text>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>6639</PageNumber>
     </MainItem>
     <SubItem>
@@ -228,14 +252,18 @@
       <Key>Oppenheim</Key>
       <Title>Maj. and Bt. Lt.-Col.</Title>
       <Forenames>L. C. F.</Forenames>
-      <Text>, C.M.G. (rel. commn.,. and granted rank of Lt.-Col., with permission to wear prescribed uniform)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>6641</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Reilly, Capt. C. A. P. (rel. rank of Capt. on re-enlistment)</Text>
+      <Key>O'Reilly</Key>
+      <Title>Capt.</Title>
+      <Forenames>C. A. P.</Forenames>
+      <Text>(rel. rank of Capt. on re-enlistment)</Text>
       <PageNumber>5034</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -267,7 +295,10 @@
     <MainItem>
       <Key>Orpen-Palmer</Key>
       <Title>Maj. and Bt. Lt.</Title>
-      <Text>Col. H. B. H., C.M.G., D.S.O. (Col., from R. Ir. Fus.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6378</PageNumber>
     </MainItem>
     <SubItem>
@@ -282,7 +313,9 @@
       </Key>
       <Title>Lt.-Col.</Title>
       <Forenames>R. A. H.</Forenames>
-      <Text>, D.S.O. (trd. to E. Surrey Regt. from Leinster Regt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5524</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -395,8 +428,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Toole, Lt. A. H. (retires, receiving a gratuity)</Text>
+      <Key>O'Toole</Key>
+      <Title>Lt.</Title>
+      <Forenames>A. H.</Forenames>
+      <Text>(retires, receiving a gratuity)</Text>
       <PageNumber>6442</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -405,7 +440,9 @@
       <Key>Otway</Key>
       <Title>Capt.</Title>
       <Forenames>H. F.</Forenames>
-      <Text>, M.C. (Capt., Lan. Fus., from Leinster R.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6639</PageNumber>
     </MainItem>
     <SubItem>
@@ -418,7 +455,9 @@
       <Key>Oulton</Key>
       <Title>Capt.</Title>
       <Forenames>W. P.</Forenames>
-      <Text>, M.C. (Capt., Glo'ster R., from R. Ir. Regt.j</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5609</PageNumber>
     </MainItem>
     <SubItem>
@@ -483,7 +522,9 @@
       <Key>Owen</Key>
       <Title>Lt.-Col. (ret. pay)</Title>
       <Forenames>R. C. R.</Forenames>
-      <Text>, C. M.G., O.B.E. (ceases to belong to Res. of Off., having attained the age limit of liability to recall)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>5362</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -503,7 +544,9 @@
       <Key>Oxborrow</Key>
       <Title>Lt.</Title>
       <Forenames>C. C</Forenames>
-      <Text>, M.C. (rel. appt. of Adjt. on ceasing to be empld. with Tank Corps)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5362</PageNumber>
     </MainItem>
     <SubItem>
@@ -527,7 +570,9 @@
       <Key>Oxley</Key>
       <Title>Gent. Cadet</Title>
       <Forenames>Richard George Reginald</Forenames>
-      <Text>(2nd Lt., K.R.R.C.)</Text>
+      <Text>
+        <Honour>R.R.C.</Honour>
+      </Text>
       <PageNumber>6380</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -547,7 +592,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>G. F.</Forenames>
-      <Text>, D.S.O. (retires, receiving a gratuity)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6577</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -556,7 +603,9 @@
       <Key>Paget</Key>
       <Title>Lt. (attd. Tank Corps)</Title>
       <Forenames>A. P. B.</Forenames>
-      <Text>, M.C. (retires, receiving a gratuity)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5203</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -633,7 +682,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>H. W. T.</Forenames>
-      <Text>, D.S.O. (Adjt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5203</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -666,7 +717,10 @@
       </Key>
       <Title>temp. Chapln., 2nd CI., Rev.</Title>
       <Forenames>R.</Forenames>
-      <Text>, D.S.O., M.C. (rel. commn., and to be Hon. Chapln., 2nd CI.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5204</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -677,7 +731,11 @@
       </Key>
       <Title>Lt.-Col.</Title>
       <Forenames>R. A. H. Orpen</Forenames>
-      <Text>, see Orpen-Palmer, Lt.-Col. R. A. H. Pannall, Capt. and Bt. Maj. C, D. S.O., M.C. (seed, for service as an Adjt., T.A.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>D. S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6840</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -686,7 +744,9 @@
       <Key>Panton</Key>
       <Title>Lt.</Title>
       <Forenames>J. Barrie</Forenames>
-      <Text>, see BarriePanton, Lt. J. Parbury, Maj. H. F., M.C. (Maj., 17th/21st L., from 17th L.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5706</PageNumber>
     </MainItem>
     <SubItem>
@@ -698,7 +758,10 @@
     <MainItem>
       <Key>Tares</Key>
       <Title>Surg.</Title>
-      <Text>-Lt.-Col. Basil, C.M.G., D.S.O. (retires on ret. pay on acc. of ill-health), Sub. Not</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5865</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -707,7 +770,9 @@
       <Key>Pargiter</Key>
       <Title>Capt.</Title>
       <Forenames>A. P.</Forenames>
-      <Text>, M.C. (trd. to The Queen's Regt., from R. Ir. Regt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5524</PageNumber>
     </MainItem>
     <SubItem>

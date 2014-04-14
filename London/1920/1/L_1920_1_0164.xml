@@ -20,7 +20,9 @@
     <MainItem>
       <Key>Sheridan</Key>
       <Forenames>Matthew Joseph</Forenames>
-      <Text>, M.B.E., Offioer, Order of the, British Empire .. '</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3804</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -67,7 +69,9 @@
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Thomas William</Forenames>
-      <Text>, M.D., Officer, Order of the Britiah Empire</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3804</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -94,7 +98,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Wilfred Maurice</Forenames>
-      <Text>, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>11</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -271,7 +277,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>William Anker</Forenames>
-      <Text>, C.B.E., J.P., Knight Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>3760</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -279,7 +287,9 @@
     <MainItem>
       <Key>Simner</Key>
       <Forenames>T.</Forenames>
-      <Text>/Lt.-Col. Percy Reginald Owen Abel, D.S.O., Bar to D.S.O</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1218</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -319,7 +329,9 @@
     <MainItem>
       <Key>Simpkin</Key>
       <Forenames>Oswald Richard Arthur</Forenames>
-      <Text>, O.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3772</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -346,7 +358,9 @@
       </Key>
       <Title>Miss</Title>
       <Forenames>Annie Louise</Forenames>
-      <Text>, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3804</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -378,7 +392,11 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>James Bertie</Forenames>
-      <Text>, M.D..T.D., D.L., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+        <Honour>T.D.</Honour>
+        <Honour>D.L.</Honour>
+      </Text>
       <PageNumber>3804</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -408,7 +426,9 @@
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Joseph</Forenames>
-      <Text>, I.S.O., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>I.S.O</Honour>
+      </Text>
       <PageNumber>3772</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -465,7 +485,9 @@
     <MainItem>
       <Key>Simson</Key>
       <Forenames>Richard Arbuthnot</Forenames>
-      <Text>, O.B.E., Commander, Order of the ' British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3772</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -525,7 +547,9 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>John</Forenames>
-      <Text>, M.D., M.R.C.P., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>1237</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -536,7 +560,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>William Carfrao Craw</Forenames>
-      <Text>, Companion, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>1218</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -581,7 +607,9 @@
       <Key>Sinzininex</Key>
       <Title>Miss</Title>
       <Forenames>Mary Clewly</Forenames>
-      <Text>, A.R.R.C., Royal Red Cross, 1st CI</Text>
+      <Text>
+        <Honour>A.R.R.C.</Honour>
+      </Text>
       <PageNumber>1917</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -768,7 +796,9 @@
     <MainItem>
       <Key>Small</Key>
       <Forenames>T.</Forenames>
-      <Text>/Lt. Edward Alfred, Companion, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>920</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -805,7 +835,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Smallwood</Key>
-      <Text>.Richard Coningsby.Commander, Order of the British Empire</Text>
+      <Forenames>Richard Coningsby</Forenames>
+      <Text>.Commander, Order of the British Empire</Text>
       <PageNumber>3772</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -830,7 +861,9 @@
       <Key>Smeddle</Key>
       <Title>Maj.</Title>
       <Forenames>John Henry</Forenames>
-      <Text>, T.D., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>3804</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -901,7 +934,9 @@
       </Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Arthur George Baird</Forenames>
-      <Text>, Companion, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>1218</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -933,7 +968,9 @@
         <KeyDitto>___ —— ___</KeyDitto>
       </Key>
       <Forenames>Clarence Dalrymple</Forenames>
-      <Text>, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3804</PageNumber>
     </MainItem>
   </ItemGroup>

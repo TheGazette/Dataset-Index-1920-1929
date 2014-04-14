@@ -42,7 +42,9 @@
         <KeyDitto>-</KeyDitto>
       </Key>
       <Forenames>Neville</Forenames>
-      <Text>, Ralph, J.P., D.L., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.L.</Honour>
+      </Text>
       <PageNumber>10612</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -69,7 +71,10 @@
       <Key>Newmarch</Key>
       <Title>Gnr.</Title>
       <Forenames>Henry Clarence</Forenames>
-      <Text>, M.B.E., Member, 5th CI., Royal Victorian Order</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>9987</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -79,7 +84,9 @@
         <KeyDitto>-</KeyDitto>
       </Key>
       <Forenames>Newport</Forenames>
-      <Text>, Surg-Comdr. Alexander Charles William, Member, 4th CI., Royal Victorian Order '. ... „</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>9987</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -108,7 +115,11 @@
       <Key>North</Key>
       <Title>Capt.</Title>
       <Forenames>Dudley</Forenames>
-      <Text>, C.M.G., M.V.O., Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>M.V.O.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>9987</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -191,7 +202,9 @@
     <MainItem>
       <Key>Parnell</Key>
       <Title>Lt.</Title>
-      <Text>-Gen. John William, C.M.G., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>10096</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -224,7 +237,9 @@
     <MainItem>
       <Key>Pearse</Key>
       <Forenames>James</Forenames>
-      <Text>, M.D., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>11556</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -264,7 +279,9 @@
     <MainItem>
       <Key>Perowne</Key>
       <Forenames>John Victor Thomas Woolrych Tait</Forenames>
-      <Text>, Esquire, St. John of Jerusalem</Text>
+      <Text>
+        <Honour>Esquire, St. John of Jerusalem</Honour>
+      </Text>
       <PageNumber>10407</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -306,7 +323,10 @@
       <Key>Pitts</Key>
       <Title>Capt.</Title>
       <Forenames>Joseph</Forenames>
-      <Text>, O.B.E., M.C., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10612</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -323,7 +343,10 @@
       <Key>Ponsonby</Key>
       <Title>The Right Hon. Sir</Title>
       <Forenames>Frederick Edward Grey</Forenames>
-      <Text>, K.C.B., K.C.V.O., Treasurer to H.M. the King, and Keeper of the Privy. Purse</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>K.C.V.O.</Honour>
+      </Text>
       <PageNumber>9988</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -381,7 +404,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Price</Key>
-      <Text>Bernard, Officer, Order of the British Empire</Text>
+      <Forenames>Bernard</Forenames>
+      <Text>, Officer, Order of the British Empire</Text>
       <PageNumber>10098</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -416,7 +440,9 @@
     <MainItem>
       <Key>Rattigan</Key>
       <Forenames>William Frank Arthur</Forenames>
-      <Text>, C.M.G., Counsellor of Embassy in H.M. Diplomatic Service :</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>12591</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -447,7 +473,12 @@
   <ItemGroup>
     <MainItem>
       <Key>Rawlinson</Key>
-      <Text>of Trent, Baron, G.C.B., G.C.V.O., K.C.M.G., A.D.C., Member of the Executive Council of the Governor-General of India , .,</Text>
+      <Text>
+        <Honour>G.C.B.</Honour>
+        <Honour>G.C.V.O.</Honour>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>A.D.C.</Honour>
+      </Text>
       <PageNumber>12301</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -472,7 +503,9 @@
     <MainItem>
       <Key>Rees</Key>
       <Forenames>David</Forenames>
-      <Text>, O.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>10098</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -481,7 +514,10 @@
       <Key>Reid</Key>
       <Title>Maj. and Bt. Lt.-Col.</Title>
       <Forenames>Hector Gowans</Forenames>
-      <Text>, C.M.G., D.S.O. Commander, Order of the Bitish Empire</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>10165</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -518,8 +554,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Rentoul</Key>
-      <Forenames>The</Forenames>
-      <Text>Rt. Rev. John Laurence, M.A., Officer, Order of the British Empire</Text>
+      <Title>The Rt. Rev.</Title>
+      <Forenames>John Laurence</Forenames>
+      <Text>, M.A., Officer, Order of the British Empire</Text>
       <PageNumber>10096</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -544,7 +581,9 @@
       <Key>Rhodes</Key>
       <Title>Capt.</Title>
       <Forenames>Arthur Tahu Gravenor</Forenames>
-      <Text>, Member, 4th CI., Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>9987</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -603,7 +642,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>The Most</Forenames>
+      <Title>The</Title>
+      <Forenames>Most</Forenames>
       <Text>Rev. Archbishop Charles Owen Leaver. Officer, Order of the</Text>
       <PageNumber>10096</PageNumber>
     </MainItem>

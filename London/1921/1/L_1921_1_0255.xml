@@ -44,7 +44,9 @@
       <Key>Constable</Key>
       <Title>(Hon. Col.)</Title>
       <Forenames>E. A. Harnett</Forenames>
-      <Text>, W. F., C.B.E., V.D. (and</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>283</PageNumber>
     </MainItem>
     <SubItem>
@@ -55,8 +57,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Hickman</Key>
-      <Forenames>R. St</Forenames>
-      <Text>. J., V.D Llewhellin, G. E., V.D., A.D.C</Text>
+      <Forenames>R. St. J</Forenames>
+      <Text>
+        <Honour>A.D.C</Honour>
+      </Text>
       <PageNumber>2228</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -72,7 +76,9 @@
     <MainItem>
       <Key>Pugh</Key>
       <Forenames>A. J.</Forenames>
-      <Text>«, O.B.E., V;D., A.D.C</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>2098</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -81,10 +87,12 @@
       <Key>Smith</Key>
       <Forenames>C</Forenames>
       <Text>G., O.B.E</Text>
-      <PageNumber>2228</PageNumber>
     </MainItem>
-    <SectionTitle>Majors</SectionTitle>
-    <SectionTitle>Relinquishment of Commissions</SectionTitle>
+    <Honour>
+      <PageNumber>2228</PageNumber>
+      <SectionTitle>Majors</SectionTitle>
+      <SectionTitle>Relinquishment of Commissions</SectionTitle>
+    </Honour>
     <SubItem>
       <Text>D.S.O., V.D</Text>
       <PageNumber>1902</PageNumber>
@@ -482,7 +490,9 @@
     <MainItem>
       <Key>Khan</Key>
       <Forenames>Sikandar Hayat Khan</Forenames>
-      <Text>, M.B.E., of Wah</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>1284</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -505,7 +515,9 @@
     <MainItem>
       <Key>Malik</Key>
       <Forenames>Sirdar Khan Nun</Forenames>
-      <Text>, M.B.E., of Shahpur</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>1284</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -543,7 +555,9 @@
     <MainItem>
       <Key>Shahid</Key>
       <Forenames>Husain</Forenames>
-      <Text>, O.B.E., The Hon., Sheikh of Lucknow</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>1284</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -718,7 +732,9 @@
       <Key>Carpendale</Key>
       <Title>Capt.</Title>
       <Forenames>Charles D.</Forenames>
-      <Text>, CB</Text>
+      <Text>
+        <Honour>CB</Honour>
+      </Text>
       <PageNumber>1997</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -735,7 +751,9 @@
       <Key>Kelly</Key>
       <Title>Capt.</Title>
       <Forenames>John D.</Forenames>
-      <Text>, C.B</Text>
+      <Text>
+        <Honour>C.B</Honour>
+      </Text>
       <PageNumber>2407</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -744,7 +762,9 @@
       <Key>Leake</Key>
       <Title>Capt.</Title>
       <Forenames>Francis M.</Forenames>
-      <Text>, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>2407</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -752,7 +772,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Fan</Key>
-      <Text>'shawe, Basil H., O.B.E</Text>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>1899</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -767,7 +789,9 @@
     <MainItem>
       <Key>Heard</Key>
       <Forenames>Hugh L. P.</Forenames>
-      <Text>, D.S.O., A.D.C</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1899</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -775,7 +799,10 @@
     <MainItem>
       <Key>Molteno</Key>
       <Forenames>Vincent B.</Forenames>
-      <Text>, C.B., A.D.C</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>A.D.C</Honour>
+      </Text>
       <PageNumber>2304</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -783,7 +810,11 @@
     <MainItem>
       <Key>Smith</Key>
       <Forenames>Aubrey C. H.</Forenames>
-      <Text>, C.B., M.V.O., A.D.C</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>M.V.O.</Honour>
+        <Honour>A.D.C</Honour>
+      </Text>
       <PageNumber>1063</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -792,7 +823,10 @@
     <MainItem>
       <Key>Booty</Key>
       <Forenames>Edward L.</Forenames>
-      <Text>, C.B., M.V.O</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>M.V.O</Honour>
+      </Text>
       <PageNumber>949</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -800,7 +834,9 @@
     <MainItem>
       <Key>Drury-Lowe</Key>
       <Forenames>Sidney E.</Forenames>
-      <Text>, C.M.G</Text>
+      <Text>
+        <Honour>C.M.G</Honour>
+      </Text>
       <PageNumber>1899</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -808,7 +844,9 @@
     <MainItem>
       <Key>Fanshawe</Key>
       <Forenames>Basil H.</Forenames>
-      <Text>, C.B.E</Text>
+      <Text>
+        <Honour>C.B.E</Honour>
+      </Text>
       <PageNumber>1899</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -823,7 +861,10 @@
     <MainItem>
       <Key>Learmouth</Key>
       <Forenames>Frederick C</Forenames>
-      <Text>, C.B., CB.E</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>CB</Honour>
+      </Text>
       <PageNumber>2304</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -831,7 +872,9 @@
     <MainItem>
       <Key>Molteno</Key>
       <Forenames>Vincent B.</Forenames>
-      <Text>, C.B</Text>
+      <Text>
+        <Honour>C.B</Honour>
+      </Text>
       <PageNumber>2406</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -856,7 +899,10 @@
     <MainItem>
       <Key>Campbell</Key>
       <Forenames>J. D.</Forenames>
-      <Text>, M.V.O., O.B.E</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>10</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -878,7 +924,9 @@
     <MainItem>
       <Key>Hardman-Jones</Key>
       <Forenames>E. J.</Forenames>
-      <Text>, O.B.E</Text>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>10</PageNumber>
     </MainItem>
   </ItemGroup>

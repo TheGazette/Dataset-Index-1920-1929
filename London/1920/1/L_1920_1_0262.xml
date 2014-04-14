@@ -300,7 +300,9 @@
       <Key>Emmctt</Key>
       <Title>Lt.</Title>
       <Forenames>A. A.</Forenames>
-      <Text>, M.C. (rel. actg. rank of Maj. and reverts to actg. rank of Capt. whilst a Dist. T.M. Offr.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>669</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -331,7 +333,9 @@
       <Key>Emsley</Key>
       <Title>Lt.</Title>
       <Forenames>H.</Forenames>
-      <Text>, M.C. (resigns commn. and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1062</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -382,8 +386,8 @@
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
       <Title>Lt.</Title>
-      <Forenames>F.</Forenames>
-      <Text>de F. (resigns commn. and retains rank of Lt.)</Text>
+      <Forenames>F. de F</Forenames>
+      <Text>. (resigns commn. and retains rank of Lt.)</Text>
       <PageNumber>2327</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -403,7 +407,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>W.</Forenames>
-      <Text>, M.B.E. (restd. to estabt.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>1518</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -430,7 +436,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Ennett</Key>
-      <Text>.temp. Lt. R. H. (rel. commn. on completion of service and retains rank of Lt.)</Text>
+      <Title>temp. Lt.</Title>
+      <Forenames>R. H.</Forenames>
+      <Text>(rel. commn. on completion of service and retains rank of Lt.)</Text>
       <PageNumber>808</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -481,7 +489,9 @@
       <Key>Ensor</Key>
       <Title>temp. 2nd Lt.</Title>
       <Forenames>B. W.</Forenames>
-      <Text>, M.M. (rel. commn. on acc. of illhealth and retains rank of 2nd Lt.)</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>1063</PageNumber>
     </MainItem>
     <SubItem>
@@ -495,7 +505,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Title>Maj. and Ord. Offr., 4th CI.</Title>
-      <Text>, F. C. C, O.B.E. (actg. Ord. Offr., 3rd Cl.j</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>1360</PageNumber>
     </MainItem>
     <SubItem>
@@ -508,7 +520,9 @@
       <Key>Entwistle</Key>
       <Title>Lt.</Title>
       <Forenames>A. B.</Forenames>
-      <Text>, M.C. (resigns commn. and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3512</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -535,7 +549,9 @@
       <Key>Erskine</Key>
       <Title>Maj. and Bt. Lt.-Col.</Title>
       <Forenames>A. E.</Forenames>
-      <Text>, D.S.O. (rel. actg. rank of Lt.Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>179</PageNumber>
     </MainItem>
     <SubItem>
@@ -556,7 +572,7 @@
       <PageNumber>1661</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Rel. commn. on completion of service and granted rank of Capt</Text>
+      <Text>Rel. commn. on completion of service and granted rank of Capt.</Text>
       <PageNumber>1929</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -582,11 +598,13 @@
       <Key>Erskine-Murray</Key>
       <Title>Supern. Maj.</Title>
       <Forenames>A.</Forenames>
-      <Text>, D.S.O. (restd. to estabt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>292</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Seed, for service with-the T.F</Text>
+      <Text>Seed, for service with-the T.F.</Text>
       <PageNumber>3986</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -608,7 +626,9 @@
       <Key>Esmond</Key>
       <Title>temp. Lt.</Title>
       <Forenames>G.</Forenames>
-      <Text>, M.C. (actg. Capt. comdg. a Co., A. of O., corr. of date), Sub. Not</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1653</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -617,7 +637,9 @@
       <Key>Esmonde</Key>
       <Title>Lt.</Title>
       <Forenames>J.</Forenames>
-      <Text>, M.C. (restd. to to estabt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1775</PageNumber>
     </MainItem>
     <SubItem>
@@ -630,7 +652,9 @@
       <Key>Essame</Key>
       <Title>Lt.</Title>
       <Forenames>H.</Forenames>
-      <Text>, M.C. (restd. to estabt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1519</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -639,7 +663,9 @@
       <Key>Esselen</Key>
       <Title>temp. Capt.</Title>
       <Forenames>F. W.</Forenames>
-      <Text>, M.C. (rel. temp, commn. on ceasing to be empld. and retains rank of. Capt.), Sub. Not</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4004</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -668,7 +694,9 @@
       <Key>Esslemont</Key>
       <Title>Mrs.</Title>
       <Forenames>D. L.</Forenames>
-      <Text>, O.B.E. (ceases to be empld. asD.A.C.C, Q.M.A.A.C.) ... -</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>1343</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -688,7 +716,9 @@
       </Key>
       <Title>Med.</Title>
       <Forenames>Official H. W.</Forenames>
-      <Text>(rel. appt., Q.M.A.A.C., Auxiliary Section, R.A.M.C., attd.) '</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1810</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -712,7 +742,9 @@
       </Key>
       <Title>Capt. (late temp. Maj.)</Title>
       <Forenames>C. E.</Forenames>
-      <Text>, O.B.E. (Maj., Gen. Res. of Offrs.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>490</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -767,7 +799,10 @@
       <Key>Evans</Key>
       <Title>Maj.</Title>
       <Forenames>A. P.</Forenames>
-      <Text>, D.S.O. (rel. temp, rank of Lt.-Col. on ceasing to be empld. with M.G.C. Infy.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>2038</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -793,7 +828,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>B. P.</Forenames>
-      <Text>, M.C. (Adjt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1533</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -804,7 +841,11 @@
       </Key>
       <Title>Supern. Lt.-Col.</Title>
       <Forenames>C</Forenames>
-      <Text>, C.B., C.M.G., D.S.O. (restd. to estabt.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>816</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -836,7 +877,9 @@
       </Key>
       <Title>temp. Hon. Lt.</Title>
       <Forenames>C. H.</Forenames>
-      <Text>, M.D. (rel. commn. and retains hon. rank at Lt.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>1343</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -943,7 +986,7 @@
       <PageNumber>292</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Dismissed the Service by sentence of a G.C.M</Text>
+      <Text>Dismissed the Service by sentence of a G.C.M.</Text>
       <PageNumber>293</PageNumber>
     </SubItem>
   </ItemGroup>

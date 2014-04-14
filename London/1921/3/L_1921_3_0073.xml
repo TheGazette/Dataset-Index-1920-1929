@@ -3,7 +3,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Capt</Key>
-      <Text>. J. (Capt., Cl. II., Reg. Army Res. of Offrs., late R.A.V.C.)</Text>
+      <Forenames>J.</Forenames>
+      <Text>
+        <Honour>V.C.</Honour>
+      </Text>
       <PageNumber>6561</PageNumber>
     </MainItem>
     <SubItem>
@@ -22,21 +25,28 @@
   <ItemGroup>
     <MainItem>
       <Key>Reg</Key>
-      <Text>. Army Res. of Offrs., Gen. List, late Tank Corps)</Text>
+      <Forenames>Army Res</Forenames>
+      <Text>. of Offrs., Gen. List, late Tank Corps)</Text>
       <PageNumber>7645</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>M</Key>
-      <Text>.C. (temp. Lt.-Col. for service with Frontier Districts Administration. Egypt)</Text>
+      <Text>
+        <Honour>C.</Honour>
+      </Text>
       <PageNumber>5799</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Capt</Key>
-      <Text>. E. W. G. Aylwin, D.S.O., see Aylwin-Foster, Capt. E. W. F., D.S.O. F. B. L. (granted temp, rank as Lt. for services with Forces in E. Africa)</Text>
+      <Forenames>E. W. G. Aylwin</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6338</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -54,7 +64,8 @@
   <ItemGroup>
     <MainItem>
       <Key>J</Key>
-      <Text>. H. (granted temp, rank as 2nd Lt. for services with Forces in E. Africa)</Text>
+      <Forenames>H.</Forenames>
+      <Text>(granted temp, rank as 2nd Lt. for services with Forces in E. Africa)</Text>
       <PageNumber>6341</PageNumber>
     </MainItem>
     <SubItem>
@@ -89,7 +100,9 @@
       <Key>Fox</Key>
       <Title>Maj.</Title>
       <Forenames>C. V.</Forenames>
-      <Text>, D.S.O. (local Lt.Col. whilst empld. as Dep. lnspr.-Gen of Arab Levies)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7300</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -111,7 +124,9 @@
       </Key>
       <Title>temp. Capt.</Title>
       <Forenames>H. A.</Forenames>
-      <Text>, O.B.E. (rel. commn. on completion of service and granted rank of Maj.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>5316</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -198,7 +213,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>W.</Forenames>
-      <Text>, O.B.E. (Cameronians) (placed on ret. pay on attaining the age fixed for compulsory retirement), Sub. Not</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>5308</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -269,7 +286,9 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>N. P.</Forenames>
-      <Text>, M.B.E. (rel. commn. on completion of service and granted iank of Capt.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>5709</PageNumber>
     </MainItem>
   </ItemGroup>

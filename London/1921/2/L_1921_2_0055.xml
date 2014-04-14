@@ -72,7 +72,9 @@
       </Key>
       <Title>temp. 2nd Lt.</Title>
       <Forenames>C. H. C</Forenames>
-      <Text>, M.B.E. (Not. in Gaz. of 31st May 1919 cancelled)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3251</PageNumber>
     </MainItem>
     <SubItem>
@@ -87,7 +89,10 @@
       </Key>
       <Title>temp. Hon. Col.</Title>
       <Forenames>Charles John</Forenames>
-      <Text>, C.M.G., F.R.C.S. (rel. commn., and retains hon. rank of Col.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>4985</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -98,11 +103,15 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>C. M.</Forenames>
-      <Text>, M.C. (ceases to be</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>___</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>empld.. with M.G.C., Infy.)</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>4172</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -113,7 +122,9 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>E. R. P.</Forenames>
-      <Text>, M.C. (rel. commn. on completion of service, and granted rank, of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4984</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -134,7 +145,9 @@
       <Key>Bone</Key>
       <Title>temp. Lt.</Title>
       <Forenames>C. C</Forenames>
-      <Text>, M.M. (actg. Capt.)</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>3987</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -143,7 +156,9 @@
       <Key>Boney</Key>
       <Title>Capt.</Title>
       <Forenames>Thomas K.</Forenames>
-      <Text>, M.D. (rel. actg. rank of Maj.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>4712</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -152,7 +167,9 @@
       <Key>Bonfield</Key>
       <Title>temp. Capt.</Title>
       <Forenames>John P.</Forenames>
-      <Text>, M.C., M.B. (rel. commn., and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4901</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -280,7 +297,12 @@
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Borrett</Forenames>
-      <Text>, Bt. Col. O. C, C.M.G., D.S.O., A.D.C. (rel. temp, rank of Brig.-Gen. and to be temp. Col. Comdt. whilst holding present appt.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>A.D.C.</Honour>
+      </Text>
       <PageNumber>4387</PageNumber>
     </MainItem>
     <SubItem>
@@ -297,7 +319,9 @@
       <Key>Borthwick</Key>
       <Title>Lt.</Title>
       <Forenames>L. C.</Forenames>
-      <Text>.(rel. temp, rank of Capt. on ceasing to be empld. with M.G.C., Infy.)</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>4619</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -315,7 +339,9 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>temp, Lt. W. H., M.C. (rel. commn. on completion of service, and granted rank of Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2780</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -324,7 +350,9 @@
       <Key>Bosanquet</Key>
       <Title>Lt.</Title>
       <Forenames>A. R.</Forenames>
-      <Text>, M.C. (Capt,)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4264</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -433,28 +461,36 @@
       <Key>Bosvile</Key>
       <Title>Lt.</Title>
       <Forenames>T. J. B.</Forenames>
-      <Text>. M.C. (Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3729</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Bott</Key>
-      <Text>temp. Lt. S. (rel. commn. on completion of service, and retains rank of Lt.)</Text>
+      <Title>temp. Lt.</Title>
+      <Forenames>S.</Forenames>
+      <Text>(rel. commn. on completion of service, and retains rank of Lt.)</Text>
       <PageNumber>2626</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Botterill</Key>
-      <Text>tomp. Lt. G. V., M.C. (rel. commn. on completion of service, and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3350</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Bottome</Key>
-      <Text>temp. Maj. G. McD. (rel. commn. on ceasing to be empld., and retains rank of Maj.)</Text>
+      <Title>temp. Maj.</Title>
+      <Forenames>G.</Forenames>
+      <Text>McD. (rel. commn. on ceasing to be empld., and retains rank of Maj.)</Text>
       <PageNumber>3161</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -474,14 +510,18 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>N. H.</Forenames>
-      <Text>, A.F.C. (rel. commn. on appt. to R.A.F.), Sub. Not</Text>
+      <Text>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>3997</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Bouch</Key>
-      <Text>temp. Lt. C. M. L. (rel. commn. on completion of service, and retains rank of Lt.)</Text>
+      <Title>temp. Lt.</Title>
+      <Forenames>C. M. L.</Forenames>
+      <Text>(rel. commn. on completion of service, and retains rank of Lt.)</Text>
       <PageNumber>3163</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -497,7 +537,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Boulden</Key>
-      <Text>temp. Lt. J. (rel. commn. on completion of service, and retains rank of Lt.)</Text>
+      <Title>temp. Lt.</Title>
+      <Forenames>J.</Forenames>
+      <Text>(rel. commn. on completion of service, and retains rank of Lt.)</Text>
       <PageNumber>4169</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -506,7 +548,9 @@
       <Key>Boultbee</Key>
       <Title>Lt.</Title>
       <Forenames>B. St</Forenames>
-      <Text>. J., M.C. (restd. to estabt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3169</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -515,7 +559,9 @@
       <Key>Boulter</Key>
       <Title>temp.</Title>
       <Forenames>Capt</Forenames>
-      <Text>, F. C, M.C. (rel. commn. on completion of service, and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4990</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -3,14 +3,22 @@
   <ItemGroup>
     <MainItem>
       <Key>Mossop</Key>
-      <Text>. temp. Maj. A. I., D.S.O. (rel. appt. as Dep. Asst. Prov.Marshal, CI. FF., attd. to Hd.Qr. Unit)</Text>
+      <Title>temp. Maj.</Title>
+      <Forenames>A. I.</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5545</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Munby</Key>
-      <Text>Bt, Lt.-Col. J. E., C.M.G., D.S.O. (D.A.A. and Q.M.G., from a Brig.-Maj.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5996</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -19,7 +27,11 @@
       <Key>Murdoch</Key>
       <Title>Maj.</Title>
       <Forenames>I. Burn</Forenames>
-      <Text>, O.B.E., see Burn-Murdoch, Maj. I., O.B.E. Murohy, Capt. F. C, M.C. (temp. G.S.O., 3rd Gr.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6655</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -37,7 +49,10 @@
       <Key>Needham</Key>
       <Title>Bt. Col.</Title>
       <Forenames>H.</Forenames>
-      <Text>, C.M.G., D.S.O. (temp. spec, appt., CI X)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7299</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -57,14 +72,18 @@
       <Key>Neilson</Key>
       <Title>Bt. Lt.-Col.</Title>
       <Forenames>W. G.</Forenames>
-      <Text>, C.M.G., D.S.O. (rel. appt, as G.S.O., 1st Gr., General Staff, and temp rank of Lt.-Col.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7629</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Nesbitt</Key>
-      <Text>. Capt, E. A. (rel. appt. as Dep. Asst. Dir. of Trans., Hd.Qrs. of Admin. Servs. and Depts., and temp, rank of Maj.)</Text>
+      <Forenames>Capt</Forenames>
+      <Text>, E. A. (rel. appt. as Dep. Asst. Dir. of Trans., Hd.Qrs. of Admin. Servs. and Depts., and temp, rank of Maj.)</Text>
       <PageNumber>5789</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -72,7 +91,9 @@
     <MainItem>
       <Key>Neville</Key>
       <Forenames>Capt</Forenames>
-      <Text>, R, A. R. (A.D.C. to Gov. and C.-in-C, Hong Kong from a G.S.O., 3rd Gr.)</Text>
+      <Text>
+        <Honour>A.D.C.</Honour>
+      </Text>
       <PageNumber>7364</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -81,7 +102,12 @@
       <Key>Newman</Key>
       <Title>Col.</Title>
       <Forenames>E. Harding</Forenames>
-      <Text>, C.M.G., D.S.O., see Harding-Newman, Col. E., C.M.G., D.S.O. ___ ___ Lt, S. E. (temp. Rly. Traffic Offr., CI. HH, Hd.-Qrs. of Admin. Servs. &amp; Depts.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7619</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -143,7 +169,9 @@
       <Key>Norton</Key>
       <Title>Bt. Lt.-Col.</Title>
       <Forenames>A. E.</Forenames>
-      <Text>, D.S.O. (G.S.O., 2nd Gr., from a D.A.A. and Q.M.G.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5897</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -158,22 +186,27 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, Capt. DE. J. (rel. emplt. under Directe. of Graves Registration and Enquiries, CI. FF, A.G's. and Q.M.G's. Staff)</Text>
+      <Key>O'Connor</Key>
+      <Title>Capt.</Title>
+      <Text>DE. J. (rel. emplt. under Directe. of Graves Registration and Enquiries, CI. FF, A.G's. and Q.M.G's. Staff)</Text>
       <PageNumber>7435</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Morchoe, Capt. A. D. MacM. (temp. Dep. Asst. Prov. Marsha], CI. FF, from D.A.P.M., ungraded)</Text>
+      <Key>O'Morchoe</Key>
+      <Title>Capt.</Title>
+      <Forenames>A. D.</Forenames>
+      <Text>MacM. (temp. Dep. Asst. Prov. Marsha], CI. FF, from D.A.P.M., ungraded)</Text>
       <PageNumber>6357</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Shea, Capt. H. (rel. appt. as Comdt., CI. BB, attd. to Hd.Qr. Unit and temp, rank of Maj.)</Text>
+      <Key>O'Shea</Key>
+      <Title>Capt.</Title>
+      <Forenames>H.</Forenames>
+      <Text>(rel. appt. as Comdt., CI. BB, attd. to Hd.Qr. Unit and temp, rank of Maj.)</Text>
       <PageNumber>7443</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -199,7 +232,12 @@
   <ItemGroup>
     <MainItem>
       <Key>Bt</Key>
-      <Text>. Maj. B. C. T., D.S.O., M.C. (rel. appt. as G.S.O., 2nd Gr., General Staff)</Text>
+      <Title>Maj.</Title>
+      <Forenames>B. C. T.</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7303</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -208,11 +246,17 @@
       <Key>Palmer</Key>
       <Title>Lt.</Title>
       <Forenames>C. M. Keppel</Forenames>
-      <Text>, see Keppel-Palmer, Lt. C. M. Panton, Lt. J. Barrie, see BarriePanton, Lt. J. Parburv, Maj. H. F ., M.C. (rel. appt. as A.D.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>A.D.C.</Honour>
+      </Text>
       <PageNumber>5315</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Bt. Maj. A. C. M., M.C. (rel. spec, appt., CI. BB., and temp, rank of Maj.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7033</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -220,7 +264,10 @@
     <MainItem>
       <Key>Parry-Jones</Key>
       <Title>Capt.</Title>
-      <Text>M.M., M.C. (temp. Brig. Maj.)</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6083</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -228,11 +275,16 @@
     <MainItem>
       <Key>Paton</Key>
       <Forenames>Lt H. M.</Forenames>
-      <Text>(temp. spec, appt., CI. FF, and temp. Capt.) Patterson, Lt L., M.C. (temp. spec, appt , CI. GG)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6559</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Col. E. M ., C.B., C.B.E. (re!, temp. appt. as Dep. Dir. of Fortification and Works at War Office, anc temp, rank of Col. on the Staff)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>6930</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -267,7 +319,9 @@
       <Key>Peterson</Key>
       <Title>Mitj.</Title>
       <Forenames>G. L.</Forenames>
-      <Text>, O.B.E. (temp. Dep. Asst. Dir. of Supplies, CI. BB, Hd.-Qrs. of Admin. S.?rvs. and Depts.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>7292</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -278,7 +332,11 @@
       </Key>
       <Title>Capt. (row Lt,, Welch R.)</Title>
       <Forenames>P. H.</Forenames>
-      <Text>(temp. Dep. Asst. Prov.-Marshal, CI. FF, attd. to Hd.-Qr. Unit) Phipps, Col. C. F., D.S.O. (Col., R.A.) Pidsley, Lt, W. G., D.S.O., M.C. (rel. temp. appt. as G.S.O., 3rd Gr., it War Office)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5307</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -295,7 +353,9 @@
     <MainItem>
       <Key>Pitman</Key>
       <Title>Lt.</Title>
-      <Text>i. R. (temp. Ernpld. under Dir ;cte. of Graves Registration and Enquiries, C. II., A.G's. and Q.M.G's. Steff), Sub. Not Pitt-Rivers, Capt. G. H. L. F. (A.D.C.) Pitz, Lt. R. F. (rel. appt. as Rly. Traffic Offr., CI. HH., Hd.-Qrs. of Admin. Servs. and Dtpts.)</Text>
+      <Text>
+        <Honour>A.D.C.</Honour>
+      </Text>
       <PageNumber>6543</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -303,7 +363,9 @@
     <MainItem>
       <Key>Poston</Key>
       <Title>Bt. Lt.-Col.</Title>
-      <Text>\V. .T. L., D.S.O. («1. appt. as D.A.A.G., A.G's. and Q.M.G's. Staff)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7505</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -312,7 +374,10 @@
       <Key>Potter</Key>
       <Title>Bt. Col.</Title>
       <Forenames>H. C</Forenames>
-      <Text>, C.M.G., D.S.O. (temp. Brig. Comdr. and temp. Col. Comdt.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6651</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -348,11 +413,16 @@
       <Key>Ransome</Key>
       <Title>Bt. Lt.-Col.</Title>
       <Forenames>A. L.</Forenames>
-      <Text>, D.S.O., M.C. (D.A.A. and Q.M.G., from a Brig. Maj., T.F.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6083</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>___ ___ ___ Lt. S. B., M.C. (rel. appt. as -D-C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6559</PageNumber>
     </SubItem>
     <SubItem>
@@ -360,11 +430,16 @@
       <PageNumber>7364</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>___ ___ ___ temp. Maj. J. M., D.C.M. (temp. Dep. Asst. Prov,Marshal, CI. FF, from D.A.P.M., ungraded)</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>6357</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>Riddell-Webster, Bt. Maj. T. S., D.S.O. (Brig. Maj.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6749</PageNumber>
     </SubItem>
     <SubItem>

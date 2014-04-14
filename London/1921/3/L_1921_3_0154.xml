@@ -21,7 +21,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Back</Key>
-      <Text>. Capt. P. G. (trd. to T.F.R., Gen. List. R.A., from 1st E. Angl. Bde.) ;</Text>
+      <Title>Capt.</Title>
+      <Forenames>P. G.</Forenames>
+      <Text>(trd. to T.F.R., Gen. List. R.A., from 1st E. Angl. Bde.) ;</Text>
       <PageNumber>6920</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -55,14 +57,20 @@
   <ItemGroup>
     <MainItem>
       <Key>Badgl-y</Key>
-      <Text>. Capt. J. M. C, M.C. (resign*, commn. and retains rank of Capt.)</Text>
+      <Title>Capt.</Title>
+      <Forenames>J. M. C</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5620</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Bagley</Key>
-      <Text>. 2nd Lt. C. II. F. (rel. oommn. and retains rank of 2nd Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>C.</Forenames>
+      <Text>II. F. (rel. oommn. and retains rank of 2nd Lt.)</Text>
       <PageNumber>5802</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -99,7 +107,9 @@
       <Key>Baguley</Key>
       <Title>Maj.</Title>
       <Forenames>E. E.</Forenames>
-      <Text>, T.D. (retired, having attained tlhe age limit, and retains rank of Maj., with permission to wear prescribed uniform)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>5904</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -117,7 +127,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bailey</Key>
-      <Text>. Lt, G. S. (trd. to T.F.R.. Regtl. List. Infv., from 7th Bn.. D.W.R.) ..'</Text>
+      <Forenames>Lt</Forenames>
+      <Text>, G. S. (trd. to T.F.R.. Regtl. List. Infv., from 7th Bn.. D.W.R.) ..'</Text>
       <PageNumber>6348</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -127,7 +138,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Lt</Forenames>
-      <Text>, J. W.. M.C. (Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6755</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -144,7 +157,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Baillie</Key>
-      <Text>. Lt.-Col. (Bt. Col.) (Hon. Lt. in Armv) A. C, D.S.O. (Col.)</Text>
+      <Title>Lt.-Col. (Bt. Col.) (Hon. Lt. in Armv)</Title>
+      <Forenames>A. C</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7211</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -178,21 +195,29 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>A. A.</Forenames>
-      <Text>. M.C. (resigns commn. and retains rank of Lt,)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7296</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Baird</Key>
-      <Text>. Maj. A. H.. O.B.E. (rel. oraimn. ,md retains rank of Maj. with permission to wear prescribed uniform)</Text>
+      <Title>Maj.</Title>
+      <Forenames>A. H.</Forenames>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>5711</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Baker</Key>
-      <Text>. Lt. A. C. (Lt.. 4th Bn., Ginger R.. late Ser. Bns.) Sub. Not</Text>
+      <Title>Lt.</Title>
+      <Forenames>A. C.</Forenames>
+      <Text>(Lt.. 4th Bn., Ginger R.. late Ser. Bns.) Sub. Not</Text>
       <PageNumber>7039</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -321,7 +346,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>W. F.</Forenames>
-      <Text>, T.D. (trd. to T.F.R., Regtl. List, Infy from 5th Bn., Devon R.)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>7519</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -330,7 +357,11 @@
       <Key>Ballance</Key>
       <Title>Col. Sir</Title>
       <Forenames>H. A.</Forenames>
-      <Text>, K.B.E., C.B., M.D., F.R.C.S, (resigns oommn. and retains rank of Col.)</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>5711</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -366,7 +397,9 @@
       <Key>Banks</Key>
       <Title>Maj.</Title>
       <Forenames>T. W.</Forenames>
-      <Text>, M.B., T.D. (retired, having attained the age limit, and retains rank of Maj., with permission to wear prescribed uniform)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>7649</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -414,7 +447,11 @@
       <Key>Barclav</Key>
       <Title>Maj.</Title>
       <Forenames>William</Forenames>
-      <Text>, M.C., M.B. (Capt., Gen. List, R.A.M.C., late R.A.M.C., Spec. Res., and rel. temp rank of Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6156</PageNumber>
     </MainItem>
     <SubItem>
@@ -432,7 +469,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>W. J.</Forenames>
-      <Text>. M.C. (resigns commn. and granted rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6837</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -448,7 +487,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Barker</Key>
-      <Text>. Maj. C, T.D. (retired, having attained the age limit and retains rank of Maj., with permission to wear prescribed uniform)</Text>
+      <Title>Maj.</Title>
+      <Forenames>C</Forenames>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>6920</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -475,35 +518,44 @@
   <ItemGroup>
     <MainItem>
       <Key>Barmrd</Key>
-      <Text>. Lt. A. C. (trd. to 4th (Co. of Lond.) Armoured Car Co.. from 2nd Co. of Lond. Yeo.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>A. C.</Forenames>
+      <Text>(trd. to 4th (Co. of Lond.) Armoured Car Co.. from 2nd Co. of Lond. Yeo.)</Text>
       <PageNumber>6162</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Barnes</Key>
-      <Text>. Lt. C. S. (rel. commn. and retains rank of Lt.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>C. S.</Forenames>
+      <Text>(rel. commn. and retains rank of Lt.)</Text>
       <PageNumber>6163</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Barnett</Key>
-      <Text>. Qrmr. and Lt. J. R. (rel remii. nnd rcfans rank)</Text>
+      <Title>Qrmr. and Lt.</Title>
+      <Forenames>J. R.</Forenames>
+      <Text>(rel remii. nnd rcfans rank)</Text>
       <PageNumber>7306</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Barnov</Key>
-      <Text>. L*. E. W. (reigns rnmmn. and let.-rns rank of Lt.)</Text>
+      <Forenames>L</Forenames>
+      <Text>*. E. W. (reigns rnmmn. and let.-rns rank of Lt.)</Text>
       <PageNumber>6162</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Barnstnn</Key>
-      <Text>. Miaj. H. (is retired, having attained the age limit, and retains rank of Maj., witlh permission to wear prescribeduniform)</Text>
+      <Title>Miaj.</Title>
+      <Forenames>H.</Forenames>
+      <Text>(is retired, having attained the age limit, and retains rank of Maj., witlh permission to wear prescribeduniform)</Text>
       <PageNumber>6756</PageNumber>
     </MainItem>
   </ItemGroup>

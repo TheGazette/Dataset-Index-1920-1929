@@ -57,8 +57,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Smith</Key>
-      <Forenames>Francis</Forenames>
-      <Text>.„</Text>
+      <Title>Francis .</Title>
+      <Text>„</Text>
       <PageNumber>1247</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -146,7 +146,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Antoine</Key>
-      <Text>Tony</Text>
+      <Title>Tony .</Title>
       <PageNumber>1248</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -242,7 +242,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cohen</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>1545</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -264,6 +264,21 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Beck</Key>
+      <Forenames>Alexander</Forenames>
+      <PageNumber>2102</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Windt</Key>
+      <Forenames>Harry</Forenames>
+      <PageNumber>598</PageNumber>
+      <PageNumber>1248</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Dimmer</Key>
       <Forenames>A. R. V</Forenames>
       <PageNumber>885</PageNumber>
@@ -272,8 +287,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Edwardz</Key>
-      <Forenames>George</Forenames>
-      <Text>.„ ... .„</Text>
+      <Title>George .</Title>
+      <Text>„ ... .„</Text>
       <PageNumber>104</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -287,7 +302,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ford</Key>
-      <Text>Alfred Harrison</Text>
+      <Forenames>Alfred Harrison</Forenames>
       <PageNumber>1545</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -364,8 +379,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Heyman</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col</Text>
+      <Title>Lt.-Col.</Title>
       <PageNumber>1344</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -414,7 +428,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Maodonald</Key>
-      <Text>Capt. ... .-</Text>
+      <Title>Capt.</Title>
+      <Text>... .-</Text>
       <PageNumber>1655</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -532,7 +547,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>1344</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -590,8 +605,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wallis</Key>
-      <Forenames>Thomas</Forenames>
-      <Text>.„</Text>
+      <Title>Thomas .</Title>
+      <Text>„</Text>
       <PageNumber>1655</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -606,8 +621,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wells</Key>
-      <Forenames>Dudley</Forenames>
-      <Text>.„</Text>
+      <Title>Dudley .</Title>
+      <Text>„</Text>
       <PageNumber>2374</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -652,7 +667,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ackland</Key>
-      <Text>A. C. ... ___ ___ ___ ___ ~ ~ \</Text>
+      <Forenames>A. C.</Forenames>
+      <Text>... ___ ___ ___ ___ ~ ~ \</Text>
       <PageNumber>2008</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -698,7 +714,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Affleck</Key>
-      <Text>W, — ___ ___ — ___</Text>
+      <Forenames>W</Forenames>
+      <Text>, — ___ ___ — ___</Text>
       <PageNumber>1669</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -781,14 +798,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Alflatt</Key>
-      <Text>G.E. — ___ ___ — ___ ___</Text>
+      <Forenames>G.E.</Forenames>
+      <Text>— ___ ___ — ___ ___</Text>
       <PageNumber>1472</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Allan</Key>
-      <Text>J — ___ ___ — ___</Text>
+      <Forenames>J</Forenames>
+      <Text>— ___ ___ — ___</Text>
       <PageNumber>785</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -843,7 +862,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Beo</Key>
-      <Text>First Adjd. Ord. Meet. &amp;a. Andrew, V. P. William son, J</Text>
+      <Forenames>First Adjd</Forenames>
+      <Text>. Ord. Meet. &amp;a. Andrew, V. P. William son, J</Text>
       <PageNumber>329</PageNumber>
     </MainItem>
     <SubItem>
@@ -865,7 +885,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Angel</Key>
-      <Text>S — ___ ___ ___ ___</Text>
+      <Forenames>S</Forenames>
+      <Text>— ___ ___ ___ ___</Text>
       <PageNumber>1474</PageNumber>
     </MainItem>
   </ItemGroup>

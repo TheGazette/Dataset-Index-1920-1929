@@ -22,7 +22,7 @@
       <PageNumber>5562</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Rel. actg. rank on ceasing to comd. a Co</Text>
+      <Text>Rel. actg. rank on ceasing to comd. a Co.</Text>
       <PageNumber>5562</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -365,8 +365,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connell, F. C Oldacre, Victor Gordon Salisbury (corr. of date of admission)</Text>
+      <Key>O'Connell</Key>
+      <Forenames>F. C</Forenames>
+      <Text>Oldacre, Victor Gordon Salisbury (corr. of date of admission)</Text>
       <PageNumber>6035</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -466,7 +467,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Swann</Key>
-      <Text>. A. E. (corr. of date)</Text>
+      <Forenames>A. E.</Forenames>
+      <Text>(corr. of date)</Text>
       <PageNumber>7311</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -487,14 +489,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Tomkins</Key>
-      <Text>. L. H</Text>
+      <Forenames>L. H.</Forenames>
       <PageNumber>5734</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Tucker</Key>
-      <Text>. H. D</Text>
+      <Forenames>H. D</Forenames>
       <PageNumber>6602</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -509,7 +511,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wall</Key>
-      <Text>. W. H. (temp.)</Text>
+      <Forenames>W. H.</Forenames>
+      <Text>(temp.)</Text>
       <PageNumber>5359</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -698,6 +701,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Coverly</Key>
+      <Forenames>A. T. E.</Forenames>
+      <Text>(and retains rank)</Text>
+      <PageNumber>5736</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Evans</Key>
       <Forenames>A.</Forenames>
       <Text>(and retains rank of Lt.)</Text>
@@ -864,7 +875,9 @@
     <MainItem>
       <Key>Dilawae</Key>
       <Forenames>Khan</Forenames>
-      <Text>, Bahadur, I.O.M</Text>
+      <Text>
+        <Honour>O.M</Honour>
+      </Text>
       <PageNumber>7461</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1237,8 +1250,8 @@
   <SectionTitle>Appointments Conferred</SectionTitle>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Dowd, James Henry Barrett</Text>
+      <Key>O'Dowd</Key>
+      <Forenames>James Henry Barrett</Forenames>
       <PageNumber>603</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1308,8 +1321,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. Aubyn, John Henry Arundel Godolphin</Text>
+      <Key>St. Aubyn</Key>
+      <Forenames>John Henry Arundel Godolphin</Forenames>
       <PageNumber>660</PageNumber>
     </MainItem>
   </ItemGroup>

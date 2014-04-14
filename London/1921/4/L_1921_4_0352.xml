@@ -4,7 +4,10 @@
     <MainItem>
       <Key>Cook</Key>
       <Title>Maj</Title>
-      <Text>, S. G., O.B.E., T.D. (pel. commn. and retains rank of Maj., with permission to wear prescribed uniform)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>10009</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -78,7 +81,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>C. H.</Forenames>
-      <Text>, M.C. (Capt., T.A Res., Regtl. List, Infy., from 4th Bn., Berks R.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7954</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -100,7 +105,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>D. E.</Forenames>
-      <Text>, M.C. (rel. commn. and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10476</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -134,7 +141,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>H.</Forenames>
-      <Text>, M.C. (rel. commn. and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9881</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -188,7 +197,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>R.</Forenames>
-      <Text>, M.C. (ral. commn. and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10240</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -243,7 +254,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>R. V. T.</Forenames>
-      <Text>M.C. (rel. oommn. and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10360</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -428,7 +441,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Coombs</Key>
-      <Text>. Lt A. R. (rel. commn. and retains rank of Lt.)</Text>
+      <Forenames>Lt A. R.</Forenames>
+      <Text>(rel. commn. and retains rank of Lt.)</Text>
       <PageNumber>10120</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -509,7 +523,9 @@
       <PageNumber>8439</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Lt.-Col. J. A., T.D. (rel. commn. and retains rank of Lt.-Col., with permission to wear prescribed uniform)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>10576</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -663,7 +679,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>F. M.</Forenames>
-      <Text>. M.C. (rel. commn. and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9121</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -838,7 +856,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>L. E.</Forenames>
-      <Text>, M.C. (rel. commn. and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8820</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -871,7 +891,9 @@
       </Key>
       <Title>Lt.-Col.</Title>
       <Forenames>P. C</Forenames>
-      <Text>, T.D. (trd. to T.A. Res., Regtl. List, Infy., from H.A.C., Infy.)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>8812</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -937,7 +959,10 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>T. B.</Forenames>
-      <Text>, M.C.&lt;r M.M. (rel. oommn. and granted rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>9024</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -981,7 +1006,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>W. M.</Forenames>
-      <Text>, M.C. (rel commn. and retains rank of Lt:)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10120</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1008,7 +1035,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Cope</Key>
-      <Text>. Lt. C. C. (rel. commn. and retains rank of Lt.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>C. C.</Forenames>
+      <Text>(rel. commn. and retains rank of Lt.)</Text>
       <PageNumber>10021</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1019,7 +1048,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>G. A.</Forenames>
-      <Text>, M.C. (rel. commn. and granted rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10090</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1063,7 +1094,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>N. H.</Forenames>
-      <Text>, M.B.E. (rel. commn. and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>10227</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1170,7 +1203,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Corbeto</Key>
-      <Text>. Lt. A. L. (resigns commn. and retains rank of Lt.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>A. L.</Forenames>
+      <Text>(resigns commn. and retains rank of Lt.)</Text>
       <PageNumber>9139</PageNumber>
     </MainItem>
   </ItemGroup>

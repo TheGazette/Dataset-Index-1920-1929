@@ -110,7 +110,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>G. P.</Forenames>
-      <Text>, 'M.C. (aotg. Ma.j. comdg. a 'Mountain. Bafct)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>792</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -120,7 +122,11 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Title>Maj.</Title>
-      <Text>&amp; Bt. Lt.-Col. H. O. C.M.G., D.S.O. (rel. temp. rank of Lt.-Col.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>2266</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -195,7 +201,9 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>M. Y.</Forenames>
-      <Text>, M.C. (rel. comnwr. on completion of service and retains rank of Li.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2995</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -237,7 +245,9 @@
       </Key>
       <Title>temp.</Title>
       <Forenames>Capt</Forenames>
-      <Text>, R. W., M.C. (rel. actg. rank of 'Maj. oni ceasing to hold spec, a.ppt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1908</PageNumber>
     </MainItem>
     <SubItem>
@@ -258,7 +268,7 @@
       <PageNumber>1518</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Trd. to Gen, Res. of Olfrs</Text>
+      <Text>Trd. to Gen, Res. of Olfrs.</Text>
       <PageNumber>1521</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -269,7 +279,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>W. H.</Forenames>
-      <Text>, R.-A.V.C. (rel. actg. rank of Ma].)</Text>
+      <Text>
+        <Honour>V.C.</Honour>
+      </Text>
       <PageNumber>1776</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -291,7 +303,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Sims</Key>
-      <Text>. temp. Lt. A. J. T. (rel. commm. on comp^Ietion of service and retains rank of Lt.)</Text>
+      <Title>temp. Lt.</Title>
+      <Forenames>A. J. T.</Forenames>
+      <Text>(rel. commm. on comp^Ietion of service and retains rank of Lt.)</Text>
       <PageNumber>3292</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -361,7 +375,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Simson</Key>
-      <Text>' Lt. E. A., A.F.C. (resigns oornmii, and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>3623</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -392,7 +408,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Lt</Forenames>
-      <Text>, H. A., M.C. (resigns commn. and granted rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3521</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -495,7 +513,7 @@
       <PageNumber>1179</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Rel. commn. on completion of service and retains rank of Lt</Text>
+      <Text>Rel. commn. on completion of service and retains rank of Lt.</Text>
       <PageNumber>1923</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -555,7 +573,9 @@
       <Key>Sibwell</Key>
       <Title>Supern. Capt.</Title>
       <Forenames>H. D. W.</Forenames>
-      <Text>M.C. '(restd. to estabt,) '</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1072</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -595,7 +615,10 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>I</Forenames>
-      <Text>&amp; Bt. Lt.-Col. T&gt;. S., D.S.O. (rel. actg. rank of Lt.-Col.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1061</PageNumber>
     </MainItem>
     <SubItem>
@@ -625,14 +648,16 @@
       <PageNumber>314</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Trd. to Gen. Res. of Offrs</Text>
+      <Text>Trd. to Gen. Res. of Offrs.</Text>
       <PageNumber>317</PageNumber>
     </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Skelton</Key>
-      <Text>/Lt.R. A., D.F.C. (resigns commn. and retains rank of Lt.) ,. .:</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>3736</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -676,7 +701,9 @@
     <MainItem>
       <Key>Skey</Key>
       <Title>temp. Ca.</Title>
-      <Text>pt. A. J., M.C. (rel. actg. rank of Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>167</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -762,7 +789,10 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>H. Ross</Forenames>
-      <Text>, D.S.O., M.C. (High. tL.I.) (restd. to estabt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1204</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -843,7 +873,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Skipwith</Key>
-      <Text>. Maj. (late temp. Col.) F. G., C.M.G, (Col., Gen. 'Res..' of Offrs.)</Text>
+      <Title>Maj. (late temp. Col.)</Title>
+      <Forenames>F. G.</Forenames>
+      <Text>, C.M.G, (Col., Gen. 'Res..' of Offrs.)</Text>
       <PageNumber>3263</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -874,7 +906,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Slade</Key>
-      <Text>. _ 2nd Lt. .F. C. (retires, receiving a gratuity)</Text>
+      <Text>_ 2nd Lt. .F. C. (retires, receiving a gratuity)</Text>
       <PageNumber>651</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -920,7 +952,9 @@
       <Key>SJaden</Key>
       <Title>Maj.</Title>
       <Forenames>D. B. C</Forenames>
-      <Text>, D.S.O. (seed, for serv. on the Staff)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1659</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -940,7 +974,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>2nd .Lt. J., D.C.M. (Lt.)</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>963</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -951,7 +987,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>J. N.</Forenames>
-      <Text>M.C. (rel. actg. Tank of Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2567</PageNumber>
     </MainItem>
   </ItemGroup>

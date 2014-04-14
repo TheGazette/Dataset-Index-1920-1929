@@ -239,7 +239,9 @@
     <MainItem>
       <Key>Macpherson</Key>
       <Forenames>A. D. L.</Forenames>
-      <Text>, D.S.C</Text>
+      <Text>
+        <Honour>D.S.C</Honour>
+      </Text>
       <PageNumber>9222</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -577,7 +579,7 @@
       <PageNumber>9055</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Smb. Not.</Text>
+      <Text>Smb. Not</Text>
       <PageNumber>7580</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -640,7 +642,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bullimore</Key>
-      <Text>. H</Text>
+      <Forenames>H .</Forenames>
       <PageNumber>8408</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -937,7 +939,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Moseley</Key>
-      <Text>. B. B</Text>
+      <Forenames>B. B</Forenames>
       <PageNumber>9055</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -999,7 +1001,9 @@
       <Key>Wood</Key>
       <Title>Sir</Title>
       <Forenames>J. S.</Forenames>
-      <Text>age, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>7126</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1033,7 +1037,9 @@
     <MainItem>
       <Key>Davey</Key>
       <Forenames>J. H.</Forenames>
-      <Text>, M.B.E. (Shipwt. Lt. Cdr. retd.) ;</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>7126</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1064,7 +1070,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Morgan</Key>
-      <Text>ID., M.V.O. (Shipwt. Lt. Cdr. retd.)</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>7126</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1180,7 +1188,9 @@
     <MainItem>
       <Key>Broatch</Key>
       <Forenames>G. T.</Forenames>
-      <Text>, C.B.E., M.B</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>7229</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1188,7 +1198,9 @@
     <MainItem>
       <Key>Colborne</Key>
       <Forenames>W. J.</Forenames>
-      <Text>, C.B</Text>
+      <Text>
+        <Honour>C.B</Honour>
+      </Text>
       <PageNumber>7353</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1196,7 +1208,10 @@
     <MainItem>
       <Key>Collingwood</Key>
       <Forenames>G. T.</Forenames>
-      <Text>, C.B., M.V.O</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>M.V.O</Honour>
+      </Text>
       <PageNumber>7354</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1212,7 +1227,9 @@
     <MainItem>
       <Key>Woodwright</Key>
       <Forenames>C. S.</Forenames>
-      <Text>, O.B.E</Text>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>8277</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1221,7 +1238,9 @@
     <MainItem>
       <Key>Broatch</Key>
       <Forenames>G. T.</Forenames>
-      <Text>, C.B.E., M.B</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>7353</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1229,7 +1248,9 @@
     <MainItem>
       <Key>Colbome</Key>
       <Forenames>W. J.</Forenames>
-      <Text>, C.B</Text>
+      <Text>
+        <Honour>C.B</Honour>
+      </Text>
       <PageNumber>7354</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1237,7 +1258,10 @@
     <MainItem>
       <Key>Collingwood</Key>
       <Forenames>G. T.</Forenames>
-      <Text>, C.B., M.V.O</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>M.V.O</Honour>
+      </Text>
       <PageNumber>7457</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1262,7 +1286,9 @@
     <MainItem>
       <Key>Dalton</Key>
       <Forenames>F. J. A.</Forenames>
-      <Text>, C.M.G</Text>
+      <Text>
+        <Honour>C.M.G</Honour>
+      </Text>
       <PageNumber>7127</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1278,7 +1304,10 @@
     <MainItem>
       <Key>Gaskell</Key>
       <Forenames>A.</Forenames>
-      <Text>, C.B., O.B.E., F.B.C.S</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>7127</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1286,7 +1315,10 @@
     <MainItem>
       <Key>Hewitt</Key>
       <Forenames>D. W.</Forenames>
-      <Text>, C.B., C.M.G., M.B., F.R.O.S</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>7127</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1294,14 +1326,18 @@
     <MainItem>
       <Key>Penny</Key>
       <Forenames>H. L.</Forenames>
-      <Text>, O.B.E</Text>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>7127</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Bodd</Key>
-      <Text>,M. L. B., O.B.E</Text>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>7127</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1309,7 +1345,9 @@
     <MainItem>
       <Key>Ross</Key>
       <Forenames>B. A.</Forenames>
-      <Text>, M.D</Text>
+      <Text>
+        <Honour>M.D</Honour>
+      </Text>
       <PageNumber>7127</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1332,7 +1370,9 @@
     <MainItem>
       <Key>Hughes</Key>
       <Forenames>J. D.</Forenames>
-      <Text>, C.B. (date of retirement)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>9145</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1340,7 +1380,9 @@
     <MainItem>
       <Key>Finlayson</Key>
       <Forenames>H. W.</Forenames>
-      <Text>, D.S.O., M.B. (Sub. Not.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8629</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1350,7 +1392,9 @@
     <MainItem>
       <Key>Cooper</Key>
       <Forenames>H.</Forenames>
-      <Text>, D.S.O. (commn. term. on appt. to perm, commn. in R.A.F.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8277</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1372,8 +1416,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Murphy</Key>
-      <Forenames>U. St</Forenames>
-      <Text>. J. (medically unfit</Text>
+      <Forenames>U. St. J</Forenames>
+      <Text>. (medically unfit</Text>
       <PageNumber>7668</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1388,7 +1432,9 @@
     <MainItem>
       <Key>Stanford</Key>
       <Forenames>C. E. C</Forenames>
-      <Text>, D.S.O. (commn! terminated on appt. to perm. commn. in B.A.F.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8277</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1403,7 +1449,9 @@
     <MainItem>
       <Key>iWelfe</Key>
       <Forenames>H. V.</Forenames>
-      <Text>, C.B.E. ifcommn. terminated on uppt. to perm. commn. in R.A. F.)</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>8277</PageNumber>
     </MainItem>
   </ItemGroup>

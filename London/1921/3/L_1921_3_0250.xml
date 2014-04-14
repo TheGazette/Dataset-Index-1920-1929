@@ -78,7 +78,9 @@
     <MainItem>
       <Key>Parker</Key>
       <Forenames>George H. Irton</Forenames>
-      <Text>, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>7384</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -93,7 +95,9 @@
     <MainItem>
       <Key>Spicer-Simson</Key>
       <Forenames>Geoffrey B.</Forenames>
-      <Text>, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>6601</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -108,7 +112,9 @@
     <MainItem>
       <Key>Wright</Key>
       <Forenames>Alexander G.</Forenames>
-      <Text>, C.B.E</Text>
+      <Text>
+        <Honour>C.B.E</Honour>
+      </Text>
       <PageNumber>6842</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -240,7 +246,9 @@
     <MainItem>
       <Key>Roskruge</Key>
       <Forenames>Francis J.</Forenames>
-      <Text>, D.S.O., O.B.E</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6398</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -255,7 +263,9 @@
     <MainItem>
       <Key>Wallace</Key>
       <Forenames>Charles J. M.</Forenames>
-      <Text>, O.B.E</Text>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>5832</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -272,7 +282,9 @@
     <MainItem>
       <Key>Bennett</Key>
       <Forenames>Alan C. M.</Forenames>
-      <Text>, D.S.C</Text>
+      <Text>
+        <Honour>D.S.C</Honour>
+      </Text>
       <PageNumber>6673</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -308,7 +320,9 @@
     <MainItem>
       <Key>Buchanan</Key>
       <Forenames>Edgar W.</Forenames>
-      <Text>, D.S.C</Text>
+      <Text>
+        <Honour>D.S.C</Honour>
+      </Text>
       <PageNumber>7055</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -324,7 +338,9 @@
     <MainItem>
       <Key>Campbell</Key>
       <Forenames>John D.</Forenames>
-      <Text>, D.S.C</Text>
+      <Text>
+        <Honour>D.S.C</Honour>
+      </Text>
       <PageNumber>7055</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -340,7 +356,9 @@
     <MainItem>
       <Key>Donohue</Key>
       <Forenames>William J.</Forenames>
-      <Text>, O.B.E</Text>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>5732</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -376,7 +394,9 @@
     <MainItem>
       <Key>Hamilton</Key>
       <Forenames>L. H. K.</Forenames>
-      <Text>, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>5358</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -398,7 +418,9 @@
     <MainItem>
       <Key>Morgan</Key>
       <Forenames>Llewellyn N.</Forenames>
-      <Text>, M.V.O., D.S.C</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>7384</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -426,14 +448,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Reece</Key>
-      <Text>. Harry B</Text>
+      <Forenames>Harry B</Forenames>
       <PageNumber>5732</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Russell</Key>
-      <Text>. Leslie S</Text>
+      <Forenames>Leslie S</Forenames>
       <PageNumber>7384</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -455,7 +477,9 @@
     <MainItem>
       <Key>Terrv</Key>
       <Forenames>Arthur H. L.</Forenames>
-      <Text>, D.S.C</Text>
+      <Text>
+        <Honour>D.S.C</Honour>
+      </Text>
       <PageNumber>6673</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -477,7 +501,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Cracroft-Amcott</Key>
-      <Text>. Lt. John, D.S.C</Text>
+      <Title>Lt.</Title>
+      <Forenames>John</Forenames>
+      <Text>
+        <Honour>D.S.C</Honour>
+      </Text>
       <PageNumber>7384</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -536,7 +564,9 @@
     <MainItem>
       <Key>Grattan</Key>
       <Forenames>Ernest L. C</Forenames>
-      <Text>, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>5932</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -639,8 +669,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ainslie</Key>
-      <Forenames>Wallace St</Forenames>
-      <Text>. J</Text>
+      <Forenames>Wallace St. J</Forenames>
       <PageNumber>7138</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -744,7 +773,9 @@
     <MainItem>
       <Key>Boddie</Key>
       <Forenames>George H.</Forenames>
-      <Text>, D.S.C. (corr. of seniority)</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>7054</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -814,7 +845,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bullock</Key>
-      <Text>. Frank G L. (corr. of seniority)</Text>
+      <Forenames>Frank G</Forenames>
+      <Text>L. (corr. of seniority)</Text>
       <PageNumber>7055</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -879,7 +911,9 @@
     <MainItem>
       <Key>Chevallier</Key>
       <Forenames>Felix E.</Forenames>
-      <Text>, D.S.C. (corr. of seniority)</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>7055</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -961,21 +995,22 @@
   <ItemGroup>
     <MainItem>
       <Key>Davidson</Key>
-      <Text>. John L</Text>
+      <Forenames>John L</Forenames>
       <PageNumber>7311</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Davis</Key>
-      <Text>. Wilfred (corr. of seniority)</Text>
+      <Forenames>Wilfred</Forenames>
+      <Text>(corr. of seniority)</Text>
       <PageNumber>7054</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Dearden</Key>
-      <Text>. Peregrine</Text>
+      <Forenames>Peregrine</Forenames>
       <PageNumber>7383</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -990,7 +1025,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Devlin</Key>
-      <Text>. Rupert R. (seniority adjusted)</Text>
+      <Forenames>Rupert R.</Forenames>
+      <Text>(seniority adjusted)</Text>
       <PageNumber>6771</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1298,7 +1334,7 @@
   <ItemGroup>
     <MainItem>
       <Key>James</Key>
-      <Text>. George H. D</Text>
+      <Forenames>George H. D</Forenames>
       <PageNumber>7384</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1314,7 +1350,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Jarrett</Key>
-      <Text>. C. J</Text>
+      <Forenames>C. J</Forenames>
       <PageNumber>5244</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1328,7 +1364,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Johnson</Key>
-      <Text>. Qage D. S</Text>
+      <Forenames>Qage D. S</Forenames>
       <PageNumber>7384</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1358,14 +1394,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Kent</Key>
-      <Text>. Jan H. F</Text>
+      <Forenames>Jan H. F .</Forenames>
       <PageNumber>7384</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>King</Key>
-      <Text>. Lancelot (corr. of seniority)</Text>
+      <Forenames>Lancelot</Forenames>
+      <Text>(corr. of seniority)</Text>
       <PageNumber>7055</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1401,14 +1438,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Learv</Key>
-      <Text>. Alfred (corr. of seniority)</Text>
+      <Forenames>Alfred</Forenames>
+      <Text>(corr. of seniority)</Text>
       <PageNumber>7054</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Lewellyn</Key>
-      <Text>. Llewellyn S. E</Text>
+      <Forenames>Llewellyn S. E</Forenames>
       <PageNumber>7384</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1454,7 +1492,9 @@
     <MainItem>
       <Key>Martin</Key>
       <Forenames>Frederick S.</Forenames>
-      <Text>, D.S.M. (corr. of seniority)</Text>
+      <Text>
+        <Honour>D.S.M.</Honour>
+      </Text>
       <PageNumber>7054</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1468,14 +1508,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Moir</Key>
-      <Text>. Andrew B</Text>
+      <Forenames>Andrew B</Forenames>
       <PageNumber>7384</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Morris</Key>
-      <Text>. Arthur S. H</Text>
+      <Forenames>Arthur S. H</Forenames>
       <PageNumber>7384</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1483,28 +1523,33 @@
     <MainItem>
       <Key>Mountbatten</Key>
       <Title>Lord Louis.</Title>
-      <Text>M.V.O</Text>
+      <Text>
+        <Honour>M.V.O</Honour>
+      </Text>
       <PageNumber>7384</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Mulcahv</Key>
-      <Text>. Cornelius M. (corr. tS seniority)</Text>
+      <Forenames>Cornelius M.</Forenames>
+      <Text>(corr. tS seniority)</Text>
       <PageNumber>7054</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Mundell</Key>
-      <Text>. John M. (corr. of seniority) _</Text>
+      <Forenames>John M.</Forenames>
+      <Text>(corr. of seniority) _</Text>
       <PageNumber>7054</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Ovenden</Key>
-      <Text>. Ernest (corr. of seniority)</Text>
+      <Forenames>Ernest</Forenames>
+      <Text>(corr. of seniority)</Text>
       <PageNumber>7054</PageNumber>
     </MainItem>
   </ItemGroup>

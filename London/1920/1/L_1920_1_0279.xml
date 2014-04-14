@@ -5,7 +5,9 @@
       <Key>Greener</Key>
       <Title>Lt.</Title>
       <Forenames>H. M.</Forenames>
-      <Text>, M.C. (resigns commn. and granted rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1549</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -65,7 +67,9 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>E. S.</Forenames>
-      <Text>, M.C. (ret commn. on completion of service and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2988</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -74,7 +78,11 @@
       <Key>Greenly</Key>
       <Title>Maj.-Gen.</Title>
       <Forenames>W. H.</Forenames>
-      <Text>, C.B., C.M.G., D.S.O. (resigns commn.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>2571</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -101,7 +109,10 @@
       <Key>Greenshields</Key>
       <Title>Maj.</Title>
       <Forenames>D. J.</Forenames>
-      <Text>, D.S.O., . M.C. (seed, for service with T.F.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3732</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -112,7 +123,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>H.</Forenames>
-      <Text>, M.C. (restd. to estabt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3412</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -132,7 +145,9 @@
       </Key>
       <Title>temp. Lt.-Col.</Title>
       <Forenames>R. H.</Forenames>
-      <Text>, CLE., O.B.E. (rel. commn. on completion of service and retains rank of Lt.-Col.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3746</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -214,7 +229,11 @@
       </Key>
       <Title>temp. Lt.-Col.</Title>
       <Forenames>H.</Forenames>
-      <Text>, V.C., D.S.O., M.C. (Yorks L.I.) . (rel. commn. on completion of service and retains rank of Lt.-Col.)</Text>
+      <Text>
+        <Honour>V.C.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>492</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -258,7 +277,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>M.</Forenames>
-      <Text>, M.C. (actg. Cap. whilst 2nd in comd. of a Siege Batt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1057</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -280,7 +301,10 @@
       </Key>
       <Title>temp. Capt.</Title>
       <Forenames>W. F.</Forenames>
-      <Text>, D.S.O., M.C. (rel. commn. on completion of service and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3737</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -299,8 +323,10 @@
     <MainItem>
       <Key>Greer</Key>
       <Title>temp. Capt.</Title>
-      <Forenames>H. O</Forenames>
-      <Text>'B., M.C. (actg. Maj.)</Text>
+      <Forenames>H. O'B</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>168</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -311,14 +337,18 @@
       </Key>
       <Title>temp. Capt.</Title>
       <Forenames>J. J.</Forenames>
-      <Text>McC, M.C. (rel. commn. on completion of service and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2573</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Greeves-O</Key>
-      <Text>'Sullivan, temp. Capt. J. T. (rel. commn. on completion of service and , retains rank of Capt.)</Text>
+      <Key>Greeves-O'Sullivan</Key>
+      <Title>temp. Capt.</Title>
+      <Forenames>J. T.</Forenames>
+      <Text>(rel. commn. on completion of service and , retains rank of Capt.)</Text>
       <PageNumber>493</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -327,11 +357,13 @@
       <Key>Gregg</Key>
       <Title>temp. Capt.</Title>
       <Forenames>N.</Forenames>
-      <Text>McA., M.C. M.B. (rel. actg. rank of Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3392</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Rel. commn. and retains . rank of Capt</Text>
+      <Text>Rel. commn. and retains . rank of Capt.</Text>
       <PageNumber>2890</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -366,7 +398,7 @@
       <PageNumber>2897</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Retires on ret. pay and granted rank of Capt</Text>
+      <Text>Retires on ret. pay and granted rank of Capt.</Text>
       <PageNumber>3391</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -399,11 +431,14 @@
       </Key>
       <Title>Supern. Maj.</Title>
       <Forenames>M.</Forenames>
-      <Text>, D.S.O., M.C. (restd. to estabt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>804</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Seed, for service with the T.F</Text>
+      <Text>Seed, for service with the T.F.</Text>
       <PageNumber>3986</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -488,7 +523,10 @@
     <MainItem>
       <Key>Grenfell</Key>
       <Title>Field-Marshal</Title>
-      <Text>the Rt. Hon. F. W., Lord, G.C.B., G.C.M.G. (resigns appt. as Col. of 1st L. Gds.)</Text>
+      <Text>
+        <Honour>G.C.B.</Honour>
+        <Honour>G.C.M.G.</Honour>
+      </Text>
       <PageNumber>2890</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -503,7 +541,7 @@
       <PageNumber>3391</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Trd. to Gen. Res. of Offrs</Text>
+      <Text>Trd. to Gen. Res. of Offrs.</Text>
       <PageNumber>3394</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -529,7 +567,9 @@
       <Key>Gresson</Key>
       <Title>temp. Lt.</Title>
       <Forenames>R. H.</Forenames>
-      <Text>, M.B.E. (rel. appt. as Asst. Dir. of Remts., CI. X and temp, rank of Lt.-Col.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>2567</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -542,7 +582,7 @@
       <PageNumber>2026</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Rel. oommn. on completion of service and retains rank of Capt</Text>
+      <Text>Rel. oommn. on completion of service and retains rank of Capt.</Text>
       <PageNumber>2442</PageNumber>
     </SubItem>
   </ItemGroup>

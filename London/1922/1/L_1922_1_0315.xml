@@ -80,7 +80,9 @@
       </Key>
       <Title>Col. (retired)</Title>
       <Forenames>J. A.</Forenames>
-      <Text>, M.D., V.D., K.H.S. (Hon. Col. of Welsh Divn.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>1277</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -91,7 +93,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>J. H.</Forenames>
-      <Text>, O.B.E. (rel. commn. and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>922</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -286,7 +290,9 @@
       <Key>Jcynson</Key>
       <Title>Capt.</Title>
       <Forenames>L. B.</Forenames>
-      <Text>, M.C. (restd. to unit)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2409</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -337,7 +343,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>L. E. G.</Forenames>
-      <Text>, M.C. (rel. conunn. and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>272</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -373,7 +381,9 @@
       <Key>Kay</Key>
       <Title>Maj.</Title>
       <Forenames>J. S.</Forenames>
-      <Text>, M.C. (rel. commn. and retains rank of Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>272</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -427,7 +437,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Kebbell</Key>
-      <Text>. 2nd Lt. G. K. (rel. commn</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>G. K.</Forenames>
+      <Text>(rel. commn</Text>
       <PageNumber>347</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -481,7 +493,11 @@
       <Key>Keenan</Key>
       <Title>Lt.</Title>
       <Forenames>A. H.</Forenames>
-      <Text>, D.S.O., O.B.E., M.C. (rel. commn. and granted rank of Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>708</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -534,14 +550,20 @@
   <ItemGroup>
     <MainItem>
       <Key>Keiller</Key>
-      <Text>. Maj. J. M. R. (rel. commn. and retains rank of Maj.)</Text>
+      <Title>Maj.</Title>
+      <Forenames>J. M. R.</Forenames>
+      <Text>(rel. commn. and retains rank of Maj.)</Text>
       <PageNumber>365</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Keir</Key>
-      <Text>. Maj. D. R., D.S.O. (trd. to T.A. Res., Regtl. List, Inf., from 7th Bn., Black Wateh)</Text>
+      <Title>Maj.</Title>
+      <Forenames>D. R.</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>2506</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -569,7 +591,10 @@
       <Key>Kellett</Key>
       <Title>Capt.</Title>
       <Forenames>J. P.</Forenames>
-      <Text>, D.S.O., M.C. (vacates appt. of Adjt., 5th Bn.. Devon. R.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1172</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -587,7 +612,9 @@
       <Key>Kellv</Key>
       <Title>Capt.</Title>
       <Forenames>A.</Forenames>
-      <Text>, M.C. (rel. commn. and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>11</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -635,7 +662,9 @@
   <ItemGroup>
     <MainItem>
       <Key>KemD</Key>
-      <Text>. Capt. F. J. (trd. to T.A. Res.. Regtl. List, 5th Bn., Lond. R.. from Gen. List)</Text>
+      <Title>Capt.</Title>
+      <Forenames>F. J.</Forenames>
+      <Text>(trd. to T.A. Res.. Regtl. List, 5th Bn., Lond. R.. from Gen. List)</Text>
       <PageNumber>2580</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -646,7 +675,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>W. S.</Forenames>
-      <Text>, M.C. (Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1369</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -674,7 +705,11 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>N. W.</Forenames>
-      <Text>, M.B. (Maj., T.A. Res., Gen. List, R.A.M.C., from Gen. List, R.A.M.C.) Kilby, Lt. J. W., O.B.E. (rel. commn. and granted rank of Capt.) _</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>1072</PageNumber>
     </MainItem>
   </ItemGroup>

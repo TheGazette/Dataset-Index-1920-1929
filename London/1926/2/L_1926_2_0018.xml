@@ -36,7 +36,12 @@
   <ItemGroup>
     <MainItem>
       <Key>Dawson</Key>
-      <Text>of Penn, Bertrand Edward, Baron, G.C.V.O., C.M.G., C.B., M.D., B.Sc, F.R.C.P., Knight Commander, Order of the Bath</Text>
+      <Text>
+        <Honour>G.C.V.O.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>1613</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -78,15 +83,19 @@
       <Key>Drew</Key>
       <Title>Flight</Title>
       <Forenames>Lieutenant Hedley Vicars</Forenames>
-      <Text>, A.F.C. Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>3454</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Dunedin</Key>
-      <Forenames>The Viscountess</Forenames>
-      <Text>, C.B.E., Lady of Grace, Order of St. John of Jerusalem</Text>
+      <Title>The Viscountess</Title>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>4037</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -94,7 +103,9 @@
     <MainItem>
       <Key>Dunlop</Key>
       <Forenames>Lieutenant-</Forenames>
-      <Text>Colonel Robert William Layard, CLE., D.S.O., Knight</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>2429</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -119,7 +130,9 @@
       <Key>Evans</Key>
       <Title>Hon.</Title>
       <Forenames>John William</Forenames>
-      <Text>, C.M.G., Knight</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>2429</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -171,7 +184,10 @@
     <MainItem>
       <Key>Faulkner</Key>
       <Forenames>Alfred Edward</Forenames>
-      <Text>, C.B., C.B.E., authority under Emergency Regulations</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>3180</PageNumber>
       <PageNumber>3181</PageNumber>
     </MainItem>
@@ -188,7 +204,9 @@
     <MainItem>
       <Key>Ferriere</Key>
       <Forenames>Joseph Anthony</Forenames>
-      <Text>, M.D., Nominated Member of the Council of Govern. ment of Mauritius</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3822</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -231,7 +249,9 @@
     <MainItem>
       <Key>Garford</Key>
       <Forenames>Marian</Forenames>
-      <Text>, Miss, M.B.E., Lady of Grace, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>4038</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -240,7 +260,9 @@
       <Key>Gaunt</Key>
       <Title>Admiral Sir</Title>
       <Forenames>Guy</Forenames>
-      <Text>, K.C.M.G., Steward and Bailiff of the Manor of Northstead</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+      </Text>
       <PageNumber>2614</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -256,7 +278,9 @@
     <MainItem>
       <Key>Glegg</Key>
       <Forenames>Robert Ashleigh</Forenames>
-      <Text>, M.D., Esquire, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>4038</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -279,8 +303,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Goschen</Key>
-      <Forenames>The Viscountess</Forenames>
-      <Text>, Lady of Grace, Order of St. John of Jerusalem</Text>
+      <Title>The Viscountess, Lady</Title>
+      <Text>of Grace, Order of St. John of Jerusalem</Text>
       <PageNumber>4037</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -313,7 +337,9 @@
     <MainItem>
       <Key>Gwyer</Key>
       <Forenames>Maurice Linford</Forenames>
-      <Text>, C.B., H.M. Procurator</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>3218</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -321,7 +347,9 @@
     <MainItem>
       <Key>Hadow</Key>
       <Forenames>Frederick Austin</Forenames>
-      <Text>, C.V.O., Knight</Text>
+      <Text>
+        <Honour>C.V.O.</Honour>
+      </Text>
       <PageNumber>2430</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -329,7 +357,9 @@
     <MainItem>
       <Key>Hall</Key>
       <Forenames>William Carby</Forenames>
-      <Text>, C.B.E., authority under Emergency Regulations</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>3180</PageNumber>
       <PageNumber>3180</PageNumber>
     </MainItem>
@@ -381,7 +411,9 @@
       <Key>Henderson</Key>
       <Title>Major</Title>
       <Forenames>James Abbey</Forenames>
-      <Text>, M.B., R.A.M.C. (T.F.), Esquire, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4038</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -390,7 +422,10 @@
       <Key>Heron</Key>
       <Title>Colonel</Title>
       <Forenames>George Wyke-</Forenames>
-      <Text>ham, D.S.O., O.B.E., Knight of Grace, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4037</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -399,7 +434,10 @@
       <Key>Hewett</Key>
       <Title>Sir</Title>
       <Forenames>Frederick Stanley</Forenames>
-      <Text>, K.C.V.O.. M.D., Knight Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>K.C.V.O.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>2613</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -416,7 +454,9 @@
     <MainItem>
       <Key>Hcllins</Key>
       <Forenames>Henrietta Maria Mar-</Forenames>
-      <Text>garet, Miss, C.B.E., Lady of Grace, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>4037</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -473,9 +513,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Irwin</Key>
-      <Title>His Excellency</Title>
-      <Forenames>The</Forenames>
-      <Text>Lord, G.C.S.I.. G.C.I.E., Knight of Grace, Order of St. John of Jerusalem</Text>
+      <Title>His Excellency The Lord</Title>
+      <Text>, G.C.S.I.. G.C.I.E., Knight of Grace, Order of St. John of Jerusalem</Text>
       <PageNumber>4037</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -490,8 +529,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Iveagh</Key>
-      <Forenames>The</Forenames>
-      <Text>Earl of, K.P., G. C.V.O., F.R.S., F.S.A., Knight of Justice, Order of St. John of Jerusalem</Text>
+      <Title>The Earl</Title>
+      <Text>
+        <Honour>C.V.O.</Honour>
+      </Text>
       <PageNumber>4037</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -499,7 +540,10 @@
     <MainItem>
       <Key>Jacob</Key>
       <Forenames>General</Forenames>
-      <Text>Sir Claud William, K.C.B., K.C.S.I., K.C.M.G., Knight of Grace, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>K.C.M.G.</Honour>
+      </Text>
       <PageNumber>4037</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -516,8 +560,12 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Major-General William Bernard</Forenames>
-      <Text>, C.B., CLE., M.V.O., Knight</Text>
+      <Title>Major-</Title>
+      <Forenames>General William Bernard</Forenames>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>2429</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -542,7 +590,9 @@
       <Key>Jones</Key>
       <Title>Sir</Title>
       <Forenames>Thomas George</Forenames>
-      <Text>, K.B.E., authority under Emergency Regulations</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+      </Text>
       <PageNumber>3180</PageNumber>
       <PageNumber>3181</PageNumber>
     </MainItem>
@@ -579,7 +629,10 @@
       <Key>King</Key>
       <Title>Colonel</Title>
       <Forenames>Edwin James</Forenames>
-      <Text>, C.M.G., T.D., F.S.A., Knight of Justice, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>4037</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -587,7 +640,9 @@
     <MainItem>
       <Key>Knatchbull-Hugessen</Key>
       <Forenames>Hughe Montgomery</Forenames>
-      <Text>, C.M.G., Counseller of Embassy in H.M. Diplomatic Service</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>3751</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -645,14 +700,18 @@
   <ItemGroup>
     <MainItem>
       <Key>Lee</Key>
-      <Text>of Fareham, The Rt. Hon. Arthur Hamilton, Viscount, G.C.S.I., G.B.E., K.C.B., Member, Royal Fine Art Commission</Text>
+      <Text>
+        <Honour>G.B.E.</Honour>
+        <Honour>K.C.B.</Honour>
+      </Text>
       <PageNumber>3454</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Lemarchand</Key>
-      <Text>. Gabriel Alexandre Theodore Louis, Unofficial Member of Legislative Council of Seychelles</Text>
+      <Forenames>Gabriel Alexandre Theodore Louis</Forenames>
+      <Text>, Unofficial Member of Legislative Council of Seychelles</Text>
       <PageNumber>3653</PageNumber>
     </MainItem>
   </ItemGroup>

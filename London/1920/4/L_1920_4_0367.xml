@@ -145,7 +145,9 @@
       </Key>
       <Title>Lt.-Col.</Title>
       <Forenames>F. A.</Forenames>
-      <Text>, T.D. (resigns commn. and retains rank of Lt.-Col., with permission to wear prescribed uniform)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>11195</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -174,7 +176,9 @@
       <Key>Woodhead</Key>
       <Title>Lt.</Title>
       <Forenames>J.</Forenames>
-      <Text>, M.C. (resigns conimn. and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9795</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -234,7 +238,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>Max</Forenames>
-      <Text>, D.S.O. (Lt. 4th (W. Lanes. R.) R.G.A., and rel. rank of Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>10280</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -322,7 +328,10 @@
       <Key>Woolley</Key>
       <Title>Capt.</Title>
       <Forenames>G. H.</Forenames>
-      <Text>, V.C,. M.C. seed, for service withRugby School Contingent O.T;C.)</Text>
+      <Text>
+        <Honour>V.C</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>12379</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -352,7 +361,9 @@
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Wootton</Forenames>
-      <Text>, Lt. K. E., M.C. (resigns oommn., and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10843</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -410,7 +421,9 @@
       <Key>Wostenholm</Key>
       <Title>Lt.</Title>
       <Forenames>H. L.</Forenames>
-      <Text>, 'M.C. (resigns commn., and granted rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>12557</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -541,7 +554,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>G. C</Forenames>
-      <Text>, M.C. (Lt. Yorks L.I., and rel. rank of Capt., Sub Not</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>11322</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -573,7 +588,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>J. H.</Forenames>
-      <Text>, O.B.E. (apptd. to comd. a Vety. Evacuating Station)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>10383</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -632,7 +649,9 @@
       </Key>
       <Title>Capf.</Title>
       <Forenames>P. K. C</Forenames>
-      <Text>, A.F.C. (resigns commn. and retains rank of Capt.) .:</Text>
+      <Text>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>12482</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -713,7 +732,9 @@
       <Key>Wrigley</Key>
       <Title>Maj.</Title>
       <Forenames>E. F.</Forenames>
-      <Text>, T.D. (trd.. to 5th Bn., Lane. Fus., late of this Bn.)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>10715</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -797,7 +818,9 @@
       <Key>Yare</Key>
       <Title>Lt.</Title>
       <Forenames>W.</Forenames>
-      <Text>t. M.C. (trd. to T.F.R., Inf., from 5th Bn., Lane. R.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>11599</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -868,7 +891,10 @@
       <Key>Yonge</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>P. C.</Forenames>
-      <Text>D.S.O., T.D. (trd. to T.F.R., Infv., from 5th Bn., Essex R.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>10373</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -877,7 +903,9 @@
       <Key>Young</Key>
       <Title>2nd Lt.</Title>
       <Forenames>A. T. A.</Forenames>
-      <Text>, M.M. (Lt.)</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>10180</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -965,7 +993,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>J. E.</Forenames>
-      <Text>, M.C. (apptd. to comd. a Vety. Hospital)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10058</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1046,8 +1076,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Territorial</Key>
-      <Forenames>Decoration</Forenames>
-      <Text>: Royal Warrant establishing . rules and ordninances of .:</Text>
+      <Text>
+        <Honour>Decoration</Honour>
+      </Text>
       <PageNumber>11312</PageNumber>
     </MainItem>
   </ItemGroup>

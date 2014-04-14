@@ -246,7 +246,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Foley</Key>
-      <Text>Lt. A. M. (rel. commn., and retains rank of Lt-.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>A. M.</Forenames>
+      <Text>(rel. commn., and retains rank of Lt-.)</Text>
       <PageNumber>9671</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -345,7 +347,10 @@
       </Key>
       <Title>temp. Maj. (Admiral, R.N., ret.) Sir</Title>
       <Forenames>R. F. O.</Forenames>
-      <Text>, K.C.B., C.M.G. (rel. temp, commn. on, completion of service, and retains rank of, Maj.)</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>12549</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -366,7 +371,7 @@
       <PageNumber>12271</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Rel. commn. on acc. of ill health contracted on active service, andretains rank of Maj</Text>
+      <Text>Rel. commn. on acc. of ill health contracted on active service, andretains rank of Maj.</Text>
       <PageNumber>12271</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -429,7 +434,9 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Lt</Forenames>
-      <Text>, J., D.S.O. (restd. to estabt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>9669</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -507,7 +514,9 @@
       </Key>
       <Title>temp. Capt.</Title>
       <Forenames>William</Forenames>
-      <Text>: W., O.B.E. (rel. actg. rank of Maj.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>12695</PageNumber>
     </MainItem>
     <SubItem>
@@ -531,7 +540,9 @@
       </Key>
       <Title>temp. Capt.</Title>
       <Forenames>Carleton Y.</Forenames>
-      <Text>, M:C, M.D. (rel. commn. and gran ted rank of. Maj.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>11562</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -618,7 +629,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>K. J.</Forenames>
-      <Text>, M.C. (rel. commn and retains rank of Lt:)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10582</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -700,7 +713,9 @@
       <Key>Foreshew</Key>
       <Title>Lt.</Title>
       <Forenames>C. E. P.</Forenames>
-      <Text>, M.C. (rel: commn. and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>12697</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -720,7 +735,10 @@
       <Key>Fcrman</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>A. B.</Forenames>
-      <Text>, C.M.G., D.S.O. (placed on h.p.. list on. completion of four years' service as Regtl. Lt.-Col.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>12808</PageNumber>
     </MainItem>
     <SubItem>
@@ -757,7 +775,10 @@
       </Key>
       <Title>Lt.-Col.</Title>
       <Forenames>D. E.</Forenames>
-      <Text>, C.M.G., D.S.O. (h.p. list, retires on ret. pay)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>10053</PageNumber>
     </MainItem>
   </ItemGroup>

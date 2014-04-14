@@ -29,7 +29,9 @@
       <Key>Deedes</Key>
       <Title>Lt.</Title>
       <Forenames>J. G.</Forenames>
-      <Text>, M.B.E. :(,Adjt)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>7217</PageNumber>
     </MainItem>
     <SubItem>
@@ -118,7 +120,10 @@
     <MainItem>
       <Key>Dent</Key>
       <Forenames>Capt</Forenames>
-      <Text>, A., O.B.E., M.C. (Maj.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8952</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -149,7 +154,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>P. H.</Forenames>
-      <Text>, M.C. :(trd. to T..F.R., Engineers)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8779</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -176,7 +183,9 @@
       <Key>Dermer</Key>
       <Title>Lt.</Title>
       <Forenames>L.</Forenames>
-      <Text>-H., M.C. {resigns commin. and granted rank of Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9352</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -211,7 +220,9 @@
     <MainItem>
       <Key>Dewar</Key>
       <Title>Capt.</Title>
-      <Text>, the Hon J., M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>7648</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -233,7 +244,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>J. G. N.</Forenames>
-      <Text>(restd. to estabt, on ceasing to be empld. with M.G.C.)</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>7096</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -264,7 +277,9 @@
       <Key>Dewhurst</Key>
       <Title>Lt.</Title>
       <Forenames>N.</Forenames>
-      <Text>, O.B.E. (Maj. T.F:R.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>8366</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -273,7 +288,10 @@
       <Key>Dibben</Key>
       <Title>Lt.</Title>
       <Forenames>H. T. L.</Forenames>
-      <Text>, MC. (restd. to estabt. on ceasing to be emplL with M.G.C.)</Text>
+      <Text>
+        <Honour>MC</Honour>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>7096</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -332,7 +350,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Dickens</Key>
-      <Text>. Lt. G. W. W. (trd. from 4th Bn., Bord. Regt. to 8th Bn., R. Warwickshire Regt.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>G. W. W.</Forenames>
+      <Text>(trd. from 4th Bn., Bord. Regt. to 8th Bn., R. Warwickshire Regt.)</Text>
       <PageNumber>7941</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -357,7 +377,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Dickinson</Key>
-      <Text>. Lt. C. E. (restd. to unit)</Text>
+      <Title>Lt.</Title>
+      <Forenames>C. E.</Forenames>
+      <Text>(restd. to unit)</Text>
       <PageNumber>9432</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -401,7 +423,7 @@
       <PageNumber>9279</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>tains rank of Lt.</Text>
+      <Text>tains rank of Lt</Text>
       <PageNumber>7843</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -444,7 +466,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>J.</Forenames>
-      <Text>' W. E., M.C. (trd. to 4th Bn., Loyal North Lanes. R., late Seaforth Highrs</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9432</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -525,7 +549,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Dixon</Key>
-      <Text>2nd Lt, A. M.C. (Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7753</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -624,7 +650,9 @@
         <KeyDitto>—___</KeyDitto>
       </Key>
       <Forenames>Capt</Forenames>
-      <Text>, R. G., O.B.E., M.B. (resigns commn. and granted rank of Maj.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>7325</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -665,7 +693,9 @@
     <MainItem>
       <Key>Dobbie</Key>
       <Forenames>Lt</Forenames>
-      <Text>, S. U., M.C. (resigns commn. and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9041</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -674,14 +704,19 @@
       <Key>Dobie</Key>
       <Title>Maj.</Title>
       <Forenames>D. R.</Forenames>
-      <Text>, M.D., F.R.C.S., (resigns commn. and retains rank of Maj.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>7745</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Dobson</Key>
-      <Text>. Lt. A. L. (trd. to T.F.R.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>A. L.</Forenames>
+      <Text>(trd. to T.F.R.)</Text>
       <PageNumber>8169</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -691,15 +726,18 @@
         <KeyDitto>___ ___ '</KeyDitto>
       </Key>
       <Title>2nd Lt.</Title>
-      <Forenames>G.</Forenames>
-      <Text>de S. (trd. to Warwick Yeo., late Coldstream Gels. S.R,)</Text>
+      <Forenames>G. de S</Forenames>
+      <Text>. (trd. to Warwick Yeo., late Coldstream Gels. S.R,)</Text>
       <PageNumber>9278</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Docker</Key>
-      <Text>. Ca.pt. P. (restd. to estabt. ceasing ' to be empld. with M.G.C.)'</Text>
+      <Title>Ca.</Title>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>7941</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -708,14 +746,18 @@
       <Key>Docking</Key>
       <Title>Maj.</Title>
       <Forenames>S. R.</Forenames>
-      <Text>. T.D. (trd. to T.F.R. R.A.S.C.)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>9049</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Dodd</Key>
-      <Text>. Lt. J. J. (resigns commn. and retains rank of Lt.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>J. J.</Forenames>
+      <Text>(resigns commn. and retains rank of Lt.)</Text>
       <PageNumber>8851</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -762,7 +804,9 @@
       <Key>Dolben</Key>
       <Title>Lt.</Title>
       <Forenames>A. C.</Forenames>
-      <Text>(restd. to estabt. on ceasing to be empld. with M.G.C.)</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>7648</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -780,7 +824,9 @@
       <Key>Dolphin</Key>
       <Title>Capt.</Title>
       <Forenames>E. J.</Forenames>
-      <Text>, D.S.O. (rel. commn., on acc. of ill-health contracted on active service and granted rank of Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7440</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -789,7 +835,9 @@
       <Key>Dominy</Key>
       <Title>Lt.</Title>
       <Forenames>L. G.</Forenames>
-      <Text>(restd. to estabt. on ceasing to be empld. with M.G.C.)</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>7324</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -898,7 +946,9 @@
       <Key>Douglas</Key>
       <Title>Maj.</Title>
       <Forenames>C. J.</Forenames>
-      <Text>, T.D. (adjt. with pay and allces. as Ca.pt.) 7o</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>49</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -955,14 +1005,18 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>F. G.</Forenames>
-      <Text>(restd. to estabt. on ceasing to be empld. with M.G.C.)</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>7324</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Dove</Key>
-      <Text>. Lt. C. E. (trd. to T.F.R.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>C. E.</Forenames>
+      <Text>(trd. to T.F.R.)</Text>
       <PageNumber>8169</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -993,14 +1047,18 @@
       <Key>Dowley</Key>
       <Title>Lt.</Title>
       <Forenames>A. E.</Forenames>
-      <Text>, M.C. (resigns commn. and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9139</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Downing</Key>
-      <Text>. Lt. F. G. (restd. to T.F.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>F. G.</Forenames>
+      <Text>(restd. to T.F.)</Text>
       <PageNumber>9615</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1044,7 +1102,12 @@
   <ItemGroup>
     <MainItem>
       <Key>Drake</Key>
-      <Text>. Mai JH.. O.B.E., M.C., , T.D. (resigns commn. and retains rank of Maj.)</Text>
+      <Forenames>Mai</Forenames>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>7095</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1072,7 +1135,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Dreyer</Key>
-      <Text>. Lt. R. T. (resigns commn. and retains rank of Lt.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>R. T.</Forenames>
+      <Text>(resigns commn. and retains rank of Lt.)</Text>
       <PageNumber>8951</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1080,7 +1145,10 @@
     <MainItem>
       <Key>Driver</Key>
       <Forenames>Lt</Forenames>
-      <Text>, A., D.S.O., M.C. (resigns commn. and granted rank of Maj.) '</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9502</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1108,7 +1176,9 @@
       <Key>Druce</Key>
       <Title>Lt.</Title>
       <Forenames>A. F.</Forenames>
-      <Text>, M.C. (resigns comran. and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8365</PageNumber>
     </MainItem>
   </ItemGroup>

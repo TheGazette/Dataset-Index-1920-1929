@@ -5,7 +5,9 @@
       <Key>Deane</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>D.</Forenames>
-      <Text>, D.S.O. (retains temp, rank as Brig.-Gen. whilst a Brig.-Gen., General</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>11592</PageNumber>
     </MainItem>
     <SubItem>
@@ -62,7 +64,9 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>S.</Forenames>
-      <Text>, M.C. (rel. commn. on completion of service, and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10725</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -70,7 +74,9 @@
     <MainItem>
       <Key>Dear</Key>
       <Forenames>Lt</Forenames>
-      <Text>, H. E., M.C. (rel. commn. and granted rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9802</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -81,7 +87,9 @@
       </Key>
       <Title>temp.</Title>
       <Forenames>Lt</Forenames>
-      <Text>, R. R., M.C. (rel. commn. on completion of service, and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>11897</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -164,7 +172,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Delamain</Key>
-      <Text>Supern. Lt. C. B. H. (restd. to estabt.)</Text>
+      <Title>Supern. Lt.</Title>
+      <Forenames>C. B. H.</Forenames>
+      <Text>(restd. to estabt.)</Text>
       <PageNumber>10944</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -218,7 +228,9 @@
       <Key>Delves</Key>
       <Title>temp. Lt.</Title>
       <Forenames>F.</Forenames>
-      <Text>, M.C. (rel. commn. on completion of service, and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>11319</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -283,7 +295,9 @@
       <Key>Denison</Key>
       <Title>Maj. and Bt. Lt.-Col.</Title>
       <Forenames>G. W.</Forenames>
-      <Text>, D.S.O. (rel. actg. rank of Lt.-coi.) ..:</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>11208</PageNumber>
     </MainItem>
     <SubItem>
@@ -298,7 +312,9 @@
       </Key>
       <Title>temp. Maj.</Title>
       <Forenames>H. A.</Forenames>
-      <Text>, M.C. (rel. commn. on completion of service, and retains rank of Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10370</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -307,7 +323,10 @@
       <Key>Denman</Key>
       <Title>Lt. (Lt.-Col., T.F.R.) Rt. Hon.</Title>
       <Forenames>T.</Forenames>
-      <Text>, Lord, G.C.M.G., K.C.V.O. (Lt.-Col., Gen. Res. of Offrs.)</Text>
+      <Text>
+        <Honour>G.C.M.G.</Honour>
+        <Honour>K.C.V.O.</Honour>
+      </Text>
       <PageNumber>12811</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -316,7 +335,9 @@
       <Key>Denne</Key>
       <Title>Sister Miss</Title>
       <Forenames>Ethel Mary</Forenames>
-      <Text>, R.R.C.(Matron,Q.A.I.M.N.S.)</Text>
+      <Text>
+        <Honour>R.R.C.</Honour>
+      </Text>
       <PageNumber>9961</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -342,7 +363,9 @@
       </Key>
       <Title>temp. Capt.</Title>
       <Forenames>W. H.</Forenames>
-      <Text>, M.C.. (rel. commn. on completion of service, and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10840</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -362,7 +385,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>D. E.</Forenames>
-      <Text>, M.C. (rel. commn., and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>12552</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -377,7 +402,7 @@
       <PageNumber>10837</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Rel. commn., and retains rank of Lt</Text>
+      <Text>Rel. commn., and retains rank of Lt.</Text>
       <PageNumber>11768</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -388,7 +413,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>L. R.</Forenames>
-      <Text>, M.C. (rel. commn., and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10921</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -401,7 +428,7 @@
       <PageNumber>11579</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Retires, receiving a gratuity, and granted rank of Capt</Text>
+      <Text>Retires, receiving a gratuity, and granted rank of Capt.</Text>
       <PageNumber>11890</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -471,8 +498,8 @@
     <MainItem>
       <Key>Denny</Key>
       <Title>Lt.</Title>
-      <Forenames>A. De C.</Forenames>
-      <Text>McG. (date of rank and precedence as Lt.)</Text>
+      <Forenames>A. De C</Forenames>
+      <Text>. McG. (date of rank and precedence as Lt.)</Text>
       <PageNumber>9780</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -505,7 +532,9 @@
       </Key>
       <Title>temp.</Title>
       <Forenames>Capt</Forenames>
-      <Text>, E. M. C, M.C. (rel. commn. on completion of service, and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10583</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -523,7 +552,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Dennys</Key>
-      <Text>Lt. C. G., M.C. (rel. commn., and retains rank of Lt.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>C. G.</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9802</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -534,7 +567,9 @@
       </Key>
       <Title>Cant.</Title>
       <Forenames>L. E.</Forenames>
-      <Text>. M.C. (temp, Maj. whilst G.S.O., 2nd Gr., in India)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>11591</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -561,7 +596,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Dent</Key>
-      <Text>temp. Lt. A. G. (rel. commn. on completion of service, and retains rank of Lt.)</Text>
+      <Title>temp. Lt.</Title>
+      <Forenames>A. G.</Forenames>
+      <Text>(rel. commn. on completion of service, and retains rank of Lt.)</Text>
       <PageNumber>10161</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -572,7 +609,9 @@
       </Key>
       <Title>temp. Capt.</Title>
       <Forenames>F. S.</Forenames>
-      <Text>, M.C. (rel. commn. on completion of service, and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10279</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -698,7 +737,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>J.</Forenames>
-      <Text>, M.C. (rel. commn., and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>11565</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -738,7 +779,10 @@
       <Key>Deny</Key>
       <Title>Maj.</Title>
       <Forenames>A.</Forenames>
-      <Text>, D.S.O., O.B.E. (Lt.-Gol.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>11782</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -811,7 +855,9 @@
       <Key>Devas</Key>
       <Title>Lt.</Title>
       <Forenames>G. C</Forenames>
-      <Text>, M.C. (rel. commn., and granted rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>12385</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -867,7 +913,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Devitt</Key>
-      <Text>Lt, G. W., M.C. (rel. commn., and retains rank of Lt.l</Text>
+      <Forenames>Lt</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10065</PageNumber>
     </MainItem>
   </ItemGroup>

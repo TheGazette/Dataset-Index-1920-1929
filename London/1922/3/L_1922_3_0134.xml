@@ -300,7 +300,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Tanner</Key>
-      <Text>Lt. J. T. (resigns commn., and retains rank of Lt.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>J. T.</Forenames>
+      <Text>(resigns commn., and retains rank of Lt.)</Text>
       <PageNumber>6387</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -347,7 +349,9 @@
       <Key>Tate</Key>
       <Title>Capt.</Title>
       <Forenames>J.</Forenames>
-      <Text>, M.C.. (resigns commn., and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6385</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -418,7 +422,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>H. H.</Forenames>
-      <Text>, M.C. (resigns commn. and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6385</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -622,7 +628,9 @@
     <MainItem>
       <Key>Teague-Jones</Key>
       <Forenames>Capt</Forenames>
-      <Text>, R,, M.B.E. (resigns commn. and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>6780</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -647,35 +655,44 @@
   <ItemGroup>
     <MainItem>
       <Key>Tebbin</Key>
-      <Text>Lt, E. J. (resigns commn. and retains rank of Lt.)</Text>
+      <Forenames>Lt</Forenames>
+      <Text>, E. J. (resigns commn. and retains rank of Lt.)</Text>
       <PageNumber>6387</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Tee</Key>
-      <Text>Lt. S. E. (resigns commn. and retains rank of Lt.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>S. E.</Forenames>
+      <Text>(resigns commn. and retains rank of Lt.)</Text>
       <PageNumber>6781</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Teeling</Key>
-      <Text>2nd Lt. A. R. B. (resigns commn. and retains rank of 2nd Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>A. R. B.</Forenames>
+      <Text>(resigns commn. and retains rank of 2nd Lt.)</Text>
       <PageNumber>6584</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Tellery</Key>
-      <Text>Lt. J. H. (resigns commn. and retains rank of Lt.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>J. H.</Forenames>
+      <Text>(resigns commn. and retains rank of Lt.)</Text>
       <PageNumber>6388</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Temple</Key>
-      <Text>Lt. B. (resigns commn. and granted rank of Maj.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>B.</Forenames>
+      <Text>(resigns commn. and granted rank of Maj.)</Text>
       <PageNumber>6779</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -748,7 +765,9 @@
       <Key>Tharle-Hughes</Key>
       <Title>Lt.</Title>
       <Forenames>R.</Forenames>
-      <Text>, M.B.E. (resigns commn. and granted rank of Capt.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>6318</PageNumber>
     </MainItem>
   </ItemGroup>

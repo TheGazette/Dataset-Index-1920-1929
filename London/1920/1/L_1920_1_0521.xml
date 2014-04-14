@@ -104,8 +104,8 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Title>Asst. Admins.</Title>
-      <Forenames>M. De L.</Forenames>
-      <Text>(rel. appt. on completion of service)</Text>
+      <Forenames>M. De L</Forenames>
+      <Text>. (rel. appt. on completion of service)</Text>
       <PageNumber>3537</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -186,7 +186,10 @@
       <Key>Bagnall-Wild</Key>
       <Title>Lt.-Col. (actg. Brig.Gen.) (S.O.)</Title>
       <Forenames>R. K.</Forenames>
-      <Text>, C.M.G., O.B.E. (trd. to unempld. list)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3315</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -464,7 +467,10 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>F.C.</Forenames>
-      <Text>,D.F.C.,A.F.C.(trd. to unempld. list)</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>838</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -759,7 +765,9 @@
       <Key>Ballantyne</Key>
       <Title>2nd Lt.</Title>
       <Forenames>G. A.</Forenames>
-      <Text>, D.F.C. (trd. to unempld. list)</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>202</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -910,7 +918,9 @@
       <Key>Bannerman</Key>
       <Title>Lt.</Title>
       <Forenames>R. B.</Forenames>
-      <Text>, D.F.C. (trd. to unempld. list)</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>3436</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1221,7 +1231,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>W. T.</Forenames>
-      <Text>, D.F.C. (resigns</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>1102</PageNumber>
     </MainItem>
   </ItemGroup>

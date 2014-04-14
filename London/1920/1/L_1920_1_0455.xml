@@ -152,7 +152,9 @@
       <Key>Churchward</Key>
       <Title>temp. Lt.-Col. and Asst.</Title>
       <Forenames>County Comdt</Forenames>
-      <Text>. (Col., ret. pay) P. R. S., C.B. (rel. commn., and granted hon.-rank of Lt.-Col.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>3995</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -253,7 +255,9 @@
       </Key>
       <Title>temp. Capt.</Title>
       <Forenames>O. A.</Forenames>
-      <Text>, M.B.E. (rel. commn., and to be Hon. Capt.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3269</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -263,7 +267,9 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Title>temp. Lt.-Col.</Title>
-      <Text>and County Comdt. R., O.B.E., V.D. (rel. commn., and to be Hon. Lt.-Col.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3527</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -405,7 +411,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Claydon</Key>
-      <Text>. temp. Capt. L. H. R. (rel. commn., and to be Hon. Capt.)</Text>
+      <Title>temp. Capt.</Title>
+      <Forenames>L. H. R.</Forenames>
+      <Text>(rel. commn., and to be Hon. Capt.)</Text>
       <PageNumber>1933</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -646,7 +654,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Clode</Key>
-      <Text>. temp. Capt. and As=t. Adit. C. H. (rel. commn. and granted hon. rank of Cant.)</Text>
+      <Title>temp. Capt.</Title>
+      <Text>and As=t. Adit. C. H. (rel. commn. and granted hon. rank of Cant.)</Text>
       <PageNumber>3994</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -671,7 +680,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Clow</Key>
-      <Text>. temp. Lt. C. F. (iel. rommn. and to be Hon. Lt.)</Text>
+      <Title>temp. Lt.</Title>
+      <Forenames>C. F.</Forenames>
+      <Text>(iel. rommn. and to be Hon. Lt.)</Text>
       <PageNumber>3005</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -687,7 +698,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Clubb</Key>
-      <Text>. temp. Capt, B. W. (rel. rommn. and to be Hon. Capt.)</Text>
+      <Title>temp.</Title>
+      <Forenames>Capt</Forenames>
+      <Text>, B. W. (rel. rommn. and to be Hon. Capt.)</Text>
       <PageNumber>3004</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -715,7 +728,10 @@
       </Key>
       <Title>Lt.-Col.</Title>
       <Forenames>P. L</Forenames>
-      <Text>, D.S.O., T.D. (ceases to comd. the Bn.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>695</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -996,7 +1012,9 @@
       <Key>Collie</Key>
       <Title>temp. Maj. Sir</Title>
       <Forenames>J.</Forenames>
-      <Text>, Kt., C. M.G., M.D. (rel. commn. and to be Hon. Maj.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>1527</PageNumber>
     </MainItem>
   </ItemGroup>

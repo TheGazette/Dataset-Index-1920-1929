@@ -5,7 +5,9 @@
       <Key>Lumley</Key>
       <Title>Capt.</Title>
       <Forenames>J. N.</Forenames>
-      <Text>, M.C. (Bde. Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9700</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -14,7 +16,9 @@
       <Key>McCay</Key>
       <Title>Capt.</Title>
       <Forenames>R. C</Forenames>
-      <Text>, D.S.O. (Staff Capt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>9700</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -36,7 +40,10 @@
       <Key>Macmullen</Key>
       <Title>Col. (temp. Brig.Gen.)</Title>
       <Forenames>C. N.</Forenames>
-      <Text>, C.M.G., D.S.O</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>9699</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -53,7 +60,9 @@
       <Key>Malleson</Key>
       <Title>Maj.-Gen.</Title>
       <Forenames>W.</Forenames>
-      <Text>, C.B., CLE. (spec, appt., graded for pay as Bde. Comdr.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>9701</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -93,7 +102,9 @@
       <Key>Marshall</Key>
       <Title>Capt.</Title>
       <Forenames>G. W.</Forenames>
-      <Text>, I.S.O.,</Text>
+      <Text>
+        <Honour>I.S.O</Honour>
+      </Text>
       <PageNumber>9701</PageNumber>
     </MainItem>
     <SubItem>
@@ -147,7 +158,9 @@
       <Key>Mills</Key>
       <Title>Capt.</Title>
       <Forenames>S. D.</Forenames>
-      <Text>, M.C. (rel</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9702</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -177,7 +190,10 @@
       <Key>Montgomery</Key>
       <Title>Maj.-Gen. Sir</Title>
       <Forenames>A.</Forenames>
-      <Text>. A., K.C.M.G., C.B. (Dep. Chief of Gen. Staff, India,</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>9699</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -216,12 +232,12 @@
     <MainItem>
       <Key>Mungavin</Key>
       <Title>Lt. (temp. Capt.)</Title>
-      <Forenames>H. St</Forenames>
-      <Text>. J. (Staff Capt.)</Text>
+      <Forenames>H. St. J</Forenames>
+      <Text>. (Staff Capt.)</Text>
       <PageNumber>9700</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Asst. Embarkn. Staff Offr</Text>
+      <Text>Asst. Embarkn. Staff Offr.</Text>
       <PageNumber>9701</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -230,7 +246,9 @@
       <Key>Murray</Key>
       <Title>Maj. (T./Lt.-Col.)</Title>
       <Forenames>K. D. B.</Forenames>
-      <Text>, D.S.O. (rel. appt. as G.S.O., 1st Gr.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>12302</PageNumber>
     </MainItem>
     <SubItem>
@@ -270,14 +288,20 @@
       <Key>Norman</Key>
       <Title>Bt. Col. (T./Brig.-Gen.)</Title>
       <Forenames>W. H.</Forenames>
-      <Text>, D.S.O. (Brig.-Gen., Gen. Staff, Southern Comd.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>12301</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, Lt. Hon. D. E. F. (A.D.C., Personal Staff)</Text>
+      <Key>O'Brien</Key>
+      <Title>Lt. Hon.</Title>
+      <Forenames>D. E. F.</Forenames>
+      <Text>
+        <Honour>A.D.C.</Honour>
+      </Text>
       <PageNumber>9700</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -286,7 +310,9 @@
       <Key>Ogg</Key>
       <Title>Maj. (temp. Lt.-Col.)</Title>
       <Forenames>A. C</Forenames>
-      <Text>, D.S.O., O.B.E (A.A.G.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>9700</PageNumber>
     </MainItem>
     <SubItem>
@@ -308,18 +334,21 @@
       <Key>Ogle</Key>
       <Title>Bt. Lt.-Col.</Title>
       <Forenames>N.</Forenames>
-      <Text>, D.S.O. (G.S.O., 2nd Gr.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>9700</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Rel. appt. as G.S.O., 2nd Gr</Text>
+      <Text>Rel. appt. as G.S.O., 2nd Gr.</Text>
       <PageNumber>9702</PageNumber>
     </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Grady, Bt. Col. temp. Brig.Gen.) H. de C, CLE. (rel. appt.' as Bde. Comdr.)</Text>
+      <Key>O'Grady</Key>
+      <Title>Bt. Col. temp. Brig.</Title>
+      <Text>Gen.) H. de C, CLE. (rel. appt.' as Bde. Comdr.)</Text>
       <PageNumber>9701</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -328,7 +357,9 @@
       <Key>Parr</Key>
       <Title>Bt. Col.</Title>
       <Forenames>H. O.</Forenames>
-      <Text>, C.M.G. (A.A. and Q.M.G.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>9700</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -372,7 +403,9 @@
       <Key>Perkins</Key>
       <Title>Bt. Lt.-Col.</Title>
       <Forenames>G. F.</Forenames>
-      <Text>, D.S.O. (D.A.A.G., temp.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>9700</PageNumber>
     </MainItem>
     <SubItem>
@@ -403,7 +436,10 @@
       <Key>Prior</Key>
       <Title>Nt. Maj.</Title>
       <Forenames>G. E. R.</Forenames>
-      <Text>, D.S.O., M.C. (Bde. Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9700</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -412,7 +448,9 @@
       <Key>Pritchard</Key>
       <Title>Bt. Col. (temp. Brig.Gen.)</Title>
       <Forenames>A. J.</Forenames>
-      <Text>, C.M.G. (Bde. Comdr)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>9699</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -421,7 +459,10 @@
       <Key>Radcliffe</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>F. W.</Forenames>
-      <Text>, C.M.G., C.I.E., O.B.E. (rel. appt. as Bde. Comdr:)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>12302</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -430,7 +471,9 @@
       <Key>Radcliffe-Smith</Key>
       <Title>Maj.</Title>
       <Forenames>N. M. R.</Forenames>
-      <Text>, M.C. (G.S.O., 3rd Gr.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>12302</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -439,7 +482,10 @@
       <Key>Rankin</Key>
       <Title>Bt. Col. (T./Brig.-Gen.)</Title>
       <Forenames>C. H.</Forenames>
-      <Text>, C.M.G., D.S.O. (Bde. Comdr.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>12301</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -447,7 +493,9 @@
     <MainItem>
       <Key>Redding</Key>
       <Forenames>Capt</Forenames>
-      <Text>, H. A., M.C. (Staff Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>12302</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -465,7 +513,9 @@
       <Key>Kidgway</Key>
       <Title>Bt. Col. (temp. Brig.Gen.)</Title>
       <Forenames>R. T. I.</Forenames>
-      <Text>, C.B. (Bde. Comdr.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>9699</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -505,7 +555,10 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>J. P. B.</Forenames>
-      <Text>, C.M.G., D.S.O. (D.A.A.G.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>9700</PageNumber>
     </MainItem>
     <SubItem>
@@ -526,7 +579,9 @@
       <Key>Rome</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>C. L.</Forenames>
-      <Text>, D.S.O. (rel. appt. as Bde. Comdr.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>12302</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -535,7 +590,10 @@
       <Key>Rossiter</Key>
       <Title>Capt.</Title>
       <Forenames>F. N. C</Forenames>
-      <Text>, O.B.E., M.C. (D.A.QlM.G.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9700</PageNumber>
     </MainItem>
     <SubItem>
@@ -548,7 +606,9 @@
       <Key>Ruegg</Key>
       <Title>Capt.</Title>
       <Forenames>A. J.</Forenames>
-      <Text>, M.B.E. (rel. appt. as G.S.O., 2nd Gr.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>9702</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -610,7 +670,9 @@
       <Key>Stanford</Key>
       <Title>Capt.</Title>
       <Forenames>V. Benett</Forenames>
-      <Text>, M.C (A.D.C. to G.O.C., Personal Staff)</Text>
+      <Text>
+        <Honour>A.D.C.</Honour>
+      </Text>
       <PageNumber>12302</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -699,7 +761,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Tufnell</Key>
-      <Text>Bt. Col. A. W., C.M.G. (rel. appt. as G.S.O.. 1st Gr.)</Text>
+      <Title>Bt. Col.</Title>
+      <Forenames>A. W.</Forenames>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>12302</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -717,7 +783,9 @@
       <Key>Tyrrell</Key>
       <Title>Maj. (T./Lt.-Col.)</Title>
       <Forenames>A. C. L.</Forenames>
-      <Text>, O.B.E. (rel. appt. as A.A. and Q.M.G.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>12303</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -735,7 +803,10 @@
       <Key>Tytler</Key>
       <Title>Col. (T./Brig.-Gen.)</Title>
       <Forenames>H. C</Forenames>
-      <Text>, C.M.G., D.S.O. (Bde. Comdr., Rangoon Bde.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>12301</PageNumber>
     </MainItem>
     <SubItem>
@@ -750,7 +821,10 @@
       <Key>Vaughan</Key>
       <Title>Maj.</Title>
       <Forenames>L. R.</Forenames>
-      <Text>, C.B., D. S.O. (Comdt., Staff College, Quetta) ;</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>D. S.O.</Honour>
+      </Text>
       <PageNumber>12301</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -768,7 +842,10 @@
       <Key>Vickers</Key>
       <Title>Lt. (T./Capt.)</Title>
       <Forenames>E. R.</Forenames>
-      <Text>, D.C.M., M.M. (Staff Capt.)</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>12302</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -777,7 +854,10 @@
       <Key>Wagstaff</Key>
       <Title>Bt. Col.</Title>
       <Forenames>C. M.</Forenames>
-      <Text>, C.M.G., CLE., D.S.O. (Sec. to Army of India Comttee.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>12302</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -794,7 +874,9 @@
     <MainItem>
       <Key>Wapshare</Key>
       <Title>Lt.</Title>
-      <Text>-Gen. R., C.B., C.S.I, (rel. appt. as Div. Comdr.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>9701</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -803,7 +885,9 @@
       <Key>Ward</Key>
       <Title>Bt. Lt.-Col.</Title>
       <Forenames>H. C</Forenames>
-      <Text>, O.B.E. (rel. appt. as G.S.O., 1st Gr.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>12302</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -812,11 +896,13 @@
       <Key>Watt</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>D. M.</Forenames>
-      <Text>, D.S.O. (A.A. and Q.M.G.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>9700</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Rel. appt. as A.A. and Q.M.G</Text>
+      <Text>Rel. appt. as A.A. and Q.M.G.</Text>
       <PageNumber>12303</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -861,7 +947,9 @@
       <Key>Williams</Key>
       <Title>Bt. Lt.-Col.</Title>
       <Forenames>G. C</Forenames>
-      <Text>, C.M:G., D.S.O. (G.S.O., 1st Gr.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>12301</PageNumber>
     </MainItem>
     <SubItem>
@@ -876,7 +964,10 @@
       </Key>
       <Title>Bt. Lt.-Col.</Title>
       <Forenames>G. C. W.</Forenames>
-      <Text>, C.M.G., D.S.O. (reL appt. as G.S.O., 2nd Gr.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>12302</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -925,7 +1016,9 @@
       <Key>Yates</Key>
       <Title>Maj.</Title>
       <Forenames>R. J. B.</Forenames>
-      <Text>, D.S.O. (G.S.O., 2nd Gr.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>12301</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -934,11 +1027,14 @@
       <Key>Younghusband</Key>
       <Title>Col. (temp. Brig.Gen.)</Title>
       <Forenames>L. N.</Forenames>
-      <Text>, C.B., C.M.G. (Dir., Personal Servs.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>9700</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Rel. appt. as Bde. Comdr</Text>
+      <Text>Rel. appt. as Bde. Comdr.</Text>
       <PageNumber>9701</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -950,7 +1046,9 @@
       <Key>Pearson</Key>
       <Title>Sir</Title>
       <Forenames>A. A.</Forenames>
-      <Text>, K.C.B</Text>
+      <Text>
+        <Honour>K.C.B</Honour>
+      </Text>
       <PageNumber>12405</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -960,7 +1058,10 @@
     <MainItem>
       <Key>Barratt</Key>
       <Forenames>W. C</Forenames>
-      <Text>, C.B., C.S.I., D.S.O</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>12198</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -968,7 +1069,9 @@
     <MainItem>
       <Key>Bunbury</Key>
       <Forenames>W. E.</Forenames>
-      <Text>, C.B</Text>
+      <Text>
+        <Honour>C.B</Honour>
+      </Text>
       <PageNumber>9699</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -976,7 +1079,9 @@
     <MainItem>
       <Key>Vaughan</Key>
       <Forenames>R. E.</Forenames>
-      <Text>, C.B</Text>
+      <Text>
+        <Honour>C.B</Honour>
+      </Text>
       <PageNumber>10464</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -985,7 +1090,10 @@
     <MainItem>
       <Key>Climo</Key>
       <Forenames>S. H.</Forenames>
-      <Text>, C.B., D.S.O</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>12487</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -994,7 +1102,9 @@
     <MainItem>
       <Key>Baldwin</Key>
       <Forenames>G. M.</Forenames>
-      <Text>, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>11945</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1017,7 +1127,9 @@
     <MainItem>
       <Key>Crocker</Key>
       <Forenames>S. F.</Forenames>
-      <Text>, C.B. (date of retirement)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>9699</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1032,7 +1144,9 @@
     <MainItem>
       <Key>Drake-Brockman</Key>
       <Forenames>D. H.</Forenames>
-      <Text>, C.M.G</Text>
+      <Text>
+        <Honour>C.M.G</Honour>
+      </Text>
       <PageNumber>11945</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1048,7 +1162,9 @@
     <MainItem>
       <Key>Gordon</Key>
       <Forenames>J. L. R.</Forenames>
-      <Text>, C.B</Text>
+      <Text>
+        <Honour>C.B</Honour>
+      </Text>
       <PageNumber>10310</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1056,7 +1172,9 @@
     <MainItem>
       <Key>Harward</Key>
       <Forenames>A. J. N.</Forenames>
-      <Text>, C.B. (corr, of date)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>11945</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1072,7 +1190,9 @@
     <MainItem>
       <Key>Hutchinson</Key>
       <Forenames>C. A. R.</Forenames>
-      <Text>, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>10864</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1087,7 +1207,9 @@
     <MainItem>
       <Key>Lock</Key>
       <Forenames>F. R. E.</Forenames>
-      <Text>, D.S.O. (corr. of date)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>12198</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1111,7 +1233,10 @@
     <MainItem>
       <Key>Morris</Key>
       <Forenames>G. M.</Forenames>
-      <Text>, C.B., D.S.O</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>11945</PageNumber>
     </MainItem>
   </ItemGroup>

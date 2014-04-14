@@ -4,7 +4,9 @@
     <MainItem>
       <Key>Martin</Key>
       <Forenames>Capt</Forenames>
-      <Text>, P. S., M.C. (rel. common, and granted rank of Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>223</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -15,7 +17,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>S. H. C</Forenames>
-      <Text>, M.D. (is retired, having attained age limit, and retains rank of Maj.;</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>457</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -24,7 +28,9 @@
       <Key>Marwick</Key>
       <Title>Maj.</Title>
       <Forenames>J. G.</Forenames>
-      <Text>, T.D. (Maj., T.A. Res., Gen. List, Art., from Orkney Coast Bde., R.G.A.)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>225</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -33,7 +39,10 @@
       <Key>Mason</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>D. J.</Forenames>
-      <Text>, D.S.O., T.D. (Lt.-Col., T.A. Res., Gen. List, Art., from 51st (E. Lanes. and Cumb.) Bde., R.F.A.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>2241</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -44,7 +53,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>H.</Forenames>
-      <Text>, M.D. (is retired, having attained age limit, and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>1074</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -53,7 +64,9 @@
       <Key>Master</Key>
       <Title>Capt.</Title>
       <Forenames>E. Chester-</Forenames>
-      <Text>, see Chester-Master, Capt. E. Mather, Capt. W. H., O.B.E. (rel. commn. and granted rank of Maj.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>1156</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -79,7 +92,9 @@
     <MainItem>
       <Key>Matthews</Key>
       <Title>Capt.</Title>
-      <Text>(King's Own E.i R. C, M.C. (Adjt., 5th Bn., R. Warwick R.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1412</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -117,7 +132,11 @@
       <Key>Maxwell</Key>
       <Title>Col.</Title>
       <Forenames>A.</Forenames>
-      <Text>, C.M.G., D.S.O., T.D. (Hon. Col., 7th Bn., Lond. R.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>2320</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -126,11 +145,15 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>(Lt., R.A.M.C., Gen. List, late King's Afr. Rif., and rel. rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>998</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Mayne, Capt. (Bt. Maj.) W. J. F., M.B. (rel. commn. and retains rank)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>1157</PageNumber>
     </SubItem>
     <SubItem>
@@ -142,7 +165,9 @@
       <PageNumber>1075</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>Mellor, Maj. J. L., M.C. (Lt.-Col.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1822</PageNumber>
     </SubItem>
     <SubItem>
@@ -205,7 +230,10 @@
       <Key>Miles</Key>
       <Title>Capt.</Title>
       <Forenames>A.</Forenames>
-      <Text>, M.D., F.R.C.S. (is retired, having attained age limit, and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>2169</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -236,7 +264,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>J.</Forenames>
-      <Text>, M.D., F.R.C.P. (is retired, having attained age limit, and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>2169</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -247,7 +277,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>J.</Forenames>
-      <Text>ft., M.C. (trd. to T.A. Res., Regtl. List, 6/7th Bn., Black Watch, from 7th Bn., retaining rank of Lt. and precedence)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>614</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -257,7 +289,10 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Title>Chapln.</Title>
-      <Text>, 4th Class, the Rev. J. H., C.B.E., M.D., M.A. (Chapln., 2nd Class)</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>809</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -331,21 +366,24 @@
   <ItemGroup>
     <MainItem>
       <Key>Minett</Key>
-      <Text>. 2nd Lt. O. (resigns commn. and retains rank of 2nd Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>O.</Forenames>
+      <Text>(resigns commn. and retains rank of 2nd Lt.)</Text>
       <PageNumber>1156</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Miskin</Key>
-      <Text>. 2nd Lt, C. E. f2nd Lt., T.A. Res.. Reetl. List. 4th Bn.. W. Kent R., from Active List)</Text>
+      <Text>2nd Lt, C. E. f2nd Lt., T.A. Res.. Reetl. List. 4th Bn.. W. Kent R., from Active List)</Text>
       <PageNumber>1233</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Mitchell</Key>
-      <Text>. Gordon William Bruce, 2nd Lt. (48th (S. Mid 1 Div. Rics., late Cadet Col.. Onndle Sch. Cont,. Jun. Div.. O.T.C.)</Text>
+      <Forenames>Gordon William Bruce</Forenames>
+      <Text>, 2nd Lt. (48th (S. Mid 1 Div. Rics., late Cadet Col.. Onndle Sch. Cont,. Jun. Div.. O.T.C.)</Text>
       <PageNumber>1497</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -356,21 +394,15 @@
       </Key>
       <Title>Cant.</Title>
       <Forenames>J. M.</Forenames>
-      <Text>. M.C.. MB. (rel. enmmn. and retains rank of Cant.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>MB</Honour>
+      </Text>
       <PageNumber>227</PageNumber>
     </MainItem>
   </ItemGroup>
   <KeyDitto>___ ___ ___</KeyDitto>
   <KeyDitto>___ ___</KeyDitto>
-  <ItemGroup>
-    <MainItem>
-      <Key>Mitchell</Key>
-      <Title>Lt.-Col.</Title>
-      <Forenames>P.</Forenames>
-      <Text>, M.D., T.D. (is retired, having attained age limit, and retains rank of Lt.Col., with permission to wear prescribed uniform)</Text>
-      <PageNumber>1074</PageNumber>
-    </MainItem>
-  </ItemGroup>
   <KeyDitto>___ ___</KeyDitto>
   <KeyDitto>___ ___</KeyDitto>
   <KeyDitto>___ ___ ___</KeyDitto>

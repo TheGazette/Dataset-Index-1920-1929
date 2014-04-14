@@ -13,7 +13,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Major-General James Cecil</Forenames>
+      <Title>Major-</Title>
+      <Forenames>General James Cecil</Forenames>
       <Text>,. R.A., Bailiff Grand Cross, Order of St. John of Jerusalem</Text>
       <PageNumber>3836</PageNumber>
     </MainItem>
@@ -23,7 +24,10 @@
       <Key>Dalziel</Key>
       <Title>Sir</Title>
       <Forenames>Davison Alexander</Forenames>
-      <Text>, Bart., M.P., Baron</Text>
+      <Text>
+        <Honour>Bart</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>3603</PageNumber>
     </MainItem>
     <SubItem>
@@ -92,7 +96,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>John Hunter</Forenames>
-      <Text>, O.B.E., H.M. Consul at Kerman</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3051</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -102,7 +108,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Ordnance Mechanical En-</Forenames>
-      <Text>gineer, 1st Class,, and Col. Percy George, C.M.G., M.I.Mech.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>3609</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -159,7 +167,9 @@
       <Key>Deane</Key>
       <Title>Lieut.-Col.</Title>
       <Forenames>Robert</Forenames>
-      <Text>, O.B.E., Nominated Member of Council of Government of Mauritius</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3976</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -167,7 +177,9 @@
     <MainItem>
       <Key>Dendy</Key>
       <Forenames>Paymaster</Forenames>
-      <Text>Commander James Godfrey, R.D., R.N.R., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>3614</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -175,7 +187,9 @@
     <MainItem>
       <Key>Denham</Key>
       <Forenames>Edward Brandis</Forenames>
-      <Text>, C.M.G., Knight Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>3617</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -192,14 +206,17 @@
     <MainItem>
       <Key>De</Key>
       <Forenames>Silva</Forenames>
-      <Text>, Joseph Balthazar, I.S.O., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>I.S.O</Honour>
+      </Text>
       <PageNumber>3617</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Dewdiirst</Key>
-      <Text>. Charles Hay, Imperial Service Order</Text>
+      <Forenames>Charles Hay</Forenames>
+      <Text>, Imperial Service Order</Text>
       <PageNumber>3620</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -223,7 +240,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Dickinson</Key>
-      <Text>; Alwin Robinson, C.M.G., Knight Commander, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>3606</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -235,22 +254,192 @@
       </Key>
       <Title>Rev.</Title>
       <Forenames>William</Forenames>
-      <Text>, D.D., Chaplain, King's Body Guard for Scotland (Royal Company of Archers) ... Edkin, Commander Ernest, R.D., R,N.R., Officer, Order of the British . Empire Edwards, Most Rev. Alfred George, D.D., Archbishop of Wales, Chaplain, Order of St. John of Jerusalem... Ellis. Frank Tate, Member, Order of the British Empire Else, Stanley Cyril, Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>___ ___ ___ ___ ___ ___</PageNumber>
     </MainItem>
-    <SubItem>
-      <Text>Fawcett, Mr. Justice Charles Gordon Hill, Knight</Text>
-      <PageNumber>3604</PageNumber>
-    </SubItem>
-    <SubItem>
-      <Text>Ferguson, Lieut.-Col. Arthur George, C.B.E., Knight</Text>
-      <PageNumber>3604</PageNumber>
-    </SubItem>
-    <SubItem>
-      <Text>___ ___ ___ Thomas Edwards, K.C., J.P., Knight</Text>
-      <PageNumber>3604</PageNumber>
-    </SubItem>
   </ItemGroup>
-  <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
+  <KeyDitto>___</KeyDitto>
+  <KeyDitto>___ ___ ___</KeyDitto>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Forenames>Henry Richard</Forenames>
+      <Text>, Officer, Order of the British Empire Ewart, Charles Gordon, Commander, Order of St. John of Jerusalem Ezra, David Elias David, Knight Faux, William Anthony, Officer, Order of the British Empire Faulkner, Angus, Member, Order of the British Empire</Text>
+      <PageNumber>3615</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Fawcett</Key>
+      <Title>Mr.</Title>
+      <Forenames>Justice Charles Gordon Hill</Forenames>
+      <Text>, Knight</Text>
+      <PageNumber>3604</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Forenames>William Claude</Forenames>
+      <Text>, Knight</Text>
+      <PageNumber>3604</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Ferguson</Key>
+      <Title>Lieut.-Col.</Title>
+      <Forenames>Arthur George</Forenames>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
+      <PageNumber>3604</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ —— ___ ___</KeyDitto>
+      </Key>
+      <Forenames>Company Sergeant-</Forenames>
+      <Text>Major John, Member, Order of the British Empire</Text>
+      <PageNumber>3610</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Forenames>Walter Ernest</Forenames>
+      <Text>, Officer, Order of the British Empire</Text>
+      <PageNumber>3612</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Ferguson</Key>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
+      <PageNumber>3617</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Field</Key>
+      <Forenames>William</Forenames>
+      <Text>, Imperial Service Order</Text>
+      <PageNumber>3619</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Fife</Key>
+      <Title>H.R.H. Princess</Title>
+      <Forenames>Arthur</Forenames>
+      <Text>
+        <Honour>R.R.C.</Honour>
+      </Text>
+      <PageNumber>3836</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Filliter</Key>
+      <Forenames>Douglas Freeland Shute</Forenames>
+      <Text>, H.M. Consul at Leghorn</Text>
+      <PageNumber>3711</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Fincham</Key>
+      <Forenames>Bernard Cecil</Forenames>
+      <Text>, Officer,^ Order of St. John of Jerusalem</Text>
+      <PageNumber>4041</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Findlay</Key>
+      <Title>Sir</Title>
+      <Forenames>John Ritchie</Forenames>
+      <Text>
+        <Honour>Bart</Honour>
+        <Honour>K.B.E.</Honour>
+      </Text>
+      <PageNumber>2210</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Finny</Key>
+      <Title>Maj.</Title>
+      <Forenames>Charles Morgan</Forenames>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
+      <PageNumber>3609</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Fitzgerald</Key>
+      <Forenames>Thomas</Forenames>
+      <Text>, Officer, Order of . the British Empire</Text>
+      <PageNumber>3617</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Flood</Key>
+      <Forenames>First Class Staff Sergeant-</Forenames>
+      <Text>Major Archibald William, Member, Order of the British Empire</Text>
+      <PageNumber>3610</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Forster</Key>
+      <Forenames>Samuel John</Forenames>
+      <Text>, Member, Order of the British Empire</Text>
+      <PageNumber>3618</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___</KeyDitto>
+      </Key>
+      <Forenames>Thomas Edwards</Forenames>
+      <Text>, K.C., J.P., Knight</Text>
+      <PageNumber>3604</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Forster</Key>
+      <Text>
+        <Honour>G.C.M.G.</Honour>
+      </Text>
+      <PageNumber>3915</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Francis</Key>
+      <Forenames>Adolphus Sydney</Forenames>
+      <Text>, Member, Order of the British Empire</Text>
+      <PageNumber>3614</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
 </Index>
 

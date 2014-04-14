@@ -66,7 +66,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Myt</Key>
-      <Text>+on, Lt.-Col. and Bt. Col. O. H., T.D. (trd. to T.F.R., Gen. List, Y,o.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>5919</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -75,7 +78,9 @@
       <Key>Nairn</Key>
       <Title>Maj.</Title>
       <Forenames>R. S.</Forenames>
-      <Text>, T.D. (trd. to T.F.R. Gen. List, Yeo., from Fife &amp; Forfar Yeo.)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>6364</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -84,7 +89,9 @@
       <Key>Napier</Key>
       <Title>Capt.</Title>
       <Forenames>Frederick Lewis</Forenames>
-      <Text>, M.B. (trd. to Gen. List, R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5801</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -137,7 +144,11 @@
     <MainItem>
       <Key>Needham</Key>
       <Title>Maj.</Title>
-      <Text>(D.A.A. and Q.M.G., 42nd E. Lanes. Divn.) A. O., O.B.E., M.C. (Bt. Lt.Col., 7th Bn., Lan. Fus.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6363</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -181,7 +192,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Nesbitt</Key>
-      <Text>. Capt. R. DA. (trd. to T.F.R. Regtl. L'st, Infy., from 7th Bn., The King's R.)</Text>
+      <Title>Capt.</Title>
+      <Forenames>R.</Forenames>
+      <Text>DA. (trd. to T.F.R. Regtl. L'st, Infy., from 7th Bn., The King's R.)</Text>
       <PageNumber>7433</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -295,7 +308,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>F. J.</Forenames>
-      <Text>, M.C. (resigns commn., and granted rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6734</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -328,7 +343,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>R. S.</Forenames>
-      <Text>, M.C. (trd. to T.F.R. Regtl. List, R.C. of Sigs., from T.F.R.,Infy.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6369</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -337,7 +354,9 @@
       <Key>Nicholl</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>W.</Forenames>
-      <Text>, T.D. (retired, having attained the age limit, and retains rank of Lt.-Col., with permission to wear prescribed uniform)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>7220</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -379,7 +398,9 @@
       </Key>
       <Title>Lt.-Col.</Title>
       <Forenames>J. H.</Forenames>
-      <Text>, T.D. (retired, having attained the age limit, and retains rank of Lt.-Col., with permission to wear prescribed uniform)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>6273</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -390,7 +411,9 @@
       </Key>
       <Title>Cnpt.</Title>
       <Forenames>K. I</Forenames>
-      <Text>!., M.C. (Capt. (69th (W. Hid.) Bde., R.F.A.), T.F.R. Regtl. List, R.A.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6756</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -401,7 +424,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>R.</Forenames>
-      <Text>, T.D. (retired, having attained the age limit, and retains rank, with permission to wear prescribed uniform)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>7751</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -423,7 +448,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>W. I.</Forenames>
-      <Text>, M.C. (Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7449</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -449,7 +476,9 @@
       <Key>Xoad</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>W. C</Forenames>
-      <Text>, T.D. (retired, having attained the age limit, and retains rank of Lt.Col., with permission to wear prescribed uniform)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>5543</PageNumber>
     </MainItem>
   </ItemGroup>

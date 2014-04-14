@@ -12,7 +12,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Clarkso</Key>
-      <Text>.i, temp. Lt. George A., F. R.C.S. (rel. commn. and . retains rank of Lt.)</Text>
+      <Text>i, temp. Lt. George A., F. R.C.S. (rel. commn. and . retains rank of Lt.)</Text>
       <PageNumber>9018</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -158,7 +158,9 @@
       <Key>Clay</Key>
       <Title>temp. Capt.</Title>
       <Forenames>F. S.</Forenames>
-      <Text>, O.B.E. (rel. commn. on completion of service and retains rank of Capt.) ,</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>9222</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -169,7 +171,9 @@
       </Key>
       <Title>temp. Qrmr. and Lt.</Title>
       <Forenames>J.</Forenames>
-      <Text>, M.C. (rel; commn. on completion of service and reV tains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9990</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -311,7 +315,9 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>H. R.</Forenames>
-      <Text>, M.C. (rel. commn. on completion of service and retains rank of Ltl)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10016</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -437,7 +443,9 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>E.</Forenames>
-      <Text>, M.C. (rel. commn. on completion of service and granted rank of Capt,)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8811</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -459,7 +467,9 @@
       </Key>
       <Title>temp. Qrmr. and Lt.</Title>
       <Forenames>F. J.</Forenames>
-      <Text>, M.B.E. (rel. commn. on crampletion of service and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>9761</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -502,7 +512,9 @@
       </Key>
       <Title>temp. Qrmr. and Lt.</Title>
       <Forenames>W. J.</Forenames>
-      <Text>, M.B.E. (rel. commn. on completion of service and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>9990</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -520,14 +532,20 @@
       <Key>Clemson</Key>
       <Title>Col. (Hon. Brig.-Gen.)</Title>
       <Forenames>W. F.</Forenames>
-      <Text>, C.Ai.G., D.S.O. (ceases to belong to Reg. Army, Res. of Uff., having attained age limit of liability to recall)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>10690</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Clendining</Key>
-      <Text>. temp. Maj. H., D.S.O. (rel. commn. on completion of service and.retains rank of Maj.)</Text>
+      <Title>temp. Maj.</Title>
+      <Forenames>H.</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8040</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -627,7 +645,9 @@
       </Key>
       <Title>Col. (Hon. Brig.-Gen.)</Title>
       <Forenames>W. R.</Forenames>
-      <Text>, C.B.E. (ceases to belong to Res. of Off., having attained the age limit of liability to recall)</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>8175</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -653,7 +673,9 @@
       <Key>Clilverd</Key>
       <Title>temp. Lt.</Title>
       <Forenames>R. E.</Forenames>
-      <Text>, M.C. (rel. commn-on completion of service and granted rank of Capt,)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7952</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -662,7 +684,9 @@
       <Key>Clinton</Key>
       <Title>Lt.</Title>
       <Forenames>L. S.</Forenames>
-      <Text>, M.C. (placed on h.p. list on reduction of estabt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9428</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -671,7 +695,9 @@
       <Key>Clist</Key>
       <Title>temp. Lt.</Title>
       <Forenames>L. F.</Forenames>
-      <Text>, M.C. (rel. commn. on completion of fervice and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8692</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -680,7 +706,9 @@
       <Key>Clively</Key>
       <Title>temp. Maj.</Title>
       <Forenames>R. C</Forenames>
-      <Text>, M.C. (rel. commn. on completion of service and retains rank of Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8041</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -698,7 +726,9 @@
       <Key>Clokey</Key>
       <Title>temp. Maj.</Title>
       <Forenames>E. H.</Forenames>
-      <Text>, M.C. (rel. commn. on completion of service and retains rank . of Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8041</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -718,7 +748,9 @@
       </Key>
       <Title>Col.</Title>
       <Forenames>G. D.</Forenames>
-      <Text>, C.B. (retires on ret. pay and granted hon. rank of Brig.-Gen.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>10690</PageNumber>
     </MainItem>
   </ItemGroup>

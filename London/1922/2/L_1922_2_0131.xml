@@ -6,7 +6,9 @@
       <Key>Bond</Key>
       <Title>Comdr.</Title>
       <Forenames>Thomas A.</Forenames>
-      <Text>, D.S.O. (retd.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4719</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -30,7 +32,9 @@
       <Key>Willis</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Richard</Forenames>
-      <Text>ff., C.B. (placed on half pay)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>4921</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -58,7 +62,9 @@
       <Key>Graham</Key>
       <Title>Col.</Title>
       <Forenames>Hamilton M. C. W.</Forenames>
-      <Text>, C.M.G. (Maj.-Gen.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>2813</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -75,7 +81,9 @@
       <Key>Trotman</Key>
       <Title>Maj.-Gen. Sir Chas.</Title>
       <Forenames>N.</Forenames>
-      <Text>, K.C.B. (Lt, Gen.)</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+      </Text>
       <PageNumber>2818</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -93,7 +101,9 @@
       <Key>Huntingford</Key>
       <Title>Maj.</Title>
       <Forenames>Walter L.</Forenames>
-      <Text>, C.B.E. (borne supy. to estabt. on return from the Seed. List)</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>4642</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -112,7 +122,9 @@
       <Key>Cooke</Key>
       <Title>Capt. and Bt. Maj.</Title>
       <Forenames>Theo-</Forenames>
-      <Text>dore F. V., D.S.O. (on return to Corps from half pay to bo borne supy. to estabt. until absorbed)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3329</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -121,7 +133,10 @@
       <Key>Evans</Key>
       <Title>Maj. (supv.)</Title>
       <Forenames>Arthur K.</Forenames>
-      <Text>, O.B.E., M.C. (absorbed in estabt.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3522</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -130,7 +145,9 @@
       <Key>Flower</Key>
       <Title>Capt.</Title>
       <Forenames>John E.</Forenames>
-      <Text>, C.G.M. (supy. to estabt, on acc. of age)</Text>
+      <Text>
+        <Honour>C.G.M.</Honour>
+      </Text>
       <PageNumber>2727</PageNumber>
     </MainItem>
     <SubItem>
@@ -150,7 +167,9 @@
       <Key>Little</Key>
       <Title>Lt.-Col. (supy.)</Title>
       <Forenames>Arthur G.</Forenames>
-      <Text>, C.M.G. (absorbed in estabt.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>3522</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -159,11 +178,13 @@
       <Key>Malcolm</Key>
       <Title>Maj. (supy.)</Title>
       <Forenames>Pulteney W.</Forenames>
-      <Text>, O.B.E. (absorbed in estabt,)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3522</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Seed, whilst holding a special appt.</Text>
+      <Text>Seed, whilst holding a special appt</Text>
       <PageNumber>4642</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -171,8 +192,11 @@
     <MainItem>
       <Key>Morford</Key>
       <Title>Capt.</Title>
-      <Forenames>Albert C. St</Forenames>
-      <Text>. Clair, M.C., see St. Clair Morford, Capt, Albert C. M.C. Mugridge, Lt. Edward C. (placed on retd. list at own request and apptd. to Res. of Off., R.M., in rank last held on active list)</Text>
+      <Forenames>Albert C. St. Clair</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4473</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -192,7 +216,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Roberts</Key>
-      <Text>Capt John W. (placed on retd. list at own request and apptd. to Res. of Offrs., R.M., in rank last held on Active list)</Text>
+      <Forenames>Capt John W.</Forenames>
+      <Text>(placed on retd. list at own request and apptd. to Res. of Offrs., R.M., in rank last held on Active list)</Text>
       <PageNumber>4642</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -206,8 +231,12 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>Clair-Morford, Capt. Albert C, M.C. (seed, for service with Egyptian Army)</Text>
+      <Key>St. Clair-Morford</Key>
+      <Title>Capt.</Title>
+      <Forenames>Albert C</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2727</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -277,7 +306,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Adams</Key>
-      <Text>Flight Lt, Paul. O.B.E. (Sqdn. Leader)</Text>
+      <Title>Flight</Title>
+      <Forenames>Lt</Forenames>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4942</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -302,14 +335,18 @@
   <ItemGroup>
     <MainItem>
       <Key>Allen</Key>
-      <Text>Flying Offr. Joseph Alexander (placed on ret. list on acc. of ill-health contracted in the service and granted rank of Capt.)</Text>
+      <Forenames>Flying Offr</Forenames>
+      <Text>. Joseph Alexander (placed on ret. list on acc. of ill-health contracted in the service and granted rank of Capt.)</Text>
       <PageNumber>2935</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Ankers</Key>
-      <Text>Flying Offr. Burton, D.C.M. (restd. to full pay from half pay)</Text>
+      <Forenames>Flying Offr</Forenames>
+      <Text>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>3523</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -326,7 +363,10 @@
       <Key>Arnold</Key>
       <Title>Flight Lt.</Title>
       <Forenames>Anthonv Rex</Forenames>
-      <Text>, D.S.C., D.F.C. (Sqdn. Leader)</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>4942</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -374,14 +414,19 @@
   <ItemGroup>
     <MainItem>
       <Key>Atkinson</Key>
-      <Text>Pilot Offr. Arthur Edward Lennox Scott, see ScottAtkinson, Pilot Offr. Arthur Edward Lennox. Babington, Sqdn. Leader John Tremayne, D.S.O. (Wing Comdr.)</Text>
+      <Forenames>Pilot Offr</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4942</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Baldwin</Key>
-      <Text>Fit. Lt. Charles William Tressider (rel. temp, commn. on ceasing to be empld., and retains rank of Capt,)</Text>
+      <Title>Fit. Lt.</Title>
+      <Forenames>Charles William Tressider</Forenames>
+      <Text>(rel. temp, commn. on ceasing to be empld., and retains rank of Capt,)</Text>
       <PageNumber>3091</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -406,7 +451,9 @@
       <Key>Barnaby</Key>
       <Title>Flight Lt.</Title>
       <Forenames>Hazen Ottis</Forenames>
-      <Text>, M.B.E. (trd. to Reserve, Cl. B)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>4478</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -464,7 +511,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Baugh</Key>
-      <Text>Pilot Offr. Robert Edward (Flying Offr.)</Text>
+      <Forenames>Pilot Offr</Forenames>
+      <Text>. Robert Edward (Flying Offr.)</Text>
       <PageNumber>4648</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -515,7 +563,9 @@
     <MainItem>
       <Key>Bettington</Key>
       <Forenames>Wing Cdr</Forenames>
-      <Text>. Arthur Vere, C.M.G. (placed on half pay, Scale A)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>3342</PageNumber>
     </MainItem>
     <SubItem>
@@ -547,7 +597,9 @@
     <MainItem>
       <Key>Blomfield</Key>
       <Forenames>Wing Cdr</Forenames>
-      <Text>. Richard Graham, D.S.O. (trd. from half pay Scale A to Scale B)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3962</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -580,7 +632,9 @@
       <Key>Bottomley</Key>
       <Title>Flight Lt.</Title>
       <Forenames>Norman Howard</Forenames>
-      <Text>, A.F.C. (Sqdn. Leader)</Text>
+      <Text>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>4942</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -604,7 +658,9 @@
     <MainItem>
       <Key>Bourke</Key>
       <Forenames>Group</Forenames>
-      <Text>Capt. Ulick John Deane, C.M.G. (restd. to full pay from half pay)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>2819</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -643,7 +699,10 @@
     <MainItem>
       <Key>Brierley</Key>
       <Forenames>Wing Cdr</Forenames>
-      <Text>. (Lt.-Col., R.A.) Geoffrey Teale, C.M.G., D.S.O. (rel. temp, commn. on return to Army duty)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3236</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -661,7 +720,9 @@
       <Key>Brown</Key>
       <Title>Flight Lt.</Title>
       <Forenames>Arthur James</Forenames>
-      <Text>, D.S.O. (granted short serv. commn.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4649</PageNumber>
     </MainItem>
   </ItemGroup>

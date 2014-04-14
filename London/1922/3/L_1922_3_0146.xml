@@ -234,7 +234,9 @@
     <MainItem>
       <Key>Palfreman</Key>
       <Forenames>Edwin</Forenames>
-      <Text>, O.B.E</Text>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>5019</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -250,7 +252,9 @@
     <MainItem>
       <Key>Phillips</Key>
       <Forenames>Edward C</Forenames>
-      <Text>, D.S.C. (at own request)</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>6296</PageNumber>
     </MainItem>
     <SubItem>
@@ -344,7 +348,9 @@
     <MainItem>
       <Key>Shaw</Key>
       <Forenames>Arthur L.</Forenames>
-      <Text>, D.S.C. (at own request)</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>6375</PageNumber>
       <PageNumber>6440</PageNumber>
     </MainItem>
@@ -666,7 +672,9 @@
     <MainItem>
       <Key>Batten</Key>
       <Forenames>John T.</Forenames>
-      <Text>, M.B.E. (at own request)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>5607</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -724,7 +732,9 @@
     <MainItem>
       <Key>Dailey</Key>
       <Forenames>Frederick E.</Forenames>
-      <Text>, D.S.C. (at own request)</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>6576</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -732,7 +742,10 @@
     <MainItem>
       <Key>Egford</Key>
       <Forenames>George H.</Forenames>
-      <Text>, M.B.E., D.S.C</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+        <Honour>D.S.C</Honour>
+      </Text>
       <PageNumber>6094</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -906,7 +919,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Turnbull</Key>
-      <Text>John (at own request)</Text>
+      <Forenames>John</Forenames>
+      <Text>(at own request)</Text>
       <PageNumber>5607</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -921,7 +935,9 @@
     <MainItem>
       <Key>Venning</Key>
       <Forenames>William H.</Forenames>
-      <Text>, D.S.C</Text>
+      <Text>
+        <Honour>D.S.C</Honour>
+      </Text>
       <PageNumber>6094</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1010,7 +1026,9 @@
     <MainItem>
       <Key>Eddy</Key>
       <Forenames>Charles</Forenames>
-      <Text>, M.B.E. (at own request)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>5776</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1032,8 +1050,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donnell, Hugh</Text>
+      <Key>O'Donnell</Key>
+      <Forenames>Hugh</Forenames>
       <PageNumber>6094</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1155,7 +1173,9 @@
     <MainItem>
       <Key>Jeans</Key>
       <Forenames>Thomas T.</Forenames>
-      <Text>, C.M.G., M.B</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>6577</PageNumber>
     </MainItem>
     <SubItem>
@@ -1167,7 +1187,9 @@
     <MainItem>
       <Key>Parker</Key>
       <Forenames>Frederick W.</Forenames>
-      <Text>, O.B.E</Text>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>6710</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1175,7 +1197,9 @@
     <MainItem>
       <Key>Stalkartt</Key>
       <Forenames>Walter H. S.</Forenames>
-      <Text>, M.D., F.R.C.S</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>6375</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1184,7 +1208,9 @@
     <MainItem>
       <Key>Burniston</Key>
       <Forenames>Hugh S.</Forenames>
-      <Text>, C.M.G., M.B</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>5031</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1192,7 +1218,9 @@
     <MainItem>
       <Key>Jeans</Key>
       <Forenames>Thomas T.</Forenames>
-      <Text>, C.M.G.. M.B</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>5031</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1223,8 +1251,8 @@
   <SubSubSectionTitle>Retired List</SubSubSectionTitle>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Malley, Edward D. J</Text>
+      <Key>O'Malley</Key>
+      <Forenames>Edward D. J.</Forenames>
       <PageNumber>6839</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1269,7 +1297,7 @@
       <PageNumber>5776</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Sub. Not</Text>
+      <Text>Sub. Not.</Text>
       <PageNumber>6375</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1350,7 +1378,10 @@
     <MainItem>
       <Key>Lawford</Key>
       <Forenames>Vincent A.</Forenames>
-      <Text>, C.M.G., D.S.O. (at own request)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5278</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1394,7 +1425,9 @@
     <MainItem>
       <Key>Gillespy</Key>
       <Forenames>John W. E.</Forenames>
-      <Text>, O.B.E</Text>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>6710</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1402,7 +1435,9 @@
     <MainItem>
       <Key>Richardson</Key>
       <Forenames>Hugh M.</Forenames>
-      <Text>, O.B.E</Text>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>5960</PageNumber>
     </MainItem>
   </ItemGroup>

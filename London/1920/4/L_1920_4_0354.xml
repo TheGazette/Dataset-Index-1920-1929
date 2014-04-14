@@ -219,7 +219,9 @@
     <MainItem>
       <Key>Roose</Key>
       <Title>Capt.</Title>
-      <Text>GIT. B., O.B.E. (resigns commn. and retains rank of Capt,) :</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>10843</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -255,7 +257,9 @@
       <Key>Rosen</Key>
       <Title>Lt.</Title>
       <Forenames>W</Forenames>
-      <Text>:, M.C. (trd. to T.F.R,, Ihfy., from 4th Bn., London R;)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>11206</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -349,7 +353,9 @@
       <Key>Rowe</Key>
       <Title>Capt.</Title>
       <Forenames>B.</Forenames>
-      <Text>W., M.C. (trd: to TiF.R;, . Irify., from Gambridge R.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>11791</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -360,7 +366,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>E.</Forenames>
-      <Text>, M.C. (trd. to 4th Co. of Ldn:-Armrd. Car Co. from 2nd Co. of Ldn. Yeo.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>11899</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -405,7 +413,9 @@
       <PageNumber>12379</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>M.D. (Maj.) ... '(Lt.) :.:</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>11215</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -436,7 +446,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>J.</Forenames>
-      <Text>, M.C.' (trd. to Gen. List, late Spec. Res.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9681</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -500,7 +512,9 @@
     <MainItem>
       <Key>Royds</Key>
       <Forenames>Capt</Forenames>
-      <Text>, A. F., T.D. (trd. to T.F.R., Infy., from 28th Bn., London R.)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>11913</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -558,7 +572,9 @@
       <Key>Rudd</Key>
       <Title>Maj.</Title>
       <Forenames>H. R.</Forenames>
-      <Text>, T.D. (trd. to T.F.R., Infy., from 4th Bn., Norfolk R.)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>10588</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -621,7 +637,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Rushworth</Key>
-      <Text>.Lt. T., M.C. (trd. to T.F.R,, Infy., from 7th Bn., Durh. L.I.) ,</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10952</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -885,7 +903,8 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>Quintin, Lt. R.. G(resigns commn. and retains rank of Lt.)</Text>
+      <Forenames>Quintin</Forenames>
+      <Text>, Lt. R.. G(resigns commn. and retains rank of Lt.)</Text>
       <PageNumber>10383</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -912,7 +931,10 @@
       <Key>Sallis</Key>
       <Title>Qrmr. and Maj.</Title>
       <Forenames>D.</Forenames>
-      <Text>, O.B.E.. T.D. (retires, having attained the age limit for retirement and retains rank)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>10400</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -942,7 +964,9 @@
       <PageNumber>11075</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>late M.G.C.)</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>12379</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -951,7 +975,9 @@
       <Key>Salt</Key>
       <Title>Maj.</Title>
       <Forenames>C. J.</Forenames>
-      <Text>, M.C. (trd. to 2nd from 3rd North Midland Bde.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10726</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -972,7 +998,9 @@
       </Key>
       <Title>2nd Lt.</Title>
       <Forenames>W. H.</Forenames>
-      <Text>, M.M. (Lt.)</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>10951</PageNumber>
     </MainItem>
   </ItemGroup>

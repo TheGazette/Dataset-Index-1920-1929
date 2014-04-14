@@ -241,7 +241,9 @@
       <Key>Newton-Davis</Key>
       <Title>Capt.</Title>
       <Forenames>C</Forenames>
-      <Text>, M.C., M.B. (Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5039</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -273,8 +275,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan, temp. Capt. A. J. (rel. temp, commn.)</Text>
+      <Key>O'Sullivan</Key>
+      <Title>temp. Capt.</Title>
+      <Forenames>A. J.</Forenames>
+      <Text>(rel. temp, commn.)</Text>
       <PageNumber>5284</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -345,7 +349,9 @@
       <Key>Ramsay</Key>
       <Title>Capt.</Title>
       <Forenames>G. A. S.</Forenames>
-      <Text>, M.D. (resigns commn. )</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>6718</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -470,9 +476,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Reenan</Forenames>
-      <Text>, Capt. (actg. Lt.-Col.) J. W., M.B. (rel. actg. rank on ceasing to comd. a Combined Casualty Clearing Station)</Text>
+      <Key>Van Reenan</Key>
+      <Title>Capt. (actg. Lt.-Col.)</Title>
+      <Forenames>J. W.</Forenames>
+      <Text>, M.B. (rel. actg. rank on ceasing to comd. a Combined Casualty Clearing Station)</Text>
       <PageNumber>5209</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -510,7 +517,9 @@
     <MainItem>
       <Key>Baker</Key>
       <Title>Eng. Lt.</Title>
-      <Text>-Cdr. A. H., O.B.E. (Eng. Cdr.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>6586</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -519,7 +528,9 @@
       <Key>Balfour</Key>
       <Title>Capt.</Title>
       <Forenames>A</Forenames>
-      <Text>; S., O.B.E. (retirement)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>6101</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -557,7 +568,9 @@
       <Key>Constable</Key>
       <Title>Engr. Capt.</Title>
       <Forenames>W. C</Forenames>
-      <Text>, O.B.E. (retirement)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>5210</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -586,11 +599,13 @@
       <Key>Hamilton</Key>
       <Title>Capt.</Title>
       <Forenames>A.</Forenames>
-      <Text>, D.S.O. (retirement)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6389</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Corr</Text>
+      <Text>Corr.</Text>
       <PageNumber>6718</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -606,7 +621,9 @@
     <MainItem>
       <Key>Hindman</Key>
       <Title>Eng. Lt.</Title>
-      <Text>-Cdr. G. H., D.S.O. (Eng. Cdr.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6586</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -615,7 +632,9 @@
       <Key>Kinck</Key>
       <Title>Lt. Comdr.</Title>
       <Forenames>A. G.</Forenames>
-      <Text>, D.S.O. (temp. Comdr., without pay of that rank, while Comdr. of the Yard, Bombay)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5437</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -704,7 +723,12 @@
       <Key>Madden</Key>
       <Title>Sir</Title>
       <Forenames>Charles E.</Forenames>
-      <Text>, Bt., G.C.B., G.C.V.O., K.C.M.G., LL.D</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>G.C.B.</Honour>
+        <Honour>G.C.V.O.</Honour>
+        <Honour>K.C.M.G.</Honour>
+      </Text>
       <PageNumber>6157</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -713,7 +737,9 @@
       <Key>Trewby</Key>
       <Title>Capt.</Title>
       <Forenames>George</Forenames>
-      <Text>, C.M.G., D.S.O</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>6092</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -723,7 +749,11 @@
       <Key>Baker</Key>
       <Title>Sir</Title>
       <Forenames>Lewis Clinton</Forenames>
-      <Text>K.C.V.O., C.B., C.B.E</Text>
+      <Text>
+        <Honour>K.C.V.O.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>C.B.E</Honour>
+      </Text>
       <PageNumber>5201</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -732,7 +762,9 @@
     <MainItem>
       <Key>Dampier</Key>
       <Forenames>Cecil F.</Forenames>
-      <Text>,C.M.G. (at own request)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>5201</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -741,7 +773,9 @@
     <MainItem>
       <Key>Brown</Key>
       <Forenames>Francis Clifton</Forenames>
-      <Text>, C.B., C.M.G</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>5201</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -757,7 +791,9 @@
     <MainItem>
       <Key>Hawksley</Key>
       <Forenames>James R. P.</Forenames>
-      <Text>, C.B., C. V.O</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>5961</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -765,7 +801,9 @@
     <MainItem>
       <Key>McClintock</Key>
       <Forenames>John W. L.</Forenames>
-      <Text>, C.B., D. S.O</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>5201</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -774,7 +812,10 @@
     <MainItem>
       <Key>Brown</Key>
       <Forenames>Francis Clifton</Forenames>
-      <Text>, C.B., C.M.G. (at own request)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>5201</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -782,7 +823,10 @@
     <MainItem>
       <Key>Hawksley</Key>
       <Forenames>James R. P.</Forenames>
-      <Text>; C.B., C.V.O. (at own request)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.V.O.</Honour>
+      </Text>
       <PageNumber>5961</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -790,7 +834,11 @@
     <MainItem>
       <Key>Hyde</Key>
       <Forenames>Richard</Forenames>
-      <Text>, C.B., C.B.E., M.V.O. (at own request)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.B.E.</Honour>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>5961</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -806,7 +854,9 @@
     <MainItem>
       <Key>Moorshead</Key>
       <Forenames>Herbert B.</Forenames>
-      <Text>, C.B.E</Text>
+      <Text>
+        <Honour>C.B.E</Honour>
+      </Text>
       <PageNumber>6092</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -821,7 +871,9 @@
     <MainItem>
       <Key>Whayman</Key>
       <Forenames>William N.</Forenames>
-      <Text>, C.B.E</Text>
+      <Text>
+        <Honour>C.B.E</Honour>
+      </Text>
       <PageNumber>6899</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -838,7 +890,9 @@
       <Key>Kingsnorth</Key>
       <Title>Sir</Title>
       <Forenames>Arthur F.</Forenames>
-      <Text>, K.C.B. (at own request)</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+      </Text>
       <PageNumber>5961</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -846,7 +900,9 @@
     <MainItem>
       <Key>McLaurin</Key>
       <Forenames>John</Forenames>
-      <Text>, C.B. (at own request)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>6839</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -872,7 +928,9 @@
     <MainItem>
       <Key>Binney</Key>
       <Forenames>Thomas H.</Forenames>
-      <Text>, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>5030</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -887,7 +945,9 @@
     <MainItem>
       <Key>Crabbe</Key>
       <Forenames>Lewis G. E.</Forenames>
-      <Text>, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>5030</PageNumber>
     </MainItem>
   </ItemGroup>
